@@ -49,7 +49,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial12_Hiro006|",
       "ja": "城ケ崎ノア……<br>君が犯人だ。",
       "zh": "城崎诺亚……<br>\n凶手就是你。",
-      "vi": "Kinosaki Nô-ê...... Kẻ giết người là bạn.",
+      "vi": "Kinosaki Noah...... Kẻ giết người là bạn.",
       "objection_links": []
     },
     {
@@ -119,7 +119,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah007|",
       "ja": "それにのあ以外の<br>他の人にだって、<br>アリバイないよね？",
       "zh": "然后呢，除了诺亚以外，<br>\n其他人不也<br>\n没有不在场证明嘛？",
-      "vi": "Sau đó, ngoại trừ Nô-ê, Những người khác cũng vậy Bạn không có bằng chứng ngoại phạm à?",
+      "vi": "Sau đó, ngoại trừ Noah, Những người khác cũng vậy Bạn không có bằng chứng ngoại phạm à?",
       "objection_links": []
     },
     {
@@ -127,7 +127,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial12_Hiro007|",
       "ja": "……それでも、<br>足跡を消すことができるのが<br>ノアだけという事実は<br>覆らない。",
       "zh": "……即便如此，<br>\n也推翻不了<br>\n只有诺亚<br>\n能清除脚印的事实。",
-      "vi": "...Kể cả vậy, Nó không thể bị lật ngược Chỉ có Nô-ê Sự thật có thể xóa dấu chân",
+      "vi": "...Kể cả vậy, Nó không thể bị lật ngược Chỉ có Noah Sự thật có thể xóa dấu chân",
       "objection_links": []
     },
     {
@@ -185,7 +185,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah013|",
       "ja": "パースも視点も……<br>全然合ってないと思うよ？",
       "zh": "在诺亚看来，<br>\n不管是透视还是焦点……<br>\n全都不对劲哦？",
-      "vi": "Theo Nô-ê, Cho dù đó là phối cảnh hay tiêu điểm... Mọi thứ đều sai?",
+      "vi": "Theo Noah, Cho dù đó là phối cảnh hay tiêu điểm... Mọi thứ đều sai?",
       "objection_links": []
     },
     {
@@ -241,7 +241,7 @@
       "speaker_tag": "; > @choice |#0203Trial12_Choice002| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
       "ja": "血糊はノアにしか用意できない",
       "zh": "只有诺亚能准备血浆",
-      "vi": "Chỉ có Nô-ê mới có thể điều chế được huyết tương",
+      "vi": "Chỉ có Noah mới có thể điều chế được huyết tương",
       "objection_links": []
     },
     {
@@ -257,7 +257,7 @@
       "speaker_tag": "; > @choice |#0203Trial12_Choice004| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
       "ja": "レイアは殺せないと証明する",
       "zh": "证明蕾雅不可能杀人",
-      "vi": "Chứng minh rằng Leya không thể giết ai",
+      "vi": "Chứng minh rằng Leia không thể giết ai",
       "objection_links": []
     },
     {
@@ -609,7 +609,7 @@
       "speaker_tag": "; > Noah: |#0203Trial12_Noah028|",
       "ja": "ならレイアちゃんがアンアンちゃんの死んだ時間を<br>偽装した可能性だってあるよ。",
       "zh": "那蕾雅就有可能<br>\n谎报安安的死亡时间了。",
-      "vi": "Vậy thì Leya có thể Nói dối về thời điểm AnAn qua đời.",
+      "vi": "Vậy thì Leia có thể Nói dối về thời điểm AnAn qua đời.",
       "objection_links": []
     },
     {
@@ -625,7 +625,7 @@
       "speaker_tag": "; > Noah: |#0203Trial12_Noah030|",
       "ja": "レイアちゃんの口からも聞きたいな？",
       "zh": "蕾雅也来说明一下嘛？",
-      "vi": "Leya cũng muốn giải thích?",
+      "vi": "Leia cũng muốn giải thích?",
       "objection_links": []
     },
     {
@@ -745,7 +745,7 @@
       "speaker_tag": "; > Noah: |#0203Trial12_Noah035|",
       "ja": "のあにしか……？",
       "zh": "只有诺亚……？",
-      "vi": "Chỉ có Nô-ê...?",
+      "vi": "Chỉ có Noah...?",
       "objection_links": []
     },
     {
@@ -817,7 +817,7 @@
       "speaker_tag": "; > Hiro: |#0203Trial12_Hiro047|",
       "ja": "アトリエにあったペンキ……<br>あれを管理していたのはノアだった。",
       "zh": "放置在画室里的油漆……<br>\n一直都是诺亚在管理。",
-      "vi": "Sơn được đặt trong studio... Nô-ê luôn là người chịu trách nhiệm.",
+      "vi": "Sơn được đặt trong studio... Noah luôn là người chịu trách nhiệm.",
       "objection_links": []
     },
     {
@@ -849,7 +849,7 @@
       "speaker_tag": "; > Hiro: |#0203Trial12_Hiro049|",
       "ja": "いったい何に使ったんだい？<br>ノア。",
       "zh": "你到底用它做了什么？<br>\n诺亚。",
-      "vi": "Chính xác thì bạn đã làm gì với nó? Nô-ê.",
+      "vi": "Chính xác thì bạn đã làm gì với nó? Noah.",
       "objection_links": []
     },
     {
@@ -881,7 +881,7 @@
       "speaker_tag": "; > Noah: |#0203Trial12_Noah037|",
       "ja": "……うん、わかった！",
       "zh": "……嗯，诺亚知道了！",
-      "vi": "...Chà, Nô-ê biết!",
+      "vi": "...Chà, Noah biết!",
       "objection_links": []
     },
     {
@@ -961,7 +961,7 @@
       "speaker_tag": "; > Noah: |#0203Trial12_Noah044|",
       "ja": "のあ、ヒロちゃんがアンアンちゃんを<br>突き落としているところを見たんだ。",
       "zh": "诺亚看到了<br>\n希罗把安安推下楼的一幕。",
-      "vi": "Nô-ê đã nhìn thấy Cảnh Hiro đẩy AnAn xuống tầng dưới.",
+      "vi": "Noah đã nhìn thấy Cảnh Hiro đẩy AnAn xuống tầng dưới.",
       "objection_links": []
     },
     {
@@ -993,7 +993,7 @@
       "speaker_tag": "; > Noah: |#0203Trial12_Noah047|",
       "ja": "のあはね……ヒロちゃんが犯人だって告発するよ。",
       "zh": "诺亚要指控希罗……希罗就是杀人凶手。",
-      "vi": "Nô-ê muốn buộc tội Anh hùng... Anh hùng đó là kẻ giết người.",
+      "vi": "Noah muốn buộc tội Anh hùng... Anh hùng đó là kẻ giết người.",
       "objection_links": []
     },
     {

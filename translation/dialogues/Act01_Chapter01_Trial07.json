@@ -61,7 +61,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0101Trial07_Margo001|",
       "ja": "あら、<br>それなら就寝時間前に<br>ノアちゃんの部屋に<br>忍び込んでおけば<br>問題ないんじゃないかしら。",
       "zh": "哎呀，<br>\n那只要在就寝时间之前<br>\n偷偷藏在<br>\n诺亚的房间里，<br>\n应该就没问题了吧。",
-      "vi": "Rất tiếc, Sau đó, ngay trước khi đi ngủ Ẩn bí mật trong Trong phòng của Nô-ê, Điều đó sẽ không có vấn đề gì.",
+      "vi": "Rất tiếc, Sau đó, ngay trước khi đi ngủ Ẩn bí mật trong Trong phòng của Noah, Điều đó sẽ không có vấn đề gì.",
       "objection_links": []
     },
     {
@@ -85,7 +85,7 @@
       "speaker_tag": "; > @printDebate pos:37,52 roll:-4 |#0101Trial07_Coco007|",
       "ja": "つまりノアを殺せるのは<br>就寝時間に<link=\"Objection_01_01_07_04\">アリバイがない</link>……<br><link=\"Objection_01_01_07_05\">医務室のアンアン</link>か、<br><link=\"Objection_01_01_07_06\">１人部屋のエマっち</link>の<br>どっちかなんだよ！",
       "zh": "也就是说，能杀害诺亚的，<br>\n只有在就寝时间时<br>\n<link=\"Objection_01_01_07_04\">没有不在场证明</link>的……<br>\n<link=\"Objection_01_01_07_05\">在医务室的安安</link>，<br>\n<link=\"Objection_01_01_07_06\">还有单人间的艾玛亲</link>，<br>\n你们其中的一个！",
-      "vi": "Nói cách khác, người có thể giết Noah, Chỉ khi đi ngủ <link=\"Objection_01_01_07_04\">Không có bằng chứng ngoại phạm nào cho </link>... <link=\"Objection_01_01_07_05\">An'an ở bệnh xá</link>, <link=\"Objection_01_01_07_06\"> và phòng đơn của Ema </link>, Một trong số các bạn!",
+      "vi": "Nói cách khác, người có thể giết Noah, Chỉ khi đi ngủ <link=\"Objection_01_01_07_04\">Không có bằng chứng ngoại phạm nào cho </link>... <link=\"Objection_01_01_07_05\">AnAn ở bệnh xá</link>, <link=\"Objection_01_01_07_06\"> và phòng đơn của Ema </link>, Một trong số các bạn!",
       "objection_links": [
         "Objection_01_01_07_04",
         "Objection_01_01_07_05",
@@ -137,7 +137,7 @@
       "speaker_tag": "; > @choice |#0101Trial07_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ノアは絵を描いてない",
       "zh": "诺亚没在画画",
-      "vi": "Nô-ê không vẽ",
+      "vi": "Noah không vẽ",
       "objection_links": []
     },
     {
@@ -153,7 +153,7 @@
       "speaker_tag": "; > @choice |#0101Trial07_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ノアは足音を立てていない",
       "zh": "诺亚没有发出脚步声",
-      "vi": "Nô-ê không tạo ra tiếng bước chân",
+      "vi": "Noah không tạo ra tiếng bước chân",
       "objection_links": []
     },
     {
@@ -161,7 +161,7 @@
       "speaker_tag": "; > @choice |#0101Trial07_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ノアは元気ではなかった",
       "zh": "诺亚当时精神不好",
-      "vi": "Lúc đó Nô-ê không có tinh thần tốt",
+      "vi": "Lúc đó Noah không có tinh thần tốt",
       "objection_links": []
     },
     {
@@ -201,7 +201,7 @@
       "speaker_tag": "; > Ema: |#0101Trial07_Ema004|",
       "ja": "ノアちゃんはその時、絵を描いてないはずだよ……！",
       "zh": "诺亚当时应该没在画画才对……！",
-      "vi": "Lúc đó chắc Nô-ê chưa vẽ...!",
+      "vi": "Lúc đó chắc Noah chưa vẽ...!",
       "objection_links": []
     },
     {
@@ -265,7 +265,7 @@
       "speaker_tag": "; > Ema: |#0101Trial07_Ema009|",
       "ja": "ノアちゃんはその時、元気がなかったはず……。",
       "zh": "诺亚当时应该没什么精神才对……",
-      "vi": "Lúc đó chắc hẳn Nô-ê đang có tâm trạng chán nản...",
+      "vi": "Lúc đó chắc hẳn Noah đang có tâm trạng chán nản...",
       "objection_links": []
     },
     {
@@ -553,7 +553,7 @@
       "speaker_tag": "; > Ema: |#0101Trial07_Ema030|",
       "ja": "ノアちゃんはその時、足音を立てていないはず……。",
       "zh": "诺亚她当时应该没发出脚步声才对……",
-      "vi": "Có lẽ lúc đó Nô-ê không hề có tiếng bước chân nào cả...",
+      "vi": "Có lẽ lúc đó Noah không hề có tiếng bước chân nào cả...",
       "objection_links": []
     },
     {
@@ -993,7 +993,7 @@
       "speaker_tag": "; > @choice |#0101Trial07_Choice008|",
       "ja": "ノアは早朝に殺された",
       "zh": "诺亚是在清晨遇害的",
-      "vi": "Nô-ê bị giết vào sáng sớm",
+      "vi": "Noah bị giết vào sáng sớm",
       "objection_links": []
     },
     {
@@ -1001,7 +1001,7 @@
       "speaker_tag": "; > @choice |#0101Trial07_Choice009|",
       "ja": "深夜にノアの部屋に入れた者はいない",
       "zh": "深夜时没人能进诺亚的房间",
-      "vi": "Không ai có thể vào phòng Nô-ê vào đêm khuya",
+      "vi": "Không ai có thể vào phòng Noah vào đêm khuya",
       "objection_links": []
     },
     {
@@ -1153,7 +1153,7 @@
       "speaker_tag": "; > Sherry: |#0101Trial07_Sherry001|",
       "ja": "ノアさんの部屋には朝まで誰も侵入できず、<br>死体は朝に発見された……。",
       "zh": "到早上为止没人能侵入诺亚的房间，<br>\n而尸体是早上被发现的……",
-      "vi": "Không ai có thể xâm chiếm phòng của Nô-ê cho đến sáng, Thi thể được phát hiện vào buổi sáng...",
+      "vi": "Không ai có thể xâm chiếm phòng của Noah cho đến sáng, Thi thể được phát hiện vào buổi sáng...",
       "objection_links": []
     },
     {
@@ -1161,7 +1161,7 @@
       "speaker_tag": "; > Sherry: |#0101Trial07_Sherry002|",
       "ja": "つまりノアさんは、<br>【昨夜の時点で死んでいた】という<br>ことですね～！",
       "zh": "也就是说，<br>\n诺亚她<br>\n【在昨晚就已经死掉了】～！",
-      "vi": "Tức là Nô-ê cô [Anh ấy đã chết đêm qua]~!",
+      "vi": "Tức là Noah cô [Anh ấy đã chết đêm qua]~!",
       "objection_links": []
     },
     {
@@ -1193,7 +1193,7 @@
       "speaker_tag": "; > Miria: |#0101Trial07_Miria005|",
       "ja": "本当にノアちゃんのご遺体……<br>スルーしちゃってたんだね……。",
       "zh": "我们真的漏发现……<br>\n诺亚的遗体了啊……",
-      "vi": "Chúng Miria thực sự đã bỏ lỡ khám phá này... Cơ thể của Nô-ê ở đây...",
+      "vi": "Chúng Miria thực sự đã bỏ lỡ khám phá này... Cơ thể của Noah ở đây...",
       "objection_links": []
     },
     {
@@ -1457,7 +1457,7 @@
       "speaker_tag": "; > Hanna: |#0101Trial07_Hanna003|",
       "ja": "……あのとき、ひとりになった人はいなかったと思いますわ。<br>わたくし、なんとか止めたくて皆さんの様子を見ていましたし。",
       "zh": "……我觉得那时应该没有人落单。<br>\n那时我也想劝架，在旁边观察着大家的情况。",
-      "vi": "...Bổn tiểu thư nghĩ không ai nên ở một Bổn tiểu thư vào thời điểm đó. Lúc đó Bổn tiểu thư cũng muốn giải tán cuộc chiến và quan sát tình hình của mọi ngươi từ một bên.",
+      "vi": "...Bổn tiểu thư nghĩ không ai nên ở một Bổn tiểu thư vào thời điểm đó. Lúc đó Bổn tiểu thư cũng muốn giải tán cuộc chiến và quan sát tình hình của mọi người từ một bên.",
       "objection_links": []
     },
     {
@@ -1481,7 +1481,7 @@
       "speaker_tag": "; > Hanna: |#0101Trial07_Hanna004|",
       "ja": "……あ、あら？ ならそのときも、<br>大半の人にアリバイがあるということですわね……？<br>なら誰が……。",
       "zh": "……啊、啊呀？这么说，当时有<br>\n一大半的人都有不在场证明欸……？<br>\n究竟还有谁可以行凶……",
-      "vi": "...À, à? Vì vậy, đã có vào thời điểm đó Hầu hết mọi ngươi đều có bằng chứng ngoại phạm...? Còn ai có thể phạm tội giết ngươi...",
+      "vi": "...À, à? Vì vậy, đã có vào thời điểm đó Hầu hết mọi người đều có bằng chứng ngoại phạm...? Còn ai có thể phạm tội giết ngươi...",
       "objection_links": []
     },
     {
@@ -1585,7 +1585,7 @@
       "speaker_tag": "; > Ema: |#0101Trial07_Ema073|",
       "ja": "レイアちゃんのこと……だよね？",
       "zh": "蕾雅……是你没错吧？",
-      "vi": "Leya...là bạn phải không?",
+      "vi": "Leia...là bạn phải không?",
       "objection_links": []
     },
     {
@@ -1673,7 +1673,7 @@
       "speaker_tag": "; > Leia: |#0101Trial07_Leia014|",
       "ja": "私たちが部屋を通ったとき、<br>ココくんはノアくんが<br>【まだ生きていた】と言っていた……。",
       "zh": "她说，<br>\n我们经过房间的时候<br>\n诺亚【还活着】……",
-      "vi": "Cô ấy nói, Khi chúng tôi đi ngang qua phòng Nô-ê [vẫn còn sống]…",
+      "vi": "Cô ấy nói, Khi chúng tôi đi ngang qua phòng Noah [vẫn còn sống]…",
       "objection_links": []
     },
     {
