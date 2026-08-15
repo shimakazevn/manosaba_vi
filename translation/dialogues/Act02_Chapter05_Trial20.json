@@ -17,7 +17,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial20_Alisa002|",
       "ja": "ウチらは魔女だ。<br><link=\"Objection_02_05_20_01\">呪われた子</link>だ。",
       "zh": "我们是魔女。<br>\n是<link=\"Objection_02_05_20_01\">受诅咒之子</link>。",
-      "vi": "Chúng Tao là phù thủy. <link=\"Objection_02_05_20_01\"> có phải là Đứa trẻ bị nguyền rủa </link>.",
+      "vi": "Chúng Tao là Ma Nữ. <link=\"Objection_02_05_20_01\"> có phải là Đứa trẻ bị nguyền rủa </link>.",
       "objection_links": [
         "Objection_02_05_20_01"
       ]
@@ -89,7 +89,7 @@
       "speaker_tag": "; > Hiro: |#0205Trial20_Hiro002|",
       "ja": "（このままでは大魔女を呼び出すまでもなく、全滅だ……！）",
       "zh": "（这样下去，不等召唤出大魔女，就要先全灭了……！）",
-      "vi": "(Nếu chuyện này tiếp tục, tất cả chúng ta sẽ bị xóa sổ trước khi mụ phù thủy vĩ đại được triệu hồi…!)",
+      "vi": "(Nếu chuyện này tiếp tục, tất cả chúng ta sẽ bị xóa sổ trước khi Ma Nữ vĩ đại được triệu hồi…!)",
       "objection_links": []
     },
     {
@@ -105,7 +105,7 @@
       "speaker_tag": "; > @choice |#0205Trial20_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
       "ja": "悪いのは大魔女だ",
       "zh": "错的是大魔女",
-      "vi": "Người sai là mụ phù thủy lớn",
+      "vi": "Người sai là Ma Nữ lớn",
       "objection_links": []
     },
     {
@@ -185,7 +185,7 @@
       "speaker_tag": "; > Hiro: |#0205Trial20_Hiro007|",
       "ja": "その呪いを残した諸悪の根源は、大魔女だ！",
       "zh": "留下那诅咒的万恶之源，是大魔女！",
-      "vi": "Nguồn gốc của mọi tội ác đã để lại lời nguyền đó chính là mụ phù thủy vĩ đại!",
+      "vi": "Nguồn gốc của mọi tội ác đã để lại lời nguyền đó chính là Ma Nữ vĩ đại!",
       "objection_links": []
     },
     {
@@ -193,7 +193,7 @@
       "speaker_tag": "; > Hiro: |#0205Trial20_Hiro008|",
       "ja": "みんな大魔女の悪意に操られて<br>罪を犯してしまっただけだ……！",
       "zh": "大家只是被大魔女的恶意操纵，<br>\n才犯下了罪行……！",
-      "vi": "Mọi người chỉ đang bị mụ phù thủy độc ác thao túng, Vừa phạm tội...!",
+      "vi": "Mọi người chỉ đang bị Ma Nữ độc ác thao túng, Vừa phạm tội...!",
       "objection_links": []
     },
     {
@@ -217,7 +217,7 @@
       "speaker_tag": "; > Alisa: |#0205Trial20_Alisa011|",
       "ja": "大魔女のせいでこうなってんだとしても、<br>実際に罪を犯したのはウチらだろーが！",
       "zh": "就算一切都是大魔女害的，<br>\n可实际犯罪的不还是我们吗！",
-      "vi": "Ngay cả khi mọi thứ đều do mụ phù thủy lớn gây ra, Nhưng không phải chúng ta là những người thực sự đã phạm tội sao?",
+      "vi": "Ngay cả khi mọi thứ đều do Ma Nữ lớn gây ra, Nhưng không phải chúng ta là những người thực sự đã phạm tội sao?",
       "objection_links": []
     },
     {
@@ -481,7 +481,7 @@
       "speaker_tag": "; > Alisa: |#0205Trial20_Alisa020|",
       "ja": "人だと……！？<br>ウチらは魔女だ！<br>もう人間じゃねぇ……！",
       "zh": "人！？<br>\n我们是魔女！<br>\n已经不是人类了……！",
-      "vi": "Mọi người! ? Chúng ta là phù thủy! Không còn là con người...!",
+      "vi": "Mọi người! ? Chúng ta là Ma Nữ! Không còn là con người...!",
       "objection_links": []
     },
     {

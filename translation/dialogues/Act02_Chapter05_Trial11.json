@@ -65,7 +65,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial11_Hiro005|",
       "ja": "……メルルの話では、<br>大魔女はその身を<br>魔女因子に変えた。",
       "zh": "……按照梅露露所说，<br>\n大魔女将自身<br>\n转化为了魔女因子。",
-      "vi": "...Theo những gì Meruru đã nói, Bản thân mụ phù thủy vĩ đại sẽ Biến thành nhân tố phù thủy.",
+      "vi": "...Theo những gì Meruru đã nói, Bản thân Ma Nữ vĩ đại sẽ Biến thành nhân tố phù thủy.",
       "objection_links": []
     },
     {
@@ -73,7 +73,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial11_Hiro006|",
       "ja": "なら、<br>大魔女を再び<br>この世に顕現させれば<br>その構成要素だった魔女因子が<br>還元されるはずだ。",
       "zh": "那么，<br>\n只要让大魔女<br>\n再次现身于世，<br>\n那构成她本质的魔女因子<br>\n应该就会得到复原。",
-      "vi": "Sau đó, Hãy để mụ phù thủy lớn Xuất hiện trở lại trên thế giới, Yếu tố Ma Nữ tạo nên bản chất của cô ấy Nó nên được phục hồi.",
+      "vi": "Sau đó, Hãy để Ma Nữ lớn Xuất hiện trở lại trên thế giới, Yếu tố Ma Nữ tạo nên bản chất của cô ấy Nó nên được phục hồi.",
       "objection_links": []
     },
     {
@@ -89,7 +89,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial11_Nanoka004|",
       "ja": "【魔女化させた少女を集めて、<br>大魔女を復活させる】……。",
       "zh": "【召集完成魔女化的少女，<br>\n令大魔女复活】……",
-      "vi": "【Kêu gọi những cô gái đã hoàn thành quá trình biến đổi phù thủy, Sự hồi sinh của phù thủy vĩ đại]...",
+      "vi": "【Kêu gọi những cô gái đã hoàn thành quá trình Ma Nữ Hóa, Sự hồi sinh của phù thủy vĩ đại]...",
       "objection_links": []
     },
     {
@@ -115,7 +115,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial11_Nanoka007|",
       "ja": "あなたもその大魔女とやらに<br><link=\"Objection_02_05_11_02\">操られている</link>だけ<br>じゃないの？",
       "zh": "你也不过是受那个所谓的大魔女<br>\n<link=\"Objection_02_05_11_02\">操控</link>的提线木偶罢了，<br>\n不是吗？",
-      "vi": "Bạn chỉ đang bị ảnh hưởng bởi cái gọi là phù thủy lớn <link=\"Objection_02_05_11_02\"> chỉ là một con rối điều khiển </link>, Phải không?",
+      "vi": "Bạn chỉ đang bị ảnh hưởng bởi cái gọi là Ma Nữ lớn <link=\"Objection_02_05_11_02\"> chỉ là một con rối điều khiển </link>, Phải không?",
       "objection_links": [
         "Objection_02_05_11_02"
       ]
@@ -141,7 +141,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial11_Nanoka008|",
       "ja": "大魔女を復活させて、<br><link=\"Objection_02_05_11_03\">お願い</link>でもするのかしら？",
       "zh": "那复活了大魔女又怎样？<br>\n难道你打算<link=\"Objection_02_05_11_03\">求</link>她发慈悲吗？",
-      "vi": "Vậy nếu mụ phù thủy vĩ đại sống lại thì sao? Bạn định <link=\"Objection_02_05_11_03\"> cầu xin </link> lòng thương xót của cô ấy phải không?",
+      "vi": "Vậy nếu Ma Nữ vĩ đại sống lại thì sao? Bạn định <link=\"Objection_02_05_11_03\"> cầu xin </link> lòng thương xót của cô ấy phải không?",
       "objection_links": [
         "Objection_02_05_11_03"
       ]
@@ -215,7 +215,7 @@
       "speaker_tag": "; > @choice |#0205Trial11_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
       "ja": "大魔女を倒す",
       "zh": "我要打倒大魔女",
-      "vi": "Tôi muốn đánh bại mụ phù thủy vĩ đại",
+      "vi": "Tôi muốn đánh bại Ma Nữ vĩ đại",
       "objection_links": []
     },
     {
@@ -335,7 +335,7 @@
       "speaker_tag": "; > Nanoka: |#0205Trial11_Nanoka015|",
       "ja": "大魔女が戯れに<br>私たちを泳がせているだけかもしれない。",
       "zh": "说不定大魔女只是玩心大发，<br>\n放任我们自由行动而已。",
-      "vi": "Có lẽ mụ phù thủy lớn chỉ đang vui thôi, Hãy để chúng tôi di chuyển tự do.",
+      "vi": "Có lẽ Ma Nữ lớn chỉ đang vui thôi, Hãy để chúng tôi di chuyển tự do.",
       "objection_links": []
     },
     {
@@ -383,7 +383,7 @@
       "speaker_tag": "; > Hiro: |#0205Trial11_Hiro026|",
       "ja": "大魔女は……私が倒す。",
       "zh": "大魔女……由我来打倒。",
-      "vi": "mụ phù thủy lớn... ta sẽ đánh bại ngươi.",
+      "vi": "Ma Nữ lớn... ta sẽ đánh bại ngươi.",
       "objection_links": []
     },
     {
@@ -415,7 +415,7 @@
       "speaker_tag": "; > Nanoka: |#0205Trial11_Nanoka021|",
       "ja": "それでどうやって大魔女を倒すというの？",
       "zh": "那你打算怎么用它打倒大魔女？",
-      "vi": "Vậy bạn dự định sử dụng nó như thế nào để đánh bại mụ phù thủy lớn?",
+      "vi": "Vậy bạn dự định sử dụng nó như thế nào để đánh bại Ma Nữ lớn?",
       "objection_links": []
     },
     {
@@ -463,7 +463,7 @@
       "speaker_tag": "; > Hiro: |#0205Trial11_Hiro031|",
       "ja": "私は必ず大魔女を倒す。",
       "zh": "我一定会打倒大魔女。",
-      "vi": "Tôi chắc chắn sẽ đánh bại mụ phù thủy vĩ đại.",
+      "vi": "Tôi chắc chắn sẽ đánh bại Ma Nữ vĩ đại.",
       "objection_links": []
     },
     {
@@ -527,7 +527,7 @@
       "speaker_tag": "; > Nanoka: |#0205Trial11_Nanoka026|",
       "ja": "大魔女の、力を。",
       "zh": "我看到了，大魔女的力量。",
-      "vi": "Tôi đã nhìn thấy sức mạnh của mụ phù thủy vĩ đại.",
+      "vi": "Tôi đã nhìn thấy sức mạnh của Ma Nữ vĩ đại.",
       "objection_links": []
     }
   ]
