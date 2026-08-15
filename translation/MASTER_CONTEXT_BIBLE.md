@@ -8,7 +8,7 @@ Tài liệu này là **ngữ cảnh chuẩn mực bắt buộc (Ground Truth)** 
 ## 📖 1. TỔNG QUAN BỐI CẢNH & CỐT TRUYỆN (LORE & STORY SYNOPSIS)
 
 ### Bối Cảnh Chính (Setting)
-* **Ngục Dinh Thự (牢屋敷 - Rouyashiki / Prison Manor):** Một tòa dinh thự cổ kính 500 năm tuổi nằm cô lập trên một hòn đảo giữa biển khơi, được bao quanh bởi bức tường rào ma pháp không thể phá hủy.
+* **Dinh Ngục (牢屋敷 - Rouyashiki / Prison Manor):** Một tòa dinh thự cổ kính 500 năm tuổi nằm cô lập trên một hòn đảo giữa biển khơi, được bao quanh bởi bức tường rào ma pháp không thể phá hủy.
 * **Yếu tố Ma Nữ (魔女因子 - Witch Factor):** Một mầm mống ma thuật bẩm sinh do Đại Phù Thủy gieo rắc khắp thế giới. Những người mang yếu tố này có tiềm năng sử dụng ma pháp và bị chính quyền bí mật kiểm tra, bắt giữ và đưa ra đảo ngục.
 * **Ma Nữ Hóa (魔女化 - Witch Transformation):** Khi người mang yếu tố ma nữ phải chịu đựng áp lực tinh thần, bạo lực hoặc stress cực độ, yếu tố ma nữ sẽ bị kích hoạt. Họ sẽ nảy sinh xung động sát nhân điên cuồng, móng tay mọc dài, ma lực bùng nổ và dần tha hóa.
 * **Tàn Tích Tha Hóa (なれはて - Narehate):** Trạng thái quái vật dị hình cuối cùng sau khi ma nữ hóa hoàn toàn. Những cá thể dễ thuần hóa sẽ bị tẩy não để trở thành **Cai Ngục (看守 - Jailer)** canh giữ nhà tù.
@@ -159,7 +159,7 @@ Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại t�
 | **魔女因子** | 魔女因子 | **Yếu tố Ma Nữ** | Mầm mống ma thuật bẩm sinh. |
 | **魔女化** | 魔女化 | **Ma Nữ Hóa** | Quá trình biến đổi thành quái vật. |
 | **なれはて** | 残骸 / 终末者 | **Tàn Tích Tha Hóa** | Quái vật ma nữ hoàn toàn. |
-| **牢屋敷** | 监牢 / 牢屋敷 | **Ngục Dinh Thự** | Khu nhà tù chính trên đảo. |
+| **牢屋敷** | 监牢 / 牢屋敷 | **Dinh Ngục** | Khu nhà tù chính trên đảo. |
 | **魔女裁判** | 魔女审判 | **Phiên Tòa Ma Nữ** | Tên phiên tòa phân xử vụ án. |
 | **議論** | 讨论 / 辩论 | **Tranh luận** | Pha tranh luận tìm mâu thuẫn. |
 | **処刑** | 处刑 | **Xử hình** | Nghi lễ tra tấn ép hóa ma nữ. |
@@ -185,7 +185,7 @@ Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại t�
 | **ゲストハウス前** | 招待所前 | **Trước Nhà Khách** |
 | **花畑方面** | 往花田方向 | **Hướng Vườn Hoa** |
 | **湖方面** | 往湖方向 | **Hướng Hồ Nước** |
-| **牢屋敷前** | 监牢入口 | **Cổng Ngục Dinh Thự** |
+| **牢屋敷前** | 监牢入口 | **Trước Dinh Ngục / Cổng Dinh Ngục** |
 | **焼却炉** | 焚烧炉 | **Lò Thiêu** |
 | **医務室** | 医务室 | **Phòng Y Tế** |
 | **厨房** | 厨房 | **Nhà Bếp** |

@@ -25,7 +25,7 @@ GLOSSARY = [
     (r"大魔女", "Đại Phù Thủy"),
     (r"魔女因子", "Yếu tố Ma Nữ"),
     (r"魔女化", "Ma Nữ Hóa"),
-    (r"牢屋敷", "Ngục Dinh Thự"),
+    (r"牢屋敷", "Dinh Ngục"),
     (r"ゴクチョー|狱长", "Cai Ngục Trưởng"),
     (r"看守", "Cai Ngục"),
     (r"処刑", "Xử Hình"),
