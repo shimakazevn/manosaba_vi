@@ -105,7 +105,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial13_Meruru004|",
       "ja": "たしかに……その足では<br><link=\"Objection_01_03_13_01\">無理</link>だと思います。<br>多少歩くならまだしも、<br><link=\"Objection_01_03_13_02\">重いもの</link>を動かす<br>なんて、とても……。<br><link=\"Objection_01_03_13_03\">怪我のある体</link>で、<br>できるわけはないと<br>思います……。",
       "zh": "确实……<br>\n照这个伤势看，<br>\n确实<link=\"Objection_01_03_13_01\">不太可能</link>。<br>\n就算能勉强走路，<br>\n但搬<link=\"Objection_01_03_13_02\">重物</link>应该真的不行……<br>\n我不觉得一个<link=\"Objection_01_03_13_03\">伤者</link><br>\n能做这么消耗体力的事……",
-      "vi": "Quả thực... Đánh giá về vết thương, Quả thực <link=\"Objection_01_03_13_01\"> khó có thể là </link>. Ngay cả khi bạn gần như không thể đi bộ, Nhưng thực sự là không thể di chuyển <link=\"Objection_01_03_13_02\"> vật nặng</link>... Tôi không nghĩ <link=\"Objection_01_03_13_03\"> bị thương</link>_TAG_11__ Để có thể làm một việc tiêu tốn nhiều năng lượng như vậy...",
+      "vi": "Quả thực... Đánh giá về vết thương, Quả thực <link=\"Objection_01_03_13_01\"> khó có thể là </link>. Ngay cả khi bạn gần như không thể đi bộ, Nhưng thực sự là không thể di chuyển <link=\"Objection_01_03_13_02\"> vật nặng</link>... Tôi không nghĩ <link=\"Objection_01_03_13_03\"> bị thương</link>_TAG_11 Để có thể làm một việc tiêu tốn nhiều năng lượng như vậy...",
       "objection_links": [
         "Objection_01_03_13_01",
         "Objection_01_03_13_02",
@@ -127,7 +127,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0103Trial13_Sherry009|",
       "ja": "ですがアリサさんの聞いた<br><link=\"Objection_01_03_13_05\">大きな音</link>は<br><link=\"Objection_01_03_13_06\">【午前２時】</link>……。<br>私が足の怪我で<br>苦しんでいた時間です。<br>私では、建物を<br><link=\"Objection_01_03_13_07\">動かす</link>犯行は<br>できないんですよ～。",
       "zh": "而亚里沙听到<br>\n<link=\"Objection_01_03_13_05\">巨大声响</link>的时间是<br>\n<link=\"Objection_01_03_13_06\">【凌晨2点】</link>……<br>\n那时我正因为腿伤<br>\n痛得死去活来。<br>\n我怎么可能<br>\n有力气<link=\"Objection_01_03_13_07\">移动</link><br>\n整栋建筑物呢～",
-      "vi": "Và Alisa đã nghe thấy <link=\"Objection_01_03_13_05\">Âm thanh lớn</link> xảy ra lúc <link=\"Objection_01_03_13_06\">[2 giờ sáng]</link>____ Lúc đó tôi đang bị chấn thương ở chân Cơn đau thật khủng khiếp. Làm sao tôi có thể Mạnh mẽ lên<link=\"Objection_01_03_13_07\">Di chuyển</link>_TAG_12__ Còn toàn bộ tòa nhà thì sao~",
+      "vi": "Và Alisa đã nghe thấy <link=\"Objection_01_03_13_05\">Âm thanh lớn</link> xảy ra lúc <link=\"Objection_01_03_13_06\">[2 giờ sáng]</link> Lúc đó tôi đang bị chấn thương ở chân Cơn đau thật khủng khiếp. Làm sao tôi có thể Mạnh mẽ lên<link=\"Objection_01_03_13_07\">Di chuyển</link>_TAG_12 Còn toàn bộ tòa nhà thì sao~",
       "objection_links": [
         "Objection_01_03_13_05",
         "Objection_01_03_13_06",
@@ -163,7 +163,7 @@
       "speaker_tag": "; > Ema: |#0103Trial13_Ema003|",
       "ja": "シェリーちゃん、キミの言葉は……<br>間違ってる！！",
       "zh": "雪莉……<br>\n你说得不对！！",
-      "vi": "Sherry... Bạn không đúng! !",
+      "vi": "Sherry... Bạn không đúng!!",
       "objection_links": []
     },
     {
@@ -251,7 +251,7 @@
       "speaker_tag": "; > Sherry: |#0103Trial13_Sherry012|",
       "ja": "それはメルルさんが証明してくれるはずです！<br>……ですよねっ、メルルさん！",
       "zh": "而梅露露能证实这一点！<br>\n……没错吧，梅露露？",
-      "vi": "Và Meruru có thể xác nhận điều này! ...Đúng vậy, Meruru?",
+      "vi": "Và Meruru có thể xác nhận điều này!...Đúng vậy, Meruru?",
       "objection_links": []
     },
     {
@@ -363,7 +363,7 @@
       "speaker_tag": "; > Margo: |#0103Trial13_Margo001|",
       "ja": "【被害者の魔法で浮かせた可能性ですわねー！？】",
       "zh": "【你是说被害人用魔法让它飘起来了对不对——！？】",
-      "vi": "[Ý em là nạn nhân đã sử dụng phép thuật để làm cho nó nổi phải không? ? 】",
+      "vi": "[Ý em là nạn nhân đã sử dụng phép thuật để làm cho nó nổi phải không?? 】",
       "objection_links": []
     },
     {
@@ -659,7 +659,7 @@
       "speaker_tag": "; > Alisa: |#0103Trial13_Alisa001|",
       "ja": "……ああ。<br>もちろん、１時の銃声の方が早かった。<br>……確実にな。",
       "zh": "……嗯。<br>\n是1点时的枪声更早。<br>\n……我可以肯定。",
-      "vi": "...Hừm. Tiếng súng lúc 1 giờ xảy ra sớm hơn. ...Tao chắc chắn.",
+      "vi": "...Hừm. Tiếng súng lúc 1 giờ xảy ra sớm hơn....Tao chắc chắn.",
       "objection_links": []
     },
     {
@@ -779,7 +779,7 @@
       "speaker_tag": "; > Sherry: |#0103Trial13_Sherry038|",
       "ja": "そうなんですか！？<br>ぜひ、聞かせてください！",
       "zh": "真的吗！？<br>\n那就请你说说看吧！",
-      "vi": "Thật sao? ? Vậy thì hãy kể cho tôi nghe về nó nhé!",
+      "vi": "Thật sao?? Vậy thì hãy kể cho tôi nghe về nó nhé!",
       "objection_links": []
     },
     {
@@ -811,7 +811,7 @@
       "speaker_tag": "; > Sherry: |#0103Trial13_Sherry040|",
       "ja": "さあ、見せてください！<br>……その証拠を！",
       "zh": "来吧，让我看看！<br>\n……你的证据！",
-      "vi": "Nào, để tôi xem nào! ...bằng chứng của bạn!",
+      "vi": "Nào, để tôi xem nào!...bằng chứng của bạn!",
       "objection_links": []
     },
     {
@@ -899,7 +899,7 @@
       "speaker_tag": "; > Sherry: |#0103Trial13_Sherry045|",
       "ja": "この怪我については<br>どう説明するつもりですか！？",
       "zh": "对于这个伤口，<br>\n你打算怎么解释呢！？",
-      "vi": "Vì vết thương này, Bạn sẽ giải thích nó như thế nào? ?",
+      "vi": "Vì vết thương này, Bạn sẽ giải thích nó như thế nào??",
       "objection_links": []
     },
     {
@@ -1019,7 +1019,7 @@
       "speaker_tag": "; > Sherry: |#0103Trial13_Sherry050|",
       "ja": "……さあエマさん！<br>この論理、打ち破れますか！？",
       "zh": "……来吧艾玛！<br>\n你能驳倒这个逻辑吗！？",
-      "vi": "...Cố lên Ema! Bạn có thể bác bỏ logic này? ?",
+      "vi": "...Cố lên Ema! Bạn có thể bác bỏ logic này??",
       "objection_links": []
     },
     {

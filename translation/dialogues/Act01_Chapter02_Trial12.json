@@ -25,7 +25,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial12_AnAn003|",
       "ja": "ミリアはあの部屋で<br><link=\"Objection_01_02_12_01\">拘束されていた</link>！<br>ならば<br><link=\"Objection_01_02_12_02\">鍵がかかって</link><br>いなくとも<br>おかしくはない……！",
       "zh": "米莉亚<br>\n<link=\"Objection_01_02_12_01\">被绑</link>在那个房间里！<br>\n那么即使<br>\n<link=\"Objection_01_02_12_02\">门没有上锁</link><br>\n也很正常……！<br>",
-      "vi": "Miria <link=\"Objection_01_02_12_01\"> bị trói </link> trong phòng đó! Vì vậy ngay cả khi <link=\"Objection_01_02_12_02\">Cửa không khóa</link>_TAG_7__ Cũng bình thường thôi…!",
+      "vi": "Miria <link=\"Objection_01_02_12_01\"> bị trói </link> trong phòng đó! Vì vậy ngay cả khi <link=\"Objection_01_02_12_02\">Cửa không khóa</link>_TAG_7 Cũng bình thường thôi…!",
       "objection_links": [
         "Objection_01_02_12_01",
         "Objection_01_02_12_02"
@@ -68,7 +68,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial12_AnAn006|",
       "ja": "<link=\"Objection_01_02_12_03\">ナノカが盗んだ</link>り、<br><link=\"Objection_01_02_12_04\">看守が置き忘れた</link>り……<br>可能性はゼロとは言えまい！",
       "zh": "可能是<link=\"Objection_01_02_12_03\">奈叶香你偷</link>的，<br>\n也可能是<br>\n<link=\"Objection_01_02_12_04\">看守丢在里面忘拿了</link>……<br>\n不能说可能性为零！",
-      "vi": "Có lẽ <link=\"Objection_01_02_12_03\"> Nanoyaka, bạn đã đánh cắp </link>, Nó cũng có thể là <link=\"Objection_01_02_12_04\">Cai Ngục để quên bên trong và quên lấy </link>..........TAG_6__ Không thể nói khả năng là bằng không!",
+      "vi": "Có lẽ <link=\"Objection_01_02_12_03\"> Nanoyaka, bạn đã đánh cắp </link>, Nó cũng có thể là <link=\"Objection_01_02_12_04\">Cai Ngục để quên bên trong và quên lấy </link>..........TAG_6 Không thể nói khả năng là bằng không!",
       "objection_links": [
         "Objection_01_02_12_03",
         "Objection_01_02_12_04"
@@ -89,7 +89,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial12_AnAn008|",
       "ja": "……むしろ<br>このような言いがかりで<br>わがはいを処刑しようとする<br>桜羽エマ……<br>やつにこそ<br><color=#9c8eff><b>【投票すべき】</b></color>である！",
       "zh": "……不惜<br>\n找这么多由头<br>\n也要处刑吾辈的<br>\n樱羽艾玛……<br>\n你们<color=#9c8eff><b>【该投票】</b></color><br>\n给她才对！",
-      "vi": "…không do dự Có rất nhiều lý do Chúng ta cũng phải trừng phạt của mình Sakuraba Ema...... Bạn<color=#9c8eff><b>[Đã đến lúc bỏ phiếu]</b>__</color>TAG_8__ Chỉ cần đưa nó cho cô ấy!",
+      "vi": "…không do dự Có rất nhiều lý do Chúng ta cũng phải trừng phạt của mình Sakuraba Ema...... Bạn<color=#9c8eff><b>[Đã đến lúc bỏ phiếu]</b></color>TAG_8 Chỉ cần đưa nó cho cô ấy!",
       "objection_links": []
     },
     {
@@ -105,7 +105,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial12_Ema001|",
       "ja": "良くないよ！？",
       "zh": "当然不可以啊！？",
-      "vi": "Tất nhiên là không! ?",
+      "vi": "Tất nhiên là không!?",
       "objection_links": []
     },
     {
@@ -249,7 +249,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial12_AnAn009|",
       "ja": "見よ！ みなの者！<br>虚言で議論をかく乱せんとするエマこそ<br>怪しんでしかるべき！！",
       "zh": "看吧！诸位！<br>\n艾玛这个想用谎言扰乱讨论的人<br>\n才应该被怀疑！！",
-      "vi": "Nhìn kìa! Mọi người! Ema là người muốn làm gián đoạn cuộc thảo luận bằng những lời dối trá Đó là điều nên nghi ngờ! !",
+      "vi": "Nhìn kìa! Mọi người! Ema là người muốn làm gián đoạn cuộc thảo luận bằng những lời dối trá Đó là điều nên nghi ngờ!!",
       "objection_links": []
     },
     {
@@ -257,7 +257,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial12_AnAn010|",
       "ja": "<color=#9c8eff><b>【エマを疑え】</b></color>！",
       "zh": "<color=#9c8eff><b>【怀疑艾玛吧】</b></color>！！",
-      "vi": "<color=#9c8eff><b> 【Nghi ngờ Ema】</b></color>! !",
+      "vi": "<color=#9c8eff><b> 【Nghi ngờ Ema】</b></color>!!",
       "objection_links": []
     },
     {
@@ -329,7 +329,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial12_AnAn013|",
       "ja": "<color=#9c8eff><b>【エマを疑え】</b></color>！！",
       "zh": "<color=#9c8eff><b>【怀疑艾玛吧】</b></color>！！",
-      "vi": "<color=#9c8eff><b> 【Nghi ngờ Ema】</b></color>! !",
+      "vi": "<color=#9c8eff><b> 【Nghi ngờ Ema】</b></color>!!",
       "objection_links": []
     },
     {
@@ -385,7 +385,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial12_Nanoka003|",
       "ja": "……桜羽エマ、かばってくれるのはありがたいけれど<br>これは証拠にはならないわ……。",
       "zh": "……樱羽艾玛，我很感激你想帮助我，<br>\n但这个可没法做证据啊……",
-      "vi": "... Sakuraba Ema, tôi rất biết ơn vì bạn đã muốn giúp tôi, Nhưng điều này không thể được sử dụng làm bằng chứng ...",
+      "vi": "... Sakuraba Ema, tôi rất biết ơn vì bạn đã muốn giúp tôi, Nhưng điều này không thể được sử dụng làm bằng chứng...",
       "objection_links": []
     },
     {
@@ -433,7 +433,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial12_Hanna002|",
       "ja": "意味不明ですわー！！<br>これのどこがどのように証拠になりますの！？",
       "zh": "不懂你什么意思！！<br>\n这到底哪里算得上证据！？",
-      "vi": "Bổn tiểu thư không biết ý bạn là gì! ! Bằng chứng này thế quái nào được? ?",
+      "vi": "Bổn tiểu thư không biết ý bạn là gì!! Bằng chứng này thế quái nào được??",
       "objection_links": []
     },
     {
@@ -449,7 +449,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial12_AnAn017|",
       "ja": "こんな意味不明な議論などする必要がない！<br><color=#9c8eff><b>【早く投票せよ】</b></color>！！",
       "zh": "没必要再继续这不明所以的讨论了！<br>\n<color=#9c8eff><b>【快点给她投票】</b></color>！！",
-      "vi": "Không cần thiết phải tiếp tục cuộc thảo luận không rõ ràng này! <color=#9c8eff><b> 【Hãy nhanh tay bình chọn cho cô ấy nhé】</b></color>! !",
+      "vi": "Không cần thiết phải tiếp tục cuộc thảo luận không rõ ràng này! <color=#9c8eff><b> 【Hãy nhanh tay bình chọn cho cô ấy nhé】</b></color>!!",
       "objection_links": []
     },
     {
@@ -465,7 +465,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial12_Hanna003|",
       "ja": "エマさんに清き一票をー！！",
       "zh": "为艾玛投上公正的一票！！",
-      "vi": "Hãy cho Ema một cuộc bỏ phiếu công bằng! !",
+      "vi": "Hãy cho Ema một cuộc bỏ phiếu công bằng!!",
       "objection_links": []
     },
     {
@@ -513,7 +513,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial12_AnAn018|",
       "ja": "これでよくわかっただろう！<br>もう議論の余地などないことが！！<br>そして、最も怪しい者は誰なのか！！",
       "zh": "你们总该明白了吧！<br>\n现在已经没有任何值得讨论的地方了！！<br>\n以及最有嫌疑的人是谁！！",
-      "vi": "Bây giờ bạn nên hiểu! Bây giờ không có gì đáng bàn nữa! ! Và ai là người bị nghi ngờ nhất! !",
+      "vi": "Bây giờ bạn nên hiểu! Bây giờ không có gì đáng bàn nữa!! Và ai là người bị nghi ngờ nhất!!",
       "objection_links": []
     },
     {
@@ -625,7 +625,7 @@
       "speaker_tag": "; > Sherry: |#0102Trial12_Sherry003|",
       "ja": "なるほど確かに！！<br>看守さん、お話聞かせてもらえますか！！",
       "zh": "原来如此！！<br>\n看守，可以问你点问题吗！！",
-      "vi": "Thế thôi! ! Bảo vệ, tôi có thể hỏi anh một câu được không? !",
+      "vi": "Thế thôi!! Bảo vệ, tôi có thể hỏi anh một câu được không?!",
       "objection_links": []
     },
     {
@@ -665,7 +665,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial12_Hanna004|",
       "ja": "な、なんでそうなるんですのー！？",
       "zh": "为、为什么是我呀！？",
-      "vi": "Tại sao, tại sao lại là Bổn tiểu thư! ?",
+      "vi": "Tại sao, tại sao lại là Bổn tiểu thư!?",
       "objection_links": []
     },
     {
@@ -681,7 +681,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial12_Hanna005|",
       "ja": "そんなビビリじゃねーですわ！！<br>見くびらないでくださいましー！",
       "zh": "人家才没这么胆小！！<br>\n请你不要太看不起人了！",
-      "vi": "mọi người đừng rụt rè như vậy! ! Xin đừng coi thường người khác quá nhiều!",
+      "vi": "mọi người đừng rụt rè như vậy!! Xin đừng coi thường người khác quá nhiều!",
       "objection_links": []
     },
     {
@@ -769,7 +769,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial12_Hanna006|",
       "ja": "その人物が新しい見解を示せるとは思えませんわ？<br>わたくしたちは議論をし尽くしたんですもの！",
       "zh": "我可不觉得她能提出什么新见解哦？<br>\n我们都已经彻底讨论完了呀！",
-      "vi": "Bổn tiểu thư không nghĩ người ấy có thể nghĩ ra bất kỳ hiểu biết mới nào? Chúng Bổn tiểu thư đã thảo luận kỹ lưỡng về nó!",
+      "vi": "Bổn tiểu thư không nghĩ người ấy có thể nghĩ ra bất kỳ hiểu biết mới nào? Chúng ta đã thảo luận kỹ lưỡng về nó!",
       "objection_links": []
     },
     {
@@ -865,7 +865,7 @@
       "speaker_tag": "; > Alisa: |#0102Trial12_Alisa003|",
       "ja": "もちろん他の奴らも……<br>文句ねぇよなぁ！？",
       "zh": "其他人……<br>\n当然也没意见吧！？",
-      "vi": "Những người khác... Tất nhiên là Tao không phản đối! ?",
+      "vi": "Những người khác... Tất nhiên là Tao không phản đối!?",
       "objection_links": []
     },
     {

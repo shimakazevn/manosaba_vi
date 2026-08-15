@@ -49,7 +49,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial04_Miria005|",
       "ja": "何か<link=\"Objection_02_04_04_01\">重い物</link>が<br>落ちてきたとか……<br>もしくは<br>硬いものに<br><link=\"Objection_02_04_04_02\">頭をぶつけた</link>とか……。",
       "zh": "比如说<br>\n有什么<br>\n<link=\"Objection_02_04_04_01\">重物</link>掉下来……<br>\n或者<link=\"Objection_02_04_04_02\">头部撞到了</link><br>\n硬物之类的……",
-      "vi": "Ví dụ: Cái gì <link=\"Objection_02_04_04_01\">Vật nặng</link> rơi xuống... Hoặc <link=\"Objection_02_04_04_02\"> đập vào đầu anh ấy </link>_TAG_7__ Những vật cứng và những thứ tương tự...",
+      "vi": "Ví dụ: Cái gì <link=\"Objection_02_04_04_01\">Vật nặng</link> rơi xuống... Hoặc <link=\"Objection_02_04_04_02\"> đập vào đầu anh ấy </link>_TAG_7 Những vật cứng và những thứ tương tự...",
       "objection_links": [
         "Objection_02_04_04_01",
         "Objection_02_04_04_02"
@@ -128,7 +128,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial04_Miria008|",
       "ja": "<link=\"Objection_02_04_04_05\">高い所から落下</link>した<br>とか……<br>急に<br><link=\"Objection_02_04_04_06\">エレベーターが上昇</link>して、<br>頭をぶつけたとか……。",
       "zh": "比如<br>\n从<link=\"Objection_02_04_04_05\">高处坠落</link>……<br>\n或者<br>\n<link=\"Objection_02_04_04_06\">电梯突然上升</link>，<br>\n撞到了头之类的……",
-      "vi": "Ví dụ Rơi từ <link=\"Objection_02_04_04_05\">độ cao</link>____ hoặc <link=\"Objection_02_04_04_06\">Thang máy đột ngột đi lên</link>, Đánh vào đầu Miria hay gì đó...",
+      "vi": "Ví dụ Rơi từ <link=\"Objection_02_04_04_05\">độ cao</link> hoặc <link=\"Objection_02_04_04_06\">Thang máy đột ngột đi lên</link>, Đánh vào đầu Miria hay gì đó...",
       "objection_links": [
         "Objection_02_04_04_05",
         "Objection_02_04_04_06"
@@ -163,7 +163,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial04_Hanna003|",
       "ja": "わたくしそんなこと<br>していませんわー！？",
       "zh": "我才没有做那种事呢——！？<br>",
-      "vi": "Bổn tiểu thư không làm chuyện đó——! ?",
+      "vi": "Bổn tiểu thư không làm chuyện đó——!?",
       "objection_links": []
     },
     {
@@ -363,7 +363,7 @@
       "speaker_tag": "; > Hanna: |#0204Trial04_Hanna005|",
       "ja": "そ、そんなことありえるんですの……！？",
       "zh": "那、那种事真的可能发生吗……！？",
-      "vi": "Vậy thì điều đó có thực sự có thể không...? ?",
+      "vi": "Vậy thì điều đó có thực sự có thể không...??",
       "objection_links": []
     },
     {
@@ -435,7 +435,7 @@
       "speaker_tag": "; > Miria: |#0204Trial04_Miria011|",
       "ja": "ええっ！？<br>でもあれには凶器として使われたような痕跡は<br>なかったよ……！？",
       "zh": "欸欸！？<br>\n可是那东西上面<br>\n看不出被当作凶器使用过的痕迹呀……！？",
-      "vi": "Này! ? Nhưng thứ đó có trên đó Không có dấu hiệu nào cho thấy nó được sử dụng làm vũ khí giết người...! ?",
+      "vi": "Này!? Nhưng thứ đó có trên đó Không có dấu hiệu nào cho thấy nó được sử dụng làm vũ khí giết người...!?",
       "objection_links": []
     },
     {
@@ -563,7 +563,7 @@
       "speaker_tag": "; > Hiro: |#0204Trial04_Hiro024|",
       "ja": "手を滑らせて落下。<br>……そして、死亡したんだ。",
       "zh": "不慎手滑。<br>\n……就这么摔死了。",
-      "vi": "Vô tình trượt ngã. ...vừa rơi xuống đất và chết.",
+      "vi": "Vô tình trượt ngã....vừa rơi xuống đất và chết.",
       "objection_links": []
     },
     {
@@ -587,7 +587,7 @@
       "speaker_tag": "; > Hiro: |#0204Trial04_Hiro025|",
       "ja": "（現場の状況から見て、<br>　落下したとは言えないか……）",
       "zh": "（从现场状况来看，<br>\n恐怕不能说是坠落致死……）",
-      "vi": "(Đánh giá từ tình hình tại chỗ, Tôi e rằng không thể nói rằng anh ấy đã chết ...)",
+      "vi": "(Đánh giá từ tình hình tại chỗ, Tôi e rằng không thể nói rằng anh ấy đã chết...)",
       "objection_links": []
     },
     {
@@ -803,7 +803,7 @@
       "speaker_tag": "; > Hanna: |#0204Trial04_Hanna007|",
       "ja": "わ、わたくしの贈った人形が<br>呪いの依り代に……！？",
       "zh": "我、我送给她的人偶，<br>\n竟然成了诅咒的媒介……！？",
-      "vi": "Bổn tiểu thư, con búp bê Bổn tiểu thư tặng người ấy, Hóa ra đó là phương tiện của lời nguyền...! ?",
+      "vi": "Bổn tiểu thư, con búp bê Bổn tiểu thư tặng người ấy, Hóa ra đó là phương tiện của lời nguyền...!?",
       "objection_links": []
     },
     {
@@ -1235,7 +1235,7 @@
       "speaker_tag": "; > Hanna: |#0204Trial04_Hanna009|",
       "ja": "な、ならレイアさんは<br>氷で後頭部を殴られて<br>殺されたってことですのー！？",
       "zh": "那、那么蕾雅就是<br>\n死于被冰块重击后脑勺的吗——！？<br>",
-      "vi": "Vậy thì Leia là Có phải cô ấy chết vì bị một khối băng đập mạnh vào sau đầu——! ?",
+      "vi": "Vậy thì Leia là Có phải cô ấy chết vì bị một khối băng đập mạnh vào sau đầu——!?",
       "objection_links": []
     },
     {
@@ -1347,7 +1347,7 @@
       "speaker_tag": "; > Miria: |#0204Trial04_Miria023|",
       "ja": "ううっ……！？",
       "zh": "呜……！？",
-      "vi": "Ôi...! ?",
+      "vi": "Ôi...!?",
       "objection_links": []
     },
     {
@@ -1475,7 +1475,7 @@
       "speaker_tag": "; > Sherry: |#0204Trial04_Sherry031|",
       "ja": "ふっふっふー。<br>……どうやらエレベーターの人数制限問題について、<br>お困りのようですね？",
       "zh": "哼哼哼～<br>\n……看来你们对电梯的人数限制问题<br>\n感到很棘手？",
-      "vi": "Hừm ừm ~ ...Có vẻ như bạn đang gặp vấn đề với số lượng người trong thang máy Cảm thấy bị mắc kẹt?",
+      "vi": "Hừm ừm ~...Có vẻ như bạn đang gặp vấn đề với số lượng người trong thang máy Cảm thấy bị mắc kẹt?",
       "objection_links": []
     },
     {
@@ -1515,7 +1515,7 @@
       "speaker_tag": "; > Miria: |#0204Trial04_Miria024|",
       "ja": "そ、そんな重要な情報を……！？",
       "zh": "那、那么重要的情报……！？",
-      "vi": "Đó, thông tin quan trọng như vậy...! ?",
+      "vi": "Đó, thông tin quan trọng như vậy...!?",
       "objection_links": []
     },
     {
@@ -1523,7 +1523,7 @@
       "speaker_tag": "; > Hanna: |#0204Trial04_Hanna010|",
       "ja": "どうして黙ってたんですのー！？",
       "zh": "为什么一直不说哇！？",
-      "vi": "Tại sao bạn không nói wow! ?",
+      "vi": "Tại sao bạn không nói wow!?",
       "objection_links": []
     },
     {
@@ -1611,7 +1611,7 @@
       "speaker_tag": "; > Hanna: |#0204Trial04_Hanna011|",
       "ja": "ゴクチョーは乙女の体重まで<br>把握してらっしゃるんですの！？",
       "zh": "典狱长连少女的体重<br>\n都掌握得一清二楚吗！？",
-      "vi": "Cân nặng của cô gái cai ngục Bạn có nắm bắt rõ ràng mọi thứ không? ?",
+      "vi": "Cân nặng của cô gái cai ngục Bạn có nắm bắt rõ ràng mọi thứ không??",
       "objection_links": []
     },
     {
@@ -1747,7 +1747,7 @@
       "speaker_tag": "; > Alisa: |#0204Trial04_Alisa030|",
       "ja": "違うっていうなら……<br>ウチらが納得するような反論、してみせろよ！",
       "zh": "要否定我的话……<br>\n那就拿出让我们心服口服的反驳来！",
-      "vi": "Nếu mày muốn từ chối Tao... Sau đó hãy đưa ra một lời phản bác có thể thuyết phục được chúng Tao!",
+      "vi": "Nếu mày muốn từ chối Tao... Sau đó hãy đưa ra một lời phản bác có thể thuyết phục được bọn tao!",
       "objection_links": []
     }
   ]

@@ -75,7 +75,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial04_Alisa003|",
       "ja": "いたら気付くに<br>決まってんだろ！",
       "zh": "要是她在场的话<br>\n我们不可能注意不到啊！",
-      "vi": "Nếu mày ấy ở đó Không đời nào chúng Tao không nhận thấy điều đó!",
+      "vi": "Nếu mày ấy ở đó Không đời nào bọn tao không nhận thấy điều đó!",
       "objection_links": []
     },
     {
@@ -91,7 +91,7 @@
       "speaker_tag": "; > @printDebate pos:32,50 roll:-4 |#0103Trial04_Sherry002|",
       "ja": "もしかしたら<br><link=\"Objection_01_03_04_02\">隠れていた</link>のかも<br>しれませんよ。<br>それならあとでこっそり<br><link=\"Objection_01_03_04_03\">自殺</link>した線も追えますよね？<br>もしくは、３人が<br><link=\"Objection_01_03_04_04\">口裏を合わせている</link>とか？",
       "zh": "也许她是<br>\n<link=\"Objection_01_03_04_02\">躲起来了</link>呢。<br>\n这么一来，之后悄悄<br>\n<link=\"Objection_01_03_04_03\">自杀</link>的可能性<br>\n也是存在的吧？<br>\n又或者说，你们三个人<br>\n其实是<link=\"Objection_01_03_04_04\">串通好了</link>的？",
-      "vi": "Có lẽ cô ấy là <link=\"Objection_01_03_04_02\"> đang ẩn </link>. Bằng cách này, lặng lẽ <link=\"Objection_01_03_04_03\">Khả năng tự sát</link>_TAG_7__ Nó cũng tồn tại phải không? Nói cách khác, ba bạn Trên thực tế, <link=\"Objection_01_03_04_04\"> đã thông đồng với </link>?",
+      "vi": "Có lẽ cô ấy là <link=\"Objection_01_03_04_02\"> đang ẩn </link>. Bằng cách này, lặng lẽ <link=\"Objection_01_03_04_03\">Khả năng tự sát</link>_TAG_7 Nó cũng tồn tại phải không? Nói cách khác, ba bạn Trên thực tế, <link=\"Objection_01_03_04_04\"> đã thông đồng với </link>?",
       "objection_links": [
         "Objection_01_03_04_02",
         "Objection_01_03_04_03",
@@ -103,7 +103,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial04_Alisa004|",
       "ja": "ウチら３人が<br>共犯だってのか？<br>ふざけてんじゃ<br>ねーぞ……！",
       "zh": "你想说我们三个<br>\n是共犯吗？<br>\n开什么<br>\n玩笑……！",
-      "vi": "Bạn muốn nói rằng có ba người chúng Tao Một đồng phạm? Mở cái gì Thật là một trò đùa ...!",
+      "vi": "Bạn muốn nói rằng có ba người bọn tao Một đồng phạm? Mở cái gì Thật là một trò đùa...!",
       "objection_links": []
     },
     {
@@ -111,7 +111,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0103Trial04_Sherry003|",
       "ja": "可能性の話<br>ですってば〜！<br>……怒っちゃ<br>ダメですよ☆",
       "zh": "我只是在探讨<br>\n各种可能性嘛～！<br>\n……不可以<br>\n生气哦☆",
-      "vi": "Tôi chỉ đang khám phá Có đủ loại khả năng~! ...không thể Tức giận☆",
+      "vi": "Tôi chỉ đang khám phá Có đủ loại khả năng~!...không thể Tức giận☆",
       "objection_links": []
     },
     {
@@ -351,7 +351,7 @@
       "speaker_tag": "; > Ema: |#0103Trial04_Ema012|",
       "ja": "昨日みんなが魔法の実験をしてたとき、<br>その影響でハンナちゃんが<br>召喚されたんじゃないかな……！？",
       "zh": "昨天大家进行魔法实验的时候，<br>\n会不会因为实验的影响，<br>\n意外地把汉娜召唤到了那个房间……！？",
-      "vi": "Hôm qua khi mọi người đang làm thí nghiệm phép thuật, Phải chăng là do ảnh hưởng của thí nghiệm, Hanna vô tình bị triệu hồi vào căn phòng đó...! ?",
+      "vi": "Hôm qua khi mọi người đang làm thí nghiệm phép thuật, Phải chăng là do ảnh hưởng của thí nghiệm, Hanna vô tình bị triệu hồi vào căn phòng đó...!?",
       "objection_links": []
     },
     {
@@ -367,7 +367,7 @@
       "speaker_tag": "; > Alisa: |#0103Trial04_Alisa008|",
       "ja": "……でもべつに魔法の実験は<br>瞬間移動とかさせるようなもんじゃ<br>なかったと思うけどな……。",
       "zh": "……我不觉得我们进行的魔法实验<br>\n能实现瞬间移动……<br>",
-      "vi": "…Tao không nghĩ thí nghiệm ma thuật mà chúng Tao đã tiến hành Khả năng di chuyển ngay lập tức...",
+      "vi": "…Tao không nghĩ thí nghiệm ma thuật mà bọn tao đã tiến hành Khả năng di chuyển ngay lập tức...",
       "objection_links": []
     },
     {
@@ -543,7 +543,7 @@
       "speaker_tag": "; > Nanoka: |#0103Trial04_Nanoka008|",
       "ja": "それに安易な発言は火種を生む原因になりかねないわ。<br>……慎重に発言しなさい。",
       "zh": "而且轻率的发言很可能会引发更多的矛盾。<br>\n……请你谨慎发言。",
-      "vi": "Và những lời nhận xét hấp tấp có thể gây ra nhiều xung đột hơn. ...xin hãy nói chuyện cẩn thận.",
+      "vi": "Và những lời nhận xét hấp tấp có thể gây ra nhiều xung đột hơn....xin hãy nói chuyện cẩn thận.",
       "objection_links": []
     },
     {
