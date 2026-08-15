@@ -163,7 +163,7 @@ Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại t�
 | **魔女裁判** | 魔女审判 | **Phiên Tòa Ma Nữ** | Tên phiên tòa phân xử vụ án. |
 | **議論** | 讨论 / 辩论 | **Tranh luận** | Pha tranh luận tìm mâu thuẫn. |
 | **処刑** | 处刑 | **Xử hình** | Nghi lễ tra tấn ép hóa ma nữ. |
-| **魔女の書** | 魔女之书 | **Sổ Phù Thủy (Witch Book)** | Menu sổ tay manh mối/hồ sơ. |
+| **魔女の書** | 魔女之书 | **Sổ Tay Phù Thủy (Witch Book)** | Menu sổ tay manh mối/hồ sơ. |
 | **トレデキム** | 特雷德西姆 / 药 | **Tredecim** | Thuốc diệt ma nữ duy nhất. |
 | **反論** | 反论 / 异议 | **Phản biện / Phản đối** | Cơ chế bắn đạn bài xích luận điểm. |
 | **同意** | 同意 | **Đồng tình** | Cơ chế tán thành luận điểm. |

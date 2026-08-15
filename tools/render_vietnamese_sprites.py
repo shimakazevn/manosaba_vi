@@ -19,7 +19,7 @@ SPRITE_TEXTS = {
     "Label_Options@ZhHans.png": "Cài đặt",
     "Label_Gallery@ZhHans.png": "Phòng tranh",
     "Label_Exit@ZhHans.png": "Thoát",
-    "Label_WitchBook@ZhHans.png": "Sách Ma Nữ",
+    "Label_WitchBook@ZhHans.png": "Sổ Tay Phù Thủy",
 
     # In-game menu buttons
     "MenuButton_Save_Normal@ZhHans.png": "Lưu",
@@ -37,7 +37,7 @@ SPRITE_TEXTS = {
     "OptionsTitle@ZhHans.png": "Cài đặt",
     "SaveTitle@ZhHans.png": "Lưu game",
     "LoadTitle@ZhHans.png": "Tải game",
-    "BookTitle@ZhHans.png": "Sách Ma Nữ",
+    "BookTitle@ZhHans.png": "Sổ Tay Phù Thủy",
     "TitleBase@ZhHans.png": "Bắt đầu",
     "PresentButtonBody@ZhHans.png": "Xuất trình",
 
