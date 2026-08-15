@@ -9,7 +9,7 @@
       "speaker_tag": "; > @printDebate pos:65,50 roll:4 |#0102Trial01_Sherry001|",
       "ja": "事件の現場は<br>懲罰房ですね！<br>最初に発見したのは<br>誰でしょう？",
       "zh": "案发现场是<br>\n惩罚室对吧！<br>\n第一发现人<br>\n是谁？",
-      "vi": "Hiện trường vụ án mạng lần này chính là Phòng Kỷ Luật Biệt Giam Biệt Giam dưới tầng hầm! Ai là người đầu tiên phát hiện ra thi thể vậy ạ?",
+      "vi": "Hiện trường vụ án mạng lần này chính là Phòng Kỷ Luật dưới tầng hầm! Ai là người đầu tiên phát hiện ra thi thể vậy ạ?",
       "objection_links": []
     },
     {
@@ -25,7 +25,7 @@
       "speaker_tag": "; > @printDebate pos:68,52 roll:4 |#0102Trial01_Coco001|",
       "ja": "……ちょっと<br>気になる事があって、<br>懲罰房に行ったんだよ。<br>そしたら途中で<br>お嬢と出会って……。",
       "zh": "……我有点事<br>\n想确认一下<br>\n就去了趟惩罚室。<br>\n然后在路上<br>\n遇到了大小姐……",
-      "vi": "……Tại Coco thấy có chút chuyện đáng ngờ nên mới mò xuống Phòng Kỷ Luật Biệt Giam. Ai ngờ giữa đường lại đụng mặt tiểu thư đài các này……",
+      "vi": "……Tại Coco thấy có chút chuyện đáng ngờ nên mới mò xuống Phòng Kỷ Luật. Ai ngờ giữa đường lại đụng mặt tiểu thư đài các này……",
       "objection_links": []
     },
     {
@@ -57,7 +57,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial01_Hanna003|",
       "ja": "それには<br>【懲罰房で拷問が行われる】……<br>みたいな事が書いてあって……！",
       "zh": "上面好像写着<br>\n【将在惩罚室进行拷问】……<br>\n总之就是这样子的话……！",
-      "vi": "Có vẻ như nói [Sẽ bị tra tấn trong Phòng Kỷ Luật Biệt Giam]...... Dù sao thì, nếu vậy thì...!",
+      "vi": "Có vẻ như nói [Sẽ bị tra tấn trong Phòng Kỷ Luật]...... Dù sao thì, nếu vậy thì...!",
       "objection_links": []
     },
     {
@@ -97,7 +97,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial01_Hanna006|",
       "ja": "それでわたくし達は<br><link=\"Objection_01_02_01_01\">メモに書かれていた通り</link>、<br>懲罰房に行ったんですわ！",
       "zh": "所以我们就<br>\n<link=\"Objection_01_02_01_01\">按照便条上所写的内容</link>，<br>\n去了惩罚室！",
-      "vi": "Vì vậy chúng Bổn tiểu thư chỉ <link=\"Objection_01_02_01_01\">Làm theo những gì được viết trên ghi chú</link>, Đã đi đến Phòng Kỷ Luật Biệt Giam!",
+      "vi": "Vì vậy chúng Bổn tiểu thư chỉ <link=\"Objection_01_02_01_01\">Làm theo những gì được viết trên ghi chú</link>, Đã đi đến Phòng Kỷ Luật!",
       "objection_links": [
         "Objection_01_02_01_01"
       ]
@@ -134,7 +134,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial01_Hanna009|",
       "ja": "ともかくその後……<br>ココさんが懲罰房の扉の<br>覗き窓から中を<br>覗いたんですわ！",
       "zh": "不管怎样，那之后……<br>\n可可从惩罚室门上的<br>\n小窗偷偷看了<br>\n里面一眼！",
-      "vi": "Dù sao thì sau đó... Ca cao từ trên cửa Phòng Kỷ Luật Biệt Giam Bổn tiểu thư lén nhìn qua cửa sổ nhỏ Hãy nhìn vào bên trong!",
+      "vi": "Dù sao thì sau đó... Ca cao từ trên cửa Phòng Kỷ Luật Bổn tiểu thư lén nhìn qua cửa sổ nhỏ Hãy nhìn vào bên trong!",
       "objection_links": []
     },
     {
@@ -251,7 +251,7 @@
       "speaker_tag": "; > @choice |#0102Trial01_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ココと会ったのは懲罰房だったはず",
       "zh": "你们应该是在惩罚室遇到的",
-      "vi": "Đáng lẽ bạn phải gặp nhau trong Phòng Kỷ Luật Biệt Giam",
+      "vi": "Đáng lẽ bạn phải gặp nhau trong Phòng Kỷ Luật",
       "objection_links": []
     },
     {
@@ -291,7 +291,7 @@
       "speaker_tag": "; > Ema: |#0102Trial01_Ema003|",
       "ja": "ちょっと待って……<br>ハンナちゃんとココちゃんが懲罰房で偶然出会う<br>なんてありうるのかな……？",
       "zh": "等一下……<br>\n汉娜真的有可能在惩罚室<br>\n碰巧遇到可可吗……？",
-      "vi": "Đợi một chút... Thực sự có khả năng Hanna đang ở trong Phòng Kỷ Luật Biệt Giam Bạn có tình cờ gặp Coco...?",
+      "vi": "Đợi một chút... Thực sự có khả năng Hanna đang ở trong Phòng Kỷ Luật Bạn có tình cờ gặp Coco...?",
       "objection_links": []
     },
     {
@@ -307,7 +307,7 @@
       "speaker_tag": "; > Sherry: |#0102Trial01_Sherry007|",
       "ja": "２人が張り紙の内容を気にして懲罰房に向かった<br>……という行動は自然に思えますね！",
       "zh": "她们都是因为好奇便条上写的内容，所以去了惩罚室<br>\n……这个逻辑很通顺啊！",
-      "vi": "Tất cả đều đến Phòng Kỷ Luật Biệt Giam vì tò mò về những gì được viết trên tờ giấy ... Logic này rất mượt mà!",
+      "vi": "Tất cả đều đến Phòng Kỷ Luật vì tò mò về những gì được viết trên tờ giấy ... Logic này rất mượt mà!",
       "objection_links": []
     },
     {
@@ -379,7 +379,7 @@
       "speaker_tag": "; > Ema: |#0102Trial01_Ema009|",
       "ja": "待ってよ、ハンナちゃん……。<br>懲罰房に行った理由、他にもあるんじゃないのかな。",
       "zh": "等等，汉娜……<br>\n你去惩罚室是不是有其他的原因？",
-      "vi": "Đợi đã, Hanna... Có lý do nào khác khiến bạn phải vào Phòng Kỷ Luật Biệt Giam không?",
+      "vi": "Đợi đã, Hanna... Có lý do nào khác khiến bạn phải vào Phòng Kỷ Luật không?",
       "objection_links": []
     },
     {
@@ -443,7 +443,7 @@
       "speaker_tag": "; > Ema: |#0102Trial01_Ema014|",
       "ja": "（２人が懲罰房に向かうキッカケについて<br>　もう一度考えてみよう……！）",
       "zh": "（再好好想想<br>\n她们去惩罚室的动机是什么……！）",
-      "vi": "(Hãy suy nghĩ lại Động cơ họ vào Phòng Kỷ Luật Biệt Giam là gì...! )",
+      "vi": "(Hãy suy nghĩ lại Động cơ họ vào Phòng Kỷ Luật là gì...! )",
       "objection_links": []
     },
     {
@@ -611,7 +611,7 @@
       "speaker_tag": "; > Ema: |#0102Trial01_Ema025|",
       "ja": "（２人が懲罰房に向かうキッカケについて<br>　もう一度考えてみよう……！）",
       "zh": "（再好好想想<br>\n她们去惩罚室的动机是什么……！）",
-      "vi": "(Hãy suy nghĩ lại Động cơ họ vào Phòng Kỷ Luật Biệt Giam là gì...! )",
+      "vi": "(Hãy suy nghĩ lại Động cơ họ vào Phòng Kỷ Luật là gì...! )",
       "objection_links": []
     },
     {
@@ -675,7 +675,7 @@
       "speaker_tag": "; > Ema: |#0102Trial01_Ema030|",
       "ja": "（２人が懲罰房に向かうキッカケについて<br>　もう一度考えてみよう……！）",
       "zh": "（再好好想想<br>\n她们去惩罚室的动机是什么……！）",
-      "vi": "(Hãy suy nghĩ lại Động cơ họ vào Phòng Kỷ Luật Biệt Giam là gì...! )",
+      "vi": "(Hãy suy nghĩ lại Động cơ họ vào Phòng Kỷ Luật là gì...! )",
       "objection_links": []
     },
     {
@@ -915,7 +915,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial01_Hanna021|",
       "ja": "実は……<br>わたくしが懲罰房に行くのは【２度目】だったんですわ。",
       "zh": "是这样的……<br>\n那其实是我【第二次】去惩罚室了。",
-      "vi": "Nó như thế này... Đó thực sự là lần thứ hai Bổn tiểu thư đến Phòng Kỷ Luật Biệt Giam.",
+      "vi": "Nó như thế này... Đó thực sự là lần thứ hai Bổn tiểu thư đến Phòng Kỷ Luật.",
       "objection_links": []
     },
     {
@@ -971,7 +971,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial01_Hanna027|",
       "ja": "……懲罰房の中から、<br>【悲鳴】が聞こえてきて……。",
       "zh": "……我们听见惩罚室里<br>\n传来了【惨叫声】……",
-      "vi": "…Chúng Bổn tiểu thư nghe thấy trong Phòng Kỷ Luật Biệt Giam Có một [tiếng hét]...",
+      "vi": "…Chúng Bổn tiểu thư nghe thấy trong Phòng Kỷ Luật Có một [tiếng hét]...",
       "objection_links": []
     },
     {
@@ -1243,7 +1243,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial01_Hanna047|",
       "ja": "……わたくしはその後、<br>やっぱりまたミリアさんのことが<br>気になって戻ったんですわ。",
       "zh": "……之后，<br>\n我还是有点担心米莉亚，<br>\n就又去了一趟惩罚室。",
-      "vi": "…Sau đó, Bổn tiểu thư vẫn hơi lo lắng về Miria, Thế là Bổn tiểu thư lại đi vào Phòng Kỷ Luật Biệt Giam.",
+      "vi": "…Sau đó, Bổn tiểu thư vẫn hơi lo lắng về Miria, Thế là Bổn tiểu thư lại đi vào Phòng Kỷ Luật.",
       "objection_links": []
     },
     {
@@ -1291,7 +1291,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial01_Hanna051|",
       "ja": "とにかく、気になって<br>もう一度行ったんですの。",
       "zh": "总而言之，我因为担心她<br>\n又去了一趟惩罚室。",
-      "vi": "Nói chung, Bổn tiểu thư lo lắng cho ngươi ấy Lại đi vào Phòng Kỷ Luật Biệt Giam.",
+      "vi": "Nói chung, Bổn tiểu thư lo lắng cho ngươi ấy Lại đi vào Phòng Kỷ Luật.",
       "objection_links": []
     },
     {

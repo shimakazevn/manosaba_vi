@@ -117,7 +117,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial09_AnAn011|",
       "ja": "全てはナノカの周到な<br><link=\"Objection_01_02_09_04\">ミリア殺害計画</link><br>によるもの。<br><link=\"Objection_01_02_09_05\">動機</link>も十分、<br><link=\"Objection_01_02_09_06\">懲罰房の中に入って</link><br>もいる……。",
       "zh": "一切都源自奈叶香<br>\n准备周全的<br>\n<link=\"Objection_01_02_09_04\">米莉亚杀害计划</link>。<br>\n她<link=\"Objection_01_02_09_05\">动机</link>充分，<br>\n也<link=\"Objection_01_02_09_06\">进入了惩罚室</link>……<br>",
-      "vi": "Mọi thứ đều đến từ Nanoha Chuẩn bị tốt <link=\"Objection_01_02_09_04\">Kế hoạch giết người của Miria</link>. Cô ấy <link=\"Objection_01_02_09_05\">động viên</link> một cách đầy đủ, Ngoài ra <link=\"Objection_01_02_09_06\"> đã vào Phòng Kỷ Luật Biệt Giam</link>..........TAG_10__",
+      "vi": "Mọi thứ đều đến từ Nanoha Chuẩn bị tốt <link=\"Objection_01_02_09_04\">Kế hoạch giết người của Miria</link>. Cô ấy <link=\"Objection_01_02_09_05\">động viên</link> một cách đầy đủ, Ngoài ra <link=\"Objection_01_02_09_06\"> đã vào Phòng Kỷ Luật</link>..........TAG_10__",
       "objection_links": [
         "Objection_01_02_09_04",
         "Objection_01_02_09_05",
@@ -241,7 +241,7 @@
       "speaker_tag": "; > @choice |#0102Trial09_Choice006| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "懲罰房の中に入ってない",
       "zh": "她没有进惩罚室",
-      "vi": "Cô ấy không vào Phòng Kỷ Luật Biệt Giam",
+      "vi": "Cô ấy không vào Phòng Kỷ Luật",
       "objection_links": []
     },
     {
@@ -249,7 +249,7 @@
       "speaker_tag": "; > Ema: |#0102Trial09_Ema003|",
       "ja": "ちょっと待って……！<br>懲罰房の中を覗いても、<br>死体が見えるとは限らないよ！",
       "zh": "等一等……！<br>\n就算从惩罚室的小窗往里面看，<br>\n也不一定能看得到尸体啊！",
-      "vi": "Đợi một chút...! Ngay cả khi bạn nhìn vào bên trong từ cửa sổ nhỏ của Phòng Kỷ Luật Biệt Giam, Bạn thậm chí có thể không thể nhìn thấy cơ thể!",
+      "vi": "Đợi một chút...! Ngay cả khi bạn nhìn vào bên trong từ cửa sổ nhỏ của Phòng Kỷ Luật, Bạn thậm chí có thể không thể nhìn thấy cơ thể!",
       "objection_links": []
     },
     {
@@ -265,7 +265,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial09_AnAn014|",
       "ja": "エマは懲罰房の覗き窓から<br>ミリアの死体を見たじゃないか。",
       "zh": "你不是从惩罚室的小窗<br>\n看到了米莉亚的尸体吗。",
-      "vi": "Bạn không nhìn qua cửa sổ nhỏ của Phòng Kỷ Luật Biệt Giam Bạn có thấy xác của Miria không?",
+      "vi": "Bạn không nhìn qua cửa sổ nhỏ của Phòng Kỷ Luật Bạn có thấy xác của Miria không?",
       "objection_links": []
     },
     {
@@ -321,7 +321,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial09_AnAn017|",
       "ja": "わざわざ悲鳴の偽装をして、<br>懲罰房に注目を集める必要がどこにある？",
       "zh": "为什么吾辈必须得特意伪造惨叫声，<br>\n把别人的注意力吸引到惩罚室？",
-      "vi": "Tại sao chúng ta phải giả vờ hét lên? Thu hút sự chú ý của ai đó vào Phòng Kỷ Luật Biệt Giam?",
+      "vi": "Tại sao chúng ta phải giả vờ hét lên? Thu hút sự chú ý của ai đó vào Phòng Kỷ Luật?",
       "objection_links": []
     },
     {
@@ -329,7 +329,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial09_AnAn018|",
       "ja": "そうなればハンナの性格からして、<br>懲罰房の中を覗きに行く確率のほうが高いだろう？",
       "zh": "这样一来，按照汉娜的性格<br>\n只会增加去看惩罚室的风险吧？",
-      "vi": "Theo cách này, theo tính cách của Hanna Nó chỉ làm tăng nguy cơ phải vào Phòng Kỷ Luật Biệt Giam thôi phải không?",
+      "vi": "Theo cách này, theo tính cách của Hanna Nó chỉ làm tăng nguy cơ phải vào Phòng Kỷ Luật thôi phải không?",
       "objection_links": []
     },
     {
@@ -337,7 +337,7 @@
       "speaker_tag": "; > Coco: |#0102Trial09_Coco001|",
       "ja": "むしろほぼ確実に<br>懲罰房に飛びついただろうね～。",
       "zh": "几乎可以说她<br>\n肯定会飞奔去惩罚室呢～",
-      "vi": "Bạn gần như có thể nói cô ấy Coco chắc chắn sẽ chạy đến Phòng Kỷ Luật Biệt Giam ~",
+      "vi": "Bạn gần như có thể nói cô ấy Coco chắc chắn sẽ chạy đến Phòng Kỷ Luật ~",
       "objection_links": []
     },
     {
@@ -353,7 +353,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial09_Hanna003|",
       "ja": "……まあ、わたくしもアンアンさんがいなかったら、<br>懲罰房を見に行っていたかもしれませんが……。",
       "zh": "……不过如果安安不在话，<br>\n也许我真的会去惩罚室看一眼……",
-      "vi": "...nhưng nếu AnAn không có ở đó, Có lẽ Bổn tiểu thư sẽ đi xem Phòng Kỷ Luật Biệt Giam...",
+      "vi": "...nhưng nếu AnAn không có ở đó, Có lẽ Bổn tiểu thư sẽ đi xem Phòng Kỷ Luật...",
       "objection_links": []
     },
     {
@@ -529,7 +529,7 @@
       "speaker_tag": "; > Ema: |#0102Trial09_Ema019|",
       "ja": "ちょっと待って……！<br>ナノカちゃんが懲罰房に入ってない可能性も<br>あるんじゃないかな……！？",
       "zh": "等一等……！<br>\n有没有可能<br>\n其实奈叶香没有进入惩罚室……！？",
-      "vi": "Đợi một chút...! Có thể được Trên thực tế, Nanoyaka không có vào Phòng Kỷ Luật Biệt Giam...! ?",
+      "vi": "Đợi một chút...! Có thể được Trên thực tế, Nanoyaka không có vào Phòng Kỷ Luật...! ?",
       "objection_links": []
     },
     {
@@ -537,7 +537,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial09_AnAn028|",
       "ja": "本人が言っているだろう。<br>それになにより、提出した懲罰房の鍵が証拠だ。",
       "zh": "她本人都承认了吧。<br>\n而且最重要的是，她出示的惩罚室钥匙就是证据。",
-      "vi": "Chính cô đã thừa nhận điều đó. Và quan trọng nhất, chìa khóa Phòng Kỷ Luật Biệt Giam mà cô đưa ra chính là bằng chứng.",
+      "vi": "Chính cô đã thừa nhận điều đó. Và quan trọng nhất, chìa khóa Phòng Kỷ Luật mà cô đưa ra chính là bằng chứng.",
       "objection_links": []
     },
     {
@@ -553,7 +553,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial09_AnAn029|",
       "ja": "ナノカが懲罰房の鍵を<br>持っていること自体が異常だとは思わないか？",
       "zh": "你不觉得奈叶香手里有惩罚室钥匙<br>\n这件事本身就很奇怪吗？",
-      "vi": "Bạn không nghĩ Nanoyaka có chìa khóa Phòng Kỷ Luật Biệt Giam Bản thân điều này có gì đó kỳ lạ không?",
+      "vi": "Bạn không nghĩ Nanoyaka có chìa khóa Phòng Kỷ Luật Bản thân điều này có gì đó kỳ lạ không?",
       "objection_links": []
     },
     {
@@ -601,7 +601,7 @@
       "speaker_tag": "; > Ema: |#0102Trial09_Ema023|",
       "ja": "……違うよ、アンアンちゃん。<br>部屋を覗かないのは<br>決まっていた事だったんだ。",
       "zh": "……不对，安安。<br>\n你们一定不会去看惩罚室。<br>",
-      "vi": "...Không, AnAn. Bạn sẽ không đến xem Phòng Kỷ Luật Biệt Giam.",
+      "vi": "...Không, AnAn. Bạn sẽ không đến xem Phòng Kỷ Luật.",
       "objection_links": []
     },
     {
@@ -617,7 +617,7 @@
       "speaker_tag": "; > Ema: |#0102Trial09_Ema024|",
       "ja": "アンアンちゃんならそれは防げたんだよ。<br>……ハンナちゃんが部屋の中を覗く事をね。",
       "zh": "你可以防止这件事。<br>\n……防止汉娜去偷看惩罚室。",
-      "vi": "Bạn có thể ngăn chặn điều này. ...để ngăn Hanna nhìn trộm vào Phòng Kỷ Luật Biệt Giam.",
+      "vi": "Bạn có thể ngăn chặn điều này. ...để ngăn Hanna nhìn trộm vào Phòng Kỷ Luật.",
       "objection_links": []
     },
     {
@@ -825,7 +825,7 @@
       "speaker_tag": "; > Meruru: |#0102Trial09_Meruru004|",
       "ja": "そ、そもそも……ハンナさんはどうして<br>懲罰房を覗きにいかなかったのでしょうか……？",
       "zh": "说、说起来……汉娜小姐<br>\n你当时为什么没去惩罚室……？",
-      "vi": "Nhắc đến, nhắc đến...Hanna Tại sao lúc đó cậu không đến Phòng Kỷ Luật Biệt Giam...?",
+      "vi": "Nhắc đến, nhắc đến...Hanna Tại sao lúc đó cậu không đến Phòng Kỷ Luật...?",
       "objection_links": []
     },
     {

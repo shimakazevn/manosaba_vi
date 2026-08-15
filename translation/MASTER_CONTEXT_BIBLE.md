@@ -200,7 +200,7 @@ Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại t�
 | **地精の間** | 地精之室 | **Phòng Địa Tinh (Gnome)** |
 | **火精の間** | 火精之室 | **Phòng Hỏa Tinh (Salamander)** |
 | **水精の間** | 水精之室 | **Phòng Thủy Tinh (Undine)** |
-| **懲罰房** | 惩罚室 | **Phòng Kỷ Luật / Biệt Giam** |
+| **懲罰房** | 惩罚室 | **Phòng Kỷ Luật** |
 | **物置 / 倉庫** | 杂物处 / 仓库 | **Kho Chứa Đồ / Nhà Kho** |
 | **塀** | 围墙 | **Tường Rào Ma Pháp** |
 

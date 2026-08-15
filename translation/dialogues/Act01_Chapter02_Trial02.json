@@ -9,7 +9,7 @@
       "speaker_tag": "; > @printDebate pos:68,50 roll:4 |#0102Trial02_Sherry001|",
       "ja": "あらためて、<br>被害者は佐伯ミリアさんです。<br>鍵のかかった懲罰房の中、<br>磔にされた状態で<br>発見されましたね。",
       "zh": "被害人是佐伯米莉亚。<br>\n她的尸体是在上锁的<br>\n惩罚室里被发现的，<br>\n当时她被绑在<br>\n十字架上。",
-      "vi": "Nạn nhân là Miria Saeki. Cơ thể của cô ấy đã bị khóa Được tìm thấy trong Phòng Kỷ Luật Biệt Giam, Cô ấy bị trói vào Trên thập tự giá.",
+      "vi": "Nạn nhân là Miria Saeki. Cơ thể của cô ấy đã bị khóa Được tìm thấy trong Phòng Kỷ Luật, Cô ấy bị trói vào Trên thập tự giá.",
       "objection_links": []
     },
     {
@@ -49,7 +49,7 @@
       "speaker_tag": "; > @printDebate pos:65,50 roll:4 |#0102Trial02_Sherry003|",
       "ja": "とにかく犯人は<br><link=\"Objection_01_02_02_01\">懲罰房</link>で拘束された<br><link=\"Objection_01_02_02_02\">ミリアさん</link>の<br><link=\"Objection_01_02_02_03\">お腹を滅多刺しにして殺害した</link><br>ということですね～！",
       "zh": "总而言之，<br>\n被绑在<link=\"Objection_01_02_02_01\">惩罚室</link>里的<link=\"Objection_01_02_02_02\">米莉亚</link><br>\n受到凶手<br>\n<link=\"Objection_01_02_02_03\">多次戳刺腹部，因而遇害</link>。<br>\n以上就是案发经过～！",
-      "vi": "Tóm lại là, ở trong <link=\"Objection_01_02_02_01\">Phòng Kỷ Luật Biệt Giam</link>, <link=\"Objection_01_02_02_02\">bạn Miria</link> bị trói đã bị hung thủ <link=\"Objection_01_02_02_03\">đâm nhiều nhát vào bụng sát hại</link>. Đó là toàn bộ diễn biến vụ án~!",
+      "vi": "Tóm lại là, ở trong <link=\"Objection_01_02_02_01\">Phòng Kỷ Luật</link>, <link=\"Objection_01_02_02_02\">bạn Miria</link> bị trói đã bị hung thủ <link=\"Objection_01_02_02_03\">đâm nhiều nhát vào bụng sát hại</link>. Đó là toàn bộ diễn biến vụ án~!",
       "objection_links": [
         "Objection_01_02_02_01",
         "Objection_01_02_02_02",
@@ -69,7 +69,7 @@
       "speaker_tag": "; > @printDebate pos:65,50 roll:4 |#0102Trial02_Sherry004|",
       "ja": "<link=\"Objection_01_02_02_04\">胸に刺さっていたナイフ</link><br>ですね。<br>おそらく<br><link=\"Objection_01_02_02_05\">懲罰房の備品</link>でしょう！",
       "zh": "是<link=\"Objection_01_02_02_04\">扎在胸口上的小刀</link>吧。<br>\n可能是<br>\n<link=\"Objection_01_02_02_05\">惩罚室的备用品</link>！<br>",
-      "vi": "Chắc hẳn đó là <link=\"Objection_01_02_02_04\"> con dao </link> cắm vào ngực. Có lẽ <link=\"Objection_01_02_02_05\"> Phụ tùng cho Phòng Kỷ Luật Biệt Giam</link>!",
+      "vi": "Chắc hẳn đó là <link=\"Objection_01_02_02_04\"> con dao </link> cắm vào ngực. Có lẽ <link=\"Objection_01_02_02_05\"> Phụ tùng cho Phòng Kỷ Luật</link>!",
       "objection_links": [
         "Objection_01_02_02_04",
         "Objection_01_02_02_05"
@@ -152,7 +152,7 @@
       "speaker_tag": "; > @choice |#0102Trial02_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "事件現場は懲罰房ではない",
       "zh": "案发现场不是惩罚室",
-      "vi": "Hiện trường vụ án không phải là Phòng Kỷ Luật Biệt Giam",
+      "vi": "Hiện trường vụ án không phải là Phòng Kỷ Luật",
       "objection_links": []
     },
     {
@@ -216,7 +216,7 @@
       "speaker_tag": "; > Ema: |#0102Trial02_Ema005|",
       "ja": "ミリアちゃんが殺害された現場は、<br>懲罰房ではない……ってことは考えられないかな？",
       "zh": "我有个想法，米莉亚的死亡地点<br>\n并不是惩罚室……会不会有这种可能性呢？",
-      "vi": "Tôi biết Miria đã chết ở đâu Đây không phải là Phòng Kỷ Luật Biệt Giam...điều này có khả năng xảy ra không?",
+      "vi": "Tôi biết Miria đã chết ở đâu Đây không phải là Phòng Kỷ Luật...điều này có khả năng xảy ra không?",
       "objection_links": []
     },
     {
@@ -240,7 +240,7 @@
       "speaker_tag": "; > Sherry: |#0102Trial02_Sherry008|",
       "ja": "でもミリアさんは元々懲罰房に監禁されていましたし、<br>いったいどこから運ばれてきた事になるんでしょう？",
       "zh": "但是米莉亚原本就被囚禁在惩罚室里，<br>\n那她到底是从哪里被搬来的呢？",
-      "vi": "Nhưng Miria ban đầu bị giam trong Phòng Kỷ Luật Biệt Giam, Vậy cô ấy được chuyển đến từ đâu?",
+      "vi": "Nhưng Miria ban đầu bị giam trong Phòng Kỷ Luật, Vậy cô ấy được chuyển đến từ đâu?",
       "objection_links": []
     },
     {
@@ -480,7 +480,7 @@
       "speaker_tag": "; > Ema: |#0102Trial02_Ema020|",
       "ja": "そのナイフ……本当に懲罰房の備品なのかな？",
       "zh": "那把刀……真的是惩罚室的备用品吗？",
-      "vi": "Con dao đó... thực sự là vật dụng dự phòng cho Phòng Kỷ Luật Biệt Giam sao?",
+      "vi": "Con dao đó... thực sự là vật dụng dự phòng cho Phòng Kỷ Luật sao?",
       "objection_links": []
     },
     {
@@ -544,7 +544,7 @@
       "speaker_tag": "; > Ema: |#0102Trial02_Ema024|",
       "ja": "ねえ、現場は懲罰房でしょ……？<br>他にも凶器になりうる物があったんじゃないかな。",
       "zh": "案发现场是惩罚室对吧……？<br>\n其他东西应该也能拿来当作凶器吧。",
-      "vi": "Hiện trường vụ án là Phòng Kỷ Luật Biệt Giam phải không...? Những thứ khác có lẽ có thể được sử dụng làm vũ khí giết người.",
+      "vi": "Hiện trường vụ án là Phòng Kỷ Luật phải không...? Những thứ khác có lẽ có thể được sử dụng làm vũ khí giết người.",
       "objection_links": []
     },
     {
@@ -1072,7 +1072,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial02_Hanna005|",
       "ja": "その後、医務室にアンアンさんを置いて、<br>【２１時】にもう一度行ったんですの。",
       "zh": "之后，我把安安留在医务室，<br>\n【晚上9点】又去了一趟惩罚室。",
-      "vi": "Sau đó Bổn tiểu thư bỏ AnAn vào bệnh xá, [9 giờ tối] Lại đi đến Phòng Kỷ Luật Biệt Giam.",
+      "vi": "Sau đó Bổn tiểu thư bỏ AnAn vào bệnh xá, [9 giờ tối] Lại đi đến Phòng Kỷ Luật.",
       "objection_links": []
     },
     {
@@ -1080,7 +1080,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial02_Hanna006|",
       "ja": "その時、偶然食堂側から出て来た<br>ココさんと一緒になったんです。<br>そして懲罰房に行って２人で覗き窓を覗いたら……。",
       "zh": "在路上，我碰巧遇到了从食堂那边过来的可可，<br>\n就和她一起走了。<br>\n到了惩罚室以后，我们从小窗往里面一看……",
-      "vi": "Trên đường đi tình cờ gặp Coco đang từ Nhà Ăn đi tới, Vừa rời đi với ngươi ấy. Sau khi đến Phòng Kỷ Luật Biệt Giam, chúng Bổn tiểu thư nhìn vào bên trong từ cửa sổ nhỏ...",
+      "vi": "Trên đường đi tình cờ gặp Coco đang từ Nhà Ăn đi tới, Vừa rời đi với ngươi ấy. Sau khi đến Phòng Kỷ Luật, chúng Bổn tiểu thư nhìn vào bên trong từ cửa sổ nhỏ...",
       "objection_links": []
     },
     {

@@ -17,7 +17,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_Nanoka002|",
       "ja": "私は<br>【遠野ハンナと<br>夏目アンアンが<br>出ていくのを見て】、<br>懲罰房へ向かった。",
       "zh": "我是<br>\n【看到远野汉娜<br>\n和夏目安安<br>\n离开以后】，<br>\n去了惩罚室。",
-      "vi": "Tôi là 【Gặp Hanna Tono Với Natsme AnAn Sau khi rời đi], Đi đến Phòng Kỷ Luật Biệt Giam.",
+      "vi": "Tôi là 【Gặp Hanna Tono Với Natsme AnAn Sau khi rời đi], Đi đến Phòng Kỷ Luật.",
       "objection_links": []
     },
     {
@@ -73,7 +73,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Meruru001|",
       "ja": "けれど<br>懲罰房の前の廊下は<br>一本道です……。<br>もしナノカさんの<br>言ってる事が<br>本当なら……。",
       "zh": "可是<br>\n惩罚室前面<br>\n只有走廊这一条路，<br>\n如果<br>\n奈叶香小姐<br>\n说的是真的……",
-      "vi": "Nhưng Trước Phòng Kỷ Luật Biệt Giam Cách duy nhất là hành lang, nếu Cô Nanoyaka Đó là sự thật...",
+      "vi": "Nhưng Trước Phòng Kỷ Luật Cách duy nhất là hành lang, nếu Cô Nanoyaka Đó là sự thật...",
       "objection_links": []
     },
     {
@@ -224,7 +224,7 @@
       "speaker_tag": "; > @choice |#0102Trial05_Choice002| button:ChoiceButtons/Trial/Approval handler:Trial",
       "ja": "犯人は懲罰房にいた",
       "zh": "凶手在惩罚室里",
-      "vi": "Kẻ giết người đang ở trong Phòng Kỷ Luật Biệt Giam",
+      "vi": "Kẻ giết người đang ở trong Phòng Kỷ Luật",
       "objection_links": []
     },
     {
@@ -264,7 +264,7 @@
       "speaker_tag": "; > Ema: |#0102Trial05_Ema003|",
       "ja": "ナノカちゃんがミリアちゃんを見つけた時<br>犯人がまだ懲罰房にいた可能性はないかな？",
       "zh": "奈叶香，你发现米莉亚的时候<br>\n凶手有可能还留在惩罚室里吗？",
-      "vi": "Nanoyaka, khi bạn tìm thấy Miria Chẳng lẽ hung thủ vẫn còn ở trong Phòng Kỷ Luật Biệt Giam?",
+      "vi": "Nanoyaka, khi bạn tìm thấy Miria Chẳng lẽ hung thủ vẫn còn ở trong Phòng Kỷ Luật?",
       "objection_links": []
     },
     {
@@ -288,7 +288,7 @@
       "speaker_tag": "; > Coco: |#0102Trial05_Coco001|",
       "ja": "でも、ナノカは死体を確認した後、<br>【懲罰房の鍵を閉めて】出て行ったんっしょ？",
       "zh": "但你在检查完尸体以后，<br>\n【锁上惩罚室的门】就走了，不是吗？",
-      "vi": "Nhưng sau khi bạn khám nghiệm thi thể, [Khóa cửa Phòng Kỷ Luật Biệt Giam] và rời đi, phải không?",
+      "vi": "Nhưng sau khi bạn khám nghiệm thi thể, [Khóa cửa Phòng Kỷ Luật] và rời đi, phải không?",
       "objection_links": []
     },
     {
@@ -304,7 +304,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial05_Hanna004|",
       "ja": "……ですが、わたくしたちが懲罰房についた時には<br>犯人の姿はなかったですわ……？",
       "zh": "……可是，我们到惩罚室的时候<br>\n并没有看见凶手啊……？",
-      "vi": "...Nhưng khi chúng Bổn tiểu thư đến Phòng Kỷ Luật Biệt Giam Bạn không nhìn thấy kẻ sát nhân...?",
+      "vi": "...Nhưng khi chúng Bổn tiểu thư đến Phòng Kỷ Luật Bạn không nhìn thấy kẻ sát nhân...?",
       "objection_links": []
     },
     {
@@ -312,7 +312,7 @@
       "speaker_tag": "; > Margo: |#0102Trial05_Margo003|",
       "ja": "懲罰房の闇に紛れ、みんなの視野に入らず、<br>脱出できる犯人……。",
       "zh": "能躲在惩罚室的暗处，<br>\n并且在众目睽睽之下逃脱的凶手……",
-      "vi": "Có thể trốn trong bóng tối của Phòng Kỷ Luật Biệt Giam, Và kẻ sát nhân đã trốn thoát trước sự chứng kiến của công chúng...",
+      "vi": "Có thể trốn trong bóng tối của Phòng Kỷ Luật, Và kẻ sát nhân đã trốn thoát trước sự chứng kiến của công chúng...",
       "objection_links": []
     },
     {
@@ -376,7 +376,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial05_Hanna005|",
       "ja": "わ、わたくしたちが帰って、<br>ナノカさんが懲罰房につく間に……？",
       "zh": "就、就从我们回去<br>\n到奈叶香抵达惩罚室的这短短时间里……？",
-      "vi": "Chỉ cần quay lại từ chúng Bổn tiểu thư Trong thời gian ngắn nữa Nanoyaka sẽ đến Phòng Kỷ Luật Biệt Giam...?",
+      "vi": "Chỉ cần quay lại từ chúng Bổn tiểu thư Trong thời gian ngắn nữa Nanoyaka sẽ đến Phòng Kỷ Luật...?",
       "objection_links": []
     },
     {
@@ -384,7 +384,7 @@
       "speaker_tag": "; > Margo: |#0102Trial05_Margo005|",
       "ja": "犯人は、その１分足らずで<br>懲罰房から出て、廊下のどこかに隠れた……？",
       "zh": "凶手在这不足一分钟的时间里<br>\n离开惩罚室躲到了走廊里……？",
-      "vi": "Chưa đầy một phút, kẻ sát nhân Rời khỏi Phòng Kỷ Luật Biệt Giam và trốn ở hành lang...?",
+      "vi": "Chưa đầy một phút, kẻ sát nhân Rời khỏi Phòng Kỷ Luật và trốn ở hành lang...?",
       "objection_links": []
     },
     {
@@ -400,7 +400,7 @@
       "speaker_tag": "; > Margo: |#0102Trial05_Margo007|",
       "ja": "他の懲罰房も鍵がかかっているし、<br>やり過ごすなんてできないんじゃないかしら？",
       "zh": "其他惩罚室都上了锁，<br>\n凶手也不可能暂时躲在其他房间里吧？",
-      "vi": "Các Phòng Kỷ Luật Biệt Giam khác đã bị khóa, Kẻ sát nhân không thể tạm thời trốn ở phòng khác được phải không?",
+      "vi": "Các Phòng Kỷ Luật khác đã bị khóa, Kẻ sát nhân không thể tạm thời trốn ở phòng khác được phải không?",
       "objection_links": []
     },
     {
@@ -448,7 +448,7 @@
       "speaker_tag": "; > Ema: |#0102Trial05_Ema013|",
       "ja": "そっか……！<br>きっと懲罰房には秘密の抜け道があって――。",
       "zh": "对哦……！<br>\n惩罚室里肯定有秘密通道——",
-      "vi": "Vâng...! Chắc chắn phải có một lối đi bí mật trong Phòng Kỷ Luật Biệt Giam——",
+      "vi": "Vâng...! Chắc chắn phải có một lối đi bí mật trong Phòng Kỷ Luật——",
       "objection_links": []
     },
     {
@@ -624,7 +624,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial05_Nanoka012|",
       "ja": "でも、だとしたらどうして私は自分から<br>懲罰房の鍵なんて提出したのかしら？",
       "zh": "但如果是这样，为什么我要主动出示<br>\n惩罚室的钥匙？",
-      "vi": "Nhưng nếu đúng như vậy thì tại sao tôi lại phải chủ động thể hiện Chìa khóa Phòng Kỷ Luật Biệt Giam?",
+      "vi": "Nhưng nếu đúng như vậy thì tại sao tôi lại phải chủ động thể hiện Chìa khóa Phòng Kỷ Luật?",
       "objection_links": []
     },
     {

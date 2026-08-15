@@ -32,7 +32,7 @@ GLOSSARY = [
     (r"ダイイングメッセージ|死者苏生|死亡讯息", "Lời trăng trối"),
     (r"トレデキム|Tredecim", "Tredecim"),
     (r"なれはて", "Tàn Tích Tha Hóa"),
-    (r"懲罰房", "Phòng Kỷ Luật Biệt Giam"),
+    (r"懲罰房|惩罚室", "Phòng Kỷ Luật"),
     (r"ゲストハウス|迎宾馆", "Nhà Khách"),
     (r"ラウンジ|休息室", "Phòng Chờ"),
     (r"食堂", "Nhà Ăn"),
