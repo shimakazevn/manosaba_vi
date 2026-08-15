@@ -1,0 +1,526 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial03",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial03' Naninovel scenario script",
+  "total_entries": 64,
+  "entries": [
+    {
+      "id": "0205Trial03_Leia001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial03_Leia001|",
+      "ja": "そもそも魔女だのなんだの、<br>いったいなんの話を<br>しているんだ！",
+      "zh": "说到底，我根本就没听明白，<br>\n你说的那“魔女”<br>\n究竟是怎么一回事！",
+      "vi": "Rốt cuộc thì tôi chẳng hiểu gì cả, \"Bà phù thủy\" mà bạn nhắc đến Chuyện gì đang xảy ra vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hanna001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial03_Hanna001|",
+      "ja": "……で、でも<br>魔法を使える人は<br>存在しますわ？<br>わたくしだって<br>そうですし……。",
+      "zh": "……可、可是<br>\n能使出魔法的人<br>\n的确存在啊？<br>\n比如我<br>\n就是……",
+      "vi": "...Nhưng, nhưng Người có thể sử dụng phép thuật Nó có thực sự tồn tại không? Ví dụ: Bổn tiểu thư Chỉ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial03_Leia002|",
+      "ja": "そ、それは<br>私もそうだが……！",
+      "zh": "那、那<br>\n我也一样……！",
+      "vi": "Cái đó, cái đó Tôi cũng vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial03_Leia003|",
+      "ja": "……とはいえ、<br>この牢屋敷からの脱出などは<br>ヒロくんの一方的な主張だ！",
+      "zh": "……再说了，<br>\n什么逃离这座监牢，<br>\n根本就是希罗你单方面的说法！",
+      "vi": "...Ngoài ra, Thoát khỏi Ngục Dinh Thự này nào, Đó chỉ đơn giản là tuyên bố đơn phương của bạn thôi, Anh hùng!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial03_Leia004|",
+      "ja": "ヒロくんが<br><link=\"Objection_02_05_03_01\">真の黒幕</link>の可能性だって<br>あるんじゃないか！？",
+      "zh": "说不定希罗你才是<br>\n<link=\"Objection_02_05_03_01\">真正的幕后黑手</link>，<br>\n不是吗！？",
+      "vi": "Có lẽ Hiro, bạn là <link=\"Objection_02_05_03_01\">Kẻ chủ mưu thực sự</link>, Phải không? ?",
+      "objection_links": [
+        "Objection_02_05_03_01"
+      ]
+    },
+    {
+      "id": "0205Trial03_Ema001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial03_Ema001|",
+      "ja": "……ヒ、ヒロちゃんは……。",
+      "zh": "……我、我觉得……",
+      "vi": "...Tôi, tôi nghĩ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Ema002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial03_Ema002|",
+      "ja": "ヒロちゃんはそんなこと、<br>しないと思う……！",
+      "zh": "希罗她才，<br>\n不会做那种坏事……！",
+      "vi": "Anh hùng có tài, Tôi sẽ không làm những điều tồi tệ như vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Ema003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial03_Ema003|",
+      "ja": "たとえもし<br>そうだったとしても……<br>それをする<br>正しい理由が<br>あるんだと思う……。",
+      "zh": "就算<br>\n她真的做了……<br>\n我也觉得她<br>\n一定有相应的<br>\n正当理由……",
+      "vi": "Ngay cả khi Cô ấy thực sự đã làm vậy... Tôi cũng nghĩ cô ấy Phải có tương ứng Lý do chính đáng…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial03_Hiro001|",
+      "ja": "（エマ……）",
+      "zh": "（艾玛……）",
+      "vi": "（Ema……）",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial03_Leia005|",
+      "ja": "【正しい理由】だって……？",
+      "zh": "什么叫【正当理由】……？",
+      "vi": "[Lý do chính đáng] là gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial03_Leia006|",
+      "ja": "私だってそうだとも！<br>私にはみんなを救うという<br><link=\"Objection_02_05_03_02\">目的</link>がある！",
+      "zh": "我也有正当理由啊！<br>\n我的<link=\"Objection_02_05_03_02\">目的</link>就是<br>\n拯救大家啊！",
+      "vi": "Tôi cũng có lý do chính đáng! <link=\"Objection_02_05_03_02\"> mục đích của tôi</link> là Cứu mọi người!",
+      "objection_links": [
+        "Objection_02_05_03_02"
+      ]
+    },
+    {
+      "id": "0205Trial03_Leia007",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial03_Leia007|",
+      "ja": "ここにいるみんなを<br><link=\"Objection_02_05_03_03\">守れるのは</link><br>私だけだ……！",
+      "zh": "只有我<br>\n<link=\"Objection_02_05_03_03\">能守护</link><br>\n在场的所有人……！",
+      "vi": "Chỉ có tôi <link=\"Objection_02_05_03_03\"> có thể bảo vệ </link> Mọi người có mặt...!",
+      "objection_links": [
+        "Objection_02_05_03_03"
+      ]
+    },
+    {
+      "id": "0205Trial03_Leia008",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial03_Leia008|",
+      "ja": "私ならみんなを守れる！<br>信じてくれ！",
+      "zh": "我一定能守护大家！<br>\n相信我吧！",
+      "vi": "Tôi chắc chắn có thể bảo vệ mọi người! Hãy tin tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro002|",
+      "ja": "（……相変わらず、レイアの行動原理はブレないな）",
+      "zh": "（……蕾雅的行事方式还真是万年不变啊）",
+      "vi": "(...Cách làm việc của Leya thực sự không thay đổi trong hàng ngàn năm qua)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro003|",
+      "ja": "（だが彼女の人となりは十分にわかっている）",
+      "zh": "（不过，我已经十分了解她的为人了）",
+      "vi": "(Tuy nhiên, tôi đã biết rất rõ về cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro004|",
+      "ja": "（……その裏に潜むものも）",
+      "zh": "（……当然也包括她隐藏起来的真实想法）",
+      "vi": "(...tất nhiên bao gồm cả những suy nghĩ thực sự ẩn giấu của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro005|",
+      "ja": "（彼女の嘘を暴くとしよう）",
+      "zh": "（就让我来揭穿她的谎言吧）",
+      "vi": "(Hãy để tôi vạch trần những lời nói dối của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial03_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "団結を邪魔してはいけない",
+      "zh": "不许妨碍团结",
+      "vi": "Đừng cản trở sự đoàn kết",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial03_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "目立ちたいだけだ",
+      "zh": "你只是想出风头罢了",
+      "vi": "Bạn chỉ muốn được chú ý",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial03_Choice003| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "守る気などない",
+      "zh": "你根本没打算守护他人",
+      "vi": "Bạn không có ý định bảo vệ người khác",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro006|",
+      "ja": "私はただ、真実を明らかにしたいだけだよ。",
+      "zh": "我只是想弄清真相而已。",
+      "vi": "Tôi chỉ muốn tìm hiểu sự thật.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro007|",
+      "ja": "この中に潜む魔女を見つけ出すために<br>対等な議論を望んでいる。",
+      "zh": "为了找出潜藏在所有人当中的魔女，<br>\n我希望进行平等的讨论。",
+      "vi": "Để tìm ra mụ phù thủy ẩn náu giữa mọi người, Tôi muốn một cuộc thảo luận bình đẳng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro008|",
+      "ja": "そのためには<br>みんなの協力が必要なんだ。",
+      "zh": "为此，<br>\n我需要得到大家的协助。",
+      "vi": "Để làm điều này, Tôi cần sự giúp đỡ của mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro009|",
+      "ja": "人をいたずらに黒幕扱いして<br>団結の邪魔をするのはやめてくれないかな。",
+      "zh": "能不能请你不要随意把人当作幕后黑手，<br>\n妨碍大家的团结呢？",
+      "vi": "Bạn có thể vui lòng ngừng coi mọi người là kẻ chủ mưu đằng sau hậu trường được không? Còn việc cản trở sự đoàn kết của mọi người thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia009",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia009|",
+      "ja": "わ、私だって団結を呼びかけているだけだ！",
+      "zh": "我、我也只是在号召大家团结啊！",
+      "vi": "Tôi, tôi chỉ kêu gọi mọi người đoàn kết lại!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia010",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia010|",
+      "ja": "しかしキミは<br>明らかに異様なんだよ、ヒロくん……！",
+      "zh": "可是你<br>\n明显很异常啊，希罗……！",
+      "vi": "Nhưng bạn Điều này rõ ràng là bất thường, Hiro...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia011",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia011|",
+      "ja": "色んなことを知ってそうな口ぶりなのに、<br>大した説明も行わず、勝手に議論を進めて――。",
+      "zh": "明明一副知道很多事情的样子，<br>\n却不见有什么说明，自顾自地推进讨论——",
+      "vi": "Rõ ràng là anh ấy có vẻ biết rất nhiều thứ, Nhưng không có lời giải thích nào, và cuộc thảo luận vẫn tiếp tục——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia012",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia012|",
+      "ja": "黒幕だと怪しまれて然るべきだ！",
+      "zh": "怀疑你是幕后黑手也很正常！",
+      "vi": "Việc nghi ngờ bạn là kẻ chủ mưu đằng sau chuyện này là điều bình thường!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro010|",
+      "ja": "（正直に説明したところで<br>　今の状態では信じてもらえそうにない……）",
+      "zh": "（就算坦白说明，<br>\n以目前的状态而言，她们也不太可能会信……）",
+      "vi": "(Ngay cả khi tôi nói thẳng với bạn rằng, Xét theo tình hình hiện tại, khó có khả năng họ sẽ tin vào điều đó...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro011|",
+      "ja": "（……レイアの心にダメージを与えるには<br>　どうすべきだろうか）",
+      "zh": "（……该怎么做才能<br>\n对蕾雅的心灵造成伤害呢）",
+      "vi": "(…Tôi nên làm gì với Nó có gây hại cho linh hồn của Leia không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro012|",
+      "ja": "（……これまでレイアと過ごしてきて<br>　気付いたことがある）",
+      "zh": "（……和蕾雅相处至今，<br>\n我注意到了一些事）",
+      "vi": "(...Hòa hợp với Leya cho đến nay, Tôi nhận thấy điều gì đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro013|",
+      "ja": "（彼女は、自身が脚光を浴びるべく動いていた）",
+      "zh": "（她是为了让自己受到瞩目而行动的）",
+      "vi": "(Cô ấy hành động để thu hút sự chú ý về phía mình)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro014|",
+      "ja": "（そんな彼女の奥に潜むエゴを指摘出来れば、<br>　あるいは――）",
+      "zh": "（如果能指出潜藏在她内心深处的自我中心主义，<br>\n或许就——）",
+      "vi": "(Nếu có thể chỉ ra được tính ích kỷ ẩn sâu trong trái tim cô ấy, Có lẽ chỉ——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro015|",
+      "ja": "（……そう、レイアの正義感自体は本物だ）",
+      "zh": "（……没错，蕾雅的正义感是真实的）",
+      "vi": "(...Phải, ý thức về công lý của Leya là có thật)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro016|",
+      "ja": "（だが……だからこそ、<br>　それが彼女のストレスの源になっている可能性はある）",
+      "zh": "（但……正因如此，<br>\n她的正义感很有可能就是她的压力来源）",
+      "vi": "(Nhưng...vì điều này, Ý thức về công lý của cô ấy có lẽ là nguồn gốc khiến cô ấy căng thẳng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro017|",
+      "ja": "（レイアには申し訳ないが……<br>　そこを突かせてもらう）",
+      "zh": "（虽然很对不住蕾雅……<br>\n就让我瞄准这点发起进攻吧）",
+      "vi": "(Tuy nhiên, tôi cảm thấy tiếc cho Leya... Hãy để tôi nhắm vào điểm này và phát động một cuộc tấn công)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro018|",
+      "ja": "……レイア、キミは<br>自分のことしか考えていない偽善者だ。",
+      "zh": "……蕾雅，你是个<br>\n只考虑自己的伪善者。",
+      "vi": "...Leya, bạn là Những kẻ đạo đức giả chỉ nghĩ đến bản thân mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia013",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia013|",
+      "ja": "い、いきなり何を……！？",
+      "zh": "你、你突然在说什么……！？",
+      "vi": "Ngươi, ngươi đột nhiên nói cái gì vậy...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro019|",
+      "ja": "何か問題が起きれば１人で保身に走る……。",
+      "zh": "一出现问题，你就只顾着独善其身……",
+      "vi": "Khi có chuyện gì xảy ra, bạn chỉ cần cố gắng giải quyết nó một mình...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro020|",
+      "ja": "君に、誰かを守る気なんてないんだよ。",
+      "zh": "你根本就没打算守护任何人。",
+      "vi": "Bạn không có ý định bảo vệ bất cứ ai.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia014",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia014|",
+      "ja": "……どうして。",
+      "zh": "……为什么。",
+      "vi": "...tại sao.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia015",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia015|",
+      "ja": "どうして、そんなひどいことを言うんだい？",
+      "zh": "为什么，要说这么过分的话？",
+      "vi": "Tại sao bạn lại nói những điều xúc phạm như vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia016",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia016|",
+      "ja": "私は……集団の中で問題が起きれば<br>みんなを守り、みんなで解決してきた。",
+      "zh": "我……在集体中遇到问题时，<br>\n都是挺身守护大家，和大家一起解决的。",
+      "vi": "Khi tôi... gặp vấn đề trong nhóm, Họ đã đứng lên bảo vệ mọi người và cùng mọi người giải quyết vấn đề.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia017",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia017|",
+      "ja": "舞台を作る時だって、<br>いつも座組――参加メンバーと共に歩んできたよ。",
+      "zh": "制作舞台剧的时候也是，<br>\n我一直以来都是和团队——也就是参加成员们共同进步的。",
+      "vi": "Điều tương tự cũng xảy ra với các vở kịch trên sân khấu, Tôi luôn tiến bộ cùng với nhóm, tức là các thành viên tham gia.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia018",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia018|",
+      "ja": "今の芸能界での地位こそが、その証だ。",
+      "zh": "我目前在演艺圈的地位，就是最好的证明。",
+      "vi": "Địa vị hiện tại của tôi trong làng giải trí là minh chứng rõ ràng nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia019",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia019|",
+      "ja": "だから確信を持って言えるよ。<br>みんなを守れるのは……私だけだ！",
+      "zh": "所以我能确信地说，<br>\n能守护大家的……只有我！",
+      "vi": "Vì vậy tôi có thể tự tin nói rằng Người duy nhất có thể bảo vệ mọi người... là tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro021|",
+      "ja": "（逆に確信を持たせてしまった……！）",
+      "zh": "（反而让她产生确信了……！）",
+      "vi": "(Ngược lại, nó khiến cô ấy cảm thấy bị thuyết phục...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro022|",
+      "ja": "（……レイアの心にダメージを与えるには<br>　どうすべきだろうか）",
+      "zh": "（……该怎么做才能<br>\n对蕾雅的心灵造成伤害呢）",
+      "vi": "(…Tôi nên làm gì với Nó có gây hại cho linh hồn của Leia không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro023|",
+      "ja": "（……これまでレイアと過ごしてきて<br>　気付いたことがある）",
+      "zh": "（……和蕾雅相处至今，<br>\n我注意到了一些事）",
+      "vi": "(...Hòa hợp với Leya cho đến nay, Tôi nhận thấy điều gì đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro024|",
+      "ja": "（彼女は、自身が脚光を浴びるべく動いていた）",
+      "zh": "（她是为了让自己受到瞩目而行动的）",
+      "vi": "(Cô ấy hành động để thu hút sự chú ý về phía mình)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro025|",
+      "ja": "（そんな彼女の奥に潜むエゴを指摘出来れば、<br>　あるいは――）",
+      "zh": "（如果能指出潜藏在她内心深处的自我中心主义，<br>\n或许就——）",
+      "vi": "(Nếu có thể chỉ ra được tính ích kỷ ẩn sâu trong trái tim cô ấy, Có lẽ chỉ——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro026|",
+      "ja": "その言葉は嘘だ。",
+      "zh": "你在说谎。",
+      "vi": "Bạn đang nói dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro027|",
+      "ja": "君が仲間を守りたいなんて言っているのは、<br>それらしい理由付けをしているに過ぎない。",
+      "zh": "所谓的守护同伴，<br>\n不过是你找来的冠冕堂皇的理由罢了。",
+      "vi": "Cái gọi là người bạn đồng hành giám hộ, Đó chỉ là một lý do nghe có vẻ cao siêu mà bạn tìm thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia020",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia020|",
+      "ja": "な、なんだと！？",
+      "zh": "你、你说什么！？",
+      "vi": "Bạn, bạn đã nói gì! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro028|",
+      "ja": "君が本当に守りたいのは、<br>自分の地位と外面だ。",
+      "zh": "你真正想守护的，<br>\n是自己的地位和面子。",
+      "vi": "Điều bạn thực sự muốn bảo vệ, Đó là trạng thái và khuôn mặt của riêng bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro029|",
+      "ja": "君はただ目立ちたいだけ……。",
+      "zh": "你只是单纯想引人注目……",
+      "vi": "Bạn chỉ muốn thu hút sự chú ý...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro030|",
+      "ja": "承認欲求に飢えたモンスターなんだよ。",
+      "zh": "你就是个渴望受认可的怪物。",
+      "vi": "Bạn là một con quái vật luôn khao khát được công nhận.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia021",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia021|",
+      "ja": "な、な……！",
+      "zh": "什、什么……！",
+      "vi": "C-cái gì...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Leia022",
+      "speaker_tag": "; > Leia: |#0205Trial03_Leia022|",
+      "ja": "何を根拠に、そんなことをっ！",
+      "zh": "你凭什么，这么说！",
+      "vi": "Tại sao bạn nói vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro031|",
+      "ja": "（その反応だけでも<br>　図星の証明には十分な気もするが……）",
+      "zh": "（光看她反应，<br>\n我就知道我戳中她的弱点了……）",
+      "vi": "(Chỉ cần nhìn vào phản ứng của cô ấy, Tôi biết tôi đã đánh trúng điểm yếu của cô ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro032|",
+      "ja": "（とはいえ長々と話し込んで<br>　議論を打ち切られるわけにもいかない）",
+      "zh": "（只不过我得注意不能过于拖沓，<br>\n以免打断了讨论）",
+      "vi": "(Chỉ là tôi phải cẩn thận để không trì hoãn quá nhiều, (để không làm gián đoạn cuộc thảo luận)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro033|",
+      "ja": "（彼女の心の奥底を揺さぶらなくては……！）",
+      "zh": "（我必须震撼她的深层内心……！）",
+      "vi": "(Mình phải sốc sâu vào bên trong cô ấy...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial03_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Trial03_Hiro034|",
+      "ja": "（悪いがその虚飾の仮面は、<br>　早急に剥がさせてもらおう）",
+      "zh": "（抱歉，就让我尽快剥掉<br>\n你虚伪的面具吧）",
+      "vi": "(Xin lỗi, hãy để tôi bóc nó ra càng sớm càng tốt Mặt nạ đạo đức giả của bạn)",
+      "objection_links": []
+    }
+  ]
+}

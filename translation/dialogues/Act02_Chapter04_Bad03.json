@@ -1,0 +1,560 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Bad03",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Bad03' Naninovel scenario script",
+  "total_entries": 69,
+  "entries": [
+    {
+      "id": "0204Bad03_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro001|",
+      "ja": "止めてもどうせやるんだろう……。<br>なら勝手にすればいい。",
+      "zh": "反正就算我制止，你也不会听吧……<br>\n那就随你便好了。",
+      "vi": "Dù sao thì dù tôi có ngăn cản thì bạn cũng không nghe... Điều đó tùy thuộc vào bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry001",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry001|",
+      "ja": "ヒロさん、わかってますねー！<br>ではでは、一旦地上に戻りますね！",
+      "zh": "希罗你很懂我嘛！<br>\n那么那么，我先暂时回地面一趟哦！",
+      "vi": "Anh hùng, bạn hiểu tôi rất rõ! Vậy thì hãy để tôi trở lại mặt đất một lúc nhé!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative001",
+      "speaker_tag": "",
+      "ja": "シェリーは途中でエレベーターを止めると、<br>すぐに上階のボタンを押す。",
+      "zh": "雪莉在中途停下电梯，<br>\n随即按下了去上层的按钮。",
+      "vi": "Sherry dừng thang máy giữa chừng, Sau đó anh nhấn nút để lên tầng trên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative002",
+      "speaker_tag": "",
+      "ja": "エレベーターの扉が開くと、<br>驚いたようなレイアの姿があった。",
+      "zh": "电梯门一开，<br>\n映入眼帘的是一脸惊讶的蕾雅。",
+      "vi": "Ngay khi cửa thang máy mở ra, Điều khiến anh chú ý là Leya với vẻ mặt ngạc nhiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Leia001",
+      "speaker_tag": "; > Leia: |#0204Bad03_Leia001|",
+      "ja": "……おや？ もう地下探索は終わったのかい？",
+      "zh": "……咦？地下探索这就结束了吗？",
+      "vi": "...Hả? Đây có phải là sự kết thúc của cuộc thám hiểm dưới lòng đất?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry002",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry002|",
+      "ja": "いえ！ その前にちょっと試したいことがありまして！",
+      "zh": "不是的！在那之前我还有点想试试看的事！",
+      "vi": "Không! Trước đó, có một vài điều tôi muốn thử!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative003",
+      "speaker_tag": "",
+      "ja": "シェリーはすぐにエレベーターを閉めると、<br>何度もボタンを押す。",
+      "zh": "橘雪莉立刻关上电梯门，<br>\n然后反复按着按钮。",
+      "vi": "Sherry Tachibana lập tức đóng cửa thang máy lại, Sau đó nhấn nút nhiều lần.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro002|",
+      "ja": "……適当に押してるだけじゃないのか？",
+      "zh": "……你只是在随便乱按而已吧？",
+      "vi": "...Bạn chỉ nhấp ngẫu nhiên thôi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry003",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry003|",
+      "ja": "違いますよ！ ちゃんと順番通りです！",
+      "zh": "才不是呢！我有好好按照顺序来的！",
+      "vi": "Không hề! Tôi đã làm theo mệnh lệnh một cách cẩn thận!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative004",
+      "speaker_tag": "",
+      "ja": "エレベーターは何度も昇ったり降りたりを繰り返す。",
+      "zh": "电梯一再升起又降下，反复不停。",
+      "vi": "Thang máy lên đi xuống hết lần này đến lần khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro003|",
+      "ja": "（なんだか、少し気持ち悪くなってきた……）",
+      "zh": "（总感觉开始有点恶心想吐了……）",
+      "vi": "(Tôi cảm thấy hơi buồn nôn và muốn nôn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative005",
+      "speaker_tag": "",
+      "ja": "そろそろ止めるように言おうか考えていると、<br>エレベーターが止まった。",
+      "zh": "我正想着是不是该劝她适可而止时，<br>\n电梯终于停住了。",
+      "vi": "Khi tôi đang suy nghĩ xem có nên khuyên cô ấy dừng lại hay không, Thang máy cuối cùng cũng dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro004|",
+      "ja": "（終わったのか？）",
+      "zh": "（结束了吗？）",
+      "vi": "(Hết rồi à?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative006",
+      "speaker_tag": "",
+      "ja": "エレベーターの扉は開くけれど、<br>誰も乗り込んでくる様子はない。",
+      "zh": "电梯门开启，<br>\n却没有人进来。",
+      "vi": "Cửa thang máy mở ra, Nhưng không có ai bước vào.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro005|",
+      "ja": "もう十分だ。<br>そろそろ地下探索に戻ろう。",
+      "zh": "够了。<br>\n差不多该继续探索地下的正事了。",
+      "vi": "Đủ rồi. Đã đến lúc bắt tay vào công việc khám phá lòng đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry004",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry004|",
+      "ja": "……下に、下に行かないと。",
+      "zh": "……要去下面，必须去下面……",
+      "vi": "...Muốn đi xuống thì phải đi xuống...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro006|",
+      "ja": "聞いてるのか？",
+      "zh": "你在听吗？",
+      "vi": "bạn có đang nghe không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry005",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry005|",
+      "ja": "地……に……異……に……。",
+      "zh": "要去……地……去……异世……",
+      "vi": "Đi đến...đất liền...tới...một thế giới khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative007",
+      "speaker_tag": "",
+      "ja": "何かをブツブツ<ruby=\"つぶや\">呟</ruby>きながらも、<br>シェリーは地下へ向かうボタンを押す。",
+      "zh": "雪莉一边念叨着什么，<br>\n一边按下了通往地下的按钮。",
+      "vi": "Sherry đang lẩm bẩm điều gì đó, Trong khi nhấn nút dẫn xuống lòng đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry006",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry006|",
+      "ja": "……れて、……く。",
+      "zh": "……带、……你去。",
+      "vi": "...Đưa...bạn tới đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro007|",
+      "ja": "？",
+      "zh": "？",
+      "vi": "？",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro008|",
+      "ja": "（一体なんなんだ？）",
+      "zh": "（到底怎么回事？）",
+      "vi": "(Chuyện gì đang xảy ra vậy?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative008",
+      "speaker_tag": "",
+      "ja": "ほんの少し前まで、異世界だなんだと大騒ぎしていたのに、<br>今は不自然なほど大人しい。",
+      "zh": "就在刚才，她还为了异世界什么什么的在那大惊小怪，<br>\n现在却安静得有些怪异。",
+      "vi": "Vừa rồi cô ấy đang làm ầm ĩ về một thế giới khác, Bây giờ yên tĩnh lạ lùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro009",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro009|",
+      "ja": "（そんなに異世界に行きたかったのか？）",
+      "zh": "（就那么想去异世界吗？）",
+      "vi": "(Bạn có thực sự muốn đến một thế giới khác không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative009",
+      "speaker_tag": "",
+      "ja": "あのシェリーに限って、<br>それしきのことで落ち込むとは思えないが、<br>実際様子がおかしい。",
+      "zh": "虽然觉得以雪莉的性格，<br>\n应该不至于为这点小事消沉，<br>\n但她的样子确实很反常。",
+      "vi": "Mặc dù tôi cảm thấy điều đó với tính cách của Sherry, Bạn không nên chán nản vì một vấn đề tầm thường như vậy, Nhưng cô ấy trông có vẻ khác thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative010",
+      "speaker_tag": "",
+      "ja": "そんなことを考えていると、<br>エレベーターが止まった。",
+      "zh": "我正想着这些有的没的，<br>\n电梯停下了。",
+      "vi": "Tôi vừa nghĩ về một số điều này, Thang máy dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro010",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro010|",
+      "ja": "……暗いな。",
+      "zh": "……好黑啊。",
+      "vi": "…Trời tối quá.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative011",
+      "speaker_tag": "",
+      "ja": "ドアの向こうは、一筋の光も差さない<br>真っ暗闇。",
+      "zh": "门外，<br>\n是连一丝光线都不存在的极致黑暗。",
+      "vi": "Ngoài cửa, Đó là bóng tối tột cùng không có một chút ánh sáng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative012",
+      "speaker_tag": "",
+      "ja": "さすがの私も、<br>思わず降りるのを<ruby=\"ためら\">躊躇</ruby>ってしまう。",
+      "zh": "就连我也忍不住犹豫<br>\n要不要下电梯。",
+      "vi": "Ngay cả tôi cũng không thể không do dự Bạn có muốn ra khỏi thang máy không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative013",
+      "speaker_tag": "",
+      "ja": "だというのに、シェリーは構うことなく<br>暗闇の中へと進み出した。",
+      "zh": "可雪莉却毫不在意，<br>\n迈步踏向黑暗中。",
+      "vi": "Nhưng Sherry không quan tâm, Bước vào bóng tối.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry007",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry007|",
+      "ja": "……。",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro011",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro011|",
+      "ja": "なっ……おい、待て！",
+      "zh": "什……喂，等等！",
+      "vi": "Cái gì... Này, chờ đã!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative014",
+      "speaker_tag": "",
+      "ja": "まるで道が見えているみたいに、<br>シェリーはどんどん進んでいく。",
+      "zh": "雪莉仿佛能看见路一般，<br>\n径直向前走得飞快。",
+      "vi": "Sherry dường như có thể nhìn thấy đường, Đi thẳng về phía trước một cách nhanh chóng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative015",
+      "speaker_tag": "",
+      "ja": "あっという間にその背は闇に飲まれて<br>見えなくなる。",
+      "zh": "眨眼间，她的身影就被黑暗吞没，<br>\n再也看不见了。",
+      "vi": "Trong chớp mắt, bóng dáng cô đã bị bóng tối nuốt chửng, Không bao giờ nhìn thấy một lần nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative016",
+      "speaker_tag": "",
+      "ja": "私は慌ててシェリーを追いかけた。",
+      "zh": "我慌忙追了上去。",
+      "vi": "Tôi vội đuổi theo anh ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro012",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro012|",
+      "ja": "全く、勝手に――。",
+      "zh": "真是的，又自顾自地——",
+      "vi": "Thực sự, tôi chỉ đang nghĩ về bản thân mình thôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry008",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry008|",
+      "ja": "……ヒロさん！",
+      "zh": "……希罗！",
+      "vi": "……Hiro！",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro013",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro013|",
+      "ja": "……えっ？",
+      "zh": "……欸？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative017",
+      "speaker_tag": "",
+      "ja": "唐突に聞こえたシェリーの声。",
+      "zh": "突然，雪莉的声音响起。",
+      "vi": "Đột nhiên, giọng nói của Sherry vang lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative018",
+      "speaker_tag": "",
+      "ja": "それは何故か、背後――<br>エレベーターの中から聞こえてきた。",
+      "zh": "但那声音不知为何，却是从我背后——<br>\n电梯里传来的。",
+      "vi": "Nhưng vì lý do nào đó, âm thanh đó lại phát ra từ phía sau tôi—— Đến từ thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative019",
+      "speaker_tag": "",
+      "ja": "シェリーはさっき、先に降りたはずなのに。",
+      "zh": "雪莉应该是在我前面先下的电梯才对。",
+      "vi": "Đáng lẽ Sherry phải ra khỏi thang máy trước tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry009",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry009|",
+      "ja": "ヒロさん！ 早く、早く戻って……！",
+      "zh": "希罗！快点，快点回来……！",
+      "vi": "Anh hùng! Thôi, về nhanh đi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative020",
+      "speaker_tag": "",
+      "ja": "どういうことだ。<br>どうして、シェリーがそこにいる。",
+      "zh": "怎么回事？<br>\n雪莉怎么会还在电梯里？",
+      "vi": "Chuyện gì đang xảy ra vậy? Tại sao Sherry vẫn còn trong thang máy?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative021",
+      "speaker_tag": "",
+      "ja": "よくわからない。<br>けれど１つだけ確かなことは、<br>エレベーターへ戻った方がいいということ。",
+      "zh": "我搞不懂。<br>\n但有一点可以确定的是——<br>\n我最好回到电梯里去。",
+      "vi": "Tôi không hiểu. Nhưng có một điều chắc chắn - Tốt hơn là tôi nên quay lại thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Girl001",
+      "speaker_tag": "; > Girl: |#0204Bad03_Girl001|",
+      "ja": "ダメ……帰さない。",
+      "zh": "不行……不会让你回去。",
+      "vi": "Không... anh sẽ không để em quay lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative022",
+      "speaker_tag": "",
+      "ja": "聞こえた声は、シェリーと同じもの。<br>けれどあまりの<ruby=\"ほのぐら\">仄暗</ruby>さに、ぞわりと<br>肌が<ruby=\"あわだ\">粟立</ruby>った。",
+      "zh": "这声音和雪莉一模一样。<br>\n但声音里的森森寒意，<br>\n令我毛骨悚然。",
+      "vi": "Giọng nói giống hệt Sherry. Nhưng trong giọng nói có chút lạnh lẽo, Nó làm tôi phát điên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro014",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro014|",
+      "ja": "（振り向いてはいけない）",
+      "zh": "（不能回头）",
+      "vi": "(Không thể nhìn lại)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro015",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro015|",
+      "ja": "っ！",
+      "zh": "——！",
+      "vi": "——！",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry010",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry010|",
+      "ja": "ヒロさん！ 急いで！！",
+      "zh": "希罗！赶紧啊！！",
+      "vi": "Anh hùng! Sự vội vàng! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative023",
+      "speaker_tag": "",
+      "ja": "すぐさま<ruby=\"きびす\">踵</ruby>を返した私の目の前で、<br>エレベーターが上昇し始めた。",
+      "zh": "我猛然转身，<br>\n电梯却在我眼前开始缓缓上升。",
+      "vi": "Tôi đột ngột quay lại, Thang máy bắt đầu từ từ đi lên trước mắt tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro016",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro016|",
+      "ja": "（そんな……っ！）",
+      "zh": "（怎么会……！）",
+      "vi": "(Sao có thể...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro017",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro017|",
+      "ja": "待ってくれ！",
+      "zh": "等等！",
+      "vi": "Đợi đã!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry011",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry011|",
+      "ja": "ヒロさん、早くっ！！",
+      "zh": "希罗，快点！！",
+      "vi": "Anh hùng, nhanh lên! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative024",
+      "speaker_tag": "",
+      "ja": "必死に手を伸ばす。",
+      "zh": "我拼命伸出手。",
+      "vi": "Tôi đưa tay ra một cách tuyệt vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative025",
+      "speaker_tag": "",
+      "ja": "あと少し。<br>あと少しで――",
+      "zh": "只差一点。<br>\n只差一点点就——",
+      "vi": "Chỉ một chút thôi. Chỉ cách đây một chút thôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Girl002",
+      "speaker_tag": "; > Girl: |#0204Bad03_Girl002|",
+      "ja": "ふフ……ダメだよ。<br>帰さない、帰さナイ、カエさない、カエサナイ。",
+      "zh": "呵呵……不行哦。<br>\n不让你回去、不让你回、不准你回、不准你逃。",
+      "vi": "Haha... không thể nào. Bạn không được phép quay lại, bạn không được phép quay lại, bạn không được phép quay lại và bạn không được phép trốn thoát.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro018",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro018|",
+      "ja": "ひっ！？",
+      "zh": "噫！？",
+      "vi": "Ôi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative026",
+      "speaker_tag": "",
+      "ja": "暗闇から伸びた手が、<br>身体にまとわりついてくる。",
+      "zh": "黑暗中伸出的手缠上了我的身体。<br>",
+      "vi": "Những bàn tay vươn ra từ bóng tối bao bọc lấy cơ thể tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro019",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro019|",
+      "ja": "嫌だ！ やめろ、離せっ！",
+      "zh": "不要！住手，放开我！",
+      "vi": "Đừng! Dừng lại, để tôi đi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry012",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry012|",
+      "ja": "ヒロさん！ ヒロさん！",
+      "zh": "希罗！希罗！",
+      "vi": "Hiro！Hiro！",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative027",
+      "speaker_tag": "",
+      "ja": "がむしゃらに暴れれば暴れるほど、<br>絡みつく手の本数が増え、<br>私を闇に引きずり込もうとする。",
+      "zh": "我越是挣扎，<br>\n纠缠上来的手就越是增多，<br>\n它们正试图将我拖入黑暗深处。",
+      "vi": "Tôi càng đấu tranh, Số lượng tay vướng víu tăng lên, Họ đang cố gắng kéo tôi vào vực sâu của bóng tối.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative028",
+      "speaker_tag": "",
+      "ja": "――ここで、一緒に過ごしましょう。<br>――一緒に闇に溶けましょう。<br>――永遠に、闇の中で。",
+      "zh": "——就在这里，一起度过吧。<br>\n——一同融化在这黑暗。<br>\n——永远，在这黑暗中。",
+      "vi": "---Hãy dành thời gian cùng nhau ở đây. -- Tan chảy cùng nhau trong bóng tối này. ---Mãi mãi, trong bóng tối này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro020",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro020|",
+      "ja": "嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ！",
+      "zh": "不要不要不要不要不要不要不要！",
+      "vi": "Đừng đừng đừng đừng đừng đừng!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative029",
+      "speaker_tag": "",
+      "ja": "頭に響く声を振り払おうにも、<br>身体が、視界が、思考が、<br>どんどん闇に覆われていく。",
+      "zh": "我试图挣脱那些在脑中不断回响的低语，却无能为力。<br>\n我的身体、我的视野、我的意识，<br>\n全都被黑暗逐一蚕食。",
+      "vi": "Tôi cố gắng xua đi những lời thì thầm cứ vang vọng trong đầu nhưng không thể. Cơ thể của tôi, tầm nhìn của tôi, ý thức của tôi, Tất cả đều bị bóng tối ăn mòn từng người một.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro021",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro021|",
+      "ja": "あ、ああ……あぁっ",
+      "zh": "啊，啊啊……啊啊！",
+      "vi": "A, a a... a a!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro022",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro022|",
+      "ja": "（ダメだ、このままじゃ……）",
+      "zh": "（不行，再这样下去我会……）",
+      "vi": "(Không, nếu chuyện này tiếp tục thì mình sẽ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Hiro023",
+      "speaker_tag": "; > Hiro: |#0204Bad03_Hiro023|",
+      "ja": "助け……っ",
+      "zh": "救救……",
+      "vi": "Giúp...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Sherry013",
+      "speaker_tag": "; > Sherry: |#0204Bad03_Sherry013|",
+      "ja": "ヒロさん――！！",
+      "zh": "……希罗！",
+      "vi": "……Hiro！",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad03_Narrative030",
+      "speaker_tag": "",
+      "ja": "悲痛な声で名を呼ぶシェリーの声が途切れるのを最後に、<br>私は二度と光を目にすることはなかった。",
+      "zh": "随着雪莉撕心裂肺的呼喊戛然而止，<br>\n我再也未能见到光明。",
+      "vi": "Khi tiếng hét đau lòng của Sherry đột ngột kết thúc, Tôi không bao giờ nhìn thấy ánh sáng nữa.",
+      "objection_links": []
+    }
+  ]
+}

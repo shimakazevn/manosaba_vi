@@ -1,0 +1,512 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter01_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter01_Trial00",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter01/Act02_Chapter01_Trial00' Naninovel scenario script",
+  "total_entries": 63,
+  "entries": [
+    {
+      "id": "0201Trial00_Leia001",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia001|",
+      "ja": "それじゃあ始めようか。<br>メルルくんを殺した犯人……<br>魔女を決める裁判を！",
+      "zh": "那么，我们开始吧。<br>\n开始这场找出杀害梅露露的凶手……<br>\n揪出魔女的审判！",
+      "vi": "Vì vậy, hãy bắt đầu. Hành trình tìm ra kẻ sát hại Meruru bắt đầu... Khám phá sự phán xét của phù thủy!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro001",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro001|",
+      "ja": "（投票によって犯人が決められ、<br>　そして処刑される魔女裁判）",
+      "zh": "（通过投票来决定凶手，<br>\n并将其处刑。这就是魔女审判）",
+      "vi": "(Bỏ phiếu quyết định kẻ giết người, và xử tử anh ta. Đây là Phiên tòa xét xử phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro002",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro002|",
+      "ja": "（……拘束されていた私にとってみれば、<br>　裁判など名ばかりで<br>　公平性なんてかけらもない……）",
+      "zh": "（……对于行动受限的我来说，<br>\n所谓的审判不过是徒有虚名，<br>\n根本没有任何公平可言……）",
+      "vi": "(...Đối với tôi, người bị hạn chế về khả năng di chuyển, Cái gọi là phiên tòa chỉ trên danh nghĩa mà thôi, Chẳng có sự công bằng nào cả...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Coco001",
+      "speaker_tag": "; > Coco: |#0201Trial00_Coco001|",
+      "ja": "つーか、何か話すことあるん？",
+      "zh": "我说，还有什么好讨论的？",
+      "vi": "Coco nói rồi, còn gì để bàn nữa?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Miria001",
+      "speaker_tag": "; > Miria: |#0201Trial00_Miria001|",
+      "ja": "……というと。",
+      "zh": "……什么意思？",
+      "vi": "...nó có nghĩa là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Coco002",
+      "speaker_tag": "; > Coco: |#0201Trial00_Coco002|",
+      "ja": "そりゃあ……【現行犯】なんだしさ。<br>犯人なんて決まってるじゃん。",
+      "zh": "因为……这不是【现行犯】吗？<br>\n凶手不是已经很明显了嘛。",
+      "vi": "Bởi vì... đây không phải là [tội ác hiện tại] sao? Chẳng phải kẻ giết người đã rõ ràng rồi sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro003",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro003|",
+      "ja": "（……度し難い。<br>　こんな茶番、付き合っていられない）",
+      "zh": "（……简直不可理喻。<br>\n这种闹剧，我可没心情奉陪）",
+      "vi": "(…Nó đơn giản là vô lý. Tôi không có tâm trạng để chơi trò hề này)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Miria002",
+      "speaker_tag": "; > Miria: |#0201Trial00_Miria002|",
+      "ja": "け、結論を出すには<br>ちょ～っとだけ早いんじゃないかな……？",
+      "zh": "现、现在就下结论<br>\n是不是太早了点呢……？",
+      "vi": "Bây giờ hãy đưa ra kết luận ngay Có phải là quá sớm không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Miria003",
+      "speaker_tag": "; > Miria: |#0201Trial00_Miria003|",
+      "ja": "べつにまだヒロちゃんが殺したって<br>決まったわけじゃないしさ……！",
+      "zh": "毕竟现在还不确定<br>\n人就是小希杀的……！",
+      "vi": "Rốt cuộc thì vẫn chưa chắc chắn Người bị Tiêu Hi giết chết...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia002",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia002|",
+      "ja": "……たしかに、ミリアくんの言う通りかもしれないね。",
+      "zh": "……嗯，米莉亚说得对。",
+      "vi": "…Chà, Miria nói đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Miria004",
+      "speaker_tag": "; > Miria: |#0201Trial00_Miria004|",
+      "ja": "だ、だよね……！",
+      "zh": "对、对吧……！",
+      "vi": "Vâng, đúng rồi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia003",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia003|",
+      "ja": "それに、仮にヒロくんが犯人だとしても<br>何が起こったのかは<br>明らかにすべきじゃないかな？",
+      "zh": "况且，就算希罗是凶手，<br>\n我们也应该弄清楚<br>\n到底发生了什么，不是吗？",
+      "vi": "Ngoài ra, ngay cả khi Anh hùng là kẻ sát nhân, Chúng ta cũng nên tìm ra Đó là những gì đã xảy ra phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Sherry001",
+      "speaker_tag": "; > Sherry: |#0201Trial00_Sherry001|",
+      "ja": "その意見に賛成です！<br>ヒロさんがどうやってメルルさんを殺したのか、<br>お話を整理してみましょうか！",
+      "zh": "我赞成这个观点！<br>\n让我们整理一下<br>\n希罗是如何杀害梅露露的，怎么样！",
+      "vi": "Tôi đồng ý với quan điểm này! Hãy sắp xếp nó ra Hiro đã giết Meruru như thế nào? Thế thì sao!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro004",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro004|",
+      "ja": "（……弁解するチャンスぐらいは<br>　あるのか）",
+      "zh": "（……看来<br>\n至少我还有辩解的机会）",
+      "vi": "(...Có vẻ như Ít nhất tôi vẫn còn cơ hội để tự vệ)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro005",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro005|",
+      "ja": "（なら……あがこう。<br>　最後まで、正しい道に向かって……！）",
+      "zh": "（那么……我要奋力一搏。<br>\n直到最后一刻，都要朝着正确的方向前进……！）",
+      "vi": "(Vậy...tôi sẽ thử. Hãy tiếp tục đi đúng hướng cho đến phút cuối cùng...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia004",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia004|",
+      "ja": "……では、まずは現場の状況を<br>私から説明しよう。",
+      "zh": "……那么，首先由我来说明<br>\n现场的情况吧。",
+      "vi": "...Chà, trước tiên hãy để tôi giải thích Tình hình tại hiện trường.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia005",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia005|",
+      "ja": "現場では被害者である氷上メルルくんの死体が発見された。",
+      "zh": "现场发现了被害人冰上梅露露的尸体。",
+      "vi": "Thi thể nạn nhân Bingshang Meruru được tìm thấy tại hiện trường.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia006",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia006|",
+      "ja": "発見当時、現場には二階堂ヒロくんがいた……<br>間違いないね？",
+      "zh": "发现尸体时，二阶堂希罗就在现场……<br>\n没错吧？",
+      "vi": "Khi thi thể được phát hiện, Hiro Nikaido đã có mặt tại hiện trường... Đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro006",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro006|",
+      "ja": "……間違いないよ。<br>私はそこにいた……。",
+      "zh": "……没错。<br>\n当时我的确在现场。",
+      "vi": "...đúng rồi. Tôi thực sự đã ở đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia007",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia007|",
+      "ja": "これはその時、ココくんが撮った現場写真だ。",
+      "zh": "这是可可当时拍下的现场照片。",
+      "vi": "Đây là bức ảnh chụp lại khung cảnh được Coco chụp vào thời điểm đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia008",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia008|",
+      "ja": "写真通りメルルくんの横にヒロくんは倒れており、<br>周囲に他の人の足跡はなかった……。",
+      "zh": "正如照片所示，希罗倒在梅露露身旁，<br>\n周围也没有第三者的足迹……",
+      "vi": "Như trong ảnh, Hiro ngã xuống cạnh Meruru, Không có dấu vết của bên thứ ba xung quanh...",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro007",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro007|",
+      "ja": "（たしかに周囲に足跡はない……）",
+      "zh": "（周围确实没有足迹……）",
+      "vi": "(Quả thực không có dấu chân nào xung quanh...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro008",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro008|",
+      "ja": "（【私以外にメルルを殺せる者はいなかった】……<br>　そう言いたいんだろう）",
+      "zh": "（【除我之外，没有人能杀害梅露露】……<br>\n她是这个意思吧）",
+      "vi": "([Không ai có thể giết Meruru ngoại trừ tôi]... Đây có phải là ý của cô ấy không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia009",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia009|",
+      "ja": "次に凶器だ。<br>これはメルルくんの胸に刺さっていた剣だろう。",
+      "zh": "接下来是凶器。<br>\n就是这把刺穿梅露露胸口的剑。",
+      "vi": "Tiếp theo là hung khí giết người. Đó là thanh kiếm đâm vào ngực Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia010",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia010|",
+      "ja": "これについて、ヒロくんから何か弁解はあるかな？",
+      "zh": "对于这件凶器，希罗你有什么要解释的吗？",
+      "vi": "Hiro, cậu có điều gì cần giải thích về vũ khí giết người này không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro009",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro009|",
+      "ja": "……知らないな。<br>見たこともないものだ。",
+      "zh": "……不知道。<br>\n我从没见过那东西。",
+      "vi": "...không biết. Tôi chưa bao giờ nhìn thấy thứ đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia011",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia011|",
+      "ja": "なるほど、関与を否定するんだね。<br>たしかに、その方が賢い選択かもしれないけど。",
+      "zh": "明白了，你否认和凶器有关联。<br>\n嗯，这也许是更明智的选择。",
+      "vi": "Hiểu rồi, anh phủ nhận có liên quan đến vũ khí giết người. Vâng, đó có thể là sự lựa chọn khôn ngoan hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro010",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro010|",
+      "ja": "……ご高説、痛み入るよ。",
+      "zh": "……您的见解如此高明，真是让我受益匪浅。",
+      "vi": "...Tôi đã được hưởng lợi rất nhiều từ những hiểu biết sâu sắc của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia012",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia012|",
+      "ja": "最後に、メルルくんの死体についてだ。",
+      "zh": "最后，是梅露露的尸体的情况。",
+      "vi": "Cuối cùng là tình trạng của cơ thể Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia013",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia013|",
+      "ja": "勝手ながら、少し体を調べさせてもらったよ。",
+      "zh": "我自作主张，对尸体进行了一些检查。",
+      "vi": "Tôi tự mình đi khám nghiệm thi thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia014",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia014|",
+      "ja": "死体の状況からいって、死後２０分以上は経過していたね。<br>……ただ、亡くなったのは１時間以内だろう。",
+      "zh": "从尸体状况来看，死亡时间应该已经超过20分钟……<br>\n但不会超过1小时。",
+      "vi": "Xét theo tình trạng của thi thể, thời gian tử vong đáng lẽ phải hơn 20 phút... Nhưng nó sẽ không vượt quá 1 giờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia015",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia015|",
+      "ja": "もちろん、ちゃんと調べる設備もないので<br>おおよその時間だけどね。",
+      "zh": "当然，因为没有检查的专业设备，<br>\n这只是我的粗略估计。",
+      "vi": "Tất nhiên, vì không có thiết bị kiểm tra chuyên nghiệp nên Đây chỉ là ước tính sơ bộ của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro011",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro011|",
+      "ja": "……【検死】したのか？",
+      "zh": "……你进行了【验尸】？",
+      "vi": "...Bạn đã tiến hành [khám nghiệm tử thi]?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia016",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia016|",
+      "ja": "ああ。<br>以前、役作りのときにちょっと勉強したことがあってね。<br>あくまでも素人の真似事だが……間違ってはないはずさ。",
+      "zh": "嗯，<br>\n以前为了进入角色，我学习过一些相关知识。<br>\n虽然只是外行人依样画葫芦……但应该没有弄错。",
+      "vi": "Vâng, Để có thể nhập vai trước đây, tôi đã học hỏi được một số kiến thức liên quan. Mặc dù đó chỉ là sự bắt chước của một người bình thường...nhưng chắc chắn không thể nhầm lẫn được.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia017",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia017|",
+      "ja": "死因は見ての通り、胸の刺し傷だろうね。",
+      "zh": "如大家所见，死因显然是胸部的刺伤。",
+      "vi": "Như bạn có thể thấy, nguyên nhân cái chết rõ ràng là do một vết đâm vào ngực.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia018",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia018|",
+      "ja": "あとこれはまだどういうことなのか<br>わかってはいないんだが……。",
+      "zh": "另外，<br>\n还有一件我也搞不懂的怪事……",
+      "vi": "Ngoài ra, Còn một điều kỳ lạ nữa mà tôi không thể hiểu nổi...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia019",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia019|",
+      "ja": "……彼女の瞳は【義眼】のようになっていたんだ。<br>眼が鉱物のように変化しかけていた……というか。",
+      "zh": "……她的眼睛变得像【义眼】一样。<br>\n准确来说，眼球似乎逐渐变成矿物状的物质……",
+      "vi": "…Đôi mắt của cô ấy trở nên giống như [mắt giả]. Nói chính xác hơn, nhãn cầu dường như dần dần biến thành một chất giống như khoáng chất…",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro012",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro012|",
+      "ja": "（眼が鉱物……？<br>　普通の現象ではないようだ）",
+      "zh": "（眼球变成矿物……？<br>\n这可不是寻常现象）",
+      "vi": "(Nhãn cầu biến thành khoáng chất...? Đây không phải là hiện tượng bất thường)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Coco003",
+      "speaker_tag": "; > Coco: |#0201Trial00_Coco003|",
+      "ja": "……あー、それについては<br>あんま気にしなくていいかも。",
+      "zh": "……啊，那个问题<br>\n你们没必要在意啦。",
+      "vi": "...À, câu hỏi đó Bạn không cần phải quan tâm.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia020",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia020|",
+      "ja": "何か知っているのかい？",
+      "zh": "你知道些什么吗？",
+      "vi": "Bạn có biết điều gì không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Coco004",
+      "speaker_tag": "; > Coco: |#0201Trial00_Coco004|",
+      "ja": "まあ……【魔女】が死んだらそうなるっていうか……。<br>死ぬにはそうするしかないっていうか。",
+      "zh": "嗯……【魔女】死后就会变成那样……或者说，<br>\n魔女要死的话，就只能变成那样。",
+      "vi": "Hmm... [Witch] sẽ trở nên như vậy sau khi chết... hay đúng hơn là Nếu phù thủy chết, cô ấy sẽ phải trở thành như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Coco005",
+      "speaker_tag": "; > Coco: |#0201Trial00_Coco005|",
+      "ja": "……ま、今は関係ないんじゃねーかな。<br>死因は刺された傷が原因なんっしょ？",
+      "zh": "……不过，现在这个问题不重要吧。<br>\n反正死因是刺伤，不是吗？",
+      "vi": "...Tuy nhiên, câu hỏi này bây giờ không còn quan trọng nữa. Dù sao thì nguyên nhân cái chết là do bị đâm phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia021",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia021|",
+      "ja": "……そうだね。<br>遺体を見た限り、心臓を刺されたのが<br>死因なのは間違いない。",
+      "zh": "……嗯。<br>\n从尸体状况来看，被刺穿心脏<br>\n是直接死因。",
+      "vi": "...Hừm. Đánh giá tình trạng cơ thể thì trái tim đã bị đâm là nguyên nhân trực tiếp gây tử vong.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia022",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia022|",
+      "ja": "眼については、死後に何か理由があって<br>死体の損壊が行われた……<br>ということなのかもしれないね。",
+      "zh": "至于眼睛……<br>\n说不定是有人出于某些原因，<br>\n在她死后对尸体进行了破坏。",
+      "vi": "Về phần mắt... Có lẽ ai đó có lý do nào đó, Cơ thể đã bị phá hủy sau khi cô qua đời.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Warden001",
+      "speaker_tag": "; > Warden: |#0201Trial00_Warden001|",
+      "ja": "……それについては私からも<br>証言しておきましょうか。",
+      "zh": "……关于这一点，<br>\n我也来作证好了。",
+      "vi": "…với lưu ý đó, Tôi cũng ở đây để làm chứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Warden002",
+      "speaker_tag": "; > Warden: |#0201Trial00_Warden002|",
+      "ja": "メルル様の眼は、<br>魔女の不死性を失わせる薬の<br>副作用によるものですが……。",
+      "zh": "梅露露大人眼睛的异变，<br>\n是消除魔女不死特性的药物<br>\n产生的副作用导致的……",
+      "vi": "Sự đột biến trong mắt Chúa Meruru, Đó là loại thuốc loại bỏ sự bất tử của phù thủy Do tác dụng phụ...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Warden003",
+      "speaker_tag": "; > Warden: |#0201Trial00_Warden003|",
+      "ja": "この変化具合からいくと、<br>メルル様が胸を突かれたのは<br>薬が効く前のはずです。",
+      "zh": "从眼球变化的程度来看，<br>\n梅露露大人胸口被贯穿的时间<br>\n应该是在药物生效之前。",
+      "vi": "Đánh giá theo mức độ thay đổi của nhãn cầu, Lần ngực bà Meruru bị xuyên thủng Điều này phải xảy ra trước khi thuốc có hiệu lực.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Warden004",
+      "speaker_tag": "; > Warden: |#0201Trial00_Warden004|",
+      "ja": "おそらくは、その剣の刃に塗ってあったのでしょう。<br>間違っても不用意に触って指を切ったりしないでくださいね。",
+      "zh": "恐怕毒药是涂在剑刃上的。<br>\n请各位注意不要乱碰，以免受伤中毒哦。",
+      "vi": "Tôi e rằng chất độc đã được bôi vào lưỡi dao. Hãy cẩn thận không chạm ngẫu nhiên để tránh bị thương hoặc ngộ độc.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hanna001",
+      "speaker_tag": "; > Hanna: |#0201Trial00_Hanna001|",
+      "ja": "ひっ……！？<br>さっき触ってしまいましたわー！？",
+      "zh": "呀！？<br>\n我、我刚才摸到了欸！？",
+      "vi": "Vâng! ? Bổn tiểu thư, Bổn tiểu thư vừa chạm vào nó! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia023",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia023|",
+      "ja": "……ハンナくんはちゃんと手を洗うように。",
+      "zh": "……汉娜，记得把手洗干净哦。",
+      "vi": "...Hanna, nhớ rửa tay nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hanna002",
+      "speaker_tag": "; > Hanna: |#0201Trial00_Hanna002|",
+      "ja": "さっき洗いましたわー！",
+      "zh": "我刚才已经洗过了！",
+      "vi": "Bổn tiểu thư vừa mới rửa nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Warden005",
+      "speaker_tag": "; > Warden: |#0201Trial00_Warden005|",
+      "ja": "……皆さんが見つけるのは、<br>【薬を刃に塗って、胸を刺した人物】と<br>認識していただいて大丈夫です。",
+      "zh": "……各位只需要认定<br>\n【在剑刃上涂抹药物，并刺伤胸口的人物】<br>\n是凶手就行了。",
+      "vi": "...Bạn chỉ cần xác định [Nhân vật bôi thuốc vào lưỡi kiếm và đâm vào ngực] Hãy cứ là kẻ sát nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia024",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia024|",
+      "ja": "……さて、私が調べた現場の状況としては<br>そんなところか。",
+      "zh": "……好了，我调查到的现场情况<br>\n大致就这些了。",
+      "vi": "...Được rồi, tình hình tại chỗ tôi đã điều tra Đó là về nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia025",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia025|",
+      "ja": "みんな、何か意見はあるかい？",
+      "zh": "大家有什么意见吗？",
+      "vi": "Bạn có ý kiến gì không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hanna003",
+      "speaker_tag": "; > Hanna: |#0201Trial00_Hanna003|",
+      "ja": "……やっぱり、犯人はヒロさんとしか思えませんわ。",
+      "zh": "……我还是觉得，凶手只可能是希罗。",
+      "vi": "...Bổn tiểu thư vẫn cảm thấy kẻ sát nhân chỉ có thể là Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hanna004",
+      "speaker_tag": "; > Hanna: |#0201Trial00_Hanna004|",
+      "ja": "現場に倒れているなんて……<br>怪しすぎるんじゃありませんこと！？",
+      "zh": "她倒在了现场……<br>\n不觉得很可疑吗！？",
+      "vi": "Cô ấy ngã gục tại hiện trường... Bạn không nghĩ nó đáng nghi sao? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro013",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro013|",
+      "ja": "……客観的に見れば、たしかにそう見えるだろうね。",
+      "zh": "……客观来看，这的确很可疑。",
+      "vi": "...Khách quan mà nói, điều này thực sự rất đáng nghi ngờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro014",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro014|",
+      "ja": "でも私は殺していないよ。",
+      "zh": "但我真的不是凶手。",
+      "vi": "Nhưng tôi thực sự không phải là kẻ sát nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia026",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia026|",
+      "ja": "なら……みんなが知っている状況を<br>一度すり合わせてみようか。",
+      "zh": "那么……我们一起来梳理一下<br>\n大家目前掌握的情况吧。",
+      "vi": "Vì vậy... hãy sắp xếp nó ra Đó là điều mà mọi người đều biết cho đến nay.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Leia027",
+      "speaker_tag": "; > Leia: |#0201Trial00_Leia027|",
+      "ja": "ヒロくんが犯人じゃないなら……<br>何かおかしな点が出てくるのだろうしね！",
+      "zh": "如果希罗不是凶手……<br>\n那么，案件中一定会存在一些矛盾之处！",
+      "vi": "Nếu Hiro không phải là kẻ sát nhân... Vậy thì chắc chắn trong vụ án phải có mâu thuẫn nào đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro015",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro015|",
+      "ja": "（一方的な吊るし上げ……<br>　そんなことにならないよう、<br>　毅然と反論しなくては）",
+      "zh": "（为了避免审判<br>\n沦为单方面的批判……<br>\n我必须坚决作出反驳）",
+      "vi": "(Để tránh bị xét xử Chuyển sang chỉ trích một chiều... Tôi phải phản bác một cách kiên quyết)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial00_Hiro016",
+      "speaker_tag": "; > Hiro: |#0201Trial00_Hiro016|",
+      "ja": "（私を糾弾する間違った意見……<br>　訂正させてもらおう）",
+      "zh": "（必须纠正<br>\n她们那些指责我的错误观点……）",
+      "vi": "(Phải sửa Họ buộc tội tôi có ý tưởng sai lầm...)",
+      "objection_links": []
+    }
+  ]
+}

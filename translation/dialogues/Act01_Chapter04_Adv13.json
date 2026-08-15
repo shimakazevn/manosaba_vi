@@ -1,0 +1,440 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter04_Adv13",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter04/Act01_Chapter04_Adv13' Naninovel scenario script",
+  "total_entries": 54,
+  "entries": [
+    {
+      "id": "0104Adv13_Narrative001",
+      "speaker_tag": "",
+      "ja": "投票によって【魔女】に選出されたのは、<br>エマだった。",
+      "zh": "在投票中被选为【魔女】的，<br>\n是艾玛。",
+      "vi": "Được chọn làm [Pháp sư] trong cuộc bỏ phiếu, Đó là Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative002",
+      "speaker_tag": "",
+      "ja": "エマの耳元で、どくどくどく、と<br>激しく鼓動が脈打っている。",
+      "zh": "艾玛能听到一阵扑通扑通的响声，<br>\n那是心脏激烈跳动的声音。",
+      "vi": "Ema có thể nghe thấy âm thanh đập thình thịch, Đó là tiếng tim đập dữ dội.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema001",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema001|",
+      "ja": "（そんな、そんな、ボクがアリサちゃんを、殺した――？）",
+      "zh": "（怎么回事，怎么会变成这样，我……杀了亚里沙……？）",
+      "vi": "(Chuyện gì đã xảy ra vậy? Sao lại thành ra thế này? Mình...giết Alisa...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema002",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema002|",
+      "ja": "（ボクが、処刑される……？）",
+      "zh": "（我会，被处刑……？）",
+      "vi": "(Mình sẽ bị xử tử...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Meruru001",
+      "speaker_tag": "; > Meruru: |#0104Adv13_Meruru001|",
+      "ja": "エマさん、うぅ……。",
+      "zh": "艾玛小姐，呜呜……",
+      "vi": "Ema, woo hoo...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema003",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema003|",
+      "ja": "（どうしよう、どうしよう、どうしよう……！）",
+      "zh": "（怎么办，怎么办，怎么办……！）",
+      "vi": "(Phải làm gì, phải làm gì, phải làm gì...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative003",
+      "speaker_tag": "",
+      "ja": "目の前がぐるぐるまわって、視界が<ruby=\"ゆが\">歪</ruby>む。<br>あまりのことに、<br>足ががくがくと震えだす。",
+      "zh": "艾玛顿时觉得天旋地转，视野里的一切逐渐扭曲。<br>\n一切来得太突然，<br>\n她吓得双脚颤抖个不停。",
+      "vi": "Ema đột nhiên cảm thấy thế giới như quay cuồng, mọi thứ trong tầm nhìn của cô dần trở nên méo mó. Mọi chuyện xảy ra quá đột ngột, Đôi chân cô run lên vì sợ hãi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Warden001",
+      "speaker_tag": "; > Warden: |#0104Adv13_Warden001|",
+      "ja": "はい、処刑ボタンも皆さん押されましたね！<br>これより、魔女の処刑を執行します～！",
+      "zh": "好啦，所有人都已经按下处刑按钮了！<br>\n现在开始执行对魔女的刑罚～！",
+      "vi": "Được rồi, mọi người đã nhấn nút thực hiện! Bây giờ việc thi hành hình phạt phù thủy bắt đầu~!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative004",
+      "speaker_tag": "",
+      "ja": "恐怖で立っていられなくなったエマを支えるかのように、<br>看守がエマの体を抱えた。",
+      "zh": "看守抱住了艾玛<br>\n因恐惧而摇摇欲坠的身体。",
+      "vi": "Cai Ngục ôm Ema Thân thể run lên vì sợ hãi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema004",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema004|",
+      "ja": "やめ、やめてよ……っ",
+      "zh": "住、住手啊……",
+      "vi": "Dừng lại, dừng lại...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative005",
+      "speaker_tag": "",
+      "ja": "看守の力に抗えず、<br>エマは処刑台の方へと引きずられていく。",
+      "zh": "艾玛的挣扎在看守面前十分无力。<br>\n看守拖着她往处刑台走去。",
+      "vi": "Cuộc đấu tranh của Ema bất lực trước các Cai Ngục. Cai Ngục kéo cô về phía bục hành quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative006",
+      "speaker_tag": "",
+      "ja": "少女たちを見回すも、<br>誰も目を合わせてくれない。",
+      "zh": "艾玛看向在场的每一名少女，<br>\n但所有人都把头扭开了。",
+      "vi": "Ema nhìn từng cô gái có mặt, Nhưng mọi người đều quay đầu đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema005",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema005|",
+      "ja": "やだぁ……っ",
+      "zh": "不要……",
+      "vi": "Đừng...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Warden002",
+      "speaker_tag": "; > Warden: |#0104Adv13_Warden002|",
+      "ja": "ええと、どの処刑台にしますかね……。<br>桜羽エマさん、桜羽エマさん……。",
+      "zh": "我看看，选哪个处刑台呢……<br>\n樱羽艾玛小姐，樱羽艾玛小姐……",
+      "vi": "Để xem tôi nên chọn nền tảng thực thi nào... Cô Sakuraba Ema, cô Sakuraba Ema...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Warden003",
+      "speaker_tag": "; > Warden: |#0104Adv13_Warden003|",
+      "ja": "ちょっと忘れてしまったので、<br>この処刑台にしますか――えいっと。",
+      "zh": "差点把这给忘了，<br>\n所以这次就选这个吧——嘿咻。",
+      "vi": "Tôi gần như quên mất điều này, Vậy nên hãy chọn cái này lần này nhé—hehe.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative007",
+      "speaker_tag": "",
+      "ja": "歯車の回転がはじまり、<br>中央の台座が入れ替えられていく。",
+      "zh": "齿轮开始旋转，<br>\n中央的台座被缓缓替换。",
+      "vi": "Bánh răng bắt đầu quay, Bệ trung tâm dần dần được thay thế.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative008",
+      "speaker_tag": "",
+      "ja": "じたばたもがいても、恐怖で泣き喚いても、<br>死にたくない、魔女じゃないと叫んでも<br>看守は離してくれない。",
+      "zh": "不管她怎样手脚并用地挣扎，就算发出恐惧的哀号，<br>\n大喊着我不想死，我不是魔女，<br>\n看守也依然紧紧地押住艾玛。",
+      "vi": "Cho dù cô ấy có vùng vẫy bằng tay và đầu gối như thế nào, cho dù cô ấy có rên rỉ vì sợ hãi như thế nào, Hét lên rằng tôi không muốn chết, tôi không phải là phù thủy, Các Cai Ngục vẫn giữ chặt Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema006",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema006|",
+      "ja": "（もうおしまいだ）",
+      "zh": "（一切全完了）",
+      "vi": "(Mọi chuyện đã kết thúc)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative009",
+      "speaker_tag": "",
+      "ja": "どくん、とひときわ大きく鼓動が鳴った。",
+      "zh": "扑通。心脏重重地跳动了一下。",
+      "vi": "Tạch. Tim đập mạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Yuki001",
+      "speaker_tag": "; > Unknown: |#0104Adv13_Yuki001|",
+      "ja": "――本当にそれでいいんですか。",
+      "zh": "——这样真的就好了吗。",
+      "vi": "--Điều này thực sự tốt phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Yuki002",
+      "speaker_tag": "; > Unknown: |#0104Adv13_Yuki002|",
+      "ja": "――あなたならできるはずなのに。",
+      "zh": "——你应该能做到才对。",
+      "vi": "---Bạn sẽ có thể làm được điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative010",
+      "speaker_tag": "",
+      "ja": "エマは、ずっと耳元で<ruby=\"ささや\">囁</ruby>かれている。<br>今も、聞こえているはずだ。",
+      "zh": "一个声音一直在艾玛耳边低语。<br>\n现在，她应该还听得见。",
+      "vi": "Một giọng nói cứ thì thầm bên tai Ema. Bây giờ cô ấy vẫn có thể nghe thấy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative011",
+      "speaker_tag": "",
+      "ja": "この場にいない者の声なのに、<br>声はどんどん大きくなり続けている。",
+      "zh": "那个声音不属于在场任何一个人，<br>\n却变得越来越响亮，一直在她耳边萦绕着。",
+      "vi": "Giọng nói đó không thuộc về bất kỳ ai có mặt, Nhưng nó ngày càng to hơn, văng vẳng bên tai cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative012",
+      "speaker_tag": "",
+      "ja": "それはエマにとって不思議な感覚だった。",
+      "zh": "对于艾玛来说，那是一个非常奇妙的感觉。",
+      "vi": "Đối với Ema, đó là một cảm giác vô cùng tuyệt vời.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative013",
+      "speaker_tag": "",
+      "ja": "指先や顔がむずむずとし、<br>奥底に閉じ込めていた闇が、<br>内部から生じて、割れて、飛び出しそうな――",
+      "zh": "指尖跟脸上痒痒的，<br>\n仿佛一直埋藏在心底深处的黑暗<br>\n从身体内部成形然后碎裂，喷涌而出——",
+      "vi": "Ngứa đầu ngón tay và mặt, Dường như bóng tối đã chôn sâu trong trái tim tôi Hình thành từ bên trong cơ thể rồi vỡ vụn, phun ra——",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative014",
+      "speaker_tag": "",
+      "ja": "ハッとして指先をみると、<br>爪が<ruby=\"とが\">尖</ruby>って伸び、指先がほんの少し変形していた。",
+      "zh": "艾玛一回神，看了看自己的手，<br>\n发现指甲已经变长变尖，指尖已经有了些许的变形。",
+      "vi": "Ema tỉnh táo lại và nhìn vào tay mình, Tôi nhận thấy móng tay của tôi đã dài hơn và nhọn hơn, còn các đầu ngón tay của tôi hơi biến dạng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema007",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema007|",
+      "ja": "（魔女化――）",
+      "zh": "（魔女化……）",
+      "vi": "（Ma Nữ Hóa……）",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema008",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema008|",
+      "ja": "（そんな、そんな、ボクもとうとう魔女に……）",
+      "zh": "（怎么回事，怎么回事，我终于也要变成魔女……）",
+      "vi": "(Chuyện gì đang xảy ra vậy, chuyện gì đang xảy ra vậy, cuối cùng mình cũng sắp trở thành phù thủy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative015",
+      "speaker_tag": "",
+      "ja": "震えが止まらず、<br>足元から崩れていきそうになる。",
+      "zh": "身体不停地颤抖，<br>\n艾玛感觉快要站不稳了。",
+      "vi": "Cơ thể không ngừng run rẩy, Ema cảm thấy gần như đứng không vững trên đôi chân của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative016",
+      "speaker_tag": "",
+      "ja": "全てを諦め、<br>聞こえる<ruby=\"ささや\">囁</ruby>きを、受け入れてしまいそうになる。",
+      "zh": "她已经放弃了一切，<br>\n整个人快要被萦绕在耳边的低语所吞没。",
+      "vi": "Cô ấy đã từ bỏ mọi thứ, Toàn bộ cơ thể anh sắp bị nuốt chửng bởi những lời thì thầm văng vẳng bên tai.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative017",
+      "speaker_tag": "",
+      "ja": "絶望したエマの眼前に、<br>ゆっくりと処刑台がせりあがってきた。",
+      "zh": "这时，处刑台缓缓升起，<br>\n出现在已然绝望的艾玛面前。",
+      "vi": "Lúc này, sàn thực thi từ từ nâng lên, Xuất hiện trước mặt Ema, ​​người đã tuyệt vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative018",
+      "speaker_tag": "",
+      "ja": "目の前が真っ暗だった。<br>もう何も見たくないと、目すら<ruby=\"つむ\">瞑</ruby>った。",
+      "zh": "眼前只觉一片漆黑。<br>\n艾玛甚至闭上了眼睛，想要遮盖发生在眼前的一切。",
+      "vi": "Tất cả những gì tôi có thể thấy là bóng tối. Ema thậm chí còn nhắm mắt lại, cố gắng che đậy những gì đang xảy ra trước mặt.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative019",
+      "speaker_tag": "",
+      "ja": "そのエマの耳に。",
+      "zh": "就在这时候，艾玛听到了声音。",
+      "vi": "Ngay lúc đó, Ema nghe thấy một âm thanh.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative020",
+      "speaker_tag": "",
+      "ja": "少女たちの悲鳴が届く。",
+      "zh": "那是少女们的惨叫。",
+      "vi": "Đó là tiếng hét của các cô gái.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Coco001",
+      "speaker_tag": "; > Coco: |#0104Adv13_Coco001|",
+      "ja": "ぎゃああああああっ",
+      "zh": "呀啊啊啊啊啊啊啊——",
+      "vi": "Yeahhhhhhhhhh——",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Margo001",
+      "speaker_tag": "; > Margo: |#0104Adv13_Margo001|",
+      "ja": "これは一体どういうことなの！？",
+      "zh": "这到底是怎么回事！？",
+      "vi": "Cái quái gì đang xảy ra thế này! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Meruru002",
+      "speaker_tag": "; > Meruru: |#0104Adv13_Meruru002|",
+      "ja": "あ、あ、ああああぁっ",
+      "zh": "啊、啊，啊啊啊啊啊……",
+      "vi": "A, a, a a a a...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema009",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema009|",
+      "ja": "（一体何が――）",
+      "zh": "（到底发生了什么事——）",
+      "vi": "(Chuyện quái gì đã xảy ra vậy——)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative021",
+      "speaker_tag": "",
+      "ja": "エマは戸惑い、目を開く。",
+      "zh": "感到疑惑的艾玛睁开双眼。",
+      "vi": "Bối rối, Ema mở mắt ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative022",
+      "speaker_tag": "",
+      "ja": "エマの目の前に現れたのは――<br>ナノカの死体だった。",
+      "zh": "出现在她眼前的——<br>\n是奈叶香的尸体。",
+      "vi": "Thứ xuất hiện trước mắt cô ấy—— Đó là cơ thể của Nanoyaka.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema010",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema010|",
+      "ja": "ナノカ、ちゃん……？",
+      "zh": "奈叶香……？",
+      "vi": "Nanoyaka...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative023",
+      "speaker_tag": "",
+      "ja": "エマは<ruby=\"ぼうぜん\">呆然</ruby>と、<br>処刑台の上で死んでいるナノカを見つめる。",
+      "zh": "艾玛呆呆地看着处刑台上<br>\n已经死去的奈叶香。",
+      "vi": "Ema ngây người nhìn vào bục hành quyết Nanoyaka đã chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative024",
+      "speaker_tag": "",
+      "ja": "頭は追いつかないが、<br>ナノカの言葉が脳裏を過った。",
+      "zh": "虽然脑袋还没跟上现实的情况，<br>\n但奈叶香说过的话在艾玛的脑海中一一闪过。",
+      "vi": "Dù đầu óc tôi chưa bắt kịp hiện thực nhưng Nhưng những gì Nanoyaka nói lần lượt lướt qua tâm trí Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0104Adv13_Nanoka001|",
+      "ja": "……桜羽エマ。あなたはお人好しね。",
+      "zh": "……樱羽艾玛，你人还真好。",
+      "vi": "... Sakuraba Ema, bạn thật tốt bụng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0104Adv13_Nanoka002|",
+      "ja": "わかった。あなたに背中を預けるわ。<br>ただ勘違いしないでほしい。これは取引。",
+      "zh": "明白了。我的身后就交给你守护了。<br>\n但我希望你不要误会。这是交易。",
+      "vi": "Hiểu rồi. Tôi sẽ để việc đó cho bạn bảo vệ tôi. Nhưng tôi hy vọng bạn không hiểu lầm tôi. Đây là thỏa thuận.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema011",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema011|",
+      "ja": "取引……？",
+      "zh": "交易……？",
+      "vi": "Giao dịch...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0104Adv13_Nanoka003|",
+      "ja": "私はあなたを利用する。<br>だから何かあったらあなたも私を利用して。",
+      "zh": "我是在利用你。<br>\n所以要是发生什么意外你也要利用我。",
+      "vi": "Tôi đang sử dụng bạn. Vì vậy nếu có chuyện gì bất ngờ xảy ra, bạn phải sử dụng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative025",
+      "speaker_tag": "",
+      "ja": "ナノカを想い、<ruby=\"ほほ\">頬</ruby>を伝う涙が、熱い。",
+      "zh": "奈叶香的好意，就跟自己流下的眼泪一样，十分地温暖。",
+      "vi": "Lòng tốt của Nanoyaka cũng ấm áp như những giọt nước mắt cô rơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema012",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema012|",
+      "ja": "（ナノカちゃんは殺された）",
+      "zh": "（奈叶香被人杀死了）",
+      "vi": "(Nayoka đã bị giết)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema013",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema013|",
+      "ja": "（ここでボクが処刑されるわけにはいかない……！）",
+      "zh": "（我不能在这个时候被处死……！）",
+      "vi": "(Mình không thể bị xử tử vào lúc này...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema014",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema014|",
+      "ja": "（ボクは、魔女にならない！！<br>　今度こそ、本物の魔女を見つけるんだ！！）",
+      "zh": "（我不会变成魔女！！<br>\n这次我一定要找出真正的魔女！！）",
+      "vi": "(Tôi sẽ không trở thành phù thủy!! Lần này tôi phải tìm được phù thủy thực sự! ! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Narrative026",
+      "speaker_tag": "",
+      "ja": "エマはキッとゴクチョーを<ruby=\"にら\">睨</ruby>んだ。",
+      "zh": "艾玛狠狠盯住典狱长。",
+      "vi": "Ema nhìn chằm chằm vào người cai ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema015",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema015|",
+      "ja": "ゴクチョー！<br>裁判の申請をします！！",
+      "zh": "典狱长！<br>\n我申请举行魔女审判！！",
+      "vi": "Quản giáo! Tôi nộp đơn xin xét xử phù thủy! !",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv13_Ema016",
+      "speaker_tag": "; > Ema: |#0104Adv13_Ema016|",
+      "ja": "ナノカちゃんは殺されている！<br>これは殺人事件だ！<br>その裁判を執り行わないといけない！",
+      "zh": "有人杀死了奈叶香！<br>\n这是凶杀案！<br>\n我们必须对这起凶案进行审判！",
+      "vi": "Có người đã giết Nanoyaka! Đây là một vụ giết người! Chúng ta phải đưa vụ giết người này ra xét xử!",
+      "objection_links": []
+    }
+  ]
+}

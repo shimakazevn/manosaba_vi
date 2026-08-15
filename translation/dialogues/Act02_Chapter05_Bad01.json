@@ -1,0 +1,2432 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Bad01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Bad01' Naninovel scenario script",
+  "total_entries": 303,
+  "entries": [
+    {
+      "id": "0205Bad01_Narrative001",
+      "speaker_tag": "",
+      "ja": "――儀式は行わない。<br>私はそう心に決めた。",
+      "zh": "——不举行仪式了。<br>\n我如此下定了决心。",
+      "vi": "---Sẽ không có buổi lễ nào cả. Tôi đã rất quyết tâm.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative002",
+      "speaker_tag": "",
+      "ja": "大魔女の召喚には【１３人の魔女】が必要だ。",
+      "zh": "召唤大魔女需要【13名魔女】。",
+      "vi": "Việc triệu hồi Đại Ma Nữ cần [13 Phù Thủy].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative003",
+      "speaker_tag": "",
+      "ja": "私を含めた全員が、<br>完全に魔女化しなければならない。",
+      "zh": "包括我在内，<br>\n所有人都必须完全魔女化。",
+      "vi": "Bao gồm cả tôi, Mọi người đều phải hoàn toàn giống phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative004",
+      "speaker_tag": "",
+      "ja": "エマたち全員のトラウマを引きずり出し、<br>無理やり魔女化させるということ。",
+      "zh": "这意味着，必须将艾玛她们的心理创伤强行揭开，<br>\n逼迫她们堕为魔女。",
+      "vi": "Điều này có nghĩa là tổn thương tâm lý của Ema và những người khác phải được bộc lộ một cách cưỡng bức, Buộc họ trở thành phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative005",
+      "speaker_tag": "",
+      "ja": "それはメルルがしてきた所業と同じ……<br>いや、よりもっと残酷な仕打ちだ。",
+      "zh": "这就是梅露露犯下的暴行……<br>\n不，比那更加残酷。",
+      "vi": "Đây là hành động tàn bạo mà Meruru đã phạm phải... Không, nó còn tàn bạo hơn thế.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema001",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema001|",
+      "ja": "ヒロちゃん……？",
+      "zh": "希罗……？",
+      "vi": "Hiro……？",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative006",
+      "speaker_tag": "",
+      "ja": "驚き、<ruby=\"おび\">怯</ruby>え、困惑した様子ながらも、<br>エマは私を心配してくれている。",
+      "zh": "尽管她看起来惊讶、害怕，又困惑，<br>\n但艾玛还是在担心我。",
+      "vi": "Mặc dù cô ấy có vẻ ngạc nhiên, sợ hãi và bối rối, Nhưng Ema vẫn lo lắng cho tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative007",
+      "speaker_tag": "",
+      "ja": "その優しさが、私の決意をより強固にしてくれた。",
+      "zh": "而她的温柔，反而使我的决心更加坚定。",
+      "vi": "Và sự dịu dàng của cô ấy càng khiến quyết tâm của tôi mạnh mẽ hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative008",
+      "speaker_tag": "",
+      "ja": "やはり、私に儀式を行うことはできない。",
+      "zh": "果然，我没办法举行仪式。",
+      "vi": "Chắc chắn là tôi không thể tổ chức buổi lễ được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative009",
+      "speaker_tag": "",
+      "ja": "上手くいく保証なんて、どこにもないのだから。<br>全員がただ【なれはて】と化し、終わる可能性もある。",
+      "zh": "毕竟，根本没有任何成功的保证。<br>\n有可能所有人只是纯粹化作【残骸】，什么事都不会发生。",
+      "vi": "Rốt cuộc, không có gì đảm bảo thành công cả. Có thể mọi người sẽ biến thành [xác tàu] và sẽ không có chuyện gì xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative010",
+      "speaker_tag": "",
+      "ja": "もしそうなったら、<br>処分されるか看守として使役されるか……<br>最悪な結末が待っているのは確かだ。",
+      "zh": "若真落得如此下场，<br>\n那么不是被处理掉，就是被当作看守奴役……<br>\n等待着我们的无疑会是最坏的结局。",
+      "vi": "Nếu chúng ta thực sự kết thúc như thế này, Sau đó, anh ta sẽ bị xử lý hoặc bị bắt làm nô lệ làm Cai Ngục... Điều đang chờ đợi chúng ta chắc chắn sẽ là cái kết tồi tệ nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative011",
+      "speaker_tag": "",
+      "ja": "――それだけは、許せない。",
+      "zh": "——唯独这一点，我无法容忍。",
+      "vi": "---Đây là điều duy nhất tôi không thể chịu đựng được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro001",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro001|",
+      "ja": "……くっ",
+      "zh": "……呜",
+      "vi": "...Ồ",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative012",
+      "speaker_tag": "",
+      "ja": "感情の波が、魔女の殺人衝動を刺激する。",
+      "zh": "情感的波澜，刺激着魔女的杀戮冲动。",
+      "vi": "Những làn sóng cảm xúc kích thích xung lực giết người của mụ phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative013",
+      "speaker_tag": "",
+      "ja": "抗おうとすれば、苦痛が<ruby=\"さいな\">苛</ruby>む。<br>頭の中で、声がする。",
+      "zh": "一旦试图抵抗，痛苦便会袭来。<br>\n在脑海里，有个声音在回响。",
+      "vi": "Nếu bạn cố gắng chống cự, nỗi đau sẽ ập đến. Có một giọng nói vang vọng trong tâm trí tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative014",
+      "speaker_tag": "",
+      "ja": "――壊せ。潰せ。",
+      "zh": "——破坏吧。碾碎吧。",
+      "vi": "---Phá hủy nó. Nghiền nát nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative015",
+      "speaker_tag": "",
+      "ja": "細胞ひとつひとつが、私を急き立てるみたいに。<br>激しく渦を巻いている。",
+      "zh": "仿佛每一个细胞，都在催促着我一般，<br>\n激烈地翻腾搅动。",
+      "vi": "Dường như từng tế bào đang thúc giục tôi, Khuấy mạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative016",
+      "speaker_tag": "",
+      "ja": "――殺せ。殺せ。",
+      "zh": "——杀死吧。杀死吧。",
+      "vi": "--Giết. Giết nó đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative017",
+      "speaker_tag": "",
+      "ja": "苦しい。楽になりたい。",
+      "zh": "好痛苦。好想解脱。",
+      "vi": "Thật đau đớn. Tôi thực sự muốn được tự do.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative018",
+      "speaker_tag": "",
+      "ja": "ふと気付けば、私は救いを求めるように<br>エマへと手を伸ばしていた。",
+      "zh": "不经意间回过神，我发现自己正像寻求救赎一般，<br>\n向艾玛伸出手。",
+      "vi": "Khi tôi vô tình tỉnh lại, tôi nhận ra mình đang tìm kiếm sự cứu rỗi, Tiếp cận với Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema002",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema002|",
+      "ja": "だ、大丈夫……！？",
+      "zh": "没、没事吧……！？",
+      "vi": "Không, không sao đâu...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro002|",
+      "ja": "……っ！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative019",
+      "speaker_tag": "",
+      "ja": "<ruby=\"つか\">掴</ruby>もうとしてくれた手を、振り払う。",
+      "zh": "我甩开了她想要抓住我的手。",
+      "vi": "Tôi hất tay cô ấy ra khỏi mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative020",
+      "speaker_tag": "",
+      "ja": "たった今、自分の頭に浮かんだ考えに、<br>吐き気と悪寒を覚えた。",
+      "zh": "对刚才闪过脑海的念头，<br>\n我感到一阵恶心与寒意。",
+      "vi": "Về những suy nghĩ vừa thoáng qua trong đầu tôi, Tôi cảm thấy buồn nôn và ớn lạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative021",
+      "speaker_tag": "",
+      "ja": "――ここでエマを殺せば、<br>少しは楽になれるのだろうか。",
+      "zh": "——若是在这里杀了艾玛，<br>\n是不是就能稍微变轻松一些了呢。",
+      "vi": "---Nếu Ema bị giết ở đây, Chẳng phải nó sẽ dễ dàng hơn một chút sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro003|",
+      "ja": "……私に、構わないでくれ。",
+      "zh": "……你别管我。",
+      "vi": "...cứ để tôi yên.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative022",
+      "speaker_tag": "",
+      "ja": "告げて、エマに背を向けた。",
+      "zh": "说完，我便背对着艾玛。",
+      "vi": "Nói xong tôi quay lưng lại với Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative023",
+      "speaker_tag": "",
+      "ja": "私が救いを求めてどうする。",
+      "zh": "我怎能去寻求救赎。",
+      "vi": "Làm sao tôi có thể tìm kiếm sự cứu rỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative024",
+      "speaker_tag": "",
+      "ja": "私が救わなければ。<br>彼女たちを、解放するんだ。",
+      "zh": "必须由我来拯救她们才行。<br>\n将她们，解放出来。",
+      "vi": "Tôi phải cứu họ. Giải phóng họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative025",
+      "speaker_tag": "",
+      "ja": "異形になりつつある拳を強く握る。",
+      "zh": "我紧紧握住正逐渐异变的拳头。",
+      "vi": "Tôi siết chặt nắm tay đang dần thay đổi của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative026",
+      "speaker_tag": "",
+      "ja": "そして。",
+      "zh": "然后。",
+      "vi": "Sau đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative027",
+      "speaker_tag": "",
+      "ja": "私は力任せに鉄格子を破壊し、<br>ひとり監房を脱け出した。",
+      "zh": "我使出蛮力破坏了铁栅栏，<br>\n独自一人逃出了牢房。",
+      "vi": "Tôi đã dùng vũ lực để phá hủy hàng rào sắt, Một mình trốn khỏi phòng giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative028",
+      "speaker_tag": "",
+      "ja": "監房を出た直後。<br>当然、看守が私を追ってきた。",
+      "zh": "刚一离开牢房，<br>\n看守便理所当然地追了上来。",
+      "vi": "Ngay khi tôi rời khỏi phòng giam, Các Cai Ngục đương nhiên đã đuổi kịp anh ta.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative029",
+      "speaker_tag": "",
+      "ja": "勢いのまま追走を振り切り、<br>私は牢屋敷を飛び出す。",
+      "zh": "我乘势甩开追兵，<br>\n冲出了监牢。",
+      "vi": "Tôi đã lợi dụng tình thế để xua đuổi những kẻ truy đuổi, Thoát khỏi Ngục Dinh Thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative030",
+      "speaker_tag": "",
+      "ja": "ゲストハウスから、地下の冷凍室へ。",
+      "zh": "然后从招待所，前往地下的冷冻室。",
+      "vi": "Sau đó từ nhà nghỉ đi đến tủ đông ngầm.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative031",
+      "speaker_tag": "",
+      "ja": "私は金庫を開き、中に収められた剣と、<br>【魔女を殺す薬】を回収する。",
+      "zh": "我打开保险箱，取出了收藏在里面的剑<br>\n和【杀死魔女的药】。",
+      "vi": "Tôi mở két và lấy thanh kiếm cất bên trong và [loại thuốc giết phù thủy].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative032",
+      "speaker_tag": "",
+      "ja": "エマたちを救済するために、必要なものだ。",
+      "zh": "这是为了救赎艾玛她们，所必需的物品。",
+      "vi": "Đây là vật phẩm cần thiết để cứu Ema và những người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative033",
+      "speaker_tag": "",
+      "ja": "剣を携え、牢屋敷に戻ろうとする私の前に、<br>看守が立ちふさがる。",
+      "zh": "我手持利剑，正要返回监牢时，<br>\n一个看守挡在了我的面前。",
+      "vi": "Tôi đang cầm một thanh kiếm sắc bén và chuẩn bị quay trở lại Ngục Dinh Thự thì Một Cai Ngục đứng trước mặt tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative034",
+      "speaker_tag": "",
+      "ja": "……薬の効果を試すのに、ちょうどいい。<br>私は瓶を開け、刀身に薬液を垂らした。",
+      "zh": "……正好，用来试试药效。<br>\n我打开瓶子，将药液滴在了剑刃上。",
+      "vi": "...Đúng rồi, hãy dùng nó để kiểm tra hiệu quả của thuốc. Tôi mở chai và thả thuốc lên lưỡi dao.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative035",
+      "speaker_tag": "",
+      "ja": "武器を手にした私を敵意ありと<ruby=\"みな\">見做</ruby>したのだろう。<br>看守が鎌を掲げ、恐るべき速さで迫りくる。",
+      "zh": "它大概是将手持武器的我视作了敌人。<br>\n看守举起镰刀，以骇人的速度逼近。",
+      "vi": "Có lẽ nó coi tôi cầm vũ khí như kẻ thù. Người lính gác giơ lưỡi hái lên và tiếp cận với tốc độ kinh hoàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative036",
+      "speaker_tag": "",
+      "ja": "振り下ろされた鎌を、剣で受け止める。",
+      "zh": "我用剑挡住了挥下的镰刀。",
+      "vi": "Tôi chặn lưỡi hái đang vung bằng thanh kiếm của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative037",
+      "speaker_tag": "",
+      "ja": "とてつもない力だった。<br>私の魔女化が進んでいなければ、<br>あっさりと押し負けていただろう。",
+      "zh": "好惊人的力道。<br>\n若非我的魔女化已进展到这个地步，<br>\n恐怕早已被轻易压垮了。",
+      "vi": "Thật là một sức mạnh đáng kinh ngạc. Nếu quá trình biến đổi thành phù thủy của tôi không tiến triển đến mức này, Tôi e rằng nó đã dễ dàng bị nghiền nát rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative038",
+      "speaker_tag": "",
+      "ja": "だが今の私なら対抗できる――",
+      "zh": "但现在的我，足以对抗——",
+      "vi": "Nhưng bây giờ tôi đã đủ mạnh mẽ để chống lại——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative039",
+      "speaker_tag": "",
+      "ja": "鎌を押し返す。<br>バランスを崩した看守を、すかさず蹴り飛ばした。",
+      "zh": "我奋力推开镰刀。<br>\n趁着看守失去平衡，我当即一脚将其踢飞。",
+      "vi": "Tôi dùng hết sức đẩy chiếc liềm đi. Khi Cai Ngục mất thăng bằng, tôi lập tức đá anh ta ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative040",
+      "speaker_tag": "",
+      "ja": "倒れた看守に剣の切っ先を突き付ける。",
+      "zh": "然后将剑尖指向倒地的看守。",
+      "vi": "Sau đó, anh ta chĩa mũi kiếm của mình vào Cai Ngục đã ngã xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative041",
+      "speaker_tag": "",
+      "ja": "――壊せ。",
+      "zh": "——破坏吧。",
+      "vi": "---Phá hủy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative042",
+      "speaker_tag": "",
+      "ja": "頭の中で声がする。",
+      "zh": "脑海里声音响起。",
+      "vi": "Một giọng nói vang lên trong đầu tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative043",
+      "speaker_tag": "",
+      "ja": "――潰せ。",
+      "zh": "——碾碎吧。",
+      "vi": "---Đè bẹp nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro004|",
+      "ja": "うるさい、黙れ。",
+      "zh": "吵死了，闭嘴。",
+      "vi": "Ồn ào quá, im đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative044",
+      "speaker_tag": "",
+      "ja": "私は不快な衝動に文句を吐き出す。<br>だが……",
+      "zh": "我对着这股不快的冲动啐了一句。<br>\n不过……",
+      "vi": "Tôi nhổ nước bọt trước sự thôi thúc khó chịu. Nhưng...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative045",
+      "speaker_tag": "",
+      "ja": "今は少しくらい身をゆだねるのもいいだろう。",
+      "zh": "现在……短暂顺从一下这股冲动也无妨吧。",
+      "vi": "Bây giờ...sẽ không có hại gì nếu nhượng bộ sự thôi thúc này một lúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro005|",
+      "ja": "そういえば……。",
+      "zh": "说起来……",
+      "vi": "Nói về điều đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro006|",
+      "ja": "前々回、私は首を<ruby=\"は\">刎</ruby>ねられたんだったな。",
+      "zh": "上上次，我好像就是被砍了头吧。",
+      "vi": "Lần trước, tôi dường như đã bị chặt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative046",
+      "speaker_tag": "",
+      "ja": "ちょっとした意趣返しのつもりで、<br>私は看守の首を<ruby=\"は\">刎</ruby>ね飛ばした。",
+      "zh": "权当是小小的报复，<br>\n我挥剑砍飞了看守的头颅。",
+      "vi": "Đó chỉ là một sự trả thù nhỏ thôi, Tôi vung kiếm và chặt đầu tên Cai Ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative047",
+      "speaker_tag": "",
+      "ja": "私は剣を手に、牢屋敷へと戻ってきた。",
+      "zh": "我手持利剑，回到了监牢。",
+      "vi": "Tôi trở lại Ngục Dinh Thự với thanh kiếm trong tay.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative048",
+      "speaker_tag": "",
+      "ja": "少女たちを解放するために。<br>私は、みんなを――",
+      "zh": "为了解放少女们。<br>\n我，要将她们所有人——",
+      "vi": "Để giải phóng các cô gái. Tôi muốn mang theo tất cả——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Warden001",
+      "speaker_tag": "; > Warden: |#0205Bad01_Warden001|",
+      "ja": "おかえりなさい、二階堂ヒロさん。",
+      "zh": "欢迎回来，二阶堂希罗小姐。",
+      "vi": "Chào mừng trở lại, cô Hiro Nikaido.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative049",
+      "speaker_tag": "",
+      "ja": "玄関ホールに足を踏み入れた私を、<br>ゴクチョーが出迎える。",
+      "zh": "当我踏入玄关大厅时，<br>\n典狱长便前来迎接我。",
+      "vi": "Khi tôi bước vào tiền sảnh, Người quản lý đến chào tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Warden002",
+      "speaker_tag": "; > Warden: |#0205Bad01_Warden002|",
+      "ja": "他の皆さんにはもう、<br>ここに集められた理由とか説明したんですが……<br>あなたには不要、ですかね？",
+      "zh": "关于被召集到这里的理由等等事项，<br>\n已经向其他各位说明过了……<br>\n而你不需要说明，对吗？",
+      "vi": "Về lý do được triệu tập đến đây và các vấn đề khác, Tôi đã giải thích điều đó cho những người khác... Và bạn không cần phải giải thích, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative050",
+      "speaker_tag": "",
+      "ja": "私は何も答えず、ゴクチョーに歩み寄った。",
+      "zh": "我什么也没回答，走近了典狱长。",
+      "vi": "Tôi không trả lời bất cứ điều gì và đến gần người cai ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative051",
+      "speaker_tag": "",
+      "ja": "殴り、蹴り、<br>私はゴクチョーの体を徹底的に潰す。",
+      "zh": "然后拳打脚踢，<br>\n将典狱长的身体彻底打烂。",
+      "vi": "Sau đó đấm và đá, Đánh đập hoàn toàn cơ thể của quản giáo thành từng mảnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative052",
+      "speaker_tag": "",
+      "ja": "ゴクチョーは間違っているものだから。",
+      "zh": "因为典狱长本身就是错误的存在。",
+      "vi": "Bởi vì chính người quản lý đã sai.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative053",
+      "speaker_tag": "",
+      "ja": "様々な出来事があった。<br>変化と、複雑な事情。",
+      "zh": "我经历过了种种。<br>\n有过变化，也有复杂的原委。",
+      "vi": "Tôi đã trải qua đủ thứ. Đã có những thay đổi và có những lý do phức tạp.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative054",
+      "speaker_tag": "",
+      "ja": "それでも私の中では一貫して、<br>正しくないものは許せない。",
+      "zh": "即便如此，在我心中，<br>\n“不正确之物”始终是不可容忍的。",
+      "vi": "Dù vậy, trong thâm tâm tôi, “Những điều không đúng” không bao giờ được dung thứ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative055",
+      "speaker_tag": "",
+      "ja": "だが、こんなものは意味のない行為だ。<br>悪を正せない自分に、憤りを感じる。",
+      "zh": "但这终究是毫无意义的行为。<br>\n我对无法根除邪恶的自己，感到愤怒。",
+      "vi": "Nhưng cuối cùng đây là một hành động vô nghĩa. Tôi cảm thấy tức giận với bản thân vì không thể tiêu diệt được tà ác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative056",
+      "speaker_tag": "",
+      "ja": "無意味だったと示すが如く、<br>新たなゴクチョーが飛んできて、<br>階段の手すりにとまる。",
+      "zh": "仿佛要昭示此举的徒劳一般，<br>\n一只新的典狱长飞来，<br>\n停在了楼梯扶手上。",
+      "vi": "Như để thể hiện sự vô ích của hành động này, Một cai ngục mới bay đến, Dừng lại ở lan can cầu thang.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative057",
+      "speaker_tag": "",
+      "ja": "私は殺意を込めてゴクチョーを<ruby=\"にら\">睨</ruby>み、告げた。",
+      "zh": "我饱含杀意地瞪着典狱长，宣告道。",
+      "vi": "Tôi nhìn chằm chằm vào người cai ngục với ý định giết người và tuyên bố.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro007|",
+      "ja": "私はみんなを救う。邪魔をするな。",
+      "zh": "我会拯救大家。别来碍事。",
+      "vi": "Tôi sẽ cứu mọi người. Đừng cản đường.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Warden003",
+      "speaker_tag": "; > Warden: |#0205Bad01_Warden003|",
+      "ja": "……まあ、良しとしましょうか。",
+      "zh": "……嗯，那就随你吧。",
+      "vi": "...Chà, điều đó tùy thuộc vào bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative058",
+      "speaker_tag": "",
+      "ja": "あっさりとした答えが返ってくる。",
+      "zh": "回答得倒是干脆利落。",
+      "vi": "Câu trả lời rất sắc nét và rõ ràng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative059",
+      "speaker_tag": "",
+      "ja": "ゴクチョーは、<br>全てを察している気がした。",
+      "zh": "我感觉，<br>\n典狱长似乎察觉到了一切。",
+      "vi": "Tôi cảm thấy, Người quản lý dường như đã biết tất cả mọi thứ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative060",
+      "speaker_tag": "",
+      "ja": "私が死に戻っていること。<br>これから為そうとしていること。",
+      "zh": "我的死亡回溯。<br>\n以及我接下来打算做的事。",
+      "vi": "Hồi tưởng về cái chết của tôi. Và những gì tôi dự định làm tiếp theo.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative061",
+      "speaker_tag": "",
+      "ja": "何もかもを見通しているような不気味さ。<br>やはり、得体が知れない。",
+      "zh": "那仿佛洞悉一切的样子令人不寒而栗。<br>\n果然，这家伙深不可测。",
+      "vi": "Cái cách anh ấy dường như biết mọi thứ thật lạnh lùng. Chắc chắn, anh chàng này là không thể hiểu được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Warden004",
+      "speaker_tag": "; > Warden: |#0205Bad01_Warden004|",
+      "ja": "むしろ、こちらとしては助かるかもしれませんし。<br>さっさと処理してもらった方がいいですからね。<br>……ま、頑張ってください。",
+      "zh": "倒不如说，这样子或许还能替我们省点事。<br>\n毕竟还是尽早处理掉比较好呢。<br>\n……嗯，请加油吧。",
+      "vi": "Đúng hơn, điều này có thể giúp chúng ta tránh khỏi một số rắc rối. Rốt cuộc, tốt hơn hết là bạn nên giải quyết nó càng sớm càng tốt. ...Ồ, làm ơn đi thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative062",
+      "speaker_tag": "",
+      "ja": "言い残して、ゴクチョーは飛び去っていく。",
+      "zh": "留下这句话，典狱长便飞走了。",
+      "vi": "Nói xong, quản giáo bay đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative063",
+      "speaker_tag": "",
+      "ja": "私は中庭で身を潜め、夜の自由時間を待った。",
+      "zh": "我在中庭藏起身影，等待着夜晚的放风时间。",
+      "vi": "Tôi ẩn mình trong giếng trời, chờ màn đêm buông xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative064",
+      "speaker_tag": "",
+      "ja": "なるべく少女たちが全員集まっている状況は、<br>避けたかったからだ。",
+      "zh": "因为我想尽量避免<br>\n少女们全员聚集在一起的情况。",
+      "vi": "Bởi vì tôi muốn tránh càng nhiều càng tốt Một tình huống mà tất cả các cô gái đều tập trung lại với nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative065",
+      "speaker_tag": "",
+      "ja": "場合によっては、目的の達成が困難になる。",
+      "zh": "否则在某些情况下，目的的达成可能会变得困难。",
+      "vi": "Nếu không, việc đạt được mục đích có thể trở nên khó khăn trong một số trường hợp.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative066",
+      "speaker_tag": "",
+      "ja": "自由時間なら、各々が好きに行動しているはず。<br>一緒にいるとしても、せいぜい２、３人だろう。",
+      "zh": "放风时间的话，大家应该会各自随意行动。<br>\n就算在一起，最多也就两三个人。",
+      "vi": "Trong thời gian rảnh rỗi, mọi người đều có thể hành động theo ý mình. Cho dù ở cùng nhau cũng chỉ có hai ba người mà thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro008|",
+      "ja": "（……始めよう）",
+      "zh": "（……开始吧）",
+      "vi": "(…hãy bắt đầu thôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative067",
+      "speaker_tag": "",
+      "ja": "剣を手に取り、一歩を踏み出す。",
+      "zh": "我拿起剑，迈出一步。",
+      "vi": "Tôi nhặt thanh kiếm lên và bước về phía trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative068",
+      "speaker_tag": "",
+      "ja": "――その時だった。",
+      "zh": "——就在那时。",
+      "vi": "--Đó là lúc đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Noah001",
+      "speaker_tag": "; > Noah: |#0205Bad01_Noah001|",
+      "ja": "あれ？ 誰かいるみたい。",
+      "zh": "哎呀？那里好像有人。",
+      "vi": "Rất tiếc? Có vẻ như có ai đó ở đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Leia001",
+      "speaker_tag": "; > Leia: |#0205Bad01_Leia001|",
+      "ja": "待てノアくん、止まるんだ。",
+      "zh": "等等诺亚，停下。",
+      "vi": "Đợi đã Nô-ê, dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative069",
+      "speaker_tag": "",
+      "ja": "２人の少女が、私の前に姿を現した。",
+      "zh": "两位少女，出现在我的面前。",
+      "vi": "Hai cô gái xuất hiện trước mặt tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative070",
+      "speaker_tag": "",
+      "ja": "彼女らを見て、胸が熱くなる。<br>前回の出来事が、鮮明に呼び起こされる。",
+      "zh": "看到她们，我的胸口一阵灼热。<br>\n上个轮回发生的事，正清晰地浮现在脑海中。",
+      "vi": "Nhìn thấy chúng mà ngực tôi nóng bừng. Những gì đã xảy ra trong lần tái sinh gần đây nhất đang hiện lên rõ ràng trong tâm trí tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Leia002",
+      "speaker_tag": "; > Leia: |#0205Bad01_Leia002|",
+      "ja": "監房から逃げ出した囚人がいる……<br>ゴクチョーが説明していたけれど。",
+      "zh": "典狱长之前说……<br>\n有囚犯从牢房逃出来了。",
+      "vi": "Quản giáo đã nói trước đó... Một tù nhân đã trốn thoát khỏi phòng giam của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Leia003",
+      "speaker_tag": "; > Leia: |#0205Bad01_Leia003|",
+      "ja": "もしかして、キミがそうなのかな？",
+      "zh": "难道说，你就是那个逃犯？",
+      "vi": "Có thể nào bạn là kẻ chạy trốn?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative071",
+      "speaker_tag": "",
+      "ja": "こちらを警戒しつつ、レイアは問いかけてくる。<br>私の姿を見れば、当然の反応だ。",
+      "zh": "蕾雅一边警惕着我，一边问道。<br>\n看到我的样子，这是理所当然的反应。",
+      "vi": "Leia hỏi trong khi cảnh giác với tôi. Đó là phản ứng tự nhiên khi thấy tôi như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro009|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative072",
+      "speaker_tag": "",
+      "ja": "私は何も答えなかった。",
+      "zh": "我什么都没回答。",
+      "vi": "Tôi không trả lời bất cứ điều gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative073",
+      "speaker_tag": "",
+      "ja": "言葉を交わせば、きっと心が揺れるから。",
+      "zh": "因为一旦交谈，内心必定会动摇。",
+      "vi": "Vì một khi đã nói ra, chắc chắn trái tim bạn sẽ rung động.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative074",
+      "speaker_tag": "",
+      "ja": "無言でいる私を不気味に思ったのだろう。<br>レイアはさらに警戒の色を強くして、<br>腰のレイピアに手をかける。",
+      "zh": "大概是觉得沉默的我令人毛骨悚然吧。<br>\n蕾雅更加强了警惕，<br>\n手放在了腰间的刺剑上。",
+      "vi": "Có lẽ vì im lặng quá nên tôi thấy rùng mình. Leya trở nên cảnh giác hơn, Tay anh đặt trên thanh liễu kiếm ở thắt lưng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Leia004",
+      "speaker_tag": "; > Leia: |#0205Bad01_Leia004|",
+      "ja": "ゴクチョーが言っていた通り……<br>本当に、魔女化が進んでいるんだな……。",
+      "zh": "跟典狱长说的一样……<br>\n魔女化……真的在加深……",
+      "vi": "Đúng như những gì quản giáo đã nói... Việc biến thành phù thủy thực sự rất sâu sắc ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Noah002",
+      "speaker_tag": "; > Noah: |#0205Bad01_Noah002|",
+      "ja": "レイアちゃん……。",
+      "zh": "蕾雅……",
+      "vi": "Leya...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative075",
+      "speaker_tag": "",
+      "ja": "<ruby=\"おび\">怯</ruby>えた様子で、ノアはレイアの陰に隠れた。",
+      "zh": "诺亚害怕地躲到了蕾雅的身后。",
+      "vi": "Noah sợ hãi trốn sau lưng Leia.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative076",
+      "speaker_tag": "",
+      "ja": "今の私は彼女たちにとって、看守と変わらない。<br>おぞましい怪物を見るような２人の目が、<br>私の胸を締め付ける。",
+      "zh": "现在的我对她们来说，和看守没什么两样。<br>\n她们那如同看着可憎怪物的眼神，<br>\n揪紧了我的心口。",
+      "vi": "Đối với họ bây giờ, tôi không khác gì một Cai Ngục. Đôi mắt của họ giống như đang nhìn những con quái vật đáng ghét, Tim tôi thắt lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative077",
+      "speaker_tag": "",
+      "ja": "奥歯を<ruby=\"か\">噛</ruby>んで、私はその感情を殺した。",
+      "zh": "我咬紧牙关，扼杀了这份感情。",
+      "vi": "Tôi nghiến răng và giết chết cảm giác đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative078",
+      "speaker_tag": "",
+      "ja": "――大丈夫、私は正しい。",
+      "zh": "——没关系，我是正确的。",
+      "vi": "- Không sao đâu, tôi nói đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative079",
+      "speaker_tag": "",
+      "ja": "私は彼女たちを救う。<br>大魔女の呪いから、解放する。<br>そのために――",
+      "zh": "我要拯救她们。<br>\n从大魔女的诅咒中，解放出来。<br>\n为此，我要——",
+      "vi": "Tôi muốn cứu họ. Thoát khỏi lời nguyền của mụ phù thủy vĩ đại. Để làm được điều này, tôi muốn——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative080",
+      "speaker_tag": "",
+      "ja": "殺す。",
+      "zh": "杀了她们。",
+      "vi": "Giết chúng đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Leia005",
+      "speaker_tag": "; > Leia: |#0205Bad01_Leia005|",
+      "ja": "！？",
+      "zh": "！？",
+      "vi": "！？",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative081",
+      "speaker_tag": "",
+      "ja": "私の真正面からの一撃を、レイアが受け止める。",
+      "zh": "蕾雅挡下了我从正面发起的一击。",
+      "vi": "Leia chặn đòn tấn công của tôi từ phía trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Leia006",
+      "speaker_tag": "; > Leia: |#0205Bad01_Leia006|",
+      "ja": "……ノアくん、逃げるんだ！",
+      "zh": "……诺亚，快逃！",
+      "vi": "...Noah, chạy đi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Noah003",
+      "speaker_tag": "; > Noah: |#0205Bad01_Noah003|",
+      "ja": "でも……。",
+      "zh": "可是……",
+      "vi": "Nhưng...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Leia007",
+      "speaker_tag": "; > Leia: |#0205Bad01_Leia007|",
+      "ja": "いいから早く！",
+      "zh": "别管了，快跑！",
+      "vi": "Để nó một mình và chạy!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Noah004",
+      "speaker_tag": "; > Noah: |#0205Bad01_Noah004|",
+      "ja": "！",
+      "zh": "！",
+      "vi": "！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative082",
+      "speaker_tag": "",
+      "ja": "――逃がすわけにはいかない。<br>私はレイアを横に弾き飛ばす。",
+      "zh": "——不能让她逃掉。<br>\n我将蕾雅用力甩向一旁。",
+      "vi": "---Không thể để cô ấy trốn thoát được. Tôi ném mạnh Leya sang một bên.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Leia008",
+      "speaker_tag": "; > Leia: |#0205Bad01_Leia008|",
+      "ja": "くっ……！",
+      "zh": "呃……！",
+      "vi": "Ờ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Noah005",
+      "speaker_tag": "; > Noah: |#0205Bad01_Noah005|",
+      "ja": "わっ……！？",
+      "zh": "哇……！？",
+      "vi": "Ôi...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative083",
+      "speaker_tag": "",
+      "ja": "私は剣を突き付けながら、<br>じりじりとノアに近づいていく。",
+      "zh": "我用剑指着诺亚，<br>\n一步步朝她逼近。",
+      "vi": "Tôi chĩa kiếm vào Noah, Tiếp cận cô từng bước một.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Noah006",
+      "speaker_tag": "; > Noah: |#0205Bad01_Noah006|",
+      "ja": "ひっ……。",
+      "zh": "噫……",
+      "vi": "Ờ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative084",
+      "speaker_tag": "",
+      "ja": "<ruby=\"おび\">怯</ruby>えきった瞳に、私は射すくめられる。",
+      "zh": "面对她那充满恐惧的眼神，我定在了原地。",
+      "vi": "Đối mặt với ánh mắt sợ hãi của cô ấy, tôi cứng đờ tại chỗ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative085",
+      "speaker_tag": "",
+      "ja": "脳裏に浮かぶのは、<br>彼女と過ごした前回の記憶。",
+      "zh": "脑海中浮现的，<br>\n是上个轮回与她共度的记忆。",
+      "vi": "Nghĩ đến điều gì, Đó là ký ức về thời gian ở bên cô ấy trong lần tái sinh cuối cùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative086",
+      "speaker_tag": "",
+      "ja": "ノアの笑顔。<br>彼女が描いてくれた似顔絵。",
+      "zh": "诺亚的笑容。<br>\n她为我画的肖像画。",
+      "vi": "Nụ cười của Nô-ê. Bức chân dung cô ấy vẽ về tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative087",
+      "speaker_tag": "",
+      "ja": "それらが、私を<ruby=\"ちゅうちょ\">躊躇</ruby>させる。<br>だが、やらなければならない。",
+      "zh": "这些，都让我犹豫。<br>\n但是，我必须要做。",
+      "vi": "Tất cả những điều này đều khiến tôi ngần ngại. Nhưng, tôi phải làm điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative088",
+      "speaker_tag": "",
+      "ja": "大丈夫、これは正しい。<br>救いなんだ。だから、やれる。",
+      "zh": "没关系，这是正确的。<br>\n是救赎。所以，我能做到。",
+      "vi": "Không sao đâu, nó đúng đấy. Đó là sự cứu chuộc. Vì vậy, tôi có thể làm điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro010|",
+      "ja": "ノア……<br>君の本当の絵、私は大好きだよ。",
+      "zh": "诺亚……<br>\n你的真正的画作，我真的很喜欢啊。",
+      "vi": "Nô-ê... Tôi thực sự thích những bức tranh thực sự của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Noah007",
+      "speaker_tag": "; > Noah: |#0205Bad01_Noah007|",
+      "ja": "……？",
+      "zh": "……？",
+      "vi": "……？",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Noah008",
+      "speaker_tag": "; > Noah: |#0205Bad01_Noah008|",
+      "ja": "あ……？",
+      "zh": "啊……？",
+      "vi": "À...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative089",
+      "speaker_tag": "",
+      "ja": "不快だ。",
+      "zh": "令人不悦。",
+      "vi": "Khó chịu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative090",
+      "speaker_tag": "",
+      "ja": "手に伝わる感触、音、匂い。<br>看守やゴクチョーに手を出すのとは、<br>まるで違う。",
+      "zh": "手中传来的触感、声响、气味。<br>\n与对看守或典狱长下手时，<br>\n截然不同。",
+      "vi": "Sự tiếp xúc, âm thanh, mùi hương từ bàn tay của bạn. Khi tấn công Cai Ngục hoặc cai ngục, Rất khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative091",
+      "speaker_tag": "",
+      "ja": "私の中で、大事な何かが失われていくのを感じる。",
+      "zh": "我能感觉到，自己心中某种重要的东西正在渐渐消失。",
+      "vi": "Tôi có thể cảm nhận được điều gì đó quan trọng trong lòng mình đang dần biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative092",
+      "speaker_tag": "",
+      "ja": "ふと、足で何かを踏みつけた。<br>確かめるとそれは……ノアの絵筆だった。",
+      "zh": "忽然，脚下踩到了什么东西。<br>\n我看了一眼……原来是诺亚的画笔。",
+      "vi": "Đột nhiên có thứ gì đó giẫm lên chân anh. Tôi nhìn qua...hóa ra đó là cọ vẽ của Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative093",
+      "speaker_tag": "",
+      "ja": "何故だか実感が強まった。<br>私は、ノアを殺したのだと――",
+      "zh": "不知为何，现实感骤然加剧。<br>\n我，杀死了诺亚——",
+      "vi": "Vì lý do nào đó, cảm giác về thực tế đột nhiên trở nên mãnh liệt hơn. Tôi đã giết Noah——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Leia009",
+      "speaker_tag": "; > Leia: |#0205Bad01_Leia009|",
+      "ja": "あ、あああぁぁぁっ！",
+      "zh": "啊、啊啊啊啊啊啊！",
+      "vi": "A, a a a a a a!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative094",
+      "speaker_tag": "",
+      "ja": "背後で、悲痛な叫びが聞こえる。<br>振り向くと、レイアがこちらに武器を向けていた。",
+      "zh": "背后，传来了蕾雅悲痛的叫喊。<br>\n回头一看，蕾雅正将武器对准我。",
+      "vi": "Phía sau anh, tiếng kêu đau buồn của Leya vang lên. Khi tôi nhìn lại, Leia đang chĩa vũ khí vào tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro011|",
+      "ja": "みんなで作り上げた舞台……<br>私は見てみたかった。",
+      "zh": "大家合力完成的舞台剧……<br>\n我真想亲眼看看啊。",
+      "vi": "Một vở kịch trên sân khấu mà mọi người cùng hợp tác để hoàn thành... Tôi thực sự muốn nhìn thấy nó bằng chính mắt mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative095",
+      "speaker_tag": "",
+      "ja": "レイアの<ruby=\"りん\">凛</ruby>とした振る舞い。<br>責任感、優しさ……",
+      "zh": "蕾雅的冷傲举止。<br>\n还有责任感、温柔……",
+      "vi": "Hành vi lạnh lùng và kiêu ngạo của Leia. Ngoài ra còn có tinh thần trách nhiệm và sự dịu dàng...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative096",
+      "speaker_tag": "",
+      "ja": "何より舞台への情熱。<br>それはどれも本物で、正しく美しい。",
+      "zh": "最重要的是，她对舞台的热情。<br>\n这些全都是真实的，是正确且美丽的。",
+      "vi": "Quan trọng nhất là niềm đam mê sân khấu của cô. Tất cả những điều này đều đúng, đúng và đẹp.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Leia010",
+      "speaker_tag": "; > Leia: |#0205Bad01_Leia010|",
+      "ja": "うああああああああぁっ！",
+      "zh": "呜啊啊啊啊啊啊啊啊啊！",
+      "vi": "Oooohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!”",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative097",
+      "speaker_tag": "",
+      "ja": "レイアは武器を構え、こちらに向かってくる。",
+      "zh": "蕾雅举起武器，朝我冲来。",
+      "vi": "Leia giơ vũ khí lên và lao về phía tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative098",
+      "speaker_tag": "",
+      "ja": "私は剣を振るい、レイアを下から切り上げた。",
+      "zh": "我挥动剑，从下往上斩向蕾雅。",
+      "vi": "Tôi vung kiếm và chém Leya từ dưới lên trên.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro012|",
+      "ja": "許してほしいとは言わない。<br>これは、君たちを解放するためなんだ。",
+      "zh": "我不会奢求你的原谅。<br>\n这只是为了让你们得到解脱而已。",
+      "vi": "Tôi sẽ không cầu xin sự tha thứ của bạn. Đây chỉ là để giúp bạn nhẹ nhõm.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Leia011",
+      "speaker_tag": "; > Leia: |#0205Bad01_Leia011|",
+      "ja": "化け物め……。",
+      "zh": "你这怪物……",
+      "vi": "Đồ quái vật...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative099",
+      "speaker_tag": "",
+      "ja": "殺した。",
+      "zh": "我杀了她们。",
+      "vi": "Tôi đã giết họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative100",
+      "speaker_tag": "",
+      "ja": "違う。救ったんだ。",
+      "zh": "不对。是拯救了她们。",
+      "vi": "Không. Nó đã cứu họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative101",
+      "speaker_tag": "",
+      "ja": "ノアとレイアは、これでもう大丈夫。<br>さあ、他のみんなも解放しないと。",
+      "zh": "诺亚和蕾雅，已经没事了。<br>\n好了，必须继续解放其他人才行。",
+      "vi": "Noah và Leya vẫn ổn. Vâng, chúng ta phải tiếp tục giải phóng người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_AnAn001",
+      "speaker_tag": "; > AnAn: |#0205Bad01_AnAn001|",
+      "ja": "！？",
+      "zh": "！？",
+      "vi": "！？",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Miria001",
+      "speaker_tag": "; > Miria: |#0205Bad01_Miria001|",
+      "ja": "ひっ、ひぇっ！？",
+      "zh": "噫、噫呜！？",
+      "vi": "Ặc, ugh! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative102",
+      "speaker_tag": "",
+      "ja": "私は一足飛びでアンアンに接近して、<br>彼女の首を絞める。",
+      "zh": "我一个箭步窜到安安面前，<br>\n掐住了她的脖子。",
+      "vi": "Tôi nhảy tới trước mặt AnAn, Anh tóm lấy cổ cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_AnAn002",
+      "speaker_tag": "; > AnAn: |#0205Bad01_AnAn002|",
+      "ja": "……ッ！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative103",
+      "speaker_tag": "",
+      "ja": "アンアンの魔法は厄介だ。<br>言葉を発する前に、終わらせる。",
+      "zh": "安安的魔法很棘手。<br>\n必须在她开口之前，了结她。",
+      "vi": "Phép thuật của AnAn thật phức tạp. Cô ấy phải bị giết trước khi nói được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Miria002",
+      "speaker_tag": "; > Miria: |#0205Bad01_Miria002|",
+      "ja": "……やめてっ！",
+      "zh": "……住手！",
+      "vi": "...dừng lại!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative104",
+      "speaker_tag": "",
+      "ja": "頭部に衝撃を感じる。<br>ぽたぽたと、<ruby=\"じゅうたん\">絨毯</ruby>に血が落ちた。<br>私の血だ。",
+      "zh": "头部感到一阵冲击。<br>\n啪嗒、啪嗒，血滴落在地毯上。<br>\n那是我的血。",
+      "vi": "Tôi cảm thấy một cú sốc trong đầu. Pat, pat, máu nhỏ xuống thảm. Đó là máu của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative105",
+      "speaker_tag": "",
+      "ja": "顔を上げる。<br>ミリアが火かき棒を手に、震えながら立っていた。<br>殴られたのだと理解する。",
+      "zh": "我抬起头。<br>\n米莉亚手里拿着拨火棍，颤抖地站着。<br>\n我明白我被她打了。",
+      "vi": "Tôi nhìn lên. Millia đứng run rẩy, bài poker trên tay. Tôi hiểu rằng tôi đã bị cô ấy đánh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative106",
+      "speaker_tag": "",
+      "ja": "私はアンアンの首から手を離す。",
+      "zh": "我松开掐住安安脖子的手。",
+      "vi": "Tôi thả tay ra khỏi cổ AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_AnAn003",
+      "speaker_tag": "; > AnAn: |#0205Bad01_AnAn003|",
+      "ja": "げほっ、げほっ……！",
+      "zh": "咳咳、咳咳……！",
+      "vi": "Ừm, ừm...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative107",
+      "speaker_tag": "",
+      "ja": "それからミリアの火かき棒を奪い――",
+      "zh": "然后夺过米莉亚的拨火棍——",
+      "vi": "Sau đó anh ta chộp lấy cái cờ bạc của Miria——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Miria003",
+      "speaker_tag": "; > Miria: |#0205Bad01_Miria003|",
+      "ja": "あっ！？",
+      "zh": "啊！？",
+      "vi": "À! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative108",
+      "speaker_tag": "",
+      "ja": "彼女の頭部を思い切り殴打した。",
+      "zh": "用力殴打了她的头部。",
+      "vi": "Anh đánh mạnh vào đầu cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_AnAn004",
+      "speaker_tag": "; > AnAn: |#0205Bad01_AnAn004|",
+      "ja": "ひっ……ああぁ……！",
+      "zh": "噫……啊啊啊……！",
+      "vi": "Ối...ahhhh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative109",
+      "speaker_tag": "",
+      "ja": "アンアンが後ずさる。<br>私はすかさず、彼女の心臓目掛けて刃を伸ばした。",
+      "zh": "安安后退了几步。<br>\n我毫不犹豫地将剑刃对准她的心脏刺去。",
+      "vi": "AnAn lùi lại vài bước. Không chút do dự, tôi nhắm lưỡi dao vào tim cô ấy và đâm nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_AnAn005",
+      "speaker_tag": "; > AnAn: |#0205Bad01_AnAn005|",
+      "ja": "か……はっ……。",
+      "zh": "嘎……哈……",
+      "vi": "Ga...ha...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative110",
+      "speaker_tag": "",
+      "ja": "恐怖に目を大きく見開き、<br>夏目アンアンは息絶えた。",
+      "zh": "夏目安安惊恐地瞪圆双眼，<br>\n断了气。",
+      "vi": "Đôi mắt của Tsume AnAn mở to kinh hoàng, Chết rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro013|",
+      "ja": "これで、４人目……。",
+      "zh": "这下，解决4个人了……",
+      "vi": "Lần này đã có 4 người bị loại...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Coco001",
+      "speaker_tag": "; > Coco: |#0205Bad01_Coco001|",
+      "ja": "ぎゃああああっ！<br>化け物が来たあああ！？",
+      "zh": "呀啊啊啊啊！<br>\n怪物、怪物来了啊啊啊！？",
+      "vi": "Yeahhhhhhh! Quái vật, quái vật đang đến! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Alisa001",
+      "speaker_tag": "; > Alisa: |#0205Bad01_Alisa001|",
+      "ja": "おめえが物音出すから<br>気付かれたんじゃねえか！",
+      "zh": "还不是你这家伙弄出声音，<br>\n才被发现的！",
+      "vi": "Người gây ồn ào không phải là mày, Mới phát hiện ra!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Coco002",
+      "speaker_tag": "; > Coco: |#0205Bad01_Coco002|",
+      "ja": "はぁ？ あんたがぶつかってきたんじゃん！<br>あてぃしは悪くねーし！",
+      "zh": "哈啊？明明是你撞过来的好不好！<br>\n又不是人家的错！",
+      "vi": "Hà? Rõ ràng là anh đã va vào Coco, được chứ? Đó không phải lỗi của họ!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Margo001",
+      "speaker_tag": "; > Margo: |#0205Bad01_Margo001|",
+      "ja": "言い争ってる場合じゃなさそうよ。<br>ここは協力し合わないと。<br>あの子、私たちを殺す気満々って顔だもの。",
+      "zh": "现在可不是吵架的时候哦。<br>\n眼下必须同心协力才行。<br>\n毕竟她，脸上都写明了要把我们都杀光呢。",
+      "vi": "Bây giờ không phải là lúc để tranh cãi. Chúng ta phải làm việc cùng nhau ngay bây giờ. Rốt cuộc, trên mặt cô ấy viết rõ ràng rằng cô ấy muốn giết tất cả chúng ta.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0205Bad01_Nanoka001|",
+      "ja": "……脱走した囚人がいるのに、<br>どうしてゴクチョーや看守が対処しないの？",
+      "zh": "……明明有逃脱囚犯，<br>\n为什么典狱长和看守却不来处理？",
+      "vi": "...Rõ ràng có tù nhân trốn thoát, Tại sao quản giáo và Cai Ngục không đến giải quyết?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro014|",
+      "ja": "！！",
+      "zh": "！！",
+      "vi": "！！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative111",
+      "speaker_tag": "",
+      "ja": "銃声が響き、私の肩が血煙を上げて爆ぜた。<br>撃ったのは黒部ナノカだ。<br>銃を構え、まっすぐにこちらを見据えている。",
+      "zh": "枪声响起，我的肩膀应声爆开一团血雾。<br>\n开枪的是黑部奈叶香。<br>\n她举着枪，直勾勾地盯着我。",
+      "vi": "Tiếng súng vang lên, một đám sương máu nổ tung trên vai tôi. Người nổ súng là Kurobe Nanoyaka. Cô ấy giơ súng lên và nhìn thẳng vào tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0205Bad01_Nanoka002|",
+      "ja": "私はまだ死ねない。<br>悪いけど、容赦しないわ。",
+      "zh": "我还不能死。<br>\n抱歉，但我不会手下留情的。",
+      "vi": "Tôi chưa thể chết được. Xin lỗi, nhưng tôi sẽ không thể hiện lòng thương xót.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Alisa002",
+      "speaker_tag": "; > Alisa: |#0205Bad01_Alisa002|",
+      "ja": "ウチだって、訳もわからず殺されてたまるかよ。",
+      "zh": "我也不想不明不白地被杀掉啊。",
+      "vi": "Tao không muốn bị giết mà không có lý do.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Margo002",
+      "speaker_tag": "; > Margo: |#0205Bad01_Margo002|",
+      "ja": "フフ、頼もしい２人だわ。",
+      "zh": "呵呵，你们两个真是可靠。",
+      "vi": "Haha, hai người thật đáng tin cậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Coco003",
+      "speaker_tag": "; > Coco: |#0205Bad01_Coco003|",
+      "ja": "てかあいつ撃たれた傷もう治ってんだけど！？<br>キモぉ！",
+      "zh": "话说那家伙中枪的伤口已经好了欸！？<br>\n恶心死！",
+      "vi": "Nhân tiện, vết thương mà anh chàng bị bắn đã lành! ? Kinh tởm!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative112",
+      "speaker_tag": "",
+      "ja": "私は大きく息を吸ってから、剣を構えた。<br>……ああ、でも。<br>彼女たちを解放する前にひとつだけ。",
+      "zh": "我深深吸了一口气，然后举起了剑。<br>\n……啊啊，不过。<br>\n在解放她们之前，还有一件事。",
+      "vi": "Tôi hít một hơi thật sâu và giơ kiếm lên. ...À, nhưng. Trước khi giải phóng họ, còn một điều nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro015|",
+      "ja": "ナノカ、ありがとう。<br>それから、すまない。",
+      "zh": "奈叶香，谢谢你。<br>\n还有，对不起。",
+      "vi": "Nanoyaka, cảm ơn bạn. Ngoài ra, tôi xin lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative113",
+      "speaker_tag": "",
+      "ja": "私を信じてくれて。<br>誰も犠牲にしないという願いを<ruby=\"かな\">叶</ruby>えられなくて。",
+      "zh": "谢谢你愿意相信我。<br>\n对不起，没能替你实现不让任何人牺牲的心愿。",
+      "vi": "Cảm ơn bạn đã tin tưởng vào tôi. Tôi xin lỗi vì đã không thể thực hiện được tâm nguyện không để bất kỳ ai khác phải hy sinh của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0205Bad01_Nanoka003|",
+      "ja": "……？",
+      "zh": "……？",
+      "vi": "……？",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative114",
+      "speaker_tag": "",
+      "ja": "厳密には、このナノカじゃない。<br>わかっていても、言葉にしたかった。",
+      "zh": "严格来说，不是这个奈叶香。<br>\n即使明白这一点，我还是想说出来。",
+      "vi": "Nói đúng ra thì không phải Nanoha này. Dù hiểu điều này nhưng tôi vẫn muốn nói ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro016|",
+      "ja": "もう大丈夫。<br>私が、君たちを救ってあげるから。",
+      "zh": "已经没事了。<br>\n因为，我会拯救你们的。",
+      "vi": "Bây giờ thì ổn rồi. Bởi vì tôi sẽ cứu bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hanna001",
+      "speaker_tag": "; > Hanna: |#0205Bad01_Hanna001|",
+      "ja": "ひっ、なんなんですの……！",
+      "zh": "噫，这究竟怎么一回事……！",
+      "vi": "Này, cái quái gì đang xảy ra vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Sherry001",
+      "speaker_tag": "; > Sherry: |#0205Bad01_Sherry001|",
+      "ja": "ふむ。ゴクチョーさんやエマさんが<br>話してた人じゃないですか？",
+      "zh": "唔。这不就是典狱长和艾玛<br>\n提到过的那个人吗？",
+      "vi": "Ừm. Đây không phải chỉ có quản giáo và Ema Người đó nhắc tới?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Sherry002",
+      "speaker_tag": "; > Sherry: |#0205Bad01_Sherry002|",
+      "ja": "――！！",
+      "zh": "——！！",
+      "vi": "——！！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hanna002",
+      "speaker_tag": "; > Hanna: |#0205Bad01_Hanna002|",
+      "ja": "あ、ぐ……。",
+      "zh": "啊、呜……",
+      "vi": "À, ừ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Sherry003",
+      "speaker_tag": "; > Sherry: |#0205Bad01_Sherry003|",
+      "ja": "ハンナさん！？",
+      "zh": "汉娜！？",
+      "vi": "Hanna！？",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative115",
+      "speaker_tag": "",
+      "ja": "私の剣がハンナの身を切り裂いた。",
+      "zh": "我的剑斩裂了汉娜的身体。",
+      "vi": "Thanh kiếm của tôi chém xuyên qua cơ thể của Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative116",
+      "speaker_tag": "",
+      "ja": "事態を理解する間もなかっただろう。<br>ハンナは<ruby=\"あっけ\">呆気</ruby>に取られた表情のまま崩れ落ちて、<br>血だまりを作る。",
+      "zh": "恐怕连理解状况的时间都没有吧。<br>\n汉娜带着茫然的表情瘫倒在地，<br>\n身下蔓延开一摊血泊。",
+      "vi": "Tôi e rằng tôi thậm chí không có thời gian để hiểu được tình hình. Hanna ngã xuống đất với vẻ mặt ngơ ngác, Một vũng máu lan rộng bên dưới anh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Sherry004",
+      "speaker_tag": "; > Sherry: |#0205Bad01_Sherry004|",
+      "ja": "あああああっ！",
+      "zh": "啊啊啊啊啊！",
+      "vi": "Ahhhhhh!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative117",
+      "speaker_tag": "",
+      "ja": "私に向かってくるシェリーの腕を切り飛ばす。<br>返す刃で、そのまま彼女を肩口から切り下ろした。",
+      "zh": "我挥剑斩断了雪莉冲来的手臂。<br>\n顺势翻转剑刃，从肩头处劈开她的身体。",
+      "vi": "Tôi vung kiếm và cắt đứt cánh tay đang lao tới của Sherry. Anh lật lưỡi dao và tách cơ thể cô ra khỏi vai.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Sherry005",
+      "speaker_tag": "; > Sherry: |#0205Bad01_Sherry005|",
+      "ja": "あ……あはは……やられちゃいました。",
+      "zh": "啊……啊哈哈……被干掉了呢。",
+      "vi": "Ah...ah haha...Tôi đã bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative118",
+      "speaker_tag": "",
+      "ja": "笑顔を浮かべたまま、シェリーは息絶えた。",
+      "zh": "雪莉她微笑着咽了气。",
+      "vi": "Sherry trút hơi thở cuối cùng với một nụ cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro017|",
+      "ja": "くっ……。",
+      "zh": "呃……",
+      "vi": "Ờ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative119",
+      "speaker_tag": "",
+      "ja": "全身の血が沸き上がる感覚に襲われる。<br>頭の中で、うるさく声が響く。",
+      "zh": "全身血液仿佛都在沸腾的感觉袭来。<br>\n脑海中，烦人的声音正在响起。",
+      "vi": "Máu trong toàn thân anh như sôi lên. Một giọng nói khó chịu vang lên trong tâm trí tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative120",
+      "speaker_tag": "",
+      "ja": "殺せ、殺せ、すべて壊してしまえ――",
+      "zh": "杀害吧，杀害吧，破坏一切吧——",
+      "vi": "Giết, giết, phá hủy mọi thứ——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Yuki001",
+      "speaker_tag": "; > Yuki: |#0205Bad01_Yuki001|",
+      "ja": "――本当は愉悦を感じているんでしょう。<br>圧倒的な力で、無力な存在を踏みにじることに。",
+      "zh": "——你其实正沉浸在愉悦之中吧。<br>\n沉浸在用压倒性的力量，蹂躏无力事物的快感里。",
+      "vi": "--Bạn thực sự đang đắm chìm trong niềm vui. Đắm chìm trong niềm vui khi sử dụng sức mạnh áp đảo để tàn phá những thứ bất lực.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro018|",
+      "ja": "……うるさい！",
+      "zh": "……吵死了！",
+      "vi": "...Ồn ào quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro019|",
+      "ja": "違う！",
+      "zh": "不对！",
+      "vi": "Không!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro020|",
+      "ja": "違う違う違う違う！ 私は……ッ！",
+      "zh": "不对不对不对不对！我……！",
+      "vi": "Không, không, không, không! TÔI……!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative121",
+      "speaker_tag": "",
+      "ja": "悦びなんて感じていない。<br>これは救いのためなんだから。",
+      "zh": "我根本没有感到愉悦。<br>\n这都是为了拯救她们！",
+      "vi": "Tôi không cảm thấy vui chút nào. Tất cả là để cứu họ!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Meruru001",
+      "speaker_tag": "; > Meruru: |#0205Bad01_Meruru001|",
+      "ja": "どうして……！ どうしてゴクチョーさんは<br>応答してくれないの……！",
+      "zh": "为什么……！为什么典狱长先生<br>\n不回应我啊……！",
+      "vi": "Tại sao...! Tại sao ông cai ngục Đừng trả lời tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro021|",
+      "ja": "ここにいたのか。",
+      "zh": "原来你在这里啊。",
+      "vi": "Vì vậy, bạn đang ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Meruru002",
+      "speaker_tag": "; > Meruru: |#0205Bad01_Meruru002|",
+      "ja": "ひっ……！？",
+      "zh": "噫……！？",
+      "vi": "Ôi...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro022|",
+      "ja": "ここに逃げ込むと思っていた。",
+      "zh": "我就知道你会逃到这里。",
+      "vi": "Tôi biết bạn sẽ trốn thoát ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Meruru003",
+      "speaker_tag": "; > Meruru: |#0205Bad01_Meruru003|",
+      "ja": "この場所のこと、ご存じなんですね。<br>ヒロさん、あなたは一体……？",
+      "zh": "原来你知道这个地方啊。<br>\n希罗小姐，你究竟是……？",
+      "vi": "Hóa ra bạn biết nơi này. Cô Hiro, cô là ai...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro023|",
+      "ja": "他にも色々と知っているよ。<br>もちろん、君の正体と目的もだ。",
+      "zh": "我还知道很多其他事哦。<br>\n当然，也包括你的真实身份和目的。",
+      "vi": "Tôi còn biết nhiều thứ khác. Tất nhiên, điều này cũng bao gồm danh tính và mục đích thực sự của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro024|",
+      "ja": "大魔女に会いたいんだろう？",
+      "zh": "你想见大魔女，对吧？",
+      "vi": "Bạn muốn gặp mụ phù thủy vĩ đại phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Meruru004",
+      "speaker_tag": "; > Meruru: |#0205Bad01_Meruru004|",
+      "ja": "……っ！？",
+      "zh": "……！？",
+      "vi": "……！？",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative122",
+      "speaker_tag": "",
+      "ja": "<ruby=\"きょうがく\">驚愕</ruby>して目を見開くメルルに、私は続ける。",
+      "zh": "面对因惊愕而睁大眼睛的梅露露，我继续说道。",
+      "vi": "Đối mặt với Meruru đang mở to mắt vì sốc, tôi tiếp tục.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro025|",
+      "ja": "どうすれば会えるのかも知っている。",
+      "zh": "我也知道该怎么做才能见到她。",
+      "vi": "Tôi cũng biết phải làm gì để gặp cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Meruru005",
+      "speaker_tag": "; > Meruru: |#0205Bad01_Meruru005|",
+      "ja": "ほ、本当ですか！？",
+      "zh": "真、真的吗！？",
+      "vi": "Thực sự, thực sự! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro026|",
+      "ja": "ああ。",
+      "zh": "嗯。",
+      "vi": "Ừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative123",
+      "speaker_tag": "",
+      "ja": "でも。",
+      "zh": "但是。",
+      "vi": "Nhưng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Meruru006",
+      "speaker_tag": "; > Meruru: |#0205Bad01_Meruru006|",
+      "ja": "え……。",
+      "zh": "欸……",
+      "vi": "Hừ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro027|",
+      "ja": "君には教えない。",
+      "zh": "我不会告诉你。",
+      "vi": "Tôi sẽ không nói cho bạn biết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative124",
+      "speaker_tag": "",
+      "ja": "期待に瞳を輝かせ、こちらへ<ruby=\"すが\">縋</ruby>りつくように<br>近付いてきたメルルの首を切り落とした。",
+      "zh": "梅露露双眼闪耀着期待，像是抓到救命稻草一般向我靠近。<br>\n而我则挥剑砍下她的头颅。",
+      "vi": "Đôi mắt Meruru sáng lên đầy mong đợi, và cô ấy tiến lại gần tôi như thể đang nắm lấy một chiếc ống hút cứu mạng. Và tôi vung kiếm chặt đầu cô ta.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro028|",
+      "ja": "君は悪だ。<br>まったくもって正しくない。",
+      "zh": "你是恶。<br>\n是彻头彻尾的不正确。",
+      "vi": "Bạn thật xấu xa. hoàn toàn không chính xác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro029|",
+      "ja": "けれど、大魔女に囚われた哀れな存在だ。<br>だから、私が解き放つ。",
+      "zh": "但是，你也是被大魔女囚禁的可怜之人。<br>\n所以，由我来将你解放。",
+      "vi": "Tuy nhiên, bạn cũng là một kẻ tội nghiệp bị mụ phù thủy vĩ đại giam cầm. Vậy hãy để tôi giải thoát cho bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Meruru007",
+      "speaker_tag": "; > Meruru: |#0205Bad01_Meruru007|",
+      "ja": "……ああ、そんな……<br>その剣、【トレデキム】を塗って……。",
+      "zh": "……啊啊，怎么会……<br>\n那把剑上，涂了【特雷德基姆】……",
+      "vi": "...À, sao có thể như vậy được... Thanh kiếm đó được sơn bằng [Treadkim]...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative125",
+      "speaker_tag": "",
+      "ja": "床に転がったメルルの首が、言葉を紡ぐ。",
+      "zh": "滚落在地板上的梅露露的头颅，吐出话语。",
+      "vi": "Đầu Meruru rơi xuống sàn và thốt ra những lời.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Meruru008",
+      "speaker_tag": "; > Meruru: |#0205Bad01_Meruru008|",
+      "ja": "やだぁ……死にたくない……<br>たすけて……大魔女様ぁ……！",
+      "zh": "不要啊……我不想死……<br>\n救救我……大魔女大人……！",
+      "vi": "Không...tôi không muốn chết... Giúp tôi với... mụ phù thủy vĩ đại...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro030|",
+      "ja": "いいや、君は死ぬ。<br>大魔女にも二度と会えない。",
+      "zh": "不，你会死。<br>\n而且再也见不到大魔女了。",
+      "vi": "Không, bạn sẽ chết. Và mụ phù thủy vĩ đại sẽ không bao giờ được nhìn thấy nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Meruru009",
+      "speaker_tag": "; > Meruru: |#0205Bad01_Meruru009|",
+      "ja": "！！",
+      "zh": "！！",
+      "vi": "！！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative126",
+      "speaker_tag": "",
+      "ja": "私の言葉に、メルルの表情が大きく<ruby=\"ゆが\">歪</ruby>んだ。",
+      "zh": "听见我的话，梅露露的表情骤然扭作一团。",
+      "vi": "Khi nghe những lời của tôi, vẻ mặt của Meruru đột nhiên nhăn lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative127",
+      "speaker_tag": "",
+      "ja": "裁判所を訪れる。<br>そこに、エマがひっそりと<ruby=\"たたず\">佇</ruby>んでいた。<br>静寂の中、まるで私を待ち構えていたかのように。",
+      "zh": "我来到了审判庭。<br>\n艾玛正静静地伫立在那里。<br>\n她站在这片寂静之中，简直就像是特意在等着我一般。",
+      "vi": "Tôi đã đến Tòa án dị giáo. Ema đang đứng đó lặng lẽ. Cô ấy đứng trong sự im lặng này, như thể cô ấy đang đợi tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative128",
+      "speaker_tag": "",
+      "ja": "ゆっくりと歩を進め、エマに近づく。",
+      "zh": "我缓缓迈步，走向艾玛。",
+      "vi": "Tôi bước chậm về phía Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative129",
+      "speaker_tag": "",
+      "ja": "互いに手が届きそうな距離で、私は足を止めた。<br>しばらく無言で視線を交わす。",
+      "zh": "在彼此伸手可及的距离处，我停下脚步。<br>\n我和她沉默地对视了片刻。",
+      "vi": "Trong tầm tay nhau, tôi dừng lại. Tôi và cô ấy nhìn nhau trong im lặng một lúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema003",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema003|",
+      "ja": "ヒロちゃん……<br>きっと何かの冗談だよね？",
+      "zh": "希罗……<br>\n你肯定是在开什么玩笑吧？",
+      "vi": "Anh hùng...... Bạn đang đùa tôi à?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative130",
+      "speaker_tag": "",
+      "ja": "先に口を開いたのは、エマだった。",
+      "zh": "先开口的是，艾玛。",
+      "vi": "Ema là người lên tiếng đầu tiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema004",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema004|",
+      "ja": "全部、ウソで……<br>本当は誰も死んでなくて……<br>ヒロちゃんは、誰も殺してなんかない。",
+      "zh": "一切，都是骗人的……<br>\n其实根本没有人死……<br>\n希罗，也根本没有杀任何人，对不对。",
+      "vi": "Mọi thứ đều là dối trá... Trên thực tế, không có ai chết cả... Anh hùng không hề giết ai cả, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema005",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema005|",
+      "ja": "ねえ、そうなんでしょ？",
+      "zh": "我说，是这样没错吧？",
+      "vi": "Tôi nói, có đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema006",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema006|",
+      "ja": "そうだって言ってよ！",
+      "zh": "你快说“是”啊！",
+      "vi": "Hãy nhanh chóng nói \"có\"!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative131",
+      "speaker_tag": "",
+      "ja": "私は答えない。",
+      "zh": "我没有回答。",
+      "vi": "Tôi không trả lời.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative132",
+      "speaker_tag": "",
+      "ja": "沈黙を肯定と受け取ったのか、<br>エマは呆然とした表情を浮かべる。",
+      "zh": "艾玛似乎将沉默视作肯定，<br>\n露出了茫然的表情。",
+      "vi": "Ema dường như coi sự im lặng là lời khẳng định, Anh ta tỏ ra vẻ mặt trống rỗng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema007",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema007|",
+      "ja": "なん、で……。",
+      "zh": "为、什么……",
+      "vi": "Tại sao, cái gì...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema008",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema008|",
+      "ja": "やっぱり、ヒロちゃんは魔女なの？",
+      "zh": "果然，希罗你就是魔女吗？",
+      "vi": "Chắc chắn rồi, Anh hùng, bạn có phải là phù thủy không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema009",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema009|",
+      "ja": "殺人衝動を我慢できなくて、<br>みんなを殺したの……？",
+      "zh": "是因为无法忍耐杀人的冲动，<br>\n所以才杀了大家的吗……？",
+      "vi": "Đó là vì tôi không thể chịu đựng được ham muốn giết chóc, Đó có phải là lý do tại sao tôi giết tất cả mọi người...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro031|",
+      "ja": "そうじゃない。<br>みんなを呪われた運命から救い出すためだ。",
+      "zh": "不是的。<br>\n这是为了将大家从受诅咒的命运中拯救出来。",
+      "vi": "Không. Điều này là để cứu mọi người khỏi số phận bị nguyền rủa của họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema010",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema010|",
+      "ja": "救うのに、殺すって……<br>おかしいよ、そんなの。",
+      "zh": "为了救人，却要去杀人……<br>\n这也太奇怪了啊。",
+      "vi": "Để cứu người thì phải giết người... Điều này quá kỳ lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative133",
+      "speaker_tag": "",
+      "ja": "エマの様子が、どこか変だ。<br>話す声が虚ろで、目の焦点が合っていなかった。<br>その瞳は、私じゃない何かを映しているみたいだ。",
+      "zh": "艾玛的样子有些奇怪。<br>\n说话的声音很空洞，眼神没有焦点。<br>\n那双瞳孔，仿佛并非映照着我，而是别的什么东西。",
+      "vi": "Ema trông hơi lạ. Giọng anh trống rỗng và đôi mắt anh không tập trung. Những con ngươi đó dường như không phản ánh tôi mà là một cái gì đó khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema011",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema011|",
+      "ja": "あ、あああ……そんな……<br>【あの子】はずっと近くにいたんだ……。",
+      "zh": "啊、啊啊啊……怎么会……<br>\n【她】原来一直都近在身旁……",
+      "vi": "À, à à...sao có thể như vậy... [Cô ấy] hóa ra lúc nào cũng ở gần bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative134",
+      "speaker_tag": "",
+      "ja": "頭を抱え、エマは苦しげに<ruby=\"うめ\">呻</ruby>く。",
+      "zh": "艾玛抱着头，痛苦地呻吟着。",
+      "vi": "Ema ôm đầu rên rỉ đau đớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema012",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema012|",
+      "ja": "うぅぅ……ボクの……大切な友だち……<br>ボクが……ボクが見捨てた……！",
+      "zh": "呜呜呜……我的……重要的朋友……<br>\n是我……是我见死不救……！",
+      "vi": "Woohoo...người bạn quan trọng...của tôi... Là tôi...chính tôi là người từ chối cứu người...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro032|",
+      "ja": "！",
+      "zh": "！",
+      "vi": "！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative135",
+      "speaker_tag": "",
+      "ja": "その言葉に確信する。<br>エマは今、【彼女】の記憶を取り戻して――",
+      "zh": "那句话让我确信了。<br>\n艾玛现在，正取回有关【她】的记忆——",
+      "vi": "Câu nói đó đã thuyết phục tôi. Ema hiện đang lấy lại ký ức của mình——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative136",
+      "speaker_tag": "",
+      "ja": "不意に、エマの全身から光が放たれた。",
+      "zh": "突然，艾玛全身散发出光芒。",
+      "vi": "Đột nhiên, toàn thân Ema phát sáng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative137",
+      "speaker_tag": "",
+      "ja": "ああ、そうか。<br>エマにとって、【彼女】は禁忌。<br>そこに触れてしまったエマは――",
+      "zh": "啊，原来是这样。<br>\n对艾玛来说，【她】是禁忌。<br>\n而触碰了那个禁忌的艾玛——",
+      "vi": "À, ra là vậy. Đối với Ema, [cô ấy] là điều cấm kỵ. Và Ema, người đã chạm vào điều cấm kỵ đó——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative138",
+      "speaker_tag": "",
+      "ja": "【魔女】として覚醒したのだ。",
+      "zh": "作为【魔女】觉醒了。",
+      "vi": "Thức tỉnh như một [Phù thủy].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema013",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema013|",
+      "ja": "ヒロちゃんは、間違ってる。",
+      "zh": "希罗，你错了。",
+      "vi": "Anh hùng, bạn sai rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro033|",
+      "ja": "――！！",
+      "zh": "——！！",
+      "vi": "——！！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema014",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema014|",
+      "ja": "……【あの子】も、そう言ってるよ？<br>それは救いでもなんでもない。<br>ただ、殺しているだけだって。",
+      "zh": "……【她】也是这么说的哦？<br>\n那根本算不上什么救赎。<br>\n不过，是在单纯地杀戮罢了。",
+      "vi": "...[Cô ấy] cũng nói vậy phải không? Đó không hẳn là một sự chuộc lỗi chút nào. Nhưng đó chỉ là sự giết chóc thuần túy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema015",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema015|",
+      "ja": "ああ、でも安心して。<br>ヒロちゃんを否定する気はないよ。<br>だって――。",
+      "zh": "啊啊，不过你放心。<br>\n我并不打算否定你哦，希罗。<br>\n因为啊——",
+      "vi": "À, nhưng đừng lo lắng. Tôi không có ý từ chối anh, Hiro. Bởi vì——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative139",
+      "speaker_tag": "",
+      "ja": "怖気の走るような笑顔で、エマは告げる。",
+      "zh": "艾玛带着令人不寒而栗的笑容，宣告道。",
+      "vi": "Ema tuyên bố với một nụ cười lạnh lùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema016",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema016|",
+      "ja": "みんな死ねばいいもんね。",
+      "zh": "只要大家全都去死不就好了嘛。",
+      "vi": "Sẽ ổn thôi nếu mọi người đều chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative140",
+      "speaker_tag": "",
+      "ja": "私の中で、何かが警鐘を鳴らしている。<br>本能なのか、体に潜む忌まわしい魔女因子か。<br>わからないが告げている。",
+      "zh": "我心中，有什么东西在敲响警钟。<br>\n是本能，还是潜藏于体内的那可憎的魔女因子。<br>\n我不清楚，但它在告诫我。",
+      "vi": "Có điều gì đó trong tim tôi đang rung lên hồi chuông cảnh báo. Đó là bản năng, hay là nhân tố phù thủy đáng ghê tởm ẩn giấu trong cơ thể. Tôi không biết, nhưng nó đang nói với tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative141",
+      "speaker_tag": "",
+      "ja": "目の前にいるエマは。<br>……いや。<br>【魔女】は、とてつもなく危険だと。",
+      "zh": "眼前的艾玛——<br>\n……不，<br>\n是【魔女】，是极其危险的存在。",
+      "vi": "Ema trước mặt tôi—— …Không, Cô ấy là một [Witch], một sự tồn tại cực kỳ nguy hiểm.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema017",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema017|",
+      "ja": "ボクのことも、殺すの？",
+      "zh": "你连我，也要杀吗？",
+      "vi": "Bạn có muốn giết tôi quá không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative142",
+      "speaker_tag": "",
+      "ja": "やめろ。",
+      "zh": "住口。",
+      "vi": "Im đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema018",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema018|",
+      "ja": "酷いよ、友だちなのに。",
+      "zh": "太过分了，我们明明是朋友。",
+      "vi": "Thế là quá nhiều. Chúng tôi rõ ràng là bạn bè.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative143",
+      "speaker_tag": "",
+      "ja": "やめろやめろ。",
+      "zh": "住口住口。",
+      "vi": "Im đi, im đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema019",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema019|",
+      "ja": "せっかくまた３人、<ruby=\"そろ\">揃</ruby>ったのに。",
+      "zh": "难得我们三个人，又重新见面了。",
+      "vi": "Thật hiếm khi ba chúng tôi gặp lại nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro034|",
+      "ja": "私を惑わせるな！",
+      "zh": "休想迷惑我！",
+      "vi": "Đừng cố làm tôi bối rối!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative144",
+      "speaker_tag": "",
+      "ja": "私はエマの胸を、剣で刺し貫く。",
+      "zh": "我用剑，刺穿了艾玛的胸膛。",
+      "vi": "Tôi đâm vào ngực Ema bằng thanh kiếm của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative145",
+      "speaker_tag": "",
+      "ja": "全ての動きが、ゆっくりに感じられた。",
+      "zh": "所有的动作，都感觉变得缓慢。",
+      "vi": "Mọi chuyển động đều có cảm giác chậm chạp.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative146",
+      "speaker_tag": "",
+      "ja": "胸元に剣を突き立てられたまま、<br>エマが仰向けに倒れていく。",
+      "zh": "胸口插着剑的艾玛，<br>\n仰面倒了下去。",
+      "vi": "Ema với một thanh kiếm cắm vào ngực, Anh ta ngã ngửa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative147",
+      "speaker_tag": "",
+      "ja": "虚ろな瞳で私を捉え、口元を動かす。",
+      "zh": "她用空洞的瞳孔捕捉着我的身影，动了动嘴唇。",
+      "vi": "Cô ấy chụp hình tôi bằng con ngươi trống rỗng và cử động môi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative148",
+      "speaker_tag": "",
+      "ja": "し<br>   ね",
+      "zh": "去<br>\n死",
+      "vi": "Đi tới chết",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative149",
+      "speaker_tag": "",
+      "ja": "瞬間、視界が黒く染まる。",
+      "zh": "瞬间，视野被染成黑色。",
+      "vi": "Ngay lập tức, tầm nhìn bị nhuộm đen.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative150",
+      "speaker_tag": "",
+      "ja": "体がまったく動かない。<br>意識が、遠のいていく。",
+      "zh": "身体完全动不了。<br>\n意识，逐渐远去。",
+      "vi": "Cơ thể hoàn toàn không thể cử động được. Ý thức dần dần mờ đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative151",
+      "speaker_tag": "",
+      "ja": "ああ、私は死ぬらしい。",
+      "zh": "啊啊，我好像要死了。",
+      "vi": "A, tôi cảm giác như mình sắp chết rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative152",
+      "speaker_tag": "",
+      "ja": "エマの魔法か。<br>単に私が力尽きたのか。",
+      "zh": "是艾玛的魔法吗？<br>\n还是单纯因为我已耗尽了力气？",
+      "vi": "Đó có phải là phép thuật của Ema? Hay đơn giản là vì tôi đã cạn kiệt năng lượng?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative153",
+      "speaker_tag": "",
+      "ja": "どっちでもいい。<br>ようやく、終わりなんだ。",
+      "zh": "怎样都好。<br>\n终于，结束了。",
+      "vi": "Không có vấn đề gì. Cuối cùng thì nó cũng kết thúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative154",
+      "speaker_tag": "",
+      "ja": "私の魔法も限界。<br>きっともう、死に戻りは起きない。",
+      "zh": "我的魔法也到了极限。<br>\n死亡回溯，一定不会再发动了吧。",
+      "vi": "Phép thuật của tôi đã đạt đến giới hạn. Hồi tưởng cái chết chắc chắn sẽ không được kích hoạt nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative155",
+      "speaker_tag": "",
+      "ja": "これで本当に、終わり。",
+      "zh": "这次是真的，结束了。",
+      "vi": "Lần này là thật, xong rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative156",
+      "speaker_tag": "",
+      "ja": "満足だった。<br>みんなを大魔女の呪いから解放できたから。",
+      "zh": "我很满足。<br>\n因为能将大家从大魔女的诅咒中解放出来。",
+      "vi": "Tôi rất hài lòng. Bởi vì nó có thể giải phóng mọi người khỏi lời nguyền của mụ phù thủy vĩ đại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative157",
+      "speaker_tag": "",
+      "ja": "私も休もう。<br>何も怖くはない。<br>ただ穏やかで、<ruby=\"せいひつ\">静謐</ruby>に包まれている。",
+      "zh": "我也该休息了。<br>\n没什么好怕的。<br>\n唯有平静与安宁包裹着我。",
+      "vi": "Cũng đến lúc tôi phải nghỉ ngơi rồi. Không có gì phải sợ cả. Chỉ có sự bình yên và tĩnh lặng bao bọc tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative158",
+      "speaker_tag": "",
+      "ja": "私の意識は死という救済に沈んでいく――",
+      "zh": "我的意识沉入了名为死亡的救赎中——",
+      "vi": "Ý thức của tôi chìm vào sự cứu rỗi mang tên cái chết——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative159",
+      "speaker_tag": "",
+      "ja": "――ヒロちゃん。",
+      "zh": "——希罗。",
+      "vi": "——Hiro。",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro035",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro035|",
+      "ja": "（…………）",
+      "zh": "（…………）",
+      "vi": "（…………）",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative160",
+      "speaker_tag": "",
+      "ja": "――ヒロちゃん、起きて。",
+      "zh": "——希罗，醒醒。",
+      "vi": "---Anh hùng, thức dậy đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro036",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro036|",
+      "ja": "（この声は……）",
+      "zh": "（这个声音是……）",
+      "vi": "(Giọng nói này là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro037",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro037|",
+      "ja": "エマ？",
+      "zh": "艾玛？",
+      "vi": "Ema？",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema020",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema020|",
+      "ja": "ボクだけじゃないよ。",
+      "zh": "不只我一个哦。",
+      "vi": "Không chỉ có tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative161",
+      "speaker_tag": "",
+      "ja": "ほら、とエマが指さした先。<br>そこには――",
+      "zh": "“你看”，艾玛指向前方。<br>\n在那里——",
+      "vi": "“Nhìn này,” Ema chỉ về phía trước. Ở đó——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative162",
+      "speaker_tag": "",
+      "ja": "私が解放した少女たちの姿があった。",
+      "zh": "是我所解放的少女们的身影。",
+      "vi": "Họ là hình bóng của những cô gái mà tôi đã giải phóng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative163",
+      "speaker_tag": "",
+      "ja": "みんな、こちらに背を向けて、<br>どこかへと歩みを進めている。",
+      "zh": "大家都背对着我们，<br>\n正走向某个地方。",
+      "vi": "Mọi người đều quay lưng lại với chúng tôi, Đang hướng tới một nơi nào đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative164",
+      "speaker_tag": "",
+      "ja": "彼女たちの行く手には、ただ光が広がっていた。",
+      "zh": "在她们前进的方向，唯有一片光芒无尽蔓延。",
+      "vi": "Theo hướng họ đang đi, chỉ có một tia sáng lan tỏa vô tận.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema021",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema021|",
+      "ja": "みんな、ヒロちゃんに感謝してるんだよ。",
+      "zh": "大家都很感谢你哦，希罗。",
+      "vi": "Cảm ơn mọi người, Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema022",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema022|",
+      "ja": "ヒロちゃん、ありがとう。<br>ひとりでたくさん頑張ってくれたんだね。",
+      "zh": "希罗，谢谢你。<br>\n你一个人付出了那么多努力。",
+      "vi": "Anh hùng, cảm ơn bạn. Một mình bạn đã nỗ lực rất nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative165",
+      "speaker_tag": "",
+      "ja": "エマが微笑む。<br>その言葉だけで、私も報われた気持ちになった。",
+      "zh": "艾玛微笑着。<br>\n光是这句话，就让我感觉得到了回报。",
+      "vi": "Ema mỉm cười. Chỉ những lời đó thôi cũng khiến tôi cảm thấy được khen thưởng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative166",
+      "speaker_tag": "",
+      "ja": "私は間違っていなかった。<br>ちゃんと正しく、みんなを救えたのだと。",
+      "zh": "我没有错。<br>\n我用正确的方式，拯救了大家。",
+      "vi": "Tôi không sai. Tôi đã cứu mọi người theo đúng cách.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema023",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema023|",
+      "ja": "行こう、ヒロちゃん。",
+      "zh": "我们走吧，希罗。",
+      "vi": "Đi thôi, Anh hùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative167",
+      "speaker_tag": "",
+      "ja": "そっと、エマが私に手を差し伸べる。",
+      "zh": "艾玛轻轻地，向我伸出手。",
+      "vi": "Ema nhẹ nhàng đưa tay về phía tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro038",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro038|",
+      "ja": "……どこへ？",
+      "zh": "……去哪里？",
+      "vi": "…Đi đâu?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Ema024",
+      "speaker_tag": "; > Ema: |#0205Bad01_Ema024|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative168",
+      "speaker_tag": "",
+      "ja": "エマは答えない。<br>ただ柔らかく笑み、手を取るように促してくる。",
+      "zh": "艾玛没有回答。<br>\n只是温柔地笑着，催促我握住她的手。",
+      "vi": "Ema không trả lời. Chỉ mỉm cười nhẹ nhàng và giục tôi nắm lấy tay cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Hiro039",
+      "speaker_tag": "; > Hiro: |#0205Bad01_Hiro039|",
+      "ja": "……どこでもいいか、君となら。",
+      "zh": "……去哪里都无所谓。只要和你在一起。",
+      "vi": "…Việc bạn đi đâu không quan trọng. Chỉ cần được ở bên bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative169",
+      "speaker_tag": "",
+      "ja": "私はエマの手を取る。<br>握ったその手は、温かかった。",
+      "zh": "我握住艾玛的手。<br>\n握住的那只手，很温暖。",
+      "vi": "Tôi nắm lấy tay Ema. Bàn tay tôi nắm thật ấm áp.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative170",
+      "speaker_tag": "",
+      "ja": "彼女と２人、歩き出す。",
+      "zh": "我和她两个人，迈步前行。",
+      "vi": "Tôi và cô ấy tiến về phía trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative171",
+      "speaker_tag": "",
+      "ja": "過去と未来。<br>全てが遠ざかっていく。",
+      "zh": "过去与未来。<br>\n一切都逐渐远去。",
+      "vi": "Quá khứ và tương lai. Mọi thứ mờ dần đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative172",
+      "speaker_tag": "",
+      "ja": "この道がどこに続いていようとも、<br>恐れは何もなかった。<br>エマが私の傍にいるから。",
+      "zh": "无论这条路通向何方，<br>\n都没有任何恐惧。<br>\n因为艾玛就在我的身边。",
+      "vi": "Bất kể con đường này dẫn tới đâu, Tất cả đều không có chút sợ hãi nào. Bởi vì Ema ở bên cạnh tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative173",
+      "speaker_tag": "",
+      "ja": "光が、私たちを照らしている。",
+      "zh": "光芒，照耀着我们。",
+      "vi": "Ánh sáng chiếu vào chúng ta.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative174",
+      "speaker_tag": "",
+      "ja": "――二階堂ヒロと、桜羽エマ。",
+      "zh": "——二阶堂希罗，还有樱羽艾玛。",
+      "vi": "---Nikaido Hiro và Sakuraba Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative175",
+      "speaker_tag": "",
+      "ja": "２人は穏やかな表情を浮かべて横たわっていた。",
+      "zh": "两人脸上带着平静的表情，静静地躺在那里。",
+      "vi": "Hai người nằm đó lặng lẽ với vẻ mặt bình tĩnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative176",
+      "speaker_tag": "",
+      "ja": "そこに、ゴクチョーが降り立つ。",
+      "zh": "这时，典狱长降落在了她们身边。",
+      "vi": "Lúc này, quản giáo đáp xuống bên cạnh họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative177",
+      "speaker_tag": "",
+      "ja": "ヒロとエマの傍に、１本の万年筆が転がっていた。",
+      "zh": "在希罗和艾玛的身旁，滚落着一支钢笔。",
+      "vi": "Bên cạnh Hiro và Ema, ​​một cây bút lăn xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Narrative178",
+      "speaker_tag": "",
+      "ja": "ゴクチョーが万年筆を回収し、<br>どこかへと飛び去って行く。",
+      "zh": "典狱长回收了钢笔，<br>\n随后不知飞向了何处。",
+      "vi": "Quản giáo đã thu hồi chiếc bút, Sau đó nó bay đi đâu mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Yuki002",
+      "speaker_tag": "; > Yuki: |#0205Bad01_Yuki002|",
+      "ja": "――みんな、死んだ。",
+      "zh": "——大家都死了。",
+      "vi": "---Mọi người đều đã chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Yuki003",
+      "speaker_tag": "; > Yuki: |#0205Bad01_Yuki003|",
+      "ja": "――エマまで死んでしまったのは、<br>少し想定外だったけれど。",
+      "zh": "——连艾玛都死了，<br>\n这倒是有些出乎我的预料了呢。",
+      "vi": "---Ngay cả Ema cũng chết rồi, Điều này hơi vượt quá sự mong đợi của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Yuki004",
+      "speaker_tag": "; > Yuki: |#0205Bad01_Yuki004|",
+      "ja": "――でも、大丈夫。",
+      "zh": "——不过，没关系。",
+      "vi": "---Nhưng, điều đó không quan trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Bad01_Yuki005",
+      "speaker_tag": "; > Yuki: |#0205Bad01_Yuki005|",
+      "ja": "――人間はみんな、死ぬんですから……。",
+      "zh": "——因为人类，全部都要死……",
+      "vi": "---Bởi vì tất cả con người đều phải chết...",
+      "objection_links": []
+    }
+  ]
+}

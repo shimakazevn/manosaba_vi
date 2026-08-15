@@ -1,0 +1,624 @@
+{
+  "bundle": "general-localization-zhhans-scripts-common_assets_all.bundle",
+  "script_name": "CommonBad05",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Common/CommonBad05' Naninovel scenario script",
+  "total_entries": 77,
+  "entries": [
+    {
+      "id": "CommonBad05_Warden001",
+      "speaker_tag": "; > Warden: |#CommonBad05_Warden001|",
+      "ja": "あの皆さん、そろそろ投票に移っていただけると。",
+      "zh": "那个，各位，是时候请大家开始投票了。",
+      "vi": "Nào, các bạn, đã đến lúc bắt đầu bỏ phiếu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative001",
+      "speaker_tag": "",
+      "ja": "明確な答えが出ないまま、<br>ゴクチョーによって議論の終わりが告げられた。",
+      "zh": "讨论尚未得出明确答案，<br>\n但典狱长已经宣告了议论的结束。",
+      "vi": "Cuộc thảo luận vẫn chưa mang lại câu trả lời rõ ràng, Nhưng người quản lý đã tuyên bố cuộc thảo luận đã kết thúc.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Coco001",
+      "speaker_tag": "; > Coco: |#CommonBad05_Coco001|",
+      "ja": "異議なーし。<br>あてぃしは誰に入れるか決まってるし～。",
+      "zh": "我没意见。<br>\n我已经决定好要投票给谁了～",
+      "vi": "Coco không có vấn đề gì với điều đó. Coco đã quyết định bầu cho ai rồi~",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative002",
+      "speaker_tag": "",
+      "ja": "ココが含みのある視線をアリサに向ける。",
+      "zh": "可可向亚里沙投去别有深意的视线。",
+      "vi": "Coco nhìn Alisa đầy ý nghĩa.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa001",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative003",
+      "speaker_tag": "",
+      "ja": "今回は誰が【魔女】として処刑されるのか――<br>全員がスマホを操作し、投票していく。",
+      "zh": "这次会是谁以【魔女】的身份接受处刑——<br>\n所有人都按着手机，进行投票。",
+      "vi": "Ai sẽ bị xử tử như một [Pháp sư] lần này—— Mọi người bấm điện thoại di động để bỏ phiếu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative004",
+      "speaker_tag": "",
+      "ja": "そして。",
+      "zh": "然后。",
+      "vi": "Sau đó.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative005",
+      "speaker_tag": "",
+      "ja": "間抜けなファンファーレ音と共に、<br>アリサの画像がスマホに映し出された。",
+      "zh": "随着一声滑稽的庆祝音效响起，<br>\n手机上出现了亚里沙的照片。",
+      "vi": "Khi hiệu ứng âm thanh ăn mừng vui nhộn vang lên, Một bức ảnh của Alisa xuất hiện trên điện thoại.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Warden002",
+      "speaker_tag": "; > Warden: |#CommonBad05_Warden002|",
+      "ja": "えー、というわけで……<br>得票数のもっとも多い、紫藤アリサの処刑が決定！",
+      "zh": "呃，根据结果……<br>\n决定对得票最多的紫藤亚里沙实施刑罚咯！",
+      "vi": "Vâng, theo kết quả... Người ta đã quyết định trừng phạt Alisa Wisteria, người nhận được nhiều phiếu bầu nhất!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa002",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa002|",
+      "ja": "くそっ、くそっ……ふざけんなよ！<br>なんでウチなんだよ……！！",
+      "zh": "该死，该死……开什么玩笑！<br>\n为什么是我……！！",
+      "vi": "Chết tiệt, chết tiệt... thật là một trò đùa! Tại sao lại là Tao...! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative006",
+      "speaker_tag": "",
+      "ja": "吐き捨てながら、アリサが<br>自分のスマホを床に<ruby=\"たた\">叩</ruby>きつける。",
+      "zh": "亚里沙一边恶狠狠地说道，<br>\n一边将自己的手机用力摔在地上。",
+      "vi": "Alisa nói một cách quyết liệt, Trong khi đập điện thoại di động của mình xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Coco002",
+      "speaker_tag": "; > Coco: |#CommonBad05_Coco002|",
+      "ja": "なんでも何も妥当でしょ。<br>放火とか状況的にも犯人に決まってるじゃん。",
+      "zh": "还用问为什么，这不是很合理吗。<br>\n从放火等等现场情况来看，明显你就是凶手啊。",
+      "vi": "Bạn không cần phải hỏi tại sao, điều này chẳng phải rất hợp lý sao? Xét theo tình tiết vụ đốt phá và những hiện trường khác, rõ ràng bạn là kẻ sát nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa003",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa003|",
+      "ja": "ざけんなよ……ウチはやってねえ！<br>あいつを殺す動機なんかねえだろうが！！",
+      "zh": "开什么玩笑……我才没干！<br>\n我没杀那家伙的动机好吗！！",
+      "vi": "Bạn đang đùa Tao à...Tao không làm điều đó! Tao không có động cơ để giết gã đó, được chứ? !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Coco003",
+      "speaker_tag": "; > Coco: |#CommonBad05_Coco003|",
+      "ja": "動機とか知らんって。<br>魔女の殺人衝動ってやつなんじゃねーの。<br>普段から『ぶっ殺す』とかイキってたし。",
+      "zh": "我管你什么动机。<br>\n不是魔女会有杀人冲动吗。<br>\n毕竟你平时就在那里喊打喊杀的，狠得要命。",
+      "vi": "Coco không quan tâm động cơ của bạn là gì. Chẳng phải phù thủy có lòng muốn giết người sao? Rốt cuộc, bạn thường ở đó la hét và giết chóc, bạn thật tàn nhẫn.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa004",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa004|",
+      "ja": "ち、違う……ウチは、ウチは……！",
+      "zh": "不、不对……我、我其实……！",
+      "vi": "Không, điều đó không đúng...Tao-Tao thực sự...!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Coco004",
+      "speaker_tag": "; > Coco: |#CommonBad05_Coco004|",
+      "ja": "諦めろって！ みんなが怪しいと思って、<br>おめぇに票入れてんだよ！<br>だから選ばれてんだろーが！！",
+      "zh": "放弃吧！大家就是觉得你可疑，<br>\n才投票给你的啊！<br>\n所以你才会高票通过啊！！",
+      "vi": "Hãy từ bỏ! Mọi người chỉ nghĩ bạn đáng ngờ, Coco vừa bỏ phiếu cho bạn! Đó là lý do tại sao bạn đã vượt qua với số phiếu bầu cao! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative007",
+      "speaker_tag": "",
+      "ja": "アリサが他の少女たちに目を向ける。<br>怒りと絶望に<ruby=\"ゆが\">歪</ruby>んだ瞳が、<br>やがて諦観したように伏せられた。",
+      "zh": "亚里沙向其他少女们投去视线。<br>\n那双因愤怒与绝望而扭曲的眼睛，<br>\n最终又像是死了心似的垂了下去。",
+      "vi": "Alisa liếc nhìn những cô gái khác. Đôi mắt đó nheo lại đầy giận dữ và tuyệt vọng, Cuối cùng, anh gục xuống như thể đã bỏ cuộc.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa005",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa005|",
+      "ja": "そうかよ……わかったよ。<br>ウチが死ねば、それで満足なんだろ。",
+      "zh": "是啊……我早知道了。<br>\n只要我死了，大家就会满足了，对吧。",
+      "vi": "Ừ...Tao đã biết rồi. Chỉ cần Tao chết thì mọi người sẽ hài lòng phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa006",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa006|",
+      "ja": "はっ……遅いか早いかだけだしな。<br>おめえら全員、どうせ同じように死ぬんだし。",
+      "zh": "哈……反正是迟早的事。<br>\n反正你们所有人，都一样会死。",
+      "vi": "Ha...chỉ là vấn đề thời gian thôi. Dù sao thì tất cả các mày cũng sẽ chết.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Warden003",
+      "speaker_tag": "; > Warden: |#CommonBad05_Warden003|",
+      "ja": "あのー、なんか納得もされたみたいですし、<br>とりあえず進行してもいいですかね？<br>まあ、納得されなくても進めるんですけど……。",
+      "zh": "呃，感觉当事人好像也没异议了，<br>\n那我就继续咯？<br>\n不过，就算有意见也会继续啦……",
+      "vi": "Chà, tôi cảm thấy người liên quan không có ý kiến phản đối nào, Sau đó tôi sẽ tiếp tục? Tuy nhiên, tôi sẽ tiếp tục ngay cả khi tôi có ý kiến...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa007",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa007|",
+      "ja": "勝手にしろよ……。",
+      "zh": "随便你……",
+      "vi": "Dù mày muốn gì...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Warden004",
+      "speaker_tag": "; > Warden: |#CommonBad05_Warden004|",
+      "ja": "では皆さん、処刑執行のボタンを押してください。",
+      "zh": "那么各位，请按下处刑执行的按钮吧。",
+      "vi": "Vì vậy mọi người hãy nhấn nút thực hiện nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Warden005",
+      "speaker_tag": "; > Warden: |#CommonBad05_Warden005|",
+      "ja": "はい！ ではこれより、<br>魔女の処刑を執行します～。",
+      "zh": "好了！那么，<br>\n现在开始执行对魔女的刑罚～",
+      "vi": "Được rồi! Sau đó, Bây giờ việc thi hành hình phạt phù thủy bắt đầu~",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative008",
+      "speaker_tag": "",
+      "ja": "仕掛けが作動し、装置が姿を現す。",
+      "zh": "机关开始启动，装置显出了身形。",
+      "vi": "Cơ chế bắt đầu kích hoạt và thiết bị đã thành hình.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema001",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema001|",
+      "ja": "椅子……？ あれって……。",
+      "zh": "椅子……？那是……",
+      "vi": "Ghế...? Đó là...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Margo001",
+      "speaker_tag": "; > Margo: |#CommonBad05_Margo001|",
+      "ja": "電気椅子、かしら。",
+      "zh": "电椅，吧。",
+      "vi": "Ghế Điện phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative009",
+      "speaker_tag": "",
+      "ja": "高電圧で囚人を感電死させるための<br>処刑執行装置――",
+      "zh": "那是放出高电压，令囚犯触电致死的<br>\n处刑执行装置——",
+      "vi": "Đó là thiết bị phóng điện cao áp và khiến tù nhân bị điện giật đến chết Thiết bị thực thi lệnh——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa008",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa008|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema002",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema002|",
+      "ja": "アリサちゃん……。",
+      "zh": "亚里沙……",
+      "vi": "Alisa……",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative010",
+      "speaker_tag": "",
+      "ja": "装置を目にして身を震わせるアリサに、<br>エマが声をかける。",
+      "zh": "亚里沙看见电椅，不禁颤抖了起来。<br>\n这时艾玛向她搭话了。",
+      "vi": "Alisa run rẩy khi nhìn thấy chiếc Ghế Điện. Sau đó Ema nói chuyện với cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa009",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa009|",
+      "ja": "うるせえな……もうウチに構うなよ。<br>どうせお前も、ウチに投票したんだろ。",
+      "zh": "你好烦……不要再管我了。<br>\n反正你也投票给我了吧。",
+      "vi": "Cậu phiền phức quá...đừng lo cho Tao nữa. Dù sao thì mày cũng đã bỏ phiếu cho Tao.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema003",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema003|",
+      "ja": "ボ、ボクは……！",
+      "zh": "我、我……！",
+      "vi": "Tôi, tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative011",
+      "speaker_tag": "",
+      "ja": "返ってきた拒絶に、エマはたじろぐ。",
+      "zh": "接收到拒绝的回应后，艾玛不禁退缩了。",
+      "vi": "Ema nao núng sau khi nhận được lời từ chối.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa010",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa010|",
+      "ja": "……もういいって。ウチだけじゃない。<br>どうせおめえら全員、助からねえんだよ。",
+      "zh": "……算了吧。反正不止是我，<br>\n你们所有人都没救了。",
+      "vi": "...Quên nó đi. Dù sao thì không chỉ có Tao, Tất cả các mày đều vô vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative012",
+      "speaker_tag": "",
+      "ja": "投げやりな口調で、<br>アリサは自ら装置の方へと歩いていく。",
+      "zh": "亚里沙自暴自弃地说道，<br>\n接着自行走到装置面前。",
+      "vi": "Alisa nói với vẻ tự ti, Sau đó tự mình đi bộ đến thiết bị.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative013",
+      "speaker_tag": "",
+      "ja": "どこか禍々しい雰囲気が漂う椅子に、<br>アリサが腰を下ろす。",
+      "zh": "椅子似乎正散发着某种邪气。<br>\n而亚里沙在椅子上坐了下来。",
+      "vi": "Chiếc ghế dường như đang tỏa ra một luồng khí tà ác nào đó. Và Alisa ngồi xuống ghế.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative014",
+      "speaker_tag": "",
+      "ja": "看守がアリサの体を椅子に拘束した。",
+      "zh": "看守将亚里沙的身体绑在了电椅上。",
+      "vi": "Cai Ngục trói xác Alisa vào Ghế Điện.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa011",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa011|",
+      "ja": "はは……一足先におさらばできて、<br>むしろいいのかもな……。",
+      "zh": "哈哈……能先走一步，<br>\n说不定还更好……",
+      "vi": "Haha... Tao có thể thực hiện bước đầu tiên, Có lẽ còn tốt hơn...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative015",
+      "speaker_tag": "",
+      "ja": "震える声で、アリサは言葉を紡ぐ。",
+      "zh": "亚里沙用颤抖的声音编织着话语。",
+      "vi": "Alisa lẩm bẩm bằng giọng run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa012",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa012|",
+      "ja": "ウチも、おめえらも、どうせこのまま全員、<br>魔女になって果てるだけ……。",
+      "zh": "不管是我，还是你们，反正所有人，<br>\n接下来只会变成魔女，纯粹等死……",
+      "vi": "Dù là Tao hay mày, tất cả mọi người, Tiếp theo, mày sẽ trở thành phù thủy và chỉ chờ chết...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa013",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa013|",
+      "ja": "ここに集められた時点で、あがいても無駄なんだよ。<br>だったら……さっさと抜けた方が楽だろ。",
+      "zh": "从被抓来这个地方的那一刻起，就算反抗也没用。<br>\n既然这样……那还是走了会更轻松。",
+      "vi": "Từ lúc bị đưa tới nơi này, có phản kháng cũng vô dụng. Trong trường hợp này... rời đi sẽ dễ dàng hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Alisa014",
+      "speaker_tag": "; > Alisa: |#CommonBad05_Alisa014|",
+      "ja": "探偵ごっこに裁判ごっこ……全部くだらねえ。<br>続けたいやつは、続ければいいさ。",
+      "zh": "什么侦探游戏审判游戏……全都无聊死了。<br>\n谁想继续的，随便她继续。",
+      "vi": "Game trinh thám, game thử nghiệm... đều chán chết. Ai muốn tiếp tục có thể tiếp tục tùy ý.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Coco005",
+      "speaker_tag": "; > Coco: |#CommonBad05_Coco005|",
+      "ja": "な、何ごちゃごちゃ言ってんだし！<br>悟った顔して、きっしょく悪いな！<br>ちょっとさあ、早く処刑しちまってよ！！",
+      "zh": "叽、叽里咕噜的说什么呢！<br>\n摆一副大彻大悟的嘴脸，真是恶心到爆！<br>\n喂我说，能不能赶紧送她归西啊！！",
+      "vi": "Bạn đang nói về cái gì vậy? Thật là ghê tởm khi khoác lên mình biểu hiện của sự giác ngộ vĩ đại! Này, để Coco nói cho bạn biết, bạn có thể gửi cô ấy về miền Tây nhanh được không? !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Warden006",
+      "speaker_tag": "; > Warden: |#CommonBad05_Warden006|",
+      "ja": "はいはい、言われなくても……<br>では、お願いします～。",
+      "zh": "好啦好啦，不用你说……<br>\n那么，拜托你了～",
+      "vi": "Được rồi, được rồi, bạn không cần phải nói... Vậy thì làm ơn đi~",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative016",
+      "speaker_tag": "",
+      "ja": "ゴクチョーの合図と共に、看守が位置につく。<br>装置を起動するためであろうレバーに手をかけた。",
+      "zh": "随着典狱长一声令下，看守也已就位。<br>\n它将手放在似乎是用去启动装置的拉杆上。",
+      "vi": "Theo lệnh của quản giáo, Cai Ngục đã có mặt. Nó đặt tay lên thứ có vẻ là đòn bẩy dùng để kích hoạt thiết bị.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative017",
+      "speaker_tag": "",
+      "ja": "諦観しきった様子のアリサだったが、<br>迫りくる死への恐怖は抑えられないらしい。",
+      "zh": "尽管亚里沙摆出一副认命的样子，<br>\n但面对即将来临的死亡，还是压抑不住内心的恐惧。",
+      "vi": "Mặc dù Alisa giả vờ chấp nhận số phận của mình, Nhưng đối mặt với cái chết sắp xảy ra, anh vẫn không thể kìm nén được nỗi sợ hãi trong lòng.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative018",
+      "speaker_tag": "",
+      "ja": "体を震わせながら、<br>引き<ruby=\"つ\">攣</ruby>るような呼吸を漏らしている。",
+      "zh": "她颤抖着身体，<br>\n发出抽搐般的呼吸声。",
+      "vi": "Cô ấy run rẩy, Anh ta phát ra một âm thanh thở co giật.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative019",
+      "speaker_tag": "",
+      "ja": "ゴクチョーが看守に翼を広げる。<br>すると、看守がゆっくりとレバーを下げた。",
+      "zh": "典狱长对着看守张了张翅膀。<br>\n紧接着，看守缓慢拉下了拉杆。",
+      "vi": "Người cai ngục dang rộng đôi cánh của mình về phía Cai Ngục. Sau đó, Cai Ngục từ từ kéo cần gạt.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative020",
+      "speaker_tag": "",
+      "ja": "装置が作動して、電気が流れる。<br>椅子に拘束されたアリサの全身がガクガクと震えた。",
+      "zh": "装置启动，电流导通。<br>\n被绑在椅子上的亚里沙全身颤抖起来。",
+      "vi": "Thiết bị khởi động và dòng điện được dẫn. Alisa, người bị trói vào ghế, toàn thân run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Sherry001",
+      "speaker_tag": "; > Sherry: |#CommonBad05_Sherry001|",
+      "ja": "えげつないですね。<br>そのまま電気を流すなんて……。",
+      "zh": "真狠啊，<br>\n竟然直接通电……",
+      "vi": "Thật tàn nhẫn, Nó được bật trực tiếp...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema004",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema004|",
+      "ja": "え、どういうこと？",
+      "zh": "欸，什么意思？",
+      "vi": "Này, ý bạn là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Sherry002",
+      "speaker_tag": "; > Sherry: |#CommonBad05_Sherry002|",
+      "ja": "本で読んだんですけど……電気椅子での処刑って、<br>囚人の体を水で<ruby=\"ぬ\">濡</ruby>らすんだそうです。",
+      "zh": "虽然是书上看来的……电椅处刑一般是<br>\n要往囚犯身上泼水的。",
+      "vi": "Mặc dù có vẻ như trong sách...Việc hành quyết bằng Ghế Điện thường là Đổ nước lên người tù nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Sherry003",
+      "speaker_tag": "; > Sherry: |#CommonBad05_Sherry003|",
+      "ja": "水は電気を通しやすいですから、<br>そのほうが楽に感電死させられるとかで。",
+      "zh": "因为泼水会比较容易导电，<br>\n能更容易把人电死。",
+      "vi": "Vì nước bắn tung tóe sẽ giúp dẫn điện dễ dàng hơn, Có thể điện giật người ta dễ dàng hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative021",
+      "speaker_tag": "",
+      "ja": "つまり、その手順を踏んでいないアリサは――",
+      "zh": "也就是说，没经过这道步骤的亚里沙她——",
+      "vi": "Nói cách khác, Alisa chưa trải qua bước này——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative022",
+      "speaker_tag": "",
+      "ja": "苦しげにもがくアリサの体から、<br>煙と青白い火花が上がる。",
+      "zh": "从痛苦挣扎着的亚里沙的身体上<br>\n冒出了烟和蓝白色的火花。",
+      "vi": "Từ cơ thể Alisa đang vùng vẫy trong đau đớn Có khói và tia lửa trắng xanh.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative023",
+      "speaker_tag": "",
+      "ja": "やがて全身が炎に包まれ、<br>紫藤アリサは異形と化した――",
+      "zh": "不久后紫藤亚里沙全身被火焰吞噬，<br>\n化作了异形——",
+      "vi": "Ngay sau đó, toàn thân Alisa Wisteria chìm trong biển lửa, Chuyển thành dạng người ngoài hành tinh——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative024",
+      "speaker_tag": "",
+      "ja": "アリサの処刑が執行された後。<br>エマはひとり、監房で膝を抱えて泣いていた。",
+      "zh": "亚里沙的处刑执行完毕后，<br>\n艾玛独自一人在牢房内抱膝抽泣。",
+      "vi": "Sau khi cuộc hành quyết Alisa hoàn tất, Một mình trong phòng giam, Ema ôm đầu gối khóc nức nở.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema005",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema005|",
+      "ja": "うううう……ハンナちゃん……。",
+      "zh": "呜呜呜呜……汉娜……",
+      "vi": "Ô ô ô ô... Hanna...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema006",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema006|",
+      "ja": "（また、殺人事件が起こるのかな……）",
+      "zh": "（凶杀案还会发生的吧……）",
+      "vi": "(Những vụ giết người sẽ lại xảy ra...)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema007",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema007|",
+      "ja": "（そのたびに誰かが殺されて……<br>　誰かが魔女として処刑されて……）",
+      "zh": "（到时候又会有人被杀……<br>\n又会有人被当作魔女处刑……）",
+      "vi": "(Rồi sẽ có người bị giết lần nữa... Ai đó sẽ lại bị xử tử như một phù thủy...)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema008",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema008|",
+      "ja": "アリサちゃんの言う通りなのかも……<br>ボクたちは、もう……。",
+      "zh": "也许亚里沙说得没错……<br>\n我们，已经……",
+      "vi": "Có lẽ Alisa nói đúng... Chúng tôi có...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema009",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema009|",
+      "ja": "……？",
+      "zh": "……？",
+      "vi": "……？",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative025",
+      "speaker_tag": "",
+      "ja": "ふと、異臭がするような気がしてエマは鼻を鳴らした。",
+      "zh": "忽然，艾玛感觉到一股异味，不禁吸了吸鼻子。",
+      "vi": "Đột nhiên, Ema cảm thấy một mùi lạ và không khỏi ngửi ngửi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema010",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema010|",
+      "ja": "なんだろ……焦げ臭いような……？<br>それに、なんだか暑い気もする……。",
+      "zh": "怎么回事……好像有股焦臭味……？<br>\n而且，感觉还有点闷热……",
+      "vi": "Chuyện gì đang xảy ra vậy... hình như có mùi cháy khét...? Hơn nữa còn có chút ngột ngạt...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema011",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema011|",
+      "ja": "うーん……何か燃えてたりはしてない、よね？<br>……もしかして、さっきの匂いがまだ……。",
+      "zh": "唔……应该不是有东西着火，吧？<br>\n……难道，刚刚的味道还没散……",
+      "vi": "Hmm...không nên có thứ gì đó bốc cháy, phải không? …Chẳng lẽ cái mùi vừa rồi vẫn chưa tan đi sao…",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative026",
+      "speaker_tag": "",
+      "ja": "アリサの体が焦げる匂いを思い出して、<br>エマは顔を青くする。",
+      "zh": "艾玛想起亚里沙的身体烧焦的味道，<br>\n瞬时脸色煞白。",
+      "vi": "Ema nghĩ đến mùi cơ thể đang cháy của Alisa, Sắc mặt của hắn lập tức tái nhợt.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema012",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema012|",
+      "ja": "なんの音だろ……？",
+      "zh": "这是什么声音……？",
+      "vi": "Âm thanh này là gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative027",
+      "speaker_tag": "",
+      "ja": "不意に響いてきた音の正体を確かめようと、<br>エマは格子から通路の様子をうかがって――",
+      "zh": "艾玛想要确认这道突如其来的声音的来源，<br>\n便从铁栅栏内往过道方向探望——",
+      "vi": "Ema muốn xác nhận nguồn gốc của âm thanh đột ngột này, Sau đó anh nhìn qua hàng rào sắt về phía lối đi——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative028",
+      "speaker_tag": "",
+      "ja": "何者かによって致命傷を負わされたエマが、<br>床に倒れ伏す。",
+      "zh": "被某人袭击的艾玛受了致命伤，<br>\n趴倒在地上。",
+      "vi": "Ema bị thương nặng sau khi bị ai đó tấn công, Quỳ xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative029",
+      "speaker_tag": "",
+      "ja": "格子の向こうに見えた人影に、エマは目を見開いた。",
+      "zh": "看见铁栅栏对面的人影，艾玛瞪大了双眼。",
+      "vi": "Đôi mắt Ema mở to khi cô nhìn thấy bóng người ở phía bên kia hàng rào sắt.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema013",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema013|",
+      "ja": "（そんな……どうして……？）",
+      "zh": "（怎么会，为什么……？）",
+      "vi": "(Làm thế nào, tại sao...?)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Ema014",
+      "speaker_tag": "; > Ema: |#CommonBad05_Ema014|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative030",
+      "speaker_tag": "",
+      "ja": "問いかけようとした言葉は声にならず――<br>エマは息絶えた。",
+      "zh": "疑问未能成声——<br>\n艾玛便断了气。",
+      "vi": "Không thể trả lời câu hỏi—— Ema đã chết.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative031",
+      "speaker_tag": "",
+      "ja": "エマの命が奪われた。<br>次の犠牲者となった彼女を殺した犯人は誰なのか。",
+      "zh": "艾玛被人杀死了。<br>\n她成了下一位牺牲者，而杀死她的又会是谁。",
+      "vi": "Ema đã bị giết. Cô trở thành nạn nhân tiếp theo và ai sẽ giết cô.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative032",
+      "speaker_tag": "",
+      "ja": "新たな殺人者か。<br>あるいは、ハンナを殺した真犯人は他にいたのか――",
+      "zh": "是出现了新的凶手？<br>\n还是杀死汉娜的真凶另有其人——",
+      "vi": "Có kẻ giết người mới? Hay có ai khác đã giết Hanna?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative033",
+      "speaker_tag": "",
+      "ja": "また、魔女裁判が開かれる。",
+      "zh": "魔女审判又将再次开庭。",
+      "vi": "Phiên tòa xét xử phù thủy sẽ lại bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad05_Narrative034",
+      "speaker_tag": "",
+      "ja": "真実が明らかになる保証はどこにもない――",
+      "zh": "而真相是否能水落石出，谁也无法保证——",
+      "vi": "Và không ai có thể đảm bảo liệu sự thật có được đưa ra ánh sáng hay không——",
+      "objection_links": []
+    }
+  ]
+}

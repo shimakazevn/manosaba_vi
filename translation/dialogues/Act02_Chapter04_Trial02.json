@@ -1,0 +1,610 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Trial02",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Trial02' Naninovel scenario script",
+  "total_entries": 75,
+  "entries": [
+    {
+      "id": "0204Trial02_Miria001",
+      "speaker_tag": "; > @printDebate pos:73,50 roll:4 |#0204Trial02_Miria001|",
+      "ja": "ヒロちゃんが<br>死体を発見したとき、<br>エレベーターは<br>１人しか<br>乗れなかったんだ。",
+      "zh": "小希<br>\n发现尸体的时候，<br>\n电梯只能<br>\n乘坐一个人。<br>",
+      "vi": "Tiểu Hi Khi thi thể được tìm thấy, Thang máy chỉ có thể Đi xe một mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial02_Miria002|",
+      "ja": "じゃないと、<br>ヒロちゃんが<br>エマちゃんを<br>一度エレベーターから<br>下ろす必要なんて<br>なかったしね。",
+      "zh": "如果不是这样的话，<br>\n小希根本<br>\n不需要<br>\n把小艾<br>\n从电梯里<br>\n放下来了。",
+      "vi": "Nếu không phải như vậy, Tiểu Hi đơn giản không bắt buộc Đặt Tiểu Ái Từ thang máy Đặt nó xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial02_Miria003|",
+      "ja": "つまり犯人が<br>エレベーターに<br>乗る余裕なんて、<br>なかったんだよ。<br>……重量的にね。",
+      "zh": "也就是说，<br>\n电梯根本<br>\n不可能容纳<br>\n凶手乘坐了。<br>\n……从重量上来说。",
+      "vi": "Tức là Về cơ bản thì thang máy là Không thể đáp ứng Kẻ giết người đã đi xe. ...về trọng lượng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial02_Sherry001|",
+      "ja": "犯人はおろか、<br>誰１人としてエレベーターに<br><link=\"Objection_02_04_02_01\">潜むことは</link><br><br>できなかった<br>ということですね！",
+      "zh": "不只是凶手，<br>\n也就是说<br>\n任何人都<br>\n不可能<link=\"Objection_02_04_02_01\">藏在</link><br>\n电梯里了！<br>",
+      "vi": "Không chỉ là kẻ giết người, Tức là Bất cứ ai Không thể nào <link=\"Objection_02_04_02_01\"> bị ẩn trong </link>_TAG_5__ Nó ở trong thang máy!",
+      "objection_links": [
+        "Objection_02_04_02_01"
+      ]
+    },
+    {
+      "id": "0204Trial02_Sherry002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial02_Sherry002|",
+      "ja": "そしてミリアさんと<br>ハンナさんと<br>私の３人はあのとき、<br>上の階で<br>ヒロさんが来るのを<br>待っていました。",
+      "zh": "而且米莉亚<br>\n和汉娜<br>\n还有我，<br>\n我们三个人当时<br>\n都在上层<br>\n等着希罗。",
+      "vi": "Và Miria và Hanna Và tôi, Ba chúng tôi đã Tất cả đều ở cấp trên Chờ đợi Anh hùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hanna001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial02_Hanna001|",
+      "ja": "そうですわ！<br>上の階からエマさんを<br>エレベーターに<br>乗せることなんて<br>到底無理ですわー！",
+      "zh": "就是呀！<br>\n根本没有可能<br>\n从上层把艾玛<br>\n搬到电梯里呀！<br>",
+      "vi": "Thế thôi! Không thể nào Đưa Ema từ trên xuống Di chuyển đến thang máy!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial02_Sherry003|",
+      "ja": "ミリアさんが降りてくる時も、<br>エレベーターの中に死体は<br>ありませんでしたしね！",
+      "zh": "而且米莉亚下来的时候，<br>\n电梯里也没有<br>\n尸体！",
+      "vi": "Và khi Miria đi xuống, Cũng không có trong thang máy Xác chết!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial02_Sherry004|",
+      "ja": "つまり、エマさんは<br>下の階から<br>エレベーターに<br>運びこまれたことになります。",
+      "zh": "也就是说艾玛<br>\n是在下层<br>\n被搬进<br>\n电梯的。",
+      "vi": "Nói cách khác, Ema Nó ở tầng dưới Đã chuyển vào Thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial02_Sherry005|",
+      "ja": "もし他に<br>犯人がいるとしたら……<br>ヒロさんが見ていないと<br>おかしいんですよ！",
+      "zh": "如果凶手<br>\n不是希罗的话……<br>\n希罗不可能<br>\n没看到凶手！",
+      "vi": "Nếu kẻ sát nhân Nếu không có Anh hùng… Anh hùng là không thể Tôi không nhìn thấy kẻ giết người!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro001|",
+      "ja": "（私１人だけが疑われている状況……。<br>　風向きは良くない）",
+      "zh": "（现在是只有我一个人被怀疑的局面……<br>\n这样下去不妙）",
+      "vi": "(Bây giờ tôi là người duy nhất bị nghi ngờ... Sẽ không tốt nếu điều này tiếp tục)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro002|",
+      "ja": "（けれど私はやっていない……。<br>　なら誰かが嘘をついているか……）",
+      "zh": "（但是我没有杀人……<br>\n那么，其中一定有人在说谎……）",
+      "vi": "(Nhưng tôi không giết ai cả... Vậy thì chắc chắn có ai đó trong số họ đang nói dối...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro003|",
+      "ja": "（もしくは、まだ知らない情報があるかだ）",
+      "zh": "（或者是，还有未知的信息）",
+      "vi": "(Hoặc vẫn còn thông tin chưa rõ)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro004|",
+      "ja": "（……ひとまず情報を集めるため、<br>　些細な<ruby=\"ごびゅう\">誤謬</ruby>であっても指摘してみるべきか）",
+      "zh": "（……眼下为了收集信息，<br>\n即使是细微的矛盾也应该试着指出来）",
+      "vi": "(...Để thu thập thông tin vào lúc này, Những mâu thuẫn nhỏ cũng cần được chỉ ra)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Choice001",
+      "speaker_tag": "; > @choice |#0204Trial02_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "潜むことはできた",
+      "zh": "可以藏在电梯里",
+      "vi": "Có thể giấu trong thang máy",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Choice002",
+      "speaker_tag": "; > @choice |#0204Trial02_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "私が犯人を見逃した",
+      "zh": "是我看漏了凶手",
+      "vi": "Tôi đã nhớ kẻ giết người",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Choice003",
+      "speaker_tag": "; > @choice |#0204Trial02_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "隠された階層があった",
+      "zh": "有隐藏的楼层",
+      "vi": "Có tầng ẩn",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro005|",
+      "ja": "ということは、<br>私が犯人を見逃したとしか考えられないな。",
+      "zh": "也就是说，<br>\n是我看漏了凶手。只能这么判断了。",
+      "vi": "Tức là Tôi đã nhớ kẻ giết người. Đó là cách duy nhất để phán xét.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria004",
+      "speaker_tag": "; > Miria: |#0204Trial02_Miria004|",
+      "ja": "ええっ……？<br>そ、そんなことありえる……！？",
+      "zh": "欸欸……？<br>\n这、这合理吗……！？",
+      "vi": "Ủa...? Điều này, điều này có hợp lý không...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro006|",
+      "ja": "地下にエレベーターがついた時、<br>私は考えごとをしていてね……。",
+      "zh": "电梯到达地下的时候，<br>\n我正在考虑事情……",
+      "vi": "Khi thang máy tới tầng hầm, Tôi đang nghĩ về những điều...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro007|",
+      "ja": "（……そう、私はあの時<br>　エマのことを考えていて――）",
+      "zh": "（……是的，那时我<br>\n满脑子都是艾玛的事——）",
+      "vi": "(…Vâng, vậy thì tôi Tất cả những gì tôi có thể nghĩ đến là Ema——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro008|",
+      "ja": "その隙をついた犯人が<br>エレベーターへエマの死体を運び込んだんだよ。",
+      "zh": "凶手趁我不备，<br>\n把艾玛的尸体搬进了电梯。",
+      "vi": "Kẻ sát nhân đã lợi dụng tôi, Di chuyển cơ thể của Ema vào thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Alisa001",
+      "speaker_tag": "; > Alisa: |#0204Trial02_Alisa001|",
+      "ja": "……いくらなんでも<br>死体を担いだ犯人を見逃すことなんてありえんのかよ。",
+      "zh": "……这也太离谱了，<br>\n怎么可能看漏扛着一具尸体的凶手。",
+      "vi": "...Điều này quá quá đáng, Làm sao mày ta có thể bỏ lỡ kẻ sát nhân đang mang xác?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hanna002",
+      "speaker_tag": "; > Hanna: |#0204Trial02_Hanna002|",
+      "ja": "そんなのありえませんわ～！",
+      "zh": "那种事不可能发生哇～！",
+      "vi": "Chuyện như vậy không thể xảy ra được!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry006",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry006|",
+      "ja": "その場合、ヒロさんの証言は全部怪しくなっちゃいますね！",
+      "zh": "如果真是这样的话，希罗的所有证词都不能采信了！",
+      "vi": "Nếu đúng như vậy, mọi lời khai của Anh hùng sẽ không được chấp nhận!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro009",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro009|",
+      "ja": "（……私の信用が落ちてしまったか）",
+      "zh": "（……反而让自己的发言更不可信了）",
+      "vi": "(…Ngược lại, nó càng khiến bài phát biểu của mình trở nên kém tin cậy hơn)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro010",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro010|",
+      "ja": "（エレベーターに乗れる人数は、２人……）",
+      "zh": "（电梯的载人上限是2人……）",
+      "vi": "(Thang máy chứa được tối đa 2 người...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro011",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro011|",
+      "ja": "（……死体が２人分乗っていれば<br>　それ以上は誰も乗れない。<br>　そう考えるのが普通だ）",
+      "zh": "（……假如已经承载了两具尸体，<br>\n就不能乘坐其他人了。<br>\n这么考虑是合理的）",
+      "vi": "(...Nếu hai thi thể được khiêng, Bạn không thể đi xe với người khác. Thật hợp lý khi xem xét điều này)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro012",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro012|",
+      "ja": "（だが、状況的におかしな点はある。<br>　可能性を示してみよう）",
+      "zh": "（但是，就现场的情况而言，还有可疑之处。<br>\n试着指出其他的可能性吧）",
+      "vi": "(Tuy nhiên, có điều gì đó đáng ngờ về tình hình tại hiện trường. Hãy thử chỉ ra những khả năng khác)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro013",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro013|",
+      "ja": "（……私があの時見たのはエマの死体のみだ。<br>　つまり真犯人は――）",
+      "zh": "（……那时我只看到了艾玛的尸体。<br>\n也就是说，真凶是——）",
+      "vi": "(…Lúc đó tôi chỉ nhìn thấy thi thể của Ema. Nói cách khác, kẻ sát nhân thực sự là——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro014",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro014|",
+      "ja": "いや、エレベーター内に潜む必要はないさ。",
+      "zh": "不，没必要藏在电梯里。",
+      "vi": "Không, không cần phải trốn trong thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro015",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro015|",
+      "ja": "地上と地下の途中に<br>隠された階層があればね。",
+      "zh": "只要在地面和地下之间<br>\n有隐藏的楼层就可以做到。",
+      "vi": "Miễn là nó ở giữa mặt đất và dưới lòng đất Có những tầng ẩn có thể làm được điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria005",
+      "speaker_tag": "; > Miria: |#0204Trial02_Miria005|",
+      "ja": "か、隠された階層……！？",
+      "zh": "隐、隐藏的楼层……！？",
+      "vi": "Tầng ẩn, tầng ẩn...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro016",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro016|",
+      "ja": "真犯人はその階層でエレベーターを止め、<br>エマの死体を積んだんだ。",
+      "zh": "真凶让电梯停在隐藏楼层，<br>\n再把艾玛的尸体搬进电梯里。",
+      "vi": "Kẻ sát nhân thực sự đã khiến thang máy dừng lại ở một tầng khuất, Sau đó chuyển xác Ema vào thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Alisa002",
+      "speaker_tag": "; > Alisa: |#0204Trial02_Alisa002|",
+      "ja": "いや……たしかにそんな階層があれば<br>やりたい放題だろーけどよ。",
+      "zh": "呃……如果真有这么个楼层的话，<br>\n确实是可以为所欲为……",
+      "vi": "Ờ...nếu thực sự có một tầng như vậy, Bạn thực sự có thể làm bất cứ điều gì mày muốn ...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hanna003",
+      "speaker_tag": "; > Hanna: |#0204Trial02_Hanna003|",
+      "ja": "そもそも、あのエレベーターには<br>階層指定ボタンすらなかったと思いますわ……？",
+      "zh": "但那个电梯根本<br>\n连指定楼层的按钮都没有哇……？",
+      "vi": "Nhưng thang máy đó là Thậm chí còn không có nút để xác định tầng...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry007",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry007|",
+      "ja": "謎の冷凍室へ至るエレベーターに、<br>存在するはずのない階層……<br>ちょっとワクワクするお話ですが――。",
+      "zh": "通往神秘冷冻室的电梯，<br>\n还有本不该存在的楼层……<br>\n虽然这个设定是让人有点兴奋啦——",
+      "vi": "Thang máy dẫn tới tủ đông bí ẩn, Cũng có những tầng lẽ ra không nên tồn tại... Mặc dù cài đặt này có hơi thú vị——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry008",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry008|",
+      "ja": "肝心の、隠された階層が未発見では説得力ゼロです！",
+      "zh": "不过核心的隐藏楼层却没人找到呢，所以毫无说服力！",
+      "vi": "Tuy nhiên, chưa ai tìm ra được tầng ẩn trong lõi nên chưa thuyết phục!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry009",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry009|",
+      "ja": "まずは見つけてから考えることにしましょう、ヒロさん！",
+      "zh": "先找到这个楼层再说吧，希罗！",
+      "vi": "Trước tiên hãy tìm tầng này đã, Hiro!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro017",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro017|",
+      "ja": "（エレベーターや間の階に<br>　何か仕掛けが存在した証拠は<br>　今のところないか……）",
+      "zh": "（目前还没有任何证据可以证明，<br>\n电梯本身或中间楼层里，<br>\n到底有没有什么机关……）",
+      "vi": "(Chưa có bằng chứng nào, Trong thang máy hoặc ở tầng trung gian, Có cơ chế gì không...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro018",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro018|",
+      "ja": "（エレベーターに乗れる人数は２人……）",
+      "zh": "（电梯的载人上限是2人……）",
+      "vi": "(Thang máy chứa được tối đa 2 người...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro019",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro019|",
+      "ja": "（……死体が２人分乗っていれば<br>　それ以上は誰も乗れない。<br>　そう考えるのが普通だ）",
+      "zh": "（……假如已经承载了两具尸体，<br>\n就不能乘坐其他人了。<br>\n这么考虑是合理的）",
+      "vi": "(...Nếu hai thi thể được khiêng, Bạn không thể đi xe với người khác. Thật hợp lý khi xem xét điều này)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro020",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro020|",
+      "ja": "（だが、状況的におかしな点はある。<br>　可能性を示してみよう）",
+      "zh": "（但是，就现场的情况而言，还有可疑之处。<br>\n试着指出其他的可能性吧）",
+      "vi": "(Tuy nhiên, có điều gì đó đáng ngờ về tình hình tại hiện trường. Hãy thử chỉ ra những khả năng khác)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro021",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro021|",
+      "ja": "（……私があの時見たのはエマの死体のみだ。<br>　つまり真犯人は――）",
+      "zh": "（……那时我只看到了艾玛的尸体。<br>\n也就是说，真凶是——）",
+      "vi": "(…Lúc đó tôi chỉ nhìn thấy thi thể của Ema. Nói cách khác, kẻ sát nhân thực sự là——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro022",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro022|",
+      "ja": "いいや？ 潜むことは可能だった。<br>いやむしろ――。",
+      "zh": "不，其实藏在电梯里是完全可以做到的。<br>\n不如说——",
+      "vi": "Không, thực ra việc trốn trong thang máy là hoàn toàn có thể. Đúng hơn—",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro023",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro023|",
+      "ja": "すでに潜んでいた、というべきかな。",
+      "zh": "早已藏在电梯里了。",
+      "vi": "Đã trốn trong thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry010",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry010|",
+      "ja": "あっ、もしかして……！",
+      "zh": "啊，难道……！",
+      "vi": "À, có lẽ nào...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro024",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro024|",
+      "ja": "そう、そこにはレイアがいた。",
+      "zh": "没错。蕾雅在那里。",
+      "vi": "Đúng vậy. Leia đang ở đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro025",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro025|",
+      "ja": "……死体として、だけどね。",
+      "zh": "……虽然，是以一具尸体的形式。",
+      "vi": "...Mặc dù, nó ở dạng một xác chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry011",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry011|",
+      "ja": "なるほど！<br>たしかにヒロさんの言っていることはごもっともです。",
+      "zh": "原来如此！<br>\n希罗说得确实有道理。",
+      "vi": "Thế thôi! Anh Hùng nói cũng có lý.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry012",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry012|",
+      "ja": "ヒロさんが入る前にエマさんは死んでいた……。",
+      "zh": "在希罗进入电梯之前，艾玛就已经死了……",
+      "vi": "Ema đã chết trước khi Hiro bước vào thang máy...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry013",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry013|",
+      "ja": "【よって犯人は同乗していたレイアさん】という推理ですね。",
+      "zh": "也就是说你的推理是，【凶手是和艾玛同乘电梯的蕾雅】。",
+      "vi": "Nói cách khác, lý do của bạn là, [Kẻ sát nhân là Leya, người đang đi trong thang máy với Ema].",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro026",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro026|",
+      "ja": "（……私が殺していない以上、<br>　状況としてはレイアが犯人と考えるのが自然だ）",
+      "zh": "（……既然我没有杀人，<br>\n那么从现状来看，认为蕾雅是凶手很合理）",
+      "vi": "(…Vì tôi không giết ai cả, Vì vậy, xét theo tình hình hiện tại, việc cho rằng Leia là kẻ sát nhân là có lý)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro027",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro027|",
+      "ja": "（しかし……だとしても不自然な点が存在する……）",
+      "zh": "（但是……即使如此，仍然存在不自然的地方……）",
+      "vi": "(Nhưng...dù vậy, vẫn có điều gì đó không tự nhiên...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro028",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro028|",
+      "ja": "（それについて指摘すべきか、<br>　それとも――）",
+      "zh": "（我是该指出这个疑点，<br>\n还是——）",
+      "vi": "(Tôi nên chỉ ra nghi ngờ này, Vẫn——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria006",
+      "speaker_tag": "; > Miria: |#0204Trial02_Miria006|",
+      "ja": "……もう、いいんじゃないかな。",
+      "zh": "……别再说了，就到此为止吧。",
+      "vi": "...Đừng nói nữa, hãy dừng lại ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria007",
+      "speaker_tag": "; > Miria: |#0204Trial02_Miria007|",
+      "ja": "レイアちゃんが犯人……でさ。",
+      "zh": "凶手就是小蕾……这样就好了。",
+      "vi": "Kẻ sát nhân là Tiểu Lôi... Không sao đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry014",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry014|",
+      "ja": "ええ！？<br>どうしてですか？",
+      "zh": "欸！？<br>\n为什么这么说？",
+      "vi": "Hừ! ? Tại sao bạn nói vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria008",
+      "speaker_tag": "; > Miria: |#0204Trial02_Miria008|",
+      "ja": "だって……この中に仲間を２人も殺した人がいるなんて、<br>信じられないよ……。",
+      "zh": "因为……大叔我实在不愿意相信……<br>\n在我们之中，竟然有人杀了两名同伴……",
+      "vi": "Bởi vì...Chú ơi, cháu thực sự không muốn tin điều đó... Trong số chúng Miria, có người thực sự đã giết chết hai người bạn đồng hành...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria009",
+      "speaker_tag": "; > Miria: |#0204Trial02_Miria009|",
+      "ja": "それに……さ。",
+      "zh": "再说……",
+      "vi": "Bên cạnh đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria010",
+      "speaker_tag": "; > Miria: |#0204Trial02_Miria010|",
+      "ja": "そうすれば……これ以上誰か処刑されなくて済むよね……？",
+      "zh": "这样一来……就不会再有人被处刑了，对不对……？",
+      "vi": "Bằng cách này...sẽ không còn ai bị xử tử nữa phải không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria011",
+      "speaker_tag": "; > Miria: |#0204Trial02_Miria011|",
+      "ja": "だって、犯人なんていないんだからさ……。",
+      "zh": "毕竟，根本就没有什么凶手啊……",
+      "vi": "Rốt cuộc, không có kẻ giết người nào cả...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria012",
+      "speaker_tag": "; > Miria: |#0204Trial02_Miria012|",
+      "ja": "これ以上誰かが死ぬなんて……間違ってるよ……。",
+      "zh": "我不想再看到任何人死去了……这种事根本就是错误的……",
+      "vi": "Miria không muốn thấy bất cứ ai chết một lần nữa... điều này thật sai trái...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro029",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro029|",
+      "ja": "（……ミリアの言いたいこともわかる）",
+      "zh": "（……我能理解米莉亚的想法）",
+      "vi": "(…Mình có thể hiểu được suy nghĩ của Miria)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro030",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro030|",
+      "ja": "（レイアが犯人だとすれば、死人に口なし……。<br>　私が処刑されなくて済むかもしれない）",
+      "zh": "（如果把蕾雅当作凶手，那就死无对证……<br>\n或许我也能避免被处刑）",
+      "vi": "(Nếu Liya bị coi là kẻ giết người thì sẽ không có bằng chứng nào cả... Có lẽ tôi có thể tránh bị xử tử)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro031",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro031|",
+      "ja": "（……だが）",
+      "zh": "（……但是）",
+      "vi": "(…nhưng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro032",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro032|",
+      "ja": "（もしもべつに真犯人がいた場合、<br>　それを取り逃がすことになる）",
+      "zh": "（如果真正的凶手另有其人，<br>\n那就意味着真凶将逍遥法外）",
+      "vi": "(Nếu kẻ sát nhân thực sự là người khác, Điều đó có nghĩa là thủ phạm thực sự sẽ lớn)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro033",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro033|",
+      "ja": "（レイアは殺人犯の汚名を着せられて……）",
+      "zh": "（蕾雅则会被扣上杀人犯的污名……）",
+      "vi": "(Leya sẽ bị kỳ thị là kẻ sát nhân...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro034",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro034|",
+      "ja": "（それに２人を殺した犯人……<br>　【魔女化】している可能性は高い）",
+      "zh": "（而杀害两人的凶手……<br>\n很可能已经【魔女化】了）",
+      "vi": "(Và kẻ sát hại hai người... Có lẽ đã [biến thành phù thủy])",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Hiro035",
+      "speaker_tag": "; > Hiro: |#0204Trial02_Hiro035|",
+      "ja": "（その可能性を検討せず……<br>　本当にいいのか？）",
+      "zh": "（对这个可能性视而不见……<br>\n真的好吗？）",
+      "vi": "(Hãy nhắm mắt làm ngơ trước khả năng này... Nó có thực sự tốt không? )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry015",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry015|",
+      "ja": "うーん……そうですねー。",
+      "zh": "唔……我想想……",
+      "vi": "Ừm... để tôi suy nghĩ đã...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry016",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry016|",
+      "ja": "では１度、【レイアさんが犯人】の説を<br>検証してみるのもありかもしれませんね。",
+      "zh": "也许可以先试着验证一下<br>\n【蕾雅是凶手】这个假设。",
+      "vi": "Có lẽ bạn có thể thử xác minh trước [Leya là kẻ sát nhân] Giả thuyết này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Sherry017",
+      "speaker_tag": "; > Sherry: |#0204Trial02_Sherry017|",
+      "ja": "……それに仮にレイアさんが犯人だった場合でも、<br>まだ解決されていない謎は残っています。",
+      "zh": "……但是，即使凶手真的是蕾雅，<br>\n仍然还有未解决的谜团。",
+      "vi": "...Nhưng ngay cả khi kẻ sát nhân thực sự là Leia, Vẫn còn những bí ẩn chưa được giải đáp.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria013",
+      "speaker_tag": "; > Miria: |#0204Trial02_Miria013|",
+      "ja": "それぐらい、きっとおじさんが説明してみせるよ。",
+      "zh": "这点小事就让大叔我来想办法解释清楚吧。",
+      "vi": "Để cháu nghĩ cách giải thích chuyện nhỏ này nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial02_Miria014",
+      "speaker_tag": "; > Miria: |#0204Trial02_Miria014|",
+      "ja": "殺人とか処刑とか……<br>これ以上誰か死ぬなんて、もういやなんだ！",
+      "zh": "杀人，还有处刑什么的……<br>\n我已经不想再眼睁睁看着任何人死去了！",
+      "vi": "Giết người, hành quyết, v.v... Miria không muốn nhìn bất cứ ai chết nữa!",
+      "objection_links": []
+    }
+  ]
+}

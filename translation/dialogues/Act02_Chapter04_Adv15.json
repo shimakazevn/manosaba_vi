@@ -1,0 +1,1120 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Adv15",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Adv15' Naninovel scenario script",
+  "total_entries": 139,
+  "entries": [
+    {
+      "id": "0204Adv15_Narrative001",
+      "speaker_tag": "",
+      "ja": "――監獄生活２周目、××日目。",
+      "zh": "——监牢生活第二轮，第××天。",
+      "vi": "---Vòng tù thứ hai, ngày ××.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative002",
+      "speaker_tag": "",
+      "ja": "――遠野ハンナが桜羽エマと蓮見レイアを殺害し、<br>魔女として処刑された。",
+      "zh": "——远野汉娜杀害了樱羽艾玛与莲见蕾雅，<br>\n作为魔女被处刑了。",
+      "vi": "---Tono Hanna đã giết Ema Sakuraba và Rea Hasumi, Cô bị xử tử như một phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative003",
+      "speaker_tag": "",
+      "ja": "――私の気持ちが完全に壊れず、<br>理性を失わずにいられたのは……。",
+      "zh": "——我之所以还没有完全崩溃，<br>\n还能保持理智不失，是因为……",
+      "vi": "---Lý do tại sao tôi vẫn chưa suy sụp hoàn toàn là Sở dĩ tôi vẫn giữ được tỉnh táo là vì...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative004",
+      "speaker_tag": "",
+      "ja": "――心のどこかで、<br>真実を見届けなければと思っていたからだ。",
+      "zh": "——内心某处觉得，<br>\n我必须见证真相。",
+      "vi": "--Tôi cảm thấy đâu đó trong trái tim mình, Tôi phải làm chứng cho sự thật.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative005",
+      "speaker_tag": "",
+      "ja": "――見届けた後、<br>やり直せばいいと思っていたからだ。",
+      "zh": "——只要见到真相，<br>\n再重新来过就好。",
+      "vi": "---Chỉ cần bạn nhìn ra sự thật, Chỉ cần bắt đầu lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative006",
+      "speaker_tag": "",
+      "ja": "――私の魔法を使えば、<br>今日の朝に戻って全てをやり直せる、と。",
+      "zh": "——只要用我的魔法，<br>\n就能回到今天早上，将一切重来。",
+      "vi": "---Chỉ cần sử dụng phép thuật của tôi, Bạn có thể quay lại sáng nay và làm lại từ đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative007",
+      "speaker_tag": "",
+      "ja": "万年筆を走らせていた音は、<br>ピタリと止まった。",
+      "zh": "钢笔书写的声音<br>\n戛然而止。",
+      "vi": "Tiếng bút viết Dừng lại đột ngột.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative008",
+      "speaker_tag": "",
+      "ja": "それ以上書くことができなかった。",
+      "zh": "我写不下去了。",
+      "vi": "Tôi không thể viết được nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro001|",
+      "ja": "（ハンナはレイアに、<br>　初めて会った時から憎しみを芽生えさせていた）",
+      "zh": "（汉娜从第一次见到蕾雅开始，<br>\n就已经产生了恨意）",
+      "vi": "(Từ lần đầu tiên Hanna gặp Leia, Sự căm ghét đã nảy sinh)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro002|",
+      "ja": "（今日の朝へ戻ったところで、<br>　その長く育んだ憎しみを断ち切ることは不可能だ）",
+      "zh": "（即使回到今天早上，<br>\n也无法斩断长久累积的憎恶）",
+      "vi": "(Ngay cả sáng nay, Nó không thể cắt đứt được sự hận thù tích lũy trong một thời gian dài)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro003|",
+      "ja": "（今日エマやレイアを助けることは可能だろう。<br>　しかしどうあがいてもレイアはいずれ殺される）",
+      "zh": "（也许今天能救下艾玛和蕾雅。<br>\n但无论怎么努力，蕾雅总有一天会被杀）",
+      "vi": "(Có lẽ hôm nay Ema và Leia có thể được cứu. Nhưng dù bạn có cố gắng thế nào đi chăng nữa, một ngày nào đó Leia sẽ bị giết)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro004|",
+      "ja": "（ならば私は……先にハンナを殺すのか？）",
+      "zh": "（那么我是不是该……先把汉娜杀了？）",
+      "vi": "(Vậy mình có nên…giết Hanna trước không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative009",
+      "speaker_tag": "",
+      "ja": "ハンナの処刑――正義の執行に、<br>胸がスッとするはずだった。",
+      "zh": "明明亲眼见证汉娜被处刑——也就是正义得以执行。<br>\n这应该让我感到释怀才对。",
+      "vi": "Mingming chứng kiến vụ hành quyết Hanna - tức là công lý đã được thực thi. Đây hẳn là một sự giải thoát đối với tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative010",
+      "speaker_tag": "",
+      "ja": "しかし見届けたそれは、<br>私の気持ちを晴れやかにするものではなかった。",
+      "zh": "但我的心情却没有因此明朗起来。<br>",
+      "vi": "Nhưng tâm trạng của tôi cũng không trở nên rõ ràng hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative011",
+      "speaker_tag": "",
+      "ja": "正しくない、とすら思った。",
+      "zh": "甚至觉得，这是错误的。",
+      "vi": "Tôi thậm chí còn nghĩ rằng điều này là sai.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro005|",
+      "ja": "（私は、私は――！）",
+      "zh": "（我……我——！）",
+      "vi": "(Tôi...tôi——!)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative012",
+      "speaker_tag": "",
+      "ja": "力をこめすぎて、<br>万年筆が折れてしまった。",
+      "zh": "我用力过猛，<br>\n竟折断了钢笔。",
+      "vi": "Tôi đã dùng quá nhiều lực, Thực sự đã làm gãy bút.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro006|",
+      "ja": "……くっ！ こんなもの……！",
+      "zh": "……可恶！这种东西……！",
+      "vi": "...Chết tiệt! Loại chuyện này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro007|",
+      "ja": "私が大切だと思っていたものは、<br>全て間違いだった！",
+      "zh": "我一直以为珍贵的事物……<br>\n原来全都是错的！",
+      "vi": "Những điều tôi luôn coi là quý giá... Hóa ra tất cả đã sai!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative013",
+      "speaker_tag": "",
+      "ja": "立っていられずその場に手と膝をつき、<br>床を拳で<ruby=\"なぐ\">殴</ruby>る。",
+      "zh": "我支撑不住身体，跪倒在地，<br>\n用拳头猛击地板。",
+      "vi": "Tôi không thể chống đỡ nổi và khuỵu xuống, Đập nắm đấm xuống sàn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro008|",
+      "ja": "私は、私は、私は――。",
+      "zh": "我是、我是、我是——！",
+      "vi": "Tôi là, tôi là, tôi là——!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki001",
+      "speaker_tag": "; > Yuki: |#0204Adv15_Yuki001|",
+      "ja": "――正しくない。",
+      "zh": "——错误的。",
+      "vi": "---Sai rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative014",
+      "speaker_tag": "",
+      "ja": "それは私が吐いた言葉ではなかった。<br>どこかからくすくす、<ruby=\"ちょうしょう\">嘲笑</ruby>と共に聞こえてきた。",
+      "zh": "不是我自己说出的话。<br>\n那声音不知从何处，伴随着阵阵轻声讥笑传来。",
+      "vi": "Không phải lời nói của riêng tôi. Giọng nói đó không biết từ đâu vang lên, kèm theo đó là những tiếng cười nhẹ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki002",
+      "speaker_tag": "; > Unknown: |#0204Adv15_Yuki002|",
+      "ja": "――あなたは正しくない。",
+      "zh": "——你是错误的。",
+      "vi": "- Anh sai rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki003",
+      "speaker_tag": "; > Unknown: |#0204Adv15_Yuki003|",
+      "ja": "――そんなこと、もうとっくにわかっていたでしょう？",
+      "zh": "——这点小事，其实你早就明白了吧？",
+      "vi": "——Thật ra chuyện nhỏ này cậu cũng đã hiểu rồi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro009",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro009|",
+      "ja": "ユキ……？ いるの、か……？",
+      "zh": "雪……？是你在、吗……？",
+      "vi": "Tuyết...? Bạn có ở đó không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative015",
+      "speaker_tag": "",
+      "ja": "聞き覚えのある<ruby=\"はかな\">儚</ruby>い声に、<br>私は<ruby=\"ぼうぜん\">呆然</ruby>と立ち上がる。",
+      "zh": "听见熟悉而虚幻的声音，<br>\n我茫然站起身。",
+      "vi": "Nghe thấy giọng nói quen thuộc nhưng huyền ảo, Tôi bối rối đứng dậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro010",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro010|",
+      "ja": "どこだ！？ どこにいる！？",
+      "zh": "在哪！？到底在哪里！？",
+      "vi": "Ở đâu! ? Nó đâu rồi? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative016",
+      "speaker_tag": "",
+      "ja": "室内を見回しても、<br>彼女の姿はどこにもなかった。",
+      "zh": "我环顾室内，<br>\n却看不到她的身影。",
+      "vi": "Tôi nhìn quanh phòng, Nhưng cô ấy không thể được nhìn thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki004",
+      "speaker_tag": "; > Unknown: |#0204Adv15_Yuki004|",
+      "ja": "ああ、あと、残念ながらあなたはやり直せませんよ。",
+      "zh": "对了，还有。很遗憾，你已经无法重来了哦。",
+      "vi": "Nhân tiện, còn nhiều nữa. Thật không may, bạn không thể quay lại lần nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki005",
+      "speaker_tag": "; > Unknown: |#0204Adv15_Yuki005|",
+      "ja": "何故ならあなたは、自殺が禁忌でしょう。",
+      "zh": "因为你的禁忌就是自杀吧。",
+      "vi": "Bởi vì điều cấm kỵ của bạn là tự sát.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki006",
+      "speaker_tag": "; > Unknown: |#0204Adv15_Yuki006|",
+      "ja": "自殺しようとすれば、今度こそ禁忌に踏み込んで<br>あなたは魔女になる。",
+      "zh": "一旦你试图自杀，这次一定会触犯禁忌，<br>\n变成魔女。",
+      "vi": "Một khi bạn có ý định tự sát, lần này bạn chắc chắn sẽ vi phạm điều cấm kỵ, Trở thành phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki007",
+      "speaker_tag": "; > Unknown: |#0204Adv15_Yuki007|",
+      "ja": "理性を失ってなれはてと化したあなたは、<br>死に戻った先で全員を殺すだけなんです。",
+      "zh": "丧失理性并化为残骸的你，<br>\n就算回到过去，也只会杀光所有人。",
+      "vi": "Bạn, người đã mất lý trí và biến thành một kẻ tàn phế, Cho dù có quay về quá khứ, bạn cũng sẽ giết chết tất cả mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki008",
+      "speaker_tag": "; > Unknown: |#0204Adv15_Yuki008|",
+      "ja": "そしてなれはてになったことで、<br>魔法を失い、二度と死に戻れなくなる。",
+      "zh": "而成为残骸，<br>\n就意味着失去魔法，再也无法使出死亡回溯。",
+      "vi": "Và trở thành một đống đổ nát, Nó có nghĩa là mất đi phép thuật và không còn khả năng hồi tưởng cái chết nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki009",
+      "speaker_tag": "; > Unknown: |#0204Adv15_Yuki009|",
+      "ja": "残念ですね。かわいそうですね。<br>本当にあなたは、かわいそうですね。",
+      "zh": "真遗憾呢。真可怜呢。<br>\n你真是，太可怜了。",
+      "vi": "Thật đáng tiếc. Thật đáng thương. Bạn thật đáng thương, thật đáng thương.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro011",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro011|",
+      "ja": "やめろ――！！",
+      "zh": "住口——！！",
+      "vi": "câm miệng--! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative017",
+      "speaker_tag": "",
+      "ja": "私の頭の中に響く<ruby=\"ささや\">囁</ruby>きは、<br>万年筆から聞こえてくる気がした。",
+      "zh": "脑海里回响的耳语声，<br>\n似乎是从钢笔里发出来的。",
+      "vi": "Lời thì thầm vang vọng trong tâm trí tôi, Nó dường như đến từ một cây bút.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro012",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro012|",
+      "ja": "やめろ、やめろ、もうやめてくれ！！",
+      "zh": "住口，住口，给我住口！！",
+      "vi": "Im đi, im đi, im đi! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative018",
+      "speaker_tag": "",
+      "ja": "だから私は何度も万年筆を<ruby=\"ふ\">踏</ruby>み<ruby=\"つぶ\">潰</ruby>し、<br>粉々にした。",
+      "zh": "于是我一次次踩碎钢笔，<br>\n直到它粉身碎骨。",
+      "vi": "Thế là tôi đập nát cây bút hết lần này đến lần khác, Cho đến khi nó vỡ vụn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki010",
+      "speaker_tag": "; > Yuki: |#0204Adv15_Yuki010|",
+      "ja": "ひどいことしないでください。",
+      "zh": "别这么过分嘛。",
+      "vi": "Đừng đi quá xa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative019",
+      "speaker_tag": "",
+      "ja": "万年筆を破壊しつくしても、<br>ユキの<ruby=\"ささや\">囁</ruby>きは聞こえ続けていた。",
+      "zh": "即使我将钢笔彻底摧毁，<br>\n雪的耳语声依旧没有停止。",
+      "vi": "Ngay cả khi tôi làm hỏng hoàn toàn chiếc bút, Tiếng thì thầm của Snow vẫn không ngừng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki011",
+      "speaker_tag": "; > Yuki: |#0204Adv15_Yuki011|",
+      "ja": "あなたの私に対する想いが詰まっていて、<br><ruby=\"よりしろ\">依代</ruby>に使いやすかったのに。",
+      "zh": "这只钢笔里面倾注了你对我的感情，<br>\n用来附身最合适不过了。",
+      "vi": "Cây bút này chứa đựng tình cảm của bạn dành cho tôi, Nó hoàn hảo để sở hữu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki012",
+      "speaker_tag": "; > Yuki: |#0204Adv15_Yuki012|",
+      "ja": "でも、依代を失っても……",
+      "zh": "但就算无处附身……",
+      "vi": "Nhưng ngay cả khi không có nơi nào để sở hữu...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki013",
+      "speaker_tag": "; > Yuki: |#0204Adv15_Yuki013|",
+      "ja": "【ヒ ロ】",
+      "zh": "【希 罗】",
+      "vi": "[Hiro]",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki014",
+      "speaker_tag": "; > Yuki: |#0204Adv15_Yuki014|",
+      "ja": "【私は、ずっと、あなたのそばにいられます】",
+      "zh": "【我会、一直、在你身边】",
+      "vi": "[Anh sẽ luôn ở bên cạnh em]",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro013",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro013|",
+      "ja": "ひ、あ、あ――！",
+      "zh": "噫、啊、啊——！",
+      "vi": "À, à, à——!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative020",
+      "speaker_tag": "",
+      "ja": "私は耳を<ruby=\"ふさ\">塞</ruby>ぐ。目を閉じる。うずくまる。",
+      "zh": "捂住双耳、紧闭双眼、蜷缩起来。",
+      "vi": "Bịt tai lại, nhắm mắt lại và cuộn tròn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative021",
+      "speaker_tag": "",
+      "ja": "それでも彼女の<ruby=\"ささや\">囁</ruby>きは私に<ruby=\"しんしょく\">浸食</ruby>し続ける。",
+      "zh": "即便如此，她的耳语依然不断侵蚀我。",
+      "vi": "Dù vậy, những lời thì thầm của cô ấy vẫn tiếp tục ăn mòn tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki015",
+      "speaker_tag": "; > Yuki: |#0204Adv15_Yuki015|",
+      "ja": "【この牢屋敷なら存在が保てるんです】",
+      "zh": "【只要还在这座监牢，我就能维持存在】",
+      "vi": "[Chỉ cần tôi còn ở trong Ngục Dinh Thự này, tôi có thể duy trì sự tồn tại của mình]",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki016",
+      "speaker_tag": "; > Yuki: |#0204Adv15_Yuki016|",
+      "ja": "【きっと、私の家族の私を想う気持ちが、<br>　<ruby=\"ざんし\">残滓</ruby>のようにあるからですね】",
+      "zh": "【一定是因为家人对我的思念之情<br>\n还残留于此吧】",
+      "vi": "【Chắc là vì gia đình tôi nhớ tôi biết bao Nó vẫn còn ở đây]",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki017",
+      "speaker_tag": "; > Yuki: |#0204Adv15_Yuki017|",
+      "ja": "【……ねぇヒロ。<br>　エマは殺されてしまいました】",
+      "zh": "【……喂，希罗。<br>\n艾玛被杀了】",
+      "vi": "[...Xin chào, Hiro. Ema đã bị giết]",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki018",
+      "speaker_tag": "; > Yuki: |#0204Adv15_Yuki018|",
+      "ja": "【とてもがっかりしています。<br>　またいちから代わりを探さないといけません】",
+      "zh": "【我真的很失望。<br>\n又得从头去找替代品了】",
+      "vi": "[Tôi thực sự thất vọng. Tôi phải tìm người thay thế lại từ đầu]",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Yuki019",
+      "speaker_tag": "; > Yuki: |#0204Adv15_Yuki019|",
+      "ja": "【あなたは協力してくれますよね。<br>　だって私たちは友だちですから】",
+      "zh": "【你会帮我的吧？<br>\n毕竟我们是朋友呀】",
+      "vi": "[Bạn sẽ giúp tôi chứ? Sau tất cả, chúng ta là bạn bè]",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro014",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro014|",
+      "ja": "友だち……？ ふざけるな！",
+      "zh": "朋友……？别开玩笑了！",
+      "vi": "Bạn bè...? Không đùa đâu!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro015",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro015|",
+      "ja": "ユキ――お前が全ての元凶だったんだ！",
+      "zh": "月代雪——你就是一切的元凶！",
+      "vi": "Tsukiyoyuki - bạn là thủ phạm của mọi thứ!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro016",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro016|",
+      "ja": "私はずっと、<br>大切な友人だと思っていたのに！",
+      "zh": "我竟然一直以来……<br>\n都把你当作重要的朋友！",
+      "vi": "Tôi đã... Mọi người đều coi bạn như một người bạn quan trọng!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro017",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro017|",
+      "ja": "私はずっと、正しくなかったんだ！！<br>間違え続けていたんだ！！",
+      "zh": "原来我一直都是错的！！<br>\n一错再错，错到现在！！",
+      "vi": "Hóa ra tôi đã sai từ lâu rồi! ! Sai lầm nối tiếp sai lầm, cho đến tận bây giờ! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative022",
+      "speaker_tag": "",
+      "ja": "エマとユキと私。",
+      "zh": "艾玛、小雪，还有我。",
+      "vi": "Ema, ​​Xiaoxue và tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative023",
+      "speaker_tag": "",
+      "ja": "３人で過ごした中学時代の記憶が、<br>私にとって何よりも大切だと思っていた宝物が、<br>全て音を立てて崩れていく。",
+      "zh": "我们三人共度的初中时代，<br>\n我曾视若珍宝的回忆，<br>\n全部轰然崩塌。",
+      "vi": "Những ngày cấp hai ba chúng tôi cùng nhau trải qua, Những kỷ niệm mà tôi từng trân trọng, Mọi thứ sụp đổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative024",
+      "speaker_tag": "",
+      "ja": "中学にあがってすぐ、<br>ひどいいじめを受けている少女がいた。",
+      "zh": "刚上初中没多久，<br>\n就有个女孩遭受了残酷霸凌。",
+      "vi": "Không lâu sau khi tôi vào cấp hai, Có một cô gái bị bắt nạt dã man.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative025",
+      "speaker_tag": "",
+      "ja": "少女の名前は月代ユキと言った。",
+      "zh": "她的名字叫月代雪。",
+      "vi": "Tên cô ấy là Yuki Tsukiyo.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative026",
+      "speaker_tag": "",
+      "ja": "私は放っておけず、<br>ユキを守るようになった。",
+      "zh": "我放不下她，<br>\n渐渐开始保护她。",
+      "vi": "Tôi không thể để cô ấy đi, Dần dần bắt đầu bảo vệ cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative027",
+      "speaker_tag": "",
+      "ja": "しかしユキは<ruby=\"たて\">盾</ruby>となる私を<ruby=\"うと\">疎</ruby>み、<br>冷たく避けた。",
+      "zh": "但小雪却厌恶着试图保护她的我，<br>\n甚至冷淡避开。",
+      "vi": "Nhưng Xiaoxue ghét tôi vì đã cố gắng bảo vệ cô ấy, Thậm chí tránh nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative028",
+      "speaker_tag": "",
+      "ja": "私はそれでも彼女の<ruby=\"たて\">盾</ruby>となり続けた。<br>それが正しい行動だと思ったからだ。",
+      "zh": "即便如此，我仍然坚持成为她的盾。<br>\n因为我认为，这才是正确的行动。",
+      "vi": "Dù vậy, tôi vẫn kiên trì làm lá chắn cho cô ấy. Vì tôi cho rằng đây là hành động đúng đắn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative029",
+      "speaker_tag": "",
+      "ja": "ある時、ユキとエマが<br>一緒に行動しているのを見かけた。",
+      "zh": "直到某天，我看到小雪和艾玛走在一起。<br>",
+      "vi": "Cho đến một ngày, tôi nhìn thấy Xiaoxue và Ema đang đi dạo cùng nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative030",
+      "speaker_tag": "",
+      "ja": "エマは中学で別のクラスになってから、<br>少し疎遠になっていた。",
+      "zh": "自从升上初中后，我和艾玛不再同班，<br>\n两人关系便稍显疏远。",
+      "vi": "Kể từ khi vào cấp hai, tôi và Ema không còn học cùng lớp nữa, Mối quan hệ giữa hai người dần trở nên xa cách.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative031",
+      "speaker_tag": "",
+      "ja": "ユキとエマが親しげに笑っているのを見かけて。",
+      "zh": "见到小雪与艾玛亲密地笑着。",
+      "vi": "Tôi thấy Xiaoxue và Ema mỉm cười thân mật.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative032",
+      "speaker_tag": "",
+      "ja": "――友だちができたのか。良かった。",
+      "zh": "——原来她交到朋友了。太好了。",
+      "vi": "---Hóa ra cô ấy đã kết bạn được. Rất tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative033",
+      "speaker_tag": "",
+      "ja": "そう思う反面、<br>心のどこかで抱いたことのない感情を抱いた。",
+      "zh": "同时，内心却涌上一股前所未有的相反感情。<br>",
+      "vi": "Cùng lúc đó, một cảm giác trái ngược chưa từng có dâng lên trong lòng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative034",
+      "speaker_tag": "",
+      "ja": "――どうして私ではダメだったんだ？",
+      "zh": "——为什么我就不行？",
+      "vi": "---Tại sao tôi không thể?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative035",
+      "speaker_tag": "",
+      "ja": "――どうしてよりによって、エマなんだ？",
+      "zh": "——为什么偏偏是艾玛？",
+      "vi": "---Tại sao lại là Ema?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative036",
+      "speaker_tag": "",
+      "ja": "２人の存在が私の心に深く刻まれ、<br>振り払うことができなくなった。",
+      "zh": "她们两人的身影深深烙印在我心里，<br>\n怎么也挥之不去。",
+      "vi": "Hai người họ đã in sâu vào trái tim tôi, Tôi không thể thoát khỏi nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative037",
+      "speaker_tag": "",
+      "ja": "エマは決して良い子なんかじゃない。<br>その気持ちは更に膨れ上がった。",
+      "zh": "我开始觉得艾玛根本不是个好孩子。<br>\n这份感情不断膨胀。",
+      "vi": "Tôi bắt đầu nghĩ rằng Ema không phải là một đứa trẻ ngoan chút nào. Cảm giác này cứ lớn dần.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative038",
+      "speaker_tag": "",
+      "ja": "そうして気にかけているうちに、<br>やがてエマの方が私の眼差しに気付いた。",
+      "zh": "在我不断留意她们的同时，<br>\n终于有一天，艾玛也察觉到了我的目光。",
+      "vi": "Trong khi tôi tiếp tục chú ý đến họ, Cuối cùng có một ngày, Ema cũng chú ý đến ánh mắt của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative039",
+      "speaker_tag": "",
+      "ja": "――ヒロちゃんも一緒に遊ぼうよ。",
+      "zh": "——希罗也一起玩嘛。",
+      "vi": "---Hiro cũng đang chơi cùng nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative040",
+      "speaker_tag": "",
+      "ja": "エマに差し伸べられた手を、<br>私は自然に取っていた。",
+      "zh": "我若无其事地<br>\n握住了艾玛伸向我的手。",
+      "vi": "Tôi như thể chưa có chuyện gì xảy ra Tôi nắm lấy bàn tay Ema đang vươn tới tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative041",
+      "speaker_tag": "",
+      "ja": "ユキが人目を嫌うので、<br>私たちは３人だけの秘密の場所で過ごす時間が<br>増えていった。",
+      "zh": "由于小雪讨厌他人的目光，<br>\n我们三人越来越经常<br>\n在避人耳目的秘密基地聚会。",
+      "vi": "Bởi vì Tiểu Tuyết ghét ánh mắt của người khác, Ba chúng tôi ngày càng thường xuyên Tập trung tại một căn cứ bí mật cách xa tầm mắt công chúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative042",
+      "speaker_tag": "",
+      "ja": "３人で過ごした、<br>じゃれ合った、<br>ゲームした、",
+      "zh": "三个人在一起，<br>\n互相嬉闹，<br>\n一起玩游戏，",
+      "vi": "Ba người cùng nhau, Chơi với nhau, Chơi game cùng nhau,",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative043",
+      "speaker_tag": "",
+      "ja": "おしゃべりした、<br>お菓子を食べた、<br>時にはケンカした、",
+      "zh": "聊天，<br>\n吃零食，<br>\n偶尔吵架，",
+      "vi": "Trò chuyện, Ăn đồ ăn nhẹ, thỉnh thoảng cãi nhau",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative044",
+      "speaker_tag": "",
+      "ja": "かけがえのない宝物のような時間。",
+      "zh": "都是无可替代的珍贵回忆。",
+      "vi": "Tất cả đều là những kỷ niệm quý giá và không thể thay thế được.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative045",
+      "speaker_tag": "",
+      "ja": "けれど――",
+      "zh": "……但是……",
+      "vi": "…Nhưng…",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative046",
+      "speaker_tag": "",
+      "ja": "私の短期留学が決まったことで、<br>３人の関係に変化が起こった。",
+      "zh": "后来，因为我要去短期留学，<br>\n三人之间的关系开始发生变化。",
+      "vi": "Sau này, vì tôi sắp đi du học một thời gian ngắn nên Mối quan hệ giữa ba người bắt đầu thay đổi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative047",
+      "speaker_tag": "",
+      "ja": "私はエマにユキのことを<ruby=\"たく\">託</ruby>した。<br>学校でのユキへのいじめは変わらず起こっていたから。",
+      "zh": "我将小雪托付给了艾玛。<br>\n因为小雪在学校被霸凌的情况还是没有改善。",
+      "vi": "Tôi giao Xiaoxue cho Ema. Bởi vì tình trạng bắt nạt ở trường của Xiaoxue vẫn chưa được cải thiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative048",
+      "speaker_tag": "",
+      "ja": "――ユキのことを頼んだ。",
+      "zh": "——就拜托你照顾小雪了。",
+      "vi": "--Tôi sẽ nhờ bạn chăm sóc Xiaoxue.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative049",
+      "speaker_tag": "",
+      "ja": "――うん、任せて！",
+      "zh": "——嗯，交给我吧！",
+      "vi": "--Ừ, cứ để đó cho tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative050",
+      "speaker_tag": "",
+      "ja": "うわべで笑顔を浮かべながら、<br>平気なフリをしながら、<br>私はずっと――エマに嫉妬していた。",
+      "zh": "即使平日里笑着装作若无其事的样子，<br>\n其实我心里一直嫉妒着艾玛。<br>",
+      "vi": "Ngay cả khi bạn mỉm cười và giả vờ thờ ơ, Thực sự, tôi luôn ghen tị với Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative051",
+      "speaker_tag": "",
+      "ja": "その小さな闇は――",
+      "zh": "心中这小小的黑暗——",
+      "vi": "Bóng tối nhỏ bé này trong trái tim tôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative052",
+      "speaker_tag": "",
+      "ja": "帰国し、ユキの自殺を知ったことで<br>爆発的に膨れあがった。",
+      "zh": "在我回国得知小雪自杀后，<br>\n爆发式地膨胀起来。",
+      "vi": "Sau khi tôi trở về Trung Quốc và biết tin Xiaoxue đã tự tử, Mở rộng một cách bùng nổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative053",
+      "speaker_tag": "",
+      "ja": "――大切な友だちが自殺をした。",
+      "zh": "——我非常重要的朋友自杀了。",
+      "vi": "---Người bạn rất quan trọng của tôi đã tự sát.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro018",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro018|",
+      "ja": "（しかしそれは、<br>　エマを追い詰めるための手段にすぎなかった）",
+      "zh": "（但那只不过是<br>\n她用来折磨艾玛的手段）",
+      "vi": "(Nhưng đó chỉ là Những phương tiện cô ấy dùng để tra tấn Ema)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative054",
+      "speaker_tag": "",
+      "ja": "友だちの名前は、月代ユキ。",
+      "zh": "她叫月代雪。",
+      "vi": "Tên cô ấy là Yuki Tsukiyo.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro019",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro019|",
+      "ja": "（彼女は大魔女だった）",
+      "zh": "（她其实是大魔女）",
+      "vi": "(Cô ấy thực sự là một phù thủy vĩ đại)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative055",
+      "speaker_tag": "",
+      "ja": "私が部屋に入った時、<br>まだその場には<ruby=\"くびつ\">首吊</ruby>り<ruby=\"わ\">輪</ruby>が残されていた。",
+      "zh": "当我推开房门时，<br>\n那根上吊绳还静静地悬挂在原地。",
+      "vi": "Khi tôi đẩy cửa vào, Sợi dây nâng vẫn lặng lẽ treo tại chỗ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative056",
+      "speaker_tag": "",
+      "ja": "私は用意された<ruby=\"くびつ\">首吊</ruby>り<ruby=\"わ\">輪</ruby>を<ruby=\"にら\">睨</ruby>みあげた。",
+      "zh": "我抬头怒视那根为她准备好的绞索。",
+      "vi": "Tôi ngước lên và nhìn chằm chằm vào chiếc thòng lọng đã sẵn sàng cho cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro020",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro020|",
+      "ja": "（今ならわかる。<br>　彼女はエマにトラウマを植え付けたかった）",
+      "zh": "（如今我明白了。<br>\n她是为了在艾玛心里留下心理创伤）",
+      "vi": "(Bây giờ tôi đã hiểu. Cô ấy làm vậy để lại vết thương tâm lý trong lòng Ema)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative057",
+      "speaker_tag": "",
+      "ja": "<ruby=\"りん\">凛</ruby>と姿勢よく、<br>首を<ruby=\"くく\">縊</ruby>るための輪の先を見据え――<br>あまりの<ruby=\"いまいま\">忌々</ruby>しさに<ruby=\"はが\">歯噛</ruby>みした。",
+      "zh": "我将背脊挺得笔直，<br>\n视线穿过那为了扼住她的咽喉而存在的圆环——<br>\n过于刺眼的憎恶，让我咬紧了牙关。",
+      "vi": "Tôi thẳng lưng, Nhìn qua chiếc nhẫn tồn tại để bóp cổ cô ấy—— Sự hận thù quá chói lóa khiến tôi nghiến răng nghiến lợi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative058",
+      "speaker_tag": "",
+      "ja": "許せなかった。<br>こんなものがユキの命を奪ったことが。",
+      "zh": "我无法原谅。<br>\n无法原谅小雪的生命，就这么被区区一根绳子夺走。",
+      "vi": "Tôi không thể tha thứ. Tôi không thể tha thứ cho việc mạng sống của Xiaoxue bị tước đi chỉ bằng một sợi dây.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro021",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro021|",
+      "ja": "（だからエマの心を傷つけるために<br>　わざといじめに遭い、<br>　わざと自殺した）",
+      "zh": "（她是为了对艾玛的心灵造成伤痛，<br>\n故意遭到霸凌，<br>\n故意自杀的）",
+      "vi": "(Cô ấy đang cố gây ra nỗi đau cho trái tim Ema, Bị bắt nạt có mục đích, cố ý tự tử)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative059",
+      "speaker_tag": "",
+      "ja": "私にとって許されない行為だった。<br>私にとって正しくない行為だった。",
+      "zh": "对我而言，这是不可饶恕的行为。<br>\n对我而言，这是不正确的行为。",
+      "vi": "Đối với tôi, đây là hành vi không thể tha thứ. Với tôi đây là hành vi không đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro022",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro022|",
+      "ja": "（まんまと騙された私は、<br>　一層エマを追い込んだ）",
+      "zh": "（我被她骗得团团转，<br>\n更进一步将艾玛逼入绝境）",
+      "vi": "(Tôi đã bị cô ấy lừa dối, Đẩy Ema vào sâu hơn trong tuyệt vọng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative060",
+      "speaker_tag": "",
+      "ja": "私は【正しさ】を何より好んでいた。",
+      "zh": "我最崇尚的就是【正确】。",
+      "vi": "Điều tôi ngưỡng mộ nhất là [sự đúng đắn].",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro023",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro023|",
+      "ja": "（ユキの目論見どおり、<br>　私は踊った。踊り狂った）",
+      "zh": "（我正如月代雪所愿，<br>\n被她玩弄于股掌之间，还甘之如饴）",
+      "vi": "(Tôi đúng như mong muốn của Tsukiyoyuki, Bị cô ấy đùa giỡn trong lòng bàn tay, tôi vẫn thích thú)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative061",
+      "speaker_tag": "",
+      "ja": "世界には、<br>ひとつの間違いもあってはならない。",
+      "zh": "这个世界上，<br>\n不该允许有哪怕一丝一毫的错误存在。",
+      "vi": "Trên thế giới này, Thậm chí không được phép có một lỗi nhỏ nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro024",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro024|",
+      "ja": "（全部が間違いだった）",
+      "zh": "（我的一切都是错误的）",
+      "vi": "(Mọi thứ về tôi đều sai)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative062",
+      "speaker_tag": "",
+      "ja": "清らかな湖にひとつの毒を混ぜれば、<br>生き物は死滅する。",
+      "zh": "清澈的湖水中若是掺入一滴毒素，<br>\n生灵便会死绝。",
+      "vi": "Nếu một giọt độc tố hòa vào làn nước hồ trong vắt, Tất cả các sinh vật sống sẽ chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro025",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro025|",
+      "ja": "（毒は私だった）",
+      "zh": "（那滴毒药，是我）",
+      "vi": "(Giọt độc đó chính là tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative063",
+      "speaker_tag": "",
+      "ja": "<ruby=\"せいち\">精緻</ruby>な絵画にひとつの傷を加えれば、<br>芸術の価値は失われる。",
+      "zh": "精致的画布上若是划出一道划痕，<br>\n艺术的价值便随之泯灭。",
+      "vi": "Nếu có một vết xước trên tấm vải mỏng manh, Giá trị của nghệ thuật khi đó sẽ mất đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro026",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro026|",
+      "ja": "（傷は私だった）",
+      "zh": "（那道伤痕，是我）",
+      "vi": "(Vết sẹo đó là tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative064",
+      "speaker_tag": "",
+      "ja": "完璧なハーモニーにひとつの間違った音が<ruby=\"あ\">在</ruby>れば、<br>不協和音になる。",
+      "zh": "完美的和声中若是混进一个错误的音符，<br>\n就会沦为刺耳的不协和音。",
+      "vi": "Nếu một nốt sai được hòa âm thành một bản hoà âm hoàn hảo, Nó sẽ trở thành một sự bất hòa khắc nghiệt.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro027",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro027|",
+      "ja": "（不協和音は私だった）",
+      "zh": "（那个错音，是我）",
+      "vi": "(Phát âm sai đó là tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative065",
+      "speaker_tag": "",
+      "ja": "正しいを願う脳に<br>１匹の害虫が<ruby=\"す\">棲</ruby>みついていたならば――",
+      "zh": "祈盼着正确的大脑中<br>\n若是寄生了一只害虫——",
+      "vi": "Cầu nguyện cho bộ não đúng đắn Nếu một loài gây hại bị ký sinh——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro028",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro028|",
+      "ja": "（害虫は私だった）",
+      "zh": "（那只害虫，是我）",
+      "vi": "(Con vật gây hại đó là tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative066",
+      "speaker_tag": "",
+      "ja": "世界が、崩壊した。",
+      "zh": "整个世界，便会崩塌。",
+      "vi": "Cả thế giới sẽ sụp đổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative067",
+      "speaker_tag": "",
+      "ja": "――<ruby=\"くびつ\">首吊</ruby>り<ruby=\"わ\">輪</ruby>の先に見えたのは、<br>私にとって正しくない世界を作った存在。",
+      "zh": "——在绞索圆环的彼端，<br>\n我看见了造就这个错误世界的罪魁祸首。",
+      "vi": "---Bên ngoài vòng thòng lọng, Tôi đã nhìn thấy thủ phạm đã tạo ra thế giới sai lầm này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro029",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro029|",
+      "ja": "（それは私だった）",
+      "zh": "（那就是我）",
+      "vi": "(đó là tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro030",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro030|",
+      "ja": "（私だった、私だった、私だった、<br>　私だった、私だった、私――）",
+      "zh": "（是我、是我、是我、<br>\n是我、是我、是我——）",
+      "vi": "(Là tôi, là tôi, là tôi, Là tôi, là tôi, là tôi——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro031",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro031|",
+      "ja": "ああ、ああぁあぁっ、あぁぁっぁぁっ！！",
+      "zh": "啊啊、啊啊啊啊啊、啊啊啊啊呜啊啊啊——！！",
+      "vi": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!” !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative068",
+      "speaker_tag": "",
+      "ja": "私は全てを失った。<br>私に正義などなかった。<br>私は無力だった。",
+      "zh": "我失去了一切。<br>\n我手中根本没有什么正义。<br>\n我是如此无力。",
+      "vi": "Tôi đã mất tất cả. Không có công lý trong tay tôi. Tôi thật bất lực.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative069",
+      "speaker_tag": "",
+      "ja": "なにひとつ、救えなかった。",
+      "zh": "我没能拯救任何人。",
+      "vi": "Tôi không thể cứu được ai.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative070",
+      "speaker_tag": "",
+      "ja": "<ruby=\"おえつ\">嗚咽</ruby>を漏らし、<br>ただ泣き続けることしかできなかった。",
+      "zh": "我只能不住呜咽，<br>\n不断痛哭。",
+      "vi": "Tôi chỉ có thể khóc, Cứ khóc đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro032",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro032|",
+      "ja": "う、うぅう、あぁぁ……っ<br>ああ、ああっ",
+      "zh": "呜、呜呜呜、啊啊……<br>\n啊啊、啊啊！",
+      "vi": "Ôi, ôi ôi, àh... Ahhh, ahhh!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro033",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro033|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative071",
+      "speaker_tag": "",
+      "ja": "――どれだけ泣き続けたかもわからない。",
+      "zh": "——不知道自己哭了多久。",
+      "vi": "---Tôi không biết mình đã khóc bao lâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative072",
+      "speaker_tag": "",
+      "ja": "いつの間にか、ユキの気配は消えていた。<br>私のことなど、正直どうでもいいのだろう。",
+      "zh": "不知何时起，雪的气息已消失无踪。<br>\n她大概对我这个人从头到尾都无所谓吧。",
+      "vi": "Tôi không biết nó bắt đầu từ khi nào, nhưng hơi thở của tuyết đã biến mất không dấu vết. Có lẽ cô ấy đã không quan tâm đến tôi từ đầu đến cuối.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative073",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ほお\">頬</ruby>は乾き、涙の跡だけが<br><ruby=\"ひふ\">皮膚</ruby>に冷たくはりついている。",
+      "zh": "眼泪早已干涸，<br>\n唯有泪痕冰冷地贴在脸颊上。",
+      "vi": "Nước mắt đã cạn từ lâu, Chỉ có những giọt nước mắt lạnh lẽo đọng lại trên má cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative074",
+      "speaker_tag": "",
+      "ja": "喉からはかすれた息しか漏れず、<br>目は光を映す力すら失っていた。",
+      "zh": "嗓子只能发出沙哑的气音，<br>\n眼睛也失去光芒变得浑浊。",
+      "vi": "Cổ họng tôi chỉ có thể phát ra hơi thở khàn khàn, Đôi mắt cũng mất đi ánh sáng và trở nên đục.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative075",
+      "speaker_tag": "",
+      "ja": "胸の奥に広がる<ruby=\"むな\">虚</ruby>しさは深く、<br>残るのは静寂と、感情の<ruby=\"ざんがい\">残骸</ruby>だけ。",
+      "zh": "空虚在胸腔深处扎根、蔓延，<br>\n只余下残破的感情和一片静寂。",
+      "vi": "Nỗi trống trải bén rễ và lan sâu trong lồng ngực, Chỉ còn lại những cảm xúc tan vỡ và sự im lặng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative076",
+      "speaker_tag": "",
+      "ja": "<ruby=\"てつごうし\">鉄格子</ruby>の向こうに、<br>ぼんやりと足が映る。",
+      "zh": "铁栅栏外模模糊糊看见一双脚。<br>",
+      "vi": "Có thể mơ hồ nhìn thấy một đôi chân bên ngoài hàng rào sắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro034",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro034|",
+      "ja": "（ああ、そうだ、まだ生き残っている少女が<br>　いたのか……）",
+      "zh": "（啊啊，对了，还有几个少女<br>\n存活下来……）",
+      "vi": "(À, vâng, có một vài cô gái Sống sót...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro035",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro035|",
+      "ja": "（だがそれもいずれ……）",
+      "zh": "（不过，她们恐怕也……）",
+      "vi": "(Tuy nhiên, tôi e rằng họ cũng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative077",
+      "speaker_tag": "",
+      "ja": "鈍い挙動で私は顔を上げる。<br>中を<ruby=\"のぞ\">覗</ruby>いていたのは、アリサとミリアだった。",
+      "zh": "我迟钝地抬起头。<br>\n透过铁栅望着我的，是亚里沙和米莉亚。",
+      "vi": "Tôi từ từ ngẩng đầu lên. Nhìn tôi qua song sắt là Alisa và Miria.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative078",
+      "speaker_tag": "",
+      "ja": "おそらく泣き叫ぶ私の声を聞き、<br>しばらくそっとしておいてくれたのだろう。",
+      "zh": "大概是听见我撕心裂肺的哭声，<br>\n她们才没有出声打扰。",
+      "vi": "Có lẽ vì tôi đã nghe thấy tiếng khóc thót tim của mình, Họ không gây ra bất kỳ tiếng ồn nào để làm phiền.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative079",
+      "speaker_tag": "",
+      "ja": "<ruby=\"てつごうしご\">鉄格子越</ruby>し、どこか気まずそうに、<br>心配そうに私を見つめている。",
+      "zh": "隔着铁栅栏，她们略显不安，<br>\n担忧地望着我。",
+      "vi": "Qua hàng rào sắt, họ cảm thấy hơi bất an, Nhìn tôi lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Alisa001",
+      "speaker_tag": "; > Alisa: |#0204Adv15_Alisa001|",
+      "ja": "……二階堂、おめえにさ、<br>見せたいもんがある。",
+      "zh": "……二阶堂，我有个东西想给你看看。<br>",
+      "vi": "…Nikaido, Tao có thứ này muốn cho mày xem.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Hiro036",
+      "speaker_tag": "; > Hiro: |#0204Adv15_Hiro036|",
+      "ja": "私に？ 今更何を……。",
+      "zh": "给我看？事到如今，还能有什么……",
+      "vi": "Cho tôi xem? Chuyện đã xảy ra rồi thì còn có thể xảy ra chuyện gì nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Miria001",
+      "speaker_tag": "; > Miria: |#0204Adv15_Miria001|",
+      "ja": "辛いなら無理はしないでいいんだよ。<br>でも、おじさんたちも<br>少しでもヒロちゃんの助けになりたくて……。",
+      "zh": "如果你还很难受，也不必勉强自己。<br>\n但……大叔我们<br>\n也只是想尽一点心意，希望能帮帮你……",
+      "vi": "Nếu bạn vẫn cảm thấy không thoải mái, đừng ép buộc bản thân. Nhưng...Chú ơi, chúng cháu Miria chỉ muốn cố gắng hết sức mình, hy vọng có thể giúp được bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Miria002",
+      "speaker_tag": "; > Miria: |#0204Adv15_Miria002|",
+      "ja": "これがヒロちゃんの助けになるかは、<br>正直わからない。でも……もう泣かないで。",
+      "zh": "这东西到底能不能帮上你的忙，其实大叔我也不确定。<br>\n但……别再哭了，好吗？",
+      "vi": "Thứ này có thể giúp được chú không, cháu cũng không chắc. Nhưng... đừng khóc nữa được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative080",
+      "speaker_tag": "",
+      "ja": "私はよろよろ立ち上がり、部屋を出る。",
+      "zh": "我摇摇晃晃地站起身，走出牢房。",
+      "vi": "Tôi lảo đảo đứng dậy và bước ra khỏi phòng giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv15_Narrative081",
+      "speaker_tag": "",
+      "ja": "それ以上何も考えられず、彼女たちの後に続いた。",
+      "zh": "大脑已无法思考更多，只是机械地跟着她们。",
+      "vi": "Bộ não không còn có thể suy nghĩ nhiều hơn nữa và chỉ làm theo chúng một cách máy móc.",
+      "objection_links": []
+    }
+  ]
+}

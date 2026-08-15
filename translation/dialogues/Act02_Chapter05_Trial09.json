@@ -1,0 +1,1668 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial09",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial09' Naninovel scenario script",
+  "total_entries": 207,
+  "entries": [
+    {
+      "id": "0205Trial09_Hiro001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro001|",
+      "ja": "私は今朝目覚める前まで、<br>この牢屋敷で<br>君たちと生活をしていた……。",
+      "zh": "其实在今天早上醒来之前，<br>\n我就一直在这座监牢里<br>\n和你们一起生活过了……",
+      "vi": "Thực ra sáng nay trước khi thức dậy, Tôi đã ở trong Ngục Dinh Thự này Tôi đã sống với bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro002|",
+      "ja": "今と同じように<br>連れて来られた虜囚としてね。",
+      "zh": "就像现在一样，<br>\n之前我也是个被押送到这里的俘虏。",
+      "vi": "Giống như bây giờ, Tôi cũng là một tù nhân được áp giải tới đây trước đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Margo001|",
+      "ja": "それで私が<br>殺人事件を起こした……<br>あなたは<br>そう主張していたわね。",
+      "zh": "然后我<br>\n引发了凶杀案……<br>\n你是这么主张的，<br>\n对吧。",
+      "vi": "Sau đó Chị Gây ra một vụ án giết người... Đó là điều em ủng hộ, Đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro003|",
+      "ja": "……そうだ。",
+      "zh": "……是的。",
+      "vi": "...vâng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro004|",
+      "ja": "私が体験した中では、<br>４つの事件が起こり……<br>そして５人が死んだ。",
+      "zh": "在我的经历当中，<br>\n一共发生了4起事件……<br>\n死了5个人。",
+      "vi": "Theo kinh nghiệm của tôi, Tổng cộng có 4 sự cố đã xảy ra... Năm người đã chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro005|",
+      "ja": "その中で……<br>殺人を起こしてしまった<br>１人が君、マーゴだ。",
+      "zh": "而且……<br>\n引发过凶杀案的<br>\n其中一人就是你，玛格。",
+      "vi": "Và... đã gây ra vụ giết người Một trong số họ là bạn, Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Margo002|",
+      "ja": "……被害者については、<br>配慮として<br>隠しているのかしら？",
+      "zh": "……被害人的身份，<br>\n是出于顾虑感受<br>\n才隐瞒的吗？",
+      "vi": "…Danh tính của nạn nhân, Đó là vì sự quan tâm và cảm giác Bạn vừa giấu nó phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Margo003|",
+      "ja": "今の自分とは関係ない<br>別の世界の<br>自分であったとしても、<br>私に殺されたなんて知ったら<br>身構えちゃうものね♡",
+      "zh": "就算那是<br>\n与现在的自己无关的<br>\n另一个世界的自己，<br>\n如果知道自己被我杀了<br>\n也会多少有所防备吧♡",
+      "vi": "Ngay cả khi đó là điều đó không liên quan gì đến con người em hiện tại Bản thân Chị ở một thế giới khác, Nếu em biết em đã bị Chị giết Cậu nên chuẩn bị một chút đi♡",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro006|",
+      "ja": "……察してくれて助かるよ。",
+      "zh": "……非常感谢你能理解。",
+      "vi": "…Cảm ơn bạn rất nhiều vì sự hiểu biết của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro007|",
+      "ja": "私たち魔女候補の少女は、<br>次第にその思考が凶暴化して<br>排他的になっていく……。",
+      "zh": "我们这些身为预备魔女的少女，<br>\n思考会逐渐变得凶暴化、<br>\n排他化……",
+      "vi": "Chúng tôi, những cô gái đang chuẩn bị trở thành phù thủy, Suy nghĩ sẽ dần trở nên bạo lực, Độc quyền...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Ema001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Ema001|",
+      "ja": "け、喧嘩が<br>絶えなかったりとか……<br>したの……？",
+      "zh": "是、是不是<br>\n经常吵架……<br>\n之类的……？",
+      "vi": "Vâng, có phải Thường xuyên cãi nhau... Một cái gì đó như thế...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro008|",
+      "ja": "表立って荒れるならいい方だ。",
+      "zh": "能摆在明面上争吵还算好的。",
+      "vi": "Thật tốt khi có một cuộc cãi vã cởi mở.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro009",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro009|",
+      "ja": "だいたいは人が死んで<br>手遅れになってから、<br>それに気付く。",
+      "zh": "大多数情况是人死了，<br>\n再也无可挽回之后，<br>\n才意识到这一点。",
+      "vi": "Trong hầu hết các trường hợp, mọi người đều chết, Sau điểm không thể quay lại, Mới nhận ra điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro010",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro010|",
+      "ja": "本人が自覚する暇すら<br>与えられず……<br>私たちは<br>他者を殺害するための刃を<br>磨いてしまう。",
+      "zh": "当事人连产生自觉的<br>\n时间都没有……<br>\n我们这些人<br>\n就会磨砺起<br>\n准备杀害他人的刀刃。",
+      "vi": "Người liên quan đã liên tục phát triển ý thức Không còn thời gian... Chúng tôi là những người Nó sẽ làm sắc nét Một lưỡi dao chuẩn bị giết người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro011",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro011|",
+      "ja": "……だが、<br>それではいけないんだ。",
+      "zh": "……但是，<br>\n这样是不对的。",
+      "vi": "…Nhưng, Điều này là sai.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro012",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro012|",
+      "ja": "我々は全員が生きたまま<br>魔女にならなくてはならない。<br>そうでなくては、<br>生き残れない。",
+      "zh": "我们全部人都必须得<br>\n活着成为魔女。<br>\n否则，我们就<br>\n无法存活下去。",
+      "vi": "Tất cả chúng ta đều phải có Sống để trở thành phù thủy. Nếu không, chúng tôi Không thể sống sót.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro013",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro013|",
+      "ja": "だから私に協力して欲しい。",
+      "zh": "所以我希望你们能协助我。",
+      "vi": "Vì vậy tôi hy vọng bạn có thể giúp đỡ tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Margo004|",
+      "ja": "……手放しに<br>信用できる話じゃないわね。",
+      "zh": "……这话可不能<br>\n轻易相信呢。",
+      "vi": "...Điều này không thể nói được Dễ dàng tin vào điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Margo005|",
+      "ja": "もしあなたの言うことが<br>正しいのなら、<br>あなた自身は<br>どうだったのかしら？",
+      "zh": "如果事实<br>\n正如你所说，<br>\n那你自己<br>\n又是怎样的情况呢？",
+      "vi": "nếu sự thật Như em đã nói, Vậy thì chính em Tình hình là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Margo006|",
+      "ja": "誰もが殺人衝動を<br>抱くのであれば、<br>あなたも人を<br><link=\"Objection_02_05_09_01\">殺したくなった</link>と<br>いうことでしょう？",
+      "zh": "如果人人都会<br>\n产生杀人冲动，<br>\n那你也应该<br>\n曾经<link=\"Objection_02_05_09_01\">想过杀人</link>，<br>\n不是吗？",
+      "vi": "Nếu mọi người biết cách Có ham muốn giết người, Vậy thì em cũng nên Chị đã từng <link=\"Objection_02_05_09_01\"> nghĩ đến việc giết ai đó </link>, Phải không?",
+      "objection_links": [
+        "Objection_02_05_09_01"
+      ]
+    },
+    {
+      "id": "0205Trial09_Hiro014",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro014|",
+      "ja": "……私は、<br>殺すには至らなかった。",
+      "zh": "……我，<br>\n没有发展到杀人的地步。",
+      "vi": "…Tôi, Nó chưa đến mức giết người.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro015",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro015|",
+      "ja": "そして最後は、<br>自らの手で命を断ったんだ。",
+      "zh": "并且在最后，<br>\n我亲手结束了自己的生命。",
+      "vi": "Và cuối cùng, Tôi đã kết thúc cuộc đời mình bằng chính đôi tay của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro016",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial09_Hiro016|",
+      "ja": "……生きているみんなと<br>再び会うために……！",
+      "zh": "……就是为了能再次见到<br>\n还活着的大家……！",
+      "vi": "...chỉ để gặp lại Tất cả những ai còn sống...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo007",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Margo007|",
+      "ja": "自殺……ね。",
+      "zh": "自杀……吗。",
+      "vi": "Tự sát...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo008",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Margo008|",
+      "ja": "あなたの話では私たちは<br>殺し合っていたのよね？",
+      "zh": "照你的说法，<br>\n我们之前是在互相残杀吧？",
+      "vi": "Theo em, Trước đây chúng ta đã giết nhau phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo009",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Margo009|",
+      "ja": "なら、恨みこそすれ<br><link=\"Objection_02_05_09_02\">信頼</link>関係なんて<br>微塵もなかったはず……。",
+      "zh": "那么，我们之间<br>\n只该存在怨恨，<br>\n不该存在丝毫<link=\"Objection_02_05_09_02\">信赖</link>关系才对……",
+      "vi": "Vì vậy, giữa chúng ta Chỉ nên có sự oán giận, Không nên có bất kỳ mối quan hệ <link=\"Objection_02_05_09_02\">tin cậy</link> nào...",
+      "objection_links": [
+        "Objection_02_05_09_02"
+      ]
+    },
+    {
+      "id": "0205Trial09_Margo010",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Margo010|",
+      "ja": "なのに<br>【みんな仲良く<br>ここを出ましょう】<br>……なんて<br>子供じみた主張をするの？",
+      "zh": "那为什么<br>\n还要提什么【大家友好地<br>\n一起离开这里吧】……<br>\n这种幼稚的<br>\n主张呢？",
+      "vi": "Vậy thì tại sao Còn điều gì muốn đề cập nữa không? [Mọi người vui lòng Hãy cùng nhau rời khỏi đây]…… Thật trẻ con Còn các yêu cầu bồi thường thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo011",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial09_Margo011|",
+      "ja": "……信用できないわ。<br>あなたの言葉は<br>理屈が通っていないもの。",
+      "zh": "……我没法相信。<br>\n你的话<br>\n根本不合逻辑。",
+      "vi": "...Chị không thể tin được. Lời nói của em Không hợp lý chút nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro017|",
+      "ja": "（彼女の言葉はもっともだ）",
+      "zh": "（她的话很有道理）",
+      "vi": "(Những gì cô ấy nói có lý)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro018|",
+      "ja": "（私が逆の立場でもそう思ったことだろう）",
+      "zh": "（如果我站在相反的立场，大概也会这么想吧）",
+      "vi": "(Nếu tôi ở phía đối diện chắc tôi cũng nghĩ vậy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro019|",
+      "ja": "（だが……今私が提示すべきカードは真実だ）",
+      "zh": "（只不过……我现在应该打出的牌是真相）",
+      "vi": "(Chỉ là…quân bài tôi nên chơi bây giờ là sự thật)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro020|",
+      "ja": "（マーゴ相手でも……<br>　いや、マーゴ相手だからこそ）",
+      "zh": "（即使是面对玛格……<br>\n不，正因为是面对玛格）",
+      "vi": "(Ngay cả khi đối mặt với Mag... Không, đó là vì tôi đang đối mặt với Margo)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro021|",
+      "ja": "（……時には正面から気持ちをぶつけることも必要か）",
+      "zh": "（……有时候也需要正面诉诸情感吧）",
+      "vi": "(...Đôi khi bạn cần phải khơi dậy cảm xúc của mình một cách trực diện)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial09_Choice001| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "殺したくなったことなどない",
+      "zh": "从未想过杀人",
+      "vi": "Chưa bao giờ nghĩ đến việc giết ai đó",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial09_Choice002| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "殺した",
+      "zh": "已经杀过人了",
+      "vi": "Đã giết ai đó rồi",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial09_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "私はみんなを信じている",
+      "zh": "我相信大家",
+      "vi": "Tôi tin mọi người",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Choice004",
+      "speaker_tag": "; > @choice |#0205Trial09_Choice004| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "ずっと信じ合っていた",
+      "zh": "我们一直互相信任着",
+      "vi": "Chúng ta luôn tin tưởng lẫn nhau",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro022|",
+      "ja": "殺したくなったことなんて……ない。",
+      "zh": "我……从未想过要杀人。",
+      "vi": "Tôi...chưa bao giờ muốn giết ai cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo012",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo012|",
+      "ja": "嘘ね。",
+      "zh": "你在撒谎。",
+      "vi": "Bạn đang nói dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro023|",
+      "ja": "……いつも正しい行動を心がけている。<br>全員で生き残るすべを考え続けてきた。",
+      "zh": "……我一直都力求采取正确的行动。<br>\n我一直在思考全员存活的方法。",
+      "vi": "…Tôi luôn cố gắng thực hiện hành động đúng đắn. Tôi đang nghĩ cách để mọi người sống sót.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro024|",
+      "ja": "でも過去の世界ではそれが実現しなかった……<br>だから今度こそみんなで生き延びたいんだ。",
+      "zh": "但在过去的世界，我没能实现……<br>\n所以这次，一定要和大家一起活下去。",
+      "vi": "Nhưng ở thế giới quá khứ, tôi đã không đạt được... Vì thế lần này tôi phải sống sót cùng mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo013",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo013|",
+      "ja": "少し話しただけでわかったわ。<br>あなたは直情的で正義を重んじる人間――。",
+      "zh": "跟你稍微聊过之后我就明白了。<br>\n你是个感情用事、重视正义的人——",
+      "vi": "Sau khi nói chuyện với em một chút, Chị đã hiểu. Bạn là một người sống tình cảm và coi trọng công lý——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo014",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo014|",
+      "ja": "目的のためなら一直線に走り……時に間違う。",
+      "zh": "为达目的，会笔直向前冲……而有时也会犯错。",
+      "vi": "Để đạt được mục tiêu, anh ấy sẽ lao về phía trước...và đôi khi mắc sai lầm.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo015",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo015|",
+      "ja": "……そして、自分の正義に従って<br>誰かを殺そうとした……違うかしら？",
+      "zh": "……结果，为了贯彻自己的正义，<br>\n于是曾试图杀死某个人……没说错吧？",
+      "vi": "...Kết quả là, để thực thi công lý của chính mình, Vậy là Chị đã cố giết ai đó...phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro025|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo016",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo016|",
+      "ja": "……図星ね。",
+      "zh": "……看来说中了呢。",
+      "vi": "...có vẻ như đã đạt được mục tiêu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo017",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo017|",
+      "ja": "あなたは私たちを騙そうとしている……<br>信用に足る人物じゃないわ。",
+      "zh": "你正试图欺骗我们……<br>\n你不是值得信赖的人物。",
+      "vi": "Bạn đang cố lừa chúng Chị... Bạn không phải là người đáng tin cậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro026|",
+      "ja": "（嘘はお見通しか……）",
+      "zh": "（看来谎言被看穿了……）",
+      "vi": "(Có vẻ như lời nói dối đã bị nhìn thấu...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro027|",
+      "ja": "（……マーゴに下手な嘘は通じない）",
+      "zh": "（……对玛格耍小聪明是行不通的）",
+      "vi": "(…cố tỏ ra thông minh với Margo sẽ không có tác dụng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro028|",
+      "ja": "（となれば、<br>　本心をぶつけてみるしかない）",
+      "zh": "（既然如此，<br>\n我只能试着坦诚相待了）",
+      "vi": "(Trong trường hợp này, Tôi chỉ có thể cố gắng thành thật)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro029|",
+      "ja": "（嘘偽りのない、本心を）",
+      "zh": "（就用毫无谎言的真心，去直面她）",
+      "vi": "(Chỉ cần đối mặt với cô ấy bằng sự chân thành không dối trá)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro030|",
+      "ja": "……ああ、実際に殺したよ。",
+      "zh": "……啊，我确实杀过人哦。",
+      "vi": "...À, tôi đã giết ai đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Ema002",
+      "speaker_tag": "; > Ema: |#0205Trial09_Ema002|",
+      "ja": "ヒロちゃん、そんな……！？",
+      "zh": "希罗，怎么会……！？",
+      "vi": "Hiro, làm sao có thể...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro031|",
+      "ja": "殺人衝動に抗えなかったんだ。<br>悔やんでも悔やみきれない。",
+      "zh": "我没能抵抗住杀人的冲动。<br>\n就算后悔也无法弥补。",
+      "vi": "Tôi không thể cưỡng lại sự thôi thúc muốn giết người. Hối hận cũng không thể bù đắp được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro032|",
+      "ja": "だからこそ、みんなにはそうなって欲しくないんだよ。",
+      "zh": "正因为如此，我才不希望大家也变成我那样。",
+      "vi": "Vì điều này, tôi không muốn mọi người trở nên giống mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo018",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo018|",
+      "ja": "……その言葉や後悔自体に<br>嘘はなさそうね。",
+      "zh": "……你的话语以及后悔的感情本身<br>\n看起来并不像谎言。",
+      "vi": "…lời nói của em và cảm giác hối tiếc Nó không giống như một lời nói dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo019",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo019|",
+      "ja": "でも、あなたは人殺しの目をしてないわ？",
+      "zh": "可是，你没有杀人犯该有的眼神哦？",
+      "vi": "Nhưng, em không có đôi mắt mà một kẻ sát nhân nên có?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro033|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo020",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo020|",
+      "ja": "未遂に終わったのかしら？<br>となると、もしかして――。",
+      "zh": "是杀人未遂吗？<br>\n那么，是不是意味着——",
+      "vi": "Có phải đó là âm mưu giết người? Vậy, điều đó có nghĩa là——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo021",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo021|",
+      "ja": "今度こそ、殺しに来たのかもしれないわね？",
+      "zh": "你这一次，终于准备要杀人了？",
+      "vi": "Cuối cùng em đã sẵn sàng để giết ai đó lần này chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro034|",
+      "ja": "（自称殺人鬼の言葉など響くわけもないか……）",
+      "zh": "（看来我自称杀人魔也没什么作用啊……）",
+      "vi": "(Có vẻ như việc tự gọi mình là kẻ sát nhân chẳng có tác dụng gì...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro035",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro035|",
+      "ja": "（……マーゴに下手な嘘は通じない）",
+      "zh": "（……对玛格耍小聪明是行不通的）",
+      "vi": "(…cố tỏ ra thông minh với Margo sẽ không có tác dụng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro036",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro036|",
+      "ja": "（となれば、<br>　本心をぶつけてみるしかない）",
+      "zh": "（既然如此，<br>\n我只能试着坦诚相待了）",
+      "vi": "(Trong trường hợp này, Tôi chỉ có thể cố gắng thành thật)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro037",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro037|",
+      "ja": "（嘘偽りのない、本心を）",
+      "zh": "（就用毫无谎言的真心，去直面她）",
+      "vi": "(Chỉ cần đối mặt với cô ấy bằng sự chân thành không dối trá)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro038",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro038|",
+      "ja": "恨むなんてとんでもない、<br>最後までずっと信じ合っていたよ。",
+      "zh": "怎么可能会怨恨呢，<br>\n我们到最后都一直互相信任着的哦。",
+      "vi": "Làm sao bạn có thể bực bội, Chúng tôi đã tin tưởng nhau cho đến cuối cùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro039",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro039|",
+      "ja": "悪いのは魔女の力なんだ。",
+      "zh": "都是魔女之力的错。",
+      "vi": "Tất cả là lỗi của sức mạnh phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro040",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro040|",
+      "ja": "それによって、信じ合っていた仲間たちの絆は<br>引き裂かれていったんだ。",
+      "zh": "都怪它，同伴之间互相信任的牵绊<br>\n才会被撕裂。",
+      "vi": "Tất cả là lỗi của anh ấy, là sự tin tưởng lẫn nhau giữa những người bạn đồng hành sẽ bị xé nát.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo022",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo022|",
+      "ja": "……ふふふ♡",
+      "zh": "……呵呵呵♡",
+      "vi": "...hehehe♡",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo023",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo023|",
+      "ja": "ある程度の仲間意識はあったでしょうけど、<br>殺人事件が起きたあとまで信じ合えるわけがないわ。",
+      "zh": "我想共同生活的友情应该多多少少会有的，<br>\n但在发生凶杀案后，不可能还继续互相信任吧。",
+      "vi": "Chị nghĩ ít nhiều thì cũng nên có tình em khi chúng ta sống cùng nhau, Nhưng sau vụ án mạng, không thể tiếp tục tin tưởng lẫn nhau nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo024",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo024|",
+      "ja": "笑わせてくれるわね、<br>絆だなんて――。",
+      "zh": "真会逗人笑啊，<br>\n说什么牵绊——",
+      "vi": "Bạn thực sự khiến mọi người cười, Sự ràng buộc là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo025",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo025|",
+      "ja": "思ってもないことを言うのはやめたら？",
+      "zh": "连你自己都不信的话，能不能请你不要再说了？",
+      "vi": "Nếu ngay cả chính em cũng không tin vào điều đó, em có thể ngừng nói chuyện được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro041",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro041|",
+      "ja": "（嘘はお見通しか……）",
+      "zh": "（看来谎言被看穿了……）",
+      "vi": "(Có vẻ như lời nói dối đã bị nhìn thấu...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro042",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro042|",
+      "ja": "（……マーゴに下手な嘘は通じない）",
+      "zh": "（……对玛格耍小聪明是行不通的）",
+      "vi": "(…cố tỏ ra thông minh với Margo sẽ không có tác dụng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro043",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro043|",
+      "ja": "（となれば、<br>　本心をぶつけてみるしかない）",
+      "zh": "（既然如此，<br>\n我只能试着坦诚相待了）",
+      "vi": "(Trong trường hợp này, Tôi chỉ có thể cố gắng thành thật)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro044",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro044|",
+      "ja": "（嘘偽りのない、本心を）",
+      "zh": "（就用毫无谎言的真心，去直面她）",
+      "vi": "(Chỉ cần đối mặt với cô ấy bằng sự chân thành không dối trá)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro045",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro045|",
+      "ja": "マーゴは……嘘つきだ。",
+      "zh": "玛格……你是个骗子。",
+      "vi": "Margo...bạn là kẻ nói dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo026",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo026|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro046",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro046|",
+      "ja": "ナノカは何を考えているかわからない。<br>アリサだって愛想はないし反抗的だ。",
+      "zh": "奈叶香脑子里在想什么，根本搞不清楚。<br>\n亚里沙也很冷淡，而且还叛逆。",
+      "vi": "Tôi không thể hiểu được điều gì đang diễn ra trong đầu Nanoyoka. Alisa cũng lạnh lùng và nổi loạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Alisa001",
+      "speaker_tag": "; > Alisa: |#0205Trial09_Alisa001|",
+      "ja": "……ああ！？ んだと……！？",
+      "zh": "……啊啊！？你说什么……！？",
+      "vi": "...à! ? Bạn đã nói gì vậy……! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro047",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro047|",
+      "ja": "ココは口が悪く、シェリーは言う事を聞かない。<br>ハンナは直情的で、レイアも自分のことばかり……。",
+      "zh": "可可嘴巴很毒，雪莉不听人讲话。<br>\n汉娜很冲动，蕾雅也自私得不行……",
+      "vi": "Coco có cái miệng độc ác và Sherry không nghe lời người khác. Hanna rất bốc đồng, còn Leia thì cực kỳ ích kỷ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Coco001",
+      "speaker_tag": "; > Coco: |#0205Trial09_Coco001|",
+      "ja": "はー？ なんかディスられてんですけど！",
+      "zh": "哈？感觉你是在鄙视我吧！",
+      "vi": "Hả? Cảm giác như bạn đang coi thường Coco vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro048",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro048|",
+      "ja": "……誰も彼も、<br>本当にみんな手のかかる。",
+      "zh": "……每个人<br>\n都真的很让人费心。",
+      "vi": "…Mọi người Tất cả đều thực sự căng thẳng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro049",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro049|",
+      "ja": "……だが。",
+      "zh": "……但是。",
+      "vi": "...Nhưng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro050",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro050|",
+      "ja": "だからといって、<br>ここで死んでいい人間などいない。",
+      "zh": "即便如此，<br>\n也没有任何一个人应该死在这里。",
+      "vi": "Dù vậy, Không ai đáng phải chết ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro051",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro051|",
+      "ja": "私たちが犠牲になる必要なんてない。",
+      "zh": "我们没有必要成为牺牲品。",
+      "vi": "Chúng ta không cần phải trở thành nạn nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro052",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro052|",
+      "ja": "私たちは……<br>自由に生きるために、<br>ここから出ていいんだ。",
+      "zh": "我们……<br>\n想要自由地活下去的话，<br>\n只要离开这里就好。",
+      "vi": "Chúng tôi... Nếu bạn muốn sống tự do, Chỉ cần ra khỏi đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro053",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro053|",
+      "ja": "そのためにはみんなの協力が不可欠だし……。",
+      "zh": "为此，大家的协助是不可或缺的……",
+      "vi": "Để đạt được mục tiêu này, sự giúp đỡ của mọi người là không thể thiếu...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro054",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro054|",
+      "ja": "こうして話せば、協力してもらえると思っている。",
+      "zh": "而且我相信，只要能直接对话，就能得到协助。",
+      "vi": "Và tôi tin rằng chỉ cần chúng ta có thể nói chuyện trực tiếp thì chúng ta có thể nhận được sự giúp đỡ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro055",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro055|",
+      "ja": "私は――。",
+      "zh": "我——",
+      "vi": "Tôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro056",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro056|",
+      "ja": "――みんなを、信じているんだ。",
+      "zh": "——是相信着大家的。",
+      "vi": "---Tôi tin tưởng vào tất cả mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Ema003",
+      "speaker_tag": "; > Ema: |#0205Trial09_Ema003|",
+      "ja": "……ヒロちゃん。",
+      "zh": "……希罗。",
+      "vi": "……Hiro。",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo027",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo027|",
+      "ja": "……そんなの、欺瞞だわ。",
+      "zh": "……你说的话，就是欺骗。",
+      "vi": "...Những gì em nói là lừa dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo028",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo028|",
+      "ja": "本心で何を思っていても、<br>口でならどうだって言えるもの。",
+      "zh": "无论内心真实想法如何，<br>\n只要有一张嘴，想说什么都可以。",
+      "vi": "Cho dù suy nghĩ thực sự của em là gì, Chỉ cần có miệng thì muốn nói gì cũng được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo029",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo029|",
+      "ja": "あなただって裏切るかもしれない。",
+      "zh": "就连你也可能会背叛。",
+      "vi": "Ngay cả em cũng có thể phản bội.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo030",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo030|",
+      "ja": "……それは、私も一緒。",
+      "zh": "……当然，我也一样。",
+      "vi": "...Tất nhiên, Chị cũng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo031",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo031|",
+      "ja": "あなたが私たちを信頼しているなんて……<br>嘘よ。",
+      "zh": "你说你信任我们……<br>\n这是谎言。",
+      "vi": "Bạn nói rằng em tin tưởng chúng Chị... Đây là một lời nói dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro057",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro057|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro058",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro058|",
+      "ja": "（……やはり、そうだ）",
+      "zh": "（……果然如此）",
+      "vi": "(...đúng như mong đợi)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro059",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro059|",
+      "ja": "（マーゴは追い詰められると、<br>　他人の嘘を見破れなくなる……）",
+      "zh": "（玛格一旦被逼到绝境，<br>\n就会无法看穿他人的谎言……）",
+      "vi": "(Khi Margo bị dồn vào chân tường, Bạn sẽ không thể nhìn thấu được lời nói dối của người khác...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro060",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro060|",
+      "ja": "（私は今回、本心から……<br>　【みんなを信じる】と宣言した）",
+      "zh": "（我这次，是发自内心地……<br>\n作出了【相信大家】的宣言）",
+      "vi": "(Lần này, tôi đang nói từ tận đáy lòng mình... Tuyên bố \"Tôi tin vào tất cả mọi người\")",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro061",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro061|",
+      "ja": "（だが今のマーゴには<br>　それが真実かどうか判断できていない）",
+      "zh": "（而现在的玛格，<br>\n无法判断这是否是真相）",
+      "vi": "(Và bây giờ là Mag, Không thể biết đây có phải là sự thật)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro062",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro062|",
+      "ja": "（それはつまり……<br>　彼女の心がかき乱され、動揺しているということ）",
+      "zh": "（换言之……<br>\n现在她的内心已被搅乱，正在动摇）",
+      "vi": "(Nói cách khác... Bây giờ trái tim cô ấy đã xao xuyến và đang run rẩy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro063",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro063|",
+      "ja": "（彼女は人に寄り添われたとき……<br>　どうしたらいいのか、わからなくなるのかもしれない）",
+      "zh": "（说不定，她在得到他人亲近时……<br>\n会变得不知所措）",
+      "vi": "(Có lẽ, khi cô ấy đến gần người khác... sẽ trở nên choáng ngợp)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro064",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro064|",
+      "ja": "（……今が攻め時だな）",
+      "zh": "（……现在正是进攻的时机）",
+      "vi": "(...bây giờ là lúc tấn công)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro065",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro065|",
+      "ja": "（思い出せ……。<br>　マーゴが魔女として覚醒した、そのひと言――それは）",
+      "zh": "（回想起来吧……<br>\n让玛格觉醒成为魔女的那句话——就是）",
+      "vi": "(Nhìn lại... Những lời đã khiến Margo thức tỉnh như một phù thủy——chỉ thế thôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Choice005",
+      "speaker_tag": "; > @choice |#0205Trial09_Choice005|",
+      "ja": "君を愛している",
+      "zh": "我爱你",
+      "vi": "tôi yêu bạn",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Choice006",
+      "speaker_tag": "; > @choice |#0205Trial09_Choice006|",
+      "ja": "君は歪んでいる",
+      "zh": "你很扭曲",
+      "vi": "bạn thật vặn vẹo",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Choice007",
+      "speaker_tag": "; > @choice |#0205Trial09_Choice007|",
+      "ja": "君の愛は嘘",
+      "zh": "你的爱是谎言",
+      "vi": "tình yêu của bạn là một lời nói dối",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro066",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro066|",
+      "ja": "……人の思いやりを素直に受け取れないんだね。",
+      "zh": "……看来你无法坦率地接受他人的好意呢。",
+      "vi": "...Có vẻ như bạn không thể chấp nhận lòng tốt của người khác một cách thẳng thắn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro067",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro067|",
+      "ja": "【君は歪んでいる】よ、マーゴ。",
+      "zh": "【你很扭曲】，玛格。",
+      "vi": "[Bạn thật vặn vẹo], Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo032",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo032|",
+      "ja": "……知ったようなことを言うのね。",
+      "zh": "……这话说得好像你很了解我似的。",
+      "vi": "...Có vẻ như em biết rõ về Chị.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro068",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro068|",
+      "ja": "誰の言葉も信じることが出来ないまま――。",
+      "zh": "你确定，你要一直无法相信任何人的话语——",
+      "vi": "Bạn có chắc chắn rằng bạn sẽ không bao giờ có thể tin được lời nói của bất cứ ai——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro069",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro069|",
+      "ja": "これから先も、<br>出会う人間全員を疑いながら<br>生きていくつもりかな。",
+      "zh": "从今往后也要<br>\n继续去怀疑所有遇到的人，<br>\n以这样的状态活下去吗？",
+      "vi": "Từ giờ trở đi tôi cũng sẽ Tiếp tục nghi ngờ mọi người bạn gặp, Bạn có thể sống sót trong trạng thái này?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro070",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro070|",
+      "ja": "そんな人生、息苦しいよ。",
+      "zh": "那样的人生，太令人窒息了。",
+      "vi": "Cuộc sống như vậy thật ngột ngạt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo033",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo033|",
+      "ja": "……誰かに裏切られるくらいなら、<br>ひとりで息苦しいほうがずっとマシよ。",
+      "zh": "……与其被他人背叛，<br>\n还不如让我独自窒息好了。",
+      "vi": "…Thay vì bị người khác phản bội, Cũng có thể để Chị một mình đến nghẹt thở.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo034",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo034|",
+      "ja": "人間多かれ少なかれ歪んでいるの。",
+      "zh": "人或多或少都是扭曲的。",
+      "vi": "Mọi người ít nhiều bị xoắn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo035",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo035|",
+      "ja": "他人を信じられる人間もいれば、<br>そうでない人間もいる……それだけのことでしょう。",
+      "zh": "既然有能相信他人的人，<br>\n那也就有做不到的人……仅此而已。",
+      "vi": "Vì có những người có thể tin tưởng người khác, Rồi có những người không làm được... vậy thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo036",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo036|",
+      "ja": "あなたの正義を押しつけられても――。",
+      "zh": "就算你把你的正义强加给我——",
+      "vi": "Ngay cả khi em áp đặt công lý của mình lên Chị——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo037",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo037|",
+      "ja": "息苦しいだけよ、ヒロちゃん。",
+      "zh": "也只会让我感到窒息哦，希罗。",
+      "vi": "Nó sẽ chỉ khiến Chị cảm thấy ngột ngạt thôi, Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro071",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro071|",
+      "ja": "（ただマーゴを傷付けただけになってしまったな……）",
+      "zh": "（结果只是单纯地伤害了玛格啊……）",
+      "vi": "(Cuối cùng, nó chỉ làm tổn thương Margo...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro072",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro072|",
+      "ja": "（……よく思い出そう）",
+      "zh": "（……我得认真回想起来）",
+      "vi": "(...Mình phải suy nghĩ kỹ về nó)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro073",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro073|",
+      "ja": "（私が過去の世界で聞いた<br>　マーゴの最期の叫びを……！）",
+      "zh": "（我在过去的世界中听到的，<br>\n玛格临终前的呐喊……！）",
+      "vi": "(Những điều tôi đã nghe ở thế giới trước, Tiếng kêu hấp hối của Mag...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro074",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro074|",
+      "ja": "（彼女が最も【言われたくない】言葉……<br>　それは――）",
+      "zh": "（她最【不想听人对她说】的话……<br>\n就是——）",
+      "vi": "(Điều cô ấy [không muốn nghe ai nói] với mình nhất... Thế thôi——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro075",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro075|",
+      "ja": "……君が、他人を信じられない理由は<br>はっきりしているよ。",
+      "zh": "……你无法相信他人的理由，<br>\n我十分清楚。",
+      "vi": "…Bạn không thể tin vào lý do của người khác, Tôi biết rất rõ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro076",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro076|",
+      "ja": "【君の愛は嘘】だからだ。",
+      "zh": "因为【你的爱是谎言】。",
+      "vi": "Bởi vì [tình yêu của anh là dối trá]",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro077",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro077|",
+      "ja": "私が見てきた過去の世界で<br>君は愛を語っていた。",
+      "zh": "在我所见的过去世界里，<br>\n你曾谈论过爱。",
+      "vi": "Ở thế giới trước đây tôi đã từng thấy, Bạn đã nói về tình yêu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro078",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro078|",
+      "ja": "だがマーゴが思う愛は<br>【狂気じみた思い込み】のようだった。",
+      "zh": "但玛格你所认为的爱，<br>\n就好像是【疯狂的执念】一样。",
+      "vi": "Nhưng điều bạn nghĩ là tình yêu, Margo, Nó giống như một [nỗi ám ảnh điên rồ].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo038",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo038|",
+      "ja": "思い込み……？",
+      "zh": "执念……？",
+      "vi": "Nỗi ám ảnh...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro079",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro079|",
+      "ja": "君は正しい愛の形がわからないから、<br>……誰の言葉も欺瞞に感じるんだ。",
+      "zh": "因为你不懂正确的爱的形式，<br>\n……所以你才会觉得所有人的话都是欺骗。",
+      "vi": "Bởi vì bạn không hiểu đúng về hình thức yêu thương, …Đó là lý do tại sao bạn cảm thấy lời nói của mọi người đều là lừa dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo039",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo039|",
+      "ja": "愛の形なんて、人それぞれよ。",
+      "zh": "爱的形式，因人而异哦。",
+      "vi": "Hình thức tình yêu khác nhau ở mỗi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo040",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo040|",
+      "ja": "私と愛し合ったこともないあなたに<br>理解できるものじゃないわ。",
+      "zh": "从未与我相爱过的你，<br>\n是不可能理解的。",
+      "vi": "Anh là người chưa từng yêu em, Thật không thể hiểu được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo041",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo041|",
+      "ja": "私の愛を否定しないで。<br>何様のつもり？",
+      "zh": "不要否定我的爱。<br>\n你以为你是谁？",
+      "vi": "Đừng phủ nhận tình yêu của Chị. Bạn nghĩ em là ai?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro080",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro080|",
+      "ja": "（ただマーゴを傷付けただけになってしまったな……）",
+      "zh": "（结果只是单纯地伤害了玛格啊……）",
+      "vi": "(Cuối cùng, nó chỉ làm tổn thương Margo...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro081",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro081|",
+      "ja": "（……よく思い出そう）",
+      "zh": "（……我得认真回想起来）",
+      "vi": "(...Mình phải suy nghĩ kỹ về nó)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro082",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro082|",
+      "ja": "（私が過去の世界で聞いた<br>　マーゴの最期の叫びを……！）",
+      "zh": "（我在过去的世界中听到的，<br>\n玛格临终前的呐喊……！）",
+      "vi": "(Những điều tôi đã nghe ở thế giới trước, Tiếng kêu hấp hối của Mag...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro083",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro083|",
+      "ja": "（彼女が最も【言われたくない】言葉……<br>　それは――）",
+      "zh": "（她最【不想听人对她说】的话……<br>\n就是——）",
+      "vi": "(Điều cô ấy [không muốn nghe ai nói] với mình nhất... Thế thôi——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro084",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro084|",
+      "ja": "（マーゴは処刑される間際……<br>　魔女化していた）",
+      "zh": "（玛格在被处刑前……<br>\n完成了魔女化）",
+      "vi": "(Trước khi Margo bị xử tử... Đã hoàn thành việc biến đổi phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo042",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo042|",
+      "ja": "私は愛を知っているのよ！！<br>これが愛なのよ！！",
+      "zh": "我懂得爱！！<br>\n这就是爱！！",
+      "vi": "Chị biết tình yêu! ! Đây là tình yêu! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo043",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo043|",
+      "ja": "もうやめて！！<br>私の愛を否定しないで！！",
+      "zh": "够了！！<br>\n不要否定我的爱！！",
+      "vi": "Đủ rồi! ! Đừng phủ nhận tình yêu của Chị! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo044",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo044|",
+      "ja": "私を【愛さないで】――！",
+      "zh": "【不要爱我】——！",
+      "vi": "[Đừng yêu Chị]——!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro085",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro085|",
+      "ja": "（ならば……）",
+      "zh": "（既然如此……）",
+      "vi": "(Trong trường hợp đó...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro086",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro086|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro087",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro087|",
+      "ja": "（さすがに……<br>　面と向かって言うには少しためらってしまうが）",
+      "zh": "（呃……<br>\n要当面说出来的话，我实在是有些犹豫）",
+      "vi": "(Ờ... Tôi thực sự ngần ngại khi nói điều đó trực tiếp)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro088",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro088|",
+      "ja": "……マーゴ。",
+      "zh": "……玛格。",
+      "vi": "...Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro089",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro089|",
+      "ja": "君が人を信用できない気持ちも、わかるよ。",
+      "zh": "你无法信任他人的心情，我也明白。",
+      "vi": "Tôi hiểu cảm giác của bạn khi không thể tin tưởng người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro090",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro090|",
+      "ja": "君は多くの人間に裏切られてきた。<br>だから人を信用できない。<br>それは経験則から来る理屈だ。",
+      "zh": "你被许多人背叛过，<br>\n所以无法信任他人。<br>\n这是从自身经验得出的道理。",
+      "vi": "Bạn đã bị nhiều người phản bội, Vì vậy, bạn không thể tin tưởng người khác. Điều này dựa trên kinh nghiệm của riêng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro091",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro091|",
+      "ja": "だが……世の中には理屈を超える感情もある。",
+      "zh": "但是……世上也有不讲道理的感情。",
+      "vi": "Nhưng... trên đời cũng có những cảm xúc vô lý.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro092",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro092|",
+      "ja": "私は……みんなのことが大事なんだ。<br>１人たりとも、失いたくない。",
+      "zh": "我……很重视大家。<br>\n一个人我都不愿意失去。",
+      "vi": "Tôi... coi trọng mọi người. Tôi không muốn mất bất cứ ai.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro093",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro093|",
+      "ja": "その感情を人は……<br>【博愛】と呼ぶんじゃないかな。",
+      "zh": "这种感情，人们都会称之为……<br>\n【博爱】，不是吗。",
+      "vi": "Loại cảm giác này, người ta sẽ gọi nó là... [tình huynh đệ] phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo045",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo045|",
+      "ja": "――！",
+      "zh": "——！",
+      "vi": "——！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro094",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro094|",
+      "ja": "もちろんその対象は……君もだ。",
+      "zh": "当然，其中的对象……也包括你。",
+      "vi": "Tất nhiên, mục tiêu... cũng bao gồm cả bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo046",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo046|",
+      "ja": "……やめて。",
+      "zh": "……住口。",
+      "vi": "...Im đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro095",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro095|",
+      "ja": "私と共に、来て欲しい。",
+      "zh": "我希望你，能跟我一起同行。",
+      "vi": "Tôi hy vọng bạn có thể đi bộ cùng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo047",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo047|",
+      "ja": "……やめて！",
+      "zh": "……住口！",
+      "vi": "...Im đi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro096",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro096|",
+      "ja": "……【愛している】よ、マーゴ。",
+      "zh": "……【我爱你】，玛格。",
+      "vi": "...[Anh yêu em], Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo048",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo048|",
+      "ja": "……やめてよ！！",
+      "zh": "……住口啊！！",
+      "vi": "...Im đi! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro097",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro097|",
+      "ja": "（……歯の浮くようなセリフだ）",
+      "zh": "（……我这台词真够肉麻的）",
+      "vi": "(…lời thoại của tôi thực sự kinh tởm)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro098",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro098|",
+      "ja": "（普段のマーゴであればこんな偽証<br>　見破られるかもしれないが……）",
+      "zh": "（如果是平时的玛格，<br>\n说不定就能看穿这种伪证了……）",
+      "vi": "(Nếu là Mag thông thường, Có lẽ chúng ta có thể nhìn thấu sự khai man này...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo049",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo049|",
+      "ja": "もう……やめてよ……！<br>私が……何をしたって言うの……！",
+      "zh": "别……别再说了……！<br>\n我……到底做错了什么……！",
+      "vi": "Đừng... ngừng nói...! Chị đã làm gì sai...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo050",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo050|",
+      "ja": "嫌よ……！<br>勝手に私のことを――！",
+      "zh": "不要……！<br>\n别自作主张了——！",
+      "vi": "Đừng...! Đừng tự mình đưa ra quyết định nữa——!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo051",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo051|",
+      "ja": "――【愛さないで】！！",
+      "zh": "——【不要爱我】！！",
+      "vi": "——[Đừng yêu Chị]! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo052",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo052|",
+      "ja": "…………！",
+      "zh": "…………！",
+      "vi": "…………！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Ema004",
+      "speaker_tag": "; > Ema: |#0205Trial09_Ema004|",
+      "ja": "……マーゴちゃん……！",
+      "zh": "……玛格……！",
+      "vi": "...Marg...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro099",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro099|",
+      "ja": "……メルル！ マーゴを……！",
+      "zh": "……梅露露！玛格就拜托你……！",
+      "vi": "...Meruru! Mag, tôi cầu xin bạn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Meruru001",
+      "speaker_tag": "; > Meruru: |#0205Trial09_Meruru001|",
+      "ja": "は、はい……！",
+      "zh": "好、好的……！",
+      "vi": "Được, được...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo053",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo053|",
+      "ja": "――近寄らないでっ！",
+      "zh": "——别靠近我！",
+      "vi": "-Đừng đến gần Chị!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Meruru002",
+      "speaker_tag": "; > Meruru: |#0205Trial09_Meruru002|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo054",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo054|",
+      "ja": "……大丈夫よ。<br>私は、大丈夫。<br>だから……来ないで。",
+      "zh": "……没事的。<br>\n我，没事。<br>\n所以……你别过来。",
+      "vi": "...Không sao đâu. Chị, không sao đâu. Vì thế... đừng đến đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro100",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro100|",
+      "ja": "……マーゴ。",
+      "zh": "……玛格。",
+      "vi": "...Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro101",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro101|",
+      "ja": "君の精神は今、多大な負荷を受けている。",
+      "zh": "你的精神现在正承受着巨大的负担。",
+      "vi": "Tinh thần của bạn lúc này đang phải gánh một gánh nặng rất lớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro102",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro102|",
+      "ja": "無理せずメルルの治療を受けるんだ。",
+      "zh": "别勉强自己，快接受梅露露的治疗吧。",
+      "vi": "Đừng ép buộc bản thân và nhanh chóng chấp nhận cách điều trị của Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo055",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo055|",
+      "ja": "いやよ！",
+      "zh": "我不要！",
+      "vi": "Chị không muốn nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo056",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo056|",
+      "ja": "……本当に、大丈夫なの。<br>耐えられないほどじゃないわ……。",
+      "zh": "……我真的，没事。<br>\n还没到无法忍受的程度……",
+      "vi": "…Chị thực sự, được rồi. Nó vẫn chưa chịu nổi…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo057",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo057|",
+      "ja": "……意地悪ね、ヒロちゃん。<br>あなたにとって私は目的を果たすためのコマ……。",
+      "zh": "……你真坏心眼啊，希罗。<br>\n对你来说我只是达成目的的棋子……",
+      "vi": "...Anh thật xấu tính, Hiro. Đối với em, Chị chỉ là một con tốt để đạt được mục tiêu của em...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo058",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo058|",
+      "ja": "……最初からこうやって、<br>苦しめるつもりだったのね？",
+      "zh": "……你从一开始，就打算<br>\n用这些手段折磨我的吧？",
+      "vi": "...Bạn đã dự định ngay từ đầu Bạn đang dùng những phương pháp này để tra tấn Chị phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro103",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro103|",
+      "ja": "……そうだ。",
+      "zh": "……是的。",
+      "vi": "...vâng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro104",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro104|",
+      "ja": "私は君に、嘘はつかない。",
+      "zh": "我不会对你撒谎。",
+      "vi": "Tôi sẽ không nói dối bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo059",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo059|",
+      "ja": "……そう。",
+      "zh": "……是吗。",
+      "vi": "...Thật sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo060",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo060|",
+      "ja": "ありがとう。<br>……嘘ついたら、殺しちゃう所だったわ。",
+      "zh": "谢谢。<br>\n……刚才如果你撒谎了，那我就真的会动手把你杀了。",
+      "vi": "Cảm ơn em. …Nếu vừa rồi em nói dối thì Chị sẽ giết em thật đấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro105",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro105|",
+      "ja": "……それでこそ、マーゴだ。",
+      "zh": "……这才像你，玛格。",
+      "vi": "...Điều này cũng giống như bạn vậy, Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo061",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo061|",
+      "ja": "……ふふ。<br>いいわ。そうでなくっちゃ。",
+      "zh": "……呵呵。<br>\n很好。就该这样。",
+      "vi": "...hehe. Rất tốt. Đó là cách nó nên được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo062",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo062|",
+      "ja": "覚えてなさい？<br>いつか後悔させてあげるから。",
+      "zh": "你给我记好了？<br>\n总有一天我会让你后悔的。",
+      "vi": "Bạn đã nhớ nó cho Chị chưa? Một ngày nào đó Chị sẽ làm cho em phải hối hận.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro106",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro106|",
+      "ja": "……ああ。<br>その時はよろしく頼む。",
+      "zh": "……嗯。<br>\n到时候就麻烦你了。",
+      "vi": "...Hừm. Vậy thì tôi sẽ làm phiền bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Margo063",
+      "speaker_tag": "; > Margo: |#0205Trial09_Margo063|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro107",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro107|",
+      "ja": "（……己の精神力で、<br>　魔女化するほどの精神負荷を耐えきったか）",
+      "zh": "（……看来她凭借自己的精神力，<br>\n承受住了魔女化所需的精神负担）",
+      "vi": "(...Có vẻ như với sức mạnh tinh thần của chính mình, Chịu được gánh nặng tinh thần cần thiết để trở thành phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro108",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro108|",
+      "ja": "（……メルル、レイア、ノア、マーゴ……<br>　魔女化したのは、私も入れて５人）",
+      "zh": "（……梅露露、蕾雅、诺亚、玛格……<br>\n加上我，一共有5人完成了魔女化）",
+      "vi": "(…Meluru, Leya, Noah, Mag… Bao gồm cả tôi, có tổng cộng 5 người đã hoàn thành việc biến đổi phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro109",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro109|",
+      "ja": "（そろそろ目的を共有しても問題ない頃合いか）",
+      "zh": "（差不多是时候该把我的目的摊开来讲一讲了）",
+      "vi": "(Gần đến lúc nói về mục đích của tôi rồi)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro110",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro110|",
+      "ja": "……マーゴも私の目的について気になっていたようだし、<br>君たちにはここで話しておこう。",
+      "zh": "……玛格她似乎也对我的目的很在意，<br>\n那我现在就把目的告诉你们吧。",
+      "vi": "...Marge có vẻ rất quan tâm đến mục đích của tôi, Vậy thì bây giờ tôi sẽ cho bạn biết mục đích.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro111",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro111|",
+      "ja": "……私は、君たちを魔女化させようとしている。",
+      "zh": "……我，正打算让你们产生魔女化。",
+      "vi": "...Ta đang định biến ngươi thành phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Ema005",
+      "speaker_tag": "; > Ema: |#0205Trial09_Ema005|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Coco002",
+      "speaker_tag": "; > Coco: |#0205Trial09_Coco002|",
+      "ja": "はぁ！？ どゆこと！？",
+      "zh": "哈啊！？什么意思！？",
+      "vi": "Hà! ? Ý nghĩa là gì! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro112",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro112|",
+      "ja": "私のこれまでの話を聞いていたら<br>察することはできるかもしれないが……。",
+      "zh": "如果你们有听进去我至今说过的话，<br>\n也许你们也能察觉到了……",
+      "vi": "Nếu bạn đã nghe những gì tôi đã nói từ đầu đến giờ, Có lẽ bạn cũng có thể nhận thấy nó...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro113",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro113|",
+      "ja": "【私たちがここに連れてこられたこと】……<br>【魔法を使えること】……<br>そして【殺し合いを始めること】……。",
+      "zh": "【我们为什么被带到这里】……<br>\n【为什么能够使用魔法】……<br>\n以及【为什么开始互相残杀】……",
+      "vi": "【Tại sao chúng tôi được đưa đến đây】...... 【Tại sao bạn có thể sử dụng phép thuật】...... Và [tại sao họ bắt đầu giết nhau]...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro114",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro114|",
+      "ja": "これらの破滅的な流れの根本は、<br>黒幕である【大魔女】によって<br>引き起こされたことだ。",
+      "zh": "这些灾难的根源，<br>\n都是由幕后黑手【大魔女】<br>\n引发的。",
+      "vi": "Căn nguyên của những thảm họa này, Tất cả đều do kẻ chủ mưu [Big Witch] thực hiện gây ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro115",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro115|",
+      "ja": "このままでは……<br>全て大魔女の手のひらの上だ。",
+      "zh": "如果再不采取行动……<br>\n一切就只能听任大魔女的摆布了。",
+      "vi": "Nếu không có hành động nào được thực hiện... Mọi chuyện chỉ có thể phó mặc cho mụ phù thủy lớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro116",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro116|",
+      "ja": "私は君たちを救うためにここにいる。",
+      "zh": "而我是来这里拯救你们的。",
+      "vi": "Và tôi ở đây để cứu bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro117",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro117|",
+      "ja": "よって、１３人の【魔女化】した少女を集め、<br>大魔女を呼び出す――。",
+      "zh": "因此，召集13位完成【魔女化】的少女，<br>\n并召唤出大魔女——",
+      "vi": "Vì vậy, chúng tôi đã tập hợp 13 cô gái đã hoàn thành [Biến đổi phù thủy], Và triệu hồi phù thủy vĩ đại——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro118",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro118|",
+      "ja": "それが私の目的だ。",
+      "zh": "就是我的目的。",
+      "vi": "Đó là mục đích của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0205Trial09_Nanoka001|",
+      "ja": "――二階堂ヒロ。",
+      "zh": "——二阶堂希罗。",
+      "vi": "——Hiro。",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro119",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro119|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0205Trial09_Nanoka002|",
+      "ja": "あなたがとても多くのことを知っているのは<br>よくわかったわ。",
+      "zh": "我现在已经明白了，<br>\n你掌握着非常多的情报。",
+      "vi": "Bây giờ tôi đã hiểu, Bạn có rất nhiều thông tin.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0205Trial09_Nanoka003|",
+      "ja": "だから……<br>私はあなたの話を聞かなくてはいけない。",
+      "zh": "所以……<br>\n我有必要听听你是怎么说的。",
+      "vi": "Vậy... Tôi cần nghe những gì bạn nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0205Trial09_Nanoka004|",
+      "ja": "教えてちょうだい。<br>……あなたが知っていること、全てを。",
+      "zh": "请告诉我吧。<br>\n……告诉我，你所知道的一切。",
+      "vi": "Xin vui lòng cho tôi biết. ...nói cho tôi biết mọi điều bạn biết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro120",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro120|",
+      "ja": "（ナノカ……<br>　君は……）",
+      "zh": "（奈叶香……<br>\n你……）",
+      "vi": "(Nayoka... Bạn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial09_Hiro121",
+      "speaker_tag": "; > Hiro: |#0205Trial09_Hiro121|",
+      "ja": "（………）",
+      "zh": "（………）",
+      "vi": "（………）",
+      "objection_links": []
+    }
+  ]
+}

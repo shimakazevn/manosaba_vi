@@ -1,0 +1,192 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Adv21",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Adv21' Naninovel scenario script",
+  "total_entries": 23,
+  "entries": [
+    {
+      "id": "0202Adv21_Narrative001",
+      "speaker_tag": "",
+      "ja": "裁判の後。<br>私はナノカとマーゴの部屋を訪れた。",
+      "zh": "审判结束后。<br>\n我来到奈叶香和玛格的房间。",
+      "vi": "Sau phiên tòa. Tôi đến phòng của Nanoyaka và Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Adv21_Hiro001|",
+      "ja": "（ふたりとも、いなくなってしまったな）",
+      "zh": "（你们两个，都已经不在了）",
+      "vi": "(Hai người không còn ở đây nữa)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Narrative002",
+      "speaker_tag": "",
+      "ja": "私は力なく自身のスマホを取り出す。",
+      "zh": "我无力地拿出自己的手机。",
+      "vi": "Tôi yếu ớt lấy điện thoại di động ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Narrative003",
+      "speaker_tag": "",
+      "ja": "処刑前にナノカが送ってきた、<br>メッセージを確認するつもりだった。",
+      "zh": "打算看看奈叶香被处刑前发给我的消息。<br>",
+      "vi": "Tôi định đọc tin nhắn Nanoyaka gửi cho tôi trước khi cô ấy bị hành quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Narrative004",
+      "speaker_tag": "",
+      "ja": "ナノカからのメッセージを開く。",
+      "zh": "我打开她发来的消息。",
+      "vi": "Tôi mở tin nhắn từ cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Narrative005",
+      "speaker_tag": "",
+      "ja": "メッセージには、<br>動画が<ruby=\"てんぷ\">添付</ruby>されているようだ。",
+      "zh": "里面好像还附带了一份录像。<br>",
+      "vi": "Hình như có video kèm theo.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Adv21_Hiro002|",
+      "ja": "（ナノカ……君は一体、私に何を？）",
+      "zh": "（奈叶香……你究竟想告诉我什么？）",
+      "vi": "(Nayoka...chính xác thì bạn muốn nói gì với tôi?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0202Adv21_Nanoka001|",
+      "ja": "……以上が、私の知る情報の全てよ。",
+      "zh": "……以上就是我知晓的所有情报。",
+      "vi": "...Trên đây là tất cả những thông tin tôi biết.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Narrative006",
+      "speaker_tag": "",
+      "ja": "ナノカが私に残した動画は、<br>牢屋敷にまつわる情報だった。",
+      "zh": "她给我留下的录像<br>\n是有关这座监牢的所有情报。",
+      "vi": "Video cô ấy để lại cho tôi Đó là tất cả thông tin về Ngục Dinh Thự này.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Adv21_Hiro003|",
+      "ja": "（まさか、そんな秘密が……<br>　全ての元凶は【大魔女】……）",
+      "zh": "（没想到竟然隐藏着这样的秘密……<br>\n原来一切的罪魁祸首是【大魔女】……）",
+      "vi": "(Tôi không ngờ một bí mật như vậy lại bị che giấu... Hóa ra thủ phạm của mọi chuyện chính là [Big Witch]...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Adv21_Hiro004|",
+      "ja": "（だがナノカは何故、<br>　私にこんな情報を残したんだ……？）",
+      "zh": "（但奈叶香<br>\n为什么要把这些情报留给我……？）",
+      "vi": "(Nhưng Nanoha Tại sao bạn lại để lại thông tin này cho tôi...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0202Adv21_Nanoka002|",
+      "ja": "きっと、どうして私があなたに情報を送ったのか、<br>不思議に思っているでしょうね。",
+      "zh": "你一定很奇怪，<br>\n为什么我要把情报发送给你吧。",
+      "vi": "Chắc bạn lạ lắm, Tại sao tôi nên gửi thông tin cho bạn?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Narrative007",
+      "speaker_tag": "",
+      "ja": "まるで私の疑問に答えるように、<br>画面の中でナノカは語る。",
+      "zh": "画面中的奈叶香像在回答我的疑问一般<br>\n诉说起来。",
+      "vi": "Nanoyaka trong ảnh dường như đang trả lời câu hỏi của tôi Kể đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0202Adv21_Nanoka003|",
+      "ja": "正直、自分でもよくわからないわ。",
+      "zh": "说实话，我自己也不知道为什么。",
+      "vi": "Thành thật mà nói, tôi không biết tại sao.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0202Adv21_Nanoka004|",
+      "ja": "ただ、あなたならこの牢屋敷の、いえ、<br>魔女の秘密の全てを暴けると思った。",
+      "zh": "不过，我觉得你能够揭露这座监牢，不，<br>\n你能揭露魔女的所有秘密。",
+      "vi": "Tuy nhiên, tôi nghĩ bạn có thể vạch trần Ngục Dinh Thự này, không, Bạn có thể tiết lộ tất cả những bí mật của phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0202Adv21_Nanoka005|",
+      "ja": "だから私に何かあったら、あなたに託す。",
+      "zh": "所以万一我出了什么事，就托付给你了。",
+      "vi": "Vì vậy nếu có chuyện gì xảy ra với tôi, tôi sẽ để lại cho bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0202Adv21_Nanoka006|",
+      "ja": "どうか真実を突き止めて。<br>そしてもうこれ以上、<br>私のような魔女を生み出さないで。",
+      "zh": "请你一定要查明真相。<br>\n还有，<br>\n不要再让像我这样的魔女继续产生了。",
+      "vi": "Hãy chắc chắn để tìm ra sự thật. Ngoài ra, Đừng để những phù thủy như tôi tiếp tục xuất hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Nanoka007",
+      "speaker_tag": "; > Nanoka: |#0202Adv21_Nanoka007|",
+      "ja": "もう誰も、犠牲になってほしくないから。<br>……よろしくね、二階堂ヒロ。",
+      "zh": "因为，我不希望任何人再继续牺牲了。<br>\n……拜托你了，二阶堂希罗。",
+      "vi": "Vì tôi không muốn ai tiếp tục phải hy sinh. …Làm ơn, Nikaidou Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Narrative008",
+      "speaker_tag": "",
+      "ja": "そこで、映像は終わった。",
+      "zh": "录像就此结束。",
+      "vi": "Video kết thúc ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Adv21_Hiro005|",
+      "ja": "……勝手な遺言だ。",
+      "zh": "……真是段任性的遗言。",
+      "vi": "...Thật là một lời cuối cố ý.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Narrative009",
+      "speaker_tag": "",
+      "ja": "声が震えて、私は唇を<ruby=\"か\">噛</ruby>んだ。",
+      "zh": "我用颤抖的声音抱怨道，咬紧嘴唇。",
+      "vi": "Tôi phàn nàn với giọng run run, cắn môi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Narrative010",
+      "speaker_tag": "",
+      "ja": "もし私が距離を置こうとせず、<br>ナノカと協力関係を結んでいたら――",
+      "zh": "如果我选择和奈叶香结盟，<br>\n而不是刻意和她保持距离——",
+      "vi": "Nếu tôi chọn liên minh với Nanoyaka, Thay vì cố tình giữ khoảng cách với cô ấy——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv21_Narrative011",
+      "speaker_tag": "",
+      "ja": "違った未来もあったのかもしれない。",
+      "zh": "也许我们会拥有完全不同的未来。",
+      "vi": "Có lẽ chúng ta sẽ có một tương lai hoàn toàn khác.",
+      "objection_links": []
+    }
+  ]
+}

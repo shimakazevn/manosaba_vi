@@ -1,0 +1,704 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Adv07",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Adv07' Naninovel scenario script",
+  "total_entries": 87,
+  "entries": [
+    {
+      "id": "0205Adv07_Narrative001",
+      "speaker_tag": "",
+      "ja": "その日、私はひとりで牢屋敷の前に立っていた。",
+      "zh": "那天，我独自站在监牢门前。",
+      "vi": "Ngày hôm đó, tôi đứng một mình trước cửa Ngục Dinh Thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro001",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro001|",
+      "ja": "（ずいぶん遅いな……）",
+      "zh": "（真够慢的……）",
+      "vi": "(Nó thực sự chậm...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative002",
+      "speaker_tag": "",
+      "ja": "時間を守れないのは正しくない。<br>苛立ちからつま先を鳴らしてしまう。",
+      "zh": "不守时是错误的。<br>\n焦躁使我忍不住用脚尖不断敲击地面。",
+      "vi": "Không đúng giờ là sai. Sự lo lắng khiến tôi gõ ngón chân xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro002|",
+      "ja": "（早くしないと皆に気付かれて――）",
+      "zh": "（再不快点就要被大家发现了——）",
+      "vi": "(Nếu không nhanh lên, mọi người sẽ phát hiện ra——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Leia001",
+      "speaker_tag": "; > Leia: |#0205Adv07_Leia001|",
+      "ja": "やあヒロくん。<br>ずいぶん焦っているみたいだけど、<br>何かあったのかい？",
+      "zh": "嗨，希罗。<br>\n你看起来很焦急的样子，<br>\n发生什么事了吗？",
+      "vi": "Chào Hiro. Trông bạn rất lo lắng, Chuyện gì đã xảy ra vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative003",
+      "speaker_tag": "",
+      "ja": "――チッと、舌打ちをしてしまう。",
+      "zh": "——啧。我不禁咂嘴。",
+      "vi": "---Chậc. Tôi không khỏi nhếch môi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro003|",
+      "ja": "（よりにもよってレイアか）",
+      "zh": "（怎么偏偏是蕾雅）",
+      "vi": "(Tại sao lại là Leya?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro004|",
+      "ja": "別に何も。<br>私は今日も清く正しく生きているだけだ。",
+      "zh": "没什么。<br>\n我不过是今天也在堂堂正正地活着罢了。",
+      "vi": "Không có gì. Hôm nay tôi chỉ sống một cuộc sống ngay thẳng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Leia002",
+      "speaker_tag": "; > Leia: |#0205Adv07_Leia002|",
+      "ja": "いやでも、ヒロくんは<br>いつもならこの時間屋敷の清掃をしているはず。",
+      "zh": "话虽如此，但平时希罗你<br>\n这个时候应该正在打扫宅邸才对。",
+      "vi": "Nói vậy thôi, thường là Hiro bạn Lẽ ra tôi nên dọn dẹp biệt thự vào lúc này.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro005|",
+      "ja": "……ずいぶん詳しいな。",
+      "zh": "……你知道得还真清楚啊。",
+      "vi": "...Bạn biết điều đó rất rõ ràng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative004",
+      "speaker_tag": "",
+      "ja": "あの最後の裁判から……<br>ユキとメルルが消えてしまって数日が経過していた。",
+      "zh": "距离最后的审判……<br>\n小雪和梅露露消失之后，已经过去数日。",
+      "vi": "Cho đến phán quyết cuối cùng... Đã vài ngày trôi qua kể từ khi Xiaoxue và Meruru biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative005",
+      "speaker_tag": "",
+      "ja": "私たちは魔女の呪い因子から解放され、<br>すぐに帰してもらえると思ったのだが……。",
+      "zh": "我们从魔女的诅咒因子中解放出来，<br>\n原以为能马上就能回家了……",
+      "vi": "Chúng ta được giải thoát khỏi lời nguyền của mụ phù thủy, Tôi nghĩ tôi có thể về nhà sớm...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative006",
+      "speaker_tag": "",
+      "ja": "ゴクチョー<ruby=\"いわ\">曰</ruby>く、<br>私たちは社会的に<ruby=\"まっさつ\">抹殺</ruby>された存在であるため、<br>異例中の異例の存在。",
+      "zh": "据典狱长说，<br>\n我们已经从社会意义上被抹杀了，<br>\n是特例中的特例。",
+      "vi": "Theo quản giáo, Chúng ta đã bị xóa bỏ về mặt xã hội, Đó là một trường hợp đặc biệt trong số các trường hợp đặc biệt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative007",
+      "speaker_tag": "",
+      "ja": "帰る手続きに、数日はかかるとのことだった。",
+      "zh": "所以办理我们回去的手续，需要好几天时间。",
+      "vi": "Vì vậy, sẽ mất vài ngày để làm thủ tục cho sự trở lại của chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative008",
+      "speaker_tag": "",
+      "ja": "仕方なく私たちは、<br>そのまま牢屋敷に<ruby=\"とど\">留</ruby>まり、もう１週間になる。",
+      "zh": "无奈之下，我们只好继续留在监牢，<br>\n已经一个星期了。",
+      "vi": "Trong cơn tuyệt vọng, chúng tôi không còn lựa chọn nào khác ngoài việc ở lại Ngục Dinh Thự, Đã một tuần rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative009",
+      "speaker_tag": "",
+      "ja": "当然、その間私たちは地下牢ではなく、<br>好き勝手な場所に宿泊させてもらっていた。",
+      "zh": "当然，在此期间我们并没有睡在地下牢房，<br>\n而是各自住在自己喜欢的地方。",
+      "vi": "Tất nhiên, chúng tôi không ngủ trong phòng giam dưới lòng đất trong thời gian này, Thay vào đó, mỗi người sống ở nơi mình thích.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Leia003",
+      "speaker_tag": "; > Leia: |#0205Adv07_Leia003|",
+      "ja": "過ごした時間は少なくとも、<br>君との思い出は私の心の中に<br>たくさんあるからね。",
+      "zh": "虽然相处的时间不长，<br>\n但我心中却有很多很多<br>\n与你共度的回忆呢。",
+      "vi": "Mặc dù chúng ta đã không hợp nhau trong một thời gian dài nhưng Nhưng có rất, rất nhiều trong trái tim tôi Những kỷ niệm tôi đã trải qua cùng em.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro006|",
+      "ja": "キラキラしながら言われてもな……。<br>要するに私のストーカーか、君は？",
+      "zh": "就算你用帅气的表情跟我说这个……<br>\n简而言之，你是我的跟踪狂还是什么吗？",
+      "vi": "Ngay cả khi bạn nói với tôi điều này với vẻ mặt đẹp trai... Tóm lại cậu là kẻ theo dõi tôi hay sao vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative010",
+      "speaker_tag": "",
+      "ja": "そうして屋敷の前で<br><ruby=\"やくたい\">益体</ruby>のない会話を交わしていると――",
+      "zh": "就这样，正当我和蕾雅在宅邸前<br>\n有一搭没一搭地聊着——",
+      "vi": "Cứ như vậy, ngay khi Liya và tôi ở trước dinh thự Trò chuyện lần lượt——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative011",
+      "speaker_tag": "",
+      "ja": "遠くから低い音が地鳴りのように響いてきた。",
+      "zh": "远处传来如同地鸣般的低沉声响。",
+      "vi": "Một âm thanh trầm thấp như tiếng gầm của trái đất vang lên từ xa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative012",
+      "speaker_tag": "",
+      "ja": "次第にそれは大きくなり、風がざわつく。<br>上空を見上げれば、いつの間にか黒い影が現れていた。",
+      "zh": "声音逐渐变大，风也开始呼啸。<br>\n抬头望向天空，不知何时出现了一个黑影。",
+      "vi": "Âm thanh dần dần lớn hơn và gió bắt đầu hú. Nhìn lên bầu trời, không biết từ lúc nào một bóng đen xuất hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro007|",
+      "ja": "（ようやく来たか。<br>　ずいぶん遠くに着地するんだな）",
+      "zh": "（总算来了吗。<br>\n降落地点还真远啊）",
+      "vi": "(Cuối cùng nó cũng ở đây à? Nơi hạ cánh thực sự rất xa)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative013",
+      "speaker_tag": "",
+      "ja": "丘の上から見下ろすと、<br>谷間に広がる空間に機体がゆっくりと降りていくのが見えた。",
+      "zh": "从山丘上俯瞰，<br>\n可以看到机体缓缓降落在山谷间的开阔地带。",
+      "vi": "Nhìn từ trên đồi, Có thể thấy máy bay đang chậm rãi hạ cánh ở khu vực trống trải giữa các thung lũng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Sherry001",
+      "speaker_tag": "; > Sherry: |#0205Adv07_Sherry001|",
+      "ja": "あれってヘリじゃありませんか！？",
+      "zh": "那不是直升机吗！？",
+      "vi": "Đó không phải là trực thăng sao? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hanna001",
+      "speaker_tag": "; > Hanna: |#0205Adv07_Hanna001|",
+      "ja": "ようやくお迎えが来たんですの！？",
+      "zh": "终于来接我们了吗！？",
+      "vi": "Cuối cùng bạn đã đến đón chúng Bổn tiểu thư chưa? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro008|",
+      "ja": "（また厄介なのに見つかった……）",
+      "zh": "（又被麻烦的家伙发现了……）",
+      "vi": "(Lại bị phát hiện bởi anh chàng rắc rối...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative014",
+      "speaker_tag": "",
+      "ja": "シェリーとハンナどころではない。<br>騒ぎに気付いた少女たちが、<br>わらわらと全員外に出てきてしまう。",
+      "zh": "不只是雪莉和汉娜。<br>\n注意到骚动的少女们，<br>\n全都吵吵嚷嚷地跑了出来。",
+      "vi": "Không chỉ có Sherry và Hanna. Những cô gái đã nhận thấy sự náo động, Tất cả đều chạy ra ngoài một cách ồn ào.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative015",
+      "speaker_tag": "",
+      "ja": "予定外の事態に、<br>私は大きくため息をついた。",
+      "zh": "面对这意料之外的状况，<br>\n我重重叹了口气。",
+      "vi": "Đối mặt với tình huống bất ngờ này, Tôi thở dài nặng nề.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro009|",
+      "ja": "……ゴクチョーから連絡があって、<br>私が一番初めに帰ることになったんだ。",
+      "zh": "……典狱长通知我，<br>\n让我第一个回去。",
+      "vi": "…Quản giáo đã thông báo cho tôi, Hãy để tôi là người đầu tiên quay trở lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Margo001",
+      "speaker_tag": "; > Margo: |#0205Adv07_Margo001|",
+      "ja": "あら、ひとりずつしか乗せてもらえないの？",
+      "zh": "哎呀，一次只能接一个人走吗？",
+      "vi": "Rất tiếc, em chỉ có thể đón một người một lần được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Coco001",
+      "speaker_tag": "; > Coco: |#0205Adv07_Coco001|",
+      "ja": "えーなんだよー。ずるくね？<br>あてぃしも一緒に乗せてよ。<br>あてぃし早く帰りたいんだからさぁ！",
+      "zh": "欸～搞什么嘛～。太狡猾了吧？<br>\n也带上我一起嘛。<br>\n人家想早点回去啦！",
+      "vi": "Này, bạn đang làm gì vậy? Quá xảo quyệt? Đưa Coco đi cùng với bạn nữa. Coco muốn về sớm!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro010|",
+      "ja": "色々異例だから、あちらも警戒もしているんだろう。<br>帰ってからもしばらくは、<br>何かと拘束されることはあるかもしれない。",
+      "zh": "因为我们的情况从各种意义上来说都是特例，<br>\n他们大概也在警惕我们吧。<br>\n回去后短时间内，也可能会被一定程度上禁足。",
+      "vi": "Bởi vì hoàn cảnh của chúng tôi đặc biệt theo mọi nghĩa của từ này, Có lẽ họ cũng đang cảnh giác với chúng ta. Bạn cũng có thể bị cấm bay ở một mức độ nhất định trong một khoảng thời gian ngắn sau khi trở về.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Miria001",
+      "speaker_tag": "; > Miria: |#0205Adv07_Miria001|",
+      "ja": "そうだよね……。<br>帰宅の判断が出ただけで感謝しないと<br>いけないのかな。",
+      "zh": "说得也是呢……<br>\n也许能允许我们回家<br>\n就该谢天谢地了。",
+      "vi": "Đúng rồi... Có lẽ chúng ta sẽ được phép về nhà Đã đến lúc tạ ơn Chúa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Ema001",
+      "speaker_tag": "; > Ema: |#0205Adv07_Ema001|",
+      "ja": "ヒロちゃん……先に行っちゃうの？",
+      "zh": "希罗……你要先走了吗？",
+      "vi": "Hiro...bạn có muốn rời đi trước không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative016",
+      "speaker_tag": "",
+      "ja": "エマの声に、思わず肩が<ruby=\"は\">跳</ruby>ねた。",
+      "zh": "听到艾玛的声音，我略微一惊。",
+      "vi": "Tôi hơi giật mình khi nghe thấy giọng nói của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro011|",
+      "ja": "ああ……私は先に行く。",
+      "zh": "嗯……我先走了。",
+      "vi": "Ờ...tôi đi trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Noah001",
+      "speaker_tag": "; > Noah: |#0205Adv07_Noah001|",
+      "ja": "なんで教えてくれなかったの？<br>知ってたら、お別れパーティーしたのにな。",
+      "zh": "为什么不告诉我们呀？<br>\n早知道就给你开告别派对了。",
+      "vi": "Tại sao bạn không nói cho chúng Noah biết? Nếu biết sớm hơn Noah đã tổ chức tiệc chia tay cho em rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro012|",
+      "ja": "……湿っぽいのは好きじゃないんだ。",
+      "zh": "……我不喜欢那种伤感的场面。",
+      "vi": "…Tôi không thích khung cảnh ủy mị đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative017",
+      "speaker_tag": "",
+      "ja": "本当は、誰にも気付かれないように<br>こっそりとここを去るつもりだった。",
+      "zh": "其实，我本打算不惊动任何人，<br>\n悄悄离开这里。",
+      "vi": "Thực ra, tôi không có ý định báo động bất cứ ai, Hãy lặng lẽ rời khỏi đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Noah002",
+      "speaker_tag": "; > Noah: |#0205Adv07_Noah002|",
+      "ja": "でも……こんなお別れの仕方、<br>のあさびしいよ。",
+      "zh": "可是……用这种方式告别，<br>\n诺亚好寂寞哦。",
+      "vi": "Nhưng... Nói lời tạm biệt theo cách này, Nô-ê cô đơn quá.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative018",
+      "speaker_tag": "",
+      "ja": "今にも泣きだしそうなノアに、<br>私は歩み寄り、頭にぽんと手を置いた。",
+      "zh": "看着快要哭出来的诺亚，<br>\n我走上前，轻轻地把手放在她的头上。",
+      "vi": "Nhìn Noah sắp khóc, Tôi bước tới và nhẹ nhàng đặt tay lên đầu cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro013|",
+      "ja": "全員連絡先は交換したのだし、<br>すぐにまた会える。",
+      "zh": "我们不是都交换了联系方式吗，<br>\n很快就能再见面的。",
+      "vi": "Không phải tất cả chúng ta đều trao đổi thông tin liên lạc sao? Chúng tôi sẽ gặp lại bạn sớm.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro014|",
+      "ja": "君にも必ず会いに行く。",
+      "zh": "我一定会来见你的。",
+      "vi": "Tôi chắc chắn sẽ đến gặp bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Noah003",
+      "speaker_tag": "; > Noah: |#0205Adv07_Noah003|",
+      "ja": "……うんっ、<br>のあ、ヒロちゃんが来るまでに<br>このお屋敷を虹色にしておくね！",
+      "zh": "……嗯！<br>\n诺亚会在希罗来之前，<br>\n把这座宅邸变成彩虹色的！",
+      "vi": "...Hừm! Nô-ê sẽ đến trước Anh hùng, Biến biệt thự thành màu sắc cầu vồng!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_AnAn001",
+      "speaker_tag": "; > AnAn: |#0205Adv07_AnAn001|",
+      "ja": "……わがはいは虹ではなく、<br>暗黒城みたいにしたいと要望したはず。",
+      "zh": "……吾辈要求的不是彩虹色，<br>\n应该是暗黑城堡才对。",
+      "vi": "...Thứ chúng tôi yêu cầu không phải là màu sắc cầu vồng, Nó phải là Lâu đài bóng tối.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Noah004",
+      "speaker_tag": "; > Noah: |#0205Adv07_Noah004|",
+      "ja": "虹の方がきれいなので、<br>のあの一存で虹に決定しました！",
+      "zh": "彩虹色比较漂亮，<br>\n所以诺亚就自己定为彩虹色啦！",
+      "vi": "Màu sắc cầu vồng đẹp hơn, Vậy là Nô-ê đã tự mình chọn màu cầu vồng!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_AnAn002",
+      "speaker_tag": "; > AnAn: |#0205Adv07_AnAn002|",
+      "ja": "『断固戦う』",
+      "zh": "『坚决斗争』",
+      "vi": "“Chiến đấu kiên quyết”",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative019",
+      "speaker_tag": "",
+      "ja": "……ノアとアンアンは、<br>この屋敷に残ることを決めていた。",
+      "zh": "……诺亚和安安，<br>\n决定留在这座宅邸。",
+      "vi": "...Noah và AnAn, Quyết định ở lại biệt thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Margo002",
+      "speaker_tag": "; > Margo: |#0205Adv07_Margo002|",
+      "ja": "お絵描きもいいけど、<br>２人ともちゃんとお風呂に毎日入るのよ？",
+      "zh": "画画是挺好的，<br>\n但你们俩也要记得每天好好洗澡哦？",
+      "vi": "Vẽ đẹp lắm, Nhưng hai đứa cũng nhớ tắm rửa kỹ mỗi ngày nhé?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Margo003",
+      "speaker_tag": "; > Margo: |#0205Adv07_Margo003|",
+      "ja": "私が一緒に入ってあげてもいいのだけど♡",
+      "zh": "我陪你们一起洗也可以的♡",
+      "vi": "Không sao đâu nếu Chị rửa nó với em♡",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative020",
+      "speaker_tag": "",
+      "ja": "同様に、マーゴも。",
+      "zh": "玛格也同样选择留下。",
+      "vi": "Margo cũng chọn ở lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative021",
+      "speaker_tag": "",
+      "ja": "ノアもアンアンもマーゴも、<br>帰らずここにいたいと思うそれぞれの事情がある。<br>だからそれを止めはしない。",
+      "zh": "诺亚、安安和玛格，<br>\n各自都有选择留在这里而不回去的理由。<br>\n所以我不会阻止她们。",
+      "vi": "Nô-ê, Ann và Margo, Mỗi người đều có lý do riêng khi chọn ở lại đây và không quay trở lại. Vì thế tôi sẽ không ngăn cản họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative022",
+      "speaker_tag": "",
+      "ja": "ただ、気がかりなことはあって、<br>私はマーゴの方を見つめる。",
+      "zh": "只是，还是有些放心不下，<br>\n我看向玛格。",
+      "vi": "Tuy nhiên, tôi vẫn cảm thấy hơi lo lắng, Tôi nhìn Mag.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro015|",
+      "ja": "マーゴ、君には謝らないといけない。",
+      "zh": "玛格，我必须向你道歉。",
+      "vi": "Margo, tôi phải xin lỗi bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro016|",
+      "ja": "私が途中で抜けてしまうのは、<br>君への負担を増やすことになる。",
+      "zh": "我中途离开，<br>\n相当于增加了你的负担。",
+      "vi": "Tôi bỏ dở giữa chừng, Nó tương đương với việc tăng thêm gánh nặng của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Margo004",
+      "speaker_tag": "; > Margo: |#0205Adv07_Margo004|",
+      "ja": "ヒロちゃんが気にするところではないわ。",
+      "zh": "这不是希罗需要担心的问题。",
+      "vi": "Đây không phải là vấn đề mà Hiro cần phải lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Margo005",
+      "speaker_tag": "; > Margo: |#0205Adv07_Margo005|",
+      "ja": "私ね。<br>……外の世界が嫌いなの。<br>それは嘘偽りない本心。",
+      "zh": "我啊。<br>\n……我讨厌外面的世界。<br>\n这是我的真心话，绝无虚假。",
+      "vi": "Chị. …Chị ghét thế giới bên ngoài. Đây là những gì Chị nói một cách chân thành và không có gì sai cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Margo006",
+      "speaker_tag": "; > Margo: |#0205Adv07_Margo006|",
+      "ja": "ここでやれることを見つけたのは<br>私にとっての幸せだと思っているわ。",
+      "zh": "能在这里找到自己力所能及的事，<br>\n我想，这就是我的幸福了。",
+      "vi": "Bạn có thể tìm thấy những gì em có thể làm ở đây, Chị nghĩ, đây chính là hạnh phúc của Chị.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0205Adv07_Nanoka001|",
+      "ja": "……私もしばらくはここに留まって、<br>みんなの看護を続けるから心配しないで。",
+      "zh": "……我也会再在这里留一段时间，<br>\n继续照顾大家的。希罗就别担心了。",
+      "vi": "...Tôi sẽ ở lại đây một thời gian, Hãy luôn quan tâm tới mọi người. Đừng lo lắng, Anh hùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0205Adv07_Nanoka002|",
+      "ja": "いずれは帰るつもりだけど。<br>ここにはあまりにも……辛い記憶が多すぎるから。",
+      "zh": "不过，我也总有一天会回去的。<br>\n因为这里……有太多、太痛苦的回忆了。",
+      "vi": "Tuy nhiên, tôi sẽ quay lại vào một ngày nào đó. Bởi ở đây... có quá nhiều, quá nhiều kỷ niệm quá đau thương.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro017|",
+      "ja": "……そうだな。",
+      "zh": "……是啊。",
+      "vi": "...Phải.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative023",
+      "speaker_tag": "",
+      "ja": "大魔女の呪い因子から解放されたのは、<br>私たちだけではなかった。",
+      "zh": "从大魔女的诅咒因子中解放出来的，<br>\n不仅仅只有我们。",
+      "vi": "Được giải thoát khỏi lời nguyền của Phù thủy vĩ đại, Không chỉ có chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative024",
+      "speaker_tag": "",
+      "ja": "冷凍室に保存されている魔女たちも、<br>呪いから続々と解放されて目覚めはじめたのだ。<br>――看守も、また。",
+      "zh": "保存在冷冻室里的魔女们，<br>\n也陆陆续续从诅咒中苏醒了过来。<br>\n——看守们，也是如此。",
+      "vi": "Phù thủy được cất giữ trong tủ đông, Họ cũng lần lượt tỉnh dậy khỏi lời nguyền. ---Những Cai Ngục cũng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative025",
+      "speaker_tag": "",
+      "ja": "ただそれは決して幸福な状態ばかりではない。<br>多くの少女が混乱の中で深い心の傷を抱え、<br>治療には長い時間が必要だろう。",
+      "zh": "但并不是所有人都处于谈得上是幸福的状态。<br>\n许多少女在混乱中留下了深深的心灵创伤，<br>\n需要漫长的时间去疗愈。",
+      "vi": "Nhưng không phải ai cũng ở trong trạng thái hạnh phúc. Nhiều cô gái đã phải chịu những vết thương tâm lý sâu sắc trong sự hỗn loạn, Phải mất một thời gian dài để chữa lành.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative026",
+      "speaker_tag": "",
+      "ja": "帰る場所がない少女も多くいる。<br>マーゴがこのまま牢屋敷に<ruby=\"とど\">留</ruby>まることを決めたのも、<br>彼女たちの面倒を見る誰かが必要だったからだ。",
+      "zh": "也有很多少女无家可归。<br>\n玛格决定留在这座监牢，<br>\n也是因为需要有人来照顾她们。",
+      "vi": "Ngoài ra còn có rất nhiều cô gái trẻ vô gia cư. Margo quyết định ở lại Ngục Dinh Thự này, Cũng bởi vì cần có ai đó chăm sóc họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative027",
+      "speaker_tag": "",
+      "ja": "ナノカが一歩前へと出てくる。",
+      "zh": "奈叶香向前迈出一步。",
+      "vi": "Nanoyaka tiến lên một bước.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0205Adv07_Nanoka003|",
+      "ja": "心からあなたに感謝しているの。<br>本当にありがとう……二階堂ヒロ。",
+      "zh": "我由衷地感谢你。<br>\n真的非常感谢……二阶堂希罗。",
+      "vi": "Cảm ơn bạn từ tận đáy lòng của tôi. Cảm ơn bạn rất nhiều...Nikaido Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro018|",
+      "ja": "私は感謝されるような立場じゃない。<br>でも、会えて良かったな、本当に。",
+      "zh": "我并没有资格接受感谢。<br>\n但是，能遇见你们真是太好了，真的。",
+      "vi": "Tôi không đáng được cảm ơn. Nhưng thật tuyệt khi được gặp bạn, thực sự.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0205Adv07_Nanoka004|",
+      "ja": "うん。",
+      "zh": "嗯。",
+      "vi": "Ừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative028",
+      "speaker_tag": "",
+      "ja": "ナノカがあどけない笑顔になって、<ruby=\"うなず\">頷</ruby>く。<br>きっと本来の彼女はそういう子なのだろう。",
+      "zh": "奈叶香露出天真无邪的笑容，点了点头。<br>\n或许这才是她本来的样子吧。",
+      "vi": "Nanoyaka nở một nụ cười ngây thơ và gật đầu. Có lẽ đây mới thực sự là cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative029",
+      "speaker_tag": "",
+      "ja": "医務室のベッドの<ruby=\"かたわ\">傍</ruby>らで、<br>無邪気な笑顔で姉に話しかけるナノカの姿を<br>何度も見かけたのだから。",
+      "zh": "因为我曾好几次看到<br>\n她在医务室的病床旁，和姐姐说话时<br>\n纯真地笑着的样子。",
+      "vi": "Vì tôi đã xem nhiều lần Cô ấy đang ở bên giường bệnh xá, nói chuyện với chị gái Cách anh ấy cười một cách ngây thơ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Alisa001",
+      "speaker_tag": "; > Alisa: |#0205Adv07_Alisa001|",
+      "ja": "ぐすっ……さっさと行けよ二階堂。<br>なんか変な空気になってきただろ。",
+      "zh": "呜……你赶紧走吧二阶堂。<br>\n气氛都奇怪起来了。",
+      "vi": "Ugh... mày nên rời đi nhanh lên, Nikaido. Bầu không khí trở nên kỳ lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro019|",
+      "ja": "アリサ。君はうちに帰れ。",
+      "zh": "亚里沙。你要好好回家才行。",
+      "vi": "Alisa. Bạn phải về nhà thật tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Alisa002",
+      "speaker_tag": "; > Alisa: |#0205Adv07_Alisa002|",
+      "ja": "わかってるよ！<br>最後まで委員長みたいなこと言いやがって！",
+      "zh": "我知道啦！<br>\n到最后了还像个班长一样说教！",
+      "vi": "Tao biết! Cuối cùng, ông ấy đã giảng như một người giám sát!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Alisa003",
+      "speaker_tag": "; > Alisa: |#0205Adv07_Alisa003|",
+      "ja": "必ず帰るよ。<br>家族に会いたいって、今は思ってるから。",
+      "zh": "我一定会回去的。<br>\n因为现在的我已经变了，我想见到亲人。",
+      "vi": "Tao chắc chắn sẽ quay trở lại. Bởi vì bây giờ Tao đã thay đổi và Tao muốn gặp lại người thân của Tao.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Sherry002",
+      "speaker_tag": "; > Sherry: |#0205Adv07_Sherry002|",
+      "ja": "そうですね。私も、<br>ここで過ごしてたくさん色々な経験をして、<br>なんだか家族の大切さに気付けた気がします！",
+      "zh": "说得对呢。我也是，<br>\n在这里经历了很多很多事情，<br>\n总觉得好像体会到了亲人的珍贵！",
+      "vi": "Đúng vậy. Tôi cũng vậy, Tôi đã trải nghiệm rất nhiều điều ở đây, Tôi luôn cảm thấy như mình nhận ra sự quý giá của những người thân yêu của mình!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Sherry003",
+      "speaker_tag": "; > Sherry: |#0205Adv07_Sherry003|",
+      "ja": "だから、帰ったら<br>たくさん甘えてみようかなって思ってます。",
+      "zh": "所以，回去之后，<br>\n我想好好地跟家里人撒撒娇。",
+      "vi": "Vì vậy, sau khi quay lại, Tôi muốn hành động quyến rũ với gia đình mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Coco002",
+      "speaker_tag": "; > Coco: |#0205Adv07_Coco002|",
+      "ja": "甘えんじゃなくて恩返ししろっつの。<br>ああ、早くあてぃしもお迎えこねーかなー。<br>ようやく推しに会える！！",
+      "zh": "不是撒娇，是好好报答家人吧我说。<br>\n啊啊，怎么还不来接人家啊～<br>\n终于能见到我推了！！",
+      "vi": "Coco không phải đang làm nũng, Coco đang nói là hãy trả ơn gia đình cậu thật tốt. À sao anh chưa đến đón em~ Cuối cùng đã nhìn thấy Coco đẩy! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Miria002",
+      "speaker_tag": "; > Miria: |#0205Adv07_Miria002|",
+      "ja": "ココちゃんは偉いね。<br>おじさんも、帰ったら感謝を伝えたい人がいるんだ。<br>あと……。",
+      "zh": "小可真了不起呢。<br>\n大叔我也是，回去之后有想要亲自传达感谢的人呢。<br>\n还有……",
+      "vi": "Xiaoke thực sự tuyệt vời. Em cũng vậy bác ạ. Có những người mà Miria muốn trực tiếp bày tỏ lòng biết ơn sau khi Miria trở về nhà. Và...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Miria003",
+      "speaker_tag": "; > Miria: |#0205Adv07_Miria003|",
+      "ja": "帰った後も、<br>おじさんたちは友だちだよね？",
+      "zh": "回去之后，<br>\n我们也还是朋友吧？",
+      "vi": "Sau khi quay lại, Chúng ta vẫn là bạn bè phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Sherry004",
+      "speaker_tag": "; > Sherry: |#0205Adv07_Sherry004|",
+      "ja": "当然です！ みんなで集まりましょうね！",
+      "zh": "当然！大家一定要出来聚哦！",
+      "vi": "Tất nhiên! Mọi người phải ra ngoài và tập hợp lại với nhau!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hanna002",
+      "speaker_tag": "; > Hanna: |#0205Adv07_Hanna002|",
+      "ja": "お茶会をする約束ですわ！<br>わたくしの豪勢なおうち……ではなく、<br>レイアさんのお家で！",
+      "zh": "约好了要开茶会的哇！<br>\n在我那豪华的宅邸……不对，<br>\n是在蕾雅家！",
+      "vi": "Chúng Bổn tiểu thư có hẹn đi uống trà! Trong biệt thự sang trọng của Bổn tiểu thư... Không, Nó ở nhà của Leya!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Leia004",
+      "speaker_tag": "; > Leia: |#0205Adv07_Leia004|",
+      "ja": "はははは、好きに使ってもらって構わないよ。",
+      "zh": "哈哈哈哈，随时欢迎你们，当自己家就行。",
+      "vi": "Hahahaha, lúc nào cũng được chào đón, cứ coi đó như nhà của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative030",
+      "speaker_tag": "",
+      "ja": "わいわいと騒ぐ面々を見ていると、<br>いつまでもここを離れられなくなりそうだった。",
+      "zh": "看着大家这样你一言我一语的，<br>\n感觉好像永远也离不开这里了。",
+      "vi": "Thấy mọi người nói chuyện với nhau thế này, Cảm giác như tôi không bao giờ có thể rời khỏi đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Narrative031",
+      "speaker_tag": "",
+      "ja": "私は<ruby=\"きびす\">踵</ruby>を返し、そっと歩きだす。<br>ヘリの着地点まで行くつもりだった。",
+      "zh": "我转过身，趁大家不注意，悄悄迈开脚步。<br>\n我打算前往直升机的降落地点。",
+      "vi": "Tôi quay lại và lặng lẽ bước về phía trước trong khi không có ai chú ý. Tôi đang định đi tới nơi chiếc trực thăng đang hạ cánh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro020|",
+      "ja": "（みんな……さようなら）",
+      "zh": "（大家……再见了）",
+      "vi": "(Mọi người...tạm biệt)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv07_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Adv07_Hiro021|",
+      "ja": "（さようなら、エマ）",
+      "zh": "（再见了，艾玛）",
+      "vi": "(Tạm biệt, Ema)",
+      "objection_links": []
+    }
+  ]
+}

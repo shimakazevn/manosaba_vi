@@ -1,0 +1,927 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Trial03",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Trial03' Naninovel scenario script",
+  "total_entries": 114,
+  "entries": [
+    {
+      "id": "0202Trial03_Ema001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial03_Ema001|",
+      "ja": "ボクはヒロちゃんに<br>呼び出されて、<br>シャワールームにいたんだ。",
+      "zh": "在希罗的<br>\n邀请下，<br>\n我去了淋浴房。",
+      "vi": "ở Hilo Theo lời mời, Tôi đi vào phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial03_Ema002|",
+      "ja": "でも<link=\"Objection_02_02_03_01\">時間</link>になっても、<br>ヒロちゃんはこなかった……。",
+      "zh": "可是到了<link=\"Objection_02_02_03_01\">约定时间</link><br>\n她也没有来……",
+      "vi": "Nhưng vào <link=\"Objection_02_02_03_01\"> thời gian đã hẹn</link>_TAG_2__ Cô ấy cũng không đến...",
+      "objection_links": [
+        "Objection_02_02_03_01"
+      ]
+    },
+    {
+      "id": "0202Trial03_Ema003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial03_Ema003|",
+      "ja": "ヒロちゃんは<br>ボクを疑ってるけど<br>そんなことありえないよ。",
+      "zh": "虽然她<br>\n在怀疑我，<br>\n但我不可能是凶手。",
+      "vi": "Mặc dù cô ấy Nghi ngờ tôi, Nhưng tôi không thể là kẻ sát nhân được.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial03_Ema004|",
+      "ja": "だってヒロちゃんが<br>来たときだって、<br>シャワールームに<br>ココちゃんは<br><link=\"Objection_02_02_03_02\">いなかった</link>んだよ？",
+      "zh": "因为她<br>\n来的时候<br>\n可可也<br>\n<br>\n<link=\"Objection_02_02_03_02\">不在</link>淋浴房里啊？",
+      "vi": "Bởi vì cô ấy Khi nó đến Ca cao <link=\"Objection_02_02_03_02\"> không ở trong phòng tắm </link> phải không?",
+      "objection_links": [
+        "Objection_02_02_03_02"
+      ]
+    },
+    {
+      "id": "0202Trial03_Ema005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial03_Ema005|",
+      "ja": "そして当然、<br>そこには<br>死体もなかった……。",
+      "zh": "当然了，<br>\n里面也没有<br>\n尸体……",
+      "vi": "Tất nhiên, Cũng không có trong đó xác chết...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial03_Ema006|",
+      "ja": "なのにヒロちゃんは<br>ボクを疑ってるんだ。",
+      "zh": "但她<br>\n却怀疑我。",
+      "vi": "Nhưng cô ấy Nhưng lại nghi ngờ tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial03_Ema007|",
+      "ja": "そんなの、<br>おかしいよね。",
+      "zh": "这也<br>\n太奇怪了吧。",
+      "vi": "Đây cũng là Thật kỳ lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial03_Ema008|",
+      "ja": "ヒロちゃんは<br>ボクに罪を<br>なすりつけるために、<br>シャワールームに<br>呼び出した……。",
+      "zh": "她为了<br>\n把罪行<br>\n嫁祸给我<br>\n才把我叫到<br>\n淋浴房……",
+      "vi": "Cô ấy đã làm điều đó vì Bỏ tội Đổ lỗi cho tôi Vừa gọi cho tôi tới Phòng tắm...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema009",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial03_Ema009|",
+      "ja": "そしてヒロちゃんは<br>ボクを犯人に<br>仕立て上げるために、<br>偽装工作をしてたんだよ！",
+      "zh": "然后她做了<br>\n一系列伪装工作<br>\n就为了诬陷<br>\n我是凶手！",
+      "vi": "Sau đó cô ấy đã làm Một loạt công việc cải trang Chỉ để đóng khung Tôi là một kẻ giết người!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema010",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial03_Ema010|",
+      "ja": "そしてヒロちゃんは<br>あの<link=\"Objection_02_02_03_03\">ダストシュート</link>や<br><link=\"Objection_02_02_03_04\">落書き</link>で<br>ボクを犯人に<br>仕立て上げようと、<br>あらかじめ偽装工作を<br>してたんだよ！",
+      "zh": "她事先<br>\n对<link=\"Objection_02_02_03_03\">垃圾滑槽</link><br>\n动了手脚，<br>\n用墙面<br>\n<link=\"Objection_02_02_03_04\">涂鸦</link><br>\n伪造证据，<br>\n好诬陷我是凶手！",
+      "vi": "Cô ấy trước Đúng<link=\"Objection_02_02_03_03\">máng đổ rác</link> Đã cử động được tay chân, Sử dụng tường <link=\"Objection_02_02_03_04\">Graffiti</link> Bằng chứng giả mạo, Làm thế nào để đóng khung tôi như một kẻ giết người!",
+      "objection_links": [
+        "Objection_02_02_03_03",
+        "Objection_02_02_03_04"
+      ]
+    },
+    {
+      "id": "0202Trial03_Ema011",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial03_Ema011|",
+      "ja": "全部、<br>ヒロちゃんの<br>仕業なんだ……！",
+      "zh": "这一切<br>\n都是希罗的<br>\n阴谋……！",
+      "vi": "Tất cả điều này Họ đều là Anh hùng Âm mưu...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro001|",
+      "ja": "（無理筋な意見を強引にねじこんでも、<br>　私の印象が悪化してしまう）",
+      "zh": "（强行提出不合理的意见<br>\n也只会拉低大家对我的印象）",
+      "vi": "(Ép buộc những ý kiến vô lý Nó sẽ chỉ làm giảm ấn tượng của mọi người về tôi mà thôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro002|",
+      "ja": "（とはいえ、疑問があれば追求せざるをえないな）",
+      "zh": "（但话虽如此，有疑问的地方还是得追查清楚）",
+      "vi": "(Nhưng đã nói vậy thì vẫn phải điều tra xem có nghi ngờ gì không)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro003|",
+      "ja": "（……どうせエマの話は嘘だ。<br>　無理な嘘には矛盾が生じるだろう）",
+      "zh": "（……反正艾玛说的是谎话。<br>\n编造的谎言一定会出现矛盾）",
+      "vi": "(…Dù sao thì những gì Ema nói cũng là dối trá. Chắc chắn sẽ có mâu thuẫn trong những lời nói dối bịa đặt)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro004|",
+      "ja": "（エマを攻撃できるのであれば、<br>　嘘をついてでも攻め手を緩めるつもりはない……！）",
+      "zh": "（只要有机会进攻艾玛，<br>\n哪怕说谎我也决不会手下留情……！）",
+      "vi": "(Chỉ cần có cơ hội tấn công Ema, Kể cả khi bạn nói dối, tôi sẽ không bao giờ tỏ ra thương xót...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Choice001",
+      "speaker_tag": "; > @choice |#0202Trial03_Choice001| button:ChoiceButtons/Trial/Question handler:TrialHiro",
+      "ja": "その間、何をしていた？",
+      "zh": "这段时间里，你在做什么？",
+      "vi": "Bạn đang làm gì trong thời gian này?",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Choice002",
+      "speaker_tag": "; > @choice |#0202Trial03_Choice002| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "見逃した",
+      "zh": "是我没看见她",
+      "vi": "Tôi không nhìn thấy cô ấy",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Choice003",
+      "speaker_tag": "; > @choice |#0202Trial03_Choice003| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "ダストシュートは壊れてなかった",
+      "zh": "垃圾滑槽并没有坏掉",
+      "vi": "Máng rác không bị hỏng",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Choice004",
+      "speaker_tag": "; > @choice |#0202Trial03_Choice004| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "落書きなんてなかった",
+      "zh": "根本没有涂鸦",
+      "vi": "không có hình vẽ bậy nào cả",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro005|",
+      "ja": "……その間、何をしていた？",
+      "zh": "……这段时间里，你在做什么？",
+      "vi": "...Bạn đang làm gì trong thời gian này?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema012",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema012|",
+      "ja": "……べつに何も。",
+      "zh": "……没做什么。",
+      "vi": "...không làm gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema013",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema013|",
+      "ja": "シャワールームでヒロちゃんを待ってただけだよ。",
+      "zh": "我只是在淋浴房等你而已。",
+      "vi": "Tôi đang đợi bạn trong phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro006|",
+      "ja": "ただぼーっとしていたというのか？",
+      "zh": "你是说一直在那里发呆？",
+      "vi": "Ý bạn là bạn đã choáng váng ở đó?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema014",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema014|",
+      "ja": "それは……壁に描かれた落書きを見てて……。",
+      "zh": "呃……我在看墙壁上的涂鸦……",
+      "vi": "Uh... Tôi đang nhìn bức vẽ graffiti trên tường...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema015",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema015|",
+      "ja": "……そういえば<br>ヒロちゃんが来る少し前、<br>【小さな破裂音】が聞こえたかな……。",
+      "zh": "……说起来，<br>\n就在你来之前，<br>\n我好像听到了【轻微的破裂声】……",
+      "vi": "...Nói đến đây, Ngay trước khi bạn đến, Tôi dường như nghe thấy [âm thanh nứt nhẹ]...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema016",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema016|",
+      "ja": "今思い返すと、<br>それはヒロちゃんがココちゃんを撃った<br>【銃声】だったのかもしれない。",
+      "zh": "现在想一想，<br>\n那可能就是你<br>\n射杀可可的【枪声】。",
+      "vi": "Bây giờ hãy nghĩ về điều đó, Đó có thể là bạn [Tiếng súng] đã giết chết Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro007|",
+      "ja": "シャワールームで自分が発砲した時の音なんじゃないか。",
+      "zh": "难道不是你自己在淋浴房开枪的声音吗。",
+      "vi": "Đó không phải là âm thanh bạn bắn súng trong phòng tắm sao.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema017",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema017|",
+      "ja": "そんなことないよ……！",
+      "zh": "我才没有……！",
+      "vi": "Tôi không...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema018",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema018|",
+      "ja": "シャワールームには血もないし、<br>撃たれたような痕跡だってなかった……！",
+      "zh": "淋浴房里没有血迹，<br>\n更没有疑似枪击的痕迹……！",
+      "vi": "Không có máu trong phòng tắm, Không có dấu hiệu nghi ngờ về tiếng súng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Miria001",
+      "speaker_tag": "; > Miria: |#0202Trial03_Miria001|",
+      "ja": "たしかに……おじさんもシャワールームを調べたけど、<br>そういう痕跡はなかったかな？",
+      "zh": "确实……大叔我也调查了一下淋浴房，<br>\n但好像没有这样的痕迹。",
+      "vi": "Quả thực...Bác ơi, cháu cũng đã điều tra phòng tắm rồi, Nhưng hình như không có dấu vết nào như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Miria002",
+      "speaker_tag": "; > Miria: |#0202Trial03_Miria002|",
+      "ja": "あとは落書きがされてて……。",
+      "zh": "除此以外就是涂鸦了……",
+      "vi": "Ngoài ra, nó chỉ là hình vẽ bậy…",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema019",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema019|",
+      "ja": "……それに、ダストシュートも壊れてたよ。",
+      "zh": "……而且垃圾滑槽也坏掉了。",
+      "vi": "…và máng đổ rác đã bị hỏng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema020",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema020|",
+      "ja": "けどそれは事件の前から壊れてたんだ。<br>もちろんボクは何もしてない……！",
+      "zh": "但是它在案件发生前就坏了。<br>\n当然我什么都没做……！",
+      "vi": "Nhưng nó đã vỡ trước vụ án. Tất nhiên là tôi không làm gì cả...!",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro008|",
+      "ja": "（……時系列について矛盾はなさそうだ）",
+      "zh": "（……时间顺序上似乎也没什么矛盾）",
+      "vi": "(…dường như không có sự mâu thuẫn nào về thứ tự thời gian)",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_002",
+      "speaker_tag": "; > @toast |#Toast_002|",
+      "ja": "議論発展…",
+      "zh": "讨论前进…",
+      "vi": "Cuộc thảo luận đang tiến triển…",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro009|",
+      "ja": "それは私が見逃しただけだ。",
+      "zh": "那只是我没发现她罢了。",
+      "vi": "Chỉ là tôi không tìm thấy cô ấy thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro010|",
+      "ja": "本当はシャワールームのどこかにココがいたんだよ。<br>エマが隠していた可能性も――。",
+      "zh": "其实可可就在淋浴房的某个地方。<br>\n也有可能是艾玛你藏起来——",
+      "vi": "Thực ra, Coco đang ở đâu đó trong phòng tắm. Cũng có thể là Ema mà bạn đang trốn——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Noah001",
+      "speaker_tag": "; > Noah: |#0202Trial03_Noah001|",
+      "ja": "でもヒロちゃんは<br>ココちゃんの配信を見てシャワールームに探しに行ったんだよね？",
+      "zh": "但你看到可可的直播后<br>\n就来淋浴房找她了对吧？",
+      "vi": "Nhưng sau khi bạn xem buổi phát sóng trực tiếp của Coco Chỉ cần đến phòng tắm để tìm cô ấy thôi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Noah002",
+      "speaker_tag": "; > Noah: |#0202Trial03_Noah002|",
+      "ja": "だったらもしシャワールームにココちゃんがいたら<br>見逃すはずないんじゃないかな？",
+      "zh": "如果她真的在淋浴房里<br>\n你不可能没看到她吧？",
+      "vi": "Nếu cô ấy thực sự đang tắm Bạn không thể bỏ lỡ cô ấy, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_AnAn001",
+      "speaker_tag": "; > AnAn: |#0202Trial03_AnAn001|",
+      "ja": "……本当に見逃していたのだとしたら。",
+      "zh": "……如果真的是你没发现。",
+      "vi": "...Nếu đúng là bạn không tìm thấy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_AnAn002",
+      "speaker_tag": "; > AnAn: |#0202Trial03_AnAn002|",
+      "ja": "今後、二階堂ヒロの証言は信用できない。",
+      "zh": "吾辈就再也不会相信二阶堂希罗的证词。",
+      "vi": "Chúng tôi sẽ không bao giờ tin vào lời khai của Nikaido Hiro nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Noah003",
+      "speaker_tag": "; > Noah: |#0202Trial03_Noah003|",
+      "ja": "たしかにそうかも……。",
+      "zh": "说得也有道理……",
+      "vi": "Điều đó có lý...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro011|",
+      "ja": "（……発言の信用性が損なわれてしまったか）",
+      "zh": "（……结果降低了自己证词的可信度）",
+      "vi": "(…kết quả là làm giảm độ tin cậy của lời khai của chính một người)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro012|",
+      "ja": "（ここはひとまず、<br>　エマがボロを出すまで情報を引き出すのが先決だ……）",
+      "zh": "（眼下首要的是<br>\n套取有用的信息，让艾玛露出马脚……）",
+      "vi": "(Mức độ ưu tiên hiện tại là Trích xuất thông tin hữu ích và vạch trần những sai sót của Ema...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro013|",
+      "ja": "（私の記憶とエマの発言との間で少しでも食い違いがあれば、<br>　嘘をついてでも追い詰めてみせる……！）",
+      "zh": "（只要我的记忆和艾玛的发言间有一丝偏差，<br>\n哪怕说谎我也要追究到底……！）",
+      "vi": "(Chỉ cần có một chút khác biệt giữa trí nhớ của tôi và lời nói của Ema, Dù em có nói dối thì anh cũng sẽ theo đuổi đến cùng...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro014",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro014|",
+      "ja": "……シャワールームに落書きなんてあっただろうか。",
+      "zh": "……淋浴房里真的有涂鸦吗。",
+      "vi": "…Có thực sự có hình vẽ bậy trong phòng tắm không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro015",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro015|",
+      "ja": "もしかするとただの勘違いじゃ……。",
+      "zh": "该不会只是你看错了吧……",
+      "vi": "Chẳng lẽ là ngươi nhìn lầm rồi sao...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Sherry001",
+      "speaker_tag": "; > Sherry: |#0202Trial03_Sherry001|",
+      "ja": "ありましたよ！",
+      "zh": "有的哦！",
+      "vi": "Vâng!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Miria003",
+      "speaker_tag": "; > Miria: |#0202Trial03_Miria003|",
+      "ja": "おじさんも確認してるけど、<br>たしかに落書きは描かれてたね。",
+      "zh": "大叔我也确认过了，<br>\n里面确实有涂鸦。",
+      "vi": "Bác ơi, cháu cũng đã xác nhận rồi, Thực sự có graffiti trong đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia001",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia001|",
+      "ja": "ヒロくん、どうしてそんな嘘を……？",
+      "zh": "希罗，为什么你要撒这种谎……？",
+      "vi": "Hiro, tại sao cậu lại nói dối như vậy...?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro016",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro016|",
+      "ja": "（……すぐにわかる嘘だったな）",
+      "zh": "（……这谎言太低级了）",
+      "vi": "(...Lời nói dối này ở cấp độ quá thấp)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro017",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro017|",
+      "ja": "（ここはひとまず、<br>　エマがボロを出すまで情報を引き出すのが先決だ……）",
+      "zh": "（眼下首要的是<br>\n套取有用的信息，让艾玛露出马脚……）",
+      "vi": "(Mức độ ưu tiên hiện tại là Trích xuất thông tin hữu ích và vạch trần những sai sót của Ema...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro018",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro018|",
+      "ja": "（私の記憶とエマの発言との間で少しでも食い違いがあれば、<br>　嘘をついてでも追い詰めてみせる……！）",
+      "zh": "（只要我的记忆和艾玛的发言间有一丝偏差，<br>\n哪怕说谎我也要追究到底……！）",
+      "vi": "(Chỉ cần có một chút khác biệt giữa trí nhớ của tôi và lời nói của Ema, Dù em có nói dối thì anh cũng sẽ theo đuổi đến cùng...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro019",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro019|",
+      "ja": "私がダストシュートに細工をしたなんて、<br>酷い難癖だ。",
+      "zh": "居然说我对垃圾滑槽动手脚，<br>\n这简直就是无理取闹。",
+      "vi": "Họ thực sự đã nói rằng tôi đã can thiệp vào máng đổ rác, Điều này đơn giản là không hợp lý.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema021",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema021|",
+      "ja": "難癖なんかじゃないよ。<br>ボクは見たんだ。",
+      "zh": "我没有无理取闹。<br>\n我亲眼看到了。",
+      "vi": "Tôi không phải là vô lý. Tôi đã nhìn thấy nó bằng chính mắt mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro020",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro020|",
+      "ja": "……いいや。<br>私が今朝シャワールームに行ったとき<br>ダストシュートは壊れてなんていなかった。",
+      "zh": "……不可能。<br>\n我今天早上去淋浴房的时候<br>\n垃圾滑槽还是好的。",
+      "vi": "...không thể được. Khi tôi đi tắm sáng nay Máng rác vẫn còn tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro021",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro021|",
+      "ja": "そもそも、ダストシュートが壊れていたなんて<br>誰か確認しているのかな？",
+      "zh": "再说了，<br>\n真的有人确认过垃圾滑槽坏掉了吗？",
+      "vi": "Ngoài ra, Có ai thực sự xác nhận rằng máng rác bị hỏng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema022",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema022|",
+      "ja": "そ、それは……！",
+      "zh": "这、这……！",
+      "vi": "Cái này, cái này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro022",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro022|",
+      "ja": "（あの細工は見ただけではわからないようにしていた）",
+      "zh": "（我做手脚的时候很小心，光看表面上是看不出来的）",
+      "vi": "(Tôi rất cẩn thận khi làm tay chân. Nhìn bề ngoài thì không thể biết được)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro023",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro023|",
+      "ja": "（エマが気付いたということは、<br>　ダストシュートを使ったということだ）",
+      "zh": "（既然艾玛会注意到，<br>\n就说明她用过垃圾滑槽）",
+      "vi": "(Vì Ema sẽ nhận thấy, Có nghĩa là cô ấy đã sử dụng máng rác)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro024",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro024|",
+      "ja": "（やはりエマが犯人に違いない――）",
+      "zh": "（看来她果然就是凶手——）",
+      "vi": "(Có vẻ như cô ấy thực sự là kẻ giết người——)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Miria004",
+      "speaker_tag": "; > Miria: |#0202Trial03_Miria004|",
+      "ja": "あっ……。<br>それならおじさんも見てるよ。",
+      "zh": "啊……<br>\n大叔我也看到了哦。",
+      "vi": "À... Bác ơi em cũng thấy thế",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Miria005",
+      "speaker_tag": "; > Miria: |#0202Trial03_Miria005|",
+      "ja": "ダストシュートのフタ……<br>外れてたんだよね。",
+      "zh": "垃圾滑槽的盖子……<br>\n掉下来了对吧。",
+      "vi": "Nắp máng đổ rác... Nó rơi ra rồi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro025",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro025|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro026",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro026|",
+      "ja": "……詳しく聞かせてもらっていいかな。",
+      "zh": "……可以请你详细说说吗。",
+      "vi": "…Bạn có thể vui lòng giải thích thêm về điều này được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Miria006",
+      "speaker_tag": "; > Miria: |#0202Trial03_Miria006|",
+      "ja": "う、うん。",
+      "zh": "嗯、嗯。",
+      "vi": "Ừm, ừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Miria007",
+      "speaker_tag": "; > Miria: |#0202Trial03_Miria007|",
+      "ja": "エマちゃんが言った通り、壊れてたのは本当だよ。",
+      "zh": "正如艾玛所说，垃圾滑槽确实坏掉了。",
+      "vi": "Như Ema đã nói, máng rác quả thực đã bị hỏng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Miria008",
+      "speaker_tag": "; > Miria: |#0202Trial03_Miria008|",
+      "ja": "誰が見てもわかるぐらい、<br>完全に壊れてフタが外れちゃってたね！",
+      "zh": "坏得很明显，一看就知道，<br>\n整个盖子都掉了！",
+      "vi": "Rõ ràng là tệ, nhìn thoáng qua là bạn có thể biết, Toàn bộ nắp rơi ra!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema023",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema023|",
+      "ja": "……ヒロちゃんがシャワールームに来たときは<br>慌ててたみたいだし、<br>奥まで確認しなかったけど……。",
+      "zh": "……希罗你来淋浴房的时候<br>\n看起来很慌张，<br>\n所以没有到房间里面检查……",
+      "vi": "...Hiro, khi anh vào phòng tắm Có vẻ hoảng sợ, Vì thế tôi đã không kiểm tra bên trong phòng...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema024",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema024|",
+      "ja": "あのとき、ダストシュートのフタはなかったんだ。",
+      "zh": "但那时，垃圾滑槽的盖子就已经不在上面了。",
+      "vi": "Nhưng lúc đó, nắp thùng rác đã không còn nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro027",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro027|",
+      "ja": "（……見逃していた……のか）",
+      "zh": "（……是我没注意到……吗……）",
+      "vi": "(...Mình không để ý sao...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro028",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro028|",
+      "ja": "（しかし……妙だな）",
+      "zh": "（可是……好奇怪）",
+      "vi": "(Nhưng... lạ quá)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro029",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro029|",
+      "ja": "（……私が細工をしたのは<br>　留め具を外れやすくしただけ）",
+      "zh": "（……我应该只是把<br>\n固定螺丝弄松了一点）",
+      "vi": "(...Mình chỉ nên đặt Vít cố định hơi lỏng)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro030",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro030|",
+      "ja": "（エマを殺したあとで、<br>　それが事故であったと見せかけるためだ）",
+      "zh": "（这是为了杀害艾玛后<br>\n伪造成意外死亡做的准备）",
+      "vi": "(Cái này dành cho sau khi giết Ema Giả chuẩn bị gây chết người do tai nạn)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro031",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro031|",
+      "ja": "（ミリアの証言によれば、<br>　そのあとに本当に壊れていたということになる）",
+      "zh": "（根据米莉亚的证词，<br>\n那之后滑槽真的坏掉了）",
+      "vi": "(Theo lời khai của Miria, Máng thực sự bị vỡ sau đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro032",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro032|",
+      "ja": "（なら……<br>　犯行後の死体の行方もそれでわかるのかもしれない……）",
+      "zh": "（那么……<br>\n说不定可以由此推测尸体的去向……）",
+      "vi": "(Sau đó... Có lẽ chúng ta có thể suy ra nơi ở của thi thể từ điều này...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro033",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro033|",
+      "ja": "なるほどね。<br>……つまりこういうことか。",
+      "zh": "原来如此。<br>\n……我明白了。",
+      "vi": "Thế thôi. ...Tôi hiểu.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro034",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro034|",
+      "ja": "……【エマはダストシュートを使って死体を隠した】。",
+      "zh": "……【艾玛用垃圾滑槽把尸体藏了起来】。",
+      "vi": "…[Ema giấu xác trong máng rác].",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro035",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro035|",
+      "ja": "つまり殺したあと、<br>エマはダストシュートに死体を投げ入れたんだ。",
+      "zh": "就是说她杀死可可后<br>\n把尸体扔进了垃圾滑槽里。",
+      "vi": "Tức là sau khi cô ấy giết Coco Thi thể bị ném vào thùng rác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro036",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro036|",
+      "ja": "死体を隠すのに使ったときに<br>ダストシュートのフタは壊れた……。",
+      "zh": "为了把尸体藏进去，<br>\n她在打开滑槽的时候把盖子弄坏了……",
+      "vi": "Để giấu xác bên trong, Cô ấy đã làm vỡ nắp trong khi mở máng…",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro037",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro037|",
+      "ja": "それなら、辻褄は合う。",
+      "zh": "这样一来就合情合理了。",
+      "vi": "Điều đó có ý nghĩa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema025",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema025|",
+      "ja": "……そんなことボクはしてないよ。<br>何か証拠でもあるの？",
+      "zh": "……我才没做这种事。<br>\n你有什么证据吗？",
+      "vi": "...Tôi không làm điều đó. Bạn có bằng chứng gì không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro038",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro038|",
+      "ja": "証拠……それは。",
+      "zh": "说到证据……",
+      "vi": "Nói về bằng chứng…",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia002",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia002|",
+      "ja": "……どうやら私の出番のようだね。",
+      "zh": "……看来轮到我出场了。",
+      "vi": "…Có vẻ như đã đến lượt tôi xuất hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro039",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro039|",
+      "ja": "（レイア……まさか）",
+      "zh": "（蕾雅……难道说）",
+      "vi": "(Leya...có thể nói vậy)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia003",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia003|",
+      "ja": "ダストシュートが向かう先……<br>それはもちろん、焼却炉だ。",
+      "zh": "垃圾滑槽的另一头……<br>\n没错，就是焚烧炉。",
+      "vi": "Đầu kia của máng rác... Đúng rồi, lò đốt rác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia004",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia004|",
+      "ja": "当然……私は事前に調べておいたのさ！",
+      "zh": "当然……我已经事先调查过了！",
+      "vi": "Tất nhiên...tôi đã nghiên cứu nó trước!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro040",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro040|",
+      "ja": "（私が頼んでいた内容だ……！）",
+      "zh": "（是我拜托她做的事……！）",
+      "vi": "(Đây là điều tôi yêu cầu cô ấy làm...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro041",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro041|",
+      "ja": "まさかレイア、君……<br>自分が注目されるタイミングまで<br>情報を隠してたんじゃないだろうな……？",
+      "zh": "蕾雅，你该不会……<br>\n故意瞒着情报不说<br>\n一直等待时机登台亮相吧……？",
+      "vi": "Leya, em có thể không... Cố tình che giấu thông tin Bạn đã chờ đợi cơ hội để ra mắt chưa...?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia005",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia005|",
+      "ja": "だ、断じてそんなことはない！",
+      "zh": "绝、绝无此事！",
+      "vi": "Tuyệt đối, tuyệt đối không có chuyện như thế này!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia006",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia006|",
+      "ja": "さっきから言おうとしてたのに<br>遮られてタイミングがなかっただけだ！",
+      "zh": "我刚才一直想说，<br>\n但总是被打断，一直找不到好的时机！",
+      "vi": "Tôi chỉ muốn nói, Nhưng tôi luôn bị gián đoạn và không bao giờ tìm được cơ hội tốt!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia007",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia007|",
+      "ja": "さ、さあ！<br>そんなことより！<br>これを見たまえ！",
+      "zh": "好、好了！<br>\n先不说那些！<br>\n看这里！",
+      "vi": "Được rồi, được rồi! Chúng ta đừng nói về điều đó! Nhìn đây!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia008",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia008|",
+      "ja": "これは地下の焼却炉の写真だよ。",
+      "zh": "这是地下焚烧炉的照片。",
+      "vi": "Đây là hình ảnh một lò đốt rác dưới lòng đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia009",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia009|",
+      "ja": "中は薄暗いが、壁は鮮やかな緑色だね。",
+      "zh": "里面有点昏暗，但墙壁是鲜艳的绿色。",
+      "vi": "Bên trong hơi tối nhưng các bức tường lại có màu xanh sống động.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia010",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia010|",
+      "ja": "この焼却炉は毎週月曜日の１５時に稼働する……。",
+      "zh": "这个焚烧炉每周一15时启动……",
+      "vi": "Lò đốt này bắt đầu hoạt động vào thứ Hai hàng tuần lúc 15:00...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia011",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia011|",
+      "ja": "そう、奇しくも今日だ。",
+      "zh": "没错，恰巧就是今天。",
+      "vi": "Vâng, chuyện đó xảy ra vào ngày hôm nay.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia012",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia012|",
+      "ja": "ギリギリ炉が動く１５時前に入って、<br>中の物を回収できたよ。",
+      "zh": "我勉强赶在炉子启动的15时之前跑进去，<br>\n把里面的东西拿出来了。",
+      "vi": "Tôi hầu như không thể chạy vào trước 15:00 khi bếp khởi động, Lấy nội dung ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Sherry002",
+      "speaker_tag": "; > Sherry: |#0202Trial03_Sherry002|",
+      "ja": "おおー！<br>何か気になるものでもありましたか！？",
+      "zh": "哦——！<br>\n有什么值得注意的东西吗！？",
+      "vi": "Ồ——! Có điều gì đáng lưu ý! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia013",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia013|",
+      "ja": "ふふ、そう慌てなくていい。",
+      "zh": "呵呵，不必那么着急。",
+      "vi": "Haha, đừng lo lắng thế.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia014",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia014|",
+      "ja": "まずは周辺の状況からだ。",
+      "zh": "首先从周围的情况讲起。",
+      "vi": "Hãy bắt đầu với tình hình xung quanh.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia015",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia015|",
+      "ja": "焼却炉室の床にはなんと……<br>血痕らしきものが残されていた！",
+      "zh": "焚烧炉室的地上……<br>\n竟然有疑似血迹的痕迹！",
+      "vi": "Trên sàn phòng đốt rác... Có dấu vết nghi ngờ là máu!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Sherry003",
+      "speaker_tag": "; > Sherry: |#0202Trial03_Sherry003|",
+      "ja": "本当ですか！？<br>それはすごい証拠ですね！",
+      "zh": "真的吗！？<br>\n那可是个重大证据耶！",
+      "vi": "Thật sao? ? Đó là bằng chứng quan trọng!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia016",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia016|",
+      "ja": "ちなみに普段から焼却炉のある部屋の扉には<br>鍵はかかっていない。",
+      "zh": "顺便一提，平时焚烧炉室的门<br>\n都是不上锁的。",
+      "vi": "Nhân tiện, cửa phòng đốt rác thường là Tất cả đều được mở khóa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia017",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia017|",
+      "ja": "事件当時も、誰でも入れたようだね。",
+      "zh": "案发当时也一样，应该谁都能进出。",
+      "vi": "Vào thời điểm xảy ra vụ án cũng vậy, nên bất cứ ai cũng có thể ra vào.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia018",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia018|",
+      "ja": "そして焼却炉の中にはこれらの物が残されていた……<br>それぞれ確認してくれたまえ！",
+      "zh": "而焚烧炉里还剩下这些东西……<br>\n请大家逐一确认！",
+      "vi": "Và vẫn còn những thứ này còn sót lại trong lò đốt... Vui lòng xác nhận từng cái một!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia019",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia019|",
+      "ja": "どうだい！<br>これこそが決定的な証拠――。",
+      "zh": "怎样！<br>\n这一定就是关键证据——",
+      "vi": "Làm thế nào! Đây chắc chắn là bằng chứng quan trọng——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Leia020",
+      "speaker_tag": "; > Leia: |#0202Trial03_Leia020|",
+      "ja": "――と思うんだが、どうだろうか？",
+      "zh": "——吧，大家觉得呢？",
+      "vi": "--Chà, bạn nghĩ thế nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro042",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro042|",
+      "ja": "（……決定的と言えるかどうかはわからないが）",
+      "zh": "（……算不算得上关键证据不好说）",
+      "vi": "(...Khó mà nói được nó có được coi là bằng chứng quan trọng hay không)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro043",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro043|",
+      "ja": "（だが、状況を変えうるものではあるか）",
+      "zh": "（但应该能用来扭转局势）",
+      "vi": "(Nhưng nó sẽ có thể xoay chuyển tình thế)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro044",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro044|",
+      "ja": "……そうだね。<br>おかげでエマが殺した方法がわかったよ。",
+      "zh": "……是的。<br>\n多亏了你的情报，我知道艾玛的杀人手法了。",
+      "vi": "...vâng. Nhờ thông tin của bạn mà tôi biết được thủ đoạn giết người của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Ema026",
+      "speaker_tag": "; > Ema: |#0202Trial03_Ema026|",
+      "ja": "………っ！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial03_Hiro045",
+      "speaker_tag": "; > Hiro: |#0202Trial03_Hiro045|",
+      "ja": "説明しようか……その方法を。",
+      "zh": "让我来解释一下……她的手法吧。",
+      "vi": "Hãy để tôi giải thích... cách tiếp cận của cô ấy.",
+      "objection_links": []
+    }
+  ]
+}

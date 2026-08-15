@@ -1,0 +1,902 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial07",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial07' Naninovel scenario script",
+  "total_entries": 111,
+  "entries": [
+    {
+      "id": "0205Trial07_Noah001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial07_Noah001|",
+      "ja": "な、なんでのあが<br>絵を描かなきゃ<br>いけないの……！",
+      "zh": "为、<br>\n为什么诺亚<br>\n非画画不可啊……！",
+      "vi": "cho, Tại sao Nô-ê Noah phải vẽ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial07_Noah002|",
+      "ja": "そんなの、<br>のあの勝手だよ……！",
+      "zh": "画画，<br>\n是诺亚的自由吧……！",
+      "vi": "Đang vẽ, Đó là sự tự do của Noah phải không?…!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial07_Hiro001|",
+      "ja": "君が絵を描くのが<br>好きだと言ったから、<br>私はそれを肯定しただけ<br>なんだけどな。",
+      "zh": "因为你说过<br>\n你喜欢画画，<br>\n我只是对这一点<br>\n表达肯定而已。",
+      "vi": "Bởi vì bạn đã nói Bạn thích vẽ, Tôi chỉ về điều này Đó chỉ là một cách thể hiện sự khẳng định.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial07_Hiro002|",
+      "ja": "君にとって、<br>絵を描くことは<br>苦痛なのかい？",
+      "zh": "难道对你来说，<br>\n画画是一件<br>\n痛苦的事吗？",
+      "vi": "Có phải điều đó dành cho bạn không, Vẽ tranh là một điều Có gì đó đau đớn?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial07_Noah003|",
+      "ja": "そ、そんなことは……<br>ないけど……。",
+      "zh": "才、才不是……<br>\n这样的……",
+      "vi": "Đó, không phải... Như vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial07_Hiro003|",
+      "ja": "なら見せてくれても<br>いいじゃないか。",
+      "zh": "那画给我看看<br>\n也没关系吧。",
+      "vi": "Cho tôi xem bức tranh Nó không quan trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial07_Noah004|",
+      "ja": "だ、だめ……！<br>これは……<br>その……！",
+      "zh": "不、不行……！<br>\n这个……<br>\n那个……！",
+      "vi": "Không, không thể nào...! Cái này... Đó...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial07_Noah005|",
+      "ja": "だれにも……<br><link=\"Objection_02_05_07_01\">見せちゃダメ</link>だから……。",
+      "zh": "因为……<br>\n谁都<link=\"Objection_02_05_07_01\">不给看</link>……",
+      "vi": "Bởi vì... Không ai <link=\"Objection_02_05_07_01\"> sẽ hiển thị nó </link>...",
+      "objection_links": [
+        "Objection_02_05_07_01"
+      ]
+    },
+    {
+      "id": "0205Trial07_Noah006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial07_Noah006|",
+      "ja": "他の人に教えちゃダメって……<br><link=\"Objection_02_05_07_02\">約束</link>なの……！",
+      "zh": "诺亚和别人<link=\"Objection_02_05_07_02\">约定</link>好了……<br>\n不能告诉别人……！",
+      "vi": "Nô-ê và những người khác <link=\"Objection_02_05_07_02\"> đồng ý </link> Được rồi... Không thể nói cho người khác biết...!",
+      "objection_links": [
+        "Objection_02_05_07_02"
+      ]
+    },
+    {
+      "id": "0205Trial07_Noah007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial07_Noah007|",
+      "ja": "だから、<br>ヒロちゃんには<br><link=\"Objection_02_05_07_03\">見せられない</link>のっ！",
+      "zh": "所以，<br>\n就算是希罗<br>\n也<link=\"Objection_02_05_07_03\">不许看</link>！",
+      "vi": "Vì vậy, Kể cả Hiro Ngoài ra <link=\"Objection_02_05_07_03\"> bạn không được phép xem </link>!",
+      "objection_links": [
+        "Objection_02_05_07_03"
+      ]
+    },
+    {
+      "id": "0205Trial07_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro004|",
+      "ja": "（ノアは嘘をついている）",
+      "zh": "（诺亚在撒谎）",
+      "vi": "(Noah đang nói dối)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro005|",
+      "ja": "（……だが、子どものつくような嘘だ。<br>　取り合う必要もない）",
+      "zh": "（……但这只是小孩子会撒的谎。<br>\n没必要纠缠这个）",
+      "vi": "(…Nhưng đây chỉ là lời nói dối của một đứa trẻ. Không cần phải chú ý đến điều này)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro006|",
+      "ja": "（取り繕われ、防御を整えられる前に……<br>　意識外からの一撃を食らわせるんだ！）",
+      "zh": "（得在她蒙混过去，架好防御之前……<br>\n给予她意料之外的一击！）",
+      "vi": "(Trước khi cô ấy vượt qua nó và tiến hành phòng thủ... Hãy giáng cho cô ấy một đòn bất ngờ! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial07_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "すでに見たことがある",
+      "zh": "已经看到过了",
+      "vi": "Đã thấy rồi",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial07_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "そんな約束はない",
+      "zh": "没有这种约定",
+      "vi": "Không có thỏa thuận như vậy",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial07_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "見せたくないだけだ",
+      "zh": "你只是不愿给人看而已",
+      "vi": "Bạn chỉ không muốn mọi người nhìn thấy bạn",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro007|",
+      "ja": "そんな約束は聞いたことないが？",
+      "zh": "没听说过有这种约定啊？",
+      "vi": "Bạn chưa bao giờ nghe nói về một thỏa thuận như vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah008",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah008|",
+      "ja": "え、ええと……<br>専属けーやく？ みたいな……。",
+      "zh": "呃、呃……<br>\n好像是，独占协议？……",
+      "vi": "Ờ... Có vẻ như một thỏa thuận độc quyền? …",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah009",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah009|",
+      "ja": "――そう！<br>他の人に見せちゃいけないって、<br>けーやくしてるの！",
+      "zh": "——对！<br>\n诺亚签过协议，<br>\n不能把画给别人看的！",
+      "vi": "--Vâng! Nô-ê đã ký thỏa thuận, Bạn không thể cho người khác xem tranh của mình!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro008|",
+      "ja": "それを証明できるものはあるのかな？",
+      "zh": "你有证据能证明这个吗？",
+      "vi": "Bạn có bằng chứng để chứng minh điều này?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah010",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah010|",
+      "ja": "だ、だったら、ヒロちゃんはどうなの！？",
+      "zh": "那、那希罗你不也是吗！？",
+      "vi": "Vậy thì chẳng phải điều đó cũng tương tự với cậu sao, Hiro! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah011",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah011|",
+      "ja": "のあがそういう約束してないって……<br>証拠がないでしょ！",
+      "zh": "说诺亚没有做那种约定……<br>\n你也没有证据吧！",
+      "vi": "Nói rằng Nô-ê không thực hiện thỏa thuận đó... Bạn cũng không có bằng chứng!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah012",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah012|",
+      "ja": "証拠もないのに人を疑っちゃ、ダメ！",
+      "zh": "没有证据就怀疑别人，是不对的！",
+      "vi": "Nghi ngờ người khác mà không có bằng chứng là sai lầm!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro009|",
+      "ja": "（これ以上は水掛け論になるだけか……）",
+      "zh": "（看来再争下去也只会没完没了……）",
+      "vi": "(Có vẻ như nếu chúng ta tiếp tục chiến đấu thì sẽ không có hồi kết...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro010|",
+      "ja": "（ノアの【絵を見せたくない】という意志は固い）",
+      "zh": "（诺亚【不想给人看画】的意志很坚决）",
+      "vi": "(Noah có ý chí [không muốn cho người khác xem tranh] rất kiên quyết)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro011|",
+      "ja": "（絵を見せてもらうのは骨が折れそうだ）",
+      "zh": "（想让她拿出画来，实在不容易）",
+      "vi": "(Thật sự không dễ để khiến cô ấy lấy bức tranh ra)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro012|",
+      "ja": "（彼女のトラウマを刺激する方法……<br>　私はそれを知っているはずだ）",
+      "zh": "（刺激她心理创伤的方法……<br>\n我应该已经知道了才对）",
+      "vi": "(Phương pháp kích thích chấn thương tâm lý của cô ấy... Đáng lẽ tôi phải biết điều đó rồi)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro013|",
+      "ja": "色々理由付けしているようだが……。",
+      "zh": "虽然你找了无数理由……",
+      "vi": "Mặc dù bạn tìm thấy vô số lý do...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro014|",
+      "ja": "【見せられない】ではなく、<br>単純にノアが【見せたくない】んだろう？",
+      "zh": "但不是【不能给人看】，<br>\n只是诺亚你单纯【不想给人看】吧？",
+      "vi": "Nhưng không phải [không thể nhìn thấy], Chỉ là Nô-ê thôi, cậu chỉ không muốn bị người khác nhìn thấy thôi đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah013",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah013|",
+      "ja": "そ、そういうわけじゃ……！",
+      "zh": "才、才不是那样……！",
+      "vi": "Đ-Không phải thế đâu...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro015|",
+      "ja": "なら、ここで描いて私に<br>見せてくれてもいいじゃないか。",
+      "zh": "那么，在这里画给我看<br>\n也没关系吧。",
+      "vi": "Vì vậy, hãy vẽ nó ở đây cho tôi Nó không quan trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah014",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah014|",
+      "ja": "な、なんで今描かなくちゃいけないの！？",
+      "zh": "为、为什么要现在画啊！？",
+      "vi": "Tại sao, tại sao chúng ta nên vẽ bây giờ? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah015",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah015|",
+      "ja": "のあはのあが絵を描きたいと思った時に描くの！",
+      "zh": "诺亚要在诺亚想画画的时候才画！",
+      "vi": "Nô-ê phải vẽ khi Nô-ê muốn vẽ!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah016",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah016|",
+      "ja": "のあ、今はそういう気分じゃないし……。",
+      "zh": "诺亚，现在没那种心情……",
+      "vi": "Noah, lúc này Noah không có tâm trạng như vậy…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah017",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah017|",
+      "ja": "ヒロちゃんに勝手に決められたくない！",
+      "zh": "不想被希罗擅自决定！",
+      "vi": "Noah không muốn Hiro tự mình đưa ra quyết định!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro016|",
+      "ja": "（つっぱねられてしまった……。<br>　お願いするだけでは無理か）",
+      "zh": "（被顶嘴了……<br>\n看来光求她画是没有用的）",
+      "vi": "(Đang được nhắc lại về... Có vẻ như chỉ yêu cầu cô ấy vẽ cũng chẳng ích gì)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro017|",
+      "ja": "（ノアの【絵を見せたくない】という意志は固い）",
+      "zh": "（诺亚【不想给人看画】的意志很坚决）",
+      "vi": "(Noah có ý chí [không muốn cho người khác xem tranh] rất kiên quyết)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro018|",
+      "ja": "（絵を見せてもらうのは骨が折れそうだ）",
+      "zh": "（想让她拿出画来，实在不容易）",
+      "vi": "(Thật sự không dễ để khiến cô ấy lấy bức tranh ra)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro019|",
+      "ja": "（彼女のトラウマを刺激する方法……<br>　私はそれを知っているはずだ）",
+      "zh": "（刺激她心理创伤的方法……<br>\n我应该已经知道了才对）",
+      "vi": "(Phương pháp kích thích chấn thương tâm lý của cô ấy... Đáng lẽ tôi phải biết điều đó rồi)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro020|",
+      "ja": "ああ、申し訳ないけれど……。",
+      "zh": "啊，虽然很抱歉……",
+      "vi": "À, tuy nhiên tôi xin lỗi...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro021|",
+      "ja": "ノア。<br>すでに君の絵は、私が見てしまった。",
+      "zh": "诺亚。<br>\n你的画，我已经看过了。",
+      "vi": "Nô-ê. Tôi đã xem tranh của bạn rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah018",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah018|",
+      "ja": "え。",
+      "zh": "欸。",
+      "vi": "Ơ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro022|",
+      "ja": "私は【死に戻り】の魔法を持つ……。",
+      "zh": "我拥有【死亡回溯】的魔法……",
+      "vi": "Tôi có phép thuật [Thu hồi cái chết]...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro023|",
+      "ja": "君が手描きで描いた絵を<br>見る機会があったんだ。",
+      "zh": "我有机会<br>\n看到你亲手画的画。",
+      "vi": "Tôi có cơ hội Tôi đã thấy những bức tranh do chính tay bạn vẽ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah019",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah019|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro024|",
+      "ja": "……君の絵は。",
+      "zh": "……你的画——",
+      "vi": "...bức tranh của bạn——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Choice004",
+      "speaker_tag": "; > @choice |#0205Trial07_Choice004|",
+      "ja": "酷いものだった",
+      "zh": "画得很烂",
+      "vi": "Bức tranh xấu quá",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Choice005",
+      "speaker_tag": "; > @choice |#0205Trial07_Choice005|",
+      "ja": "よくわからなかった",
+      "zh": "根本看不懂",
+      "vi": "Không thể hiểu được chút nào",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Choice006",
+      "speaker_tag": "; > @choice |#0205Trial07_Choice006|",
+      "ja": "汚かった",
+      "zh": "太丑了",
+      "vi": "Quá xấu",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro025|",
+      "ja": "……酷いものだったよ。<br>とても見れたものじゃなかったね。",
+      "zh": "……画得很烂。<br>\n简直没眼看。",
+      "vi": "...Nó được vẽ rất kém. Chỉ là không thể nhìn thấy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro026|",
+      "ja": "それはノアが隠したがるのも仕方ない出来だった……。",
+      "zh": "难怪诺亚你想藏起来……",
+      "vi": "Chẳng trách Noah ngươi muốn trốn...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro027|",
+      "ja": "心の底から、そう思うよ。",
+      "zh": "我发自内心地，这么认为哦。",
+      "vi": "Tôi nghĩ như vậy từ tận đáy lòng mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro028|",
+      "ja": "……よくわからなかったね。",
+      "zh": "……根本看不懂啊。",
+      "vi": "...Tôi không thể hiểu được nó chút nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro029|",
+      "ja": "君の絵からは何も伝わってこなかった。<br>情熱も、技量も……何もかもね。",
+      "zh": "完全看不出你的画要表达什么。<br>\n热情、技巧……什么都没有。",
+      "vi": "Tôi không biết bức tranh của bạn đang muốn thể hiện điều gì. Đam mê, kỹ năng... không có gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro030|",
+      "ja": "きっとそれが【才能のなさ】ってやつなのかな。",
+      "zh": "这大概就是所谓的【没有才能】吧。",
+      "vi": "Đây có lẽ là cái gọi là \"không có tài năng\".",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro031|",
+      "ja": "……ひと言で言うなら、汚かったよ。",
+      "zh": "……一言以蔽之，很丑哦。",
+      "vi": "…Nói tóm lại, nó xấu xí.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro032|",
+      "ja": "乱雑でまともに描こうとしたとは思えない。",
+      "zh": "乱七八糟的，根本不像是认真想画的样子。",
+      "vi": "Đó là một mớ hỗn độn và có vẻ như tôi không nghiêm túc với việc vẽ tranh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro033|",
+      "ja": "【汚物】……<br>それが君の絵にふさわしい評価だ。",
+      "zh": "【脏东西】……<br>\n这是对你的画最合适的评价。",
+      "vi": "【Những thứ bẩn thỉu】…… Đây là sự đánh giá đúng đắn nhất về bức tranh của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro034|",
+      "ja": "（……思ってもいない事を言うのは、<br>　やはり抵抗があるな）",
+      "zh": "（……说出并非本心的话，<br>\n果然还是有点抵触）",
+      "vi": "(…nói những điều bạn không có ý, Chắc chắn rồi, tôi vẫn còn hơi mâu thuẫn)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro035",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro035|",
+      "ja": "（すまないノア……。<br>　許してくれとは言わないが……）",
+      "zh": "（抱歉，诺亚……<br>\n不过我不会求你原谅……）",
+      "vi": "(Xin lỗi, Nô-ê... Nhưng tôi sẽ không cầu xin bạn tha thứ cho tôi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro036",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro036|",
+      "ja": "（今は……その痛みを受容してくれ……！）",
+      "zh": "（现在……请你承受这份痛苦吧……！）",
+      "vi": "(Giờ...xin hãy chịu đựng nỗi đau này...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah020",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah020|",
+      "ja": "う……あ……。",
+      "zh": "呜……啊……",
+      "vi": "Woo...ah...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah021",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah021|",
+      "ja": "あああぁぁぁ～～ん！！！",
+      "zh": "啊啊啊啊啊啊～～！！！",
+      "vi": "Ahhhhhhhhhhhhhhhhhhhhhhhhhhh! ! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah022",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah022|",
+      "ja": "びえぇぇえええ！！",
+      "zh": "呜嘤嘤嘤嘤嘤嘤！！",
+      "vi": "Tuyệt vời! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Ema001",
+      "speaker_tag": "; > Ema: |#0205Trial07_Ema001|",
+      "ja": "ヒ、ヒロちゃん……！<br>いくらなんでも酷いよ……！",
+      "zh": "希、希罗……！<br>\n不管你出于什么目的都好，你说得也太过分了……！",
+      "vi": "H-Hiro...! Cho dù mục đích của bạn là gì thì bạn cũng đang đi quá xa rồi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Leia001",
+      "speaker_tag": "; > Leia: |#0205Trial07_Leia001|",
+      "ja": "キ、キミには人の心がないのか……！？",
+      "zh": "你、你难道没有人心吗……！？",
+      "vi": "Bạn, bạn không có trái tim con người sao...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro037",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro037|",
+      "ja": "（……批難は甘んじて受けよう）",
+      "zh": "（……就让我坦然接受一切批评吧）",
+      "vi": "(...hãy để tôi bình tĩnh chấp nhận mọi lời chỉ trích)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro038",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro038|",
+      "ja": "（だがそれぐらいで済むなら……<br>　安いものだ！）",
+      "zh": "（但如果只需要这么点代价就能换到结果……<br>\n那就太划算了！）",
+      "vi": "(Nhưng nếu chỉ mất mức giá nhỏ này để có được kết quả... Đó là một thỏa thuận tuyệt vời! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah023",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah023|",
+      "ja": "ううぅ……！ あうぅ……！",
+      "zh": "呜呜……！啊呜……！",
+      "vi": "Woohoo...! Ôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah024",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah024|",
+      "ja": "もう……やだぁぁぁ！！",
+      "zh": "已经……受够了啊啊啊！！",
+      "vi": "Đã...đủ rồi! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro039",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro039|",
+      "ja": "ノアの魔法が……！",
+      "zh": "诺亚的魔法……！",
+      "vi": "Phép thuật của Nô-ê...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah025",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah025|",
+      "ja": "ぅあああぁぁん！！",
+      "zh": "呜啊啊啊啊啊啊！！",
+      "vi": "Ồhhhhhhhhhhhh! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Miria001",
+      "speaker_tag": "; > Miria: |#0205Trial07_Miria001|",
+      "ja": "ノ、ノアちゃんの涙に<br>色が付いてる……！",
+      "zh": "诺、诺亚的眼泪，<br>\n变成彩色的了……！",
+      "vi": "Nước mắt của Nô-ê, Nó trở nên đầy màu sắc...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro040",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro040|",
+      "ja": "……メルル！",
+      "zh": "……梅露露！",
+      "vi": "……Meruru！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Meruru001",
+      "speaker_tag": "; > Meruru: |#0205Trial07_Meruru001|",
+      "ja": "は、はい……！",
+      "zh": "好、好的……！",
+      "vi": "Được, được...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Meruru002",
+      "speaker_tag": "; > Meruru: |#0205Trial07_Meruru002|",
+      "ja": "ノアさ～ん、もう大丈夫ですよー……。",
+      "zh": "诺亚小姐～，已经没事了哦～……",
+      "vi": "Noah~, không sao đâu~…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah026",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah026|",
+      "ja": "ううぅ～！",
+      "zh": "呜呜～！",
+      "vi": "Woohoo~!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Noah027",
+      "speaker_tag": "; > Noah: |#0205Trial07_Noah027|",
+      "ja": "う、うぅ……ひっく……ぐす……。",
+      "zh": "呜、呜……噎……咕……",
+      "vi": "Woo, woo...nghẹt thở...gu...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro041",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro041|",
+      "ja": "（……ノアも魔女化させることができた）",
+      "zh": "（……诺亚的魔女化也成功达成了）",
+      "vi": "(…Việc biến đổi thành phù thủy của Noah cũng đã thành công)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro042",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro042|",
+      "ja": "（【トラウマ】を刺激すれば、<br>　効率的に魔女化が進行できるかもしれないな――）",
+      "zh": "（看来只要刺激【心理创伤】，<br>\n就能高效地促进魔女化——）",
+      "vi": "(Có vẻ như miễn là nó kích thích [chấn thương tâm lý], Nó có thể thúc đẩy sự biến đổi phù thủy một cách hiệu quả——)",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Margo001",
+      "speaker_tag": "; > Margo: |#0205Trial07_Margo001|",
+      "ja": "――面白い見世物だったわ、ヒロちゃん。",
+      "zh": "——真是场有趣的表演啊，希罗。",
+      "vi": "---Thật là một chương trình thú vị, Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro043",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro043|",
+      "ja": "……！<br>……マーゴ。",
+      "zh": "……！<br>\n……玛格。",
+      "vi": "...! ...Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Margo002",
+      "speaker_tag": "; > Margo: |#0205Trial07_Margo002|",
+      "ja": "魔法を使った変身ショー？<br>それともお涙頂戴の三文芝居かしら。",
+      "zh": "这是用魔法进行的变身秀？<br>\n还是骗人眼泪的三流戏码呢？",
+      "vi": "Đây có phải là một chương trình biến hình sử dụng phép thuật không? Hay đó là một bộ phim hạng ba khiến người ta phải khóc?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Margo003",
+      "speaker_tag": "; > Margo: |#0205Trial07_Margo003|",
+      "ja": "でも……そろそろ飽きてきたわ。",
+      "zh": "不管怎样……我差不多都看腻了。",
+      "vi": "Dù sao...Chị gần như phát chán khi xem nó rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Margo004",
+      "speaker_tag": "; > Margo: |#0205Trial07_Margo004|",
+      "ja": "私たちを巻き込んでまで<br>こんなことをする意味……本当にあるの？",
+      "zh": "不惜把我们都牵扯进来，<br>\n也要做这种事……这真的有意义吗？",
+      "vi": "Đừng ngần ngại lôi kéo tất cả chúng ta vào, Làm một việc như thế này...có thực sự có ý nghĩa không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro044",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro044|",
+      "ja": "（……マーゴ、妙だな）",
+      "zh": "（……玛格这人很奇怪啊）",
+      "vi": "(…Margo là một người rất kỳ lạ)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro045",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro045|",
+      "ja": "（彼女と過ごした期間は短かったし、<br>　気まぐれな部分がある人間なのはたしかだ）",
+      "zh": "（尽管我和她相处的时间很短，<br>\n不过她的确是个反复无常的人）",
+      "vi": "(Mặc dù thời gian của tôi với cô ấy rất ngắn ngủi nhưng Nhưng cô ấy thực sự là một người thất thường)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro046",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro046|",
+      "ja": "（私も彼女の人となりを、<br>　すべて把握しているわけではない。<br>　しかし……）",
+      "zh": "（当然我也并非<br>\n完全掌握了她的为人。<br>\n只不过……）",
+      "vi": "(Tất nhiên là tôi không Hoàn toàn nắm bắt được tính cách của cô ấy. Chỉ là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro047",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro047|",
+      "ja": "（こちらが情報を握っていることは<br>　先ほどからアピールしている）",
+      "zh": "（我从刚才开始就一直在强调<br>\n我掌握着情报这一点）",
+      "vi": "(Tôi đã nhấn mạnh kể từ bây giờ Tôi có thông tin)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro048",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro048|",
+      "ja": "（それがわからないほど、マーゴは愚かではない）",
+      "zh": "（玛格她不至于蠢到连这个都看不出来）",
+      "vi": "(Marge không ngu ngốc đến mức không thể nhìn thấy điều này)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro049",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro049|",
+      "ja": "（……彼女の言葉、全てに裏があると考えるべきか）",
+      "zh": "（……我该认为她的发言，全都有隐藏的用意吗？）",
+      "vi": "(…Mình có nên nghĩ rằng tất cả những lời nhận xét của cô ấy đều có ý đồ ẩn giấu không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro050",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro050|",
+      "ja": "（ならば彼女の言葉はもしかすると――）",
+      "zh": "（那说不定她的发言——）",
+      "vi": "(Vậy có lẽ bài phát biểu của cô ấy——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro051",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro051|",
+      "ja": "……そうだね、マーゴ。",
+      "zh": "……你说得对，玛格。",
+      "vi": "...Em nói đúng, Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro052",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro052|",
+      "ja": "君も見ているだけじゃ暇だろう。",
+      "zh": "光看着也只会感到无聊吧。",
+      "vi": "Chỉ nhìn thôi cũng sẽ cảm thấy nhàm chán.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro053",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro053|",
+      "ja": "……一緒に踊るかい。",
+      "zh": "……要来一起跳舞吗？",
+      "vi": "...Muốn đến và nhảy cùng nhau không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Margo005",
+      "speaker_tag": "; > Margo: |#0205Trial07_Margo005|",
+      "ja": "……面白い子ね、ヒロちゃん。",
+      "zh": "……你真是个有趣的孩子，希罗。",
+      "vi": "…Con đúng là một đứa trẻ thú vị, Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Margo006",
+      "speaker_tag": "; > Margo: |#0205Trial07_Margo006|",
+      "ja": "でもレディーへの誘い文句としてなら、<br>もう少しスマートな方が好みよ♡",
+      "zh": "不过呢，对于邀约一位女士的台词，<br>\n我会喜欢更有风情的措辞哦♡",
+      "vi": "Tuy nhiên, đối với dòng về việc mời một quý cô, Chị sẽ thích cách diễn đạt quyến rũ hơn ♡",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro054",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro054|",
+      "ja": "（……及第点はもらえた、ということかな？）",
+      "zh": "（……也就是说，我目前算及格了？）",
+      "vi": "(…Nói cách khác, hiện tại mình được coi là đã đỗ?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro055",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro055|",
+      "ja": "（――そう。<br>　これまでの彼女の言葉は、私に対する挑発だ。<br>　もっと言えば……）",
+      "zh": "（——没错。<br>\n她至今为止的话语，都是对我的挑衅。<br>\n更进一步说……）",
+      "vi": "(——Đúng rồi. Những lời nói của cô ấy cho đến nay đều là những lời khiêu khích đối với tôi. Đi xa hơn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro056",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro056|",
+      "ja": "（議論という戦場への<ruby=\"いざな\">誘</ruby>い……！）",
+      "zh": "（是邀请我参加名为讨论的战场……！）",
+      "vi": "(Tôi được mời tham gia vào một chiến trường mang tên thảo luận...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro057",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro057|",
+      "ja": "（マーゴは私の持っている情報を引き出して<br>　自身の身の振り方を決めようとしている……）",
+      "zh": "（玛格想要套出我掌握的情报，<br>\n来决定自身的立场……）",
+      "vi": "(Marge muốn trích xuất thông tin tôi có, để quyết định vị trí của chính mình…)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro058",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro058|",
+      "ja": "（逆に言えば、彼女はまだ私と手を組んで協力すべきかどうか<br>　迷っているんだ）",
+      "zh": "（反过来说，她还在犹豫<br>\n是否应该和我联手合作）",
+      "vi": "(Mặt khác, cô ấy vẫn đang do dự Bạn có nên tham gia lực lượng với tôi không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro059",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro059|",
+      "ja": "（なら……）",
+      "zh": "（那么……）",
+      "vi": "(Rồi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Margo007",
+      "speaker_tag": "; > Margo: |#0205Trial07_Margo007|",
+      "ja": "……あなたに私のエスコートができるかしら？<br>ヒロちゃん。",
+      "zh": "……你能为我引路吗？<br>\n希罗。",
+      "vi": "...Bạn có thể chỉ đường cho Chị được không? Anh hùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro060",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro060|",
+      "ja": "……もちろんだ。",
+      "zh": "……当然。",
+      "vi": "...tất nhiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro061",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro061|",
+      "ja": "君が望むものを提供しよう。",
+      "zh": "我会提供你所期望的东西。",
+      "vi": "Tôi sẽ cung cấp những gì bạn mong đợi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro062",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro062|",
+      "ja": "（……マーゴは今、私を試している）",
+      "zh": "（……玛格她现在，正在试探我）",
+      "vi": "(...Mag, cô ấy đang thử mình)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro063",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro063|",
+      "ja": "（ならば……<br>　相手が詐欺師だろうとなんであろうと、<br>　信じさせてみせよう）",
+      "zh": "（那么……<br>\n无论对方是欺诈师还是什么人，<br>\n都得让她相信我）",
+      "vi": "(Sau đó... Bất kể bên kia là kẻ lừa đảo hay người khác, Tôi phải làm cho cô ấy tin tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial07_Hiro064",
+      "speaker_tag": "; > Hiro: |#0205Trial07_Hiro064|",
+      "ja": "（そして……否が応でも協力してもらうぞ！<br>　宝生マーゴ！）",
+      "zh": "（然后……不管愿不愿意都要让你协助我！<br>\n宝生玛格！）",
+      "vi": "(Vậy...tôi sẽ để bạn hỗ trợ tôi dù bạn có sẵn lòng hay không! Bao Sheng Mag! )",
+      "objection_links": []
+    }
+  ]
+}

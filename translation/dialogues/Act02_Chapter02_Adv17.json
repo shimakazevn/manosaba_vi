@@ -1,0 +1,248 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Adv17",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Adv17' Naninovel scenario script",
+  "total_entries": 30,
+  "entries": [
+    {
+      "id": "0202Adv17_Narrative001",
+      "speaker_tag": "",
+      "ja": "私とエマは看守によって、<br>懲罰房に拘束された。",
+      "zh": "我和艾玛被看守关进了惩罚室。<br>",
+      "vi": "Ema và tôi bị Cai Ngục đưa vào Phòng Kỷ Luật Biệt Giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Narrative002",
+      "speaker_tag": "",
+      "ja": "心配だったのか、<br>レイアがすぐに私たちのところにやってきた。",
+      "zh": "蕾雅也许是因为担心，<br>\n立刻来到了我们所在的地方。",
+      "vi": "Leya có thể lo lắng, Đến ngay nơi chúng tôi đang ở.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Adv17_Hiro001|",
+      "ja": "（くそ……またか。<br>　どうして私まで、疑われなければいけない！？）",
+      "zh": "（该死的……又来了。<br>\n为什么连我都要被怀疑！？）",
+      "vi": "(Chết tiệt... lại bắt đầu rồi. Tại sao tôi phải bị nghi ngờ! ? )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Adv17_Hiro002|",
+      "ja": "（間違っているのはエマだ。<br>　私は正しい、正しいはずなのに……！）",
+      "zh": "（有问题的是艾玛。<br>\n我明明是正确的，是正义的……！）",
+      "vi": "(Người được đề cập là Ema. Rõ ràng là tôi đúng và công bằng...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Leia001",
+      "speaker_tag": "; > Leia: |#0202Adv17_Leia001|",
+      "ja": "２人とも、すまない。<br>裁判まで、辛抱してほしい。",
+      "zh": "二位，对不起。<br>\n要辛苦你们忍耐到审判了。",
+      "vi": "Xin lỗi hai người. Bạn sẽ khó có thể chịu đựng được cho đến ngày phán xét.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Narrative003",
+      "speaker_tag": "",
+      "ja": "私とエマを気の毒に思っているのか、<br>レイアは申し訳なさげに眉尻を下げている。",
+      "zh": "蕾雅歉疚地皱着眉，<br>\n似乎是觉得很对不住我们。",
+      "vi": "Leia cau mày xin lỗi, Có vẻ như họ cảm thấy tiếc cho chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Adv17_Hiro003|",
+      "ja": "（本当に腹立たしさでいっぱいだ。<br>　……だが、怒りだけでこの事態は解決できない）",
+      "zh": "（说真的我气得不行。<br>\n……但只靠愤怒，是无法解决眼下问题的）",
+      "vi": "(Thành thật mà nói, tôi rất tức giận. ...Nhưng chỉ tức giận thôi thì không thể giải quyết được vấn đề hiện tại)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Adv17_Hiro004|",
+      "ja": "（冷静になれ。考えろ。<br>　どうすれば、裁判を切り抜けられるか）",
+      "zh": "（冷静点。好好思考。<br>\n到底怎么做才能从审判中突围？）",
+      "vi": "(Bình tĩnh. Hãy suy nghĩ kỹ. Làm thế nào bạn có thể sống sót qua thử thách? )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Adv17_Hiro005|",
+      "ja": "（……ひとまず、なんらかの証拠は掴んでおくべきだ）",
+      "zh": "（……首先，必须掌握一些证据）",
+      "vi": "(…Đầu tiên, bạn phải có một số bằng chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Adv17_Hiro006|",
+      "ja": "……レイア、少しいいかな。<br>今、何時か教えてくれないか。",
+      "zh": "……蕾雅，我想麻烦你帮个忙。<br>\n可以告诉我现在几点吗。",
+      "vi": "...Leya, tôi muốn nhờ cô một việc. Bạn có thể cho tôi biết bây giờ là mấy giờ không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Leia002",
+      "speaker_tag": "; > Leia: |#0202Adv17_Leia002|",
+      "ja": "ああ。お安い御用だよ。<br>今は……１４時４５分だ。",
+      "zh": "当然可以。不用客气。<br>\n现在是……14时45分。",
+      "vi": "Tất nhiên. Không có gì. Bây giờ... 14:45.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Narrative004",
+      "speaker_tag": "",
+      "ja": "レイアは自分のスマホで時間を見て答える。",
+      "zh": "蕾雅看着自己的手机回答道。",
+      "vi": "Leia trả lời khi nhìn vào điện thoại của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Adv17_Hiro007|",
+      "ja": "よかった、まだ間に合うな。<br>もうひとつ、頼み事がある。",
+      "zh": "太好了，还来得及。<br>\n另外，我还有件事想拜托你。",
+      "vi": "Tuyệt vời, vẫn chưa quá muộn. Ngoài ra tôi còn có chuyện khác muốn hỏi bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Leia003",
+      "speaker_tag": "; > Leia: |#0202Adv17_Leia003|",
+      "ja": "私にできることなら、<br>喜んで協力させてほしい。",
+      "zh": "只要是我力所能及之事，<br>\n我都愿意帮忙。",
+      "vi": "Miễn là đó là điều tôi có thể làm, Tôi sẵn sàng giúp đỡ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Narrative005",
+      "speaker_tag": "",
+      "ja": "私はすぐ近くにいるエマを<ruby=\"いちべつ\">一瞥</ruby>してから、<br>レイアにもっと自分のそばに寄るよう合図する。",
+      "zh": "我瞥了眼近在身旁的艾玛，<br>\n示意蕾雅靠近我一点。",
+      "vi": "Tôi liếc nhìn Ema đang ở bên cạnh tôi, Ra hiệu cho Leya đến gần tôi hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Narrative006",
+      "speaker_tag": "",
+      "ja": "意図を察して近付いたレイアの耳に、<br>私は口を寄せた。",
+      "zh": "蕾雅察觉到我的意图便靠了过来，<br>\n我凑到她的耳边。",
+      "vi": "Leya nhận thấy ý định của tôi và tiến lại gần, Tôi ghé sát vào tai cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Leia004",
+      "speaker_tag": "; > Leia: |#0202Adv17_Leia004|",
+      "ja": "ええと、ヒロくん……？",
+      "zh": "呃，希罗……？",
+      "vi": "Ờ, Hiro...?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Adv17_Hiro008|",
+      "ja": "地下の焼却炉を調べてきてくれ。",
+      "zh": "去调查地下的焚烧炉。",
+      "vi": "Đi điều tra lò đốt rác dưới lòng đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Narrative007",
+      "speaker_tag": "",
+      "ja": "私はレイアに、そっと耳打ちで伝える。",
+      "zh": "我悄悄对她说道。",
+      "vi": "Tôi thì thầm với cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Adv17_Hiro009|",
+      "ja": "１５時には焼却炉が作動してしまう。<br>だから、急ぐんだ。",
+      "zh": "15时焚烧炉就要启动了。<br>\n快，抓紧去。",
+      "vi": "Lò đốt sẽ bắt đầu lúc 15h. Nhanh lên, nhanh lên và đi đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Leia005",
+      "speaker_tag": "; > Leia: |#0202Adv17_Leia005|",
+      "ja": "……わかった、任せてくれ！",
+      "zh": "……知道了，交给我吧！",
+      "vi": "...Tôi biết, cứ để đó cho tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Narrative008",
+      "speaker_tag": "",
+      "ja": "力強く<ruby=\"うなず\">頷</ruby>いてから、<br>レイアは懲罰房を出ていった。",
+      "zh": "蕾雅用力点点头，<br>\n离开了惩罚室。",
+      "vi": "Leya gật đầu mạnh mẽ, Rời khỏi Phòng Kỷ Luật Biệt Giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Ema001",
+      "speaker_tag": "; > Ema: |#0202Adv17_Ema001|",
+      "ja": "レイアちゃんと、何を話してたの？",
+      "zh": "你和蕾雅说什么了？",
+      "vi": "Bạn đã nói gì với Leia?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Adv17_Hiro010|",
+      "ja": "君に答える義理はない。",
+      "zh": "我没有义务回答你。",
+      "vi": "Tôi không có nghĩa vụ phải trả lời bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Narrative009",
+      "speaker_tag": "",
+      "ja": "ヒロの返事に、エマは目を伏せる。",
+      "zh": "听到我的回答，艾玛垂下眼帘。",
+      "vi": "Sau khi nghe câu trả lời của tôi, Ema cụp mắt xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Ema002",
+      "speaker_tag": "; > Ema: |#0202Adv17_Ema002|",
+      "ja": "……今朝のヒロちゃんは、嘘だったのかな。",
+      "zh": "……今天早上的希罗，全都是伪装出来的吗。",
+      "vi": "...Hiro sáng nay đều cải trang.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Ema003",
+      "speaker_tag": "; > Ema: |#0202Adv17_Ema003|",
+      "ja": "ボクに挨拶してくれて、穏やかで……<br>また前みたいに仲良くできるかもって、<br>嬉しかったのに……。",
+      "zh": "你跟我说了早安，态度也很温柔……<br>\n我还高兴地以为，<br>\n我们又能像以前那样要好了……",
+      "vi": "Bạn đã chào tôi buổi sáng và thái độ của bạn rất dịu dàng... Tôi cũng vui vẻ nghĩ rằng Chúng ta có thể lại tốt như trước nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Adv17_Hiro011|",
+      "ja": "……何を勘違いしたのか知らないが。<br>私は、君が、嫌いだ。",
+      "zh": "……不知道你误会了什么。<br>\n听好了，我，讨厌你。",
+      "vi": "...Tôi không biết bạn đã hiểu lầm điều gì. Nghe này, tôi ghét bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Narrative010",
+      "speaker_tag": "",
+      "ja": "――殺そうとしたほどに。",
+      "zh": "——讨厌到恨不得杀死你。",
+      "vi": "——Tôi ghét bạn đến mức muốn giết bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv17_Narrative011",
+      "speaker_tag": "",
+      "ja": "それきり、私とエマはひと言も口をきかなかった。",
+      "zh": "自那以后，我和艾玛再无交谈。",
+      "vi": "Ema và tôi đã không nói chuyện kể từ đó.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter01_Adv15",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter01/Act02_Chapter01_Adv15' Naninovel scenario script",
+  "total_entries": 49,
+  "entries": [
+    {
+      "id": "0201Adv15_Narrative001",
+      "speaker_tag": "",
+      "ja": "地下の奥まった通路の方へと行ってみると、<br>重厚な扉がずらりと並んでいた。",
+      "zh": "当我们走向地下深处的过道时，<br>\n一排排厚重的门扉映入眼帘。",
+      "vi": "Khi chúng tôi đi về phía lối đi sâu dưới lòng đất, Những dãy cửa nặng nề hiện ra trong tầm mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative002",
+      "speaker_tag": "",
+      "ja": "<ruby=\"のぞ\">覗</ruby>き窓があったので、<br>そこから中を<ruby=\"のぞ\">覗</ruby>いてみる。",
+      "zh": "透过小窗，<br>\n我们往里面看去。",
+      "vi": "Qua cửa sổ nhỏ, Chúng tôi nhìn vào bên trong.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro001",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro001|",
+      "ja": "……ここはどうやら懲罰房エリアのようだな。",
+      "zh": "……看来这里是惩罚室的区域呢。",
+      "vi": "...Có vẻ như đây là khu vực Phòng Kỷ Luật Biệt Giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Noah001",
+      "speaker_tag": "; > Noah: |#0201Adv15_Noah001|",
+      "ja": "懲罰房？ って何するところ？",
+      "zh": "惩罚室？是做什么的地方？",
+      "vi": "Phòng Kỷ Luật Biệt Giam? Nơi này đang làm gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative003",
+      "speaker_tag": "",
+      "ja": "ノアも私の隣に並んで中を<ruby=\"のぞ\">覗</ruby>いた。",
+      "zh": "诺亚也站在我旁边往里面张望。",
+      "vi": "Noah cũng đứng cạnh tôi và nhìn vào trong.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Noah002",
+      "speaker_tag": "; > Noah: |#0201Adv15_Noah002|",
+      "ja": "わ、危なそうな物がいっぱいある！",
+      "zh": "哇，里面有好多危险的东西！",
+      "vi": "Wow, có rất nhiều thứ nguy hiểm ở đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Noah003",
+      "speaker_tag": "; > Noah: |#0201Adv15_Noah003|",
+      "ja": "あれとあれとあれを積み重ねてオブジェにしたら、<br>楽しそう～。",
+      "zh": "把那个那个还有那个堆叠起来做成装置艺术，<br>\n应该会很好玩～",
+      "vi": "Xếp chồng cái này cái kia để tạo thành một tác phẩm nghệ thuật sắp đặt, Chắc là vui lắm~",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro002",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro002|",
+      "ja": "……そうか？",
+      "zh": "……是吗？",
+      "vi": "...thật sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative004",
+      "speaker_tag": "",
+      "ja": "ノアが扉を開けてみようとするも、<br><ruby=\"なんきんじょう\">南京錠</ruby>に鍵がかかっていて開かない。",
+      "zh": "诺亚试图打开门，<br>\n但门被一把挂锁锁住了，打不开。",
+      "vi": "Noah cố mở cửa, Nhưng cửa đã bị khóa bằng ổ khóa và không thể mở được.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Noah004",
+      "speaker_tag": "; > Noah: |#0201Adv15_Noah004|",
+      "ja": "むー、中に入れないんだよ？<br>ここじゃお絵描きできないね。",
+      "zh": "气气——进不去啊？<br>\n这样就没法画画了。",
+      "vi": "Tức giận—không vào được? Điều này làm cho nó không thể vẽ được.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro003",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro003|",
+      "ja": "そのようだな。じゃあ他の場所へ――。",
+      "zh": "看来是这样。那我们去别的地方吧——",
+      "vi": "Có vẻ như vậy. Vậy thì hãy đi nơi khác thôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative005",
+      "speaker_tag": "",
+      "ja": "私が<ruby=\"きびす\">踵</ruby>を返すと、<br>通路の向こうからひとりの少女が歩いてきた。",
+      "zh": "我刚转身，<br>\n就看到一个少女从过道那头走了过来。",
+      "vi": "Tôi vừa quay lại, Tôi nhìn thấy một cô gái bước tới từ phía bên kia lối đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa001",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa001|",
+      "ja": "……っ",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative006",
+      "speaker_tag": "",
+      "ja": "紫藤アリサだった。",
+      "zh": "是紫藤亚里沙。",
+      "vi": "Đó là Wisteria Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative007",
+      "speaker_tag": "",
+      "ja": "向こうも私たちに気付き、<br>気まずそうに立ち尽くす。",
+      "zh": "她也注意到了我们，<br>\n尴尬地站在原地。",
+      "vi": "Cô ấy cũng để ý đến chúng tôi, Đứng đó ngơ ngác.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro004",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro004|",
+      "ja": "アリサ、君はもう懲罰房から解放されているはずだが。<br>こんなところに何の用だ？",
+      "zh": "亚里沙，你应该已经被放出来了吧。<br>\n来这里是有什么事？",
+      "vi": "Alisa, đáng lẽ em nên được thả ra. Có chuyện gì thế này?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa002",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa002|",
+      "ja": "おめえに話す必要ねえだろ。",
+      "zh": "没必要告诉你。",
+      "vi": "Không cần phải nói với mày.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro005",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro005|",
+      "ja": "そうか。ならばいい。<br>行くぞ、ノア。",
+      "zh": "是吗。那就不多问了。<br>\n诺亚，我们走。",
+      "vi": "Thật sao? Sau đó tôi sẽ không hỏi thêm bất kỳ câu hỏi nào nữa. Nô-ê, đi thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Noah005",
+      "speaker_tag": "; > Noah: |#0201Adv15_Noah005|",
+      "ja": "アリサちゃんの持ってるその紙、何？",
+      "zh": "亚里沙手里拿的那张纸，是什么？",
+      "vi": "Mảnh giấy trong tay Alisa là gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative008",
+      "speaker_tag": "",
+      "ja": "ノアを連れてアリサとすれ違おうとしたが、<br>ノアはアリサの持っている紙が気になった様子だった。",
+      "zh": "我正准备带着诺亚从亚里沙身边经过，<br>\n但诺亚似乎对亚里沙手中的纸很感兴趣。",
+      "vi": "Tôi đang định bế Noah và vượt qua Alisa, Nhưng Noah có vẻ rất hứng thú với tờ giấy trên tay Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative009",
+      "speaker_tag": "",
+      "ja": "私も目を留め、ハッとする。",
+      "zh": "我也注意到了，顿时吃了一惊。",
+      "vi": "Tôi cũng nhận thấy điều đó và rất ngạc nhiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro006",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro006|",
+      "ja": "（……新聞紙……？）",
+      "zh": "（……报纸……？）",
+      "vi": "(...báo...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative010",
+      "speaker_tag": "",
+      "ja": "およそこの牢屋敷にそぐわないものを目にし、<br>捨て置けず私はアリサへと一歩近付く。",
+      "zh": "看到这个与监牢格格不入的东西，<br>\n我不能坐视不理，向亚里沙走近一步。",
+      "vi": "Nhìn thấy thứ này không hợp với Ngục Dinh Thự, Tôi không thể ngồi yên và bước một bước lại gần Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro007",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro007|",
+      "ja": "君、それをどこで手に入れた？",
+      "zh": "你这是在哪里得到的？",
+      "vi": "Bạn lấy cái này ở đâu?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa003",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa003|",
+      "ja": "……懲罰房の中でだよ。<br>磔刑台に拘束されてた時に、<br>台の間に挟まっているのを偶然見つけた。",
+      "zh": "……惩罚室里。<br>\n被绑在十字刑架上的时候，<br>\n偶然在架子缝隙里发现的。",
+      "vi": "...trong Phòng Kỷ Luật Biệt Giam. Trong khi bị trói vào thập tự giá, Tình cờ tìm thấy nó trong một vết nứt trên kệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative011",
+      "speaker_tag": "",
+      "ja": "アリサが渋々と答える。",
+      "zh": "亚里沙不情愿地回答道。",
+      "vi": "Alisa trả lời một cách miễn cưỡng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa004",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa004|",
+      "ja": "方法は知らねえけど、<br>前にウチみたいに捕まったヤツが入手したもんみたいだ。",
+      "zh": "不知道是用了什么方法，<br>\n但好像是之前像我们这样被抓来的家伙搞到的。",
+      "vi": "Tao không biết phương pháp nào đã được sử dụng, Nhưng có vẻ như việc đó được thực hiện bởi những kẻ đã bị bắt trước đó như chúng Tao.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro008",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro008|",
+      "ja": "この牢屋敷では、<br>外部の情報は徹底的にシャットアウトされている。<br>そうなると、過去の囚人のなんらかの魔法だろう。",
+      "zh": "在这个监牢里，<br>\n外界的信息被彻底屏蔽了。<br>\n这样看来，很可能是以前的某个囚犯用了什么魔法。",
+      "vi": "Trong Ngục Dinh Thự này, Thông tin từ thế giới bên ngoài đã bị chặn hoàn toàn. Từ quan điểm này, rất có thể một cựu tù nhân nào đó đã sử dụng phép thuật nào đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa005",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa005|",
+      "ja": "ウチはもう何度も読んだから、おめえにやるよ。",
+      "zh": "我已经看过好几遍了，给你吧。",
+      "vi": "Tao đã nhìn thấy nó nhiều lần rồi, mày xem nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative012",
+      "speaker_tag": "",
+      "ja": "アリサは私に新聞紙を渡してきた。",
+      "zh": "亚里沙把报纸递给了我。",
+      "vi": "Alisa đưa tôi tờ báo.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro009",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro009|",
+      "ja": "５年前の記事か。興味深いな……。",
+      "zh": "五年前的报道啊。真有意思……",
+      "vi": "Báo cáo từ năm năm trước. Thật thú vị...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa006",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa006|",
+      "ja": "ああ……他にもまだなんかあるかもしれねーって思って、<br>探しに来たんだよ。",
+      "zh": "是啊……我想着也许还有其他线索，<br>\n所以来找找看。",
+      "vi": "Ừ...Tao nghĩ có lẽ còn có manh mối khác, Vì vậy, hãy đến và tìm hiểu.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro010",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro010|",
+      "ja": "あるとしても<br>全ての懲罰房に鍵がかけられているようだし、<br>中に入らないと見つけられないだろうな。",
+      "zh": "就算有什么，<br>\n所有惩罚室都上了锁，<br>\n不进去的话恐怕找不到吧。",
+      "vi": "Ngay cả khi có bất cứ điều gì, Tất cả các Phòng Kỷ Luật Biệt Giam đều bị khóa, Nếu bạn không đi vào, bạn có thể không tìm thấy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa007",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa007|",
+      "ja": "チッ、そうかよ……。",
+      "zh": "啧，这样哦……",
+      "vi": "Chậc, là thế này...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative013",
+      "speaker_tag": "",
+      "ja": "渡された新聞紙の端が、<br>微かに焦げていることに気付く。",
+      "zh": "我突然注意到，<br>\n亚里沙给我的报纸边缘有微微的烧焦痕迹。",
+      "vi": "Tôi chợt nhận ra, Tờ báo Alisa đưa cho tôi có vết cháy nhẹ ở mép.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro011",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro011|",
+      "ja": "燃やしたような跡があるな。",
+      "zh": "有被烧过的痕迹啊。",
+      "vi": "Có dấu hiệu bị đốt cháy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa008",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa008|",
+      "ja": "それはウチがやった。<br>血文字が気味悪くてな。",
+      "zh": "那是我干的。<br>\n报纸上有用血写的字，看着瘆得慌。",
+      "vi": "Đó là những gì Tao đã làm. Trên báo có dòng chữ viết bằng máu, trông rất đáng sợ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa009",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa009|",
+      "ja": "でも重要な情報かもしれねーって思い直して、<br>結局やめた。",
+      "zh": "不过后来我想可能是重要信息，<br>\n就没继续烧了。",
+      "vi": "Nhưng sau đó Tao nghĩ đó có thể là thông tin quan trọng, Nó không tiếp tục cháy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa010",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa010|",
+      "ja": "ウチの魔法は【発火】だからな。",
+      "zh": "我的魔法是【点火】。",
+      "vi": "Phép thuật của Tao là [đánh lửa].",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative014",
+      "speaker_tag": "",
+      "ja": "アリサは指先に、<br>まるで見えないライターを持っているかのように<br>ぽっと炎を<ruby=\"とも\">点</ruby>してみせた。",
+      "zh": "亚里沙在手指尖上<br>\n轻轻燃起一小团火焰，<br>\n就好像拿着一支看不见的打火机似的。",
+      "vi": "Alisa trong tầm tay bạn Nhẹ nhàng thắp lên ngọn lửa nhỏ, Nó giống như cầm một chiếc bật lửa vô hình.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Noah006",
+      "speaker_tag": "; > Noah: |#0201Adv15_Noah006|",
+      "ja": "わあ～、きれい！！",
+      "zh": "哇～，好漂亮！！",
+      "vi": "Wow~, đẹp quá! !",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa011",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa011|",
+      "ja": "き、綺麗なもんかよ！",
+      "zh": "漂、漂亮个屁啊！",
+      "vi": "Đẹp, mông đẹp!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Noah007",
+      "speaker_tag": "; > Noah: |#0201Adv15_Noah007|",
+      "ja": "えーすっごくきれいだよ？<br>アリサちゃんってすごいねぇ。",
+      "zh": "欸——超级漂亮啊？<br>\n亚里沙真厉害。",
+      "vi": "Ơ - siêu đẹp à? Alisa thật tuyệt vời.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa012",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa012|",
+      "ja": "おめえ調子狂うな……。",
+      "zh": "你这家伙真让人摸不着头脑……",
+      "vi": "Các mày thật sự rất bối rối...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro012",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro012|",
+      "ja": "（炎を出せる魔法か……魔女化が進んだら、<br>　危険かもしれない）",
+      "zh": "（能够产生火焰的魔法吗……如果魔女化程度加深，<br>\n这种能力可能会变得很危险）",
+      "vi": "(Liệu phép thuật có thể tạo ra lửa...nếu mức độ biến đổi phù thủy ngày càng sâu sắc, Khả năng này có thể trở nên nguy hiểm)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Hiro013",
+      "speaker_tag": "; > Hiro: |#0201Adv15_Hiro013|",
+      "ja": "私たちはもう行く。",
+      "zh": "我们该走了。",
+      "vi": "Đã đến lúc chúng ta phải đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Alisa013",
+      "speaker_tag": "; > Alisa: |#0201Adv15_Alisa013|",
+      "ja": "勝手にしろ。ウチはもう少し、<br>この辺りを調べるつもりだ。",
+      "zh": "随你们便。<br>\n我还想再调查一下这附近。",
+      "vi": "Như mày mong muốn. Tao muốn điều tra lại khu vực này.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative015",
+      "speaker_tag": "",
+      "ja": "懲罰房にどこか<ruby=\"ひ\">惹</ruby>きつけられている様子で、<br>アリサがふらふらと奥へと歩いていく。",
+      "zh": "亚里沙似乎被惩罚室吸引住了，<br>\n她摇摇晃晃地向深处走去。",
+      "vi": "Alisa có vẻ bị thu hút bởi Phòng Kỷ Luật Biệt Giam, Cô loạng choạng tiến sâu hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv15_Narrative016",
+      "speaker_tag": "",
+      "ja": "私たちはその場を後にした。",
+      "zh": "我们离开了那里。",
+      "vi": "Chúng tôi rời khỏi đó.",
+      "objection_links": []
+    }
+  ]
+}

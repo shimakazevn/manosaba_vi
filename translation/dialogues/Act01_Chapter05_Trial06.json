@@ -1,0 +1,680 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter05_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter05_Trial06",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter05/Act01_Chapter05_Trial06' Naninovel scenario script",
+  "total_entries": 83,
+  "entries": [
+    {
+      "id": "0105Trial06_Meruru001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial06_Meruru001|",
+      "ja": "私はそんな強い力は<br>持ってないので、<br>大きな傷を治すなんて<br>無理です……！",
+      "zh": "我并没有那么<br>\n强大的力量，<br>\n根本不可能治愈<br>\n那么大的伤口……！",
+      "vi": "Tôi không phải là Sức mạnh mạnh mẽ, Không thể chữa khỏi Vết thương lớn quá...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Meruru002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial06_Meruru002|",
+      "ja": "それに、<br>死体の傷を治すなんて……！<br>そんなこと、<br>考えたことも<br>ありませんでした……。",
+      "zh": "而且，<br>\n我从来<br>\n没有想过……<br>\n我能治愈<br>\n尸体的伤口……！",
+      "vi": "Hơn nữa, Tôi chưa bao giờ Chưa bao giờ nghĩ tới điều đó... Tôi có thể chữa lành Những vết thương trên xác chết...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial06_Margo001|",
+      "ja": "……そういえば<br>前にシェリーちゃんが<br>傷を負った時も<br>メルルちゃんは<br>治しきれてなかったわね。",
+      "zh": "……说起来，<br>\n之前雪莉<br>\n受伤的时候，<br>\n梅露露也没能<br>\n完全治好呢。",
+      "vi": "...Nói đến đây, Trước Sherry Khi bị thương, Meruru cũng thất bại Chữa khỏi hoàn toàn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial06_Margo002|",
+      "ja": "本当にメルルちゃんに<br>大きな傷を治す力が<br>あるのかしら？",
+      "zh": "梅露露真的有<br>\n治愈大型伤口的<br>\n能力吗？",
+      "vi": "Meruru thực sự có chữa lành vết thương lớn Khả năng?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Coco001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial06_Coco001|",
+      "ja": "つか、ナノカの体を<br>細切れにしたっていうけど……<br>それなら<link=\"Objection_01_05_06_01\">服</link>は<br>どうすんの？",
+      "zh": "还有，你说奈叶香的身体<br>\n被切成碎片……<br>\n那她的<link=\"Objection_01_05_06_01\">衣服</link><br>\n要怎样复原？",
+      "vi": "Ngoài ra, bạn còn nói cơ thể của Nanoyaka cắt thành từng miếng... Sau đó <link=\"Objection_01_05_06_01\"> quần áo của cô ấy </link> Làm thế nào để phục hồi?",
+      "objection_links": [
+        "Objection_01_05_06_01"
+      ]
+    },
+    {
+      "id": "0105Trial06_Margo003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial06_Margo003|",
+      "ja": "たしかにそれもそうね。",
+      "zh": "确实，这也是个问题。",
+      "vi": "Quả thực đây cũng là một vấn đề.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial06_Margo004|",
+      "ja": "エマちゃんの推理だと、<br>犯人はナノカちゃんを<br>撃ったことになる<br>みたいだけど……。",
+      "zh": "按照艾玛的推理，<br>\n凶手应该是<br>\n开枪打中了<br>\n奈叶香……",
+      "vi": "Theo lý luận của Ema, Kẻ sát nhân phải là Đã bắn Nanoha...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial06_Margo005|",
+      "ja": "でもナノカちゃんの服に、<br>撃たれたような<link=\"Objection_01_05_06_02\">痕跡</link>は<br>残っていなかったわ？",
+      "zh": "但是奈叶香的衣服上<br>\n并没有留下<br>\n被枪击的<link=\"Objection_01_05_06_02\">痕迹</link>啊？",
+      "vi": "Nhưng quần áo của Nanoyaka thì và đã không rời đi <link=\"Objection_01_05_06_02\"> dấu vết bị bắn </link>?",
+      "objection_links": [
+        "Objection_01_05_06_02"
+      ]
+    },
+    {
+      "id": "0105Trial06_Coco002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial06_Coco002|",
+      "ja": "エマっち、<br>それでもメルちゃんが<br><link=\"Objection_01_05_06_03\">ヤった</link>って<br>言ってんの？",
+      "zh": "艾玛亲，<br>\n你还要<br>\n坚持说<br>\n这<link=\"Objection_01_05_06_03\">是小梅干的</link>吗？",
+      "vi": "Bạn Ema thân mến, bạn vẫn cứ khăng khăng nói rằng chuyện này <link=\"Objection_01_05_06_03\">là do bé Meruru làm</link> sao?",
+      "objection_links": [
+        "Objection_01_05_06_03"
+      ]
+    },
+    {
+      "id": "0105Trial06_Meruru003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial06_Meruru003|",
+      "ja": "エマさんは<br>そう信じたいんで<br>しょうけど……。",
+      "zh": "艾玛小姐似乎<br>\n很相信自己的<br>\n推理……",
+      "vi": "Ema có vẻ Tôi tin vào của mình Lý lẽ...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Meruru004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial06_Meruru004|",
+      "ja": "でも実際、<br>ナノカさんの傷が<br>治ったなんて<br><link=\"Objection_01_05_06_04\">証拠はありません</link><br>よね？",
+      "zh": "但实际上，<br>\n并<link=\"Objection_01_05_06_04\">没有证据</link>表明<br>\n奈叶香小姐的伤口<br>\n被治愈了，<br>\n对不对？",
+      "vi": "Nhưng thực ra, và <link=\"Objection_01_05_06_04\"> không có bằng chứng </link> rằng Vết thương của cô Nanoyaka Đã khỏi bệnh, Đúng không?",
+      "objection_links": [
+        "Objection_01_05_06_04"
+      ]
+    },
+    {
+      "id": "0105Trial06_Meruru005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial06_Meruru005|",
+      "ja": "エマさん……。<br>私、あなたのこと……<br>信じてますから……！",
+      "zh": "艾玛小姐……<br>\n我相信你……<br>\n一定能拨乱反正……！",
+      "vi": "Ema... Tôi tin bạn... Tôi chắc chắn sẽ có thể mang lại trật tự cho sự hỗn loạn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema001",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema001|",
+      "ja": "（……ナノカちゃんの残した【口の中の傷】。<br>　もしメルルちゃんの魔法を伝えようとしたのなら……）",
+      "zh": "（……奈叶香留下的【口腔内的伤口】，<br>\n如果其中的真相就是梅露露的魔法……）",
+      "vi": "(...[Vết thương ở miệng] do Nanoyaka để lại, Nếu sự thật là phép thuật của Meruru...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema002",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema002|",
+      "ja": "（ナノカちゃんはその時、すでに傷を負っていたのかも……！<br>　そのことが証明できれば……！）",
+      "zh": "（那么，奈叶香当时可能已经受伤了……！<br>\n如果能证明这一点就好了……！）",
+      "vi": "(Vậy có thể lúc đó Nanoyaka đã bị thương...! Sẽ thật tuyệt nếu điều này có thể được chứng minh...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Choice001",
+      "speaker_tag": "; > @choice |#0105Trial06_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "服もなおした",
+      "zh": "衣服也复原了",
+      "vi": "Quần áo cũng đã được phục hồi",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Choice002",
+      "speaker_tag": "; > @choice |#0105Trial06_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "銃弾が残っている",
+      "zh": "子弹还留在体内",
+      "vi": "Viên đạn vẫn còn trong cơ thể",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Choice003",
+      "speaker_tag": "; > @choice |#0105Trial06_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "メルルはヤってない",
+      "zh": "不是梅露露干的",
+      "vi": "Không phải Meruru đã làm điều đó",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Choice004",
+      "speaker_tag": "; > @choice |#0105Trial06_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "証拠は必要ない",
+      "zh": "不需要证据",
+      "vi": "không cần bằng chứng",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema003",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema003|",
+      "ja": "ナノカちゃんの銃の残された１発……<br>それはナノカちゃんの体に撃ち込まれたはずだよ。",
+      "zh": "奈叶香的枪里不见了的那一颗子弹……<br>\n应该是射进了奈叶香体内。",
+      "vi": "Viên đạn bị thiếu trên súng của Nanoyoka... Đáng lẽ nó phải được xuất tinh vào bên trong Nanoyaka.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema004",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema004|",
+      "ja": "だからナノカちゃんの体には、<br>まだ銃弾が残っているはずだ！<br>それを探せば……！",
+      "zh": "所以奈叶香的体内<br>\n应该还留有子弹！<br>\n如果能找到它的话……！",
+      "vi": "Vậy cơ thể của Nanoyaka Chắc vẫn còn đạn! Giá như tôi có thể tìm thấy nó...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo006",
+      "speaker_tag": "; > Margo: |#0105Trial06_Margo006|",
+      "ja": "どうやって？",
+      "zh": "怎么找？",
+      "vi": "Làm thế nào để tìm thấy nó?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema005",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema005|",
+      "ja": "え？",
+      "zh": "欸？",
+      "vi": "Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo007",
+      "speaker_tag": "; > Margo: |#0105Trial06_Margo007|",
+      "ja": "仮にナノカちゃんの体に残っているとして……<br>弾丸はどこに入っているのかしら？",
+      "zh": "就算子弹真的留在奈叶香体内……<br>\n你知道它在哪里吗？",
+      "vi": "Ngay cả khi viên đạn thực sự ở bên trong Nanoyaka... Bạn có biết nó ở đâu không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo008",
+      "speaker_tag": "; > Margo: |#0105Trial06_Margo008|",
+      "ja": "今から体をぐちゃぐちゃになるまで引き裂いて、<br>どこに弾丸があるのか探してみる？",
+      "zh": "要现在搅碎她的尸体，<br>\n来找那颗子弹吗？",
+      "vi": "Để nghiền nát cơ thể cô ấy bây giờ, Đang tìm viên đạn đó?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema006",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema006|",
+      "ja": "そ、それはその……！<br>金属探知機を使うとか……！",
+      "zh": "那、那个……！<br>\n可以用金属探测器……！",
+      "vi": "Cái đó, cái đó...! Bạn có thể sử dụng máy dò kim loại...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Coco003",
+      "speaker_tag": "; > Coco: |#0105Trial06_Coco003|",
+      "ja": "じゃあその金属探知機はどこにあんだよ！<br>屏風の中か！？",
+      "zh": "那金属探测器上哪找！<br>\n天上掉下来吗！？",
+      "vi": "Coco có thể tìm thấy máy dò kim loại ở đâu? Nó có phải từ trên trời rơi xuống không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema007",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema007|",
+      "ja": "（たしかに探し出す方法はないかも……！）",
+      "zh": "（看来确实没有办法找到……！）",
+      "vi": "(Có vẻ như thực sự không có cách nào để tìm thấy nó...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema008",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema008|",
+      "ja": "（何かメルルちゃんの力を<br>　説明できるものはないかな……？）",
+      "zh": "（有没有什么办法<br>\n能解释梅露露的能力呢……？）",
+      "vi": "(Có cách nào Làm sao nó có thể giải thích khả năng của Meruru...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema009",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema009|",
+      "ja": "（実際に証拠にならなくても……<br>　可能性を積み上げて、マーゴちゃんと<br>　ココちゃんに訴えかけられれば……！）",
+      "zh": "（就算不能当作直接的证据……<br>\n只要能累积一些可能性，<br>\n说得动玛格和可可的话……！）",
+      "vi": "(Ngay cả khi nó không thể được sử dụng làm bằng chứng trực tiếp... Miễn là chúng ta có thể tích lũy được một số khả năng, Bạn có thể nói gì với Margo và Coco...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema010",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema010|",
+      "ja": "そうか……！<br>メルルちゃんはナノカちゃんを殺してないのかも！",
+      "zh": "我明白了……！<br>\n说不定梅露露并没有杀害奈叶香！",
+      "vi": "Tôi hiểu...! Có lẽ Meruru không giết Nanoyoka!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Coco004",
+      "speaker_tag": "; > Coco: |#0105Trial06_Coco004|",
+      "ja": "は？<br>じゃあなに？<br>ナノカは勝手に死んだん？",
+      "zh": "啊？<br>\n所以是哪样？<br>\n奈叶香是无缘无故死掉的？",
+      "vi": "Hả? Vậy nó như thế nào? Nanoyaka chết không rõ nguyên nhân?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema011",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema011|",
+      "ja": "いやそれは……直接殺してないって意味で……<br>他のことはヤってるというか……。",
+      "zh": "不，我的意思是……她没有直接杀人……<br>\n但可能做了其他事间接害死了……",
+      "vi": "Không, ý tôi là...cô ấy không trực tiếp giết ai cả... Nhưng có thể anh ta đã làm những việc khác gián tiếp giết chết anh ta...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Coco005",
+      "speaker_tag": "; > Coco: |#0105Trial06_Coco005|",
+      "ja": "どっちだよ！！<br>あやふやすぎんだろ！",
+      "zh": "到底杀没杀！！<br>\n讲得太模糊了吧！",
+      "vi": "Giết hắn hay không! ! Nó quá mơ hồ!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema012",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema012|",
+      "ja": "（迷走しちゃったみたい……！）",
+      "zh": "（看来我有点偏离方向了……！）",
+      "vi": "(Có vẻ như tôi hơi lạc đề rồi...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema013",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema013|",
+      "ja": "（何かメルルちゃんの力を<br>　説明できるものはないかな……？）",
+      "zh": "（有没有什么办法<br>\n能解释梅露露的能力呢……？）",
+      "vi": "(Có cách nào Làm sao nó có thể giải thích khả năng của Meruru...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema014",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema014|",
+      "ja": "（実際に証拠にならなくても……<br>　可能性を積み上げて、マーゴちゃんと<br>　ココちゃんに訴えかけられれば……！）",
+      "zh": "（就算不能当作直接的证据……<br>\n只要能累积一些可能性，<br>\n说得动玛格和可可的话……！）",
+      "vi": "(Ngay cả khi nó không thể được sử dụng làm bằng chứng trực tiếp... Miễn là chúng ta có thể tích lũy được một số khả năng, Bạn có thể nói gì với Margo và Coco...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema015",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema015|",
+      "ja": "ナノカちゃんの傷が治った証拠なんて必要ないんだ。",
+      "zh": "不需要证明奈叶香的伤口被治愈了。",
+      "vi": "Không cần phải chứng minh vết thương của Nanoyaka đã lành.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema016",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema016|",
+      "ja": "だってナノカちゃんの死体を<br>地下処刑台の覗き穴に通すためには、<br>いったんバラバラにしてから治す必要があるからね。",
+      "zh": "因为要让奈叶香的尸体<br>\n通过地下处刑台的小窗，<br>\n就必须先把她切成碎片再治愈。",
+      "vi": "Bởi vì tôi muốn xác của Nanoyaka Qua cửa sổ nhỏ của sàn hành quyết dưới lòng đất, Cô ấy sẽ phải bị cắt thành từng mảnh và sau đó được chữa lành.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo009",
+      "speaker_tag": "; > Margo: |#0105Trial06_Margo009|",
+      "ja": "でもその必要があるのは、<br>エマちゃんの証言が正しかったら……<br>という条件付きよ？",
+      "zh": "但这只有在<br>\n艾玛的证词正确的情况下<br>\n才成立哦？",
+      "vi": "Nhưng tính năng này chỉ hoạt động trong Lời khai của Ema là đúng nếu Mới thành lập?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo010",
+      "speaker_tag": "; > Margo: |#0105Trial06_Margo010|",
+      "ja": "エマちゃんがナノカちゃんを殺していれば<br>トリックなんて必要ないものね。",
+      "zh": "如果是艾玛杀了奈叶香，<br>\n就不需要用到这些把戏了。",
+      "vi": "Nếu Ema giết Nanoyaka, Không cần thiết phải sử dụng những thủ thuật này.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Coco006",
+      "speaker_tag": "; > Coco: |#0105Trial06_Coco006|",
+      "ja": "それに……メルちゃんが綺麗に傷を治せるとしても、<br>エマっちの推理じゃ説明できないこと多すぎん？",
+      "zh": "而且……就算小梅能完美地治愈伤口，<br>\n艾玛亲的推理也有很多地方解释不通吧？",
+      "vi": "Và... ngay cả khi Xiaomei có thể chữa lành vết thương một cách hoàn hảo, Có rất nhiều điều về lý luận của Ema không hợp lý phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Coco007",
+      "speaker_tag": "; > Coco: |#0105Trial06_Coco007|",
+      "ja": "ちょっと強引に進め過ぎじゃねーの？",
+      "zh": "你是不是推理得太强硬了？",
+      "vi": "Bạn có lý luận quá mạnh mẽ không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema017",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema017|",
+      "ja": "（たしかに根拠を示せてないかも……！）",
+      "zh": "（确实没拿出足够的证据……！）",
+      "vi": "(Tôi thực sự không cung cấp đủ bằng chứng…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema018",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema018|",
+      "ja": "（何かメルルちゃんの力を<br>　説明できるものはないかな……？）",
+      "zh": "（有没有什么办法<br>\n能解释梅露露的能力呢……？）",
+      "vi": "(Có cách nào Làm sao nó có thể giải thích khả năng của Meruru...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema019",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema019|",
+      "ja": "（実際に証拠にならなくても……<br>　可能性を積み上げて、マーゴちゃんと<br>　ココちゃんに訴えかけられれば……！）",
+      "zh": "（就算不能当作直接的证据……<br>\n只要能累积一些可能性，<br>\n说得动玛格和可可的话……！）",
+      "vi": "(Ngay cả khi nó không thể được sử dụng làm bằng chứng trực tiếp... Miễn là chúng ta có thể tích lũy được một số khả năng, Bạn có thể nói gì với Margo và Coco...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema020",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema020|",
+      "ja": "きっと……メルルちゃんは<br>服も治したんだ。",
+      "zh": "我想……梅露露肯定<br>\n连衣服都“治愈”了。",
+      "vi": "Tôi nghĩ...Meruru phải Ngay cả quần áo cũng được “chữa lành”.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Coco008",
+      "speaker_tag": "; > Coco: |#0105Trial06_Coco008|",
+      "ja": "はあ！？<br>ちまちま裁縫したってーの！？",
+      "zh": "哈啊！？<br>\n你是说她一针一线地缝补了！？",
+      "vi": "Hà! ? Ý bạn là cô ấy đã vá nó từng mũi một! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo011",
+      "speaker_tag": "; > Margo: |#0105Trial06_Margo011|",
+      "ja": "さすがに無理があるわ、エマちゃん。<br>撃たれた跡も残らないように修繕するなんて、<br>それこそ魔法よ。",
+      "zh": "艾玛，这也太牵强了吧。<br>\n能修补到连被枪击的痕迹都不留，<br>\n简直就是魔法。",
+      "vi": "Ema, điều này quá xa vời. Có thể sửa chữa đến mức không còn dấu vết bị bắn, Đó chỉ là phép thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema021",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema021|",
+      "ja": "……そう、魔法なんだよ。",
+      "zh": "……没错，就是魔法。",
+      "vi": "...Phải, đó là phép thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo012",
+      "speaker_tag": "; > Margo: |#0105Trial06_Margo012|",
+      "ja": "……え？",
+      "zh": "……欸？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema022",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema022|",
+      "ja": "メルルちゃんが無機物さえも治すことができた<br>強力な魔法の使い手だったという証拠……<br>それは、これだ！",
+      "zh": "证明梅露露是强大的魔法使用者，<br>\n甚至无机物都能“治愈”的证据……<br>\n就是这个！",
+      "vi": "Chứng minh rằng Meruru là một người sử dụng phép thuật mạnh mẽ, Bằng chứng cho thấy ngay cả chất vô cơ cũng có thể \"chữa bệnh\"... Thế thôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema023",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema023|",
+      "ja": "レスキューボックスの中には<br>裁縫をする為の道具が入っていた……。",
+      "zh": "救急箱里<br>\n备有缝纫用的工具……",
+      "vi": "Trong hộp sơ cứu Có sẵn dụng cụ may…",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema024",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema024|",
+      "ja": "つまりメルルちゃんは、<br>どんな服でも綺麗に直す、<br>【裁縫の魔女】だったんだよ！",
+      "zh": "也就是说，梅露露是<br>\n能完美修复任何衣物的<br>\n【裁缝魔女】！",
+      "vi": "Nói cách khác, Meruru là có thể sửa chữa hoàn hảo mọi loại quần áo [Phù thủy thợ may]!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo013",
+      "speaker_tag": "; > Margo: |#0105Trial06_Margo013|",
+      "ja": "却下。",
+      "zh": "驳回。",
+      "vi": "Bị sa thải.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema025",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema025|",
+      "ja": "（一言で否定されちゃった……！）",
+      "zh": "（被一票否定了……！）",
+      "vi": "(Bị từ chối bởi một phiếu bầu...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema026",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema026|",
+      "ja": "（さすがに手で直すのは難しいか……）",
+      "zh": "（看来确实不可能是手工修复的……）",
+      "vi": "(Có vẻ như nó không thể được sửa chữa bằng tay...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema027",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema027|",
+      "ja": "（でもボクはどこかで見た気がする……！<br>　【無機物が治療された可能性】を……！）",
+      "zh": "（但我总觉得在哪里见过……！<br>\n【无机物被“治愈”的可能性】……！）",
+      "vi": "(Nhưng tôi luôn có cảm giác như mình đã nhìn thấy nó ở đâu đó...! [Khả năng các chất vô cơ được “chữa khỏi”]…! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Meruru006",
+      "speaker_tag": "; > Meruru: |#0105Trial06_Meruru006|",
+      "ja": "……その証拠では<br>【私が服を直した証明】には、<br>ならないと思います……。",
+      "zh": "……我觉得<br>\n这个证据并不能<br>\n【证明我修复了衣服】……",
+      "vi": "…Tôi nghĩ Bằng chứng này không [Bằng chứng là tôi đã sửa quần áo]…",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Meruru007",
+      "speaker_tag": "; > Meruru: |#0105Trial06_Meruru007|",
+      "ja": "エマさん……<br>どうして、私を疑うんですか……？",
+      "zh": "艾玛小姐……<br>\n你为什么要怀疑我呢……？",
+      "vi": "Ema... Tại sao bạn lại nghi ngờ tôi...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema028",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema028|",
+      "ja": "（心が痛い……！）",
+      "zh": "（好心痛……！）",
+      "vi": "(Đau lòng quá...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema029",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema029|",
+      "ja": "（でもボクはどこかで見た気がする……！<br>　【無機物が治療された可能性】を……！）",
+      "zh": "（但我总觉得在哪里见过……！<br>\n【无机物被“治愈”的可能性】……！）",
+      "vi": "(Nhưng tôi luôn có cảm giác như mình đã nhìn thấy nó ở đâu đó...! [Khả năng các chất vô cơ được “chữa khỏi”]…! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema030",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema030|",
+      "ja": "ボクが最初に地下の操作室に入ったとき……<br>操作盤を落として壊しちゃったんだ。",
+      "zh": "我第一次进地下操作室的时候……<br>\n不小心把控制面板摔坏了。",
+      "vi": "Khi tôi lần đầu bước vào phòng mổ dưới lòng đất... Tôi vô tình làm vỡ bảng điều khiển.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Coco009",
+      "speaker_tag": "; > Coco: |#0105Trial06_Coco009|",
+      "ja": "は？<br>最悪じゃん。",
+      "zh": "哈？<br>\n你好坏。",
+      "vi": "Hả? Bạn tốt hay xấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema031",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema031|",
+      "ja": "あ、慌ててたんだ……！<br>わざと壊したわけじゃなくて……！",
+      "zh": "我、我当时太慌张了……！<br>\n不是故意弄坏的啦……！",
+      "vi": "T-tôi đã rất hoảng sợ...! Tôi không cố ý làm vỡ nó...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema032",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema032|",
+      "ja": "で、でも、それはおかしいんだよ。",
+      "zh": "不过，这里有个奇怪的地方。",
+      "vi": "Tuy nhiên, có điều gì đó kỳ lạ ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema033",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema033|",
+      "ja": "だってさっきボクがココちゃんと一緒に<br>もう一度行ったとき……<br>そのパネルは元に戻ってたんだもん。",
+      "zh": "因为刚才我和可可<br>\n一起再去地下的时候……<br>\n那个控制面板已经恢复原样了。",
+      "vi": "Bởi vì vừa rồi Coco và tôi Khi chúng ta lại đi xuống lòng đất... Bảng điều khiển đó đã được khôi phục.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Coco010",
+      "speaker_tag": "; > Coco: |#0105Trial06_Coco010|",
+      "ja": "……たしかに壊れてたとこはなかったけど。<br>それで何が言いたいワケ？",
+      "zh": "……确实看着没坏。<br>\n所以你的意思是？",
+      "vi": "...nó có vẻ tốt. Vậy ý bạn là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema034",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema034|",
+      "ja": "たぶんだけど……<br>メルルちゃんの魔法はすごく強力で、<br>生き物以外でも治せるんだ。",
+      "zh": "虽然只是猜测……<br>\n但梅露露的魔法可能超级厉害，<br>\n连非生物都能“治愈”。",
+      "vi": "Mặc dù đó chỉ là phỏng đoán... Nhưng phép thuật của Meruru có thể cực kỳ mạnh mẽ, Ngay cả những vật không sống cũng có thể được \"chữa lành\".",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema035",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema035|",
+      "ja": "だからメルルちゃんは、<br>地下でボクが壊しちゃった操作盤を<br>魔法で治したんだよ！",
+      "zh": "所以梅露露<br>\n是用魔法修好了<br>\n我在地下弄坏的控制面板！",
+      "vi": "Vì vậy Meruru Nó đã được sửa chữa bằng phép thuật Bảng điều khiển tôi đã phá vỡ dưới lòng đất!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo014",
+      "speaker_tag": "; > Margo: |#0105Trial06_Margo014|",
+      "ja": "メルルちゃんの魔法は<br>【機械ですら治療する】……<br>エマちゃんはそう言いたいわけね。",
+      "zh": "你是想说梅露露的魔法<br>\n强大到【连机器都能“治愈”】，<br>\n对吗？",
+      "vi": "Bạn muốn nói về phép thuật của Meruru Mạnh đến mức [ngay cả máy móc cũng có thể \"chữa khỏi\"], Đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema036",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema036|",
+      "ja": "うん。それならナノカちゃんの服に<br>破れたあとや血痕が残っていなくても<br>不思議じゃないよ！",
+      "zh": "嗯。这么一来，<br>\n奈叶香的衣服上没有破损或血迹<br>\n也就说得通了！",
+      "vi": "Ừm. Bằng cách này, Không có vết nước mắt hay vết máu nào trên quần áo của Nanoyoka Điều đó có ý nghĩa!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo015",
+      "speaker_tag": "; > Margo: |#0105Trial06_Margo015|",
+      "ja": "……もしもそれが本当だとしたら、<br>メルルちゃんは自分の魔法が<br>とても弱いものだと偽っていたということかしら。",
+      "zh": "……如果你说的是真的，<br>\n那就意味着梅露露一直在<br>\n假装自己的魔法很弱，是这个意思吗？",
+      "vi": "…Nếu điều em nói là đúng, Điều đó có nghĩa là Meruru đã ở Đây có phải là ý em khi giả vờ rằng phép thuật của em yếu không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema037",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema037|",
+      "ja": "うん。きっとそうだと思う。<br>これまでバレないよう、<br>調整してたんだ……！",
+      "zh": "嗯，一定是的。<br>\n她一直在小心控制，<br>\n就是为了不被发现……！",
+      "vi": "Vâng, nó phải như vậy. Cô ấy đã kiểm soát cẩn thận, Chỉ để tránh bị phát hiện...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Margo016",
+      "speaker_tag": "; > Margo: |#0105Trial06_Margo016|",
+      "ja": "……だ、そうだけど。<br>どうなのかしら？<br>メルルちゃん。",
+      "zh": "……她是这么说的。<br>\n梅露露，<br>\n你怎么说？",
+      "vi": "...đó là những gì cô ấy đã nói. Meruru, Bạn nói gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Meruru008",
+      "speaker_tag": "; > Meruru: |#0105Trial06_Meruru008|",
+      "ja": "そ、そんなこと、ありえません……！<br>エマさんの勝手な想像で……！<br>私は……いつも本気で……！",
+      "zh": "她、她说的，不可能是事实……！<br>\n这只是艾玛小姐的臆想而已……！<br>\n我一直……都是拼尽全力的……！",
+      "vi": "Những gì cô ấy nói không thể nào là sự thật được...! Đây chỉ là trí tưởng tượng của cô Ema thôi...! Tôi đã luôn...luôn cố gắng hết sức mình...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Coco011",
+      "speaker_tag": "; > Coco: |#0105Trial06_Coco011|",
+      "ja": "……じゃあさ。<br>エマっちの話ってなんか証拠はあんの？<br>メルちゃんが嘘ついてるって証拠。",
+      "zh": "……那么，<br>\n艾玛亲有什么证据吗？<br>\n证明小梅在说谎的证据。",
+      "vi": "...thì, Có bằng chứng nào về nụ hôn của Ema không? Bằng chứng cho thấy Xiaomei đang nói dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Coco012",
+      "speaker_tag": "; > Coco: |#0105Trial06_Coco012|",
+      "ja": "あてぃしらはその【落とした操作盤】も<br>見てないんだけど？",
+      "zh": "我们可没见过那个<br>\n【摔坏的控制面板】哦？",
+      "vi": "Chúng Coco chưa bao giờ thấy điều đó [Bảng điều khiển bị hỏng] Ồ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema038",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema038|",
+      "ja": "そ、それは……！<br>……今はないけど……！",
+      "zh": "这、这个……！<br>\n……现在是没有证据，可是……！",
+      "vi": "Cái này, cái này...! ...Bây giờ không có bằng chứng, nhưng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Meruru009",
+      "speaker_tag": "; > Meruru: |#0105Trial06_Meruru009|",
+      "ja": "……そうです！<br>エマさんの推理はすべて、<br>エマさんの視点のお話のはずです……！",
+      "zh": "……对啊！<br>\n艾玛小姐的推理全都是<br>\n从她自己的角度出发的……！",
+      "vi": "...Vâng! Lý do của cô Ema chỉ là Từ góc nhìn của chính cô ấy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Meruru010",
+      "speaker_tag": "; > Meruru: |#0105Trial06_Meruru010|",
+      "ja": "きっとエマさんは何か勘違いしているか……<br>幻覚でも見せられていたりするんじゃ<br>ないでしょうか……！",
+      "zh": "艾玛小姐一定是误会了什么……<br>\n说不定她看见的<br>\n其实是幻觉……！",
+      "vi": "Chắc hẳn cô Ema đã hiểu lầm điều gì đó... Có lẽ cô ấy đã nhìn thấy Thực ra đó chỉ là ảo ảnh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Ema039",
+      "speaker_tag": "; > Ema: |#0105Trial06_Ema039|",
+      "ja": "そ、そんなことないよ！",
+      "zh": "才、才没有！",
+      "vi": "Chỉ có điều, không!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial06_Meruru011",
+      "speaker_tag": "; > Meruru: |#0105Trial06_Meruru011|",
+      "ja": "エマさん……目を覚ましてください！",
+      "zh": "艾玛小姐……请你清醒一点！",
+      "vi": "Ema...xin hãy tỉnh dậy!",
+      "objection_links": []
+    }
+  ]
+}

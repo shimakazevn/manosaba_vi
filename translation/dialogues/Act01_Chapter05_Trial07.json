@@ -1,0 +1,1462 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter05_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter05_Trial07",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter05/Act01_Chapter05_Trial07' Naninovel scenario script",
+  "total_entries": 181,
+  "entries": [
+    {
+      "id": "0105Trial07_Meruru001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial07_Meruru001|",
+      "ja": "私は何も<br>やっていません……！<br>エマさんの<br>突拍子もない推理……<br>もしかすると、<br>エマさんは誰かに<br>操られているのかも……！",
+      "zh": "我什么<br>\n都没做……！<br>\n艾玛小姐的推理<br>\n太离谱了……<br>\n说不定<br>\n艾玛小姐<br>\n是被谁操控了……！",
+      "vi": "Tôi là gì Thậm chí không làm điều đó ...! Lý do của cô Ema Thật là quá đáng... Có lẽ Ema Ai đã điều khiển nó...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial07_Ema001|",
+      "ja": "そんなことないよ……！<br>ボクはひとつずつ<br>あったことを<br>検証して<br>積み重ねている<br>だけで……！",
+      "zh": "才没有操控……！<br>\n我只是逐一验证了<br>\n发生过的事，<br>\n然后把它们<br>\n串联起来<br>\n而已……！",
+      "vi": "Không có sự kiểm soát...! Tôi vừa xác minh từng cái một Chuyện gì đã xảy ra vậy, Sau đó đặt chúng Đã kết nối nối tiếp Thế thôi…!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial07_Margo001|",
+      "ja": "……でも、<br>たしかに<br>メルルちゃんの<br>言うことも<br>一理あると思うわ。",
+      "zh": "……不过，<br>\n梅露露说的<br>\n确实有一定道理。<br>\n<br>",
+      "vi": "...Tuy nhiên, Điều Meruru đã nói Thực sự có một số sự thật về điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial07_Margo002|",
+      "ja": "仮になんらかの方法で<br>ナノカちゃんが<br>地下施設の壁を<br>越えることができたり、<br>エマちゃんの情報が<br>真実だったとしても……。",
+      "zh": "就算奈叶香<br>\n真的有办法穿过<br>\n地下设施的墙壁，<br>\n或者<br>\n艾玛提出的情报<br>\n都是真实的……",
+      "vi": "Kể cả khi Nanoha Thực sự có một cách để vượt qua Tường của các công trình ngầm, hoặc Thông tin được cung cấp bởi Ema Tất cả đều là sự thật...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial07_Margo003|",
+      "ja": "直接メルルちゃんが<br>ナノカちゃんを<br>殺したと指し示す<br><link=\"Objection_01_05_07_01\">証拠</link>は……<br>ひとつもないんじゃ<br>ないかしら？",
+      "zh": "但……我们没有<br>\n任何一件<br>\n直接<link=\"Objection_01_05_07_01\">证据</link><br>\n表明梅露露<br>\n杀害了奈叶香，<br>\n不是吗？",
+      "vi": "Nhưng...chúng Chị không có Bất kỳ mục nào Trực tiếp<link=\"Objection_01_05_07_01\">bằng chứng</link> Cho thấy Meruru Đã giết Nanoyaka, Phải không?",
+      "objection_links": [
+        "Objection_01_05_07_01"
+      ]
+    },
+    {
+      "id": "0105Trial07_Margo004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial07_Margo004|",
+      "ja": "ナノカちゃんの口に<br>残されていた<link=\"Objection_01_05_07_02\">傷</link>も、<br><link=\"Objection_01_05_07_03\">銃弾</link>も、<br>メルルちゃんの<br><link=\"Objection_01_05_07_04\">犯行を示す証拠</link>とは<br>言い切れないと思うの。",
+      "zh": "我认为，<br>\n不管是奈叶香嘴里<br>\n留下的<link=\"Objection_01_05_07_02\">伤口</link>，<br>\n还是<link=\"Objection_01_05_07_03\">子弹</link>，<br>\n作为<link=\"Objection_01_05_07_04\">证明梅露露作案的证据</link><br>\n都缺乏决定性。",
+      "vi": "Chị nghĩ, Bất kể nó có ở trong miệng Nanoha <link=\"Objection_01_05_07_02\"> vết thương còn lại </link>, Hoặc <link=\"Objection_01_05_07_03\"> viên đạn </link>, Là <link=\"Objection_01_05_07_04\"> bằng chứng chứng minh Meruru đã phạm tội </link> Tất cả đều thiếu sự quyết đoán.",
+      "objection_links": [
+        "Objection_01_05_07_02",
+        "Objection_01_05_07_03",
+        "Objection_01_05_07_04"
+      ]
+    },
+    {
+      "id": "0105Trial07_Coco001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial07_Coco001|",
+      "ja": "……あてぃしは<br>エマっちの言う事も、<br>けっこう<br>説得力あると思う。",
+      "zh": "……我觉得<br>\n艾玛亲说的<br>\n还是很有道理的。<br>",
+      "vi": "…Coco nghĩ Ema đã tự nói điều đó Nó vẫn có ý nghĩa.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial07_Meruru002|",
+      "ja": "そ、そんな……！<br>ココさんまで……！",
+      "zh": "怎、怎么会……！<br>\n连可可小姐也……！",
+      "vi": "Làm sao, làm sao có thể...! Kể cả cô Coco...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial07_Coco002|",
+      "ja": "いや……！<br>でも……！<br>完全に信じきれるか<br>っていうと……<br>エマっちの妄想って<br>考えた方が<br>しっくりくるっていうか……！",
+      "zh": "不是……！<br>\n但是……！<br>\n要说有没有<br>\n完全相信……<br>\n我还是更倾向于<br>\n觉得艾玛亲<br>\n在妄想……！",
+      "vi": "Không...! Nhưng...! Coco muốn nói liệu có Hoàn toàn tin tưởng... Coco vẫn thích hơn Coco nghĩ Ema ở gần Ảo tưởng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial07_Coco003|",
+      "ja": "……メルちゃんが<br>本当にそんなこと……<br>するのかなって……。",
+      "zh": "……小梅真的<br>\n会做坏事吗……<br>\n我有点不确定……",
+      "vi": "...Xiaomei thực sự Bạn sẽ làm điều xấu à... Coco có chút không chắc chắn...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema002",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema002|",
+      "ja": "（……ココちゃん、迷ってるみたいだ）",
+      "zh": "（……可可似乎在犹豫）",
+      "vi": "(…Coco có vẻ đang do dự)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema003",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema003|",
+      "ja": "（もう一押しすれば……<br>　ボクの言葉を信じてくれるかもしれない！）",
+      "zh": "（只要再努力一下……<br>\n也许她就会相信我的话了！）",
+      "vi": "(Hãy cố gắng hơn nữa... Có lẽ cô ấy sẽ tin tôi! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema004",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema004|",
+      "ja": "（……今はとにかく真実に向かって、<br>　前に進むんだ！）",
+      "zh": "（……现在无论如何<br>\n都要朝着真相前进！）",
+      "vi": "(...Dù sao thì bây giờ Tất cả chúng ta phải hướng tới sự thật! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Choice001",
+      "speaker_tag": "; > @choice |#0105Trial07_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "メルルが殺した証拠がある",
+      "zh": "有梅露露杀人的证据",
+      "vi": "Có bằng chứng cho thấy Meruru đã giết ai đó",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Choice002",
+      "speaker_tag": "; > @choice |#0105Trial07_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "傷はダイイングメッセージだった",
+      "zh": "伤口就是死亡讯息",
+      "vi": "Vết thương là thông điệp của cái chết",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Choice003",
+      "speaker_tag": "; > @choice |#0105Trial07_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "銃弾は犯人を示している",
+      "zh": "子弹表明了凶手的身份",
+      "vi": "Viên đạn tiết lộ danh tính kẻ sát nhân",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Choice004",
+      "speaker_tag": "; > @choice |#0105Trial07_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "メルルにはアリバイがない",
+      "zh": "梅露露没有不在场证明",
+      "vi": "Meruru không có bằng chứng ngoại phạm",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Choice005",
+      "speaker_tag": "; > @choice |#0105Trial07_Choice005| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "メルルにしかできない",
+      "zh": "只有梅露露能作案",
+      "vi": "Chỉ Meruru mới có thể phạm tội",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema005",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema005|",
+      "ja": "……いや、メルルちゃんが殺した証拠はあるはずだよ。",
+      "zh": "……不，应该有证据证明梅露露杀了人。",
+      "vi": "…Không, phải có bằng chứng chứng minh rằng Meruru đã giết ai đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo005",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo005|",
+      "ja": "あら、そうなの？<br>じゃあそれを示してちょうだい。",
+      "zh": "哦，是吗？<br>\n那就把它拿出来给我们看看吧。",
+      "vi": "Ồ, thật sao? Sau đó lấy nó ra và cho chúng Chị xem.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema006",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema006|",
+      "ja": "メルルちゃんがナノカちゃんを殺した証拠……<br>それは……！",
+      "zh": "梅露露杀害奈叶香的证据……<br>\n就是这个……！",
+      "vi": "Bằng chứng cho thấy Meruru đã giết Nanoyaka... Đây là nó...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema007",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema007|",
+      "ja": "この証拠品が根拠だよ！",
+      "zh": "这件证物就是根据！",
+      "vi": "Bằng chứng này là cơ sở!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo006",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo006|",
+      "ja": "それのどこがメルルちゃんがナノカちゃんを<br>殺した証拠になるのかしら？",
+      "zh": "这个东西哪里能证明梅露露<br>\n杀了奈叶香呢？",
+      "vi": "Làm sao điều này có thể chứng minh rằng Meruru Thế còn việc giết Nanoyaka thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco004",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco004|",
+      "ja": "なんか勘違いしてね？",
+      "zh": "是你搞错了吧？",
+      "vi": "Bạn có phạm sai lầm không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema008",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema008|",
+      "ja": "（間違えちゃったみたい……！）",
+      "zh": "（看来我弄错了……！）",
+      "vi": "(Có vẻ như tôi đã phạm sai lầm...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema009",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema009|",
+      "ja": "（そもそも、メルルちゃんが殺した証拠は<br>　ないのかもしれない……）",
+      "zh": "（也许真的不存在<br>\n证明梅露露杀了人的证据……）",
+      "vi": "(Có lẽ thực sự không tồn tại Bằng chứng cho thấy Meruru đã giết ai đó...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema010",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema010|",
+      "ja": "（でも諦めちゃダメだ。<br>　こんな時のために、ナノカちゃんは<br>　事件の痕跡を残そうとしてくれたんだから……！）",
+      "zh": "（但我不能轻言放弃。<br>\n奈叶香就是引导我们发现真相，<br>\n才努力留下案件的线索的……！）",
+      "vi": "(Nhưng tôi không thể dễ dàng bỏ cuộc. Nanoyaka là người hướng dẫn chúng ta khám phá sự thật, Chỉ là cố gắng hết sức để lại manh mối cho vụ án thôi...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema011",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema011|",
+      "ja": "……そうだ。<br>残された弾痕は、犯人を示してるんじゃないかな？",
+      "zh": "……对了。<br>\n那道留下的弹痕，会不会就指示了凶手的身份呢？",
+      "vi": "...đúng. Liệu dấu đạn để lại có thể cho biết danh tính của kẻ sát nhân?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco005",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco005|",
+      "ja": "それって……氷に残されてたやつ？",
+      "zh": "你是说……在冰块上的那个？",
+      "vi": "Ý bạn là... cái trên băng?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema012",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema012|",
+      "ja": "そうだよ！<br>あれはナノカちゃんがメルルちゃんを示す<br>メッセージで……！",
+      "zh": "没错！<br>\n那是奈叶香留下的信息，<br>\n暗示梅露露就是凶手……！",
+      "vi": "Đúng vậy! Đó là lời nhắn Nanoyaka để lại, Ám chỉ Meruru là kẻ giết người...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo007",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo007|",
+      "ja": "でもエマちゃんの推理では、<br>銃はメルルちゃんが撃ったんじゃなかったの？",
+      "zh": "但是按照艾玛的推理，<br>\n开枪的不是梅露露吗？",
+      "vi": "Nhưng theo lý luận của Ema, Không phải Meruru đã bắn sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema013",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema013|",
+      "ja": "……あれ？ そうだったかも……。",
+      "zh": "……咦？是哦……",
+      "vi": "...Hả? Vâng...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo008",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo008|",
+      "ja": "ダメよエマちゃん。<br>自分の推理ぐらい、整理しておきなさい。",
+      "zh": "艾玛，你这样很不好。<br>\n自己提出的推理，麻烦自己整理清楚。",
+      "vi": "Ema, điều này thật tệ với em. Hãy phân loại lý do em đưa ra một cách rõ ràng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema014",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema014|",
+      "ja": "（……叱られちゃった）",
+      "zh": "（……被骂了）",
+      "vi": "(...bị mắng)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema015",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema015|",
+      "ja": "（銃弾はたまたま外れて<br>　氷を砕いただけなのかも……）",
+      "zh": "（子弹说不定只是偶然打偏了，<br>\n才打碎了冰……）",
+      "vi": "(Viên đạn có thể đã vô tình trượt, Chỉ khi đó tôi mới phá băng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema016",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema016|",
+      "ja": "（でも諦めちゃダメだ。<br>　こんな時のために、ナノカちゃんは<br>　事件の痕跡を残そうとしてくれたんだから……！）",
+      "zh": "（但我不能轻言放弃。<br>\n奈叶香就是引导我们发现真相，<br>\n才努力留下案件的线索的……！）",
+      "vi": "(Nhưng tôi không thể dễ dàng bỏ cuộc. Nanoyaka là người hướng dẫn chúng ta khám phá sự thật, Chỉ là cố gắng hết sức để lại manh mối cho vụ án thôi...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema017",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema017|",
+      "ja": "で、でもメルルちゃんには<br>アリバイがないんだ！",
+      "zh": "可、可是梅露露<br>\n没有不在场证明啊！",
+      "vi": "Đúng, nhưng Meruru Không có bằng chứng ngoại phạm!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema018",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema018|",
+      "ja": "今朝、地下に入っていくナノカちゃんを<br>ボクは見届けた。",
+      "zh": "今天早上，我亲眼看着<br>\n奈叶香进入了地下。",
+      "vi": "Sáng nay, tôi đã tận mắt chứng kiến Nanoyaka đã hoạt động ngầm.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema019",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema019|",
+      "ja": "ナノカちゃんは、その後――<br>冷凍室で殺されたとしか思えない……！",
+      "zh": "奈叶香只可能是<br>\n在之后，在冷冻室遇害的……！",
+      "vi": "Nanoha chỉ có thể là Sau đó, anh ta bị giết trong tủ đông...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema020",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema020|",
+      "ja": "となるとやっぱり、アリサちゃんの死体発見時、<br>遅れてやってきたメルルちゃんには<br>アリバイがないんだよ……！",
+      "zh": "那么显然，发现亚里沙的尸体时，<br>\n迟到的梅露露是<br>\n没有不在场证明的……！",
+      "vi": "Vì vậy hiển nhiên là khi thi thể của Alisa được tìm thấy, Meruru muộn là Không có bằng chứng ngoại phạm...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru003",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru003|",
+      "ja": "お、お言葉ですが……。",
+      "zh": "那、那个，我想说……",
+      "vi": "Cái đó, cái đó, tôi muốn nói...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru004",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru004|",
+      "ja": "今朝ナノカさんが地下冷凍室に入っていったことを<br>証明できる人は誰もいません……<br>……エマさん以外。",
+      "zh": "今早奈叶香小姐进入地下冷冻室的事，<br>\n没有任何人能证明……<br>\n除了艾玛小姐你。",
+      "vi": "Sáng nay cô Nanoyaka đã vào tủ đông ngầm, Không ai có thể chứng minh... Ngoại trừ cô, cô Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru005",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru005|",
+      "ja": "ですから……<br>エマさんもまたアリバイはないはずです……！",
+      "zh": "所以……<br>\n艾玛小姐你也没有不在场证明……！",
+      "vi": "Vậy... Ema, ​​cô cũng không có bằng chứng ngoại phạm...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru006",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru006|",
+      "ja": "にも関わらず、一方的にアリバイがないと<br>責めるなんて……！<br>横暴……なのではないでしょうか……！",
+      "zh": "可是你却一个劲地说别人<br>\n没有不在场证明……！<br>\n太没道理了……！",
+      "vi": "Nhưng bạn cứ nói về người khác Không có bằng chứng ngoại phạm...! Thật vô nghĩa...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema021",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema021|",
+      "ja": "でも！",
+      "zh": "可是！",
+      "vi": "Nhưng!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru007",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru007|",
+      "ja": "ひゃっ！？",
+      "zh": "呀！？",
+      "vi": "Vâng! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema022",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema022|",
+      "ja": "あっ……ご、ごめん……！",
+      "zh": "啊……对、对不起……！",
+      "vi": "À...ừ, xin lỗi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru008",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru008|",
+      "ja": "い、いえ……こちらこそ……<br>ごめんなさい……。",
+      "zh": "不、不……我才是……<br>\n对不起……",
+      "vi": "Không, không...tôi là... Xin lỗi...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema023",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema023|",
+      "ja": "（なんだかボクの方が悪者みたい……！）",
+      "zh": "（怎么感觉我才是坏人……！）",
+      "vi": "(Sao mình cứ có cảm giác mình là kẻ xấu nhỉ...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema024",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema024|",
+      "ja": "（たしかに……<br>　客観的に見れば、ボクの証言に証拠はない……）",
+      "zh": "（确实……<br>\n客观来看，我的证词是没有证据的……）",
+      "vi": "(Thật vậy... Khách quan mà nói, lời khai của tôi không có bằng chứng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema025",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema025|",
+      "ja": "（でも諦めちゃダメだ。<br>　こんな時のために、ナノカちゃんは<br>　事件の痕跡を残そうとしてくれたんだから……！）",
+      "zh": "（但我不能轻言放弃。<br>\n奈叶香就是引导我们发现真相，<br>\n才努力留下案件的线索的……！）",
+      "vi": "(Nhưng tôi không thể dễ dàng bỏ cuộc. Nanoyaka là người hướng dẫn chúng ta khám phá sự thật, Chỉ là cố gắng hết sức để lại manh mối cho vụ án thôi...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema026",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema026|",
+      "ja": "この犯行は、メルルちゃんにしか出来ないんだ。",
+      "zh": "这场犯罪，只有梅露露才能做到。",
+      "vi": "Tội ác này chỉ có Meruru mới có thể thực hiện được.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema027",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema027|",
+      "ja": "メルルちゃんの魔法がないと、<br>犯行は不可能なんだよ！",
+      "zh": "如果没有梅露露的魔法，<br>\n这场犯罪是不可能完成的！",
+      "vi": "Nếu không có phép thuật của Meruru, Tội ác này là không thể!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru009",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru009|",
+      "ja": "ちょ、ちょっと待ってください……！<br>それはエマさんの証言を元にした話だと思うんです……！",
+      "zh": "请、请等一下……！<br>\n我觉得这个想法完全基于艾玛小姐你的证词……！",
+      "vi": "Làm ơn, xin hãy đợi...! Tôi nghĩ ý tưởng này hoàn toàn dựa trên lời khai của cô, cô Ema...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru010",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru010|",
+      "ja": "それが間違いだったり……<br>嘘だったりした場合……。",
+      "zh": "如果最后发现有错……<br>\n或者其实是在说谎的话……",
+      "vi": "Nếu cuối cùng bạn thấy có gì đó không ổn... Hoặc nếu đó thực sự là một lời nói dối...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru011",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru011|",
+      "ja": "何も証明してないのと一緒……<br>なのではないでしょうか……。",
+      "zh": "就等于什么都没有证明……<br>\n不是吗……",
+      "vi": "Điều đó có nghĩa là chưa có gì được chứng minh... Phải không...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo009",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo009|",
+      "ja": "メルルちゃんの言う通りね。",
+      "zh": "梅露露说得对。",
+      "vi": "Meruru nói đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo010",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo010|",
+      "ja": "エマちゃんが言ってることが本当なら<br>メルルちゃんを疑うのもわかるけど……。",
+      "zh": "如果艾玛你说的是真的，<br>\n那我也能理解为什么要怀疑梅露露……",
+      "vi": "Nếu những gì em nói Ema là đúng, Vậy thì Chị có thể hiểu tại sao em nên nghi ngờ Meruru...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo011",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo011|",
+      "ja": "もっと私たちのことも考えて欲しいわ♡<br>今は口喧嘩じゃなくて、議論をしているんだから……。",
+      "zh": "但我希望你也多为我们考虑一下哦♡<br>\n现在我们不是在吵架，而是在进行讨论……",
+      "vi": "Nhưng Chị hy vọng em sẽ nghĩ về chúng Chị nhiều hơn♡ Bây giờ chúng ta không tranh cãi nữa mà đang thảo luận...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema028",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema028|",
+      "ja": "（たしかに……<br>　客観的に見れば、ボクの証言に証拠はない……）",
+      "zh": "（确实……<br>\n客观来看，我的证词是没有证据的……）",
+      "vi": "(Thật vậy... Khách quan mà nói, lời khai của tôi không có bằng chứng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema029",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema029|",
+      "ja": "（でも諦めちゃダメだ。<br>　こんな時のために、ナノカちゃんは<br>　事件の痕跡を残そうとしてくれたんだから……！）",
+      "zh": "（但我不能轻言放弃。<br>\n奈叶香就是引导我们发现真相，<br>\n才努力留下案件的线索的……！）",
+      "vi": "(Nhưng tôi không thể dễ dàng bỏ cuộc. Nanoyaka là người hướng dẫn chúng ta khám phá sự thật, Chỉ là cố gắng hết sức để lại manh mối cho vụ án thôi...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema030",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema030|",
+      "ja": "……【ナノカちゃんの口の傷】。<br>あれって……<br>ダイイングメッセージだったんじゃないかな。",
+      "zh": "……【奈叶香嘴里的伤】……<br>\n会不会是死亡讯息呢？<br>",
+      "vi": "…[Vết thương ở miệng Nanoyaka]… Có thể đó là một tin nhắn chết chóc?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru012",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru012|",
+      "ja": "えっ……！？",
+      "zh": "欸……！？",
+      "vi": "Hừ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco006",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco006|",
+      "ja": "マジ？",
+      "zh": "真的假的？",
+      "vi": "Thật hay giả?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema031",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema031|",
+      "ja": "だって、わざわざ口の中についてるんだよ。<br>犯人がつけたにしては変な場所だし……。",
+      "zh": "因为是特意弄到嘴里的啊。<br>\n如果是凶手造成伤口，那位置也太奇怪了……",
+      "vi": "Bởi vì nó được cố ý đưa vào miệng. Nếu hung thủ gây ra vết thương thì địa điểm sẽ quá xa lạ...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema032",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema032|",
+      "ja": "それに口の中ってことは<br>【犯人に見つからない場所】<br>でもあったはずだよ。",
+      "zh": "而且嘴里<br>\n也意味着<br>\n【凶手看不到的地方】。",
+      "vi": "Và trong miệng Cũng có nghĩa là [Nơi kẻ sát nhân không thể nhìn thấy].",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema033",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema033|",
+      "ja": "ナノカちゃんはメルルちゃんの魔法で<br>傷を消されちゃうと思ったのかもしれない。",
+      "zh": "奈叶香可能是担心<br>\n伤口会被梅露露的魔法消除掉。",
+      "vi": "Nanoyaka có thể đang lo lắng Vết thương sẽ được chữa lành nhờ phép thuật của Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema034",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema034|",
+      "ja": "死因という証拠を隠滅される前に……<br>自身に傷をつけて、ボクたちに違和感を<br>残そうとしたんだ……！",
+      "zh": "在死因这个证据得到消灭前……<br>\n她在自己身上留下了伤口，<br>\n想给我们留下一些不自然的感觉……！",
+      "vi": "Cho đến khi bằng chứng về nguyên nhân cái chết được loại bỏ... Cô ấy đã để lại vết thương cho mình, Muốn để lại cho chúng ta một cảm giác thiếu tự nhiên nào đó...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo012",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo012|",
+      "ja": "……たしかにその可能性がないとは<br>言いきれないかもしれないわね。",
+      "zh": "……确实不能完全否定<br>\n这种可能。",
+      "vi": "...đúng là không thể phủ nhận hoàn toàn Khả năng này.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo013",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo013|",
+      "ja": "でも推測の域を出ないとは思うわ？",
+      "zh": "但是目前也只是猜测而已，不是吗？",
+      "vi": "Nhưng hiện tại đó chỉ là suy đoán phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo014",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo014|",
+      "ja": "そもそもナノカちゃんに<br>ダイイングメッセージを<br>残す時間なんてあったのかしらね？",
+      "zh": "首先，<br>\n奈叶香真的<br>\n有时间留下死亡讯息吗？",
+      "vi": "Đầu tiên, Nanoha Kashin Có thời gian để để lại lời nhắn chết không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo015",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo015|",
+      "ja": "もしも即死だったとしたらそんな時間なかったはず。<br>その場合は、ダイイングメッセージ自体が<br>犯人の偽装ということになるわ。",
+      "zh": "如果是当场死亡，那就应该没有时间了。<br>\n这样一来，死亡讯息本身<br>\n就成了凶手的伪装。",
+      "vi": "Nếu chết ngay tại chỗ thì sẽ không còn thời gian nữa. Bằng cách này, chính thông điệp tử vong Nó đã trở thành sự ngụy trang của kẻ sát nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco007",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco007|",
+      "ja": "じゃ、じゃあエマっちが<br>メルちゃんになすりつけるために……！？",
+      "zh": "那、那岂不是说，艾玛亲<br>\n想把罪名推给小梅……！？",
+      "vi": "Vậy thì điều đó không có nghĩa là Ema đã hôn Coco muốn đổ lỗi cho Xiaomei ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema035",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema035|",
+      "ja": "そ、そんなことしてないよ……！",
+      "zh": "我、我才没有……！",
+      "vi": "Tôi-tôi không có...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema036",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema036|",
+      "ja": "（ナノカちゃんが死に際、<br>　本当にダイイングメッセージを残せたか<br>　判断する材料はないかもしれない……）",
+      "zh": "（目前我们没有足够证据判断<br>\n奈叶香是否真的有办法<br>\n留下死亡讯息……）",
+      "vi": "(Hiện tại chúng tôi không có đủ bằng chứng để đánh giá Nanoha thực sự có cách Để lại lời nhắn chết...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema037",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema037|",
+      "ja": "（致命傷は治されてしまって、<br>　どんな死に方をしたのか<br>　ボクたちにはわからないから……）",
+      "zh": "（因为致命伤已经被治愈了，<br>\n我们无法得知<br>\n她具体是怎么死的……）",
+      "vi": "(Vì vết thương chí mạng đã được chữa lành, Chúng tôi không cách nào biết được Chính xác thì cô ấy đã chết như thế nào...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema038",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema038|",
+      "ja": "（……でも）",
+      "zh": "（……但是）",
+      "vi": "(…nhưng)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema039",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema039|",
+      "ja": "（逆にナノカちゃんが死に際、<br>　【即死でなかった】と証明できれば……）",
+      "zh": "（反过来说，如果能证明<br>\n奈叶香【并非立即死亡】的话……）",
+      "vi": "(Mặt khác, nếu chứng minh được rằng Nếu Nanoyaka [không chết ngay lập tức]...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema040",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema040|",
+      "ja": "（それがダイイングメッセージを残せた<br>　証明になるかもしれない……！）",
+      "zh": "（说不定就能够证明<br>\n她有时间留下死亡讯息……！）",
+      "vi": "(Có lẽ chúng ta có thể chứng minh Cô ấy đã có thời gian để lại lời nhắn chết chóc...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo016",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo016|",
+      "ja": "……どうかしらエマちゃん。<br>今の質問に、あなたは答えられる？",
+      "zh": "……怎么样，艾玛。<br>\n你能回答刚才的问题吗？",
+      "vi": "… Thế thì sao, Ema. Bạn có thể trả lời câu hỏi vừa rồi được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo017",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo017|",
+      "ja": "【ナノカちゃんはダイイングメッセージを残せたのか】？",
+      "zh": "【奈叶香是否能留下死亡讯息】？",
+      "vi": "[Nanoyaka có thể để lại lời nhắn chết không]?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema041",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema041|",
+      "ja": "……うん。もちろんナノカちゃんが<br>ダイイングメッセージを残す時間はあったよ。<br>なぜなら……。",
+      "zh": "……嗯。奈叶香当然<br>\n有时间留下死亡讯息。<br>\n因为……",
+      "vi": "...Hừm. Tất nhiên là Nanoha Có thời gian để lại một tin nhắn chết chóc. Bởi vì...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Choice006",
+      "speaker_tag": "; > @choice |#0105Trial07_Choice006|",
+      "ja": "移動した痕跡がある",
+      "zh": "有移动过的痕迹",
+      "vi": "Có dấu hiệu chuyển động",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Choice007",
+      "speaker_tag": "; > @choice |#0105Trial07_Choice007|",
+      "ja": "抵抗した痕跡がある",
+      "zh": "有抵抗过的痕迹",
+      "vi": "Có dấu hiệu phản kháng",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Choice008",
+      "speaker_tag": "; > @choice |#0105Trial07_Choice008|",
+      "ja": "もっとダイイングメッセージがある",
+      "zh": "有更多的死亡讯息",
+      "vi": "Còn nhiều tin nhắn chết chóc hơn",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema042",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema042|",
+      "ja": "ナノカちゃんは冷凍室で殺されたあと、<br>処刑台にまで移動した……。",
+      "zh": "奈叶香她在冷冻室被杀后，<br>\n还自己移动到了处刑台……",
+      "vi": "Sau khi Nanoyaka bị giết trong tủ đông, Anh ta cũng tự mình di chuyển đến đài hành hình...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema043",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema043|",
+      "ja": "つまりこれはしばらく生きてたってことだよ！",
+      "zh": "这说明她还活了一段时间！",
+      "vi": "Điều này có nghĩa là cô ấy đã sống được một thời gian!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco008",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco008|",
+      "ja": "いや、運ばれたって話なんじゃなかったん？",
+      "zh": "你不是说她是被人搬过去的吗？",
+      "vi": "Không phải bạn nói rằng cô ấy đã được chuyển đến đó sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo018",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo018|",
+      "ja": "ナノカちゃんはバラバラにされても生きていた……<br>なかなか斬新な発想ね、エマちゃん。",
+      "zh": "奈叶香被人砍成八块也还活着……<br>\n真是个相当新颖的思路啊，艾玛。",
+      "vi": "Nanoyaka bị chặt thành tám mảnh mà vẫn còn sống... Thật là một ý tưởng mới lạ, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo019",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo019|",
+      "ja": "でも、納得はできないわ。<br>その発想。",
+      "zh": "但是，<br>\n我不认同这种思路。",
+      "vi": "Tuy nhiên, Chị không đồng ý với dòng suy nghĩ này.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema044",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema044|",
+      "ja": "（斬新過ぎて誰もついてこれない……！）",
+      "zh": "（思路太过新颖以至于没人能跟上……！）",
+      "vi": "(Ý tưởng quá mới nên không ai theo kịp được...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema045",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema045|",
+      "ja": "（ナノカちゃんの口の中の傷が<br>　ダイイングメッセージだと証明するのに必要なこと……）",
+      "zh": "（要证明奈叶香嘴里的伤<br>\n是死亡讯息……）",
+      "vi": "(Để chứng minh vết thương ở miệng Nanoyaka Đó là một tin nhắn chết chóc…)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema046",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema046|",
+      "ja": "（それはナノカちゃんが生きてたことを証明することだ。<br>　でもそんなこと……<br>　傷が残ってないのに、できるのかな）",
+      "zh": "（那就必须证明，奈叶香当时还活着。<br>\n但是在伤痕都不存在的情况下……<br>\n真的可以证明吗）",
+      "vi": "(Vậy thì phải chứng minh được rằng lúc đó Nanoyaka vẫn còn sống. Nhưng khi không có vết sẹo... Nó thực sự có thể được chứng minh?)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema047",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema047|",
+      "ja": "（証明できる証拠があるとしたら……<br>　もう体には残っていないのかも……？）",
+      "zh": "（如果真有能证明这一点的证据……<br>\n也许并不存在于身体上……？）",
+      "vi": "(Nếu có bất kỳ bằng chứng nào chứng minh điều này... Có lẽ không phải về thể chất...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema048",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema048|",
+      "ja": "ナノカちゃんは冷凍室で犯人と戦ったはずだよ……！",
+      "zh": "奈叶香应该是在冷冻室和凶手打斗过了……！",
+      "vi": "Nanoyaka chắc chắn đã chiến đấu với kẻ sát nhân trong tủ đông...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema049",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema049|",
+      "ja": "残された弾痕は、それを示しているんだ！<br>これはナノカちゃんがしばらく生きていた証拠だよ！",
+      "zh": "而留下来的弹痕就是证据！<br>\n这证明奈叶香当时还存活了一段时间！",
+      "vi": "Và những vết đạn để lại chính là bằng chứng! Điều này chứng tỏ Nanoyaka vẫn còn sống được một thời gian!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo020",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo020|",
+      "ja": "連続で撃ち込まれたうちの１発が外れただけなら、<br>そうとも限らないんじゃないかしら？",
+      "zh": "如果是连续射击，只是其中一发射歪了而已，<br>\n那就没法肯定她没当场死亡吧？",
+      "vi": "Nếu chụp liên tục nhưng một trong các ảnh bị lệch, Vậy thì không có cách nào chắc chắn rằng cô ấy không chết tại chỗ phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco009",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco009|",
+      "ja": "１発目がはずれて２発目が頭をブチ抜いてたら即死じゃね？<br>その場合はダイイングメッセージなんて<br>残せないと思うけど？",
+      "zh": "要是第一枪打偏，第二枪就爆头了的话，那不就是立刻归西了吗？<br>\n这种情况下还怎么留所谓的<br>\n死亡讯息啊？",
+      "vi": "Nếu phát đầu tiên trượt và phát thứ hai trúng đầu, chẳng phải anh ta sẽ chết ngay lập tức sao? Làm cách nào chúng ta có thể bỏ cái gọi là trong trường hợp này? Tin nhắn tử thần?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema050",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema050|",
+      "ja": "……あれ？ そうかも？",
+      "zh": "……咦？好像是？",
+      "vi": "...Hả? Có vẻ như vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco010",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco010|",
+      "ja": "エマっち、頭働いてる？<br>それとももう誰かに頭、撃ち抜かれ済み？",
+      "zh": "艾玛亲，你脑子还转得动不？<br>\n还是说已经被人爆头了？",
+      "vi": "Ema thân mến, bạn vẫn đang suy nghĩ phải không? Hay là ai đó đã bắn vào đầu anh ta rồi?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema051",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema051|",
+      "ja": "（ボ、ボクの頭はまだ動いてるはず……！）",
+      "zh": "（我、我的脑子应该还在正常运转才对……！）",
+      "vi": "(M-não của mình chắc vẫn hoạt động bình thường…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema052",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema052|",
+      "ja": "（ナノカちゃんの口の中の傷が<br>　ダイイングメッセージだと証明するのに必要なこと……）",
+      "zh": "（要证明奈叶香嘴里的伤<br>\n是死亡讯息……）",
+      "vi": "(Để chứng minh vết thương ở miệng Nanoyaka Đó là một tin nhắn chết chóc…)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema053",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema053|",
+      "ja": "（それはナノカちゃんが生きてたことを証明することだ。<br>　でもそんなこと……<br>　傷が残ってないのに、できるのかな）",
+      "zh": "（那就必须证明，奈叶香当时还活着。<br>\n但是在伤痕都不存在的情况下……<br>\n真的可以证明吗）",
+      "vi": "(Vậy thì phải chứng minh được rằng lúc đó Nanoyaka vẫn còn sống. Nhưng khi không có vết sẹo... Nó thực sự có thể được chứng minh?)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema054",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema054|",
+      "ja": "（証明できる証拠があるとしたら……<br>　もう体には残っていないのかも……？）",
+      "zh": "（如果真有能证明这一点的证据……<br>\n也许并不存在于身体上……？）",
+      "vi": "(Nếu có bất kỳ bằng chứng nào chứng minh điều này... Có lẽ không phải về thể chất...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema055",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema055|",
+      "ja": "……冷凍室にはもっと、<br>ダイイングメッセージが残されていたんだから！",
+      "zh": "……冷冻室里还留下了更多的<br>\n死亡讯息！",
+      "vi": "…Còn nữa trong tủ đông Tin nhắn tử thần!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco011",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco011|",
+      "ja": "はあ……！？<br>なにそれ……！？",
+      "zh": "哈啊……！？<br>\n又在说什么……！？",
+      "vi": "Haha...! ? Bạn đang nói về cái gì nữa vậy...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema056",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema056|",
+      "ja": "ナノカちゃんが残したダイイングメッセージは<br>口の中の傷の他にも、もうひとつあったんだ……！<br>それがナノカちゃんが即死でなかった証拠だよ！",
+      "zh": "奈叶香留下的死亡讯息<br>\n除了嘴里的伤，还有另一个……！<br>\n那就是证明奈叶香没有当场死亡的证据！",
+      "vi": "Lời nhắn chết của Nanoyaka để lại Ngoài vết thương ở miệng còn có một vết thương khác...! Đó là bằng chứng cho thấy Nanoyaka không chết tại chỗ!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo021",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo021|",
+      "ja": "……ふふ。<br>ダイイングメッセージを残せたことを証明するのが<br>もうひとつのダイイングメッセージの存在だなんて……。",
+      "zh": "……呵呵。<br>\n为了证明能够留下死亡讯息<br>\n需要用到另一个死亡讯息……",
+      "vi": "...hehe. Để chứng minh rằng em có thể để lại tin nhắn tử vong Cần thêm một thông điệp chết chóc nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo022",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo022|",
+      "ja": "……面白いわ。<br>聞くだけ聞きましょう。<br>そのダイイングメッセージって、なんなのかしら？",
+      "zh": "……真有意思。<br>\n姑且听你讲一下，<br>\n那个死亡讯息究竟是什么呢？",
+      "vi": "…điều đó thực sự thú vị. Hãy để Chị lắng nghe em, Chính xác thì thông điệp chết chóc đó là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema057",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema057|",
+      "ja": "ナノカちゃんが残した<br>もうひとつのダイイングメッセージ……それは！",
+      "zh": "奈叶香留下的<br>\n另一个死亡讯息……就是！",
+      "vi": "do Nanoyaka để lại Lại một tin nhắn chết chóc nữa...chính là nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema058",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema058|",
+      "ja": "これだよ！<br>ナノカちゃんの口の中が傷ついてるっていう――。",
+      "zh": "就是这个！<br>\n奈叶香的嘴里受伤了——",
+      "vi": "Thế thôi! Miệng Nanoyaka bị đau——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco012",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco012|",
+      "ja": "だから！<br>それを証明するものを出せって言ってんの！！",
+      "zh": "所以说！<br>\n让你拿出能证明这玩意的东西啊！！",
+      "vi": "Vì vậy, nói! Hãy để Coco chỉ cho bạn một cái gì đó có thể chứng minh điều này! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo023",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo023|",
+      "ja": "……【他に】、ナノカちゃんが残した<br>ダイイングメッセージを<br>出してくれるかしら？",
+      "zh": "……你能不能拿出<br>\n【其他】奈叶香留下的<br>\n死亡讯息呢？",
+      "vi": "…em có thể lấy ra được không 【Những người khác】 bị Nanoha bỏ lại Còn những tin nhắn chết chóc thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo024",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo024|",
+      "ja": "ないなら、ここらへんで議論は終わっておきましょう？",
+      "zh": "如果没有的话，讨论就到此为止吧？",
+      "vi": "Nếu không thì cuộc thảo luận kết thúc ở đây phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema059",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema059|",
+      "ja": "（打ち切られちゃう……！）",
+      "zh": "（讨论要结束了……！）",
+      "vi": "(Cuộc thảo luận sắp kết thúc rồi...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema060",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema060|",
+      "ja": "（……そういえば、ナノカちゃんの指先……<br>　傷はないのに血がついていた……<br>　あれがもしかして……！）",
+      "zh": "（……说起来，奈叶香的指尖……<br>\n虽然没有伤口，但沾着血……<br>\n那该不会是……！）",
+      "vi": "(...Nói mới nhớ, đầu ngón tay của Nanoyaka... Dù không có vết thương nhưng vẫn có máu... Không thể nào được...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema061",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema061|",
+      "ja": "ナノカちゃんが持っていたメモだよ！<br>これが犯人を示してるんじゃないかな……！",
+      "zh": "是奈叶香随身携带的便条！<br>\n这可能指向了凶手……！",
+      "vi": "Đó là tờ giấy mà Nanoyaka mang theo bên mình! Điều này có thể chỉ ra kẻ sát nhân...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco013",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco013|",
+      "ja": "なになに？<br>【１６９２３１】？<br>……イロックニサイ、みたいな読み方じゃないか。",
+      "zh": "什么什么？<br>\n【169231】？<br>\n……是什么藏头诗吗？",
+      "vi": "Cái gì cái gì? [169231]? ...đây có phải là một bài thơ chữ đầu không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema062",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema062|",
+      "ja": "全部の数字を足してみて、ココちゃん！",
+      "zh": "可可，把所有数字加起来看看！",
+      "vi": "Coco, cộng tất cả các con số lại và nhìn xem!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco014",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco014|",
+      "ja": "…………２２……？",
+      "zh": "…………22……？",
+      "vi": "…………22……？",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema063",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema063|",
+      "ja": "なんなんだろうねこのメモ。",
+      "zh": "这个便条到底是什么意思呢。",
+      "vi": "Ghi chú này có ý nghĩa gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco015",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco015|",
+      "ja": "こっちが聞きたいんだけど！！<br>あとなんで計算させた！？",
+      "zh": "这话应该我来问才对吧！！<br>\n而且为什么要让我算啊！？",
+      "vi": "Coco nên là người hỏi điều này, phải không? ! Và tại sao Coco phải đếm? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema064",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema064|",
+      "ja": "（これっぽかったんだけどな……！）",
+      "zh": "（我还以为就是这个呢……！）",
+      "vi": "(Tôi nghĩ là thế này...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema065",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema065|",
+      "ja": "（……もっと明確な証拠がなきゃダメだ……！）",
+      "zh": "（……必须拿出更明确的证据才行……！）",
+      "vi": "(…Phải đưa ra nhiều bằng chứng rõ ràng hơn…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema066",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema066|",
+      "ja": "（ナノカちゃんがダイイングメッセージを<br>　残してくれたなら……<br>　口の中と同じくどこかに痕跡が残っているかも……！）",
+      "zh": "（如果奈叶香真的留下了<br>\n死亡讯息的话……<br>\n也许和嘴里面一样，在某处留下了痕迹……！）",
+      "vi": "(Nếu Nanoyaka thực sự rời đi Về phần tin nhắn tử vong... Có lẽ còn sót lại dấu vết đâu đó như trong miệng…! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco016",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco016|",
+      "ja": "それがダイイングメッセージだとは<br>思えないんだけど。",
+      "zh": "我可不觉得<br>\n这东西会是死亡讯息。",
+      "vi": "Coco không nghĩ Thứ này sẽ là một thông điệp chết chóc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo025",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo025|",
+      "ja": "エマちゃん。<br>根拠がないなら、そう言ってほしいわ？",
+      "zh": "艾玛，<br>\n如果没有根据的话，你就直接承认好吗？",
+      "vi": "Ema, Nếu không có căn cứ thì có thể thừa nhận được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo026",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo026|",
+      "ja": "こんな時間、無駄だもの。",
+      "zh": "这样只是在浪费时间。",
+      "vi": "Đây chỉ là một sự lãng phí thời gian.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema067",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema067|",
+      "ja": "（……もっと明確な証拠がなきゃダメだ……！）",
+      "zh": "（……必须拿出更明确的证据才行……！）",
+      "vi": "(…Phải đưa ra nhiều bằng chứng rõ ràng hơn…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema068",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema068|",
+      "ja": "（ナノカちゃんがダイイングメッセージを<br>　残してくれたなら……<br>　口の中と同じくどこかに痕跡が残っているかも……！）",
+      "zh": "（如果奈叶香真的留下了<br>\n死亡讯息的话……<br>\n也许和嘴里面一样，在某处留下了痕迹……！）",
+      "vi": "(Nếu Nanoyaka thực sự rời đi Về phần tin nhắn tử vong... Có lẽ còn sót lại dấu vết đâu đó như trong miệng…! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema069",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema069|",
+      "ja": "この金庫を見て欲しいんだけど……。",
+      "zh": "我想让大家看看这个保险箱……",
+      "vi": "Tôi muốn mọi người thấy nơi này an toàn...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema070",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema070|",
+      "ja": "金庫の表面……<br>数字を入力する部分に血がついてるんだ。",
+      "zh": "保险箱表面……<br>\n数字输入部分上有血迹。",
+      "vi": "Bề mặt an toàn... Có máu ở phần đầu vào kỹ thuật số.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru013",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru013|",
+      "ja": "……そ、それはっ……！",
+      "zh": "……这、这是……！",
+      "vi": "...Đây, đây là...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema071",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema071|",
+      "ja": "現場で血を流しているのは、<br>殺されたナノカちゃんだけのはず……。",
+      "zh": "现场流血的，<br>\n应该只有遇害的奈叶香……",
+      "vi": "Chảy máu tại hiện trường, Đáng lẽ chỉ có Nanoyaka bị giết...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema072",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema072|",
+      "ja": "つまりこれを残せるのは、<br>傷ついたナノカちゃんただひとり……！",
+      "zh": "也就是说，只有受伤的奈叶香<br>\n才能留下这些血迹……！",
+      "vi": "Nói cách khác, chỉ có Nanoyaka bị thương Chỉ để lại những vết máu này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema073",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema073|",
+      "ja": "ナノカちゃんがこれを残したなら……<br>ナノカちゃんは即死はしてなかった。<br>つまり、ダイイングメッセージを残せたはずだよ！",
+      "zh": "如果的确是奈叶香留下的……<br>\n那她就并非当场死亡了。<br>\n也就是说，她应该可以留下死亡讯息才对！",
+      "vi": "Nếu đúng là Nanoyaka đã để lại nó... Sau đó cô ấy không chết ngay tại chỗ. Nói cách khác, cô ấy có thể để lại lời nhắn tử thần!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco017",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco017|",
+      "ja": "い、入り組んでてわけわかんないんだけど！？",
+      "zh": "这、这太复杂了我听不懂啊！？",
+      "vi": "Điều này, điều này quá phức tạp và Coco không thể hiểu được! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo027",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo027|",
+      "ja": "……ふふ。<br>論理としては破綻しているわ。<br>犯人がそれを偽装した可能性もあるしね。",
+      "zh": "……呵呵。<br>\n从逻辑上来说，这个推理是有漏洞的。<br>\n毕竟这也可能是凶手伪造的。",
+      "vi": "...hehe. Về mặt logic mà nói, lý luận này là sai lầm. Rốt cuộc, nó có thể đã được làm giả bởi kẻ sát nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo028",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo028|",
+      "ja": "でも……最後まで聞きたいわ。<br>あなたの推理を聞かせて、エマちゃん。",
+      "zh": "不过……我想听你说完。<br>\n让我听听你的推理吧，艾玛。",
+      "vi": "Nhưng... Chị muốn nghe em nói. Hãy để Chị nghe lý do của em, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema074",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema074|",
+      "ja": "……うん！",
+      "zh": "……嗯！",
+      "vi": "...Hừm!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema075",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema075|",
+      "ja": "（これは仮定に仮定を積み重ねた、<br>　推理とも言えない推測……）",
+      "zh": "（这是在假设之上叠加假设，<br>\n甚至连推理都算不上……）",
+      "vi": "(Đây là việc đặt các giả định lên trên các giả định, Nó thậm chí còn không phải là lý luận…)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema076",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema076|",
+      "ja": "（けれどこの先に、その論理を裏付ける証拠が出てくれば……<br>　みんなに信じてもらえるはず！）",
+      "zh": "（但如果接下来能找到证据支持这个逻辑的话……<br>\n大家一定会相信的！）",
+      "vi": "(Nhưng nếu có thể tìm thấy bằng chứng ủng hộ logic này... Mọi người sẽ tin điều đó! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema077",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema077|",
+      "ja": "（だから、推理を止めちゃダメだ！）",
+      "zh": "（所以，我绝对不能停止推理！）",
+      "vi": "(Vì vậy, tôi tuyệt đối không thể ngừng lý luận!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema078",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema078|",
+      "ja": "ナノカちゃんは金庫のナンバーに触れて<br>血の跡を残したんだよ。",
+      "zh": "奈叶香触碰了保险箱的数字，<br>\n留下了血迹。",
+      "vi": "Nanoyaka chạm vào con số trên két sắt, Một vệt máu còn sót lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo029",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo029|",
+      "ja": "なるほどね。<br>ならナノカちゃんは、命がけでその情報を<br>残したということになるわね？",
+      "zh": "原来如此。<br>\n那就是说奈叶香冒着生命危险<br>\n留下了这个信息咯？",
+      "vi": "Thế thôi. Điều đó có nghĩa là Nanoyaka đã liều mạng Bạn có để lại tin nhắn này không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo030",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo030|",
+      "ja": "だとしたら、その残された血痕は<br>何を意味しているのかしら？",
+      "zh": "那么，这留下的血迹<br>\n意味着什么呢？",
+      "vi": "Vì vậy, vết máu để lại Nó có nghĩa là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema079",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema079|",
+      "ja": "……もちろん、これは金庫のナンバーを使って<br>ある数字の組み合わせを伝えようとしたんだと思う。",
+      "zh": "……当然，我认为她是想用保险箱的数字<br>\n传达某个数字组合。",
+      "vi": "…Tất nhiên, tôi nghĩ cô ấy muốn sử dụng số két sắt Truyền đạt một sự kết hợp nhất định của các con số.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco018",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco018|",
+      "ja": "上から順番に、【６】と【７】と【０】……？<br>これって……。",
+      "zh": "从上往下，分别是【6】【7】还有【0】……？<br>\n这是……",
+      "vi": "Từ trên xuống dưới, chúng là [6], [7] và [0]...? Đây là...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema080",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema080|",
+      "ja": "それが意味する番号はもちろん……。",
+      "zh": "这个数字所代表的当然是……",
+      "vi": "Tất nhiên những gì con số này đại diện là...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Choice009",
+      "speaker_tag": "; > @choice |#0105Trial07_Choice009|",
+      "ja": "暗証番号",
+      "zh": "密码",
+      "vi": "Mật khẩu",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Choice010",
+      "speaker_tag": "; > @choice |#0105Trial07_Choice010|",
+      "ja": "生年月日",
+      "zh": "生日",
+      "vi": "sinh nhật",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Choice011",
+      "speaker_tag": "; > @choice |#0105Trial07_Choice011|",
+      "ja": "囚人番号",
+      "zh": "囚犯编号",
+      "vi": "số tù nhân",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema081",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema081|",
+      "ja": "暗証番号だよ！",
+      "zh": "密码！",
+      "vi": "Mật khẩu!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco019",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco019|",
+      "ja": "金庫の？<br>三桁の暗証番号ってセキュリティゆるくね。",
+      "zh": "保险箱的？<br>\n三位数密码安全性也太低了吧。",
+      "vi": "Một cái két sắt? Độ bảo mật của mật khẩu ba chữ số quá thấp.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema082",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema082|",
+      "ja": "な、何回か同じ数字が使われてるのかも……！",
+      "zh": "也、也许是重复使用了几次同样的数字……！",
+      "vi": "Ngoài ra, có thể cùng một số đã được sử dụng lại nhiều lần...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo031",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo031|",
+      "ja": "暗証番号なら、どちらかと言うと<br>ナノカちゃんのメモに書いてあった数字のほうが<br>近そうだけどね？",
+      "zh": "如果说是密码的话，<br>\n那奈叶香的便条上写的数字<br>\n反而更像欸？",
+      "vi": "Nếu đó là mật khẩu, Con số được viết trên tờ giấy của Nanayuka là Đúng hơn thì nó giống hơn nhỉ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru014",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru014|",
+      "ja": "金庫の暗証番号に血がついてたら、<br>私が犯人になるんですか……？",
+      "zh": "如果保险箱密码上有血迹，<br>\n就能证明我是凶手吗……？",
+      "vi": "Nếu có máu trên sự kết hợp an toàn, Nó có thể chứng minh rằng tôi là kẻ giết người...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema083",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema083|",
+      "ja": "（ち、違ったみたい……！<br>　もう一度考えなおそう……！）",
+      "zh": "（看、看来是搞错了……！<br>\n再好好想想吧……！）",
+      "vi": "(Nhìn này, có vẻ như đã xảy ra nhầm lẫn...! Hãy suy nghĩ lại nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema084",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema084|",
+      "ja": "生年月日かな……！",
+      "zh": "生日吧……！",
+      "vi": "Chúc mừng sinh nhật...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo032",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo032|",
+      "ja": "……６月７日か、７月６日かしらね？<br>そういえば金庫に資料があったけど……<br>どれどれ……？",
+      "zh": "……6月7日，或者7月6日？<br>\n说起来保险箱里好像有资料……？<br>\n让我看一下……",
+      "vi": "…Ngày 7 tháng 6 hay ngày 6 tháng 7? Nhắc mới nhớ, hình như có thông tin trong két sắt…? Hãy để Chị xem xét...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo033",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo033|",
+      "ja": "……あら♡<br>ナノカちゃんが６月６日生まれみたいね。",
+      "zh": "……哎呀♡<br>\n看来奈叶香是6月6日生的呢。",
+      "vi": "…Rất tiếc♡ Có vẻ như Nanoyaka sinh vào ngày 6 tháng 6.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo034",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo034|",
+      "ja": "他の子にそれらしい生まれの子はいないけど……<br>本当に生年月日であっているのかしら？",
+      "zh": "其他人好像也没有相似的生日……<br>\n这真的是生日吗？",
+      "vi": "Có vẻ như không ai có ngày sinh nhật tương tự... Đây thực sự là một sinh nhật?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco020",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco020|",
+      "ja": "エマっち、てきとー言ってる？",
+      "zh": "艾玛亲，你是不是在乱猜啊？",
+      "vi": "Ema thân mến, bạn có đang đoán ngẫu nhiên không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema085",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema085|",
+      "ja": "（ち、違ったみたい……！<br>　もう一度考えなおそう……！）",
+      "zh": "（看、看来是搞错了……！<br>\n再好好想想吧……！）",
+      "vi": "(Nhìn này, có vẻ như đã xảy ra nhầm lẫn...! Hãy suy nghĩ lại nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema086",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema086|",
+      "ja": "３桁の数字が表すもの……<br>それはもちろん、【囚人番号】だよ。",
+      "zh": "三位数字所表示的……<br>\n当然是【囚犯编号】。",
+      "vi": "Ba chữ số đại diện cho điều gì... Tất nhiên đó là [Số tù nhân].",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Coco021",
+      "speaker_tag": "; > Coco: |#0105Trial07_Coco021|",
+      "ja": "囚人番号６７０……それって。",
+      "zh": "囚犯编号670……那是……",
+      "vi": "Tù nhân số 670...đó là...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Margo035",
+      "speaker_tag": "; > Margo: |#0105Trial07_Margo035|",
+      "ja": "メルルちゃんの囚人番号ね。",
+      "zh": "是梅露露的囚犯编号呢。",
+      "vi": "Đó là số tù nhân của Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru015",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru015|",
+      "ja": "そんな……。",
+      "zh": "怎么会……",
+      "vi": "Làm sao có thể...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema087",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema087|",
+      "ja": "金庫は開いた状態だとナンバーが隠れた状態になるよね。",
+      "zh": "在保险箱打开时，数字键盘会隐藏起来，没错吧。",
+      "vi": "Bàn phím số bị ẩn khi mở két phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema088",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema088|",
+      "ja": "ナノカちゃんはそれを見越して、<br>犯人に見つからないよう<br>こっそりダイイングメッセージを残したんだよ……。",
+      "zh": "而奈叶香预料到了这一点，<br>\n于是偷偷留下了这个死亡讯息，<br>\n不让凶手发现……",
+      "vi": "Nanoyaka đã mong đợi điều này, Vì thế tôi đã bí mật để lại lời nhắn tử thần này, Đừng để kẻ sát nhân phát hiện ra...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema089",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema089|",
+      "ja": "メルルちゃんを犯人だと指摘する為に！",
+      "zh": "目的就是为了指出，梅露露就是凶手！",
+      "vi": "Mục đích là chỉ ra Meruru chính là kẻ sát nhân!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru016",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru016|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru017",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru017|",
+      "ja": "……そ、それは……マーゴさんの言ったように、<br>犯人がつけたものかもしれません……！<br>私を……陥れるために……！",
+      "zh": "……那、那个……正如玛格小姐所说，<br>\n这可能是凶手留下的……！<br>\n目的……就是陷害我……！",
+      "vi": "...Cái đó, cái đó... Như cô Margo đã nói, Đây có thể là thứ mà hung thủ đã để lại...! Mục đích... là gài bẫy tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema090",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema090|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru018",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru018|",
+      "ja": "誰かが私に罪を着せようとした偽装なんです……！<br>エマさん、私のこと信じてください……！",
+      "zh": "这是有人想要嫁祸于我的伪装啊……！<br>\n艾玛小姐，请相信我……！",
+      "vi": "Đây là một sự giả vờ rằng ai đó muốn đổ lỗi cho tôi ...! Ema, xin hãy tin tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema091",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema091|",
+      "ja": "メ、メルルちゃん……！",
+      "zh": "梅、梅露露……！",
+      "vi": "Mei, Meruru...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema092",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema092|",
+      "ja": "でも……メルルちゃんなら、できるんだ……！<br>メルルちゃんが黒幕なら……！",
+      "zh": "但是……如果是梅露露的话，就能做得到……！<br>\n如果梅露露是幕后黑手的话……！",
+      "vi": "Nhưng...nếu là Meruru, cô ấy có thể làm được...! Nếu Meruru là kẻ chủ mưu...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru019",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru019|",
+      "ja": "エ、エマさんを疑うわけではありませんが……<br>ナノカさんの死体の状況は<br>エマさんが黒幕でも成立する話だとは思います……。",
+      "zh": "我、我并不是怀疑艾玛小姐，<br>\n但是……就奈叶香小姐的尸体状况来说，<br>\n即使艾玛小姐是幕后黑手也说得通……",
+      "vi": "Tôi, tôi không nghi ngờ cô Ema, Nhưng... liên quan đến tình trạng thi thể của cô Nanoyaka, Sẽ có lý ngay cả khi cô Ema đứng sau nó...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Ema093",
+      "speaker_tag": "; > Ema: |#0105Trial07_Ema093|",
+      "ja": "……そ、それは……。",
+      "zh": "……这……",
+      "vi": "...cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial07_Meruru020",
+      "speaker_tag": "; > Meruru: |#0105Trial07_Meruru020|",
+      "ja": "だから……もっと、お話しましょう……！<br>そうすればきっと……わかりあえるはずです！",
+      "zh": "所以……让我们继续对话吧……！<br>\n只要对话……我们一定能相互理解！",
+      "vi": "Vì vậy...chúng ta hãy tiếp tục cuộc trò chuyện...! Chỉ cần chúng ta đối thoại... nhất định chúng ta sẽ hiểu nhau!",
+      "objection_links": []
+    }
+  ]
+}

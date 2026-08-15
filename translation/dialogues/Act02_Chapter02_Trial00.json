@@ -1,0 +1,264 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Trial00",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Trial00' Naninovel scenario script",
+  "total_entries": 32,
+  "entries": [
+    {
+      "id": "0202Trial00_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Trial00_Hiro001|",
+      "ja": "（２回目の魔女裁判……）",
+      "zh": "（第二次魔女审判……）",
+      "vi": "(Phiên Tòa Ma Nữ thứ hai...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Trial00_Hiro002|",
+      "ja": "（容疑者は私とエマのふたり）",
+      "zh": "（嫌疑人是我和艾玛两人）",
+      "vi": "(Nghi phạm là Ema và tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Trial00_Hiro003|",
+      "ja": "（私が犯人でない以上、<br>　エマを処刑するためにその犯行を立証しなくてはいけない）",
+      "zh": "（既然我不是凶手，<br>\n那我就必须得举证艾玛的罪行，送她上处刑台）",
+      "vi": "(Vì tôi không phải là kẻ giết người, Sau đó tôi phải chứng minh tội ác của Ema và đưa cô ấy đến đài hành quyết)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Trial00_Hiro004|",
+      "ja": "（しかし……私の手元にはまだ証拠がない）",
+      "zh": "（然而……我的手上目前还没有证据）",
+      "vi": "(Tuy nhiên...tôi chưa có bằng chứng nào cả)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Trial00_Hiro005|",
+      "ja": "（議論に積極的に参加して、話を引き出さないとな）",
+      "zh": "（看来得积极参与讨论，以套取情报了）",
+      "vi": "(Có vẻ như bạn phải tích cực tham gia thảo luận để có được thông tin)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia001",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia001|",
+      "ja": "やれやれ。<br>再びこのような場が開かれることになって残念だよ……。",
+      "zh": "唉。<br>\n居然又召开这种审判大会，真叫人遗憾啊……",
+      "vi": "Than ôi. Thật đáng tiếc khi một cuộc họp xét xử như vậy lại được tổ chức...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia002",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia002|",
+      "ja": "まさか再び殺人事件が発生するなんてね。",
+      "zh": "没想到又发生了凶杀案。",
+      "vi": "Thật bất ngờ, một vụ án mạng khác lại xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Alisa001",
+      "speaker_tag": "; > Alisa: |#0202Trial00_Alisa001|",
+      "ja": "……言うほど悲しんでるようには<br>見えねーけどな。",
+      "zh": "……但你看上去<br>\n没你嘴上说得那么难过啊。",
+      "vi": "…nhưng trông mày Nó không buồn như mày nói đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia003",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia003|",
+      "ja": "そんなことはないさ。",
+      "zh": "怎么会不难过。",
+      "vi": "Làm sao tôi có thể không buồn?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia004",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia004|",
+      "ja": "仲間を殺されたんだ、<br>当然心を痛めているとも。",
+      "zh": "我们的伙伴被杀了，<br>\n我自然很心痛。",
+      "vi": "Đối tác của chúng tôi đã bị giết, Tự nhiên tôi thấy đau lòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Alisa002",
+      "speaker_tag": "; > Alisa: |#0202Trial00_Alisa002|",
+      "ja": "……どーだか。",
+      "zh": "……谁知道呢。",
+      "vi": "...ai biết được.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Sherry001",
+      "speaker_tag": "; > Sherry: |#0202Trial00_Sherry001|",
+      "ja": "ええ！ レイアさんのその気持ち、<br>わかりますよ！",
+      "zh": "嗯嗯！蕾雅的心情<br>\n我可太懂啦！",
+      "vi": "Ờ-huh! Tâm trạng của Leya Tôi hiểu nó rất rõ!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Sherry002",
+      "speaker_tag": "; > Sherry: |#0202Trial00_Sherry002|",
+      "ja": "――新たな被害者！<br>新たな謎！<br>新たな容疑者！",
+      "zh": "——新的被害人！<br>\n新的谜题！<br>\n新的嫌疑犯！",
+      "vi": "---Nạn nhân mới! Câu đố mới! Nghi phạm mới!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Sherry003",
+      "speaker_tag": "; > Sherry: |#0202Trial00_Sherry003|",
+      "ja": "ワクワクしますよね！<br>ミステリーって！",
+      "zh": "真是激动人心啊！<br>\n我好爱悬疑！",
+      "vi": "Thật thú vị làm sao! Tôi yêu sự hồi hộp rất nhiều!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia005",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia005|",
+      "ja": "……うん、キミは人の話を<br>聞かないみたいだね。",
+      "zh": "……嗯，看来你<br>\n根本听不进别人的话。",
+      "vi": "...Chà, có vẻ như bạn Đơn giản là tôi không thể lắng nghe những gì người khác nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia006",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia006|",
+      "ja": "ともかく、まずは私からだ。<br>ざっくりとした検死の結果を報告しよう。",
+      "zh": "言归正传，我先来<br>\n简单报告一下验尸结果。",
+      "vi": "Hãy quay lại vấn đề chính, hãy để tôi bắt đầu với Báo cáo ngắn gọn kết quả khám nghiệm tử thi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia007",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia007|",
+      "ja": "殺されたのは沢渡ココくん。<br>死体は雨の降る中庭で発見された……。",
+      "zh": "死者是泽渡可可。<br>\n尸体是在下雨时的中庭被发现的……",
+      "vi": "Người chết là Coco Sawatari. Thi thể được tìm thấy trong giếng trời lúc trời đang mưa...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia008",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia008|",
+      "ja": "死因は銃殺。<br>額に撃ち込まれた弾丸だ。",
+      "zh": "死因是枪杀。<br>\n额头中弹身亡。",
+      "vi": "Nguyên nhân cái chết là vết thương do đạn bắn. Anh ta bị bắn vào trán và chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia009",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia009|",
+      "ja": "当然だが、即死。<br>発見当時、死後そんなに時間は<br>経過していなかったようだ。",
+      "zh": "毫无疑问，当场死亡。<br>\n发现尸体时，应该离死亡时刻<br>\n没过多久。",
+      "vi": "Không còn nghi ngờ gì nữa, anh ta đã chết ngay tại chỗ. Khi thi thể được tìm thấy, phải là kể từ lúc chết Nó không mất nhiều thời gian.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia010",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia010|",
+      "ja": "そして死体の第一発見者はエマくんだった――。",
+      "zh": "尸体的第一目击者是艾玛——",
+      "vi": "Nhân chứng đầu tiên của xác chết là Ema——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia011",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia011|",
+      "ja": "――それで間違いないね？",
+      "zh": "——这点没错吧？",
+      "vi": "--Điều này có đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Ema001",
+      "speaker_tag": "; > Ema: |#0202Trial00_Ema001|",
+      "ja": "……うん。",
+      "zh": "……嗯。",
+      "vi": "...Hừm.",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia012",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia012|",
+      "ja": "また、ココくんが持っていたスマホも<br>一緒に見つかっているよ。",
+      "zh": "此外，我们还同时找到了<br>\n可可的手机。",
+      "vi": "Ngoài ra, chúng tôi cũng tìm thấy Điện thoại di động của Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia013",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia013|",
+      "ja": "これらが現場から見つかったもので――。",
+      "zh": "这些东西也都是从案发现场找到的——",
+      "vi": "Những thứ này cũng được tìm thấy ở hiện trường vụ án——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Alisa003",
+      "speaker_tag": "; > Alisa: |#0202Trial00_Alisa003|",
+      "ja": "――まどろっこしいことはいいんだよ。",
+      "zh": "——废话就不要多说了。",
+      "vi": "---Không nói nhảm nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia014",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia014|",
+      "ja": "……どういうことだい？",
+      "zh": "……什么意思？",
+      "vi": "...nó có nghĩa là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Alisa004",
+      "speaker_tag": "; > Alisa: |#0202Trial00_Alisa004|",
+      "ja": "結論から話そうぜ。",
+      "zh": "直接说结论呗。",
+      "vi": "Hãy chỉ nói kết luận.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Alisa005",
+      "speaker_tag": "; > Alisa: |#0202Trial00_Alisa005|",
+      "ja": "二階堂や桜羽がうだうだ言ってるようだが……。",
+      "zh": "不管二阶堂跟樱羽吵什么都好……",
+      "vi": "Dù Nikaido và Sakuraha có tranh cãi về vấn đề gì...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Alisa006",
+      "speaker_tag": "; > Alisa: |#0202Trial00_Alisa006|",
+      "ja": "一番怪しいのは１人しかいねーだろ。",
+      "zh": "最可疑的人只有一个。",
+      "vi": "Chỉ có một người đáng nghi nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia015",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia015|",
+      "ja": "……なるほど。",
+      "zh": "……这样啊。",
+      "vi": "...chính là nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial00_Leia016",
+      "speaker_tag": "; > Leia: |#0202Trial00_Leia016|",
+      "ja": "それでは聞かせてもらおうか、アリサくん。<br>……キミの意見を！",
+      "zh": "那亚里沙，你不妨说说看吧。<br>\n……说出你的高见！",
+      "vi": "Vậy thì Alisa, cậu cũng có thể nói cho tôi biết. ...Hãy nói lên ý kiến của mình!",
+      "objection_links": []
+    }
+  ]
+}

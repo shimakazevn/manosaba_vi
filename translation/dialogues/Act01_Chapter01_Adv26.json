@@ -1,0 +1,688 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Adv26",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Adv26' Naninovel scenario script",
+  "total_entries": 85,
+  "entries": [
+    {
+      "id": "0101Adv26_Narrative001",
+      "speaker_tag": "",
+      "ja": "エマたち一行は、<br>何より証拠を<ruby=\"え\">得</ruby>られそうな死体のある現場へと向かった。",
+      "zh": "艾玛一行人决定前往<br>\n最有可能找到证据的尸体目击现场。",
+      "vi": "Nhóm của Ema cùng nhau tiến về hiện trường vụ án nơi thi thể của Noah được phát hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative002",
+      "speaker_tag": "",
+      "ja": "エマの足取りは重たい。<br>ノアの死体を直視したくない、という気持ちが大きいのだろう。",
+      "zh": "艾玛的步伐十分沉重。<br>\n或许是因为，她非常不愿意直视诺亚的尸体。",
+      "vi": "Từng bước chân của Ema nặng trĩu. Cảm giác sợ hãi khi phải đối mặt với thi thể của người bạn vừa mới nói cười hôm qua khiến tim cô thắt lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative003",
+      "speaker_tag": "",
+      "ja": "そんな中、シェリーはスキップしている。",
+      "zh": "而此时，雪莉的步伐则是一蹦一跳的。",
+      "vi": "Trái ngược với vẻ u uất ấy, Sherry lại đang vừa đi vừa nhảy chân sáo đầy hào hứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Hanna001",
+      "speaker_tag": "; > Hanna: |#0101Adv26_Hanna001|",
+      "ja": "ちょっとあなた、神経どうかしてるんじゃありません？<br>よくスキップなんかできますわね。",
+      "zh": "我说你，是不是太过神经大条了？<br>\n真亏你走路还能一蹦一跳的。",
+      "vi": "Này con kia, dây thần kinh của ngươi có vấn đề gì không đấy hả!? Người Bổn tiểu thư vừa chết mà ngươi lại nhảy chân sáo vui vẻ thế à.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry001",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry001|",
+      "ja": "ええっ、私気遣いの子ですよぉ？<br>学校でも、みんなが避けてるの察知して距離あけてましたもん。",
+      "zh": "欸，我可是很会察言观色的哦？<br>\n在学校里我知道大家都会避开我，所以我也会主动拉开距离哦。",
+      "vi": "Ơ kìa, em là người biết quan tâm đến bầu không khí lắm đó nha! Ở trường, mỗi lần thấy mọi người né tránh là em tự giác giữ khoảng cách liền á.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Hanna002",
+      "speaker_tag": "; > Hanna: |#0101Adv26_Hanna002|",
+      "ja": "ナチュラルにハブられてません？",
+      "zh": "你这是明显被人孤立了欸？",
+      "vi": "Thế không phải là ngươi bị cả lớp tẩy chay ngươi lập rồi sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry002",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry002|",
+      "ja": "そんなことないですって！<br>みんな【妖精さん】って親しみを込めて呼んでくれてました！",
+      "zh": "没这回事啦！<br>\n大家都很亲切地喊我【小仙子】呢！",
+      "vi": "Làm gì có chuyện đó chứ! Mọi người ở trường toàn gọi em là 【Nàng Tiên Bí Ẩn】 một cách trìu mến thôi mà!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Hanna003",
+      "speaker_tag": "; > Hanna: |#0101Adv26_Hanna003|",
+      "ja": "それ絶対良い意味じゃないですわ。",
+      "zh": "那绝对不是什么正面称呼啦。",
+      "vi": "Cái biệt danh đó tuyệt đối không phải là khen ngợi đâu đồ ngốc ạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema001",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema001|",
+      "ja": "（こんな時だけど……<br>　ハンナちゃんが少し元気を取り戻してくれて良かった）",
+      "zh": "（虽然才刚有人过世……<br>\n不过汉娜能稍微恢复精神，真是太好了）",
+      "vi": "Mọi người đừng cãi nhau nữa mà…… Chúng ta đến nơi rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative004",
+      "speaker_tag": "",
+      "ja": "２人のやり取りを横目に、エマはホッとしていた。",
+      "zh": "看到她们两个在拌嘴的样子，艾玛感到有些暖心。",
+      "vi": "Trước mắt họ là Xưởng Vẽ của Noah. Cửa phòng mở toang, bên trong vương vãi những vệt máu tươi và các bức tranh vẽ dang dở.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema002",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema002|",
+      "ja": "そういえば昨夜、<br>ノアちゃんの部屋付近で、アリサちゃんを見かけたよね。",
+      "zh": "说起来，昨天晚上<br>\n我们在诺亚房间附近看到亚里沙了。",
+      "vi": "Nhắc mới nhớ, đêm qua Chúng tôi thấy Alisa ở gần phòng Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative005",
+      "speaker_tag": "",
+      "ja": "ふとエマが口にしたことで、<br>シェリーが興味深げに身を乗り出した。",
+      "zh": "听艾玛不经意地说到，<br>\n雪莉非常感兴趣地插进了话题。",
+      "vi": "Hãy nghe Ema thản nhiên nói, Sherry nhảy vào cuộc trò chuyện với vẻ vô cùng thích thú.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry003",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry003|",
+      "ja": "アリサさんは私と同室です。私たちは一番手前の部屋なので、<br>奥に行く用事でもあったのでしょうか？",
+      "zh": "亚里沙和我是同一间房的。我们的房间是最外面的那间，<br>\n她走到里面是不是有别的事呢？",
+      "vi": "Nào! Đã đến lúc các thám tử thiên tài bắt tay vào điều tra rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Hanna004",
+      "speaker_tag": "; > Hanna: |#0101Adv26_Hanna004|",
+      "ja": "なんだか慌ててる様子にも見えましたわね……。",
+      "zh": "我是感觉她看起来有点慌张……",
+      "vi": "Bổn tiểu thư nghĩ ngươi ấy có vẻ hơi hoảng sợ...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema003",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema003|",
+      "ja": "う、うん。だからボクも、変だなって。",
+      "zh": "嗯，我也是。感觉她有点奇怪。",
+      "vi": "Vâng, tôi cũng vậy. Cô cảm thấy hơi lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry004",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry004|",
+      "ja": "とっても気になりますね～！<br>それはぜひ、アリサさんに話を聞いてみたいですっ",
+      "zh": "真令人在意耶～！<br>\n看来很有必要找亚里沙问话了。",
+      "vi": "Nó thực sự thú vị~! Có vẻ cần phải hỏi Alisa để thẩm vấn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema004",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema004|",
+      "ja": "（アリサちゃんが、ノアちゃんを……？）",
+      "zh": "（难道是亚里沙把诺亚给……？）",
+      "vi": "(Có phải Alisa đã đưa Noah cho...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative006",
+      "speaker_tag": "",
+      "ja": "エマはすぐに首を横に振った。",
+      "zh": "艾玛马上否定了这个念头。",
+      "vi": "Ema ngay lập tức bác bỏ ý tưởng đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema005",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema005|",
+      "ja": "（決めつけはよくないよね。<br>　できるだけ調査しよう）",
+      "zh": "（单方面断定并不好。<br>\n还是尽量先调查吧）",
+      "vi": "(Đơn phương phán xét là không tốt. Tốt hơn là nên điều tra càng nhiều càng tốt trước)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative007",
+      "speaker_tag": "",
+      "ja": "話しているうちに、<br>エマたち一行はノアの房の前へと舞い戻ってきた。",
+      "zh": "在聊着天的时候，<br>\n艾玛一行人不知不觉走到了诺亚的牢房前。",
+      "vi": "Trong khi trò chuyện, Ema và những người khác vô tình bước đến phòng giam của Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema006",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema006|",
+      "ja": "（ノアちゃん……）",
+      "zh": "（诺亚……）",
+      "vi": "（Noah……）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative008",
+      "speaker_tag": "",
+      "ja": "調べるためにはしっかりと観察しなければいけない。<br>エマは涙を<ruby=\"こら\">堪</ruby>え、ノアの房を見た。",
+      "zh": "为了调查，必须认真仔细去观察。<br>\n艾玛忍住泪水，开始观察诺亚的牢房内部。",
+      "vi": "Để điều tra, người ta phải quan sát cẩn thận. Ema kìm nước mắt và bắt đầu nhìn vào bên trong phòng giam của Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative009",
+      "speaker_tag": "",
+      "ja": "冷たくなって、動かないノアの遺体は<br>房内の中央に倒れている。",
+      "zh": "冰凉的，再也不会动的诺亚的遗体，<br>\n正躺在房内的正中间。",
+      "vi": "Cơ thể lạnh lẽo, bất động của Noah, Nằm giữa phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry005",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry005|",
+      "ja": "うーん、中に入れないのが辛いですね……<br>とりあえず現場の写真を撮っておきましょうか。",
+      "zh": "唔，没法进去里面太难办了……<br>\n总之，先拍下现场的照片吧。",
+      "vi": "Chà, vào trong khó quá... Dù sao thì hãy chụp ảnh hiện trường trước đã.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative010",
+      "speaker_tag": "",
+      "ja": "シェリーがスマホを取り出し、<br>房内の撮影をはじめた。",
+      "zh": "雪莉取出手机，<br>\n开始拍摄房内的情况。",
+      "vi": "Sherry lấy điện thoại ra, Bắt đầu chụp ảnh căn phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Hanna005",
+      "speaker_tag": "; > Hanna: |#0101Adv26_Hanna005|",
+      "ja": "こんな残酷なものを撮影しようなんて<br>よく思えますわね……。",
+      "zh": "亏你能想得到<br>\n把这么残忍的景象拍下来……",
+      "vi": "Cảm ơn bạn đã suy nghĩ về Hãy chụp lại cảnh tượng tàn khốc như vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry006",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry006|",
+      "ja": "捜査の基本ですから！",
+      "zh": "因为这是搜查的基础！",
+      "vi": "Bởi vì đây là cơ sở của việc tìm kiếm!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative011",
+      "speaker_tag": "",
+      "ja": "シェリーは胸を張ってから、ふと思いついたのか<br>人差し指をぴんと立てた。",
+      "zh": "雪莉神气地说道。然后她好像想到了什么似的，<br>\n举起了食指说。",
+      "vi": "Sherry tự hào nói. Sau đó cô ấy dường như nghĩ tới điều gì đó, Anh giơ ngón trỏ lên và nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry007",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry007|",
+      "ja": "そういえば、私たちチャットアプリの<br>お友だち登録していませんでしたよね。",
+      "zh": "说来，我们在聊天APP上<br>\n还没有添加好友耶。",
+      "vi": "Nhân tiện, chúng tôi đang sử dụng APP trò chuyện Chưa có bạn bè nào được thêm vào.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry008",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry008|",
+      "ja": "このアプリでお友だち登録すれば、<br>チャットだけじゃなくて通話も可能になりますし、<br>画像を送りあうこともできるんですよ。",
+      "zh": "在APP上添加了好友后，<br>\n不仅可以传文字信息，还可以通话，<br>\n也可以传图片哦。",
+      "vi": "Sau khi thêm bạn bè trên APP, Bạn không chỉ có thể gửi tin nhắn văn bản mà còn có thể thực hiện cuộc gọi, Bạn cũng có thể gửi hình ảnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema007",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema007|",
+      "ja": "へぇ、そうなんだ……！",
+      "zh": "欸，这样啊……！",
+      "vi": "Này, thế đấy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Hanna006",
+      "speaker_tag": "; > Hanna: |#0101Adv26_Hanna006|",
+      "ja": "わたくしたちが普段使っているチャットツールと同じですわね。<br>それなら……。",
+      "zh": "和我们平常用的聊天工具基本一样呢。<br>\n那……",
+      "vi": "Về cơ bản nó giống như các công cụ trò chuyện mà chúng Bổn tiểu thư thường sử dụng. Sau đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative012",
+      "speaker_tag": "",
+      "ja": "慣れた様子でシェリーとハンナが友だち登録をさっさと終えて、<br>エマの方へと向き直る。",
+      "zh": "雪莉和汉娜熟练地将对方添加为好友后，<br>\n转过头面向艾玛。",
+      "vi": "Sau khi Sherry và Hanna khéo léo thêm nhau làm bạn bè, Quay lại đối mặt với Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema008",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema008|",
+      "ja": "あ、え、えっと……。",
+      "zh": "啊、呃、那个……",
+      "vi": "À, ừ, cái đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema009",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema009|",
+      "ja": "（どうしよう、やり方がわからない……<br>　ボク、もともと持ってた自分のスマホも<br>　友だち０人だったし……！）",
+      "zh": "（怎么办，我不知道怎么弄……<br>\n我用我原来的手机都<br>\n从没添加过好友……！）",
+      "vi": "(Phải làm gì đây, tôi không biết phải làm thế nào... Tôi sử dụng điện thoại di động ban đầu của mình Chưa bao giờ thêm bạn bè...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative013",
+      "speaker_tag": "",
+      "ja": "もたつき、冷や汗をかきながら<br>シェリーとハンナに教えてもらって<br>エマはなんとか友だち登録を終える。",
+      "zh": "艾玛不知所措，直冒冷汗。<br>\n好在有雪莉和汉娜教她，<br>\n艾玛总算成功添加了好友。",
+      "vi": "Ema bối rối và đổ mồ hôi lạnh. May mắn thay, Sherry và Hanna đã dạy cô ấy, Ema cuối cùng đã thêm bạn bè thành công.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry009",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry009|",
+      "ja": "これで私とエマさん、ハンナさんは<br>いつでも連絡が取り合えます！",
+      "zh": "这下子，我和艾玛，还有汉娜<br>\n就可以随时联络了！",
+      "vi": "Bây giờ, Ema, ​​tôi và Hanna Bạn có thể liên hệ với chúng tôi bất cứ lúc nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema010",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema010|",
+      "ja": "う、うん。メルルちゃんとも後で繋がっておかなきゃね。",
+      "zh": "嗯。之后也得跟梅露露加一下好友。",
+      "vi": "Ừm. Sau này tôi phải thêm Meruru làm bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative014",
+      "speaker_tag": "",
+      "ja": "早速シェリーが、エマたちのスマホに<br>画像を送る。",
+      "zh": "雪莉很快就向她们两个<br>\n传了一张图片。",
+      "vi": "Sherry nhanh chóng nói với cả hai Đã gửi một bức ảnh.",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema011",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema011|",
+      "ja": "このフルーツの写真は……？",
+      "zh": "这张水果的照片是……？",
+      "vi": "Bức ảnh trái cây này là...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry010",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry010|",
+      "ja": "ああそれは昨日撮ったんです！<br>なんとなく記念になるかなって！",
+      "zh": "哎呀，这个是我昨天拍的！<br>\n总感觉应该纪念一下！",
+      "vi": "Rất tiếc, tôi đã chụp bức ảnh này ngày hôm qua! Tôi luôn cảm thấy mình nên kỷ niệm nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Hanna007",
+      "speaker_tag": "; > Hanna: |#0101Adv26_Hanna007|",
+      "ja": "なんの記念ですの……。",
+      "zh": "这是要纪念什么东西啊……",
+      "vi": "Kỷ niệm gì thế này...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative015",
+      "speaker_tag": "",
+      "ja": "画像のやり取りを終え、<br>３人は実際の死体現場の観察を続ける。",
+      "zh": "讲完了图片的话题，<br>\n三人继续观察现实里的尸体目击现场。",
+      "vi": "Nói xong về hình ảnh, Ba người tiếp tục quan sát hiện trường nhìn thấy xác chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry011",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry011|",
+      "ja": "床が真っ白に塗られているのは、<br>ノアさんがスプレーを使用したからですよね。",
+      "zh": "地板是一片纯白色，<br>\n这是用诺亚用喷漆弄的，对吧。",
+      "vi": "Sàn nhà trắng tinh, Việc này được thực hiện bằng sơn phun bởi Noah, phải không.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema012",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema012|",
+      "ja": "うん、ノアちゃんは新しくまた何かを描くって言ってた。<br>そのために一旦、白くしたんじゃないかな。",
+      "zh": "嗯，诺亚说她要重新画其他东西。<br>\n所以我猜，她才会把地板先弄成白色的。",
+      "vi": "Chà, Noah nói rằng cô ấy sẽ vẽ lại thứ khác. Đó là lý do tại sao tôi đoán cô ấy đã làm sàn nhà trắng trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative016",
+      "speaker_tag": "",
+      "ja": "エマは念のため、<ruby=\"てつごうし\">鉄格子</ruby>に手を差し入れ、<br>届く範囲の白い塗料を触ってみる。",
+      "zh": "以防万一，艾玛把手伸进了铁栅栏内，<br>\n在摸得到的范围内触碰了一下白色的颜料。",
+      "vi": "Để đề phòng, Ema thò tay vào hàng rào sắt, Tôi chạm vào lớp sơn trắng trong tầm tay.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema013",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema013|",
+      "ja": "（既に乾いてる。<br>　やっぱり昨夜のうちに、ノアちゃんが塗ったんだ）",
+      "zh": "（颜料已经干了。<br>\n我就说肯定是诺亚昨晚涂的）",
+      "vi": "(Sơn đã khô. Tôi vừa nói nó chắc chắn là do Noah vẽ tối qua)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry012",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry012|",
+      "ja": "それにしてもこれは足跡がついたら一目瞭然ですね。<br>そしてノアさんの周辺に足跡はなし、と。",
+      "zh": "既然如此，如果有足迹的话就会相当明显呢。<br>\n但诺亚身边都没看到足迹。",
+      "vi": "Trong trường hợp này, nếu có dấu chân thì chúng sẽ khá rõ ràng. Nhưng không có dấu chân nào xung quanh Nô-ê.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry013",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry013|",
+      "ja": "宙に浮き上がってノアさんに近付かないと、<br>殺せませんね！",
+      "zh": "那么，不飞在半空中接近诺亚，<br>\n就没法把她杀死耶！",
+      "vi": "Vì vậy, thay vì bay giữa không trung để tiếp cận Noah, Không có cách nào để giết cô ấy!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Hanna008",
+      "speaker_tag": "; > Hanna: |#0101Adv26_Hanna008|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative017",
+      "speaker_tag": "",
+      "ja": "<ruby=\"てつごうし\">鉄格子</ruby>で中が見えるとはいえ、<br>その隙間は手を通せる程度でしかない。",
+      "zh": "虽然可以透过铁栅栏看到内部，<br>\n但是它的缝隙并不宽，最多只能让手伸进去。",
+      "vi": "Mặc dù bạn có thể nhìn thấy bên trong qua hàng rào sắt, Nhưng khe hở của nó không rộng, nhiều nhất cũng chỉ có thể cho tay ngươi đi vào.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative018",
+      "speaker_tag": "",
+      "ja": "そしてノアの遺体は室内中央にある。<br>近付かないと殺害は無理だと思われた。",
+      "zh": "而诺亚的遗体在室内的中间位置。<br>\n不靠近她本人应该没法杀死她。",
+      "vi": "Thi thể của Noah nằm ở giữa phòng. Không thể giết cô ấy mà không đến gần cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema014",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema014|",
+      "ja": "で、でもさ、中に入らずに殺したのかもよ。<br>あ、ほら、見て！",
+      "zh": "不、不过呢，应该有办法在外面就能杀人。<br>\n啊，你们看！",
+      "vi": "Không, nhưng phải có cách nào đó để giết người ở bên ngoài. À, nhìn này!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative019",
+      "speaker_tag": "",
+      "ja": "エマが指さしたのは、<br>ノアの遺体の近くに落ちている短い矢だった。",
+      "zh": "艾玛指着的，<br>\n是掉落在诺亚遗体附近的一根短箭。",
+      "vi": "Ema chỉ vào, Đó là một mũi tên ngắn rơi gần cơ thể của Nô-ê.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry014",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry014|",
+      "ja": "これって、ボウガンの矢じゃないですか！？",
+      "zh": "这不是弩枪的箭吗！？",
+      "vi": "Đây không phải là mũi tên Nỏ Săn sao? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema015",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema015|",
+      "ja": "ノアちゃんは、ボウガンを胸に撃たれて死んだ……？",
+      "zh": "诺亚是被弩枪刺中胸口死掉的……？",
+      "vi": "Noah bị Nỏ Săn đâm vào ngực mà chết...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry015",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry015|",
+      "ja": "その可能性は高いですね！<br>それなら、中に入らず犯行に及べますし。",
+      "zh": "可能性相当高！<br>\n而且，也可以证明在房外也能作案。",
+      "vi": "Khả năng là khá cao! Hơn nữa, người ta cũng có thể chứng minh rằng tội ác có thể được thực hiện bên ngoài ngôi nhà.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema016",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema016|",
+      "ja": "（ラウンジのボウガンは誰かに盗まれてた……。<br>　誰かがノアちゃんを殺すために持ち出したのかも）",
+      "zh": "（会客厅的弩枪被人偷走了……<br>\n可能是有人为了杀害诺亚把它拿走的）",
+      "vi": "(Nỏ Săn trong phòng khách đã bị đánh cắp... Có lẽ ai đó đã lấy nó đi để giết Noah)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema017",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema017|",
+      "ja": "（他に気になることは……やっぱり……）",
+      "zh": "（其他我在意的地方……果然还是……）",
+      "vi": "(Những thứ khác tôi quan tâm...vẫn còn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative020",
+      "speaker_tag": "",
+      "ja": "真っ白なキャンバスのような部屋で、<br>ノアから排出された血の赤が、アートのようになっている。",
+      "zh": "在如同纯白画布的房间里，<br>\n诺亚身上流出的血迹似乎变成了一幅画。",
+      "vi": "Trong căn phòng như một bức tranh trắng tinh khiết, Những vết máu trên người Noah dường như biến thành một bức tranh.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema018",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema018|",
+      "ja": "（蝶の絵――これはどうして、こうなったんだろう？）",
+      "zh": "（是蝴蝶的画——为什么会变成这个样子？）",
+      "vi": "(Đó là bức tranh vẽ một con bướm—tại sao nó lại trông như thế này?)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema019",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema019|",
+      "ja": "（何かの意味があるかもしれない。撮影しておこう）",
+      "zh": "（或许有什么特殊意义。先把画面拍下来吧）",
+      "vi": "(Có lẽ nó có ý nghĩa đặc biệt nào đó. Chúng ta chụp ảnh lại trước nhé)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Hanna009",
+      "speaker_tag": "; > Hanna: |#0101Adv26_Hanna009|",
+      "ja": "あなたたち、よくそんなじろじろと見られますわね……。<br>わたくし気分が悪ぃですわ……。",
+      "zh": "真亏你们能一直死盯着现场看……<br>\n反正我感觉很不舒服……",
+      "vi": "Thật tiếc là các bạn cứ tiếp tục nhìn chằm chằm vào cảnh tượng đó... Dù sao thì Bổn tiểu thư cũng cảm thấy rất khó chịu...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema020",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema020|",
+      "ja": "（いや、ボクもいっぱいいっぱいだよ……）",
+      "zh": "（那其实，我现在也非常非常地不舒服……）",
+      "vi": "(Thật sự lúc này tôi đang rất, rất khó chịu...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative021",
+      "speaker_tag": "",
+      "ja": "エマは喉に込み上げるものを<ruby=\"こら\">堪</ruby>え、<br>首を振った。そこでハッと表情を硬くした。",
+      "zh": "艾玛忍住没让某物冲出喉咙，<br>\n然后摇了摇头。这时她的表情瞬间变得僵硬起来。",
+      "vi": "Ema kìm lại thứ gì đó sắp trào ra khỏi cổ họng mình, Rồi anh lắc đầu. Lúc này, vẻ mặt của cô đột nhiên trở nên cứng ngắc.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema021",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema021|",
+      "ja": "血のにおいがしない。ううん、スプレーの刺激臭で、<br>消えちゃってるんだ……。",
+      "zh": "没有血液的味道。不对，是因为喷漆的刺鼻气味<br>\n挡住了血腥味……",
+      "vi": "Không có mùi máu. Không, đó là do mùi hăng của sơn phun Ngăn chặn mùi máu...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative022",
+      "speaker_tag": "",
+      "ja": "ノアは狭い房内で、<br>常にカラースプレーを噴射し続けていた。",
+      "zh": "因为诺亚生前不断地<br>\n在狭小的牢房里喷洒着颜料喷漆。",
+      "vi": "Vì Nô-ê đã giữ Sơn phun sơn được phun vào bên trong căn phòng nhỏ xíu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative023",
+      "speaker_tag": "",
+      "ja": "今も尚、房内にはスプレーの刺激臭が満ちている。",
+      "zh": "即便现在她已过世，房内也仍然充满了喷漆的刺激气味。",
+      "vi": "Ngay cả bây giờ bà đã qua đời, ngôi nhà vẫn còn nồng nặc mùi sơn xịt.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative024",
+      "speaker_tag": "",
+      "ja": "エマはノアの脇に転がるカラースプレーも、<br>ズームして撮影した。",
+      "zh": "艾玛将手机对准掉落在诺亚身旁的<br>\n喷漆罐，放大焦距后拍下照片。",
+      "vi": "Ema chỉ điện thoại vào đang rơi bên cạnh Noah Bình xịt sơn, phóng to và chụp ảnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry016",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry016|",
+      "ja": "これで気付いたことは全部でしょうか？",
+      "zh": "这下你把所有在意的地方都调查完啦？",
+      "vi": "Bạn đã điều tra tất cả những nơi bạn quan tâm bây giờ chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema022",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema022|",
+      "ja": "う、うん。たぶんこれ以上見ても――。",
+      "zh": "嗯。我想应该不会再有其他发现——",
+      "vi": "Ừm. Tôi không nghĩ sẽ có thêm khám phá nào nữa——",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Hanna010",
+      "speaker_tag": "; > Hanna: |#0101Adv26_Hanna010|",
+      "ja": "あの、気のせいかもしれませんけど、<br>床にひっかき傷みたいなものがありません？",
+      "zh": "我说，不知道是不是我的错觉，<br>\n你们有没看到地上有一些划痕？",
+      "vi": "Bổn tiểu thư nói, Bổn tiểu thư không biết đó có phải là trí tưởng tượng của Bổn tiểu thư không, Các bạn có thấy vài vết xước trên mặt đất không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative025",
+      "speaker_tag": "",
+      "ja": "ハンナが嫌そうに指さした先に、<br>エマ、シェリーも注目する。",
+      "zh": "汉娜不情不愿地举起手指，<br>\n艾玛和雪莉便往她手指的方向看去。",
+      "vi": "Hanna miễn cưỡng giơ ngón tay lên, Ema và Sherry nhìn về hướng ngón tay của cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema023",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema023|",
+      "ja": "（本当だ……！）",
+      "zh": "（真的欸……！）",
+      "vi": "(Thật sao...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative026",
+      "speaker_tag": "",
+      "ja": "<ruby=\"かす\">微</ruby>かなものだが、<br>白い塗料に一部傷が入っているように見えた。",
+      "zh": "虽然是很轻的痕迹，<br>\n但是能看到白色颜料上有一点点划痕。",
+      "vi": "Mặc dù là dấu rất nhẹ nhưng Nhưng bạn có thể thấy một vết xước nhỏ trên lớp sơn trắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema024",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema024|",
+      "ja": "気のせいかもしれないけど、<br>何か意味があるかもしれないよね。",
+      "zh": "虽然可能是错觉，<br>\n不过说不定会有什么特殊意义。",
+      "vi": "Mặc dù có thể chỉ là ảo ảnh nhưng Nhưng có lẽ nó sẽ có ý nghĩa đặc biệt nào đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry017",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry017|",
+      "ja": "そうですね！ 全てを疑うのは探偵の鉄則ですから！",
+      "zh": "是啊！侦探的铁则就是怀疑一切！",
+      "vi": "Vâng! Nguyên tắc sắt đá của thám tử là nghi ngờ mọi thứ!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Sherry018",
+      "speaker_tag": "; > Sherry: |#0101Adv26_Sherry018|",
+      "ja": "では、他のところも捜査しに行きましょう。",
+      "zh": "那接下来，我们去搜查一下其他地方吧。",
+      "vi": "Tiếp theo, hãy tìm kiếm những nơi khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative027",
+      "speaker_tag": "",
+      "ja": "シェリーは歩き始めたが、<br>エマは立ち止まり、通路脇に目を<ruby=\"とど\">留</ruby>めた。",
+      "zh": "雪莉马上动身出发了，<br>\n但艾玛却留在原地，目光停留在过道的角落处。",
+      "vi": "Sherry sẽ rời đi ngay lập tức, Nhưng Ema vẫn đứng yên tại chỗ, mắt dán chặt vào góc lối đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative028",
+      "speaker_tag": "",
+      "ja": "――地下通路の脇に置いてあるバケツ。",
+      "zh": "——是放在地下过道角落的那个桶。",
+      "vi": "--Đó là cái xô ở góc lối đi ngầm.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative029",
+      "speaker_tag": "",
+      "ja": "エマが中を<ruby=\"のぞ\">覗</ruby>く。",
+      "zh": "艾玛往里面看了看。",
+      "vi": "Ema nhìn vào trong.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative030",
+      "speaker_tag": "",
+      "ja": "するとそこには、<br>バラバラに解体された機械のパーツのようなものが<br>昨日のまま入っていた。",
+      "zh": "里面装着的，是从昨天开始就装在里面的，<br>\n拆解得十分零碎的，<br>\n状如机械零件的某些物体。",
+      "vi": "Những gì bên trong đã ở bên trong từ hôm qua, Được tháo rời rất rời rạc, Một số đồ vật trông giống như bộ phận cơ khí.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Ema025",
+      "speaker_tag": "; > Ema: |#0101Adv26_Ema025|",
+      "ja": "（昨日はそこまで気にしなかったけど、<br>　これも何か意味があるのかもしれない）",
+      "zh": "（虽然昨天并没特别在意，<br>\n但说不定这也有什么特殊意义）",
+      "vi": "(Mặc dù hôm qua tôi không để ý lắm, Nhưng có lẽ điều này có ý nghĩa đặc biệt nào đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv26_Narrative031",
+      "speaker_tag": "",
+      "ja": "エマたちはひととおりの捜査を終えて、<br>殺害現場を後にした。",
+      "zh": "艾玛她们大致结束了搜查，<br>\n离开了凶杀现场。",
+      "vi": "Ema và những người khác gần như đã hoàn tất việc tìm kiếm của họ, Rời khỏi hiện trường vụ án mạng.",
+      "objection_links": []
+    }
+  ]
+}

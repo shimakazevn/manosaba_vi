@@ -1,0 +1,224 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Adv13",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Adv13' Naninovel scenario script",
+  "total_entries": 27,
+  "entries": [
+    {
+      "id": "0204Adv13_Narrative001",
+      "speaker_tag": "",
+      "ja": "それからの流れは、<br>ほとんど覚えていない。",
+      "zh": "那之后的过程，<br>\n我已经不太记得了。",
+      "vi": "Quá trình sau đó, Tôi không nhớ nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative002",
+      "speaker_tag": "",
+      "ja": "きっと殺人事件が起きたと判明し、<br>ラウンジに集合させられ……",
+      "zh": "多半是因为查明发生了凶杀案，<br>\n大家被叫到会客厅集合……",
+      "vi": "Chủ yếu là vì người ta phát hiện ra một vụ giết người đã xảy ra, Mọi người được gọi vào phòng khách để tập trung...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative003",
+      "speaker_tag": "",
+      "ja": "きっとゴクチョーから、<br>魔女裁判の話があって……",
+      "zh": "多半是典狱长提出<br>\n要举行魔女审判……",
+      "vi": "Rất có thể chính người quản lý đã đề xuất Một phiên tòa xét xử phù thủy sẽ được tổ chức...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative004",
+      "speaker_tag": "",
+      "ja": "事前投票で私がまた最多票を獲得し、<br>裁判まで懲罰房で拘束されることになったのだろう。",
+      "zh": "于是在审判前的先行投票中我又一次获得最高票数，<br>\n直到审判开始前我都要被关押在惩罚室里。",
+      "vi": "Vì vậy trong cuộc bỏ phiếu sơ bộ trước phiên tòa, tôi một lần nữa nhận được số phiếu cao nhất, Tôi sẽ bị giam trong Phòng Kỷ Luật Biệt Giam cho đến khi phiên tòa bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative005",
+      "speaker_tag": "",
+      "ja": "何も考えられなかった。",
+      "zh": "完全无法思考。",
+      "vi": "Hoàn toàn không thể suy nghĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative006",
+      "speaker_tag": "",
+      "ja": "頭の中では、<br>エマの死体と、レイアの死体が<br>ずっとぐるぐるしていた。",
+      "zh": "在我的脑海里，<br>\n不断盘旋着<br>\n艾玛的尸体和蕾雅的尸体。",
+      "vi": "Trong tâm trí tôi, Liên tục lơ lửng Cơ thể của Ema và cơ thể của Leia.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Adv13_Hiro001|",
+      "ja": "（エマが死んだ……？）",
+      "zh": "（艾玛，死了……？）",
+      "vi": "(Ema, chết rồi...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Adv13_Hiro002|",
+      "ja": "（レイアが死んだ……？）",
+      "zh": "（蕾雅，死了……？）",
+      "vi": "(Leya, chết rồi...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative007",
+      "speaker_tag": "",
+      "ja": "私が私自身の目で見た光景が、<br>どうしても現実だと受け入れられない。",
+      "zh": "即使是亲眼所见，<br>\n我也难以接受这就是现实。",
+      "vi": "Ngay cả khi bạn tận mắt nhìn thấy, Tôi cũng cảm thấy khó chấp nhận đây là sự thật.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Adv13_Hiro003|",
+      "ja": "（私は、エマに謝らないといけないのに）",
+      "zh": "（我还来不及向艾玛道歉……）",
+      "vi": "(Tôi chưa có thời gian để xin lỗi Ema...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Adv13_Hiro004|",
+      "ja": "（レイアに伝えたいことが、<br>　あったのに……）",
+      "zh": "（我还有来不及对蕾雅说的话……）<br>",
+      "vi": "(Tôi vẫn còn chuyện muốn nói với Leya...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative008",
+      "speaker_tag": "",
+      "ja": "いつの間にか私は、裁判所にいた。",
+      "zh": "不知不觉间，我已身处审判庭。",
+      "vi": "Trước khi kịp nhận ra thì tôi đã ở trong phòng xử án.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative009",
+      "speaker_tag": "",
+      "ja": "裁判所には、すでに少女たちが<ruby=\"そろ\">揃</ruby>っていた。",
+      "zh": "审判庭里少女们已经到齐了。",
+      "vi": "Các cô gái trong phòng xử án đã đến rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative010",
+      "speaker_tag": "",
+      "ja": "橘シェリー。<br>遠野ハンナ。",
+      "zh": "橘雪莉。<br>\n远野汉娜。",
+      "vi": "Sherry màu cam. Hanna Tono.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative011",
+      "speaker_tag": "",
+      "ja": "佐伯ミリア。<br>紫藤アリサ。",
+      "zh": "佐伯米莉亚。<br>\n紫藤亚里沙。",
+      "vi": "Miria。 Alisa。",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative012",
+      "speaker_tag": "",
+      "ja": "そして私の……５人。",
+      "zh": "还有我……共五人。",
+      "vi": "Và tôi...có tổng cộng năm người chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative013",
+      "speaker_tag": "",
+      "ja": "その時になってようやく、<br>エマがいない、レイアがいない事実にたどりつく。",
+      "zh": "直到那时我才终于意识到——<br>\n艾玛不在了，蕾雅不在了——已是事实。",
+      "vi": "Chỉ đến lúc đó tôi mới nhận ra—— Ema đã ra đi, Leia đã biến mất - đó là sự thật.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative014",
+      "speaker_tag": "",
+      "ja": "――彼女たちは、殺されていた。",
+      "zh": "——她们，被杀了。",
+      "vi": "--Họ đã bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative015",
+      "speaker_tag": "",
+      "ja": "もうこの世界のどこにも存在しない。",
+      "zh": "已经不在这个世界上的任何地方了。",
+      "vi": "Không còn ở đâu trên thế giới này nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative016",
+      "speaker_tag": "",
+      "ja": "私は４人の少女たちを見回す。",
+      "zh": "我环视周围的四名少女。",
+      "vi": "Tôi nhìn quanh bốn cô gái.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Adv13_Hiro005|",
+      "ja": "（殺されていた、殺されていた、<br>　殺されていた――！）",
+      "zh": "（被杀了，被杀了，<br>\n她们被杀了——！）",
+      "vi": "(Đã bị giết, đã bị giết, Họ đã bị giết——! )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative017",
+      "speaker_tag": "",
+      "ja": "未だ思考はうまく機能せず、<br>その事実だけが私の胸を<ruby=\"お\">圧</ruby>し<ruby=\"つぶ\">潰</ruby>す。",
+      "zh": "我的大脑仍然无法正常运作，<br>\n只有她们被杀死这个事实，正不断压垮我的胸口。",
+      "vi": "Não của tôi vẫn không hoạt động bình thường, Chỉ riêng việc họ bị giết đã đè nặng lên ngực tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Adv13_Hiro006|",
+      "ja": "（どんなに辛くとも、<br>　現実を受け入れないといけない）",
+      "zh": "（无论多么痛苦，<br>\n也必须接受现实）",
+      "vi": "(Dù có đau đớn thế nào đi chăng nữa, Bạn cũng phải chấp nhận thực tế)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative018",
+      "speaker_tag": "",
+      "ja": "息苦しさで胸を押さえながらも、<br>私は無理やりにでも顔を上げた。",
+      "zh": "我按住呼吸困难的胸口，<br>\n逼迫自己抬起头。",
+      "vi": "Tôi ôm ngực nơi tôi khó thở, Buộc bản thân phải ngẩng đầu lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative019",
+      "speaker_tag": "",
+      "ja": "感情に流されず、<br>思考を<ruby=\"さ\">冴</ruby>えわたらせなければいけない。",
+      "zh": "我不能被感情所控制。<br>\n必须让自己思考清晰。",
+      "vi": "Tôi không thể bị điều khiển bởi cảm xúc của mình. Bạn phải buộc mình phải suy nghĩ rõ ràng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Narrative020",
+      "speaker_tag": "",
+      "ja": "そうしなければ、真実にはたどりつけない。",
+      "zh": "因为只有这样，才能抵达真相。",
+      "vi": "Bởi vì chỉ bằng cách này chúng ta mới có thể đạt được sự thật.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv13_Warden001",
+      "speaker_tag": "; > Warden: |#0204Adv13_Warden001|",
+      "ja": "それでは、魔女裁判開廷です！",
+      "zh": "那么，魔女审判现在开庭！",
+      "vi": "Chà, Phiên tòa xét xử phù thủy đã bắt đầu!",
+      "objection_links": []
+    }
+  ]
+}

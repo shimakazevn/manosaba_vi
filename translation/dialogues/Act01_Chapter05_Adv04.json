@@ -1,0 +1,1096 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter05_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter05_Adv04",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter05/Act01_Chapter05_Adv04' Naninovel scenario script",
+  "total_entries": 136,
+  "entries": [
+    {
+      "id": "0105Adv04_Narrative001",
+      "speaker_tag": "",
+      "ja": "ゲストハウス【<ruby=\"ウンディーネ\">水精</ruby>の間】に隠された<br>エレベーターを経由し――",
+      "zh": "乘上招待所【<ruby=\"UNDINE\">水精</ruby>之室】的<br>\n隐藏电梯——",
+      "vi": "Bước vào chiếc thang máy ẩn bên trong Phòng Thủy Tinh (Undine) của Nhà Khách――",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative002",
+      "speaker_tag": "",
+      "ja": "エマがココと共にやってきたのは、<br>秘密の地下施設だった。",
+      "zh": "艾玛和可可来到了一个<br>\n秘密的地下设施。",
+      "vi": "Ema và Coco đã đến Cơ sở bí mật dưới lòng đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco001",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco001|",
+      "ja": "な、なんここ、さっっっむ……。",
+      "zh": "这、这是什么鬼地方，冷死了……",
+      "vi": "Nơi này là cái quái gì vậy? Trời lạnh quá...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema001",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema001|",
+      "ja": "扉、閉まらないようにしておいてココちゃん。<br>……鍵がかかって閉じ込められちゃうから。",
+      "zh": "可可，把门撑住吧。<br>\n……要是锁上了，我们就会被关在里面了。",
+      "vi": "Coco, giữ cửa mở. ...Nếu nó bị khóa thì chúng ta cũng đã bị khóa rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco002",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco002|",
+      "ja": "ひっ……！",
+      "zh": "噫……！",
+      "vi": "Ôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative003",
+      "speaker_tag": "",
+      "ja": "エマも昨夜見つけたばかりで、<br>ココにとっては初めてくる場所だ。",
+      "zh": "艾玛也是昨晚才发现这里，<br>\n可可更是第一次来。",
+      "vi": "Ema mới phát hiện ra địa điểm này tối qua, Coco ở đây lần đầu tiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative004",
+      "speaker_tag": "",
+      "ja": "ココはあたりの冷気と、加えて少しの恐怖を感じてか<br>がくがくと震えながら、<br>物珍しそうに周囲を見回している。",
+      "zh": "可可因为周围的寒气，加上一丝恐惧，<br>\n一边颤抖着，<br>\n一边好奇地环顾四周。",
+      "vi": "Ca cao, vì không khí lạnh xung quanh và một chút sợ hãi, Trong khi lắc, Trong khi tò mò nhìn xung quanh.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco003",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco003|",
+      "ja": "こんな場所あったんだ……<br>ここでエマっちが処刑台を操作して、<br>アリサを殺したってわけか。",
+      "zh": "居然有这种地方……<br>\n所以你就是在这里操纵处刑台，<br>\n然后杀了亚里沙吗。",
+      "vi": "Có một nơi như vậy... Vì vậy, đây là nơi bạn vận hành nền tảng thực thi, Sau đó giết Alisa?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema002",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema002|",
+      "ja": "……ッ、ボクは――。",
+      "zh": "……唔，我——",
+      "vi": "...chà, tôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative005",
+      "speaker_tag": "",
+      "ja": "エマは反論しかけて、すぐに押し留める。",
+      "zh": "艾玛刚想反驳，却又立刻止住了自己。",
+      "vi": "Ema định đáp lại nhưng lập tức ngăn lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema003",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema003|",
+      "ja": "（今ボクがアリサちゃんを殺してないって主張しても、<br>　信じてもらえる材料がない……）",
+      "zh": "（现在就算我说亚里沙不是我杀的，<br>\n也没有证据能让人信服……）",
+      "vi": "(Bây giờ ngay cả khi tôi nói tôi không giết Alisa, Không có bằng chứng thuyết phục...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema004",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema004|",
+      "ja": "（残された時間で、有効な手がかりを見つけないと）",
+      "zh": "（在剩下的时间里，必须找到有效的线索）",
+      "vi": "(Trong thời gian còn lại phải tìm ra manh mối hợp lệ)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative006",
+      "speaker_tag": "",
+      "ja": "室内をスマホで撮影してから、<br>エマは息をつく。",
+      "zh": "用手机拍摄了室内后，<br>\n艾玛长舒一口气。",
+      "vi": "Sau khi chụp ảnh nội thất bằng điện thoại di động, Ema thở phào nhẹ nhõm.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative007",
+      "speaker_tag": "",
+      "ja": "そんなエマの横で手持ち無沙汰にしていたココは、<br>手近にあった操作盤に目を向けた。",
+      "zh": "在艾玛身边无所事事的可可，<br>\n注意到自己手边有一个控制面板。",
+      "vi": "Coco, người không làm gì bên cạnh Ema, Nhận thấy rằng tôi có một bảng điều khiển bên cạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco004",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco004|",
+      "ja": "なにこれ？",
+      "zh": "这是什么？",
+      "vi": "Đây là cái gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema005",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema005|",
+      "ja": "それがゴクチョーが言ってた【操作盤】だよ。",
+      "zh": "那就是典狱长说的【控制面板】。",
+      "vi": "Đó chính là [Bảng điều khiển] mà quản giáo đã nói đến.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema006",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema006|",
+      "ja": "（昨日の夜はゆっくり観察する余裕がなかったけど、<br>　これで処刑台を入れ替えているんだ……）",
+      "zh": "（昨天晚上没来得及仔细观察，<br>\n原来就是用这个来切换处刑台的……）",
+      "vi": "(Tối qua tôi không có thời gian quan sát kỹ, Hóa ra cái này được dùng để chuyển đổi nền tảng thực thi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative008",
+      "speaker_tag": "",
+      "ja": "エマは操作盤を改めて調べていく。",
+      "zh": "艾玛再次仔细检查控制面板。",
+      "vi": "Ema kiểm tra lại bảng điều khiển một lần nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema007",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema007|",
+      "ja": "（ゴクチョーの話では、<br>　昨日の夜これをボクがいじったから処刑台が下がった）",
+      "zh": "（按典狱长的说法，<br>\n昨晚是因为我操作了这个，所以处刑台才降下去了）",
+      "vi": "(Theo giám thị, Bởi vì tôi đã làm điều này tối qua nên bệ hành quyết đã bị hạ xuống)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema008",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema008|",
+      "ja": "（処刑台のユニットを入れ替える操作や<br>　扉の開閉もできるみたいだけど……）",
+      "zh": "（看来不仅可以更换处刑台的装置，<br>\n还能控制门开关……）",
+      "vi": "(Có vẻ như không chỉ có thể thay thế được thiết bị của nền tảng thực thi, Nó cũng có thể điều khiển công tắc cửa...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema009",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema009|",
+      "ja": "（改めて見ても、詳しい使い方はわからないや……）",
+      "zh": "（再看一遍，还是不太明白具体怎么用……）",
+      "vi": "(Nhìn lại, tôi vẫn chưa hiểu rõ cách sử dụng nó...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative009",
+      "speaker_tag": "",
+      "ja": "はからずも自分がアリサに<br>手を下してしまった可能性を考えて、エマは青ざめる。",
+      "zh": "想到自己真的有可能<br>\n在无意间让亚里沙丧命，艾玛脸色发白。",
+      "vi": "Nghĩ rằng điều đó thực sự có thể đối với tôi Ema tái mặt sau khi vô tình gây ra cái chết cho Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema010",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema010|",
+      "ja": "（今は考えたらダメだ）",
+      "zh": "（现在不能想这个）",
+      "vi": "(Không thể nghĩ về điều này bây giờ)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative010",
+      "speaker_tag": "",
+      "ja": "時間も残されていない。<br>すぐに振り切って、なんとか心を平静に保った。",
+      "zh": "时间所剩无几。<br>\n艾玛迅速甩开这个念头，勉强保持冷静。",
+      "vi": "Thời gian sắp hết. Ema nhanh chóng gạt bỏ suy nghĩ đó và cố gắng giữ bình tĩnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema011",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema011|",
+      "ja": "（……あれ？<br>　でも、おかしいな……）",
+      "zh": "（……咦？<br>\n不对，有点奇怪……）",
+      "vi": "(...Hả? Không, nó hơi lạ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative011",
+      "speaker_tag": "",
+      "ja": "エマは昨日、この場所に訪れた記憶を<br>思い出す。",
+      "zh": "艾玛回想起<br>\n昨天来到这里的事。",
+      "vi": "Ema nhớ lại Đã đến đây ngày hôm qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema012",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema012|",
+      "ja": "（あのときたしか……<br>　操作盤は落として割っちゃったような）",
+      "zh": "（那时候好像……<br>\n把控制面板摔坏了）",
+      "vi": "(Lúc đó có vẻ như... Tôi đã phá vỡ bảng điều khiển)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema013",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema013|",
+      "ja": "（誰かが来て、<br>　新品と交換したのかな……？）",
+      "zh": "（是有人来<br>\n把控制面板换成新的了吗……？）",
+      "vi": "(Có ai đó ở đây Bạn đã thay bảng điều khiển mới chưa...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco005",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco005|",
+      "ja": "なあエマっち、もういい？<br>奥の扉も鍵がかかって開かないみたいだしさ……。<br>さっさと出ないと寒すぎて死ぬ。",
+      "zh": "喂，艾玛亲。好了没？<br>\n里面那扇门好像也锁着打不开……<br>\n再不出去我要被冻死了。",
+      "vi": "Xin chào, Ema thân yêu. Bạn đã sẵn sàng chưa? Cánh cửa bên trong hình như bị khóa và không mở được... Coco sẽ chết cóng nếu không ra ngoài.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema014",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema014|",
+      "ja": "……ごめん……！ もう少し待って。",
+      "zh": "……抱歉……！再等一下。",
+      "vi": "...Xin lỗi...! Đợi một lát.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco006",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco006|",
+      "ja": "だあっ、まさかあてぃしを<br>ここで凍死させる気なん！？",
+      "zh": "真是的，难道你想把我<br>\n冻死在这里！？",
+      "vi": "Thực sự, bạn có muốn Coco không? Đóng băng đến chết ở đây! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco007",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco007|",
+      "ja": "……もうあがいても仕方なくね？",
+      "zh": "……再挣扎也没用了吧？",
+      "vi": "...Không còn ích gì để đấu tranh nữa, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative012",
+      "speaker_tag": "",
+      "ja": "ぶつくさ文句を言いつつも、<br>ココはエマの後ろについてくる。",
+      "zh": "可可嘴里念叨着抱怨的话，<br>\n但还是跟在艾玛身后。",
+      "vi": "Coco lẩm bẩm những lời phàn nàn, Nhưng vẫn đi theo Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative013",
+      "speaker_tag": "",
+      "ja": "エマは焦っていた。<br>差し迫る時間、<br>それに対して何も有効な手がかりを得られていない。",
+      "zh": "艾玛焦急万分。<br>\n时限迫在眉睫，<br>\n却还没找到任何有用的线索。",
+      "vi": "Ema vô cùng lo lắng. Sắp hết thời hạn, Nhưng vẫn chưa tìm được manh mối hữu ích nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema015",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema015|",
+      "ja": "（どうしよう、どうしようどうしよう……！<br>　このままじゃボクが処刑に――！）",
+      "zh": "（怎么办，怎么办怎么办……！<br>\n再这样下去我就要被处决了——！）",
+      "vi": "(Phải làm gì, phải làm gì, phải làm gì...! Nếu cứ tiếp tục thế này, tôi sẽ bị xử tử——! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema016",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema016|",
+      "ja": "（パニックになるな！<br>　冷静に、落ち着いて考えないと！）",
+      "zh": "（不能慌！<br>\n要冷静、冷静地思考！）",
+      "vi": "(Đừng hoảng sợ! Hãy suy nghĩ một cách bình tĩnh và bình tĩnh! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative014",
+      "speaker_tag": "",
+      "ja": "寒さも思考力を奪っている。<br>エマはポケットに手を入れて、万年筆に触れた。",
+      "zh": "寒冷和焦急一样，剥夺着人的思考能力。<br>\n艾玛把手伸进口袋，摸到了钢笔。",
+      "vi": "Sự lạnh lùng, giống như sự lo lắng, làm mất đi khả năng suy nghĩ của con người. Ema thò tay vào túi và tìm thấy cây bút.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative015",
+      "speaker_tag": "",
+      "ja": "すると不思議なことに、<br>エマの体はほんの少しあたたかさを取り戻した。",
+      "zh": "神奇的是，<br>\n艾玛的身体顿时恢复了一点温暖。",
+      "vi": "Điều đáng kinh ngạc là, Cơ thể Ema đột nhiên lấy lại được chút ấm áp.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema017",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema017|",
+      "ja": "あ……。",
+      "zh": "啊……",
+      "vi": "À...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative016",
+      "speaker_tag": "",
+      "ja": "驚きから万年筆を取り出して眺める。",
+      "zh": "艾玛惊讶地拿出钢笔端详。",
+      "vi": "Ema lấy cây bút ra và ngạc nhiên nhìn nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema018",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema018|",
+      "ja": "（ボクのことを守ってくれてるの……？）",
+      "zh": "（是钢笔在保护我吗……？）",
+      "vi": "(Cái bút đang bảo vệ mình à...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative017",
+      "speaker_tag": "",
+      "ja": "一度目を閉じて、深呼吸してから目を開く。",
+      "zh": "艾玛闭上眼，调整呼吸，再睁开眼。",
+      "vi": "Ema nhắm mắt lại, điều chỉnh nhịp thở rồi mở mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative018",
+      "speaker_tag": "",
+      "ja": "それから操作室を見回してみると、<br>昨晩と違う箇所に気付いた。",
+      "zh": "这时环顾操作室，<br>\n就注意到一处与昨晚不同的地方。",
+      "vi": "Nhìn quanh phòng mổ lúc này, Tôi nhận thấy có gì đó khác với tối qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema019",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema019|",
+      "ja": "――通気口が開いてる。",
+      "zh": "——通风口是开着的。",
+      "vi": "-Các lỗ thông hơi đang mở.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative019",
+      "speaker_tag": "",
+      "ja": "通気口のフタが外れて、下に落ちている。",
+      "zh": "通风口的盖子被拆开，掉落在下方。",
+      "vi": "Nắp lỗ thông hơi đã được tháo ra và thả xuống bên dưới.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative020",
+      "speaker_tag": "",
+      "ja": "近くで確認すると、<br>フタの留め具が破壊されており、<br>破壊した銃弾が残っていた。",
+      "zh": "仔细一看，<br>\n盖子的固定装置被破坏了，<br>\n还留有被子弹破坏的痕迹。",
+      "vi": "Hãy nhìn kỹ hơn, Vật cố định của nắp bị hỏng, Vẫn còn dấu vết vết đạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema020",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema020|",
+      "ja": "（銃弾……！？ これ、まさかナノカちゃんが……！？）",
+      "zh": "（子弹……！？难道是奈叶香……！？）",
+      "vi": "(Đạn...!? Chẳng lẽ là Nanoyaka...!?)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative021",
+      "speaker_tag": "",
+      "ja": "中を<ruby=\"のぞ\">覗</ruby>くと、人ひとりがぎりぎり通れそうな幅があった。",
+      "zh": "往通风口里面看，宽度刚好能容一个人通过。",
+      "vi": "Nhìn vào bên trong lỗ thông hơi, nó chỉ rộng vừa đủ cho một người đi qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema021",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema021|",
+      "ja": "ここから中に入れそう！",
+      "zh": "从这里应该能进去！",
+      "vi": "Bạn sẽ có thể vào được từ đây!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco008",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco008|",
+      "ja": "まさかエマっち、行く気じゃないよな……？",
+      "zh": "艾玛亲，你该不会是想进去吧……？",
+      "vi": "Ema thân mến, bạn không muốn vào phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema022",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema022|",
+      "ja": "入ってみよう……！",
+      "zh": "我们进去看看……！",
+      "vi": "Chúng ta hãy vào trong và nhìn xem...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco009",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco009|",
+      "ja": "マジかぁ～。",
+      "zh": "真的假的啊。",
+      "vi": "Thực sự giả tạo.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative022",
+      "speaker_tag": "",
+      "ja": "エマはごくりと喉を鳴らし、<br>四つん<ruby=\"ば\">這</ruby>いになって通気口の中へと突入した。",
+      "zh": "艾玛吞了吞口水，<br>\n爬着钻进了通风口。",
+      "vi": "Ema nuốt nước bọt, Bò vào lỗ thông hơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative023",
+      "speaker_tag": "",
+      "ja": "――エマとココがたどりついた先は、<br>広大な冷凍室だった。",
+      "zh": "——艾玛和可可到达的是一个<br>\n巨大的冷冻室。",
+      "vi": "---Ema và Coco đã đến Tủ đông khổng lồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative024",
+      "speaker_tag": "",
+      "ja": "魔女の【なれはて】となった者たちが、<br>氷漬けにされて保管されている。",
+      "zh": "变成魔女【残骸】的少女们，<br>\n被冰冻保存在这里。",
+      "vi": "Những cô gái đã trở thành phù thủy [Đổ nát], Nó được giữ đông lạnh ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema023",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema023|",
+      "ja": "（ゴクチョーに聞いていたとおりだ。<br>　ここは……）",
+      "zh": "（和典狱长说的一样。<br>\n这里是……）",
+      "vi": "(Giống như quản giáo đã nói. Đây là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema024",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema024|",
+      "ja": "（――魔女たちが眠る場所）",
+      "zh": "（——魔女们长眠的地方）",
+      "vi": "(——Nơi ngủ của phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco010",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco010|",
+      "ja": "さむ！ 寒すぎ！ 無理！！",
+      "zh": "好冷！冷死了！受不了啦！！",
+      "vi": "Lạnh quá! Trời lạnh quá! Coco không thể chịu đựng được! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative025",
+      "speaker_tag": "",
+      "ja": "冷凍室の中はあまりに寒く、<br>じっとしているだけで凍りついてしまいそうだ。",
+      "zh": "冷冻室里实在太冷了，<br>\n要是站着不动就感觉马上要结冰了。",
+      "vi": "Trong tủ lạnh quá lạnh, Nếu tôi đứng yên, tôi có cảm giác như nó sắp đóng băng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative026",
+      "speaker_tag": "",
+      "ja": "エマとココは、<br>広い室内を手分けして捜査にあたることにした。",
+      "zh": "艾玛和可可<br>\n决定分头在宽敞的室内进行搜查。",
+      "vi": "Ema và Coco Quyết định chia nhau ra và tiến hành tìm kiếm bên trong rộng rãi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco011",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco011|",
+      "ja": "……なんかここの部屋、<br>あてぃし見たことある気がすんだけど。",
+      "zh": "……总觉得这个房间，<br>\n我好像见过。",
+      "vi": "...Coco luôn cảm thấy rằng căn phòng này, Coco nghĩ Coco đã nhìn thấy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative027",
+      "speaker_tag": "",
+      "ja": "いざ捜査をはじめようとした矢先、<br>ココが首を傾げて<ruby=\"つぶや\">呟</ruby>いた。",
+      "zh": "正准备开始搜查时，<br>\n可可疑惑地喃喃自语道。",
+      "vi": "Ngay khi chúng tôi chuẩn bị bắt đầu tìm kiếm, Coco lẩm bẩm với chính mình trong sự bối rối.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco012",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco012|",
+      "ja": "あっ、そうだ！ 今朝の夢の中で見たんだ！",
+      "zh": "啊，对了！是在今天早上的梦里看到的！",
+      "vi": "À, đúng rồi! Coco đã nhìn thấy nó trong giấc mơ sáng nay!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema025",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema025|",
+      "ja": "夢の中……？<br>ココちゃん、それってどういう……。",
+      "zh": "梦里……？<br>\n可可，这是什么意思……",
+      "vi": "Trong một giấc mơ...? Coco, điều này có nghĩa là gì...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative028",
+      "speaker_tag": "",
+      "ja": "声をかけた時には、<br>既にココの姿は物陰の向こうに消えていた。",
+      "zh": "艾玛刚开口询问，<br>\n可可的身影已经被物体挡住，消失不见了。",
+      "vi": "Ema vừa hỏi, Hình bóng của Coco đã bị đồ vật chặn lại và biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema026",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema026|",
+      "ja": "（ボクも急いで調査しないと）",
+      "zh": "（我也得赶紧调查才行）",
+      "vi": "(Tôi phải điều tra nhanh chóng)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative029",
+      "speaker_tag": "",
+      "ja": "エマは切り替えて、<br>目を凝らし、室内を調べていった。",
+      "zh": "艾玛调整心态，<br>\n仔细观察起室内的情况。",
+      "vi": "Ema điều chỉnh tâm lý của mình, Quan sát tình hình trong nhà một cách cẩn thận.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema027",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema027|",
+      "ja": "（これって……！）",
+      "zh": "（这是……！）",
+      "vi": "(Đây là...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative030",
+      "speaker_tag": "",
+      "ja": "――ナノカが発砲したのだろうか、<br>氷塊に弾痕が残っているのを見つけた。",
+      "zh": "——发现冰块上留有弹痕，<br>\n可能是奈叶香开枪造成的。",
+      "vi": "——Người ta phát hiện có vết đạn trên băng, Có thể nguyên nhân là do vụ nổ súng của Nanoyoka.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative031",
+      "speaker_tag": "",
+      "ja": "発砲の衝撃だろうか、<br>周辺には氷が散らばっている。",
+      "zh": "或许是射击带来的冲击导致的，<br>\n周围散落着碎冰。",
+      "vi": "Có lẽ là do tác động của việc chụp ảnh, Đá vụn vương vãi khắp nơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative032",
+      "speaker_tag": "",
+      "ja": "そしてそのすぐ傍には……",
+      "zh": "而附近……",
+      "vi": "Và gần đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative033",
+      "speaker_tag": "",
+      "ja": "ナノカがいつも持ち歩いていた銃が、<br>冷凍室に落ちていた。",
+      "zh": "原来奈叶香一直随身携带的枪，<br>\n也掉落在冷冻室里。",
+      "vi": "Hóa ra Nanoyaka luôn mang theo súng, Cũng bị rơi vào tủ đông.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema028",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema028|",
+      "ja": "（ナノカちゃんの銃……。<br>　やっぱりさっきの弾痕は、<br>　ナノカちゃんが撃ったもの……？）",
+      "zh": "（是奈叶香的枪……<br>\n刚才的弹痕，<br>\n果然是奈叶香开枪留下的……？）",
+      "vi": "(Là súng của Nanoyaka... Dấu đầu dòng vừa rồi, Chắc chắn là do vụ bắn của Nanoyaka để lại rồi...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema029",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema029|",
+      "ja": "（わからないけど、<br>　やっぱりここで何かあったんだ……！）",
+      "zh": "（虽然不太清楚，<br>\n但这里确实发生了什么……！）",
+      "vi": "(Mặc dù không rõ ràng, Nhưng có điều gì đó thực sự đang diễn ra ở đây...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco013",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco013|",
+      "ja": "おーいエマっちこっち来て！<br>なんかスゲーもん見つけた！",
+      "zh": "喂，艾玛亲。快过来！<br>\n我发现了个厉害的玩意！",
+      "vi": "Xin chào, Ema thân yêu. Hãy đến đây nhanh lên! Coco tìm thấy một cái gì đó tuyệt vời!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative034",
+      "speaker_tag": "",
+      "ja": "ココに呼ばれてエマが駆けつけると、<br>そこには巨大な金庫があった。",
+      "zh": "听到可可的呼唤，艾玛跑了过去，<br>\n那里有一个巨大的保险箱。",
+      "vi": "Nghe thấy tiếng Coco gọi, Ema chạy tới, Có một chiếc két sắt lớn ở đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema030",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema030|",
+      "ja": "これココちゃんが開けたの？",
+      "zh": "这是可可你打开的吗？",
+      "vi": "Bạn đã mở ca cao này chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco014",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco014|",
+      "ja": "いや最初から開いてた。",
+      "zh": "不是啦，一开始就是开着的。",
+      "vi": "Không, nó đã mở ngay từ đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema031",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema031|",
+      "ja": "そうなんだ……。",
+      "zh": "这样啊……",
+      "vi": "Thế thôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema032",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema032|",
+      "ja": "（あ、数字を入力するところ、血がついてる……！<br>　怪我をした人が開けたのかな……？）",
+      "zh": "（啊，输入数字的地方沾着血……！<br>\n是受伤的人打开的吗……？）",
+      "vi": "(À, có máu ở chỗ tôi nhập số...! Có phải người bị thương đã mở nó ra không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative035",
+      "speaker_tag": "",
+      "ja": "金庫は既に開かれた後で、<br>中には不可解なものがたくさん入っていた。",
+      "zh": "保险箱早已被打开，<br>\n里面装着许多不可思议的东西。",
+      "vi": "Chiếc két sắt đã được mở rồi, Nó chứa đựng nhiều điều đáng kinh ngạc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative036",
+      "speaker_tag": "",
+      "ja": "何かの薬品らしき透明な液体の入ったビンが数本と――",
+      "zh": "几个装有透明液体的小瓶子，看起来像是某种药品。",
+      "vi": "Một số chai nhỏ chứa chất lỏng trong suốt trông giống như một loại thuốc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative037",
+      "speaker_tag": "",
+      "ja": "厳かな雰囲気を醸す剣。",
+      "zh": "一把散发着庄严气息的剑。",
+      "vi": "Một thanh kiếm toát lên sự uy nghiêm.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative038",
+      "speaker_tag": "",
+      "ja": "そして、本物の拳銃。",
+      "zh": "一把真正的手枪。",
+      "vi": "Một khẩu súng lục thực sự.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative039",
+      "speaker_tag": "",
+      "ja": "更には、大量のレポートも入っていた。",
+      "zh": "还有大量的报告。",
+      "vi": "Ngoài ra còn có rất nhiều báo cáo.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco015",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco015|",
+      "ja": "金庫の中に入ってたっつーことは、<br>かなり重要なものっぽいよな。",
+      "zh": "既然放在保险箱里，<br>\n肯定是很重要的东西吧。",
+      "vi": "Vì nó được đặt trong két an toàn nên Chắc hẳn là một điều gì đó rất quan trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco016",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco016|",
+      "ja": "あてぃしには何がなんだかわかんねーけど。",
+      "zh": "虽然我完全搞不懂是什么东西就是了。",
+      "vi": "Mặc dù Coco không hiểu nó là gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema033",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema033|",
+      "ja": "うん……<br>ひとつひとつじっくり検討してる暇はないけど、<br>きっとこの牢屋敷にとって大切なものだと思う。",
+      "zh": "嗯……<br>\n虽然没时间仔细研究每一样，<br>\n但我想这些一定都是对这个监牢来说很重要的东西。",
+      "vi": "Ừm... Mặc dù tôi không có thời gian để nghiên cứu kỹ mọi thứ nhưng Nhưng tôi nghĩ đây hẳn là những thứ rất quan trọng đối với Ngục Dinh Thự này.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema034",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema034|",
+      "ja": "（……金庫が開いていたのは、<br>　ナノカちゃんが開けた……？）",
+      "zh": "（……保险箱是开着的，<br>\n难道是奈叶香打开的……？）",
+      "vi": "(… két sắt đang mở, Chẳng lẽ Nanoyaka là người mở nó ra sao...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema035",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema035|",
+      "ja": "（ナノカちゃんは牢屋敷の秘密を覗き見たから、<br>　殺されたのかも……）",
+      "zh": "（奈叶香可能是因为窥见了监牢的秘密<br>\n才被杀害的……）",
+      "vi": "(Nayoka có thể đã nhìn thoáng qua bí mật của Ngục Dinh Thự Anh ta vừa bị giết...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative040",
+      "speaker_tag": "",
+      "ja": "とうとう牢屋敷の大きな秘密に迫っている気がして、<br>エマは身を震わせた。",
+      "zh": "感觉终于接近了监牢的重大秘密，<br>\n艾玛不禁颤抖。",
+      "vi": "Tôi cảm thấy như cuối cùng mình cũng sắp hiểu được bí mật lớn của Ngục Dinh Thự, Ema không khỏi run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema036",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema036|",
+      "ja": "（きっとボクらは真相にたどりつける――）",
+      "zh": "（我们一定能找到真相——）",
+      "vi": "(Chúng ta chắc chắn sẽ tìm ra sự thật——)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative041",
+      "speaker_tag": "",
+      "ja": "エマがそんなことを考えていると、いつの間にか<br>いなくなっていたココの声が遠くから聞こえた。",
+      "zh": "正当艾玛这么想着时，<br>\n不知何时又跑远了的可可，正从远处喊着艾玛。",
+      "vi": "Ngay khi Ema đang nghĩ điều này, Coco, người đã bỏ chạy một lần nữa, đang gọi Ema từ xa.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco017",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco017|",
+      "ja": "……ちょっ、エマっち！！<br>こっちきてー！！",
+      "zh": "……喂，艾玛亲！！<br>\n快过来——！！",
+      "vi": "...Này, Ema thân yêu! ! Hãy đến đây nhanh lên——! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema037",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema037|",
+      "ja": "どうしたのー？",
+      "zh": "怎么了——？",
+      "vi": "Chuyện gì đã xảy ra——?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco018",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco018|",
+      "ja": "いいから早くきてよ！<br>これ……ヤバ……！",
+      "zh": "总之快来！<br>\n这个……太厉害了……！",
+      "vi": "Dù sao đi nữa! Điều này...tuyệt vời quá...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative042",
+      "speaker_tag": "",
+      "ja": "エマが小走りでココの声がする方へと<br>向かう。",
+      "zh": "艾玛小跑着，<br>\n朝可可声音传来的方向走去。",
+      "vi": "Ema chạy nhanh, Đi về phía nơi phát ra giọng nói của Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative043",
+      "speaker_tag": "",
+      "ja": "エマを出迎えたのは、巨大な門だった。",
+      "zh": "迎接艾玛的是一扇巨大的门。",
+      "vi": "Ema được chào đón bởi một cánh cửa lớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema038",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema038|",
+      "ja": "大きい……。<br>巨人でも通るのかな。",
+      "zh": "好大啊……<br>\n该不会是给巨人用的吧。",
+      "vi": "Lớn quá... Nó có thể dành cho những người khổng lồ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco019",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco019|",
+      "ja": "や、やめてよ……。<br>そんなバケモンいるなんて<br>ありえないんだけど……。",
+      "zh": "别、别说了……<br>\n怎么可能有那种怪物存在嘛……<br>",
+      "vi": "Dừng lại, đừng nói nữa... Làm sao một con quái vật như vậy có thể tồn tại...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative044",
+      "speaker_tag": "",
+      "ja": "ココはその顔に恐怖を見え隠れさせつつ、<br>眼前の巨大な扉へと近付いた。",
+      "zh": "可可靠近着眼前的巨门，<br>\n脸上掠过一丝恐惧。",
+      "vi": "Coco tiến đến cánh cửa khổng lồ trước mặt, Một thoáng sợ hãi lướt qua khuôn mặt anh.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco020",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco020|",
+      "ja": "……あ、エマっち！<br>こっから中が見える！",
+      "zh": "……啊，艾玛亲！<br>\n从这里能看到里面！",
+      "vi": "...À, Ema thân mến! Bạn có thể nhìn thấy bên trong từ đây!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative045",
+      "speaker_tag": "",
+      "ja": "扉の下部に小さな<ruby=\"のぞ\">覗</ruby>き窓を見つけ、<br>ココがその場にかがんで興奮気味に声をあげた。",
+      "zh": "可可在门下方发现了一个小窗，<br>\n立刻蹲下身兴奋地喊道。",
+      "vi": "Coco tìm thấy một cửa sổ nhỏ dưới cửa, Anh ta lập tức ngồi xổm xuống và hét lên đầy phấn khích.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative046",
+      "speaker_tag": "",
+      "ja": "エマも駆け寄って中を<ruby=\"のぞ\">覗</ruby>くと、<br>そこにはものものしい処刑台が見えた。",
+      "zh": "艾玛也跑过来，凑近往里看，<br>\n只见里面是一个令人生畏的处刑台。",
+      "vi": "Ema cũng chạy tới nhìn vào trong, Những gì tôi nhìn thấy bên trong là một nền tảng thực thi ghê gớm.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema039",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema039|",
+      "ja": "処刑台……。<br>地上で処刑された魔女は、<br>地下へ送られてここを通るのかな。",
+      "zh": "处刑台……<br>\n在上面被处刑的魔女，<br>\n是不是会被送到地下，然后要经过这里啊？",
+      "vi": "Nền tảng thực thi... Phù thủy bị xử tử ở trên, Nó sẽ được gửi xuống lòng đất và sau đó đi qua đây?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco021",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco021|",
+      "ja": "……こんな悪趣味な施設、<br>誰が作ったんだろ。",
+      "zh": "……到底是谁建造了<br>\n这么猎奇的设施啊。",
+      "vi": "…người đã xây dựng Thật là một cơ sở tò mò.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema040",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema040|",
+      "ja": "……これまでの処刑を見てても、<br>本当に最低だった。",
+      "zh": "……目睹之前的处刑，<br>\n真的觉得太过分了。",
+      "vi": "…chứng kiến những vụ hành quyết trước đây, Nó thực sự cảm thấy như nó là quá nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative047",
+      "speaker_tag": "",
+      "ja": "少女たちの精神を、<br>極限まで追い詰めるためだけに<br>作られた装置と屋敷。",
+      "zh": "这座大宅和这些装置，<br>\n就是为了将少女们的精神逼到极限<br>\n而建造的。",
+      "vi": "Biệt thự này và những công trình sắp đặt này, Chỉ để đẩy tinh thần của các cô gái đến giới hạn Và được xây dựng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative048",
+      "speaker_tag": "",
+      "ja": "その処刑台を長く直視できず、<br>エマはすぐに立ち上がった。",
+      "zh": "艾玛无法长时间直视那个处刑台，<br>\n很快就站了起来。",
+      "vi": "Ema đã không thể nhìn thẳng vào đài hành quyết trong một thời gian dài, Anh nhanh chóng đứng dậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco022",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco022|",
+      "ja": "……うーん、これどうやっても<br>こっからは入れないわ。",
+      "zh": "……唔，这个小洞看起来<br>\n怎么都进不了人的样子。",
+      "vi": "...Chà, cái lỗ nhỏ này trông Dù có nhìn kỹ thế nào cũng không thể vào được.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative049",
+      "speaker_tag": "",
+      "ja": "ココはしばらく<ruby=\"のぞ\">覗</ruby>き窓から両腕を<br>ねじ込もうとしていたが、諦めて立ち上がる。",
+      "zh": "可可试图将双臂伸进小窗，<br>\n但很快就放弃，站了起来。",
+      "vi": "Coco cố thò tay qua cửa sổ nhỏ, Nhưng anh sớm bỏ cuộc và đứng dậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative050",
+      "speaker_tag": "",
+      "ja": "それは人がどうあっても出入りできない程度の<br>大きさのようだった。",
+      "zh": "看来这个大小<br>\n无论如何都不可能让人出入。",
+      "vi": "Có vẻ như kích thước này Không ai có thể vào hoặc ra trong bất kỳ trường hợp nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco023",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco023|",
+      "ja": "子どもでも通れなさそうだな～……。<br>猫とか小動物ぐらいなら通れっかも？",
+      "zh": "连小孩子都过不去啊～<br>\n……大概只有猫之类的小动物能钻过去吧？",
+      "vi": "Ngay cả trẻ em cũng không thể vượt qua được~ ...Chắc chỉ có động vật nhỏ như mèo mới có thể vượt qua được phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema041",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema041|",
+      "ja": "（ココちゃんの言う通り、<br>　この覗き窓を人が通ることは<br>　難しそうだ……）",
+      "zh": "（正如可可所说，<br>\n这个小窗是难以供人通过的……）<br>",
+      "vi": "(Như Coco đã nói, Cửa sổ nhỏ này người ta khó đi qua...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema042",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema042|",
+      "ja": "そもそもこの門、どうやって開けるんだろ。",
+      "zh": "话说回来，这扇门要怎么打开呢。",
+      "vi": "Đã nói như vậy, làm sao chúng ta mở được cánh cửa này?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco024",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco024|",
+      "ja": "さっきみたいな操作盤はなさそうだし、<br>簡単には開かないんじゃね？",
+      "zh": "没看到类似刚才那种控制面板，<br>\n应该不容易打开吧？",
+      "vi": "Coco không thấy bảng điều khiển giống như bảng vừa rồi, Nó không dễ để mở ra phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema043",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema043|",
+      "ja": "（覗き窓のついた、開かない巨大な門……か）",
+      "zh": "（带小窗的、打不开的巨门……吗）",
+      "vi": "(Một cánh cửa lớn với một cửa sổ nhỏ không thể mở được...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco025",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco025|",
+      "ja": "あとこの部屋にあるのは……。",
+      "zh": "这个房间里还有什么呢……",
+      "vi": "Trong phòng này còn có gì nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco026",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco026|",
+      "ja": "……お！ あれなんかは重要そうな証拠じゃね？",
+      "zh": "……哦？那个看起来像是重要证据吧？",
+      "vi": "...Ồ? Có vẻ như đó là bằng chứng quan trọng phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema044",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema044|",
+      "ja": "（液体窒素……。<br>　処刑された魔女を凍らせるのに使うのかな……）",
+      "zh": "（液氮……<br>\n是用来冷冻被处刑的魔女的吗……）",
+      "vi": "(Nitơ lỏng... Có phải nó được dùng để đóng băng mụ phù thủy bị hành quyết...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco027",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco027|",
+      "ja": "うー、サブッ……！<br>……他にはなんもなさそ？",
+      "zh": "嘶——，冷死……！<br>\n……看来没什么别的了？",
+      "vi": "Rít——, lạnh quá...! …Có vẻ như không còn gì khác nữa nhỉ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative051",
+      "speaker_tag": "",
+      "ja": "ココは白い息を吐きつつ、<br>エマに尋ねる。",
+      "zh": "可可呼着白气，<br>\n询问艾玛。",
+      "vi": "Coco thở ra không khí trắng xóa, Hãy hỏi Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema045",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema045|",
+      "ja": "そうだね……。<br>他に繋がる通路とかはなさそうだけど……。",
+      "zh": "是啊……<br>\n看起来也没有通向其他地方的通道……",
+      "vi": "Có... Dường như không có lối đi nào dẫn đến nơi nào khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema046",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema046|",
+      "ja": "（この部屋自体は広いけど、<br>　地下にはこれ以上の先はないみたい）",
+      "zh": "（虽然这个房间本身很大，<br>\n但地下部分似乎就到这里为止了）",
+      "vi": "(Mặc dù căn phòng này rộng nhưng Nhưng có vẻ như đó là phần cuối của phần ngầm)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema047",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema047|",
+      "ja": "（……だとしたら、ナノカちゃんはどうやって地下から<br>　処刑台側へ抜け出したんだろう……？<br>　あの【門】が開いたのかな……？）",
+      "zh": "（……如果是这样的话，奈叶香是怎么从地下<br>\n到达处刑台那边的呢……？<br>\n难道是那扇【门】打开了……？）",
+      "vi": "(...Nếu đúng như vậy thì làm sao Nanoyaka lại đến từ dưới lòng đất Thế còn những người đã đến đài hành quyết thì sao...? Có thể nào [cánh cửa] đó đã mở...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco028",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco028|",
+      "ja": "だあっ、限界……！<br>もう無理あてぃし戻る！！",
+      "zh": "真是，受不了了……！<br>\n不行了我要回去了！！",
+      "vi": "Coco thực sự không thể chịu đựng được nữa...! Không, Coco phải quay lại! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative052",
+      "speaker_tag": "",
+      "ja": "寒さで青ざめたココが喚き、<br>通気口の方へと走っていく。",
+      "zh": "脸色发青的可可大叫着，<br>\n朝通风口跑去。",
+      "vi": "Coco, người tái xanh mặt, hét lên, Chạy về phía lỗ thông hơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative053",
+      "speaker_tag": "",
+      "ja": "限界だったのはエマも一緒で、<br>通気口の方へと向かった。",
+      "zh": "艾玛也同样到了极限，<br>\n走向了通风口。",
+      "vi": "Ema cũng đã đạt đến giới hạn của mình, Hướng về phía lỗ thông hơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative054",
+      "speaker_tag": "",
+      "ja": "その途中、視界の端に映ったものが気にかかった。",
+      "zh": "途中，视线边缘的某样东西引起了她的注意。",
+      "vi": "Trên đường đi, có thứ gì đó ở rìa tầm nhìn khiến cô chú ý.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema048",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema048|",
+      "ja": "ちょっと待ってココちゃん！<br>気になるものが……！",
+      "zh": "等一下可可！<br>\n我有些在意的东西……！",
+      "vi": "Đợi một chút Coco! Có điều tôi quan tâm...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Coco029",
+      "speaker_tag": "; > Coco: |#0105Adv04_Coco029|",
+      "ja": "エマっちしつこすぎてキモいわ！！",
+      "zh": "艾玛亲你烦不烦啊，真恶心！！",
+      "vi": "Bạn có thấy khó chịu khi Ema hôn bạn không? Thật kinh tởm! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative055",
+      "speaker_tag": "",
+      "ja": "逃げ腰のココを半ば引きずって、<br>エマは壁際まで走った。",
+      "zh": "艾玛半拖半拽地拉着想逃走的可可，<br>\n跑到了墙边。",
+      "vi": "Ema nửa kéo nửa kéo Coco, người đang cố gắng trốn thoát, Chạy vào tường.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Narrative056",
+      "speaker_tag": "",
+      "ja": "――その目立つ箱の中には、<br><ruby=\"おの\">斧</ruby>や消火器、救急用具や裁縫道具などが入っていた。",
+      "zh": "——那个显眼的箱子里装着<br>\n斧头、灭火器、急救用品和缝纫工具等。",
+      "vi": "---Hộp dễ thấy chứa Rìu, bình chữa cháy, dụng cụ sơ cứu, dụng cụ may vá, v.v.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema049",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema049|",
+      "ja": "（何かに使えたりするのかな……？）",
+      "zh": "（这些东西能派上用场吗……？）",
+      "vi": "(Những thứ này có thể hữu ích được không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema050",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema050|",
+      "ja": "（たくさん証拠品を入手できた）",
+      "zh": "（成功获得了很多证物）",
+      "vi": "(Thu được thành công rất nhiều bằng chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv04_Ema051",
+      "speaker_tag": "; > Ema: |#0105Adv04_Ema051|",
+      "ja": "（あとでしっかり魔女図鑑を確認しておこう……！）",
+      "zh": "（之后要好好确认一下魔女图鉴……！）",
+      "vi": "(Sau này mình sẽ phải kiểm tra cẩn thận cuốn sách minh họa của mụ phù thủy…!)",
+      "objection_links": []
+    }
+  ]
+}

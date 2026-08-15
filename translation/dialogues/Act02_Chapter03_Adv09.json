@@ -1,0 +1,640 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter03_Adv09",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter03/Act02_Chapter03_Adv09' Naninovel scenario script",
+  "total_entries": 79,
+  "entries": [
+    {
+      "id": "0203Adv09_Narrative001",
+      "speaker_tag": "",
+      "ja": "――数日が経過した。",
+      "zh": "——过了几天。",
+      "vi": "---Một vài ngày trôi qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative002",
+      "speaker_tag": "",
+      "ja": "あれから私たちは劇の制作に、<br>力いっぱい取り組んだ。",
+      "zh": "自那之后，<br>\n我们一同尽心尽力投入到舞台剧的制作当中。",
+      "vi": "Kể từ đó, Chúng tôi cùng nhau cống hiến hết mình cho việc dàn dựng vở kịch trên sân khấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative003",
+      "speaker_tag": "",
+      "ja": "そして――",
+      "zh": "然后——",
+      "vi": "Sau đó——",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Leia001",
+      "speaker_tag": "; > Leia: |#0203Adv09_Leia001|",
+      "ja": "みんな、少しいいだろうか。",
+      "zh": "各位，可以听我说几句吗。",
+      "vi": "Mọi người ơi, có thể lắng nghe điều tôi sắp nói không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative004",
+      "speaker_tag": "",
+      "ja": "夕食時。<br>ふとレイアが立ち上がり、全員に語りかける。",
+      "zh": "晚餐时刻。<br>\n蕾雅突然站起来向所有人说道。",
+      "vi": "Giờ ăn tối. Leia đột nhiên đứng dậy và nói với mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Leia002",
+      "speaker_tag": "; > Leia: |#0203Adv09_Leia002|",
+      "ja": "まず、お礼を言わせてほしい。<br>本当にありがとう。",
+      "zh": "首先请允许我在此向各位道谢。<br>\n衷心感谢大家。",
+      "vi": "Trước hết cho phép tôi gửi lời cảm ơn tới tất cả các bạn. Cảm ơn tất cả các bạn từ tận đáy lòng của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative005",
+      "speaker_tag": "",
+      "ja": "胸元に手を当て、<br>レイアは<ruby=\"うやうや\">恭</ruby>しく一礼する。",
+      "zh": "蕾雅把手放在胸口，<br>\n恭敬地鞠了一躬。",
+      "vi": "Leia đặt tay lên ngực, Cúi đầu kính cẩn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Leia003",
+      "speaker_tag": "; > Leia: |#0203Adv09_Leia003|",
+      "ja": "みんなのおかげで、<br>劇の制作は順調に進んだ。",
+      "zh": "多亏大家的努力，<br>\n舞台剧的制作进展非常顺利。",
+      "vi": "Nhờ nỗ lực của mọi người, Việc sản xuất vở kịch đang diễn ra rất tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative006",
+      "speaker_tag": "",
+      "ja": "台本や衣装、背景の制作、<br>演技の<ruby=\"けいこ\">稽古</ruby>……",
+      "zh": "从剧本、服装，到背景制作、演技训练……<br>",
+      "vi": "Từ kịch bản và trang phục cho đến sản xuất bối cảnh và đào tạo diễn xuất...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative007",
+      "speaker_tag": "",
+      "ja": "数日間、私たちは力を合わせて、<br>ひとつの劇を作り上げてきた。",
+      "zh": "在这几天里，我们一路同心协力，<br>\n只为打造一场舞台剧。",
+      "vi": "Trong vài ngày qua, chúng ta đã làm việc cùng nhau, Chỉ để tạo ra một vở kịch sân khấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative008",
+      "speaker_tag": "",
+      "ja": "あれだけ嫌がっていたアリサですら、<br>気付けば参加していて。",
+      "zh": "就连一开始那么抗拒的亚里沙，<br>\n也在不知不觉中参与进来。",
+      "vi": "Ngay cả Alisa, người ban đầu phản đối mạnh mẽ, Anh cũng vô tình tham gia vào đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative009",
+      "speaker_tag": "",
+      "ja": "私も大魔女についての調査をしながら、<br>できる範囲での協力は<ruby=\"お\">惜</ruby>しまなかった。",
+      "zh": "我也在调查大魔女的空余时间内<br>\n尽所能地提供协助。",
+      "vi": "Tôi cũng đang điều tra về mụ phù thủy vĩ đại khi rảnh rỗi Hỗ trợ bằng mọi cách bạn có thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative010",
+      "speaker_tag": "",
+      "ja": "私の視線は自然にアンアンの方へと向く。<br>するとアンアンも私を見ていたらしく、目が合った。",
+      "zh": "我自然而然地看向安安。<br>\n她应该也是一直看着我，我们的视线重合了。",
+      "vi": "Tôi tự nhiên nhìn AnAn. Chắc chắn cô ấy cũng đang nhìn tôi, mắt chúng tôi chạm nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_AnAn001",
+      "speaker_tag": "; > AnAn: |#0203Adv09_AnAn001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hiro001",
+      "speaker_tag": "; > Hiro: |#0203Adv09_Hiro001|",
+      "ja": "（やれやれ）",
+      "zh": "（哎呀呀）",
+      "vi": "(Rất tiếc)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative011",
+      "speaker_tag": "",
+      "ja": "気まずそうにさっと<ruby=\"うつむ\">俯</ruby>いたアンアンに、<br>私は軽く息をついた。",
+      "zh": "可能是感到窘迫吧，安安马上低下了头。<br>\n我轻轻叹了一口气。",
+      "vi": "Có lẽ vì ngượng ngùng, AnAn lập tức cúi đầu. Tôi khẽ thở dài.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Leia004",
+      "speaker_tag": "; > Leia: |#0203Adv09_Leia004|",
+      "ja": "明日はいよいよ、劇を発表する日だ。",
+      "zh": "明天，我们的舞台剧终于要正式开演。",
+      "vi": "Ngày mai, vở kịch của chúng ta cuối cùng cũng sẽ chính thức bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative012",
+      "speaker_tag": "",
+      "ja": "<ruby=\"おごそ\">厳</ruby>かな口調でレイアが告げる。",
+      "zh": "蕾雅郑重其事地说道。",
+      "vi": "Leia trịnh trọng nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Ema001",
+      "speaker_tag": "; > Ema: |#0203Adv09_Ema001|",
+      "ja": "う、うう、もう本番なんだね。<br>ボク、ちゃんとできるかな……。",
+      "zh": "唔、唔唔，马上就要正式上场了呢。<br>\n我能好好演完吗……",
+      "vi": "Uh-huh, sắp chính thức bắt đầu rồi. Liệu tôi có thể hoàn thành màn trình diễn tốt được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Sherry001",
+      "speaker_tag": "; > Sherry: |#0203Adv09_Sherry001|",
+      "ja": "大丈夫ですよ！ たくさん練習したんですから！<br>もし何かあっても、私がフォローしますので！",
+      "zh": "我们花了这么多时间精力去练习，没问题的！<br>\n如果发生什么万一，我也会来圆场！",
+      "vi": "Chúng tôi đã dành rất nhiều thời gian và công sức để luyện tập, không sao cả! Nếu có chuyện gì xảy ra, tôi sẽ đến để giải quyết ổn thỏa!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hanna001",
+      "speaker_tag": "; > Hanna: |#0203Adv09_Hanna001|",
+      "ja": "あんまり安心できませんわね、それ……。<br>でもまあ、わたくしもエマさんなら平気だと思いますわ。",
+      "zh": "你这听起来也不怎么能让人放心啊……<br>\n不过嘛，我觉得艾玛肯定能演好。",
+      "vi": "Nghe có vẻ bạn không yên tâm lắm... Nhưng Bổn tiểu thư nghĩ Ema chắc chắn có thể diễn xuất tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Sherry002",
+      "speaker_tag": "; > Sherry: |#0203Adv09_Sherry002|",
+      "ja": "あれ？ もしかして、<br>私の方が平気じゃないって言われてます？",
+      "zh": "咦？<br>\n难不成这是在暗指我演不好？",
+      "vi": "Hả? Phải chăng đây là sự ám chỉ đến thành tích kém cỏi của tôi?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative013",
+      "speaker_tag": "",
+      "ja": "緊張した<ruby=\"おもも\">面持</ruby>ちのエマを、<br>シェリーとハンナが<ruby=\"きづか\">気遣</ruby>う。",
+      "zh": "面对紧张的艾玛，<br>\n雪莉和汉娜努力安抚。",
+      "vi": "Đối mặt với Ema đang lo lắng, Sherry và Hanna cố gắng trấn an.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative014",
+      "speaker_tag": "",
+      "ja": "頑張って練習を重ねたのだから、<br>自信を持っていい……",
+      "zh": "已经尽最大努力反复练习过了，<br>\n所以你可以自信一点……",
+      "vi": "Tôi đã cố gắng hết sức để luyện tập nhiều lần, Để bạn có thể tự tin hơn...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative015",
+      "speaker_tag": "",
+      "ja": "２人の励ましに、<br>エマも少し心が軽くなったようだ。",
+      "zh": "看来她们的鼓励<br>\n让艾玛放下了一些心理负担。",
+      "vi": "Có vẻ như sự khuyến khích của họ Hãy để Ema trút bỏ gánh nặng tâm lý nào đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Ema002",
+      "speaker_tag": "; > Ema: |#0203Adv09_Ema002|",
+      "ja": "シェリーちゃん、ハンナちゃん……<br>ありがとう！",
+      "zh": "雪莉，汉娜……<br>\n谢谢你们！",
+      "vi": "Sherry, Hanna... Cảm ơn bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Miria001",
+      "speaker_tag": "; > Miria: |#0203Adv09_Miria001|",
+      "ja": "アンアンちゃん、<br>台本で直したほうがいい部分とか、もうないよね？",
+      "zh": "安安，<br>\n剧本已经没有什么需要修改的地方了对吧？",
+      "vi": "AnAn, Kịch bản không có gì cần phải sửa lại phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Leia005",
+      "speaker_tag": "; > Leia: |#0203Adv09_Leia005|",
+      "ja": "ああ、心配はいらないさ。<br>本当に素晴らしい台本だよ！",
+      "zh": "嗯，不用担心。<br>\n剧本真的写得很精彩哦！",
+      "vi": "Đừng lo lắng. Kịch bản thực sự được viết tuyệt vời!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Ema003",
+      "speaker_tag": "; > Ema: |#0203Adv09_Ema003|",
+      "ja": "うん、ボクも読んだだけで感動しちゃった。<br>アンアンちゃんすごいよ。ボクも頑張るね。",
+      "zh": "嗯，我光是读剧本就已经觉得很感人了。<br>\n安安真的很厉害呢。我也会加油的。",
+      "vi": "Chà, chỉ cần đọc kịch bản là tôi đã thấy rất cảm động rồi. AnAn thật tuyệt vời. Tôi cũng sẽ cố gắng hết sức.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative016",
+      "speaker_tag": "",
+      "ja": "不意にアンアンが椅子から立ち上がった。<br>その顔は青ざめている。",
+      "zh": "这时安安突然站了起来。<br>\n她惊恐得脸色发青。",
+      "vi": "Lúc này AnAn đột nhiên đứng dậy. Cô ấy xanh mặt vì sợ hãi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_AnAn002",
+      "speaker_tag": "; > AnAn: |#0203Adv09_AnAn002|",
+      "ja": "……ちがう。告白する。",
+      "zh": "……不对。我要坦白。",
+      "vi": "...sai. Tôi có một lời thú nhận để thực hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Ema004",
+      "speaker_tag": "; > Ema: |#0203Adv09_Ema004|",
+      "ja": "えっ……。",
+      "zh": "欸……",
+      "vi": "Hừ...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_AnAn003",
+      "speaker_tag": "; > AnAn: |#0203Adv09_AnAn003|",
+      "ja": "それはわがはいが書いたものでは、ない。",
+      "zh": "写出剧本的人，不是吾辈。",
+      "vi": "Người viết kịch bản không phải là tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative017",
+      "speaker_tag": "",
+      "ja": "アンアンは苦しげに言葉をしぼりだす。",
+      "zh": "安安挤出的这句话里掺杂着苦涩。",
+      "vi": "Lời AnAn thốt ra xen lẫn sự cay đắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_AnAn004",
+      "speaker_tag": "; > AnAn: |#0203Adv09_AnAn004|",
+      "ja": "わがはいは、ほとんど書けなかった。<br>だから、ヒロに手伝ってもらって、<br>ほとんどヒロが書いたような、ものだ……。",
+      "zh": "吾辈，根本没写多少。<br>\n所以说，那是让希罗帮忙，<br>\n甚至可以说，几乎都是希罗写出来的，作品……",
+      "vi": "Tôi chưa viết gì nhiều cả. Vì vậy, hãy để Anh hùng giúp đỡ, Thậm chí có thể nói gần như toàn bộ tác phẩm đều do Anh Hùng viết ra…",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hiro002",
+      "speaker_tag": "; > Hiro: |#0203Adv09_Hiro002|",
+      "ja": "（わざわざ言わなくてもいいとは思うが……<br>　気が済まないのも理解はできる）",
+      "zh": "（用不着特意说出来吧……<br>\n但我能理解她无法释怀的心情）",
+      "vi": "(Không cần phải nói cụ thể đâu... Nhưng tôi có thể hiểu được việc cô ấy không thể buông tay)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Noah001",
+      "speaker_tag": "; > Noah: |#0203Adv09_Noah001|",
+      "ja": "いつの間に……？<br>のあぜんぜん気付かなかった。",
+      "zh": "这是什么时候的事……？<br>\n诺亚怎么完全不知道。",
+      "vi": "Chuyện này xảy ra khi nào...? Làm sao mà Nô-ê lại không biết gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_AnAn005",
+      "speaker_tag": "; > AnAn: |#0203Adv09_AnAn005|",
+      "ja": "うまく書けなくて、<br>察したヒロが、図書室で一緒に作業してくれて……。",
+      "zh": "吾辈写不出来，<br>\n希罗察觉到这一点后，就到图书室陪吾辈一起写……",
+      "vi": "Tôi không thể viết nó, Sau khi Hiro nhận ra điều này, anh ấy đã đến Thư Viện để viết cùng tôi…",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Alisa001",
+      "speaker_tag": "; > Alisa: |#0203Adv09_Alisa001|",
+      "ja": "でもおめえが考えた物語なんだろ？<br>それならやってないわけじゃねえよ。",
+      "zh": "可剧情不都是你想出来的吗？<br>\n那你就是参与了啊。",
+      "vi": "Nhưng mày không nghĩ ra cốt truyện à? Sau đó, mày đang tham gia.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Sherry003",
+      "speaker_tag": "; > Sherry: |#0203Adv09_Sherry003|",
+      "ja": "そうですよ！<br>ヒロさんと共同作業で仕上げたんですから！",
+      "zh": "就是啊！<br>\n剧本是你跟希罗两个人携手创作出来的！",
+      "vi": "Đúng vậy! Kịch bản do bạn và Hiro cùng tạo ra!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_AnAn006",
+      "speaker_tag": "; > AnAn: |#0203Adv09_AnAn006|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative018",
+      "speaker_tag": "",
+      "ja": "アンアンは<ruby=\"なぐさ\">慰</ruby>めの言葉を受け入れず、<br>涙目になってしまっている。",
+      "zh": "安安却没能接受这些安慰的话语，<br>\n早已泪眼汪汪。",
+      "vi": "AnAn không thể tiếp nhận những lời an ủi này, Đã rơi nước mắt rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative019",
+      "speaker_tag": "",
+      "ja": "私はアンアンの元へと歩み寄り、<br>その頭にぽんと手を置いた。",
+      "zh": "我走到安安身旁，<br>\n轻轻把手放在她的头上。",
+      "vi": "Tôi đi bộ đến AnAn, Đặt tay nhẹ nhàng lên đầu cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hiro003",
+      "speaker_tag": "; > Hiro: |#0203Adv09_Hiro003|",
+      "ja": "たしかに私がやったところは大きい。<br>しかし、君はずっと逃げずに頑張っていた。",
+      "zh": "确实大部分都是我在写。<br>\n可是你也没有逃避，一直努力到最后。",
+      "vi": "Tôi viết hầu hết. Nhưng bạn đã không bỏ chạy và làm việc chăm chỉ cho đến cuối cùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hiro004",
+      "speaker_tag": "; > Hiro: |#0203Adv09_Hiro004|",
+      "ja": "面白いと思えるものを仕上げるために、<br>真摯に机に向き合っていた。",
+      "zh": "为了写出自己认为有趣的作品，<br>\n你一直都在用心对待这份工作。",
+      "vi": "Để viết được những tác phẩm mà tôi cho là thú vị, Bạn luôn thực hiện công việc này một cách nghiêm túc.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hiro005",
+      "speaker_tag": "; > Hiro: |#0203Adv09_Hiro005|",
+      "ja": "私はずっと一緒に見ていたからわかるよ。",
+      "zh": "这些我都看在眼里，我很清楚这一点。",
+      "vi": "Tôi thấy tất cả điều này, tôi biết nó rất rõ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Noah002",
+      "speaker_tag": "; > Noah: |#0203Adv09_Noah002|",
+      "ja": "……う、うん、のあも！<br>のあもアンアンちゃんが一生懸命だったの、<br>知ってる！",
+      "zh": "……嗯、嗯，诺亚也是！<br>\n诺亚也很清楚，<br>\n安安很拼命很努力！",
+      "vi": "...Hmm, Noah cũng vậy! Nô-ê cũng biết rất rõ, AnAn làm việc rất chăm chỉ!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Miria002",
+      "speaker_tag": "; > Miria: |#0203Adv09_Miria002|",
+      "ja": "そうだね、おじさんも見てたよ。<br>アンアンちゃんは本当に真剣だった。",
+      "zh": "没错，大叔我也看到了哦。<br>\n安安真的很认真。",
+      "vi": "Dạ bác ơi em cũng thấy thế. AnAn thực sự nghiêm túc.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hiro006",
+      "speaker_tag": "; > Hiro: |#0203Adv09_Hiro006|",
+      "ja": "それだけ大きな気持ちがあったのなら、<br>君はこれからもっと成長する。",
+      "zh": "你胸怀如此强大的意志，<br>\n今后会有长足进步的。",
+      "vi": "Bạn có ý chí mạnh mẽ thật đấy, Sẽ có sự tiến bộ lớn trong tương lai.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hiro007",
+      "speaker_tag": "; > Hiro: |#0203Adv09_Hiro007|",
+      "ja": "君は将来文豪になるのだろう？<br>次回作を頑張ればいい。期待しているよ。",
+      "zh": "你将来不是要当文豪吗？<br>\n努力创作下一部作品就好。我很期待哦。",
+      "vi": "Bạn không muốn trở thành một người khổng lồ văn học trong tương lai sao? Chỉ cần chăm chỉ làm việc để tạo ra tác phẩm tiếp theo. Tôi đang mong chờ nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative020",
+      "speaker_tag": "",
+      "ja": "アンアンはようやく顔を上げる。",
+      "zh": "安安终于打起精神抬起了头。",
+      "vi": "AnAn cuối cùng cũng vui vẻ ngẩng đầu lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_AnAn007",
+      "speaker_tag": "; > AnAn: |#0203Adv09_AnAn007|",
+      "ja": "そ、そうだ……！<br>わがはいはいずれ文豪になるのだ。<br>み、見ていろ……！",
+      "zh": "没、没错……！<br>\n吾辈终有一天会当上文豪。<br>\n等、等着瞧吧……！",
+      "vi": "Không, đúng rồi...! Một ngày nào đó chúng ta sẽ trở thành những người khổng lồ về văn học. Hãy chờ xem...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_AnAn008",
+      "speaker_tag": "; > AnAn: |#0203Adv09_AnAn008|",
+      "ja": "次こそ皆をあっと言わせる、<br>大傑作を仕上げてみせる……！",
+      "zh": "下次吾辈一定会写出一部<br>\n让所有人感动得说不出话的巨作……！",
+      "vi": "Lần tới chúng tôi chắc chắn sẽ viết Một kiệt tác khiến mọi người không nói nên lời...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hiro008",
+      "speaker_tag": "; > Hiro: |#0203Adv09_Hiro008|",
+      "ja": "ああ。期待しているよ。",
+      "zh": "好。期待你的杰作。",
+      "vi": "Được rồi. Mong chờ kiệt tác của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative021",
+      "speaker_tag": "",
+      "ja": "アンアンの前向きな宣言で、<br>少女たちの雰囲気はほっと<ruby=\"ゆる\">緩</ruby>んだ。",
+      "zh": "安安充满朝气的宣言<br>\n让在场一众少女之间的紧张气氛缓和了不少。",
+      "vi": "Tuyên bố tràn đầy năng lượng của AnAn Nó làm giảm bớt sự căng thẳng giữa các cô gái có mặt rất nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Noah003",
+      "speaker_tag": "; > Noah: |#0203Adv09_Noah003|",
+      "ja": "のあものあも！ 聞いて！<br>背景はまだちょっとだけ残ってるんだけど……<br>お絵描きできて、嬉しかったなぁ～。",
+      "zh": "还有诺亚还有诺亚！大家听诺亚说！<br>\n背景虽然还剩一点没画完……<br>\n能有机会画画，诺亚真的好开心～",
+      "vi": "Và Nô-ê và Nô-ê! Mọi người hãy nghe Nô-ê! Mặc dù phông nền vẫn còn hơi dang dở... Noah thực sự rất vui khi có cơ hội vẽ ~",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Noah004",
+      "speaker_tag": "; > Noah: |#0203Adv09_Noah004|",
+      "ja": "書き割りね、<br>アリサちゃんがたくさん手伝ってくれたんだよ。",
+      "zh": "做布景的时候啊，<br>\n亚里沙帮了诺亚很多很多哦。",
+      "vi": "Khi tạo phong cảnh, Alisa đã giúp đỡ Noah rất nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Alisa002",
+      "speaker_tag": "; > Alisa: |#0203Adv09_Alisa002|",
+      "ja": "チッ、中庭でうろちょろしてたから仕方なくだ。",
+      "zh": "啧，谁叫你老在中庭晃悠，我是没办法才做。",
+      "vi": "Chậc, ai bảo mày suốt ngày quanh quẩn ở sân thượng thế? Tao không thể giúp được.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hiro009",
+      "speaker_tag": "; > Hiro: |#0203Adv09_Hiro009|",
+      "ja": "（――レイアの目論見は上手くいっている）",
+      "zh": "（——蕾雅的计划很顺利）",
+      "vi": "(——Kế hoạch của Leya diễn ra suôn sẻ)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative022",
+      "speaker_tag": "",
+      "ja": "私は心の底から感じていた。",
+      "zh": "我打从心底地感受到。",
+      "vi": "Tôi cảm nhận được điều đó từ tận đáy lòng mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative023",
+      "speaker_tag": "",
+      "ja": "劇の制作を通じて、<br>少女たちはたしかな交流を深めている。<br>絆が結ばれ始めているようにすら思えた。",
+      "zh": "通过制作这场舞台剧，<br>\n确实加深了彼此之间的交流。<br>\n我甚至觉得，我们之间正在开始产生一种无法割舍的纽带。",
+      "vi": "Bằng cách dàn dựng vở kịch sân khấu này, Nó thực sự làm sâu sắc thêm sự giao tiếp giữa nhau. Tôi thậm chí còn cảm thấy giữa chúng tôi đang bắt đầu hình thành một mối liên kết không thể tách rời.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hiro010",
+      "speaker_tag": "; > Hiro: |#0203Adv09_Hiro010|",
+      "ja": "（何より私が上演を楽しみにしている……）",
+      "zh": "（即使不论那些，上演舞台剧这件事本身就让我非常期待……）",
+      "vi": "(Mặc dù vậy, tôi thực sự mong chờ được biểu diễn trên sân khấu...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Leia006",
+      "speaker_tag": "; > Leia: |#0203Adv09_Leia006|",
+      "ja": "ゴクチョーと看守には、<br>最高に素晴らしい舞台を見てもらおうじゃないか。",
+      "zh": "就让典狱长和看守一起来欣赏<br>\n我们倾心打造的精彩表演吧。",
+      "vi": "Hãy để cai ngục và Cai Ngục cùng nhau thưởng thức Đó là một chương trình tuyệt vời mà chúng tôi đặt cả trái tim vào.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Leia007",
+      "speaker_tag": "; > Leia: |#0203Adv09_Leia007|",
+      "ja": "我々の仲の良さ、絆の深さを目にすれば、<br>考えを改めるかもしれない。",
+      "zh": "只要看到我们之间关系有多么融洽，联系有多么紧密，<br>\n说不定它们就会改变心意。",
+      "vi": "Chỉ cần thấy chúng ta hòa hợp và gắn kết như thế nào, Có thể họ sẽ thay đổi suy nghĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative024",
+      "speaker_tag": "",
+      "ja": "瞳をキラキラと輝かせ、<br>レイアは理想を口にする。",
+      "zh": "蕾雅眼中散发着光彩，<br>\n满怀热情地谈着心中理想。",
+      "vi": "Đôi mắt của Leya sáng ngời, Hãy nói về lý tưởng của bạn một cách nhiệt tình.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative025",
+      "speaker_tag": "",
+      "ja": "――殺人も起こさず、<br>共に劇を作り上げた少女たちに、もう魔女化の心配などない。<br>そう判断され、全員が<ruby=\"しゃくほう\">釈放</ruby>となる。",
+      "zh": "——这群少女同心协力打造出一场舞台剧，并且这期间无人被杀，<br>\n所以她们已经不会再变成魔女了。<br>\n让它们得出这样的结论，并释放所有人。",
+      "vi": "---Nhóm các cô gái này đã cùng nhau tạo ra một vở kịch trên sân khấu và không có ai bị giết trong khoảng thời gian này, Vì thế họ sẽ không còn trở thành phù thủy nữa. Hãy để họ đi đến kết luận này và giải phóng tất cả mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative026",
+      "speaker_tag": "",
+      "ja": "そんな風に事が運べば、どれだけいいだろうか。",
+      "zh": "如果事情能这样发展，那该有多好。",
+      "vi": "Sẽ thật tuyệt nếu mọi chuyện có thể diễn ra như thế này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Ema005",
+      "speaker_tag": "; > Ema: |#0203Adv09_Ema005|",
+      "ja": "そうだよね……うん、頑張ろう！",
+      "zh": "说得对……嗯，加油吧！",
+      "vi": "Bạn nói đúng... Thôi nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative027",
+      "speaker_tag": "",
+      "ja": "レイアの話はあくまで理想だ。<br>それでも彼女らは、希望を持っていたいのだろう。",
+      "zh": "蕾雅说的这些，说到底只是理想化的愿望。<br>\n尽管如此，她们也想要心怀希望吧。",
+      "vi": "Phân tích cuối cùng, những gì Leya nói chỉ là một mong muốn lý tưởng. Dù vậy, họ vẫn muốn có hy vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative028",
+      "speaker_tag": "",
+      "ja": "理想に同調を示し、本番に向けて、<br>あらためて結束を高めている。",
+      "zh": "大家都认同这个理想，为了正式上演，<br>\n正在不断巩固彼此之间的团结。",
+      "vi": "Mọi người đều đồng ý với lý tưởng này. Để chính thức biểu diễn nó, Sự đoàn kết giữa nhau không ngừng được củng cố.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative029",
+      "speaker_tag": "",
+      "ja": "一方で私の中には、冷めた気持ちもあった。",
+      "zh": "与此同时，我的心中也怀着一份冷静。",
+      "vi": "Đồng thời, trong lòng tôi cũng có cảm giác bình yên.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative030",
+      "speaker_tag": "",
+      "ja": "劇を見せただけで、<br>何か状況が変わるなんてありえないことだ。",
+      "zh": "只是让它们看一场舞台剧，<br>\n不可能让我们的状况发生任何改变。",
+      "vi": "Hãy để họ xem một vở kịch trên sân khấu, Không thể thực hiện bất kỳ thay đổi nào trong tình trạng của chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Hiro011",
+      "speaker_tag": "; > Hiro: |#0203Adv09_Hiro011|",
+      "ja": "（それでも、無駄ではない）",
+      "zh": "（就算是这样，这一切也有意义）",
+      "vi": "(Mặc dù vậy, tất cả đều có ý nghĩa)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative031",
+      "speaker_tag": "",
+      "ja": "絆の構築は確実に効果を示している。<br>ここ数日、殺人が起こる気配はない。",
+      "zh": "巩固彼此的关系确实有效。<br>\n最近这几天，完全没有会发生凶杀案的氛围。",
+      "vi": "Tăng cường mối quan hệ của bạn thực sự có tác dụng. Trong vài ngày qua, không có bầu không khí nào có thể xảy ra án mạng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative032",
+      "speaker_tag": "",
+      "ja": "私が知る限り少女たちの間に<ruby=\"も\">揉</ruby>め事もなく、<br>平和に時が過ぎていった。",
+      "zh": "据我所知，这几天大家没有发生任何争执，<br>\n日子过得非常平和。",
+      "vi": "Theo tôi được biết thì mấy ngày qua không có ai tranh chấp gì cả, Ngày tháng trôi qua thật bình yên.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative033",
+      "speaker_tag": "",
+      "ja": "エマと私の関係は、相変わらず微妙だが。",
+      "zh": "虽然我跟艾玛之间的关系依然别扭。",
+      "vi": "Mặc dù mối quan hệ giữa tôi và Ema vẫn còn khó xử.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative034",
+      "speaker_tag": "",
+      "ja": "もうこれ以上、誰の犠牲も出さず、<br>全ての元凶である大魔女を<ruby=\"さば\">裁</ruby>く。",
+      "zh": "不再让任何人继续牺牲，<br>\n并制裁一切不幸的元凶——大魔女。",
+      "vi": "Đừng để ai tiếp tục hy sinh, Và trừng phạt thủ phạm của mọi điều bất hạnh - mụ phù thủy lớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative035",
+      "speaker_tag": "",
+      "ja": "きっと全てがうまくいく。",
+      "zh": "这些一定都会顺利实现。",
+      "vi": "Tất cả những điều này sẽ thành hiện thực thành công.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv09_Narrative036",
+      "speaker_tag": "",
+      "ja": "浅はかな理想は抱けないが、<br>私もこの数日で前向きになれた。",
+      "zh": "虽然我并不会胸怀这种天真的理想，<br>\n但这几天的经历，让我也逐渐变得积极乐观起来。",
+      "vi": "Mặc dù tôi không nuôi dưỡng những lý tưởng ngây thơ như vậy, Nhưng trải nghiệm trong những ngày qua đã khiến tôi dần trở nên tích cực và lạc quan hơn.",
+      "objection_links": []
+    }
+  ]
+}

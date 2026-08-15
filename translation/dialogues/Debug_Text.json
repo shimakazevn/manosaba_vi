@@ -1,0 +1,456 @@
+{
+  "bundle": "general-localization-zhhans-scripts-debug_assets_all.bundle",
+  "script_name": "Debug_Text",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Debug/Debug_Text' Naninovel scenario script",
+  "total_entries": 56,
+  "entries": [
+    {
+      "id": "~33364553",
+      "speaker_tag": "",
+      "ja": "Debug_Text # Text",
+      "zh": "",
+      "vi": "Debug_Text # Text",
+      "objection_links": []
+    },
+    {
+      "id": "~15d1f829",
+      "speaker_tag": "; > Unknown: |#~15d1f829|",
+      "ja": "大したことないよ、大丈夫！<br>ああああああああああ<color=\"orange\">ああああああああああ</color>ああああああああああ<br>隝隯霳霻靃靍靏⾭靑顗顥飯飼餧館馞驎髙髜魵魲鮏鮱鮻鰀鵰鵫鶴鸙黑",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~65b87612",
+      "speaker_tag": "",
+      "ja": "日本語です。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~73f8425b",
+      "speaker_tag": "",
+      "ja": "日本語ではありません。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~e0c4db4c",
+      "speaker_tag": "",
+      "ja": "簡体字ではありません。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~7e05a34d",
+      "speaker_tag": "",
+      "ja": "簡体字です。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~23ae8d6",
+      "speaker_tag": "",
+      "ja": "Debug_Text # Text ends.",
+      "zh": "",
+      "vi": "Debug_Text # Text ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~bd5c15d4",
+      "speaker_tag": "",
+      "ja": "Debug_Text # TextPrinter",
+      "zh": "",
+      "vi": "Debug_Text # TextPrinter",
+      "objection_links": []
+    },
+    {
+      "id": "~de5c346e",
+      "speaker_tag": "",
+      "ja": "Stream<br><ruby=\"ルビルビルビルビルビ\">あ</ruby>あああああああああああああああああああああああああああああ<br><ruby=\"ルビルビルビルビルビ\">あ</ruby>あああああああああああああああああああああああああああああ",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~64679fdc",
+      "speaker_tag": "",
+      "ja": "Normal<br><ruby=\"ルビルビルビルビルビ\">あ</ruby>あああああああああああああああああああああああああああああ<br><ruby=\"ルビルビルビルビルビ\">あ</ruby>あああああああああああああああああああああああああああああ",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~5f5966a5",
+      "speaker_tag": "",
+      "ja": "Simple<br><ruby=\"ルビルビルビルビルビ\">あ</ruby>あああああああああああああああああああああああああああああ<br><ruby=\"ルビルビルビルビルビ\">あ</ruby>あああああああああああああああああああああああああああああ",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~4db9108a",
+      "speaker_tag": "",
+      "ja": "End",
+      "zh": "",
+      "vi": "End",
+      "objection_links": []
+    },
+    {
+      "id": "~6357aafe",
+      "speaker_tag": "",
+      "ja": "Debug_Text # Ruby",
+      "zh": "",
+      "vi": "Debug_Text # Ruby",
+      "objection_links": []
+    },
+    {
+      "id": "~772eb52a",
+      "speaker_tag": "",
+      "ja": "■■■■■■■■■■",
+      "zh": "",
+      "vi": "■■■■■■■■■■",
+      "objection_links": []
+    },
+    {
+      "id": "~5c8050cc",
+      "speaker_tag": "",
+      "ja": "■■<ruby=\"■■■■■■■■■■\">■</ruby>■■■■■■■",
+      "zh": "",
+      "vi": "■■<ruby=\"■■■■■■■■■■\">■</ruby>■■■■■■■",
+      "objection_links": []
+    },
+    {
+      "id": "~34674363",
+      "speaker_tag": "",
+      "ja": "■■<ruby=\"■■■■■■■■■■\">■</ruby>■■■■■■■<br><ruby=\"■■■■■■■■■■\">■■</ruby>■■■■■■■■<br><ruby=\"■■■■■■■■■■\">■■■</ruby>■■■■■■■",
+      "zh": "",
+      "vi": "■■<ruby=\"■■■■■■■■■■\">■</ruby>■■■■■■■ <ruby=\"■■■■■■■■■■\">■■</ruby>■■■■■■■■ <ruby=\"■■■■■■■■■■\">■■■</ruby>■■■■■■■",
+      "objection_links": []
+    },
+    {
+      "id": "~b03b5f6b",
+      "speaker_tag": "",
+      "ja": "■■■■■■■■■■<br>■■■■■■■■■■<br>■■■■■■■■■■",
+      "zh": "",
+      "vi": "■■■■■■■■■■ ■■■■■■■■■■ ■■■■■■■■■■",
+      "objection_links": []
+    },
+    {
+      "id": "~f93dbe66",
+      "speaker_tag": "",
+      "ja": "■■<ruby=\"■■■■■■■■■■\">■</ruby>■■■■■■■<br>■■■■■■■■■■<br>■■■■■■■■■■",
+      "zh": "",
+      "vi": "■■<ruby=\"■■■■■■■■■■\">■</ruby>■■■■■■■ ■■■■■■■■■■ ■■■■■■■■■■",
+      "objection_links": []
+    },
+    {
+      "id": "~90718931",
+      "speaker_tag": "",
+      "ja": "■■■■■■■■■■<br><ruby=\"■■■■■■■■■■\">■■</ruby>■■■■■■■■<br>■■■■■■■■■■",
+      "zh": "",
+      "vi": "■■■■■■■■■■ <ruby=\"■■■■■■■■■■\">■■</ruby>■■■■■■■■ ■■■■■■■■■■",
+      "objection_links": []
+    },
+    {
+      "id": "~45e1653f",
+      "speaker_tag": "",
+      "ja": "■■■■■■■■■■<br>■■■■■■■■■■<br><ruby=\"■■■■■■■■■■\">■■■</ruby>■■■■■■■",
+      "zh": "",
+      "vi": "■■■■■■■■■■ ■■■■■■■■■■ <ruby=\"■■■■■■■■■■\">■■■</ruby>■■■■■■■",
+      "objection_links": []
+    },
+    {
+      "id": "~b5957649",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ルビルビルビルビルビ\">大</ruby>したことないよ、大丈夫！<br>ああああああああああああああああああああああああああああああ<br>ああああああああああああああああああああああああああああああ",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~1d578289",
+      "speaker_tag": "",
+      "ja": "大したことないよ、大丈夫！<br><ruby=\"ルビルビルビルビルビ\">あ</ruby>あああああああああああああああああああああああああああああ<br>ああああああああああああああああああああああああああああああ",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~2d601b5",
+      "speaker_tag": "",
+      "ja": "大したことないよ、大丈夫！<br>ああああああああああああああああああああああああああああああ<br><ruby=\"ルビルビルビルビルビ\">あ</ruby>あああああああああああああああああああああああああああああ",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~1b2f9d3a",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ルビルビルビルビルビ\">大</ruby>したことないよ、大丈夫！<br><ruby=\"ルビルビルビルビルビ\">あ</ruby>あああああああああああああああああああああああああああああ<br><ruby=\"ルビルビルビルビルビ\">あ</ruby>あああああああああああああああああああああああああああああ",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~1056363d",
+      "speaker_tag": "",
+      "ja": "Debug_Text # Author",
+      "zh": "",
+      "vi": "Debug_Text # Author",
+      "objection_links": []
+    },
+    {
+      "id": "~a33f6fb1",
+      "speaker_tag": "; > EmaFake: |#~a33f6fb1|",
+      "ja": "Naninovelのメタデータにのみ存在している話者名<br>（CharacterDataに存在しない）",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~288d2c29",
+      "speaker_tag": "; > Yuki: |#~288d2c29|",
+      "ja": "――ああ、エマ。待っていましたよ。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~226d4efd",
+      "speaker_tag": "; > Ema: |#~226d4efd|",
+      "ja": "Ema",
+      "zh": "",
+      "vi": "Ema",
+      "objection_links": []
+    },
+    {
+      "id": "~fdb56f1e",
+      "speaker_tag": "; > Hiro: |#~fdb56f1e|",
+      "ja": "Hiro",
+      "zh": "",
+      "vi": "Hiro",
+      "objection_links": []
+    },
+    {
+      "id": "~8792ae4d",
+      "speaker_tag": "; > Meruru: |#~8792ae4d|",
+      "ja": "Meruru",
+      "zh": "",
+      "vi": "Meruru",
+      "objection_links": []
+    },
+    {
+      "id": "~dbc9b953",
+      "speaker_tag": "; > Hanna: |#~dbc9b953|",
+      "ja": "Hanna",
+      "zh": "",
+      "vi": "Hanna",
+      "objection_links": []
+    },
+    {
+      "id": "~98d75150",
+      "speaker_tag": "; > Sherry: |#~98d75150|",
+      "ja": "Sherry",
+      "zh": "",
+      "vi": "Sherry",
+      "objection_links": []
+    },
+    {
+      "id": "~c89c4add",
+      "speaker_tag": "; > AnAn: |#~c89c4add|",
+      "ja": "AnAn",
+      "zh": "",
+      "vi": "AnAn",
+      "objection_links": []
+    },
+    {
+      "id": "~5ec7677f",
+      "speaker_tag": "; > Leia: |#~5ec7677f|",
+      "ja": "Leia",
+      "zh": "",
+      "vi": "Leia",
+      "objection_links": []
+    },
+    {
+      "id": "~a89fd35b",
+      "speaker_tag": "; > Coco: |#~a89fd35b|",
+      "ja": "Coco",
+      "zh": "",
+      "vi": "Coco",
+      "objection_links": []
+    },
+    {
+      "id": "~fbd84ffe",
+      "speaker_tag": "; > Miria: |#~fbd84ffe|",
+      "ja": "Miria",
+      "zh": "",
+      "vi": "Miria",
+      "objection_links": []
+    },
+    {
+      "id": "~d6d1836b",
+      "speaker_tag": "; > Margo: |#~d6d1836b|",
+      "ja": "Margo",
+      "zh": "",
+      "vi": "Margo",
+      "objection_links": []
+    },
+    {
+      "id": "~98cc9e99",
+      "speaker_tag": "; > Noah: |#~98cc9e99|",
+      "ja": "Noah",
+      "zh": "",
+      "vi": "Noah",
+      "objection_links": []
+    },
+    {
+      "id": "~9b709c84",
+      "speaker_tag": "; > Nanoka: |#~9b709c84|",
+      "ja": "Nanoka",
+      "zh": "",
+      "vi": "Nanoka",
+      "objection_links": []
+    },
+    {
+      "id": "~b51e45eb",
+      "speaker_tag": "; > Alisa: |#~b51e45eb|",
+      "ja": "Alisa",
+      "zh": "",
+      "vi": "Alisa",
+      "objection_links": []
+    },
+    {
+      "id": "~fd2115c",
+      "speaker_tag": "; > Warden: |#~fd2115c|",
+      "ja": "Warden",
+      "zh": "",
+      "vi": "Warden",
+      "objection_links": []
+    },
+    {
+      "id": "~640fabfb",
+      "speaker_tag": "; > Jailer: |#~640fabfb|",
+      "ja": "Jailer",
+      "zh": "",
+      "vi": "Jailer",
+      "objection_links": []
+    },
+    {
+      "id": "~58aa6277",
+      "speaker_tag": "",
+      "ja": "Debug_Text # Choice",
+      "zh": "",
+      "vi": "Debug_Text # Choice",
+      "objection_links": []
+    },
+    {
+      "id": "~18bfea75",
+      "speaker_tag": "; > @choice \"|#~18bfea75|\"",
+      "ja": "選択肢 A",
+      "zh": "",
+      "vi": "Chọn chi A",
+      "objection_links": []
+    },
+    {
+      "id": "~8421ebd2",
+      "speaker_tag": "",
+      "ja": "選択肢 A が選ばれました。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~f1902cf0",
+      "speaker_tag": "; > @choice \"|#~f1902cf0|\"",
+      "ja": "選択肢 B",
+      "zh": "",
+      "vi": "Chọn chi B",
+      "objection_links": []
+    },
+    {
+      "id": "~1d9d3e3f",
+      "speaker_tag": "",
+      "ja": "選択肢 B が選ばれました。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~a04d3874",
+      "speaker_tag": "; > @choice \"|#~a04d3874|\" button:ChoiceButtons/Adv/Bad",
+      "ja": "選択肢 C",
+      "zh": "",
+      "vi": "Chọn chi C",
+      "objection_links": []
+    },
+    {
+      "id": "~90a42fcc",
+      "speaker_tag": "",
+      "ja": "選択肢 C が選ばれました。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~2061b256",
+      "speaker_tag": "; > @choice \"|#~2061b256|\" button:ChoiceButtons/Adv/Bad",
+      "ja": "選択肢 D",
+      "zh": "",
+      "vi": "Chọn D",
+      "objection_links": []
+    },
+    {
+      "id": "~f7abe7a9",
+      "speaker_tag": "",
+      "ja": "選択肢 D が選ばれました。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~b4a42f58",
+      "speaker_tag": "; > @choice \"|#~b4a42f58|\"",
+      "ja": "選択肢 E",
+      "zh": "",
+      "vi": "chọn E",
+      "objection_links": []
+    },
+    {
+      "id": "~6c34e5d4",
+      "speaker_tag": "",
+      "ja": "選択肢 E が選ばれました。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~6fa65b8d",
+      "speaker_tag": "; > @choice \"|#~6fa65b8d|\"",
+      "ja": "選択肢 F",
+      "zh": "",
+      "vi": "Chọn chi F",
+      "objection_links": []
+    },
+    {
+      "id": "~e1130426",
+      "speaker_tag": "",
+      "ja": "選択肢 F が選ばれました。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~26088e2a",
+      "speaker_tag": "",
+      "ja": "Choice end.",
+      "zh": "",
+      "vi": "Choice end.",
+      "objection_links": []
+    }
+  ]
+}

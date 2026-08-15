@@ -1,0 +1,592 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Adv09",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Adv09' Naninovel scenario script",
+  "total_entries": 73,
+  "entries": [
+    {
+      "id": "0202Adv09_Narrative001",
+      "speaker_tag": "",
+      "ja": "私は軽く森を探索しつつ、湖まで行ってみた。",
+      "zh": "我在森林简单探索了一番，直到来到湖畔。",
+      "vi": "Tôi khám phá khu rừng một thời gian ngắn cho đến khi đến được hồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro001|",
+      "ja": "（湖の底に沈めるというのもありか。<br>　……できれば死体も見つからない状況が望ましいが）",
+      "zh": "（把她沉到湖底也是可行的吧。<br>\n……能毁尸灭迹就最好不过了）",
+      "vi": "(Đắm cô ấy xuống đáy hồ cũng khả thi. ...Sẽ tốt nhất nếu bạn có thể tiêu diệt xác chết và xóa bỏ mọi dấu vết)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative002",
+      "speaker_tag": "",
+      "ja": "湖面を見つめながら、エマの殺害方法を考える。<br>すると――",
+      "zh": "我眺望着湖面，思索如何杀死艾玛。<br>\n就在这时——",
+      "vi": "Tôi nhìn ra hồ và nghĩ cách giết Ema. Ngay sau đó——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro002|",
+      "ja": "！",
+      "zh": "！",
+      "vi": "！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative003",
+      "speaker_tag": "",
+      "ja": "茂みがざわざわと揺れ、私は警戒して身構えた。",
+      "zh": "附近的树丛沙沙作响，我立马警惕地绷紧身子。",
+      "vi": "Những cái cây gần đó xào xạc, và tôi lập tức căng thẳng lên vì cảnh giác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative004",
+      "speaker_tag": "",
+      "ja": "次の瞬間、<br>ひょっこりと姿を現したのは――ナノカだった。",
+      "zh": "下一秒，<br>\n从树丛里探出身子的是——奈叶香。",
+      "vi": "Giây tiếp theo, Đang nhoài người ra khỏi bụi cây là Nanoyaka.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro003|",
+      "ja": "また君か。もしかして、<br>茂みから出てくるのが趣味か？",
+      "zh": "又是你啊。<br>\n难道说你的爱好就是从树丛里冒出来？",
+      "vi": "Lại là bạn nữa. Phải chăng sở thích của bạn đang nảy ra từ trên cây?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka001|",
+      "ja": "別に、そういうわけじゃない。",
+      "zh": "我可没有那种癖好。",
+      "vi": "Tôi không có kiểu tôn sùng đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro004|",
+      "ja": "じゃあ、また私に触れようとしたのかな。",
+      "zh": "那么，你是又想触碰我了吗？",
+      "vi": "Vậy bạn có muốn chạm vào tôi lần nữa không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative005",
+      "speaker_tag": "",
+      "ja": "ナノカの魔法は【幻視】だ。<br>触れた対象の過去がビジョンとして見えるという。",
+      "zh": "奈叶香的魔法是【幻视】。<br>\n据说碰到谁就能看见对方过去的画面。",
+      "vi": "Phép thuật của Nanoyaka là [Tầm nhìn]. Người ta nói rằng bất cứ ai bạn gặp đều có thể nhìn thấy quá khứ của người kia.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka002|",
+      "ja": "……いいえ。",
+      "zh": "……不。",
+      "vi": "...không.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative006",
+      "speaker_tag": "",
+      "ja": "ナノカは緩やかに首を横に振る。",
+      "zh": "奈叶香缓缓摇头。",
+      "vi": "Nanoyaka chậm rãi lắc đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka003|",
+      "ja": "たまたまよ。<br>探し物をしてて、それで……。",
+      "zh": "只是碰巧遇见你罢了。<br>\n我刚才在找东西，然后……",
+      "vi": "Tôi vừa tình cờ gặp được bạn. Tôi chỉ đang tìm kiếm thứ gì đó, và rồi...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro005|",
+      "ja": "ああ、そういえばリボンがなくなったと<br>言っていたな。見つかったのか？",
+      "zh": "哦，我记得你说过<br>\n自己的发带不见了。找到了吗？",
+      "vi": "Ồ, tôi nhớ bạn đã nói Băng đô của tôi bị mất. Tìm thấy nó?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative007",
+      "speaker_tag": "",
+      "ja": "ナノカはアリサが盗んだと決めつけて、<br><ruby=\"ぼうりょくざた\">暴力沙汰</ruby>になる寸前だった。",
+      "zh": "她上来就说是亚里沙偷的，<br>\n结果两人差点打起来。",
+      "vi": "Khi cô ấy đến, cô ấy nói Alisa đã lấy trộm nó, Kết quả là cả hai suýt đánh nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative008",
+      "speaker_tag": "",
+      "ja": "ナノカは気落ちした様子で首を振る。",
+      "zh": "奈叶香沮丧地摇了摇头。",
+      "vi": "Nanoyaka lắc đầu chán nản.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka004|",
+      "ja": "……いいえ。",
+      "zh": "……没有。",
+      "vi": "…Không.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro006|",
+      "ja": "そんなに大切な物なのか？<br>牢屋敷に囚われて、私たちは自分の持ち物など<br>全て奪われているはずだが。",
+      "zh": "这发带有那么重要吗？<br>\n被关进来以后，我们自己的所有东西<br>\n应该全都被拿走了吧。",
+      "vi": "Cái băng đô này có quan trọng lắm không? Sau khi vào tù, tất cả những thứ của chúng ta Chắc hẳn chúng đã bị mang đi hết.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative009",
+      "speaker_tag": "",
+      "ja": "口にしてから、<br>自分のポケットに入っている万年筆を思い出す。",
+      "zh": "话刚落音，<br>\n我忽然想起自己口袋里的钢笔。",
+      "vi": "Ngay khi tôi nói xong, Tôi chợt nhớ đến chiếc bút trong túi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro007|",
+      "ja": "（ナノカもまた、<br>　私のように【何か】を持たされていたのか……？）",
+      "zh": "（难道奈叶香<br>\n也和我一样，带着【某种物件】……？）",
+      "vi": "(Có lẽ nào Nanoha Giống như tôi, mang theo [một loại đồ vật nào đó]...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka005|",
+      "ja": "リボンは牢屋敷で回収したのよ。<br>……どこで落としたのか、知っていたから。",
+      "zh": "发带是我在监牢里找回来的。<br>\n……因为我知道它掉在什么地方。",
+      "vi": "Tôi tìm thấy chiếc băng đô trong tù. …bởi vì tôi biết nó rơi ở đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro008|",
+      "ja": "なるほど。君の持つ銃と同様に、<br>幻視で得た情報で入手したのか。",
+      "zh": "原来如此。和你手上那把枪的来路一样，<br>\n这也是你靠幻视得来的信息找到的吧。",
+      "vi": "Thế thôi. Cùng nguồn gốc với khẩu súng trong tay bạn, Bạn hẳn đã tìm thấy điều này thông qua thông tin bạn thu được từ khải tượng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative010",
+      "speaker_tag": "",
+      "ja": "ナノカが<ruby=\"うなず\">頷</ruby>いたので、<br>私は近辺の茂みをかきわけ始めた。",
+      "zh": "她点了点头，<br>\n于是我开始翻找近处的树丛。",
+      "vi": "Cô ấy gật đầu, Thế nên tôi bắt đầu lục lọi những cái cây gần đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka006|",
+      "ja": "あなた、何を……？",
+      "zh": "你，这是在……？",
+      "vi": "Bạn, bạn có phải...?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro009|",
+      "ja": "何をって、探し物があるんだろう？<br>ならば見つけないと。",
+      "zh": "你不是在找东西吗？<br>\n那我得帮你找到。",
+      "vi": "Bạn không đang tìm kiếm cái gì đó à? Vậy thì tôi phải giúp bạn tìm nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka007",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka007|",
+      "ja": "……事情を聞かないの？",
+      "zh": "……你不问原因吗？",
+      "vi": "…Bạn đừng hỏi tại sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro010|",
+      "ja": "言いたくないことを無理に聞き出すつもりはない。<br>私にも話したくない過去はある。",
+      "zh": "你不想说的话，我也不会多过问。<br>\n毕竟我也有不愿提起的过去。",
+      "vi": "Nếu bạn không muốn nói gì thì tôi cũng sẽ không hỏi nhiều. Suy cho cùng, tôi cũng có một quá khứ không muốn nhắc tới.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka008",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka008|",
+      "ja": "……そう。",
+      "zh": "……哦。",
+      "vi": "...Ồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative011",
+      "speaker_tag": "",
+      "ja": "私たちはしばらくの間、<br>周辺を探し回ったが……。",
+      "zh": "我们在周围<br>\n四处找了一会……",
+      "vi": "Chúng ta đang ở gần Sau khi nhìn xung quanh một lúc...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative012",
+      "speaker_tag": "",
+      "ja": "結局リボンは見つからなかった。",
+      "zh": "但最后还是没找到发带。",
+      "vi": "Nhưng cuối cùng chiếc dây buộc tóc vẫn không được tìm thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka009",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka009|",
+      "ja": "この辺りを調べている時に<br>落とした可能性もあるかと思ったのだけど……。",
+      "zh": "我本来想着，<br>\n可能在调查这附近的时候落在这里了……",
+      "vi": "Tôi đang nghĩ, Có lẽ tôi đã hạ cánh ở đây trong khi điều tra khu vực...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka010",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka010|",
+      "ja": "実際どこで失くしたのかはわからないし、<br>もういいわ。",
+      "zh": "但我也不知道究竟是在哪里弄丢的，<br>\n算了。",
+      "vi": "Nhưng tôi không biết chính xác mình đã đánh mất nó ở đâu, Quên nó đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro011|",
+      "ja": "……そうか。<br>牢屋敷でそれらしきものがないか、<br>今後も気を付けて見てみるよ。",
+      "zh": "……是吗。<br>\n那以后我会多留意<br>\n监牢里有没有类似东西的。",
+      "vi": "...Thật sao? Tôi sẽ chú ý đến nhiều hơn trong tương lai Có điều gì tương tự trong tù không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka011",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka011|",
+      "ja": "……ありがとう。<br>二階堂ヒロ、あなたは本当は良い人ね。",
+      "zh": "……谢谢。<br>\n二阶堂希罗，其实你人挺好的。",
+      "vi": "...cảm ơn bạn. Nikaido Hiro, bạn thực sự khá tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro012|",
+      "ja": "本当はとはなんだ。<br>私は常に善良であるべきだと思っているが？",
+      "zh": "什么叫做“其实”啊。<br>\n我不是一向都行得正坐得直吗？",
+      "vi": "\"thực sự\" là gì? Chẳng phải tôi luôn có thể ngồi thẳng sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative013",
+      "speaker_tag": "",
+      "ja": "冗談を言ったつもりはなかったのだが、<br>くすっ、とナノカが<ruby=\"ひか\">控</ruby>えめに笑った。",
+      "zh": "虽然我并不是在开玩笑，<br>\n但奈叶香却轻轻地笑了。",
+      "vi": "Tuy nhiên, tôi không đùa đâu, Nhưng Nanoyaka lại mỉm cười nhẹ nhàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka012",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka012|",
+      "ja": "いつも険しい顔で考え事ばかりしているから、<br>なんだか企んでいるようにも見えるのよ。",
+      "zh": "看你总是一脸冷峻地想事情，<br>\n总感觉你是不是有些不好的企图。",
+      "vi": "Thấy bạn luôn suy nghĩ sự việc với vẻ mặt nghiêm nghị, Tôi luôn cảm thấy như bạn có ý đồ xấu nào đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro013|",
+      "ja": "（それは当たっているな……）",
+      "zh": "（这倒是没说错……）",
+      "vi": "(Đây là sự thật...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro014",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro014|",
+      "ja": "ここに来てから悩みが増えたんだよ。<br>イライラして仕方ない。せめて糖分がほしいな。",
+      "zh": "自从来到这里，我的烦恼越来越多。<br>\n每天都烦躁得不行。哪怕能摄取点糖分也好。",
+      "vi": "Từ khi đến đây tôi càng gặp nhiều rắc rối hơn. Tôi cực kỳ cáu kỉnh mỗi ngày. Cho dù bạn có thể kiếm được một ít đường cũng không sao.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka013",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka013|",
+      "ja": "糖分……ね。",
+      "zh": "糖分……嗯。",
+      "vi": "Đường...hmm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka014",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka014|",
+      "ja": "……私、お菓子を作るのが好きなの。",
+      "zh": "……我啊，其实很喜欢做点心。",
+      "vi": "...Tôi thực sự thích làm đồ ăn nhẹ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative014",
+      "speaker_tag": "",
+      "ja": "唐突な返しに、どう反応したものかと困る。",
+      "zh": "她这冷不丁的回答，让我不知该作何反应。",
+      "vi": "Câu trả lời đột ngột của cô ấy khiến tôi không biết phải phản ứng thế nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka015",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka015|",
+      "ja": "よければ今度、作ってあげるわ。",
+      "zh": "不介意的话，下次我做给你吃吧。",
+      "vi": "Nếu bạn không phiền, lần sau tôi sẽ nấu cho bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro015",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro015|",
+      "ja": "そんなの無理だろう。<br>材料もないのに、どうやって？",
+      "zh": "这做不到吧。<br>\n连食材都没有，要怎么做？",
+      "vi": "Điều này không thể thực hiện được. Chúng ta thậm chí còn không có nguyên liệu, làm sao chúng ta làm được nó?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka016",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka016|",
+      "ja": "材料なら、調達できる。<br>私は色々と抜け道を知ってるから任せて。",
+      "zh": "食材的话，我能筹措得到。<br>\n我知道不少秘密通路，就交给我吧。",
+      "vi": "Về nguyên liệu thì tôi có thể nuôi được. Tôi biết nhiều lối đi bí mật, hãy để chúng cho tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative015",
+      "speaker_tag": "",
+      "ja": "ナノカが微かに笑顔を浮かべる。<br>どうやら私はずいぶん信頼を得てしまったようだ。",
+      "zh": "奈叶香微微一笑。<br>\n看来她还挺信任我的。",
+      "vi": "Nanoyaka khẽ mỉm cười. Có vẻ như cô ấy khá tin tưởng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro016",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro016|",
+      "ja": "（皆を遠ざけようとしているのに、<br>　うまくいかないものだな……）",
+      "zh": "（明明我想要疏远大家，<br>\n可是事不如意啊……）",
+      "vi": "(Rõ ràng là tôi muốn xa lánh mọi người, Nhưng mọi việc không diễn ra như mong đợi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro017",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro017|",
+      "ja": "抜け道か……お菓子よりも、<br>そっちが気になるかな。",
+      "zh": "秘密通路吗……<br>\n比起点心，我倒是更关心这个。",
+      "vi": "Đó có phải là lối đi bí mật... Tôi quan tâm đến điều này hơn là món tráng miệng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka017",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka017|",
+      "ja": "あまり期待するような場所じゃないわ。<br>行くなら規則も破ることになるだろうし……あ。",
+      "zh": "那可不是什么值得期待的地方。<br>\n而且多半，去那里还会违反规定……啊。",
+      "vi": "Đó không phải là điều đáng mong đợi. Và rất có thể, đến đó sẽ vi phạm nội quy… à.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative016",
+      "speaker_tag": "",
+      "ja": "ふと言葉を止めて、ナノカは私の頭部を見つめる。",
+      "zh": "奈叶香突然停住话头，盯着我的头顶看。",
+      "vi": "Nanoyaka đột nhiên ngừng nói và nhìn chằm chằm vào đỉnh đầu tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro018",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro018|",
+      "ja": "何？",
+      "zh": "怎么了？",
+      "vi": "Có chuyện gì thế?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka018",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka018|",
+      "ja": "頭のてっぺん。<br>髪に葉っぱがついてるわ。",
+      "zh": "你的头顶。<br>\n有片叶子沾在头发上了。",
+      "vi": "Đỉnh đầu của bạn. Có một chiếc lá dính vào tóc tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro019",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro019|",
+      "ja": "ああ、茂みを探し回ったからな。",
+      "zh": "是吗，因为刚才在树丛里到处找东西吧。",
+      "vi": "Thật sao? Bởi vì vừa rồi tôi đang tìm kiếm thứ gì đó trong bụi cây.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative017",
+      "speaker_tag": "",
+      "ja": "ナノカが私の頭に手を伸ばそうとするが、<br>はたと思いとどまったかのように動きを止める。",
+      "zh": "她正准备伸手，<br>\n却突然像转变心意似的停了下来。",
+      "vi": "Cô ấy đang định đưa tay ra, Nhưng đột nhiên anh dừng lại như thể đã thay đổi ý định.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro020",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro020|",
+      "ja": "……よかったのかな。<br>私に触れるチャンスだったのに。",
+      "zh": "……不继续吗？<br>\n刚才可是触碰我的好时机。",
+      "vi": "...bạn không muốn tiếp tục à? Vừa rồi là thời điểm tốt để chạm vào tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro021",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro021|",
+      "ja": "（もっとも、触れさせるつもりはないが）",
+      "zh": "（虽然我并不打算让她有机会触碰我）",
+      "vi": "(Mặc dù tôi không có ý định cho cô ấy cơ hội chạm vào tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative018",
+      "speaker_tag": "",
+      "ja": "エマの殺害を考えている今、<br>【幻視】されるわけにはいかない。",
+      "zh": "现在的我，一直在考虑如何杀害艾玛，<br>\n那就决不能让她【幻视】到。",
+      "vi": "Bây giờ tôi đang nghĩ cách giết Ema, Vậy thì chúng ta không được để [tầm nhìn] của cô ấy xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative019",
+      "speaker_tag": "",
+      "ja": "私は自分で葉っぱをつまみ、指で軽くはらった。",
+      "zh": "我自己捏住叶子，用手指轻轻弹开了。",
+      "vi": "Tôi tự mình véo những chiếc lá và dùng ngón tay búng chúng ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka019",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka019|",
+      "ja": "……考え直したの。<br>あなたのことは視ない。",
+      "zh": "……我改主意了。<br>\n不会再幻视你。",
+      "vi": "...Tôi đã thay đổi ý định. Tôi sẽ không ảo giác với bạn nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka020",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka020|",
+      "ja": "二階堂ヒロ。<br>あなたなら……。",
+      "zh": "二阶堂希罗。<br>\n如果是你，也许……",
+      "vi": "Nikaido Hiro. Nếu là bạn, có lẽ...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative020",
+      "speaker_tag": "",
+      "ja": "ナノカは何か言いたげな素振りを見せる。",
+      "zh": "奈叶香欲言又止。",
+      "vi": "Nanyexiang ngừng nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative021",
+      "speaker_tag": "",
+      "ja": "ところが、言葉を飲み込むように口を閉ざしてしまった。",
+      "zh": "然而，最终她还是把话吞了下去，没有再往下说。",
+      "vi": "Tuy nhiên, cuối cùng cô nuốt lời và không nói gì nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Nanoka021",
+      "speaker_tag": "; > Nanoka: |#0202Adv09_Nanoka021|",
+      "ja": "……私はもう行かないと。<br>そろそろ、ここにゴクチョーが来る。",
+      "zh": "……我该走了。<br>\n典狱长马上就要来了。",
+      "vi": "...Đã đến lúc tôi phải đi rồi. Quản giáo sẽ đến đây sớm thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative022",
+      "speaker_tag": "",
+      "ja": "言うが早いか、<br>ナノカは茂みの奥へと姿を消してしまった。",
+      "zh": "话音刚落，<br>\n她就消失在了树丛深处。",
+      "vi": "Ngay khi tôi nói xong, Cô biến mất sâu trong rừng cây.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative023",
+      "speaker_tag": "",
+      "ja": "それからすぐ――",
+      "zh": "紧接着——",
+      "vi": "Ngay sau đó——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative024",
+      "speaker_tag": "",
+      "ja": "ナノカの宣言通り、本当にゴクチョーがやってきた。",
+      "zh": "正如奈叶香所言，典狱长确实来了。",
+      "vi": "Đúng như Nanoyaka nói, quản giáo đã đến.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Warden001",
+      "speaker_tag": "; > Warden: |#0202Adv09_Warden001|",
+      "ja": "ああ、ヒロさん。<br>この辺りでナノカさんを見ませんでしたか？",
+      "zh": "是你啊，希罗小姐。<br>\n你有在这附近看到奈叶香小姐吗？",
+      "vi": "Là cô đây, cô Hiro. Bạn có thấy cô Nanoyaka quanh đây không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro022",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro022|",
+      "ja": "さあ、私は見ていない。",
+      "zh": "不，我没看见。",
+      "vi": "Không, tôi không thấy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Warden002",
+      "speaker_tag": "; > Warden: |#0202Adv09_Warden002|",
+      "ja": "そうですか。やれやれ困りましたね。<br>ナノカさんは規則を破って連日、<br>牢屋敷を脱け出しているんですよ。",
+      "zh": "这样啊。哎呀呀，这可头疼了。<br>\n奈叶香小姐违反了规定，<br>\n已逃出监牢好几天了。",
+      "vi": "Thế thôi. Rất tiếc, đây là một vấn đề đau đầu. Cô Nanoyaka đã vi phạm nội quy, Đã mấy ngày trôi qua kể từ khi tôi trốn thoát khỏi Ngục Dinh Thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Warden003",
+      "speaker_tag": "; > Warden: |#0202Adv09_Warden003|",
+      "ja": "なかなか見つけられなくて……追いかけても、<br>こつ然と消えてしまうんですよねえ。",
+      "zh": "我一直找不到她……好不容易追过去，<br>\n她又一眨眼就消失了。",
+      "vi": "Tôi không thể tìm thấy cô ấy... Cuối cùng tôi cũng đuổi theo cô ấy, Cô ấy biến mất trong chớp mắt khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Warden004",
+      "speaker_tag": "; > Warden: |#0202Adv09_Warden004|",
+      "ja": "もし見かけたら、知らせてくれません？",
+      "zh": "如果你看到她，可以告诉我一声吗？",
+      "vi": "Nếu bạn nhìn thấy cô ấy, bạn có thể cho tôi biết được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Hiro023",
+      "speaker_tag": "; > Hiro: |#0202Adv09_Hiro023|",
+      "ja": "勝手に探せばいい。<br>私には関係ないな。",
+      "zh": "你尽管找就是。<br>\n这事和我无关吧。",
+      "vi": "Chỉ cần tìm nó. Chuyện này không liên quan gì đến tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv09_Narrative025",
+      "speaker_tag": "",
+      "ja": "ゴクチョーに教えてやる必要はない。<br>私は言い捨てて、その場を立ち去った。",
+      "zh": "没有必要告诉典狱长。<br>\n我丢下这句话就离开了。",
+      "vi": "Không cần thiết phải nói với quản giáo. Tôi bỏ lại những lời này và rời đi.",
+      "objection_links": []
+    }
+  ]
+}

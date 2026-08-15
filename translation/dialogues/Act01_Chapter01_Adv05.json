@@ -1,0 +1,776 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Adv05",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Adv05' Naninovel scenario script",
+  "total_entries": 96,
+  "entries": [
+    {
+      "id": "Toast_101",
+      "speaker_tag": "; > @toast |#Toast_101|",
+      "ja": "第１話",
+      "zh": "第１章",
+      "vi": "Hồi 1",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative001",
+      "speaker_tag": "",
+      "ja": "血に染まったラウンジの中、<br>少女たちは恐慌状態に<ruby=\"おちい\">陥</ruby>っている。",
+      "zh": "沾满鲜血的会客厅内，<br>\n少女们陷入了恐慌。",
+      "vi": "Bên trong Phòng Chờ nhuốm máu, các thiếu nữ rơi vào tình trạng hoảng loạn tột độ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Jailer001",
+      "speaker_tag": "; > Jailer: |#0101Adv05_Jailer001|",
+      "ja": "………。",
+      "zh": "………",
+      "vi": "………",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative002",
+      "speaker_tag": "",
+      "ja": "その室内を<ruby=\"かんまん\">緩慢</ruby>に動き回っているのは、<br>看守だけだった。",
+      "zh": "唯一在室内缓慢行动的，<br>\n只有看守了。",
+      "vi": "Kẻ duy nhất vẫn chậm rãi di chuyển trong căn phòng là tên cai ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative003",
+      "speaker_tag": "",
+      "ja": "看守は二階堂ヒロの死体を片付けていた。<br>その作業途中――",
+      "zh": "看守正在打扫二阶堂希罗的尸体。<br>\n在此作业期间——",
+      "vi": "Tên cai ngục đang dọn dẹp thi thể của Nikaidou Hiro. Giữa lúc hắn đang làm việc――",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Alisa001",
+      "speaker_tag": "; > Alisa: |#0101Adv05_Alisa001|",
+      "ja": "くっ……！",
+      "zh": "呜……！",
+      "vi": "Chết tiệt……!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative004",
+      "speaker_tag": "",
+      "ja": "恐怖に耐えきれずか少女のひとりが地を蹴り、<br>駆けだした。",
+      "zh": "有一位难耐恐惧的少女<br>\n猛然开始狂奔。",
+      "vi": "Không thể chịu nổi nỗi sợ hãi tột cùng, một thiếu nữ đã đạp mạnh chân xuống đất và bỏ chạy thục mạng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative005",
+      "speaker_tag": "",
+      "ja": "看守は逃げ出そうとする気配に反応した。<br>猛烈な勢いでその少女、紫藤アリサを追いはじめる。",
+      "zh": "看守对逃跑行动作出了反应。<br>\n它开始以迅猛之势追赶那位少女，紫藤亚里沙。",
+      "vi": "Tên cai ngục lập tức phản ứng với ý định đào tẩu. Hắn lao vút đi với tốc độ kinh hoàng đuổi theo thiếu nữ đó――Shidou Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema001",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema001|",
+      "ja": "（危ない！）",
+      "zh": "（危险！）",
+      "vi": "（Nguy hiểm quá!）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative006",
+      "speaker_tag": "",
+      "ja": "アリサの背を追う看守の鎌が、ギラリと光った。",
+      "zh": "跟在亚里沙身后的看守，手上的镰刀亮起寒光。",
+      "vi": "Lưỡi hái của tên cai ngục đuổi sát sau lưng Alisa lóe lên ánh sáng lạnh lẽo chết chóc.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative007",
+      "speaker_tag": "",
+      "ja": "再度の悲劇の予感に、<br>少女たちの多くが悲鳴をあげ、目を覆う。",
+      "zh": "面对即将二度降临的悲剧，<br>\n大部分少女都捂住了眼睛，发出了惊叫声。",
+      "vi": "Linh cảm một bi kịch nữa sắp xảy ra, phần lớn các cô gái đều thét lên và sợ hãi lấy tay che mắt lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia001",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia001|",
+      "ja": "待ちたまえ！",
+      "zh": "等一下！",
+      "vi": "Dừng tay lại!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative008",
+      "speaker_tag": "",
+      "ja": "堂々とした声を発した少女に、<br>その場の全員がハッとし、注目していた。",
+      "zh": "一位少女用威严的声音说道。<br>\n在场的所有人都回过神来看着她。",
+      "vi": "Một giọng nói đanh thép vang lên khiến tất cả mọi người đều bàng hoàng quay lại nhìn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative009",
+      "speaker_tag": "",
+      "ja": "その少女――蓮見レイアは<br>腰に<ruby=\"たずさ\">携</ruby>えたレイピアを抜き、アリサと看守の間に立っていた。",
+      "zh": "那位少女——莲见蕾雅<br>\n拔出了腰间的刺剑，站到亚里沙和看守二位中间。",
+      "vi": "Thiếu nữ đó――Hasumi Leia, đã tuốt thanh kiếm liễu bên hông và đứng chắn ngay giữa Alisa cùng tên cai ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia002",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia002|",
+      "ja": "彼女に手を出すな！<br>これ以上の悲劇は起こさせない！",
+      "zh": "不许对她出手！<br>\n我不会再让悲剧发生！",
+      "vi": "Không được chạm vào cô ấy! Ta sẽ không để bất kỳ bi kịch nào xảy ra thêm nữa đâu!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative010",
+      "speaker_tag": "",
+      "ja": "看守は聞く耳を持たない様子で、<br>大きく鎌を振った。",
+      "zh": "看守似乎没有听进去，<br>\n继续用力挥下镰刀。",
+      "vi": "Tên cai ngục dường như chẳng thèm để tâm đến lời cảnh báo, vung mạnh lưỡi hái chém xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema002",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema002|",
+      "ja": "（もうやめてよ――！）",
+      "zh": "（不要再这样了——！）",
+      "vi": "（Dừng lại đi mà――!）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative011",
+      "speaker_tag": "",
+      "ja": "エマは……",
+      "zh": "艾玛她……",
+      "vi": "Ema……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Choice001",
+      "speaker_tag": "; > @choice |#0101Adv05_Choice001| button:ChoiceButtons/Adv/Bad",
+      "ja": "レイアを庇った",
+      "zh": "挡在蕾雅的身前",
+      "vi": "Che chắn cho Leia",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Choice002",
+      "speaker_tag": "; > @choice |#0101Adv05_Choice002|",
+      "ja": "ただ見守った",
+      "zh": "选择了旁观",
+      "vi": "Đứng nhìn quan sát",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia003",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia003|",
+      "ja": "――ハッ！",
+      "zh": "——哈！",
+      "vi": "――Hự!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative012",
+      "speaker_tag": "",
+      "ja": "レイアが<ruby=\"とっさ\">咄嗟</ruby>に後方へと<ruby=\"ちょうやく\">跳躍</ruby>し、避けたことで、<br>看守の鎌は<ruby=\"くう\">空</ruby>を切った。",
+      "zh": "蕾雅瞬间往后方跳去，<br>\n让看守砍了个空。",
+      "vi": "Leia nhanh nhẹn bật nhảy lùi về phía sau trong tích tắc, khiến lưỡi hái của tên cai ngục chém hụt vào không khí.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative013",
+      "speaker_tag": "",
+      "ja": "レイピアを構えたままのレイアは、<br>強い瞳で看守を見据える。",
+      "zh": "蕾雅保持着握剑姿势，<br>\n以坚决的眼神直视看守。",
+      "vi": "Vẫn giữ vững tư thế thủ kiếm, Leia nhìn thẳng vào mắt tên cai ngục với ánh mắt kiên định.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia004",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia004|",
+      "ja": "彼女はルールを破っていない。<br>切り捨てる理由はないはずだ。",
+      "zh": "她没有违反规定。<br>\n你没有理由杀她。",
+      "vi": "Cô ấy không hề vi phạm luật lệ nào. Ngươi không có lý do gì để tước đoạt mạng sống của cô ấy cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative014",
+      "speaker_tag": "",
+      "ja": "レイアの後ろに立つアリサは<br>さすがに逃亡する気は失せたのか、<ruby=\"ぼうぜん\">呆然</ruby>と立ち尽くしている。",
+      "zh": "在蕾雅身后站着的亚里沙<br>\n大概是丧失了逃跑的欲望，呆站在原地一动不动。",
+      "vi": "Alisa đứng sững sờ phía sau lưng Leia, dường như cũng đã tắt ngấm ý định bỏ chạy vì quá bàng hoàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Alisa002",
+      "speaker_tag": "; > Alisa: |#0101Adv05_Alisa002|",
+      "ja": "なんでおめえ……。",
+      "zh": "你为什么……",
+      "vi": "Hộc…… hộc……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia005",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia005|",
+      "ja": "私はキミたちを守りたい。<br>そのために互いに冷静になるべきだ。",
+      "zh": "我想保护你们。<br>\n所以，我们大家都应该冷静下来。",
+      "vi": "Alisa-kun, em không sao chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Jailer002",
+      "speaker_tag": "; > Jailer: |#0101Adv05_Jailer002|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative015",
+      "speaker_tag": "",
+      "ja": "元から<ruby=\"けんせい\">牽制</ruby>のつもりだったのか<br>看守はそれ以上鎌を振るわず、元の作業へと戻っていく。",
+      "zh": "看守不再挥动镰刀，回到了原先的打扫作业中。<br>\n或许，刚才的行动只是出于警告目的。",
+      "vi": "Tên cai ngục nhìn chằm chằm vào Leia một hồi lâu, rồi từ từ hạ vũ khí xuống và quay trở lại công việc dọn dẹp.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative016",
+      "speaker_tag": "",
+      "ja": "そして、ヒロの死体を抱え、退室していった。",
+      "zh": "接着，它扛起希罗的尸体离开了房间。",
+      "vi": "Mọi người thở phào nhẹ nhõm như vừa thoát khỏi cửa tử.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative017",
+      "speaker_tag": "",
+      "ja": "看守の姿が見えなくなったことで、<br>ようやく少女たちの張り詰めた空気がほんの少し緩む。",
+      "zh": "随着看守的离开，<br>\n少女之间紧绷的气氛终于有了稍许缓解。",
+      "vi": "Leia tra kiếm vào bao và ân cần quay lại hỏi thăm Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative018",
+      "speaker_tag": "",
+      "ja": "ただ、ヒロの死体は片付けられたのだが、<br>室内はむせかえるような血のにおいで充満している。",
+      "zh": "只不过，尽管希罗的尸体已打扫干净，<br>\n但室内仍充满着沉闷的血液气味。",
+      "vi": "Tuy nhiên, mặc dù cơ thể của Anh hùng đã được làm sạch, Nhưng căn phòng vẫn tràn ngập mùi máu tanh nồng nặc.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative019",
+      "speaker_tag": "",
+      "ja": "先ほど誰かが、<br>この部屋は【臭い】と口にしていた。",
+      "zh": "刚刚有人说过，<br>\n这个房间【很臭】。",
+      "vi": "Ai đó vừa nói, Căn phòng này [bốc mùi]",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative020",
+      "speaker_tag": "",
+      "ja": "毒々しく、趣味の悪い装飾に<ruby=\"いろど\">彩</ruby>られたラウンジ。",
+      "zh": "会客厅装点着恶趣味装饰，散发着邪气。",
+      "vi": "Phòng khách được trang trí bằng những đồ trang trí độc ác và toát ra bầu không khí tà ác.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative021",
+      "speaker_tag": "",
+      "ja": "<ruby=\"じゅうたん\">絨毯</ruby>も、ソファーも、カーテンも長きに渡り、<br>少女たちの血を吸い続けてきたのだとしたら――",
+      "zh": "如果说，这里的绒毯、沙发、窗帘，每样东西都在长年累月间<br>\n吮吸着少女们的鲜血——",
+      "vi": "Nếu nói rằng thảm, ghế sofa, rèm cửa thì mọi thứ ở đây đều ở tình trạng tốt từ nhiều năm Hút máu con gái——",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Coco001",
+      "speaker_tag": "; > Coco: |#0101Adv05_Coco001|",
+      "ja": "ぐっ、げええぇっ",
+      "zh": "呜，呕呕呕……",
+      "vi": "Ôi, nôn, nôn, nôn...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative022",
+      "speaker_tag": "",
+      "ja": "ココが吐いていた。",
+      "zh": "一想到这些或许就是事实，可可便吐了出来。",
+      "vi": "Coco thốt ra ý nghĩ rằng đây có thể là sự thật.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative023",
+      "speaker_tag": "",
+      "ja": "今まで誰も吐かなかったのがおかしいくらいだ。<br>それくらい、今の状況は<ruby=\"じょうき\">常軌</ruby>を<ruby=\"いっ\">逸</ruby>している。",
+      "zh": "到现在都没人想吐，这才是怪事。<br>\n现在的状况，就是如此地脱离常轨。",
+      "vi": "Cho đến bây giờ không ai cảm thấy muốn nôn cả, điều đó thật kỳ lạ. Tình hình hiện tại quá khác thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative024",
+      "speaker_tag": "",
+      "ja": "そこで、中央に立ったのは、<br>やはりレイアだった。",
+      "zh": "这时有人站到了中间。<br>\n不用多想，那就是蕾雅。",
+      "vi": "Lúc này có người đứng ở giữa. Không cần phải suy nghĩ quá nhiều, đó chính là Leia.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia006",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia006|",
+      "ja": "みんな、聞いてくれ！",
+      "zh": "大家，请听我说！",
+      "vi": "Mọi người hãy bình tĩnh lại và nghe tôi nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia007",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia007|",
+      "ja": "私たちはどうやらここで共同生活を強いられることになる。<br>それがいつまで続くのかはわからないが……<br>今は大人しく従おう。",
+      "zh": "看来，我们被迫只能在这里共同生活了。<br>\n虽然不知道要待到什么时候……<br>\n现在我们还是乖乖照做吧。",
+      "vi": "Hành động bộc phát liều lĩnh lúc này chỉ rước lấy nguy hiểm cho bản thân và cả những người xung quanh mà thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia008",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia008|",
+      "ja": "知り合ったばかりではあるが、<br>私はキミたちをできる限り守りたい。",
+      "zh": "尽管我们才刚认识不久，<br>\n但是我想尽量保护你们。",
+      "vi": "Chúng ta phải giữ một cái đầu lạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia009",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia009|",
+      "ja": "先ほどのヒロくんのような振る舞い、<br>また、あの状況下でアリサくんのような逃亡は<br>全員に危険が及ぶかもしれない。",
+      "zh": "像刚才希罗作出的举动，<br>\n还有像亚里沙刚才那样的逃跑行为，<br>\n有可能会危及我们所有人。",
+      "vi": "Hành động đối đầu trực diện như Hiro-kun lúc nãy, hay bỏ chạy trong hoảng loạn như Alisa-kun vừa rồi đều có thể đẩy tất cả chúng ta vào chỗ chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia010",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia010|",
+      "ja": "今後は勝手な行動を謹んでもらいたい。",
+      "zh": "我希望大家今后可以谨慎行动。",
+      "vi": "Từ giờ trở đi, tôi mong mọi người hãy kiềm chế và tuyệt đối không tự ý hành động liều lĩnh nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Alisa003",
+      "speaker_tag": "; > Alisa: |#0101Adv05_Alisa003|",
+      "ja": "チッ……。",
+      "zh": "啧……",
+      "vi": "Chậc……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative025",
+      "speaker_tag": "",
+      "ja": "さすがに言い返せないのか、<br>アリサは気まずそうに舌打ちした。",
+      "zh": "亚里沙无法反驳，<br>\n只好咂了咂舌宣泄不满。",
+      "vi": "Biết mình vừa được cứu mạng nên không thể cãi lại, Alisa chỉ biết hậm hực tặc lưỡi quay đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia011",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia011|",
+      "ja": "……まずは、自分のポケットを見てくれないか。<br>各自スマホを配給されているようだ。",
+      "zh": "……首先，请大家看一下自己的口袋。<br>\n应该每个人都发了一部手机。",
+      "vi": "……Trước tiên, mọi người hãy kiểm tra túi áo của mình xem. Có vẻ mỗi người chúng ta đều được phát một chiếc điện thoại thông minh.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative026",
+      "speaker_tag": "",
+      "ja": "レイアに言われて、<br>皆それぞれのポケットを探る。",
+      "zh": "听蕾雅这么讲，<br>\n所有人都摸了摸自己的口袋。",
+      "vi": "Nghe Leia nhắc nhở, tất cả vội thò tay vào túi áo kiểm tra.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema003",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema003|",
+      "ja": "（ほんとだ……ボクの持ってたやつじゃないけど、<br>　スマホを持たせてくれてる……<br>　これがあれば外と連絡できる！？）",
+      "zh": "（真的欸……虽然不是我自己的，<br>\n不过确实有一部智能手机……<br>\n难道可以用它联络外界！？）",
+      "vi": "（Đúng thật này…… Tuy không phải chiếc điện thoại cũ của mình, nhưng họ đã chuẩn bị sẵn cho mình một chiếc…… Có nó thì liệu mình có liên lạc được với bên ngoài không!?）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia012",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia012|",
+      "ja": "残念ながら圏外だ。<br>外との連絡手段にはならない。",
+      "zh": "遗憾的是，没有信号，<br>\n不能用来和外界联络。",
+      "vi": "Rất tiếc là điện thoại hoàn toàn không có sóng. Chúng ta không thể dùng nó để liên lạc ra bên ngoài được đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia013",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia013|",
+      "ja": "我々は捕まって閉じ込められたのだから、<br>当然だろうが……。",
+      "zh": "我们是被抓来这个地方的，<br>\n有信号才奇怪……",
+      "vi": "Kẻ đã nhốt chúng ta vào đây chắc chắn sẽ không để lộ sơ hở như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative027",
+      "speaker_tag": "",
+      "ja": "エマの希望は早々に打ち砕かれてしまい、<br>がっくりと肩を落とした。",
+      "zh": "希望瞬间破灭，<br>\n艾玛失望地垂下肩膀。",
+      "vi": "Hy vọng vừa nhen nhóm của Ema lập tức bị dập tắt, cô ủ rũ buông thõng hai vai.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia014",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia014|",
+      "ja": "このスマホの中に<br>【魔女図鑑】というアプリが入っていた。",
+      "zh": "在手机里面，<br>\n有一个叫【魔女图鉴】的APP。",
+      "vi": "Bên trong chiếc điện thoại này có cài sẵn một ứng dụng mang tên 【Sổ Phù Thủy】.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia015",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia015|",
+      "ja": "先ほどゴクチョーも言っていたが、<br>【魔女図鑑】はルールブックらしい。<br>牢屋敷のマップや規則、我々の囚人情報が入っていた。",
+      "zh": "刚才典狱长也讲了，<br>\n【魔女图鉴】好像就是规则手册。<br>\n里面收录了监牢的地图和规定，还有我们囚犯的资料。",
+      "vi": "Như Cai Ngục Trưởng đã nói lúc nãy, 【Sổ Phù Thủy】 chính là cẩm nang luật lệ, bao gồm bản đồ Ngục Dinh Thự, quy tắc sinh hoạt và thông tin tù nhân của chúng ta.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia016",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia016|",
+      "ja": "この【魔女図鑑】に記されたルールを<ruby=\"じゅんしゅ\">遵守</ruby>し、 生活していこう。<br>全員、しっかり目を通しておいてくれ。",
+      "zh": "请大家都认真去看【魔女图鉴】里面<br>\n记录的规定，一起生活下去吧。",
+      "vi": "Chúng ta cần phải tuân thủ nghiêm ngặt các quy tắc trong cuốn sổ này để sinh tồn. Mọi người hãy đọc thật kỹ nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Alisa004",
+      "speaker_tag": "; > Alisa: |#0101Adv05_Alisa004|",
+      "ja": "っ……ざけんな！<br>ウチは守ってくれなんて頼んでねえ！",
+      "zh": "……开什么玩笑！<br>\n我才不管什么规定不规定！",
+      "vi": "Khốn nạn…… đừng có ra lệnh cho tao! Tao đéo có nhờ mày bảo vệ!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Alisa005",
+      "speaker_tag": "; > Alisa: |#0101Adv05_Alisa005|",
+      "ja": "魔女とか囚人とか知るかよ！<br>１秒だってこんなとこいたくねえ。<br>ウチはここを出るからな！",
+      "zh": "什么魔女什么囚犯都见鬼去吧！<br>\n我一秒都不想待在这个地方。<br>\n我要离开这里！",
+      "vi": "Ma nữ với chả tù nhân cái con khỉ gì chứ! Tao đéo muốn ở lại cái xó này dù chỉ một giây! Tao sẽ tự tìm đường thoát ra ngoài!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative028",
+      "speaker_tag": "",
+      "ja": "アリサが噛みついたことで、<br>レイアは<ruby=\"うれ\">憂</ruby>いげなため息をついた。",
+      "zh": "面对咬牙切齿的亚里沙，<br>\n蕾雅忧愁地叹了口气。",
+      "vi": "Thấy Alisa lại gắt gỏng nổi đóa, Leia chỉ biết thở dài ngao ngán.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia017",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia017|",
+      "ja": "反抗的な態度を見せたら、<br>また看守に何をされるかわからないよ。",
+      "zh": "你要是再表现出反抗的态度，<br>\n我可不知道看守会对你做出什么事来。",
+      "vi": "Nếu em cứ giữ thái độ chống đối như vậy, không ai biết tên cai ngục kia sẽ làm gì em đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Alisa006",
+      "speaker_tag": "; > Alisa: |#0101Adv05_Alisa006|",
+      "ja": "おめえには関係ねえだろ、ほっとけよ！",
+      "zh": "跟你没关系吧，你管我！",
+      "vi": "Liên quan đéo gì đến mày, mặc kệ tao!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative029",
+      "speaker_tag": "",
+      "ja": "アリサは舌打ちし、ラウンジを出ていった。<br>やれやれと肩をすくめるレイア。",
+      "zh": "亚里沙咂了咂舌，离开了会客厅。<br>\n蕾雅无可奈何地耸了耸肩。",
+      "vi": "Alisa tặc lưỡi một cái rồi hầm hực bỏ ra khỏi Phòng Chờ. Leia chỉ biết nhún vai bất lực.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia018",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia018|",
+      "ja": "他のみんなはちゃんと協力してくれるだろう？",
+      "zh": "除了她，剩下来的人应该可以好好配合吧？",
+      "vi": "Những người còn lại có thể hợp tác cùng tôi chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema004",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema004|",
+      "ja": "……ボクも、嫌だ。",
+      "zh": "……我也，不愿意。",
+      "vi": "……Mình cũng không muốn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative030",
+      "speaker_tag": "",
+      "ja": "エマは一歩前に出て、口を開いた。",
+      "zh": "艾玛往前走出一步，开口说道。",
+      "vi": "Ema bước lên một bước, nghẹn ngào cất tiếng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema005",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema005|",
+      "ja": "ヒロちゃんを殺した、<br>あいつらに従うのなんて、嫌だっ！<br>あいつらを絶対に許さない！",
+      "zh": "我才不要听，杀死希罗的<br>\n那帮家伙讲的话！<br>\n我绝对不会原谅它们！",
+      "vi": "Bảo mình phải ngoan ngoãn nghe lời những kẻ đã sát hại Hiro-chan…… Mình không bao giờ chấp nhận! Mình tuyệt đối không tha thứ cho bọn chúng!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative031",
+      "speaker_tag": "",
+      "ja": "涙に濡れた瞳で、強く言い放つ。<br>レイアは意外そうな表情になっていた。",
+      "zh": "双眼闪着泪花的艾玛坚定说道。<br>\n蕾雅露出了有些惊讶的表情。",
+      "vi": "Đôi mắt ngấn lệ của Ema ánh lên sự phẫn nộ mãnh liệt. Leia tỏ ra khá bất ngờ trước phản ứng này.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia019",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia019|",
+      "ja": "なるほど。エマくんはどうやらヒロくんと<br>顔見知りだったみたいだしね。",
+      "zh": "是这样啊。<br>\n你好像认识希罗，对吗。",
+      "vi": "Ra là vậy. Có vẻ Ema-kun và Hiro-kun vốn là người quen của nhau từ trước nhỉ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia020",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia020|",
+      "ja": "しかし、仲が良さそうには見えなかったけれど？",
+      "zh": "不过在我看来，你们好像关系并不是很好？",
+      "vi": "Thế nhưng lúc nãy tôi thấy quan hệ giữa hai người đâu có vẻ gì là thân thiết?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema006",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema006|",
+      "ja": "ヒロちゃんは……っ<br>ヒロちゃんは正しい子だから……。",
+      "zh": "因为，希罗她……<br>\n希罗她是一个正直的人……",
+      "vi": "Hiro-chan…… Hiro-chan là một người bạn rất tốt và chính trực……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative032",
+      "speaker_tag": "",
+      "ja": "レイアは軽く息を吐いた。",
+      "zh": "蕾雅轻轻叹了口气。",
+      "vi": "Leia thở hắt ra một hơi nhẹ nhõm.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia021",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia021|",
+      "ja": "まぁ、従うつもりがないのはわかったよ。<br>強制はしない。",
+      "zh": "唉，我知道你不打算遵守了。<br>\n我也不会强迫你。",
+      "vi": "Tôi hiểu là em không muốn hợp tác. Tôi sẽ không ép buộc.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia022",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia022|",
+      "ja": "ただ、今はなるべく穏便に済ませたい。<br>危険因子と行動を共にすることはできないかな。",
+      "zh": "不过，我希望大家可以温和一些。<br>\n我们无法和引来危险的分子一起行动。",
+      "vi": "Tuy nhiên, mục tiêu của tôi là giữ an toàn tối đa cho mọi người. Tôi không thể đi cùng những người có hành động liều lĩnh nguy hiểm được.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Sherry001",
+      "speaker_tag": "; > Sherry: |#0101Adv05_Sherry001|",
+      "ja": "はいはい！<br>私もエマさんについていきますよぉ～！",
+      "zh": "我也来我也来！<br>\n我也要选艾玛这边～！",
+      "vi": "Có em nè có em nè! Em sẽ đi theo phe của bạn Ema nha~!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative033",
+      "speaker_tag": "",
+      "ja": "と、シェリーが元気よく挙手をした。",
+      "zh": "雪莉兴奋地举起了手。",
+      "vi": "Sherry bất ngờ giơ tay lên đầy hào hứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative034",
+      "speaker_tag": "",
+      "ja": "予想していなかった事態らしく、<br>エマは驚きで目を見開いている。",
+      "zh": "艾玛惊讶得张大了双眼，<br>\n事情的发展超出了她的预料。",
+      "vi": "Sự việc diễn ra quá bất ngờ khiến Ema tròn mắt ngạc nhiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Sherry002",
+      "speaker_tag": "; > Sherry: |#0101Adv05_Sherry002|",
+      "ja": "面白そうな方につくのが私の信条ですから！",
+      "zh": "选边就要选有趣的一边，这就是我的信条！",
+      "vi": "Châm ngôn sống của em là luôn đi theo những người mang lại cảm giác thú vị nhất!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Sherry003",
+      "speaker_tag": "; > Sherry: |#0101Adv05_Sherry003|",
+      "ja": "そしてエマさん！<br>あなたからは面白そうなにおいがプンプンしているのでっ",
+      "zh": "而艾玛你！<br>\n我从你的身上闻到了一股超浓郁的有趣味道！",
+      "vi": "Và bạn Ema ơi! Trên người chị đang tỏa ra một mùi vị cực kỳ thú vị và bí ẩn luôn đó nha!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema007",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema007|",
+      "ja": "ぷん、ぷん……？",
+      "zh": "浓郁的，味道……？",
+      "vi": "M-Mùi vị thú vị……?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative035",
+      "speaker_tag": "",
+      "ja": "いつの間にか、エマの<ruby=\"かたわ\">傍</ruby>らには、<br>ハンナとメルルも立っていた。",
+      "zh": "不知何时，艾玛的身边<br>\n又多了汉娜和梅露露两个人。",
+      "vi": "Chẳng biết từ lúc nào, Hanna và Meruru cũng đã tiến lại đứng cạnh Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Hanna001",
+      "speaker_tag": "; > Hanna: |#0101Adv05_Hanna001|",
+      "ja": "わたくしもあなた側につきますわ。<br>偉そうに仕切るヤツが嫌いなんですの。",
+      "zh": "我也要和你站一边。<br>\n本小姐最讨厌那种一副大人物的样子指指点点的人了。",
+      "vi": "Bổn tiểu thư cũng sẽ đứng về phía ngươi. Bổn tiểu thư ghét nhất là những kẻ ra vẻ Bổn tiểu thư đây chỉ tay năm ngón lãnh đạo ngươi khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative036",
+      "speaker_tag": "",
+      "ja": "エマの味方をしたいといった風ではなく、<br>単にレイアが気に入らない様子だった。<br>プライドを傷つけられて、よっぽど根に持っているらしい。",
+      "zh": "看样子，她并没有想着支持艾玛，<br>\n而只是单纯地看不惯蕾雅。<br>\n似乎自尊受伤一事令她十分介怀。",
+      "vi": "Hanna không hẳn là muốn giúp Ema, mà đơn giản chỉ là vì cô nàng không ưa tính cách của Leia. Lòng tự ái quý tộc bị tổn thương khiến cô vẫn còn ôm mối hậm hực.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Meruru001",
+      "speaker_tag": "; > Meruru: |#0101Adv05_Meruru001|",
+      "ja": "うぅ……エマさん……。",
+      "zh": "呜呜……艾玛小姐……",
+      "vi": "Hức…… bạn Ema ơi……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative037",
+      "speaker_tag": "",
+      "ja": "メルルに関しては人見知りが激しいのか、<br>エマのそばにぴったりと寄り添っている。",
+      "zh": "而梅露露好像有点怕生，<br>\n她紧紧贴住了艾玛。",
+      "vi": "Còn Meruru vì quá nhút nhát và ngại người lạ nên chỉ biết nép chặt vào bên cạnh Ema như một chỗ dựa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Sherry004",
+      "speaker_tag": "; > Sherry: |#0101Adv05_Sherry004|",
+      "ja": "あれれ～？<br>グループが２分割しちゃいましたねっ",
+      "zh": "哎呀呀～？<br>\n意见分成两派了耶。",
+      "vi": "Ủa kìa~? Vậy là nhóm chúng ta chia làm hai phe rồi đó nha!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia023",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia023|",
+      "ja": "……どうやらそのようだね。",
+      "zh": "……看来的确如此。",
+      "vi": "……Có vẻ là vậy rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia024",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia024|",
+      "ja": "みんなで協力し合うに越したことはないけれど、<br>意見が合わないなら仕方ない。",
+      "zh": "大家能齐心协力度过难关那就最好，<br>\n不过意见不合就没办法了。",
+      "vi": "Dù đoàn kết là tốt nhất, nhưng nếu quan điểm đã bất đồng thì đành chịu vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Leia025",
+      "speaker_tag": "; > Leia: |#0101Adv05_Leia025|",
+      "ja": "私たちは一旦地下に戻るよ。<br>ルールによれば、地下監房にいなければいけない時間だ。",
+      "zh": "我们先回地下去吧。<br>\n根据规定，现在是必须待在地下牢房内的时间。",
+      "vi": "Phe chúng tôi sẽ quay trở lại tầng hầm trước. Theo quy tắc thì đây là giờ bắt buộc phải có mặt tại phòng giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative038",
+      "speaker_tag": "",
+      "ja": "レイアが歩きだすと、<br>彼女についていくと決めたらしい少女たちが<br>ぞろぞろと続いていく。",
+      "zh": "蕾雅动身后，<br>\n决定和她坐同一条船的少女们<br>\n也都跟在她身后离开了。",
+      "vi": "Leia sải bước rời đi, kéo theo những thiếu nữ lựa chọn đi theo cô ấy lần lượt nối đuôi bước ra khỏi phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Narrative039",
+      "speaker_tag": "",
+      "ja": "ラウンジに残されたのは、<br>エマとシェリー、ハンナとメルルの４人だった。",
+      "zh": "留在会客厅内的，<br>\n就只剩艾玛、雪莉、汉娜和梅露露4个人。",
+      "vi": "Trong Phòng Chờ lúc này chỉ còn lại 4 người: Ema, Sherry, Hanna và Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Sherry005",
+      "speaker_tag": "; > Sherry: |#0101Adv05_Sherry005|",
+      "ja": "で？ で？ 私たちはどうするんですか？<br>みんなで協力して看守をぶっ殺します？",
+      "zh": "然后呢然后呢？？我们接下来做什么？<br>\n大家齐心协力去弄死看守？",
+      "vi": "Thế giờ sao đây ta? Tụi mình có nên hợp sức lại rồi lao vào đập cho tên cai ngục một trận ra bã không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema008",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema008|",
+      "ja": "そ、そんなことできないよ。<br>ヒロちゃんみたいに殺されちゃう。",
+      "zh": "不、不可以啦。<br>\n会像希罗那样被杀死的。",
+      "vi": "K-Không thể làm thế được đâu. Làm vậy là sẽ bị giết chết như Hiro-chan mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema009",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema009|",
+      "ja": "（ヒロちゃんを殺した看守も、ゴクチョーも許せない……<br>　でも……）",
+      "zh": "（不能原谅杀死希罗的看守，还有典狱长……<br>\n可是……）",
+      "vi": "（Mình căm thù tên cai ngục và Cai Ngục Trưởng vì đã giết Hiro-chan…… nhưng……）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema010",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema010|",
+      "ja": "（考えなしに突っ込んでも、同じ目に遭うだけだ。<br>　冷静に行動しないと）",
+      "zh": "（不多加考虑冲动行事，只会落得同样的下场。<br>\n我一定要冷静行动）",
+      "vi": "（Nếu cứ đâm đầu vào một cách mù quáng thì chỉ nhận lấy cái chết vô ích. Mình phải bình tĩnh lại mới được）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema011",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema011|",
+      "ja": "……とりあえず、ボクたちも一度地下に戻ろう。<br>規則には、目を通しておくべきだし。",
+      "zh": "……总之，我们先回地下去吧。<br>\n我们也应该看一下规定才对。",
+      "vi": "……Trước hết chúng ta cũng nên quay về phòng giam dưới tầng hầm đi. Dù sao cũng cần phải đọc kỹ các quy tắc đã.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Sherry006",
+      "speaker_tag": "; > Sherry: |#0101Adv05_Sherry006|",
+      "ja": "まあそうですよね。",
+      "zh": "嗯说的也是呢。",
+      "vi": "Ừm, nói cũng đúng ha.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv05_Ema012",
+      "speaker_tag": "; > Ema: |#0101Adv05_Ema012|",
+      "ja": "でも大人しくしているつもりなんてない。<br>……ボクは絶対に、ヒロちゃんを殺したこと、<br>許さないから。",
+      "zh": "不过我并不打算坐以待毙。<br>\n……它们杀死了希罗，<br>\n我绝不会原谅。",
+      "vi": "Nhưng mình sẽ không chịu ngồi yên chấp nhận số phận đâu. ……Mình tuyệt đối sẽ không bao giờ tha thứ cho kẻ đã giết Hiro-chan.",
+      "objection_links": []
+    }
+  ]
+}

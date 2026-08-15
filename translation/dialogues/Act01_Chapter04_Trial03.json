@@ -1,0 +1,1039 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter04_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter04_Trial03",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter04/Act01_Chapter04_Trial03' Naninovel scenario script",
+  "total_entries": 128,
+  "entries": [
+    {
+      "id": "0104Trial03_Margo001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial03_Margo001|",
+      "ja": "昨晩の２１時前、<br>私たち３人には<br>アリバイがあるわ。<br>そうでしょう？<br>メルルちゃん、ココちゃん。",
+      "zh": "昨晚9点前<br>\n我们三个<br>\n有不在场证明。<br>\n梅露露、可可，<br>\n你们说对吧？",
+      "vi": "Trước 9 giờ tối qua Ba chúng Chị Có bằng chứng ngoại phạm. Meruru, Coco, Bạn có đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial03_Meruru001|",
+      "ja": "は、はい……。<br>昨晩、<br>私はお２人を励まそうと<br>中庭で<link=\"Objection_01_04_03_01\">ティーパーティー</link>を<br>しようとして……。",
+      "zh": "是、是的……<br>\n昨晚<br>\n我想开导一下她们两个，<br>\n就打算在中庭<br>\n办一场<link=\"Objection_01_04_03_01\">茶话会</link>……",
+      "vi": "Vâng, vâng... Đêm qua Tôi muốn khai sáng cho cả hai, Tôi dự định làm điều đó ở sân trong Tổ chức <link=\"Objection_01_04_03_01\">tiệc trà</link>......",
+      "objection_links": [
+        "Objection_01_04_03_01"
+      ]
+    },
+    {
+      "id": "0104Trial03_Ema001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 \"|#0104Trial03_Ema001|\"",
+      "ja": "（昨日、<br>　メルルちゃんが言ってた<br>　ことだ……！<br>　ボクが夜に地下を<br>　探索してたときのことかも……！）",
+      "zh": "（梅露露昨天<br>\n在食堂说过<br>\n这件事……！<br>\n可能是晚上我在地下探索的<br>\n那段时间里……！）",
+      "vi": "(Meruru hôm qua Tôi đã nói ở Nhà Ăn Chuyện này...! Có lẽ tôi đang khám phá lòng đất vào ban đêm Trong thời gian đó...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial03_Coco001|",
+      "ja": "その時、<br>アリサのヤツも見かけて<br>声かけたけど、<br>こなかったんだよね～。",
+      "zh": "那时<br>\n我们也遇到亚里沙那家伙，<br>\n而且也喊她来了，<br>\n可结果没来呢～",
+      "vi": "Lúc đó Chúng Coco cũng đã gặp anh chàng Alisa, Và còn gọi cô ấy tới, Nhưng kết quả đã không đến~",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial03_Coco002|",
+      "ja": "たしか夜の２０時ぐらい<br>だったかな。<br>どっちにしろ、<br>２１時まではあてぃしら<br>ずっとアリバイあっから。",
+      "zh": "我记得那是<br>\n晚上8点左右。<br>\n不管怎么说，<br>\n直到晚上9点为止<br>\n我们三人都有不在场证据就对了。",
+      "vi": "Coco nhớ đó là Khoảng 8 giờ tối. Dù sao đi nữa, Cho đến 9 giờ tối Cả ba chúng Coco đều có bằng chứng ngoại phạm.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial03_Margo002|",
+      "ja": "つまり……<br>私たちには<br>アリサちゃんを殺すなんて<br>不可能なの。",
+      "zh": "总而言之……<br>\n我们三个<br>\n不可能杀害<br>\n亚里沙。",
+      "vi": "Nói chung... Ba chúng Chị Không thể giết được Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial03_Margo003|",
+      "ja": "あの電気椅子で<br>処刑をするには<br>裁判所にいて<br>ボタンを押さなきゃ<br>ダメでしょ？",
+      "zh": "想要使用<br>\n那张电椅处刑<br>\n就得按下审判庭内的<br>\n启动按钮才行，<br>\n对吧？",
+      "vi": "Muốn sử dụng Vụ hành hình bằng Ghế Điện Bạn phải nhấn trong Điều tra Chỉ cần khởi động nút, Đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial03_Margo004|",
+      "ja": "でも私たちに<br><link=\"Objection_01_04_03_02\">お茶会を抜け出した</link>者は<br>いないし、<br><link=\"Objection_01_04_03_03\">電気椅子</link>が<br>遠隔操作できるように<br>改造されたような<br>形跡もない……。",
+      "zh": "可是当时我们三个<br>\n在茶话会期间<br>\n没有人<link=\"Objection_01_04_03_02\">离席</link>过，<br>\n而且目前<br>\n也没任何线索表明，<br>\n<link=\"Objection_01_04_03_03\">电椅</link>经过了改造<br>\n能够实现远程控制……",
+      "vi": "Nhưng lúc đó ba chúng Chị Trong bữa tiệc trà Không ai <link=\"Objection_01_04_03_02\"> rời khỏi bàn </link>, Và hiện tại Không có manh mối nào cho thấy <link=\"Objection_01_04_03_03\">Ghế Điện</link>đã được sửa đổi Có khả năng điều khiển từ xa...",
+      "objection_links": [
+        "Objection_01_04_03_02",
+        "Objection_01_04_03_03"
+      ]
+    },
+    {
+      "id": "0104Trial03_Margo005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial03_Margo005|",
+      "ja": "つまり、<br>やっぱりナノカちゃんにしか<br>電気椅子は<link=\"Objection_01_04_03_04\">使用</link>できないのよ。",
+      "zh": "也就是说，<br>\n到头来只有奈叶香<br>\n能够<link=\"Objection_01_04_03_04\">启动</link>电椅。",
+      "vi": "Tức là Cuối cùng chỉ có Nanoha Có thể <link=\"Objection_01_04_03_04\"> kích hoạt Ghế Điện </link>.",
+      "objection_links": [
+        "Objection_01_04_03_04"
+      ]
+    },
+    {
+      "id": "0104Trial03_Margo006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial03_Margo006|",
+      "ja": "もしくは<br>同じくアリバイのない<br>エマちゃんね。<br>あなたたちにしか<br>できないの。",
+      "zh": "不然就是跟奈叶香一样，<br>\n没有不在场证明的<br>\n艾玛。<br>\n除了你们没人<br>\n能够做得到。",
+      "vi": "Nếu không thì nó giống như Nanoyaka, không có bằng chứng ngoại phạm Ema. Không ai ngoài em Nó có thể được thực hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema002",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema002|",
+      "ja": "（３人にアリバイがあるなら、たしかにボクとナノカちゃん<br>　どちらかにしか犯行ができなくなってしまうかも……）",
+      "zh": "（如果她们都有不在场证明，<br>\n确实能够推导出可能作案的就只有我跟奈叶香……）",
+      "vi": "(Nếu tất cả họ đều có bằng chứng ngoại phạm, Thực sự có thể suy ra rằng Nanoyaka và tôi là những người duy nhất có thể đã phạm tội...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema003",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema003|",
+      "ja": "（でも……これまで調べた情報にマーゴちゃんの話を<br>　否定できる材料がなかったかな……？）",
+      "zh": "（不过……我之前收集到的情报里有没有什么材料<br>\n可以用来否定玛格的观点呢……？）",
+      "vi": "(Nhưng... có tài liệu nào trong thông tin tôi đã thu thập trước Nó có thể được sử dụng để phủ nhận quan điểm của Margo không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema004",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema004|",
+      "ja": "（些細なことでも、不確定な情報でもいい……！<br>　探してみるんだ！）",
+      "zh": "（不管是任何细节，或者不确切的信息也行……！<br>\n我一定要找出来！）",
+      "vi": "(Không thành vấn đề nếu đó là bất kỳ chi tiết hoặc thông tin không chính xác nào...! Tôi phải tìm ra! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Choice001",
+      "speaker_tag": "; > @choice |#0104Trial03_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "ボクを誘わないのはおかしい",
+      "zh": "没有邀请我很可疑",
+      "vi": "Tôi nghi ngờ việc không được mời.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Choice002",
+      "speaker_tag": "; > @choice |#0104Trial03_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "３人で口裏を合わせているだけ",
+      "zh": "你们三个根本就是串好口供",
+      "vi": "Ba người các bạn chỉ đang âm mưu để nhận tội thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Choice003",
+      "speaker_tag": "; > @choice |#0104Trial03_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "お茶会を抜け出せた",
+      "zh": "有可能中途离席",
+      "vi": "Có thể rời cuộc họp giữa chừng",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Choice004",
+      "speaker_tag": "; > @choice |#0104Trial03_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "最初から遠隔操作できた",
+      "zh": "电椅本来就能远程控制",
+      "vi": "Ghế Điện có thể được điều khiển từ xa",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Choice005",
+      "speaker_tag": "; > @choice |#0104Trial03_Choice005| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "電気椅子は故障していた",
+      "zh": "之前电椅一直是故障状态",
+      "vi": "Trước đây Ghế Điện đã từng bị trục trặc",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema005",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema005|",
+      "ja": "ちょっと待ってよ……！<br>どうしてそのパーティーにボクが誘われてないの……！？",
+      "zh": "先等一等……！<br>\n为什么没有人来邀请我参加茶话会……！？",
+      "vi": "Trước tiên hãy đợi một phút...! Tại sao không có ai mời tôi đi uống trà...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru002",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru002|",
+      "ja": "あ、あの、ええと……！<br>……ご、ごめん、なさい……。",
+      "zh": "啊，这、这个……！<br>\n……都怪我，对、对不起……",
+      "vi": "A, cái này, cái này...! ...Tất cả là lỗi của tôi, vâng, tôi xin lỗi...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco003",
+      "speaker_tag": "; > Coco: |#0104Trial03_Coco003|",
+      "ja": "いや、メルちゃんは悪くないし。",
+      "zh": "不不，根本不是小梅的错好不好。",
+      "vi": "Không, không, đó hoàn toàn không phải lỗi của Xiaomei, được chứ.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo007",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo007|",
+      "ja": "私やココちゃんが疑心暗鬼になっていたから、<br>メルルちゃんが気を使ってパーティーを開いてくれたのよ？",
+      "zh": "梅露露是因为我跟可可满腹猜疑和忧虑<br>\n才会花心思来办茶话会哦？",
+      "vi": "Meruru là vì Coco và Chị đầy nghi ngờ và lo lắng Đó là lý do tại sao em lại dành nhiều tâm huyết cho việc tổ chức một bữa tiệc trà?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo008",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo008|",
+      "ja": "エマちゃんにも<br>そう伝えていたはずだけど？",
+      "zh": "我想她应该也跟你<br>\n提到过这回事吧？",
+      "vi": "Chị nghĩ cô ấy cũng nên theo dõi em Bạn đã đề cập đến điều này?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru003",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru003|",
+      "ja": "みんなの気持ちを少しでも<br>繋ぎ止められるようにしてみます。",
+      "zh": "就算只是一点点也好，<br>\n我也想试着把大家的心维系起来。",
+      "vi": "Dù chỉ một chút thôi, Tôi cũng muốn cố gắng kết nối trái tim của mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema006",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema006|",
+      "ja": "な、何をするつもりなの？<br>メルルちゃん。",
+      "zh": "你、你想怎么办？<br>\n梅露露……",
+      "vi": "Bạn, bạn muốn làm gì? Meruru...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru004",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru004|",
+      "ja": "あの２人は心がすり減っているんだと思います。",
+      "zh": "我觉得她们俩的心灵正承受着摧残。",
+      "vi": "Tôi nghĩ cả hai đều bị suy sụp tinh thần.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru005",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru005|",
+      "ja": "だからまずはマーゴさんとココさんの<br>心を落ち着かせないと……。",
+      "zh": "所以我要先让玛格小姐和可可小姐<br>\n内心平静下来才行……",
+      "vi": "Vì vậy tôi muốn để cô Mag và cô Coco Chỉ cần bình tĩnh lại bên trong...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru006",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru006|",
+      "ja": "そうと決まれば、早く準備しないと……！<br>詳しいことはあとでお話しますね！",
+      "zh": "既然决定了我就要马上准备才行……！<br>\n详细情况我以后再告诉你！",
+      "vi": "Bây giờ tôi đã quyết định rồi, tôi phải chuẩn bị ngay lập tức...! Tôi sẽ kể chi tiết cho bạn sau!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema007",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema007|",
+      "ja": "そ、そういえば……！",
+      "zh": "这、这么说来……！",
+      "vi": "Có thể nói, điều này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru007",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru007|",
+      "ja": "詳しくお話すべきでした……<br>あの……ごめんなさい……ううっ",
+      "zh": "我应该早点跟你说的……<br>\n我……对不起……呜呜……",
+      "vi": "Lẽ ra tôi nên nói với bạn sớm hơn... Tôi...tôi xin lỗi...oooo...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema008",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema008|",
+      "ja": "（メルルちゃんを悲しませちゃった……！<br>　それに、他の２人からの印象も悪くなっちゃったかも……）",
+      "zh": "（我害梅露露伤心了……！<br>\n而且好像还让其他两个人对我的印象变差了……）",
+      "vi": "(Tôi đã làm Meruru buồn...! Và có vẻ như điều đó đã khiến ấn tượng của hai người kia về tôi trở nên tồi tệ hơn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema009",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema009|",
+      "ja": "（で、でもボクは犯人じゃないし、<br>　ナノカちゃんだって犯人じゃないと信じたい……！）",
+      "zh": "（但、但我又不是凶手，<br>\n而且我也想相信，奈叶香不是凶手……！）",
+      "vi": "(Nhưng, nhưng tôi không phải là kẻ sát nhân, Và tôi cũng muốn tin rằng Nanoyaka không phải là kẻ sát nhân...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema010",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema010|",
+      "ja": "（マーゴちゃんたちを疑うわけじゃないけど、<br>　アリバイを崩せる材料を探し出さないと……！！）",
+      "zh": "（虽然我没有故意怀疑玛格她们，<br>\n但是我得找出能推翻她们的不在场证明的证据才行……！！）",
+      "vi": "(Mặc dù tôi không cố ý nghi ngờ Mag và những người khác, Nhưng tôi phải tìm ra bằng chứng có thể lật ngược chứng cứ ngoại phạm của họ...! ! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema011",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema011|",
+      "ja": "てぃ、ティーパーティーなんて聞いてないよ……。<br>３人で口裏を合わせてるだけなんじゃないの！？",
+      "zh": "我、我没听说过什么茶话会……<br>\n根本是你们串通好想骗我吧！？",
+      "vi": "Tôi-tôi chưa từng nghe đến bữa tiệc trà nào cả... Về cơ bản bạn đang thông đồng để lừa dối tôi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru008",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru008|",
+      "ja": "そ、そんな……！",
+      "zh": "怎、怎么会……！",
+      "vi": "Làm sao, làm sao có thể...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco004",
+      "speaker_tag": "; > Coco: |#0104Trial03_Coco004|",
+      "ja": "まあそう疑われたらキリがないけど、<br>メルちゃんはエマっちに伝えてたはずっしょ。",
+      "zh": "你要这样说的话，那我们确实洗不清啦，<br>\n不过小梅应该早就跟艾玛亲你提过这事才对。",
+      "vi": "Nếu bạn muốn nói vậy thì chúng Coco thực sự không thể dọn dẹp được, Nhưng lẽ ra Xiaomei nên đề cập vấn đề này với Ema Qinyou từ lâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru009",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru009|",
+      "ja": "みんなの気持ちを少しでも<br>繋ぎ止められるようにしてみます。",
+      "zh": "就算只是一点点也好，<br>\n我也想试着把大家的心维系起来。",
+      "vi": "Dù chỉ một chút thôi, Tôi cũng muốn cố gắng kết nối trái tim của mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema012",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema012|",
+      "ja": "な、何をするつもりなの？<br>メルルちゃん。",
+      "zh": "你、你想怎么办？<br>\n梅露露……",
+      "vi": "Bạn, bạn muốn làm gì? Meruru...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru010",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru010|",
+      "ja": "あの２人は心がすり減っているんだと思います。",
+      "zh": "我觉得她们俩的心灵正承受着摧残。",
+      "vi": "Tôi nghĩ cả hai đều bị suy sụp tinh thần.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru011",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru011|",
+      "ja": "だからまずはマーゴさんとココさんの<br>心を落ち着かせないと……。",
+      "zh": "所以我要先让玛格小姐和可可小姐<br>\n内心平静下来才行……",
+      "vi": "Vì vậy tôi muốn để cô Mag và cô Coco Chỉ cần bình tĩnh lại bên trong...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru012",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru012|",
+      "ja": "そうと決まれば、早く準備しないと……！<br>詳しいことはあとでお話しますね！",
+      "zh": "既然决定了我就要马上准备才行……！<br>\n详细情况我以后再告诉你！",
+      "vi": "Bây giờ tôi đã quyết định rồi, tôi phải chuẩn bị ngay lập tức...! Tôi sẽ kể chi tiết cho bạn sau!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema013",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema013|",
+      "ja": "そ、そういえば……！",
+      "zh": "这、这么说来……！",
+      "vi": "Có thể nói, điều này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo009",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo009|",
+      "ja": "私たち３人全員を疑うなんて、心外だわ。<br>メルルちゃんまで傷つけて……<br>３人でエマちゃんに投票しちゃおうかしら？",
+      "zh": "竟然怀疑我们三个串通，真是让我心寒。<br>\n你甚至还伤了梅露露的心……<br>\n要不我们三个都投票给艾玛算了？",
+      "vi": "Chị thực sự ớn lạnh khi nghĩ rằng ba chúng Chị đang thông đồng với nhau. Bạn thậm chí còn làm tan nát trái tim Meruru... Thế còn cả ba chúng ta bầu cho Ema thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema014",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema014|",
+      "ja": "（ううっ……！？<br>　３人からの心証が悪くなっちゃったかも……！）",
+      "zh": "（唔唔……！？<br>\n感觉她们三个对我的印象都变差了……！）",
+      "vi": "(Hửm...!? Có vẻ như ba người họ có ấn tượng xấu về tôi...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema015",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema015|",
+      "ja": "（で、でもボクは犯人じゃないし、<br>　ナノカちゃんだって犯人じゃないと信じたい……！）",
+      "zh": "（但、但我又不是凶手，<br>\n而且我也想相信，奈叶香不是凶手……！）",
+      "vi": "(Nhưng, nhưng tôi không phải là kẻ sát nhân, Và tôi cũng muốn tin rằng Nanoyaka không phải là kẻ sát nhân...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema016",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema016|",
+      "ja": "（マーゴちゃんたちを疑うわけじゃないけど、<br>　アリバイを崩せる材料を探し出さないと……！）",
+      "zh": "（虽然我没有故意怀疑玛格她们，<br>\n但是我得找出能推翻她们的不在场证明的证据才行……！）",
+      "vi": "(Mặc dù tôi không cố ý nghi ngờ Mag và những người khác, Nhưng tôi phải tìm ra bằng chứng có thể lật ngược chứng cứ ngoại phạm của họ...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema017",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema017|",
+      "ja": "でも、お茶会を抜け出せた人はいたはずだよ！",
+      "zh": "等下，在茶话会期间应该有人能离席才对！",
+      "vi": "Đợi đã, ai đó sẽ có thể rời đi trong bữa tiệc trà!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema018",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema018|",
+      "ja": "トイレに行くとか、お菓子を取ってくるとか、<br>何か理由をつければ、いくらだって――。",
+      "zh": "比如上个厕所，或者去取点心什么的，<br>\n可以走开的借口要多少有多少——",
+      "vi": "Ví dụ: đi vệ sinh hoặc ăn đồ ăn nhẹ hoặc thứ gì đó, Bạn có thể đưa ra rất nhiều lý do để bỏ đi——",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco005",
+      "speaker_tag": "; > Coco: |#0104Trial03_Coco005|",
+      "ja": "そんな長時間、<br>どっかいったヤツなんていなかったし。",
+      "zh": "可是当时<br>\n也没有谁曾经走开过很久啊。",
+      "vi": "Nhưng vào lúc đó Đã lâu rồi chưa có ai rời đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema019",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema019|",
+      "ja": "で、でも……！<br>夜の中庭なんて暗いから、<br>いなくなってもわからないんじゃ……！",
+      "zh": "但、但是……！<br>\n晚上中庭黑乎乎的，<br>\n就算有人走开，其他人也应该不会发现才对……！",
+      "vi": "Nhưng, nhưng...! Tâm nhĩ tối vào ban đêm, Dù có người bước đi thì người khác cũng không để ý...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru013",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru013|",
+      "ja": "ず、ずっと、３人でおしゃべりしてましたから、<br>急にいなくなったらさすがに気付くと思います……。",
+      "zh": "我、我们三个一直在一起聊天，<br>\n要是突然少了一个人，我觉得怎样都会发现啦……",
+      "vi": "Tôi và ba chúng tôi đã trò chuyện cùng nhau, Nếu ai đó đột nhiên mất tích, tôi nghĩ tôi sẽ tìm ra dù thế nào đi nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo010",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo010|",
+      "ja": "私たちだってバカじゃないわ。<br>ティーパーティー中に不自然な離席があれば<br>怪しまれることぐらいわかってる。",
+      "zh": "我们不是傻瓜。<br>\n如果在茶话会中途突然离开肯定会被怀疑，<br>\n这点我们还是清楚的。",
+      "vi": "Chúng Chị không phải là những kẻ ngốc. Nếu em đột ngột rời đi trong bữa tiệc trà, chắc chắn em sẽ bị nghi ngờ, Chúng Chị vẫn biết điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo011",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo011|",
+      "ja": "だからパーティーをしながら、<br>互いを監視し合ってもいたのよ？",
+      "zh": "所以，我们算是在一边喝茶聊天，<br>\n一边互相监视哦？",
+      "vi": "Vì vậy, chúng Chị đang uống trà và trò chuyện, Để mắt tới nhau?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco006",
+      "speaker_tag": "; > Coco: |#0104Trial03_Coco006|",
+      "ja": "えっ、そ、そーだったの！？<br>……フツーにお茶飲んでた……！",
+      "zh": "欸，是、是这样的吗！？<br>\n……我还以为只是单纯在喝茶……！",
+      "vi": "Này, vậy à? ? ...Coco tưởng Coco chỉ đang uống trà...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo012",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo012|",
+      "ja": "それならそれでいいのよ。",
+      "zh": "没关系，单纯喝茶也一样啊。",
+      "vi": "Không sao cả, chỉ cần uống trà là được.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo013",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo013|",
+      "ja": "どちらにせよエマちゃん……。<br>根拠なく疑われたら、私たち傷ついちゃうわ♡",
+      "zh": "亲爱的艾玛，不管怎么样……<br>\n毫无理由地遭到怀疑，我们可是会伤心的哦♡",
+      "vi": "Ema thân mến, dù thế nào đi nữa... Chúng Chị sẽ buồn nếu bị nghi ngờ vô cớ♡",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema020",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema020|",
+      "ja": "（ううっ……！？<br>　３人からの心証が悪くなっちゃったかも……！）",
+      "zh": "（唔唔……！？<br>\n感觉她们三个对我的印象都变差了……！）",
+      "vi": "(Hửm...!? Có vẻ như ba người họ có ấn tượng xấu về tôi...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema021",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema021|",
+      "ja": "（で、でもボクは犯人じゃないし、<br>　ナノカちゃんだって犯人じゃないと信じたい……！）",
+      "zh": "（但、但我又不是凶手，<br>\n而且我也想相信，奈叶香不是凶手……！）",
+      "vi": "(Nhưng, nhưng tôi không phải là kẻ sát nhân, Và tôi cũng muốn tin rằng Nanoyaka không phải là kẻ sát nhân...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema022",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema022|",
+      "ja": "（マーゴちゃんたちを疑うわけじゃないけど、<br>　アリバイを崩せる材料を探し出さないと……！）",
+      "zh": "（虽然我没有故意怀疑玛格她们，<br>\n但是我得找出能推翻她们的不在场证明的证据才行……！）",
+      "vi": "(Mặc dù tôi không cố ý nghi ngờ Mag và những người khác, Nhưng tôi phải tìm ra bằng chứng có thể lật ngược chứng cứ ngoại phạm của họ...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema023",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema023|",
+      "ja": "改造なんかしなくても<br>電気椅子は遠隔操作できたんじゃないかな？",
+      "zh": "有没有可能电椅本来就可以远程控制，<br>\n根本不需要改造？",
+      "vi": "Ghế Điện có thể điều khiển từ xa được không? Không cần sửa đổi gì cả?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru014",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru014|",
+      "ja": "えっ、そうなんですか……？",
+      "zh": "欸，是这样吗……？",
+      "vi": "Này, vậy à...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema024",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema024|",
+      "ja": "リモコンとかあった方が便利だと思うよ！<br>処刑のときにゴクチョーがいちいち押しにいくのも<br>おかしいし……！",
+      "zh": "大家想想嘛，用遥控器更方便对不对！<br>\n每次处刑都要典狱长这么辛苦去按按钮，<br>\n这也很奇怪……！",
+      "vi": "Bạn thử nghĩ xem, sử dụng điều khiển từ xa sẽ tiện lợi hơn đúng không? Mỗi lần hành quyết, cai ngục phải vất vả lắm mới bấm được nút, Điều này cũng rất lạ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco007",
+      "speaker_tag": "; > Coco: |#0104Trial03_Coco007|",
+      "ja": "じゃあリモコンとかそうゆーの、出してよ。",
+      "zh": "那你把那个什么遥控器找来给我看看啊。",
+      "vi": "Sau đó tìm cái điều khiển từ xa đó và đưa cho Coco xem.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema025",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema025|",
+      "ja": "それは……ないけど……。",
+      "zh": "那个……倒是没有……",
+      "vi": "Cái đó... không thực sự...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco008",
+      "speaker_tag": "; > Coco: |#0104Trial03_Coco008|",
+      "ja": "話になんないっしょ。<br>根拠もなく人を疑うなんてさ。",
+      "zh": "那不就是无中生有。<br>\n无凭无据的，你还好意思怀疑别人。",
+      "vi": "Đó chỉ là tạo ra thứ gì đó từ con số không. Bạn có đủ can đảm để nghi ngờ người khác mà không có cơ sở.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema026",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema026|",
+      "ja": "（ううっ……！？<br>　３人からの心証が悪くなっちゃったかも……！）",
+      "zh": "（唔唔……！？<br>\n感觉她们三个对我的印象都变差了……！）",
+      "vi": "(Hửm...!? Có vẻ như ba người họ có ấn tượng xấu về tôi...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema027",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema027|",
+      "ja": "（で、でもボクは犯人じゃないし、<br>　ナノカちゃんだって犯人じゃないと信じたい……！）",
+      "zh": "（但、但我又不是凶手，<br>\n而且我也想相信，奈叶香不是凶手……！）",
+      "vi": "(Nhưng, nhưng tôi không phải là kẻ sát nhân, Và tôi cũng muốn tin rằng Nanoyaka không phải là kẻ sát nhân...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema028",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema028|",
+      "ja": "（マーゴちゃんたちを疑うわけじゃないけど、<br>　アリバイを崩せる材料を探し出さないと……！）",
+      "zh": "（虽然我没有故意怀疑玛格她们，<br>\n但是我得找出能推翻她们的不在场证明的证据才行……！）",
+      "vi": "(Mặc dù tôi không cố ý nghi ngờ Mag và những người khác, Nhưng tôi phải tìm ra bằng chứng có thể lật ngược chứng cứ ngoại phạm của họ...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema029",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema029|",
+      "ja": "マーゴちゃん、そう決めつけるのは早いよ。",
+      "zh": "玛格，你不能这么快就下定论。",
+      "vi": "Margo, em không thể kết luận nhanh thế được.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo014",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo014|",
+      "ja": "あら？ それはどうして？",
+      "zh": "嗯？为什么？",
+      "vi": "Ừm? Tại sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema030",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema030|",
+      "ja": "ゴクチョーから聞いたんだけど、<br>電気椅子には【不具合】があったらしいんだ。",
+      "zh": "我听典狱长讲，<br>\n电椅好像出了【故障】。",
+      "vi": "Tôi đã nghe từ quản giáo, Có vẻ như có [trục trặc] ở Ghế Điện.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema031",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema031|",
+      "ja": "もし不具合があって<br>電気椅子が使えなかったとしたら……。",
+      "zh": "如果因为这个故障<br>\n导致电椅无法启动……",
+      "vi": "Nếu vì sự cố này Kết quả là Ghế Điện không khởi động được...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema032",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema032|",
+      "ja": "アリサちゃんがいつどこで殺されていても<br>おかしくないよね？",
+      "zh": "那亚里沙在其他地方和时间<br>\n遇害的可能性也很大，不是吗？",
+      "vi": "Nayarisa ở những nơi và thời gian khác Khả năng bị giết cũng rất cao phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema033",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema033|",
+      "ja": "アリバイの証拠は崩れるはずだよ！",
+      "zh": "这么一来，你们的不在场证明就失去意义了！",
+      "vi": "Trong trường hợp này, bằng chứng ngoại phạm của bạn sẽ vô nghĩa!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo015",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo015|",
+      "ja": "……なるほどね。<br>たしかにエマちゃんのいうことが本当なら<br>そうかもしれないわ。",
+      "zh": "……确实。<br>\n如果艾玛说的是事实，<br>\n不在场证明就失效了。",
+      "vi": "...Thật vậy. Nếu những gì Ema nói là đúng, Bằng chứng ngoại phạm trở nên vô hiệu.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco009",
+      "speaker_tag": "; > Coco: |#0104Trial03_Coco009|",
+      "ja": "で？ その【不具合】ってなんなん？<br>完全に壊れて動かなかったってこと？",
+      "zh": "然后呢？这个【故障】到底是怎么回事？<br>\n电椅完全坏掉启动不了了？",
+      "vi": "Vậy thì sao? Điều gì đang xảy ra với [trục trặc] này? Ghế Điện hỏng hoàn toàn không khởi động được?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema034",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema034|",
+      "ja": "そ、それは……。",
+      "zh": "这、这个……",
+      "vi": "Cái này, cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema035",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema035|",
+      "ja": "（……つい話に出しちゃったけど、<br>　詳しいことは聞いてないかも）",
+      "zh": "（……顺势就把这点提出来了，<br>\n可我好像没问过详细情况）",
+      "vi": "(...Tôi chỉ nêu quan điểm này khi xu hướng trôi qua, Nhưng có vẻ như tôi chưa hỏi chi tiết)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema036",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema036|",
+      "ja": "ゴ、ゴクチョー！<br>みんなに説明してあげて！",
+      "zh": "典、典狱长！<br>\n你给大家说明一下！",
+      "vi": "Dian, cai ngục! Hãy giải thích cho mọi người nhé!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Warden001",
+      "speaker_tag": "; > Warden: |#0104Trial03_Warden001|",
+      "ja": "はいはい……。",
+      "zh": "好好好……",
+      "vi": "Được rồi được rồi...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Warden002",
+      "speaker_tag": "; > Warden: |#0104Trial03_Warden002|",
+      "ja": "ああ、電気椅子の不具合ですね。<br>ええっとあれは……。",
+      "zh": "呃，关于电椅的故障内容呢，<br>\n我想想……",
+      "vi": "Uh, còn chiếc Ghế Điện bị trục trặc thì sao? Hãy để tôi nghĩ về nó...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Warden003",
+      "speaker_tag": "; > Warden: |#0104Trial03_Warden003|",
+      "ja": "【拘束機能】の不具合ですね。",
+      "zh": "嗯，是【拘束功能】不正常。",
+      "vi": "Chà, [chức năng kiềm chế] thật bất thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Warden004",
+      "speaker_tag": "; > Warden: |#0104Trial03_Warden004|",
+      "ja": "拘束する分にはいいんですが、<br>一度拘束されると、<br>なかなか解けないんですよ。",
+      "zh": "把坐在电椅上的人拘束起来是没问题，<br>\n但一旦绑紧<br>\n就很难松开。",
+      "vi": "Kiềm chế người ngồi trên Ghế Điện là được, Nhưng một khi nó đã bị ràng buộc Thật khó để buông bỏ.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Warden005",
+      "speaker_tag": "; > Warden: |#0104Trial03_Warden005|",
+      "ja": "何回か押していれば解除される事もあるんですが、<br>運が悪いとなかなか解除されないんです。",
+      "zh": "有时多按几次按钮就能松开，<br>\n但运气不好时，怎么弄都松不开。",
+      "vi": "Đôi khi có thể nhả nút bằng cách nhấn nút đó vài lần, Nhưng khi không may mắn thì dù có thế nào cũng không thể nới lỏng được.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Warden006",
+      "speaker_tag": "; > Warden: |#0104Trial03_Warden006|",
+      "ja": "スイッチがへたっているのかもしれませんねぇ。<br>でも処刑機能には影響がないはずですよ。",
+      "zh": "有可能是按钮磨损老化了，<br>\n但应该没有影响处刑的功能。",
+      "vi": "Có thể nút đã bị mòn và cũ, Nhưng nó không ảnh hưởng đến chức năng thực thi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo016",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo016|",
+      "ja": "そう、ありがとう。<br>ゴクチョー。",
+      "zh": "是吗，<br>\n谢谢你的说明，典狱长。",
+      "vi": "Thật đấy, Cảm ơn em đã làm rõ, Warden.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo017",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo017|",
+      "ja": "それなら……電気椅子を使って処刑をする分には<br>問題はなさそうね？",
+      "zh": "那就是说……电椅能够用来处刑，<br>\n这一点应该没什么好质疑的吧？",
+      "vi": "Điều đó có nghĩa là...Ghế Điện có thể được dùng để hành quyết, Không có gì phải thắc mắc về điều này, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema037",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema037|",
+      "ja": "そ、それは……！",
+      "zh": "这、这……！",
+      "vi": "Cái này, cái này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo018",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo018|",
+      "ja": "どうなのかしら、エマちゃん。<br>拘束機能に不具合があったら、<br>処刑に問題があったのかなかったのか……。",
+      "zh": "到底怎样，艾玛。<br>\n拘束功能有故障这一点，<br>\n到底会不会对处刑产生影响……",
+      "vi": "Cái quái gì thế, Ema. Chức năng hạn chế bị lỗi, Liệu nó có ảnh hưởng gì đến việc thực thi...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo019",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo019|",
+      "ja": "答えて欲しいわ？",
+      "zh": "希望你能回答一下？",
+      "vi": "Chị hy vọng em có thể trả lời nó?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema038",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema038|",
+      "ja": "（拘束機能の不具合……<br>　それについて問題は……！）",
+      "zh": "（拘束功能的故障……<br>\n这一点是……！）",
+      "vi": "(Chức năng hạn chế trục trặc... Đây là...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Choice006",
+      "speaker_tag": "; > @choice |#0104Trial03_Choice006|",
+      "ja": "問題がある",
+      "zh": "有问题的",
+      "vi": "có vấn đề",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Choice007",
+      "speaker_tag": "; > @choice |#0104Trial03_Choice007|",
+      "ja": "問題がない",
+      "zh": "没问题的",
+      "vi": "không vấn đề gì",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema039",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema039|",
+      "ja": "問題……ない、かな……？",
+      "zh": "应该……没有问题，吧……？",
+      "vi": "Chắc là... không có vấn đề gì, phải không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo020",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo020|",
+      "ja": "そう。じゃあやっぱり犯人は<br>エマちゃんかナノカちゃん、ということになるけど……。",
+      "zh": "哦，那说到底凶手就只可能是<br>\n艾玛和奈叶香两者其中之一……",
+      "vi": "Ồ, phân tích cuối cùng thì kẻ sát nhân chỉ có thể là Một trong số Ema và Nanoyaka...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo021",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo021|",
+      "ja": "それで問題ないわね♡",
+      "zh": "这一点你没有异议对吧♡",
+      "vi": "Cậu không phản đối điều này, phải không♡",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema040",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema040|",
+      "ja": "あ……あるある！<br>やっぱりあるよ！ 問題大ありだよ！",
+      "zh": "有……有异议有异议！<br>\n想想还是有问题！问题可大了！",
+      "vi": "Có... có phản đối, có phản đối! Nghĩ lại vẫn thấy có vấn đề! Thật là một vấn đề lớn!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema041",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema041|",
+      "ja": "ちょ、ちょっと待ってね……！",
+      "zh": "你、你再等我一下……！",
+      "vi": "Bạn ơi, hãy đợi tôi thêm một chút nữa nhé...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco010",
+      "speaker_tag": "; > Coco: |#0104Trial03_Coco010|",
+      "ja": "今考えてんじゃねー！",
+      "zh": "原来你现在才开始想啊！",
+      "vi": "Hóa ra bây giờ bạn mới bắt đầu nghĩ về nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema042",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema042|",
+      "ja": "（そ、そうだ、思い出すんだ……！<br>　アリサちゃんの死体の状態と今の話を照らし合わせると――）",
+      "zh": "（对、对了，我要仔细回想一下……！<br>\n比照一下亚里沙的尸体状况，还有现在讨论的内容——）",
+      "vi": "(Vâng, vâng, tôi cần phải suy nghĩ kỹ về điều đó...! So sánh tình trạng cơ thể của Alisa và nội dung cuộc thảo luận hiện tại——)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema043",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema043|",
+      "ja": "……いいや、問題はあるよ。",
+      "zh": "……不，肯定有影响。",
+      "vi": "…Không, nó chắc chắn có tác động.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema044",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema044|",
+      "ja": "この電気椅子は拘束された状態でないと、<br>電気を流すことはできないようになってるはず……。",
+      "zh": "只有在拘束完成的状态下，<br>\n电椅才能通电……",
+      "vi": "Chỉ khi việc kiềm chế hoàn tất, Chỉ có Ghế Điện mới có thể bật nguồn...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema045",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema045|",
+      "ja": "でもアリサちゃんが発見されたとき<br>拘束はされていなかった……！",
+      "zh": "可是我们发现亚里沙的尸体时，<br>\n拘束是松开的……！",
+      "vi": "Nhưng khi chúng tôi tìm thấy thi thể của Alisa, Sự kiềm chế đã được nới lỏng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema046",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema046|",
+      "ja": "【一度拘束されたらなかなか外れない】……<br>なのに拘束が解かれているのは、おかしいよ！",
+      "zh": "【一旦绑紧就很难松开】……<br>\n而实际上却是松开的，这太奇怪了！",
+      "vi": "[Đã buộc rồi thì khó cởi ra]…… Nhưng nó thực sự lỏng lẻo, thật kỳ lạ!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo022",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo022|",
+      "ja": "……たしかに、そうかもしれないわね。<br>……それなら……【アレ】は……。",
+      "zh": "……你说的确实也有道理。<br>\n……这样的话……【那个】是……",
+      "vi": "...Những gì em nói có lý. ...Trong trường hợp này... [đó] là...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema047",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema047|",
+      "ja": "【アレ】……？",
+      "zh": "【那个】……？",
+      "vi": "[Cái đó]...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo023",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo023|",
+      "ja": "……いえ、なんでもないわ。",
+      "zh": "……不，没什么。",
+      "vi": "...Không, không có gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo024",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo024|",
+      "ja": "でもエマちゃん、ナノカちゃんが犯人なら<br>【スイッチの接触不良の不具合がある】ということも<br>魔法で知っていたかもしれないわ。",
+      "zh": "可是艾玛，如果凶手是奈叶香的话，<br>\n说不定她早就通过魔法知道<br>\n【按钮有接触不良的故障】这件事。",
+      "vi": "Nhưng Ema, nếu kẻ sát nhân là Nanoyaka, Có lẽ cô ấy đã biết nhờ phép thuật [Nút có lỗi tiếp xúc kém].",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema048",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema048|",
+      "ja": "そ、それは……！",
+      "zh": "这、这……！",
+      "vi": "Cái này, cái này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo025",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo025|",
+      "ja": "もし事前に知っていれば、何度もボタンを押すことで<br>たまたま運良く拘束が解除される可能性も<br>あると思うの。",
+      "zh": "如果事前就已经知情，<br>\n她只要多按几次按钮，<br>\n说不定碰巧就松开了拘束，这也是有可能的。",
+      "vi": "Nếu em đã biết trước về điều đó, Cô ấy chỉ cần nhấn nút thêm vài lần nữa là Có thể tình cờ những sự kiềm chế sẽ được nới lỏng, điều đó cũng có thể xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo026",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo026|",
+      "ja": "あくまでも接触不良であって、<br>完全に壊れていたわけではないんだからね。",
+      "zh": "说到底按钮只是接触不良而已，<br>\n不是完全坏掉用不了了。",
+      "vi": "Suy cho cùng, nút này chỉ là một điểm tiếp xúc kém, Không phải là nó bị hỏng hoàn toàn và không thể sử dụng được nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema049",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema049|",
+      "ja": "そんな……！",
+      "zh": "怎么会这样……！",
+      "vi": "Làm sao điều này có thể xảy ra...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco011",
+      "speaker_tag": "; > Coco: |#0104Trial03_Coco011|",
+      "ja": "……けど、いくらナノカでも<br>あのヤンキー相手に簡単に拘束とか<br>できるもんかな？",
+      "zh": "……可是奈叶香也没厉害到<br>\n能轻易将那个太妹<br>\n绑起来吧？",
+      "vi": "...Nhưng Nanoyaka không mạnh đến thế Coco có thể dễ dàng đánh bại cô gái đó Bị trói?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco012",
+      "speaker_tag": "; > Coco: |#0104Trial03_Coco012|",
+      "ja": "めちゃくちゃ抵抗されね？<br>……それこそ、この部屋が大炎上するぐらい……。",
+      "zh": "太妹肯定会拼命反抗吧？<br>\n……估计会把这房间给一把大火烧了……",
+      "vi": "Taimei nhất định sẽ dùng hết sức lực phản kháng phải không? ...Căn phòng này có lẽ sẽ bị lửa thiêu rụi mất...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru015",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru015|",
+      "ja": "……アリサさんが亡くなったのが夜だとしたら<br>【睡眠薬】を飲んでいたのかもしれません。",
+      "zh": "……如果亚里沙小姐的死亡时间是在晚上，<br>\n那么她有可能喝了【安眠药】。",
+      "vi": "...Nếu Alisa-san chết vào ban đêm, Vậy thì có thể cô ấy đã uống [thuốc ngủ].",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru016",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru016|",
+      "ja": "それなら抵抗できなくても<br>おかしくないですよね……？",
+      "zh": "如果是这样的话，<br>\n没有反抗也是正常的吧……？",
+      "vi": "Nếu đúng như vậy, Không chống cự là điều bình thường phải không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo027",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo027|",
+      "ja": "あら、アリサちゃんは<br>睡眠薬を飲んでたのね？",
+      "zh": "啊呀，<br>\n亚里沙有喝安眠药的习惯？",
+      "vi": "Ồ, Alisa có thói quen uống thuốc ngủ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru017",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru017|",
+      "ja": "はい。<br>医務室にあるのを見つけたので、希望の方には<br>ラベルをつけて処方してるんです……。",
+      "zh": "是的。<br>\n我在医务室找到一些安眠药，所以我会<br>\n贴上标签，将它分发给有需要的人……",
+      "vi": "Vâng. Tôi tìm thấy một số thuốc ngủ trong bệnh xá nên tôi sẽ Dán nhãn và phân phát cho những người có nhu cầu…",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru018",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru018|",
+      "ja": "……私が勝手にやってる事ではあるんですけど。<br>でも強いお薬なので、<br>飲みすぎないよう注意をして欲しくて……。",
+      "zh": "……这只是我个人的自发行为。<br>\n只不过，安眠药的药性非常强烈，<br>\n我就想着提醒一下她，不要喝太多……",
+      "vi": "...Đây chỉ là hành vi tự phát của tôi thôi. Tuy nhiên thuốc ngủ rất mạnh, Tôi chỉ muốn nhắc cô ấy đừng uống quá nhiều...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Meruru019",
+      "speaker_tag": "; > Meruru: |#0104Trial03_Meruru019|",
+      "ja": "……これ、そのお薬と同じものです。",
+      "zh": "……这个跟我给亚里沙小姐的药是一样的。",
+      "vi": "…Đây là cùng loại thuốc tôi đưa cho Alisa-san.",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Coco013",
+      "speaker_tag": "; > Coco: |#0104Trial03_Coco013|",
+      "ja": "アリサは眠ってる間に殺されたってことね～。<br>……ま、苦しまなくて良かったじゃん。",
+      "zh": "所以亚里沙是在睡梦中被人杀死的呢～<br>\n……哎，也没受多大痛苦，挺好的。",
+      "vi": "Vậy là Alisa đã bị giết trong lúc ngủ~ …Này, Coco không bị đau nhiều đâu, khá tốt đấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo028",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo028|",
+      "ja": "ええ、そうでないなら<br>全身に電流を浴びた痛みを<br>受けていたでしょうしね。",
+      "zh": "嗯，<br>\n如果她是在清醒的时候接受电刑，<br>\n就要承受浑身上下被电击的剧痛呢。",
+      "vi": "Vâng, Nếu cô ấy bị điện giật khi đang thức, Anh sẽ phải chịu đựng sự đau đớn tột cùng vì bị điện giật khắp cơ thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema050",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema050|",
+      "ja": "（仮にアリサちゃんが電気椅子で処刑されたのだとしたら、<br>　ナノカちゃんぐらいしか犯人はいない……）",
+      "zh": "（如果亚里沙是被人用电椅处死的，<br>\n那凶手就只可能是奈叶香……）",
+      "vi": "(Nếu Alisa bị xử tử bằng Ghế Điện, Kẻ sát nhân chỉ có thể là Nanoyaka...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema051",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema051|",
+      "ja": "（ナノカちゃんを信じるなら……<br>　【電気椅子は使われなかった】はずだ……！）",
+      "zh": "（既然我选择了相信她，那么……<br>\n【电椅没有使用过】才是对的……！）",
+      "vi": "(Vì tôi đã chọn tin cô ấy nên... [Ghế Điện chưa hề sử dụng] đúng rồi...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Ema052",
+      "speaker_tag": "; > Ema: |#0104Trial03_Ema052|",
+      "ja": "……ほ、本当にそうなのかな。<br>電気椅子が使われたとは限らないと思うけど……！",
+      "zh": "……真、真的是你说的那样吗。<br>\n我觉得不一定是用电椅杀的人……！",
+      "vi": "...Có thật như anh nói không? Tôi không nghĩ đó nhất thiết phải là người bị giết bằng Ghế Điện…!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial03_Margo029",
+      "speaker_tag": "; > Margo: |#0104Trial03_Margo029|",
+      "ja": "ならエマちゃん、あの死体の状況……<br>どう説明するのかしら？",
+      "zh": "那艾玛，尸体的那个状态……<br>\n你要怎么说明？",
+      "vi": "Ema đó, tình trạng của cái xác... Làm thế nào để em giải thích nó?",
+      "objection_links": []
+    }
+  ]
+}

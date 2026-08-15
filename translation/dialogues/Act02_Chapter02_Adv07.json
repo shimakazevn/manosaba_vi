@@ -1,0 +1,504 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Adv07",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Adv07' Naninovel scenario script",
+  "total_entries": 62,
+  "entries": [
+    {
+      "id": "0202Adv07_Narrative001",
+      "speaker_tag": "",
+      "ja": "私は中庭に出てみた。",
+      "zh": "我来到中庭。",
+      "vi": "Tôi đã đến tâm nhĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative002",
+      "speaker_tag": "",
+      "ja": "洋風の庭園といった<ruby=\"おもむ\">趣</ruby>きで、<br>お茶会でも開けそうだ。",
+      "zh": "这是一方西洋风格的庭院，<br>\n看上去很适合开茶会。",
+      "vi": "Đây là sân kiểu phương Tây, Trông hoàn hảo cho một bữa tiệc trà.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative003",
+      "speaker_tag": "",
+      "ja": "けれども長い間手入れがされていないのだろう。<br>全体的にツタが生い茂っていた。",
+      "zh": "不过大概是因为长期无人打理，<br>\n到处长满了藤蔓。",
+      "vi": "Nhưng chắc là do lâu rồi không có ai chăm sóc, Có những cây nho mọc khắp nơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative004",
+      "speaker_tag": "",
+      "ja": "見上げると、<br>２階の各所から<ruby=\"かんき\">換気</ruby>のためかベランダが張り出している。",
+      "zh": "往上看，<br>\n可以看到二楼有多处用来通风的阳台。",
+      "vi": "Tra cứu, Bạn có thể thấy tầng 2 có rất nhiều ban công để thông gió.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative005",
+      "speaker_tag": "",
+      "ja": "中央には<ruby=\"ふんすい\">噴水</ruby>もある。",
+      "zh": "庭院中央有一处喷泉。",
+      "vi": "Có một đài phun nước ở giữa sân.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro001|",
+      "ja": "（あの噴水にエマを沈めれば……<br>　いや、この場所は各所のベランダからも見下ろせるし、<br>　人目につく可能性が高い）",
+      "zh": "（要是把艾玛按进喷泉里……<br>\n不行，从好几个阳台都能看见这个地方，<br>\n很有可能被人看到）",
+      "vi": "(Nếu Ema bị đẩy xuống đài phun nước... Không, có thể nhìn thấy địa điểm này từ nhiều ban công, Rất có thể sẽ được nhìn thấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative006",
+      "speaker_tag": "",
+      "ja": "実際、少し離れたところに<br>レイアとノア、アリサの姿があった。",
+      "zh": "实际上，中庭也确实有人。<br>\n蕾雅、诺亚和亚里沙就在稍远处。",
+      "vi": "Trên thực tế, quả thực có người ở trong nhĩ. Leia, Noah và Alisa chỉ cách xa hơn một chút.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative007",
+      "speaker_tag": "",
+      "ja": "レイアとノアは劇について相談し合っている様子だ。<br>アリサの方は――",
+      "zh": "蕾雅和诺亚正在商量舞台剧的事。<br>\n而亚里沙——",
+      "vi": "Leia và Noah đang thảo luận về vở kịch trên sân khấu. Và Alisa——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative008",
+      "speaker_tag": "",
+      "ja": "２本並んで立つ木の下で、何かの作業をしている。<br>手にロープを持っているのが見えた。",
+      "zh": "她站在两棵紧挨着的树下面，正在摆弄着什么。<br>\n只见她手里拿着一根绳子。",
+      "vi": "Cô ấy đang đứng dưới hai gốc cây cạnh nhau, đang nghịch nghịch thứ gì đó. Tôi nhìn thấy một sợi dây trong tay cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro002|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative009",
+      "speaker_tag": "",
+      "ja": "ちらついた光景に、瞬間で鼓動が速くなる。",
+      "zh": "一幕画面闪过脑海，瞬间心跳快得几乎扑出胸膛。",
+      "vi": "Một cảnh tượng hiện lên trong đầu anh, nhịp tim gần như nhảy ra khỏi lồng ngực.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro003|",
+      "ja": "（落ち着け。アリサは何も、<br>　自殺しようとしているわけじゃない）",
+      "zh": "（冷静点。亚里沙并没有试图自杀）<br>",
+      "vi": "(Bình tĩnh. Alisa không cố tự tử)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative010",
+      "speaker_tag": "",
+      "ja": "深呼吸していると、<br>レイアとノアが私に気付いて近寄ってきた。",
+      "zh": "我做了个深呼吸，<br>\n这时，蕾雅和诺亚看到我，向这边走来。",
+      "vi": "Tôi hít một hơi thật sâu, Lúc này, Leya và Noah nhìn thấy tôi và đi về phía tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Leia001",
+      "speaker_tag": "; > Leia: |#0202Adv07_Leia001|",
+      "ja": "やあヒロくん。<br>キミもこれを見てくれないか。",
+      "zh": "你好啊希罗。<br>\n我想让你也看看这个。",
+      "vi": "Xin chào Hiro. Tôi cũng muốn bạn nhìn vào cái này.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro004|",
+      "ja": "……なんだ？",
+      "zh": "……看什么？",
+      "vi": "...Bạn đang nhìn gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative011",
+      "speaker_tag": "",
+      "ja": "レイアは少し興奮した様子で、<br>私にスケッチブックを見せてきた。",
+      "zh": "蕾雅有些兴奋地<br>\n把素描本递给我看。",
+      "vi": "Leya có chút phấn khích Đưa tôi cuốn sổ phác thảo.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Leia002",
+      "speaker_tag": "; > Leia: |#0202Adv07_Leia002|",
+      "ja": "舞台の背景イメージだよ。<br>ノアくんに描いてもらったんだ。",
+      "zh": "这是舞台背景的草图。<br>\n是诺亚帮忙画的。",
+      "vi": "Đây là bản phác thảo của nền sân khấu. Nô-ê đã giúp vẽ nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative012",
+      "speaker_tag": "",
+      "ja": "レイアがスケッチブックをめくっていく。",
+      "zh": "说着，蕾雅一页页翻起素描本。",
+      "vi": "Khi cô ấy nói, Leia lật qua các trang trong cuốn sổ phác thảo của cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative013",
+      "speaker_tag": "",
+      "ja": "どのページにも美しく幻想的な風景が描かれていて、<br>私も思わず見入ってしまう。",
+      "zh": "每一页都画着如梦似幻的风景，<br>\n让我不禁看入了迷。",
+      "vi": "Mỗi trang đều vẽ nên khung cảnh thơ mộng, Tôi không thể không bị mê hoặc bởi nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Leia003",
+      "speaker_tag": "; > Leia: |#0202Adv07_Leia003|",
+      "ja": "どうだい？ 素晴らしいだろう？<br>ノアくんはセンスの塊だ！",
+      "zh": "如何？画得很美吧？<br>\n诺亚简直是灵感之神！",
+      "vi": "Bằng cách nào? Bức tranh đẹp lắm phải không? Nô-ê là nguồn cảm hứng!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Noah001",
+      "speaker_tag": "; > Noah: |#0202Adv07_Noah001|",
+      "ja": "えへへ照れちゃうなー。",
+      "zh": "欸嘿嘿，说得诺亚都不好意思了～",
+      "vi": "Này này, nó làm Noah thấy xấu hổ quá~",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro005|",
+      "ja": "……そうだね。どれも芸術的だ。<br>君はスプレーアートだけではないのだな。",
+      "zh": "……没错。每张画都很有艺术性。<br>\n原来你不止是喷漆画艺术家啊。",
+      "vi": "...đúng rồi. Mỗi bức tranh đều rất nghệ thuật. Hóa ra bạn không chỉ là một nghệ sĩ phun sơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Noah002",
+      "speaker_tag": "; > Noah: |#0202Adv07_Noah002|",
+      "ja": "のあお絵描きはなんでも好き。<br>いちばんはやっぱりスプレーアートだけどね。",
+      "zh": "只要是画画，诺亚都喜欢。<br>\n不过最喜欢的还是喷漆画。",
+      "vi": "Chỉ cần nó vẽ là Noah thích. Nhưng yêu thích của Noah là phun sơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative014",
+      "speaker_tag": "",
+      "ja": "話しかけてみるとノアが笑顔を見せてくれたので、<br>私はどこかホッとしていた。",
+      "zh": "我试着跟诺亚搭话，看到她笑着回应，<br>\n我莫名感到一点安心。",
+      "vi": "Tôi đã cố gắng nói chuyện với Noah và cô ấy mỉm cười đáp lại, Tôi cảm thấy nhẹ nhõm một chút.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Noah003",
+      "speaker_tag": "; > Noah: |#0202Adv07_Noah003|",
+      "ja": "最近ね、前より<br>魔法がコントロールできるように<br>なってきたかもしれなくて。",
+      "zh": "最近呀，<br>\n诺亚感觉自己操纵魔法越来越熟练了。<br>",
+      "vi": "Gần đây, Noah cảm thấy mình ngày càng thành thạo trong việc điều khiển ma thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Noah004",
+      "speaker_tag": "; > Noah: |#0202Adv07_Noah004|",
+      "ja": "自分が描きたい絵になってくれるんだよ。<br>きっとのあのお絵描きが上達したからだと思うんだ。",
+      "zh": "魔法都能好好变成诺亚心里描绘的场景了呢。<br>\n一定是因为诺亚的画技提升了！",
+      "vi": "Phép thuật có thể biến nó thành khung cảnh mà Noah tưởng tượng trong đầu. Chắc hẳn là do kỹ năng vẽ tranh của Nô-ê đã tiến bộ!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative015",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ほこ\">誇</ruby>らしげに胸を張るノアに、<br>レイアは<ruby=\"うれ\">嬉</ruby>しそうにうんうんと<ruby=\"うなず\">頷</ruby>く。",
+      "zh": "诺亚骄傲地挺起胸膛，<br>\n蕾雅也开心地连连点头赞同。",
+      "vi": "Noah ưỡn ngực tự hào, Leya vui vẻ gật đầu đồng ý.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Leia004",
+      "speaker_tag": "; > Leia: |#0202Adv07_Leia004|",
+      "ja": "ノアくんの<ruby=\"えが\">描</ruby>く背景に、私の演技……<br>ああ、今から舞台に立つのが楽しみで仕方がないよ！",
+      "zh": "诺亚画出的背景，再配上我的演绎……<br>\n啊，我现在就开始期待站上舞台的那一刻了！",
+      "vi": "Nền do Noah vẽ, cùng với cách diễn giải của tôi... Ah, bây giờ tôi đang mong chờ khoảnh khắc được đứng trên sân khấu!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Noah005",
+      "speaker_tag": "; > Noah: |#0202Adv07_Noah005|",
+      "ja": "うん、のあも楽しみ～。",
+      "zh": "嗯，诺亚也很期待～",
+      "vi": "Chà, Noah cũng đang mong chờ điều đó~",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Leia005",
+      "speaker_tag": "; > Leia: |#0202Adv07_Leia005|",
+      "ja": "みんなで、最高の舞台を作り上げよう！",
+      "zh": "让我们一起创作出最精彩的舞台剧吧！",
+      "vi": "Hãy cùng nhau tạo nên vở kịch sân khấu thú vị nhất!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative016",
+      "speaker_tag": "",
+      "ja": "レイアとノアが、顔を見合わせて笑う。",
+      "zh": "蕾雅和诺亚相视一笑。",
+      "vi": "Leia và Noah mỉm cười với nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro006|",
+      "ja": "……ずいぶん熱心だな。",
+      "zh": "……真是热情四溢啊。",
+      "vi": "...Thật là đam mê.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Leia006",
+      "speaker_tag": "; > Leia: |#0202Adv07_Leia006|",
+      "ja": "私は舞台に立つのが好きだからね。<br>やるからには本気でやりたい。",
+      "zh": "因为我享受舞台啊。<br>\n既然要做，就要做到最好。",
+      "vi": "Bởi vì tôi thích sân khấu. Vì phải làm việc đó nên bạn phải cố gắng hết sức.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Leia007",
+      "speaker_tag": "; > Leia: |#0202Adv07_Leia007|",
+      "ja": "プロとして中途半端なのは許せない。<br>いいものを作りたいんだ。<br>観客の心を動かすような、いいものを。",
+      "zh": "作为职业演员，我决不允许半吊子的心态。<br>\n我想创作出好作品。<br>\n想创作出能打动观众心灵的好作品。",
+      "vi": "Là một diễn viên chuyên nghiệp, tôi sẽ không bao giờ chấp nhận thái độ nửa vời. Tôi muốn tạo ra tác phẩm tốt. Tôi muốn tạo ra những tác phẩm hay, có thể chạm đến trái tim khán giả.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative017",
+      "speaker_tag": "",
+      "ja": "それはまるで【私の心にも】と<br>こちらに語りかけているように聞こえた。",
+      "zh": "这句话听起来像是在强烈诉说着：<br>\n【打动你的心灵】同样是目标的一部分。",
+      "vi": "Câu này nghe có vẻ như một tuyên bố mạnh mẽ: [Chạm vào tâm hồn bạn] cũng là một phần của mục tiêu.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro007|",
+      "ja": "（レイアの姿勢はプロとして正しい。<br>　それを無下にしたくはない）",
+      "zh": "（蕾雅作为职业演员的态度非常端正。<br>\n我不能践踏她的心情）",
+      "vi": "(Thái độ của Lea với tư cách là một diễn viên chuyên nghiệp là rất đúng đắn. Tôi không thể chà đạp lên cảm xúc của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro008|",
+      "ja": "……私にはやることがある。<br>だから、君たちの手伝いはできない。",
+      "zh": "……我还有事要做。<br>\n所以没办法帮你们忙。",
+      "vi": "…Tôi vẫn còn việc phải làm. Vì vậy tôi không thể giúp bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro009|",
+      "ja": "だけど、上演する時は見に行く。",
+      "zh": "但剧目上演那天，我会去看的。",
+      "vi": "Nhưng vào ngày vở kịch được trình diễn, tôi sẽ đi xem nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Leia008",
+      "speaker_tag": "; > Leia: |#0202Adv07_Leia008|",
+      "ja": "本当かい！？",
+      "zh": "真的吗！？",
+      "vi": "Thật sao? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Noah006",
+      "speaker_tag": "; > Noah: |#0202Adv07_Noah006|",
+      "ja": "やったねー、レイアちゃん。",
+      "zh": "太好啦，蕾雅。",
+      "vi": "Tuyệt quá, Leia.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Leia009",
+      "speaker_tag": "; > Leia: |#0202Adv07_Leia009|",
+      "ja": "ああ、ますます意欲が湧いてきたよ。",
+      "zh": "嗯，我越来越有干劲了。",
+      "vi": "Chà, tôi càng ngày càng có động lực hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Leia010",
+      "speaker_tag": "; > Leia: |#0202Adv07_Leia010|",
+      "ja": "『なら僕と行こう。<br>夢がいっぱいで、時間になんて縛られない場所へ！』。",
+      "zh": "“那就与我同行吧，前往那梦想诞生之地！<br>\n在那里，连时间都无法将我们束缚！”",
+      "vi": "\"Vậy hãy cùng tôi đến nơi sinh ra những giấc mơ! Ở đó, ngay cả thời gian cũng không thể ràng buộc chúng ta! \"",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Noah007",
+      "speaker_tag": "; > Noah: |#0202Adv07_Noah007|",
+      "ja": "すごーい！<br>ほんとにレイアちゃんじゃないみたい！",
+      "zh": "好厉害！<br>\n真的像变了个人一样！",
+      "vi": "Thật tuyệt vời! Thật sự có cảm giác như một người khác vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative018",
+      "speaker_tag": "",
+      "ja": "レイアが劇のワンシーンを演じ、<br>ノアが目を輝かせている。",
+      "zh": "蕾雅即兴来了一段台词，<br>\n让诺亚兴奋得满眼放光。",
+      "vi": "Leya ngẫu hứng một câu thoại, Nó làm cho đôi mắt của Noah lấp lánh sự phấn khích.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative019",
+      "speaker_tag": "",
+      "ja": "私もほんの少し<ruby=\"ほお\">頬</ruby>が<ruby=\"ゆる\">緩</ruby>んだ。",
+      "zh": "我的嘴角也不禁划出一条弧度。",
+      "vi": "Khóe miệng không khỏi vẽ lên một vòng cung.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative020",
+      "speaker_tag": "",
+      "ja": "以前のような親しさは薄れてしまったかもしれないが、<br>彼女たちは今の私にとって――",
+      "zh": "或许我们不再像以前那般亲近，<br>\n但对于现在的我来说，她们依然——",
+      "vi": "Có lẽ chúng ta không còn thân thiết như xưa nữa, Nhưng với tôi bây giờ, họ vẫn——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro010|",
+      "ja": "――。",
+      "zh": "——",
+      "vi": "——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative021",
+      "speaker_tag": "",
+      "ja": "<ruby=\"なわ\">縄</ruby>の<ruby=\"きし\">軋</ruby>む音がして、<br>思考が凍りつく。",
+      "zh": "一阵绳子的吱呀声响传来，<br>\n让我的想像瞬间凝固。",
+      "vi": "Có tiếng rít từ sợi dây, Nó đóng băng trí tưởng tượng của tôi ngay lập tức.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative022",
+      "speaker_tag": "",
+      "ja": "少し離れた木の下で、<br>アリサがロープと布を使って何かを作っていた。",
+      "zh": "亚里沙在不远处的树下，<br>\n正用绳子和布料制作些什么。",
+      "vi": "Alisa ở dưới gốc cây cách đó không xa, Làm một cái gì đó từ dây thừng và vải.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative023",
+      "speaker_tag": "",
+      "ja": "２本並んでいる木の両方に、それぞれロープを巻きつける。<br>それから広げた布を、フックを使ってロープに引っかけた。",
+      "zh": "她把绳子分别缠在两棵树上。<br>\n然后用钩子将摊开的布挂在绳子上。",
+      "vi": "Cô buộc sợi dây quanh hai cái cây. Sau đó treo tấm vải đã trải phẳng lên dây bằng móc.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Alisa001",
+      "speaker_tag": "; > Alisa: |#0202Adv07_Alisa001|",
+      "ja": "よし、こんなもんか。",
+      "zh": "好，差不多了。",
+      "vi": "Được rồi, gần như vậy rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative024",
+      "speaker_tag": "",
+      "ja": "私はノアたちから離れ、<br>アリサの方へと近付いていく。",
+      "zh": "我离开诺亚她们，<br>\n朝亚里沙走去。",
+      "vi": "Tôi đã bỏ lại Noah và những người khác, Đi về phía Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro011|",
+      "ja": "何をしているのかな。",
+      "zh": "你在做什么？",
+      "vi": "Bạn đang làm gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Alisa002",
+      "speaker_tag": "; > Alisa: |#0202Adv07_Alisa002|",
+      "ja": "見ればわかんだろ。<br>ハンモックを作ってんだよ。",
+      "zh": "这都看不出吗。<br>\n我在做吊床。",
+      "vi": "Bạn không thể thấy điều này sao? Tao đang làm một cái võng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro012|",
+      "ja": "……なんのために？",
+      "zh": "……为什么要做这个？",
+      "vi": "…Tại sao bạn làm điều này?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Alisa003",
+      "speaker_tag": "; > Alisa: |#0202Adv07_Alisa003|",
+      "ja": "は？",
+      "zh": "哈？",
+      "vi": "Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative025",
+      "speaker_tag": "",
+      "ja": "私の問いにアリサは一瞬、<br>困惑したように目を瞬かせる。",
+      "zh": "听见我的疑问，<br>\n她似乎有些不解地眨了眨眼。",
+      "vi": "Hãy nghe câu hỏi của tôi, Cô ấy dường như chớp mắt bối rối.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Alisa004",
+      "speaker_tag": "; > Alisa: |#0202Adv07_Alisa004|",
+      "ja": "寝るために決まってんだろ。",
+      "zh": "当然是用来睡觉的啊。",
+      "vi": "Tất nhiên là để ngủ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative026",
+      "speaker_tag": "",
+      "ja": "それ以上は話すことがないといったように、<br>アリサは私に背を向けた。",
+      "zh": "说完她就转过身，<br>\n像在拒绝和我继续交谈。",
+      "vi": "Nói xong cô quay lại, Giống như từ chối tiếp tục nói chuyện với tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative027",
+      "speaker_tag": "",
+      "ja": "強度に問題がなさそうか確認する素振りを見せてから、<br>アリサはハンモックの上で横になる。",
+      "zh": "她检查过强度没有问题后，<br>\n便躺到吊床上。",
+      "vi": "Sau khi cô ấy kiểm tra rằng sức mạnh không có vấn đề gì, Sau đó anh nằm xuống võng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Adv07_Hiro013|",
+      "ja": "……っ",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv07_Narrative028",
+      "speaker_tag": "",
+      "ja": "耐えられない息苦しさを覚え、<br>私は中庭から逃げるように去った。",
+      "zh": "我感到一阵难以忍受的窒息感，<br>\n逃也似的离开了中庭。",
+      "vi": "Tôi cảm thấy ngột ngạt không thể chịu nổi, Anh ta rời khỏi tâm nhĩ như thể đang chạy trốn.",
+      "objection_links": []
+    }
+  ]
+}

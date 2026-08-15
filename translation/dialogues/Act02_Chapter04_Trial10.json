@@ -1,0 +1,1056 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Trial10",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Trial10' Naninovel scenario script",
+  "total_entries": 130,
+  "entries": [
+    {
+      "id": "0204Trial10_Hanna001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial10_Hanna001|",
+      "ja": "わたくしが犯人だなんて証拠、<br>１つもありませんわ！",
+      "zh": "没有任何证据<br>\n可以证明我是凶手！",
+      "vi": "Không có bằng chứng Nó có thể chứng minh Bổn tiểu thư là kẻ giết ngươi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial10_Hanna002|",
+      "ja": "わたくしを<br>犯人扱いするだなんて<br>認められません！",
+      "zh": "要想把我<br>\n当成凶手，<br>\n我绝不可能承认！",
+      "vi": "Muốn đưa Bổn tiểu thư đi Là một kẻ sát nhân, Không đời nào Bổn tiểu thư có thể thừa nhận điều đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial10_Hanna003|",
+      "ja": "わたくしには<br><link=\"Objection_02_04_10_01\">エマさんを殺す動機</link>すら<br>ないんですからっ！",
+      "zh": "我连<br>\n<link=\"Objection_02_04_10_01\">杀害艾玛的动机</link><br>\n都没有！",
+      "vi": "Công ty của Bổn tiểu thư <link=\"Objection_02_04_10_01\">Động cơ giết Ema</link> Không có!",
+      "objection_links": [
+        "Objection_02_04_10_01"
+      ]
+    },
+    {
+      "id": "0204Trial10_Hanna004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial10_Hanna004|",
+      "ja": "全てあなたの<link=\"Objection_02_04_10_02\">妄想</link>だわ！",
+      "zh": "一切只不过是你的<link=\"Objection_02_04_10_02\">妄想</link>！",
+      "vi": "Mọi thứ chỉ là <link=\"Objection_02_04_10_02\"> ảo tưởng </link> của bạn!",
+      "objection_links": [
+        "Objection_02_04_10_02"
+      ]
+    },
+    {
+      "id": "0204Trial10_Hiro001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial10_Hiro001|",
+      "ja": "それを言うのなら、<br>私だって同じだ。",
+      "zh": "要这么说的话，<br>\n我也一样。",
+      "vi": "Nếu bạn muốn diễn đạt như vậy, Tôi cũng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial10_Hiro002|",
+      "ja": "証拠も動機もないよ。",
+      "zh": "既没有证据，也没有动机。",
+      "vi": "Không có bằng chứng cũng như động cơ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial10_Hanna005|",
+      "ja": "はんっ……！<br>それはどうだか。",
+      "zh": "哈……！<br>\n那可不好说。",
+      "vi": "Hà...! Điều đó thật khó để nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna006",
+      "speaker_tag": "; > @printDebate pos:32,50 roll:-4 |#0204Trial10_Hanna006|",
+      "ja": "あなたとエマさんは<br><link=\"Objection_02_04_10_03\">知り合いだった</link>のでしょう。",
+      "zh": "你和艾玛<br>\n<link=\"Objection_02_04_10_03\">以前就认识</link>吧。",
+      "vi": "Bạn và Ema <link=\"Objection_02_04_10_03\"> hẳn đã biết </link> trước đây.",
+      "objection_links": [
+        "Objection_02_04_10_03"
+      ]
+    },
+    {
+      "id": "0204Trial10_Hanna007",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial10_Hanna007|",
+      "ja": "それに<br>普段のあなたたちの言動が<br>見られていないとでも<br>思ってますの！？",
+      "zh": "而且你以为<br>\n你们平时的言行举止<br>\n大家看不到吗！？<br>",
+      "vi": "Và bạn đã nghĩ Những lời nói và hành động thông thường của bạn Bạn không thể nhìn thấy nó à? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna008",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial10_Hanna008|",
+      "ja": "あなたはエマさんを<br>嫌っていたし、<br>エマさんもあなたを<br><link=\"Objection_02_04_10_04\">嫌っていた</link>……！",
+      "zh": "你讨厌艾玛，<br>\n艾玛也<br>\n<link=\"Objection_02_04_10_04\">讨厌</link>你……！<br>",
+      "vi": "Bạn ghét Ema, Ema cũng <link=\"Objection_02_04_10_04\"> ghét </link> bạn...!",
+      "objection_links": [
+        "Objection_02_04_10_04"
+      ]
+    },
+    {
+      "id": "0204Trial10_Hanna009",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial10_Hanna009|",
+      "ja": "なら殺す動機なんて<br>十分でしょう！",
+      "zh": "那杀人动机<br>\n不就足够了吗！",
+      "vi": "Động cơ giết ngươi Như vậy chưa đủ sao!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna010",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial10_Hanna010|",
+      "ja": "あらゆる面において、<br>わたくしよりもあなたの方が<br>犯人としてふさわしいわ！",
+      "zh": "无论从哪个方面看，<br>\n比起我来，<br>\n你才更像凶手！",
+      "vi": "Dù bạn nhìn nó theo cách nào, So với Bổn tiểu thư, Bạn giống một kẻ sát nhân hơn!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro003|",
+      "ja": "（……耳が痛いな）",
+      "zh": "（……这话真刺耳啊）",
+      "vi": "(...Những lời này thực sự khắc nghiệt)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro004|",
+      "ja": "（私はエマを嫌悪していた……<br>　もしかしたら、エマもまた私を……）",
+      "zh": "（我曾经那么厌恶艾玛……<br>\n或许，艾玛看我也应如是……）",
+      "vi": "(Tôi đã từng rất ghét Ema... Có lẽ Ema cũng nên nhìn tôi như vậy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro005|",
+      "ja": "（だが……今は後悔している場合じゃない）",
+      "zh": "（但……现在不是后悔的时候）",
+      "vi": "(Nhưng... giờ không phải lúc hối hận)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro006|",
+      "ja": "（ハンナを追い詰める証拠……<br>　もしくは何らかの証言……）",
+      "zh": "（有没有什么能逼出汉娜的证据……<br>\n或者是证词……）",
+      "vi": "(Có bằng chứng nào có thể buộc Hanna ra ngoài không... Hoặc một lời chứng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro007|",
+      "ja": "（仮に嘘であったとしても、<br>　彼女に突きつけてみせる……！）",
+      "zh": "（即使不得不捏造，<br>\n也要摆在她面前……！）",
+      "vi": "(Ngay cả khi tôi phải bịa ra, Còn đặt nó trước mặt cô ấy nữa...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Choice001",
+      "speaker_tag": "; > @choice |#0204Trial10_Choice001| button:ChoiceButtons/Trial/Question handler:TrialHiro",
+      "ja": "レイアを殺す動機は？",
+      "zh": "有杀害蕾雅的动机？",
+      "vi": "Có động cơ giết Leia không?",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Choice002",
+      "speaker_tag": "; > @choice |#0204Trial10_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "ハンナが犯人なのは明白な事実",
+      "zh": "汉娜是凶手已经板上钉钉",
+      "vi": "Hanna là kẻ giết người. Đó là một điều chắc chắn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Choice003",
+      "speaker_tag": "; > @choice |#0204Trial10_Choice003| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "知り合いではない",
+      "zh": "并不认识",
+      "vi": "không biết",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Choice004",
+      "speaker_tag": "; > @choice |#0204Trial10_Choice004| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "エマはハンナを好きだった",
+      "zh": "艾玛喜欢汉娜",
+      "vi": "Ema thích Hanna",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Choice005",
+      "speaker_tag": "; > @choice |#0204Trial10_Choice005| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "仲直りした",
+      "zh": "我们已经和好了",
+      "vi": "chúng tôi đã hòa giải",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro008|",
+      "ja": "【エマを殺す動機はない】……と言ったが。",
+      "zh": "你说自己【没有杀害艾玛的动机】……对吧。",
+      "vi": "Anh nói anh [không có động cơ giết Ema]...phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro009",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro009|",
+      "ja": "それなら、レイアを殺す動機はあったということかな？",
+      "zh": "那么，意思是你有杀害蕾雅的动机？",
+      "vi": "Vậy điều đó có nghĩa là anh có động cơ giết Leia?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna011",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna011|",
+      "ja": "……っ！<br>そ、そんなの言葉の綾ですわ！",
+      "zh": "……！<br>\n你、你这是故意抠我的字眼！",
+      "vi": "...! Ngươi, ngươi đang cố ý bắt chước lời nói của Bổn tiểu thư!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna012",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna012|",
+      "ja": "あるわけが……ありません……！",
+      "zh": "怎么可能……会有动机……！",
+      "vi": "Làm sao có thể...có động cơ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Alisa001",
+      "speaker_tag": "; > Alisa: |#0204Trial10_Alisa001|",
+      "ja": "……動機、か。",
+      "zh": "……杀人动机、吗。",
+      "vi": "...Động cơ của vụ giết người?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Alisa002",
+      "speaker_tag": "; > Alisa: |#0204Trial10_Alisa002|",
+      "ja": "２人の死体……。<br>本命はどっちだったんだろうな。",
+      "zh": "两具尸体……<br>\n真正的目标会是谁呢。",
+      "vi": "Hai xác chết... Ai sẽ là mục tiêu thực sự?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Sherry001",
+      "speaker_tag": "; > Sherry: |#0204Trial10_Sherry001|",
+      "ja": "……それが何か、事件に関係あるんでしょうか。",
+      "zh": "……这和案件有什么关系吗。",
+      "vi": "...Việc này có liên quan gì đến vụ án không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Sherry002",
+      "speaker_tag": "; > Sherry: |#0204Trial10_Sherry002|",
+      "ja": "２人のどちらを殺そうとしたかなんて、<br>今となってはどうでもいいじゃないですか。",
+      "zh": "无论凶手的目标是她们两个中的哪一个，<br>\n事到如今都无所谓了吧。",
+      "vi": "Bất kể kẻ sát nhân đang nhắm tới ai trong số họ, Bây giờ nó không quan trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Miria001",
+      "speaker_tag": "; > Miria: |#0204Trial10_Miria001|",
+      "ja": "……で、でも……。",
+      "zh": "……但、但是……",
+      "vi": "...nhưng, nhưng...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Miria002",
+      "speaker_tag": "; > Miria: |#0204Trial10_Miria002|",
+      "ja": "なんの為に殺されたのかは……<br>知っておきたいよ。",
+      "zh": "我想知道……<br>\n她们到底为什么会被杀害啊。",
+      "vi": "Miria muốn biết... Tại sao họ lại bị giết?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro010",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro010|",
+      "ja": "（……動機、か）",
+      "zh": "（……动机、吗）",
+      "vi": "(…động cơ?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro011",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro011|",
+      "ja": "（エマを殺した凶器から考えれば<br>　先に殺されたのはレイアということになる）",
+      "zh": "（从杀害艾玛的凶器来看，<br>\n先被杀害的应该是蕾雅）",
+      "vi": "(Xét về vũ khí giết người đã giết chết Ema, Người bị giết đầu tiên có lẽ là Leya)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro012",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro012|",
+      "ja": "（レイアが犯人の狙い通りに殺されたのだとしたら……<br>　エマが殺された原因は……）",
+      "zh": "（如果凶手的意图本来是杀害蕾雅……<br>\n那么艾玛被杀的原因是……）",
+      "vi": "(Nếu ý định của kẻ sát nhân là giết Leia... Vậy lý do tại sao Ema bị giết là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro013",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro013|",
+      "ja": "妄想なものか。",
+      "zh": "怎么会是妄想。",
+      "vi": "Làm sao có thể là ảo tưởng được?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro014",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro014|",
+      "ja": "ドレスを使ったトリック、浮遊魔法の所持者、<br>死体発見前にエレベーターに乗った順番――。",
+      "zh": "利用礼服实现诡计、拥有飘浮魔法、<br>\n发现尸体前乘坐电梯的顺序——",
+      "vi": "Dùng chiếc váy để thực hiện các thủ thuật, thực hiện phép thuật bay lên, Trình tự đi thang máy trước khi phát hiện ra thi thể——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro015",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro015|",
+      "ja": "すべての証拠が<br>君を犯人だと物語っているんだ、ハンナ。",
+      "zh": "所有的证据都在指向你。<br>\n你就是凶手，汉娜。",
+      "vi": "Tất cả các bằng chứng chỉ vào bạn. Cô là kẻ giết người, Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna013",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna013|",
+      "ja": "そんなものは証拠になりません！！",
+      "zh": "那些根本不能算证据！！",
+      "vi": "Đó hoàn toàn không phải là bằng chứng! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna014",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna014|",
+      "ja": "トリックなんて使わなくても<br>あなたが犯人であれば丸く収まるんです……！",
+      "zh": "就算不用什么诡计，<br>\n只要你是凶手，一切就都完美解决了……！",
+      "vi": "Ngay cả khi không có bất kỳ thủ đoạn nào, Chỉ cần bạn là kẻ sát nhân, mọi chuyện sẽ được giải quyết một cách hoàn hảo...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna015",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna015|",
+      "ja": "あなたが言っているのは全部、<br>【あなたが犯人じゃない場合に限った推理】でしょう！",
+      "zh": "你说的这些，全部都是<br>\n【只有在你不是凶手的情况下才成立的推理】吧！",
+      "vi": "Tất cả những gì bạn nói đều là [Lý luận này chỉ có tác dụng nếu bạn không phải là kẻ sát nhân] Đúng rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna016",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna016|",
+      "ja": "いい加減、自白なさったらいかが！？",
+      "zh": "你还不快点自首！？",
+      "vi": "Sao bạn không nhanh chóng đầu hàng đi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro016",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro016|",
+      "ja": "（たしかに状況証拠ばかりで<br>　攻めきれないか……）",
+      "zh": "（尽是些间接证据，<br>\n看来不足以击垮她……）",
+      "vi": "(Đây đều là bằng chứng gián tiếp, Có vẻ như chưa đủ để đánh bại cô ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro017",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro017|",
+      "ja": "（……しかしハンナは明らかに動揺している）",
+      "zh": "（……但是汉娜明显情绪波动很大）",
+      "vi": "(…nhưng rõ ràng là Hanna có tâm trạng thất thường)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro018",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro018|",
+      "ja": "（明確な証拠を突きつけるのが無理なら――）",
+      "zh": "（如果无法拿出明确的证据——）",
+      "vi": "(Nếu không có bằng chứng rõ ràng——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro019",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro019|",
+      "ja": "（……その心を責めるべきかもしれない）",
+      "zh": "（……或许应该苛责她的内心）",
+      "vi": "(…có lẽ cô ấy nên bị chỉ trích gay gắt trong lòng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro020",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro020|",
+      "ja": "……私とエマは知り合いなんかじゃないよ。",
+      "zh": "……我和艾玛以前根本不认识。",
+      "vi": "… Ema và tôi không hề biết nhau trước đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro021",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro021|",
+      "ja": "この牢屋敷で初めて出会ったんだ。<br>なんの因縁もない……彼女への殺す動機も、ない。",
+      "zh": "我们第一次见面就是来到这座监牢。<br>\n在此之前没有任何瓜葛……自然也没有杀害她的动机。",
+      "vi": "Lần đầu tiên chúng tôi gặp nhau là ở Ngục Dinh Thự này. Trước đó không có mối liên hệ nào... và đương nhiên không có động cơ giết cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna017",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna017|",
+      "ja": "ウソつき……！",
+      "zh": "你骗人……！",
+      "vi": "Bạn đã nói dối...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna018",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna018|",
+      "ja": "エマさんが言ってたわ！<br>２人は幼少期からの知り合いだと！",
+      "zh": "艾玛说过的！<br>\n你们两个从小就认识！",
+      "vi": "Ema đã nói rồi! Hai ngươi quen nhau từ nhỏ!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro022",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro022|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Sherry003",
+      "speaker_tag": "; > Sherry: |#0204Trial10_Sherry003|",
+      "ja": "……そうですね。<br>何かしらの関係はあるように見えました。",
+      "zh": "……对啊。<br>\n她们两个一看就有什么关系。",
+      "vi": "...đúng. Hai người họ đã có gì đó liên quan đến nhau ngay từ cái nhìn đầu tiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna019",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna019|",
+      "ja": "ヒロさん、<br>どうしてそんなウソをつくんですの！",
+      "zh": "希罗，<br>\n你为什么要撒这种谎！",
+      "vi": "Anh hùng, Tại sao bạn lại nói dối như vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Alisa003",
+      "speaker_tag": "; > Alisa: |#0204Trial10_Alisa003|",
+      "ja": "……少なくとも、同室の関係ではあるだろ。",
+      "zh": "……至少，是同住一间牢房的关系吧。",
+      "vi": "…Ít nhất, đó là mối quan hệ giữa việc sống trong cùng một phòng giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna020",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna020|",
+      "ja": "きっとヒロさんは……エマさんを憎んでいたんですわ！",
+      "zh": "希罗一定……憎恨着艾玛！",
+      "vi": "Hiro chắc hẳn... ghét Ema!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna021",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna021|",
+      "ja": "だから殺したんです！",
+      "zh": "所以才杀了她！",
+      "vi": "Đó là lý do Bổn tiểu thư giết ngươi ấy!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro023",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro023|",
+      "ja": "（くっ……。<br>　エマとの関係を偽証したところで<br>　通じはしないか……）",
+      "zh": "（可恶……<br>\n看来捏造和艾玛的关系<br>\n是行不通的……）",
+      "vi": "(Chết tiệt... Có vẻ như mối quan hệ với Ema là bịa đặt Nó sẽ không hoạt động…)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro024",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro024|",
+      "ja": "（……しかしハンナは明らかに動揺している）",
+      "zh": "（……但是汉娜明显情绪波动很大）",
+      "vi": "(…nhưng rõ ràng là Hanna có tâm trạng thất thường)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro025",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro025|",
+      "ja": "（明確な証拠を突きつけるのが無理なら――）",
+      "zh": "（如果无法拿出明确的证据——）",
+      "vi": "(Nếu không có bằng chứng rõ ràng——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro026",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro026|",
+      "ja": "（……その心を責めるべきかもしれない）",
+      "zh": "（……或许应该苛责她的内心）",
+      "vi": "(…có lẽ cô ấy nên bị chỉ trích gay gắt trong lòng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro027",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro027|",
+      "ja": "エマとは……仲直りしたよ。",
+      "zh": "我和艾玛……已经和好了。",
+      "vi": "Ema và tôi... đã hòa giải.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro028",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro028|",
+      "ja": "殺す気なんてないし……<br>……エマも、私のことを嫌ってなど……いなかった。",
+      "zh": "我根本没有杀她的想法……<br>\n……艾玛也，并没有……讨厌我。",
+      "vi": "Tôi không có ý định giết cô ấy... ...Ema cũng không...ghét tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Miria003",
+      "speaker_tag": "; > Miria: |#0204Trial10_Miria003|",
+      "ja": "お、おじさんにはそこまでわかんないけど……。",
+      "zh": "大叔我、虽然不太清楚你们的事……",
+      "vi": "Bác ơi, tuy cháu chưa biết nhiều về bác...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Miria004",
+      "speaker_tag": "; > Miria: |#0204Trial10_Miria004|",
+      "ja": "２人の関係が難しいのは……<br>なんとなくわかったよ。",
+      "zh": "但也能察觉到……<br>\n你和艾玛的关系很复杂。",
+      "vi": "Nhưng Miria cũng có thể nhận thấy... Mối quan hệ của bạn với Ema rất phức tạp.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna022",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna022|",
+      "ja": "あなたとエマさんは争ったことだってありましたわ！",
+      "zh": "你和艾玛甚至还争执过！",
+      "vi": "Bạn và Ema thậm chí còn cãi nhau!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna023",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna023|",
+      "ja": "そんなあなたの言う事など……信憑性がありません！",
+      "zh": "现在你来说这些……根本不可信！",
+      "vi": "Bây giờ những gì bạn đang nói... đơn giản là không thể tin được!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro029",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro029|",
+      "ja": "（くっ……。<br>　エマとの関係を偽証したところで<br>　通じはしないか……）",
+      "zh": "（可恶……<br>\n看来捏造和艾玛的关系<br>\n是行不通的……）",
+      "vi": "(Chết tiệt... Có vẻ như mối quan hệ với Ema là bịa đặt Nó sẽ không hoạt động…)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro030",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro030|",
+      "ja": "（……しかしハンナは明らかに動揺している）",
+      "zh": "（……但是汉娜明显情绪波动很大）",
+      "vi": "(…nhưng rõ ràng là Hanna có tâm trạng thất thường)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro031",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro031|",
+      "ja": "（明確な証拠を突きつけるのが無理なら――）",
+      "zh": "（如果无法拿出明确的证据——）",
+      "vi": "(Nếu không có bằng chứng rõ ràng——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro032",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro032|",
+      "ja": "（……その心を責めるべきかもしれない）",
+      "zh": "（……或许应该苛责她的内心）",
+      "vi": "(…có lẽ cô ấy nên bị chỉ trích gay gắt trong lòng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro033",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro033|",
+      "ja": "……残念だよ。",
+      "zh": "……真遗憾。",
+      "vi": "……thật đáng tiếc.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna024",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna024|",
+      "ja": "……え？",
+      "zh": "……欸？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro034",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro034|",
+      "ja": "たしかに私たちの関係は、<br>良好だったとは言えない。",
+      "zh": "确实我和艾玛的关系，<br>\n说不上很好。",
+      "vi": "Quả thực mối quan hệ của tôi với Ema, Không tốt lắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro035",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro035|",
+      "ja": "だが……エマは、君を好きだったんだ。<br>それはまるで……親友のように。",
+      "zh": "但是……艾玛，她真的很喜欢你。<br>\n几乎是……把你当作挚友。",
+      "vi": "Nhưng...Ema, cô ấy thực sự thích bạn. Gần như... đối xử với bạn như một người bạn tốt nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna025",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna025|",
+      "ja": "な、何を……！",
+      "zh": "你、你在说什么……！",
+      "vi": "C-bạn đang nói về cái gì vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro036",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro036|",
+      "ja": "仲間として、信頼できる存在だと……<br>友だちだと言っていた。",
+      "zh": "艾玛曾经说过，你是她的伙伴……<br>\n是值得信赖的朋友。",
+      "vi": "Ema từng nói rằng bạn là cộng sự của cô ấy... Hãy là một người bạn đáng tin cậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro037",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro037|",
+      "ja": "その証拠だってある。",
+      "zh": "而且，有证据可以证明。",
+      "vi": "Và có bằng chứng để chứng minh điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro038",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro038|",
+      "ja": "エマが君のことを友人だと思っていた証拠、<br>それは――。",
+      "zh": "艾玛视你为朋友的证据，<br>\n那就是——",
+      "vi": "Bằng chứng cho thấy Ema coi bạn là bạn, Đó là——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro039",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro039|",
+      "ja": "…………エマの死体を思い出すんだ。",
+      "zh": "…………回想一下艾玛的尸体吧。",
+      "vi": "........Hãy nghĩ lại cơ thể của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro040",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro040|",
+      "ja": "彼女の死体には、<br>抵抗の跡が見られなかった。",
+      "zh": "她的尸体上，<br>\n看不到曾经抵抗过的痕迹。",
+      "vi": "Trên cơ thể cô ấy, Không có dấu vết kháng cự có thể được nhìn thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro041",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro041|",
+      "ja": "友人のハンナを信じていたからこそ……<br>警戒することも出来ず、刺されたんじゃないか？",
+      "zh": "正因为她信任汉娜这个朋友……<br>\n所以才连警惕都来不及，就惨遭杀害了吧？",
+      "vi": "Chỉ vì cô ấy tin tưởng Hanna như một người bạn... Đó là lý do tại sao anh ta bị giết một cách dã man mà không kịp cảnh giác đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna026",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna026|",
+      "ja": "……そ、そんなのこじつけだわ……！",
+      "zh": "……那、那只是牵强附会……！",
+      "vi": "...Điều đó, điều đó thật xa vời...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna027",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna027|",
+      "ja": "レイピアで刺されたら、<br>抵抗出来ないまま死ぬ人だっているはずだし……！！",
+      "zh": "如果身中刺剑，<br>\n肯定也有人会来不及抵抗就咽气的……！！",
+      "vi": "Nếu bạn bị kiếm đâm, Chắc chắn sẽ có ngươi chết trước khi kịp phản kháng...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna028",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna028|",
+      "ja": "それに、エマさんは誰に対しても優しくて……<br>わたくしだけじゃなく、あなたのことだって……！",
+      "zh": "而且，艾玛小姐对每个人都很友善……<br>\n不只是对我这样，对你也是一样……！",
+      "vi": "Hơn nữa, ngươi Ema rất tốt với mọi ngươi... Không chỉ cho Bổn tiểu thư mà còn cho cả bạn nữa...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna029",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna029|",
+      "ja": "なのにあなたはエマさんに冷たくしていた！",
+      "zh": "但是你却那么冰冷地对待艾玛！",
+      "vi": "Nhưng bạn đối xử với Ema quá lạnh lùng!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna030",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna030|",
+      "ja": "あなたが殺したんだわ！",
+      "zh": "是你杀了她！",
+      "vi": "Chính anh đã giết ngươi ấy!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro042",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro042|",
+      "ja": "（……たしかに、エマはみんなのことを信じていた）",
+      "zh": "（……艾玛确实相信这里的每一个人）",
+      "vi": "(…Ema tin mọi người ở đây)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro043",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro043|",
+      "ja": "（……ハンナを追い詰める材料……何かないか）",
+      "zh": "（……还有没有别的什么材料……能够把汉娜的话逼出来）",
+      "vi": "(…Có tài liệu nào khác…có thể buộc Hanna phải nói ra không)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna031",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna031|",
+      "ja": "それがなんだっていうんですの！？",
+      "zh": "那有什么意义吗！？",
+      "vi": "Ý nghĩa của việc đó là gì! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna032",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna032|",
+      "ja": "あなたはそうやって自分の犯行を誤魔化すために、<br>丸め込もうとしているだけだわ！",
+      "zh": "你不过是在误导大家相信你，<br>\n试图掩盖自己的罪行罢了！",
+      "vi": "Bạn chỉ đang đánh lừa mọi ngươi để tin bạn, Chỉ muốn che đậy tội ác của Bổn tiểu thư mà thôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro044",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro044|",
+      "ja": "（もう一度、選び直そう……）",
+      "zh": "（重新选择证据吧……）",
+      "vi": "(Hãy chọn lại bằng chứng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro045",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro045|",
+      "ja": "（……ハンナを追い詰める材料……何かないか）",
+      "zh": "（……还有没有别的什么材料……能够把汉娜的话逼出来）",
+      "vi": "(…Có tài liệu nào khác…có thể buộc Hanna phải nói ra không)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro046",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro046|",
+      "ja": "エマが肌身離さず持っていた人形……<br>これがその証拠だよ。",
+      "zh": "艾玛一直携带着，从不离身的这个人偶……<br>\n就是证据。",
+      "vi": "Ema luôn mang theo con búp bê này bên mình và không bao giờ rời khỏi cơ thể mình... Đó là bằng chứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna033",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna033|",
+      "ja": "え……？ そ、それは……。",
+      "zh": "欸……？那、那是……",
+      "vi": "Ủa...? Đó, đó là...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro047",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro047|",
+      "ja": "彼女は気丈に振る舞っていたものの、<br>この牢屋敷に連れてこられて心底不安だったんだ。",
+      "zh": "她虽然表现得很坚强，<br>\n但被关进这个监牢以后，内心一直惴惴不安。",
+      "vi": "Mặc dù cô ấy hành động rất mạnh mẽ nhưng Nhưng sau khi bị giam ở Ngục Dinh Thự này, trong lòng tôi lại cảm thấy bất an.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro048",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro048|",
+      "ja": "疑心暗鬼と恐怖に苛まれる中、<br>彼女が心の拠り所にしていたもの……。",
+      "zh": "在充满猜忌和恐惧的日子里，<br>\n她内心的寄托就是……",
+      "vi": "Trong những ngày đầy nghi ngờ và sợ hãi, Nguồn nuôi dưỡng trái tim cô ấy là...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro049",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro049|",
+      "ja": "……それがこの人形だよ、ハンナ。",
+      "zh": "……就是这个人偶啊，汉娜。",
+      "vi": "…Là con búp bê này, Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna034",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna034|",
+      "ja": "そ……そんな……！",
+      "zh": "怎、怎么会……！",
+      "vi": "Làm sao, làm sao có thể...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro050",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro050|",
+      "ja": "牢屋敷でできた<br>一番仲の良い友だちに作ってもらった人形……。",
+      "zh": "正是在监牢中结交的，最好的朋友<br>\n亲手为她做的这个人偶……",
+      "vi": "Chính trong tù mà tôi đã quen được người bạn thân nhất của mình Con búp bê này tôi làm cho cô ấy...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro051",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro051|",
+      "ja": "だからこそ彼女は<br>この人形をずっと持ち歩いていた。",
+      "zh": "所以她才<br>\n走到哪里都带着这个人偶啊。",
+      "vi": "Đó là lý do tại sao cô ấy Tôi mang theo con búp bê này mọi lúc mọi nơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro052",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro052|",
+      "ja": "――死のその瞬間まで！",
+      "zh": "——直到死亡降临的那一刻！",
+      "vi": "---Cho đến khi cái chết đến!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna035",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna035|",
+      "ja": "う、うそ……！<br>そんなこと……！",
+      "zh": "骗、骗人……！<br>\n这怎么可能……！",
+      "vi": "Nói dối, nói dối...! Làm sao điều này có thể xảy ra...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro053",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro053|",
+      "ja": "……エマは友人が少なかったしね。",
+      "zh": "……毕竟艾玛的朋友很少。",
+      "vi": "...Rốt cuộc, Ema có rất ít bạn bè.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro054",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro054|",
+      "ja": "もしかすると、君が生涯で一番の友だちだったのかもしれないよ。<br>……ハンナ。",
+      "zh": "或许，你就是她一生中最好的朋友也说不定。<br>\n……汉娜。",
+      "vi": "Có lẽ bạn là người bạn tốt nhất của cô ấy trong cuộc sống. ...Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna036",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna036|",
+      "ja": "あ……あ……！",
+      "zh": "啊……啊……！",
+      "vi": "À... à...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro055",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro055|",
+      "ja": "だから……許せないんだ。",
+      "zh": "所以……我无法原谅。",
+      "vi": "Vì thế... tôi không thể tha thứ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro056",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro056|",
+      "ja": "そんな君が、エマを裏切ったことが！",
+      "zh": "这样的你，竟背叛了艾玛！",
+      "vi": "Bạn, như thế này, đã phản bội Ema!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna037",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna037|",
+      "ja": "ち、ちが……わた……くし……。",
+      "zh": "不、不……我……我……",
+      "vi": "Không, không...Bổn tiểu thư...Bổn tiểu thư...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro057",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro057|",
+      "ja": "（……嘘だ）",
+      "zh": "（……我撒谎了）",
+      "vi": "(...Tôi đã nói dối)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro058",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro058|",
+      "ja": "（エマはそんなこと、<br>　言っていない）",
+      "zh": "（艾玛<br>\n并没有那样说过）",
+      "vi": "(Ema (Tôi không nói điều đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro059",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro059|",
+      "ja": "（人形を喜んでいたのは事実だが……）",
+      "zh": "（她很喜欢那个人偶是事实……）",
+      "vi": "(Sự thật là cô ấy rất thích con búp bê đó…)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro060",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro060|",
+      "ja": "（とはいえ、そこまでおおげさではなかった）",
+      "zh": "（但也没有夸张到这种地步）",
+      "vi": "(Nhưng nó không phóng đại đến mức này)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro061",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro061|",
+      "ja": "（死人の感情を偽証するなんて……<br>　悪趣味なのはわかっている）",
+      "zh": "（竟然捏造死者的感情……<br>\n我知道这很卑鄙）",
+      "vi": "(Anh ta thậm chí còn bịa đặt cảm xúc của người đã khuất... Tôi biết nó có ý nghĩa)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro062",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro062|",
+      "ja": "（……だがそれでも、<br>　真犯人を追い詰めるためなら……！）",
+      "zh": "（……但我宁可行卑鄙之事，<br>\n也要把真凶逼出水面……！）",
+      "vi": "(…nhưng tôi thích làm những điều xấu xa hơn, Chúng ta cũng phải đuổi thủ phạm thực sự ra khỏi nước...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna038",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna038|",
+      "ja": "わたくしは……わたくしは……。",
+      "zh": "我……我……",
+      "vi": "Bổn tiểu thư...Bổn tiểu thư...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna039",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna039|",
+      "ja": "そんなつもりじゃ……なかった、のに……。",
+      "zh": "我根本……不想的……",
+      "vi": "Đơn giản là Bổn tiểu thư...không muốn...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna040",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna040|",
+      "ja": "違う……違うの……わたくしは。",
+      "zh": "不是的……不是的……我、",
+      "vi": "Không...không...Bổn tiểu thư,",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna041",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna041|",
+      "ja": "エマさんまで殺すつもりなんて……なかった……！",
+      "zh": "我根本就……没打算把艾玛也杀了……！",
+      "vi": "Bổn tiểu thư không hề có ý định giết Ema...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna042",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna042|",
+      "ja": "……これは………事故……！<br>そう、事故だったの……！",
+      "zh": "……这是……一场事故……！<br>\n对，是不幸的事故……！",
+      "vi": "...Đây là...một tai nạn...! Vâng, đó là một tai nạn đáng tiếc...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna043",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna043|",
+      "ja": "わたくしは……悪く……ない……！",
+      "zh": "我才……没有……错……！",
+      "vi": "Bổn tiểu thư...không...sai...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hiro063",
+      "speaker_tag": "; > Hiro: |#0204Trial10_Hiro063|",
+      "ja": "ハンナ……君が、２人を――。",
+      "zh": "汉娜……是你，将她们两人——",
+      "vi": "Hanna...là em, hai người họ -",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna044",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna044|",
+      "ja": "――違うの！！ わたくしは――！",
+      "zh": "——不对！！我——！",
+      "vi": "--Không! ! Bổn tiểu thư--!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna045",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna045|",
+      "ja": "――殺すつもりじゃ、なかったの！！！",
+      "zh": "——我根本没打算杀人的！！！",
+      "vi": "---Bổn tiểu thư không hề có ý định giết ai cả! ! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Sherry004",
+      "speaker_tag": "; > Sherry: |#0204Trial10_Sherry004|",
+      "ja": "……ああ。",
+      "zh": "……啊啊。",
+      "vi": "...ahhh.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Sherry005",
+      "speaker_tag": "; > Sherry: |#0204Trial10_Sherry005|",
+      "ja": "ハンナさん……<br>あなたでは支えきれなかったんですね。<br>――その罪の十字架は。",
+      "zh": "汉娜……<br>\n看来你一人已经无法背负下去了。<br>\n——那罪孽的十字架。",
+      "vi": "Hanna... Có vẻ như bạn không còn có thể gánh gánh nặng một mình nữa. -Thập giá tội lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna046",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna046|",
+      "ja": "わた……くし……は……。",
+      "zh": "我……我……是……",
+      "vi": "Bổn tiểu thư...Bổn tiểu thư...là...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Sherry006",
+      "speaker_tag": "; > Sherry: |#0204Trial10_Sherry006|",
+      "ja": "……お疲れ様でした。",
+      "zh": "……你辛苦了。",
+      "vi": "...Bạn đã làm việc chăm chỉ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna047",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna047|",
+      "ja": "ちが……うの……。",
+      "zh": "我没……有……",
+      "vi": "Bổn tiểu thư không... có...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial10_Hanna048",
+      "speaker_tag": "; > Hanna: |#0204Trial10_Hanna048|",
+      "ja": "しん……じて……。",
+      "zh": "相……信我……",
+      "vi": "Hãy tin...tin Bổn tiểu thư đi...",
+      "objection_links": []
+    }
+  ]
+}

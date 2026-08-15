@@ -1,0 +1,28 @@
+# Game Binaries and Assets (Copyrighted / Large Files)
+manosaba_Data/
+D3D12/
+backups/
+*.exe
+*.dll
+*.dll.original
+*.original
+steam_appid.txt
+
+# Python & IDE Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+.venv/
+env/
+venv/
+
+# Scratch & temporary folders
+tools/extracted_ui_images/
+tools/archive/
+
+# OS specific files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store

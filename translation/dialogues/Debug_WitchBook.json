@@ -1,0 +1,184 @@
+{
+  "bundle": "general-localization-zhhans-scripts-debug_assets_all.bundle",
+  "script_name": "Debug_WitchBook",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Debug/Debug_WitchBook' Naninovel scenario script",
+  "total_entries": 22,
+  "entries": [
+    {
+      "id": "~843ebade",
+      "speaker_tag": "",
+      "ja": "Debug_WitchBook # Screen",
+      "zh": "",
+      "vi": "Debug_WitchBook # Screen",
+      "objection_links": []
+    },
+    {
+      "id": "~f9412bb9",
+      "speaker_tag": "",
+      "ja": "Screen presented.",
+      "zh": "",
+      "vi": "Screen presented.",
+      "objection_links": []
+    },
+    {
+      "id": "~c3d4ca71",
+      "speaker_tag": "",
+      "ja": "2",
+      "zh": "",
+      "vi": "2",
+      "objection_links": []
+    },
+    {
+      "id": "~2ab5cbf2",
+      "speaker_tag": "",
+      "ja": "Debug_WitchBook # Screen ends.",
+      "zh": "",
+      "vi": "Debug_WitchBook # Screen ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~28b2305c",
+      "speaker_tag": "",
+      "ja": "Debug_WitchBook # Update",
+      "zh": "",
+      "vi": "Debug_WitchBook # Update",
+      "objection_links": []
+    },
+    {
+      "id": "~ed345ab3",
+      "speaker_tag": "",
+      "ja": "証拠品 更新<br>ID：1-1<br>Version：1",
+      "zh": "",
+      "vi": "Cập nhật sản phẩm chứng chỉ ID: 1-1 Phiên bản: 1",
+      "objection_links": []
+    },
+    {
+      "id": "~c71d3260",
+      "speaker_tag": "",
+      "ja": "証拠品 更新<br>ID：1-2<br>Version：1",
+      "zh": "",
+      "vi": "Cập nhật sản phẩm chứng chỉ ID: 1-2 Phiên bản: 1",
+      "objection_links": []
+    },
+    {
+      "id": "~48cb26c",
+      "speaker_tag": "",
+      "ja": "証拠品 更新<br>ID：1-1<br>Version：0（消失）",
+      "zh": "",
+      "vi": "Cập nhật sản phẩm chứng chỉ ID: 1-1 Phiên bản: 0 (đã biến mất)",
+      "objection_links": []
+    },
+    {
+      "id": "~d9ce6544",
+      "speaker_tag": "",
+      "ja": "証拠品 更新<br>ID：1-11<br>Version：1",
+      "zh": "",
+      "vi": "Cập nhật sản phẩm chứng chỉ ID: 1-11 Phiên bản: 1",
+      "objection_links": []
+    },
+    {
+      "id": "~841968e3",
+      "speaker_tag": "",
+      "ja": "証拠品 更新<br>ID：1-10<br>Version：1",
+      "zh": "",
+      "vi": "Cập nhật sản phẩm chứng chỉ ID: 1-10 Phiên bản: 1",
+      "objection_links": []
+    },
+    {
+      "id": "~c27262ee",
+      "speaker_tag": "",
+      "ja": "人物 更新<br>ID：Noah<br>Version：1",
+      "zh": "",
+      "vi": "Cập nhật nhân vật ID: Noah Phiên bản: 1",
+      "objection_links": []
+    },
+    {
+      "id": "~7b83b884",
+      "speaker_tag": "",
+      "ja": "人物 更新<br>ID：Ema<br>Version：1",
+      "zh": "",
+      "vi": "Cập nhật nhân vật ID: Ema Phiên bản: 1",
+      "objection_links": []
+    },
+    {
+      "id": "~4c8f74f7",
+      "speaker_tag": "",
+      "ja": "人物 更新<br>ID：AnAn<br>Version：1",
+      "zh": "",
+      "vi": "Cập nhật nhân vật ID: AnAn Phiên bản: 1",
+      "objection_links": []
+    },
+    {
+      "id": "~1606220f",
+      "speaker_tag": "",
+      "ja": "Debug_WitchBook # Update ends.",
+      "zh": "",
+      "vi": "Debug_WitchBook # Update ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~fb78f3c6",
+      "speaker_tag": "",
+      "ja": "Debug_WitchBook # Evidence",
+      "zh": "",
+      "vi": "Debug_WitchBook # Evidence",
+      "objection_links": []
+    },
+    {
+      "id": "~865c4488",
+      "speaker_tag": "",
+      "ja": "魔女図鑑画面/証拠品を開きます。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~cb821912",
+      "speaker_tag": "",
+      "ja": "不正解（証拠品）",
+      "zh": "",
+      "vi": "Giải pháp không chính xác (chứng chỉ)",
+      "objection_links": []
+    },
+    {
+      "id": "~a967d3d6",
+      "speaker_tag": "",
+      "ja": "正解（証拠品）",
+      "zh": "",
+      "vi": "Giải pháp đúng (chứng nhận)",
+      "objection_links": []
+    },
+    {
+      "id": "~3cc522e9",
+      "speaker_tag": "",
+      "ja": "魔女図鑑画面/人物を開きます。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~94830d32",
+      "speaker_tag": "",
+      "ja": "不正解（人物）",
+      "zh": "",
+      "vi": "Giải pháp không chính xác (ký tự)",
+      "objection_links": []
+    },
+    {
+      "id": "~ea52ae0b",
+      "speaker_tag": "",
+      "ja": "正解（人物）",
+      "zh": "",
+      "vi": "Câu trả lời đúng (ký tự)",
+      "objection_links": []
+    },
+    {
+      "id": "~3df9ef24",
+      "speaker_tag": "",
+      "ja": "Debug_WitchBook # Evidence ends.",
+      "zh": "",
+      "vi": "Debug_WitchBook # Evidence ends.",
+      "objection_links": []
+    }
+  ]
+}

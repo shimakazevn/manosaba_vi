@@ -1,0 +1,712 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter04_Adv02",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter04/Act01_Chapter04_Adv02' Naninovel scenario script",
+  "total_entries": 88,
+  "entries": [
+    {
+      "id": "0104Adv02_Narrative001",
+      "speaker_tag": "",
+      "ja": "エマは湖方面へと走った。",
+      "zh": "艾玛朝着湖的方向跑了起来。",
+      "vi": "Ema chạy vội về phía khu vực bờ hồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema001",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema001|",
+      "ja": "やっぱり雪が降ってる……<br>ここだけどうして……。",
+      "zh": "真的在下雪……<br>\n为什么，只有这里……",
+      "vi": "Quả nhiên là tuyết đang rơi…… Tại sao lại chỉ có mỗi khu vực này là tuyết rơi chứ……",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative002",
+      "speaker_tag": "",
+      "ja": "湖畔に立つエマの目の前で、<br>しんしんと雪が降り、<ruby=\"はかな\">儚</ruby>く消えていく。",
+      "zh": "艾玛站在湖边，看着纷飞的雪花从天而降，<br>\n化为泡影逐渐消失。",
+      "vi": "Đứng bên bờ hồ, Ema nhìn từng bông tuyết trắng buốt rơi xuống rồi tan biến vào hư không.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative003",
+      "speaker_tag": "",
+      "ja": "おそらく長時間雪が降っているわけでもないのに、<br>湖は凍っていた。",
+      "zh": "雪应该没有下很久，<br>\n可湖面却结冰了。",
+      "vi": "Dù tuyết chỉ mới rơi nhưng cả mặt hồ đã đóng một lớp băng dày cộp.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative004",
+      "speaker_tag": "",
+      "ja": "他の場所では雪が降っている気配もなく、<br>この湖周辺だけ季節が切り取られたような光景だ。",
+      "zh": "其他地方并未下雪，<br>\n仿佛唯独这片湖泊附近的季节与四周完全不同。",
+      "vi": "Ở những khu vực khác quanh dinh thự hoàn toàn không có dấu hiệu của mùa đông. Cảnh tượng bên hồ trông như thể một lát cắt thời gian bị ma thuật đóng băng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa001",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa001|",
+      "ja": "花畑の虹と一緒だろ。",
+      "zh": "跟花田里的彩虹一样吧。",
+      "vi": "Giống như cầu vồng trên cánh đồng hoa.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa002",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa002|",
+      "ja": "きっと誰かの魔法の痕跡が残って、<br>何かがキッカケでおかしな現象を起こしてる。",
+      "zh": "肯定是有人在这里留下了魔法的痕迹，<br>\n然后因为某个契机触发了这个奇怪的现象。",
+      "vi": "Chắc hẳn ai đó đã để lại dấu vết ma thuật ở đây, Sau đó, một cơ hội nào đó đã gây ra hiện tượng kỳ lạ này.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema002",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema002|",
+      "ja": "――アリサちゃん！",
+      "zh": "——亚里沙！",
+      "vi": "——Alisa！",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative005",
+      "speaker_tag": "",
+      "ja": "いつの間にかエマの隣には、アリサが立っていた。",
+      "zh": "在不知不觉间，艾玛猛然发现亚里沙站在自己身旁。",
+      "vi": "Vô tình, Ema chợt thấy Alisa đang đứng cạnh mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa003",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa003|",
+      "ja": "桜羽も見に来たんだな。<br>ウチも遠くから見つけてさ。",
+      "zh": "樱羽也来看雪了啊。<br>\n我也是老远就看到这里下雪了。",
+      "vi": "Sakura Yu cũng đến xem tuyết. Tao cũng đã nhìn thấy tuyết rơi ở đây từ xa.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa004",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa004|",
+      "ja": "ウチ、よくここに来るんだ。<br>落ち着くから。",
+      "zh": "我经常会来这里。<br>\n这个地方能让我感到平静。",
+      "vi": "Tao đến đây thường xuyên. Nơi này khiến Tao cảm thấy bình yên.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema003",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema003|",
+      "ja": "アリサちゃん、よくここにいるもんね。",
+      "zh": "确实经常见你来这里。",
+      "vi": "Tôi thấy bạn ở đây khá thường xuyên.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa005",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa005|",
+      "ja": "ああ、今は凍っちまってるけど……<br>なるべく水のそばにいたくて。",
+      "zh": "是啊，虽然现在结冰了……<br>\n但我希望能尽量待在水边。",
+      "vi": "Có, mặc dù bây giờ nó đã bị đóng băng... Nhưng Tao muốn ở càng gần mặt nước càng tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema004",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema004|",
+      "ja": "それは、アリサちゃんの魔法と関係してる……？",
+      "zh": "这跟你的魔法有关系……？",
+      "vi": "Điều này có liên quan gì đến phép thuật của bạn không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative006",
+      "speaker_tag": "",
+      "ja": "アリサが地面に腰を降ろしたので、<br>エマも隣に座り、おそるおそる問いかけた。",
+      "zh": "看到亚里沙弯腰坐在地上，<br>\n艾玛也在她的旁边坐下，战战兢兢地问道。",
+      "vi": "Nhìn thấy Alisa cúi xuống ngồi dưới đất, Ema cũng ngồi xuống bên cạnh cô run rẩy hỏi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa006",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa006|",
+      "ja": "そうだな。ウチは自分のことが怖い。<br>自分のことが許せない。<br>大嫌いなんだよ、自分が。",
+      "zh": "嗯。我很害怕自己。<br>\n我无法原谅自己。<br>\n我啊，最讨厌自己了。",
+      "vi": "Ừm. Tao sợ chính Tao. Tao không thể tha thứ cho chính Tao. Tao ghét bản thân Tao nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative007",
+      "speaker_tag": "",
+      "ja": "アリサが遠くを見つめながら、<br>ぽつりぽつりと自分の過去を語りだした。",
+      "zh": "亚里沙眺望着远方，<br>\n开始一点一滴说起自己的过往。",
+      "vi": "Alisa nhìn về phía xa, Bắt đầu nói về quá khứ của bạn từng chút một.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative008",
+      "speaker_tag": "",
+      "ja": "それはきっと、彼女の禁忌――",
+      "zh": "这肯定就是，她的禁忌——",
+      "vi": "Đây hẳn là điều cấm kỵ của cô ấy——",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative009",
+      "speaker_tag": "",
+      "ja": "恵まれた家庭に育って、<br>穏やかな両親に愛を注がれて、<br>甘えきっていたのだと思う。",
+      "zh": "我自认为我家算是家境宽裕，<br>\n性格温和的父母向我倾注了足够多的爱，<br>\n对我宠爱有加。",
+      "vi": "Tôi coi gia đình mình tương đối khá giả, Cha mẹ tôi với tính cách hiền lành đã dành đủ tình yêu thương cho tôi, Yêu tôi rất nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative010",
+      "speaker_tag": "",
+      "ja": "良い子ちゃんとしてすくすく育って、<br>ほんの少しの抑圧から<br>些細な悪戯心が芽生えた。",
+      "zh": "父母尽心把我养育成一个乖孩子，<br>\n在这种不值一提的压抑下，<br>\n我的心里萌生了一点点想要捣蛋的想法。",
+      "vi": "Cha mẹ tôi đã cố gắng hết sức để nuôi dạy tôi thành một đứa trẻ ngoan, Trong cơn trầm cảm không đáng kể này, Một chút ý tưởng gây rắc rối chợt nảy ra trong đầu tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative011",
+      "speaker_tag": "",
+      "ja": "叱られたことがない。<br>だから叱られてみたい。",
+      "zh": "他们从来没有责骂过我。<br>\n所以我想要尝尝挨骂的滋味。",
+      "vi": "Họ chưa bao giờ la mắng tôi. Thế nên tôi muốn nếm mùi bị mắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative012",
+      "speaker_tag": "",
+      "ja": "たったそれだけの理由。",
+      "zh": "就只是因为这么一个理由。",
+      "vi": "Chỉ vì lý do này.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative013",
+      "speaker_tag": "",
+      "ja": "物の配置を変えた。<br>言い返してみた。<br>大切にしていたものを壊した。",
+      "zh": "擅自调换物品的摆放位置。<br>\n顶撞父母。<br>\n把父母一直很宝贝的东西弄坏。",
+      "vi": "Thay đổi vị trí của các mục mà không được phép. Đối đầu với bố mẹ. Phá vỡ một cái gì đó mà cha mẹ bạn luôn trân trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative014",
+      "speaker_tag": "",
+      "ja": "けれど両親は優しく、<br>ウチに決して辛く当たらなかった。",
+      "zh": "但我的父母总是很和蔼，<br>\n从来不会很严厉地呵斥我。",
+      "vi": "Nhưng bố mẹ tôi luôn rất tốt bụng, Anh ấy không bao giờ la mắng tôi một cách gay gắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative015",
+      "speaker_tag": "",
+      "ja": "どうして？<br>どうして叱ってくれないの？",
+      "zh": "为什么？<br>\n为什么他们都不骂我？",
+      "vi": "Tại sao? Tại sao họ không mắng tôi?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative016",
+      "speaker_tag": "",
+      "ja": "もしかして、愛してないの？<br>もしかして、興味がないの？",
+      "zh": "难不成他们根本不爱我？<br>\n难不成他们对我完全没有兴趣？",
+      "vi": "Có lẽ nào họ không yêu tôi chút nào? Phải chăng họ không hề có hứng thú với tôi?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative017",
+      "speaker_tag": "",
+      "ja": "もやもやした感情はねじれていき、<br>行為はエスカレートしていった。",
+      "zh": "这种杂乱烦闷的感情逐渐扭曲，<br>\n我的所作所为也渐渐激化。",
+      "vi": "Cảm giác lộn xộn và nhàm chán này dần bị bóp méo, Những gì tôi làm dần dần trở nên mạnh mẽ hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative018",
+      "speaker_tag": "",
+      "ja": "家出した。<br>万引きした。<br>薬物に溺れた。",
+      "zh": "我离家出走。<br>\n我去偷东西。<br>\n我沉溺于药物。",
+      "vi": "Tôi chạy trốn khỏi nhà. Tôi định ăn trộm thứ gì đó. Tôi đã nghiện ma túy.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative019",
+      "speaker_tag": "",
+      "ja": "それでも両親は怒らなかった。<br>肯定し、宥めて、受け入れてくれた。",
+      "zh": "可是父母依然没有生气。<br>\n他们肯定我，劝解我，接受我做过的一切。",
+      "vi": "Nhưng bố mẹ vẫn không giận. Họ đã khẳng định tôi, thuyết phục tôi và chấp nhận mọi việc tôi đã làm.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative020",
+      "speaker_tag": "",
+      "ja": "ピアスをたくさんあけた。<br>服も髪も不良めいたものにした。<br>暴力が日常になった。",
+      "zh": "我穿了一个又一个耳洞。<br>\n我换了发型和衣服，把自己弄得像个不良少女。<br>\n我施展暴力像吃饭一样稀松平常。",
+      "vi": "Tôi bị xỏ lỗ tai hết lần này đến lần khác. Tôi thay đổi kiểu tóc và quần áo để trông giống một cô gái hư. Bạo lực của tôi cũng phổ biến như việc ăn uống.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative021",
+      "speaker_tag": "",
+      "ja": "いつしか叱られることに<br>憧れすら抱いた。",
+      "zh": "心里甚至向往着，<br>\n希望能在哪一天受到他们的斥责。",
+      "vi": "Tôi thậm chí còn khao khát điều đó trong lòng, Tôi hy vọng một ngày nào đó sẽ bị họ khiển trách.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative022",
+      "speaker_tag": "",
+      "ja": "どこまでやったらウチを叱ってくれる？<br>ウチに罰を与えてくれる？",
+      "zh": "要离谱到什么程度他们才会骂我？<br>\n才会惩罚我？",
+      "vi": "Tôi phải tàn nhẫn đến mức nào để họ mắng tôi? Bạn sẽ trừng phạt tôi chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative023",
+      "speaker_tag": "",
+      "ja": "いつの間にか火を出せるようになっていたから、<br>その力を使って、家に火をつけた。",
+      "zh": "不知道从什么时候开始，我不借助外物也能生起火来，<br>\n于是我用这个能力，把我家点着了。",
+      "vi": "Tôi không biết từ khi nào mà tôi có thể thắp lửa mà không cần dùng bất kỳ vật bên ngoài nào, Vì thế tôi đã sử dụng khả năng này để đốt nhà mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative024",
+      "speaker_tag": "",
+      "ja": "生まれ育った家が、<br>目の前でぼろぼろと崩れ落ちていった。",
+      "zh": "我就眼睁睁地看着这座从小生活长大的家<br>\n慢慢烧毁崩塌。",
+      "vi": "Tôi vừa xem ngôi nhà nơi tôi lớn lên Đang cháy dần và sụp đổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative025",
+      "speaker_tag": "",
+      "ja": "――悲鳴が聞こえる。<br>両親が招いていた人が、火に巻かれて怯える声だ。",
+      "zh": "——我能听到一阵阵惨叫。<br>\n那是父母喊来的人被火焰吞没时因恐惧而发出的声音。",
+      "vi": "---Tôi có thể nghe thấy những tiếng hét vang lên. Đó là âm thanh phát ra từ sự sợ hãi khi người được cha mẹ gọi đến đang chìm trong biển lửa.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative026",
+      "speaker_tag": "",
+      "ja": "悪いことをした。<br>悪いことをできたんだ。",
+      "zh": "我做了坏事。<br>\n我终于，做出了坏事。",
+      "vi": "Tôi đã làm những điều xấu. Cuối cùng tôi đã làm điều gì đó tồi tệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative027",
+      "speaker_tag": "",
+      "ja": "近くにあった薬箱から、たくさんの薬を飲んで、<br>ぼんやりした気持ちよさの中で、<br>罪の意識に酔っていた。",
+      "zh": "我拉过身旁的药箱，拿出大量的药物吞进嘴里，<br>\n在迷蒙的痛快感中，<br>\n沉醉于犯下罪孽的意识。",
+      "vi": "Tôi kéo hộp thuốc bên cạnh, lấy ra một lượng lớn thuốc rồi nuốt vào miệng, Trong cảm giác sung sướng mơ hồ, Say sưa với ý thức phạm tội.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative028",
+      "speaker_tag": "",
+      "ja": "取り返しのつかないことをした。",
+      "zh": "我犯下了无法弥补的过错。",
+      "vi": "Tôi đã phạm phải một sai lầm không thể sửa chữa được.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative029",
+      "speaker_tag": "",
+      "ja": "これで叱られる。<br>良い子のウチは、もうおしまい。",
+      "zh": "这样他们就会来骂我。<br>\n从今以后，我不再是乖孩子。",
+      "vi": "Rồi họ sẽ đến và mắng tôi. Từ nay trở đi tôi không còn là một cậu bé ngoan nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative030",
+      "speaker_tag": "",
+      "ja": "ウチは助け出されて、両親に抱きしめられた。<br>両親は深い悲しみの表情を浮かべていた。",
+      "zh": "从火海中被救出来后，父母紧紧抱住了我。<br>\n他们露出了一个悲痛欲绝的表情。",
+      "vi": "Sau khi được cứu ra khỏi đám cháy, bố mẹ tôi đã ôm tôi thật chặt. Họ thể hiện một vẻ mặt đau buồn.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative031",
+      "speaker_tag": "",
+      "ja": "さあ叱ってほしいと、その顔を見上げた。",
+      "zh": "来，你们快骂我。我怀着这种心思抬起了头。",
+      "vi": "Hãy mắng tôi nhanh lên. Tôi ngẩng đầu lên với suy nghĩ này.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative032",
+      "speaker_tag": "",
+      "ja": "――事故だったんだよ。",
+      "zh": "——这是意外，是事故。",
+      "vi": "---Đây là một tai nạn, một tai nạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative033",
+      "speaker_tag": "",
+      "ja": "それが最初の言葉だった。<br>心が絶望に落ちるには十分だった。",
+      "zh": "这是他们的第一句话。<br>\n单单这一句话就足以让我绝望。",
+      "vi": "Đây là những lời đầu tiên của họ. Chỉ riêng câu nói này thôi cũng đủ khiến tôi tuyệt vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative034",
+      "speaker_tag": "",
+      "ja": "――アリサちゃんがそんなことをするはずない。<br>――たまたま運が悪かっただけ。<br>――アリサちゃんは悪くない。",
+      "zh": "——亚里沙不可能做这种事的。<br>\n——我们只是运气不好而已。<br>\n——亚里沙一点错也没有。",
+      "vi": "--Không đời nào Alisa lại làm một việc như vậy. ---Chúng ta thật không may mắn. ---Alisa không sai chút nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative035",
+      "speaker_tag": "",
+      "ja": "ぜんぶ呪いの言葉に聞こえた。<br>誰もウチの罪を見つけてくれない。",
+      "zh": "这些话在我耳里全都是诅咒。<br>\n没有人愿意直面我的罪孽。",
+      "vi": "Những lời này nghe như những lời nguyền rủa bên tai tôi. Không ai muốn đối mặt với tội lỗi của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative036",
+      "speaker_tag": "",
+      "ja": "赦されて、赦されて、赦されて――<br>自分を許せなくなった。",
+      "zh": "每次能得到的全是原谅、宽恕、放过——<br>\n所以我才无法原谅自己。",
+      "vi": "Tất cả những gì tôi có thể nhận được mỗi lần là sự tha thứ, sự tha thứ và buông bỏ—— Đó là lý do tại sao tôi không thể tha thứ cho chính mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative037",
+      "speaker_tag": "",
+      "ja": "アリサが、深く深く息を吐き出す。",
+      "zh": "亚里沙深深地吐了一口气。",
+      "vi": "Alisa hít một hơi thật sâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema005",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema005|",
+      "ja": "アリサちゃん……。",
+      "zh": "亚里沙……",
+      "vi": "Alisa……",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa007",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa007|",
+      "ja": "ここに捕まる前から、ウチは家出してた。<br>ずっと家に帰ってない。",
+      "zh": "还没被抓到这里来的时候，我就离家出走了。<br>\n我一直没有回家。",
+      "vi": "Tao đã bỏ trốn khỏi nhà trước khi bị bắt ở đây. Tao chưa bao giờ về nhà.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa008",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa008|",
+      "ja": "もう帰れねえよ。",
+      "zh": "我已经回不了家了。",
+      "vi": "Tao không thể về nhà được nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa009",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa009|",
+      "ja": "親はもうウチのことなんか忘れて、<br>幸せになってくれた方がいい。",
+      "zh": "至于我爸妈，我只希望他们能把我忘了，<br>\n幸福地过日子就好。",
+      "vi": "Về phần bố mẹ Tao, Tao chỉ mong họ có thể quên Tao đi, Cứ sống vui vẻ nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa010",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa010|",
+      "ja": "ウチはこのままここで魔女になって、<br>果てるだろうから。",
+      "zh": "反正我会被关在这里，<br>\n直到变成魔女，然后死去吧。",
+      "vi": "Dù sao thì Tao cũng sẽ bị nhốt ở đây, Cho đến khi mày trở thành phù thủy và chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema006",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema006|",
+      "ja": "（そんな、ボクはやっぱり、ひとりに……）",
+      "zh": "（怎么会这样，果然到最后我会孤零零一个人……）",
+      "vi": "(Sao chuyện này có thể xảy ra được? Chắc chắn rồi, cuối cùng mình sẽ ở một mình...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative038",
+      "speaker_tag": "",
+      "ja": "湖周辺だけ降る雪の下に長くいるので、<br>体が冷え切ってしまっている。",
+      "zh": "在下雪的湖边呆太久，<br>\n艾玛感觉全身都冷透了。",
+      "vi": "Ở quá lâu bên hồ tuyết, Ema cảm thấy lạnh toàn thân.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative039",
+      "speaker_tag": "",
+      "ja": "自身を抱えてエマは震えた。<br>すると、次の瞬間じんわりと熱を感じた。",
+      "zh": "她抱着身体直打寒颤。<br>\n就在下一瞬间，身旁突然冒出一股暖意。",
+      "vi": "Cô ôm lấy cơ thể mình và run rẩy. Trong khoảnh khắc tiếp theo, một hơi ấm đột nhiên xuất hiện bên cạnh anh.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema007",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema007|",
+      "ja": "ああ、ありがとうアリサちゃん……あったかい。",
+      "zh": "啊，谢谢你，亚里沙……真暖和。",
+      "vi": "Ah, cảm ơn, Alisa...ấm quá.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative040",
+      "speaker_tag": "",
+      "ja": "アリサが指先から炎を生み出してくれたのだと気付き、<br>エマの顔は綻ぶ。",
+      "zh": "发现原来是亚里沙为了自己在指尖点起火焰后，<br>\n艾玛绽开了笑容。",
+      "vi": "Sau khi phát hiện ra chính Alisa là người đã đốt lửa trên đầu ngón tay cho cô ấy, Ema mỉm cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa011",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa011|",
+      "ja": "ウチにはこれくらいしかできねえ。<br>……ああ、ただ、ずいぶん高温まで出せるようになったな。",
+      "zh": "我能做的就这么点事。<br>\n……啊，可是最近我能让火焰的温度升得相当高哦。",
+      "vi": "Đó là tất cả những gì Tao có thể làm. …À, nhưng gần đây Tao có thể tăng nhiệt độ của ngọn lửa lên khá cao.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa012",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa012|",
+      "ja": "――何もかも<ruby=\"と\">熔</ruby>かせるくらい。",
+      "zh": "——高得可以融化任何东西。",
+      "vi": "- cao đến mức có thể làm tan chảy mọi thứ.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema008",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema008|",
+      "ja": "それって……。",
+      "zh": "你的意思是……",
+      "vi": "Ý bạn là gì...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa013",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa013|",
+      "ja": "魔女化が進んで、魔法が強くなってるんだろうな。",
+      "zh": "是我的魔女化程度在加深，所以魔法变得更强了吧。",
+      "vi": "Quá trình biến đổi thành phù thủy của Tao ngày càng sâu hơn, nên phép thuật của Tao chắc chắn sẽ mạnh hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative041",
+      "speaker_tag": "",
+      "ja": "ぽつりと落とした<ruby=\"つぶや\">呟</ruby>きは、<br>どこまでも暗い。",
+      "zh": "轻轻的一句嘟哝，<br>\n语气却那么地死气沉沉。",
+      "vi": "Một tiếng thì thầm nhẹ nhàng, Giọng điệu của anh ấy thật thiếu sức sống.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa014",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa014|",
+      "ja": "ぐっ、抑えられなく――。",
+      "zh": "唔，忍不住了——",
+      "vi": "Chà, Tao không thể nhịn được nữa——",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative042",
+      "speaker_tag": "",
+      "ja": "不意にアリサがうずくまり、<br>胸をおさえて苦しみだす。",
+      "zh": "亚里沙突然弯下身，<br>\n捂住胸口痛苦地呻吟起来。",
+      "vi": "Alisa đột nhiên cúi xuống, Anh ôm ngực và rên rỉ vì đau đớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema009",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema009|",
+      "ja": "アリサちゃん！？<br>大丈夫アリサちゃん！？",
+      "zh": "亚里沙！？<br>\n你还好吗，亚里沙！？",
+      "vi": "Alisa! ? Cậu ổn không, Alisa? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative043",
+      "speaker_tag": "",
+      "ja": "エマが近寄ってその肩に触れる寸前、<br>右腕がぬっと伸びてきて――",
+      "zh": "艾玛靠近亚里沙，伸手想要触碰亚里沙的肩膀。<br>\n就在她触碰到对方之前，一只手伸了过来……",
+      "vi": "Ema đến gần Alisa và đưa tay chạm vào vai Alisa. Ngay trước khi cô chạm vào người khác, một bàn tay đã đưa ra...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema010",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema010|",
+      "ja": "（え――）",
+      "zh": "（欸——）",
+      "vi": "(Ơ——)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative044",
+      "speaker_tag": "",
+      "ja": "首を<ruby=\"つか\">掴</ruby>まれ、猛烈な勢いで<br>エマの背中は大木に押し付けられていた。",
+      "zh": "那只手猛地掐住艾玛的脖子后用力一推，<br>\n把她紧紧地抵在身后的树干上。",
+      "vi": "Bàn tay bất ngờ nắm lấy cổ Ema và đẩy mạnh, Anh ép chặt cô vào thân cây phía sau.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema011",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema011|",
+      "ja": "ぐっ……。",
+      "zh": "呜……",
+      "vi": "Úi...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa015",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa015|",
+      "ja": "おめえが近付くと不安になんだよ。なんか怖いんだよおめえ。<br>おめえ、魔女なんだろ？ なぁ、なぁ！",
+      "zh": "你一靠过来我就觉得心里很慌乱。总感觉你很可怕。<br>\n你是魔女对不对？对吧，对吧！",
+      "vi": "Ngay khi mày đến gần, Tao cảm thấy rất bối rối. Tao luôn cảm thấy mày thật đáng sợ. Bạn là phù thủy phải không? Đúng, đúng!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema012",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema012|",
+      "ja": "アリ、サちゃん、ちが……。",
+      "zh": "亚里、沙，我不是……",
+      "vi": "Ari, Sha, tôi không...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa016",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa016|",
+      "ja": "魔女なら殺さないといけないだろ！",
+      "zh": "既然是魔女那就该杀对吧！",
+      "vi": "Vì mày ấy là phù thủy nên mày ấy phải bị giết, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative045",
+      "speaker_tag": "",
+      "ja": "容赦のない力が込められ、<br>足が宙に浮く。息ができない。",
+      "zh": "脖子上的手不带一丝犹豫地收紧，<br>\n艾玛已经双脚离地。她感到一阵窒息。",
+      "vi": "Bàn tay đặt trên cổ không chút do dự, Chân của Ema đã nhấc khỏi mặt đất. Cô cảm thấy ngột ngạt.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema013",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema013|",
+      "ja": "（このままじゃ、ボク、殺され……）",
+      "zh": "（继续这样下去，她会、杀死我……）",
+      "vi": "(Nếu chuyện này tiếp tục, cô ấy sẽ giết mình mất...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative046",
+      "speaker_tag": "",
+      "ja": "強い力で首を絞められ、エマは――",
+      "zh": "被用力掐住脖子的艾玛她——",
+      "vi": "Ema bị bóp cổ——",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Choice001",
+      "speaker_tag": "; > @choice |#0104Adv02_Choice001|",
+      "ja": "抵抗した",
+      "zh": "作出了抵抗",
+      "vi": "chống lại",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Choice002",
+      "speaker_tag": "; > @choice |#0104Adv02_Choice002| button:ChoiceButtons/Adv/Bad",
+      "ja": "身を任せた",
+      "zh": "任她处置了",
+      "vi": "Hãy để cô ấy xử lý nó",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema014",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema014|",
+      "ja": "やめ……て……！",
+      "zh": "快……住手……！",
+      "vi": "Nhanh...dừng lại...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative047",
+      "speaker_tag": "",
+      "ja": "アリサの手を離そうと、なんとかもがく。",
+      "zh": "艾玛挣扎了一下，想要挣脱亚里沙的钳制。",
+      "vi": "Ema vùng vẫy, cố thoát khỏi vòng tay của Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa017",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa017|",
+      "ja": "……っ",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative048",
+      "speaker_tag": "",
+      "ja": "アリサはギリギリのところで踏みとどまったらしく、<br>エマを解放した。",
+      "zh": "看来亚里沙在最后一刻控制住了自己，<br>\n她放开了艾玛。",
+      "vi": "Có vẻ như Alisa đã kiểm soát được bản thân vào phút cuối, Cô để Ema đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative049",
+      "speaker_tag": "",
+      "ja": "エマはその場に膝を折る。<br>同時にアリサもうずくまって<ruby=\"うめ\">呻</ruby>き声をあげる。",
+      "zh": "艾玛当即跪坐在地上。<br>\n与此同时，亚里沙也蹲下身来发出一声呻吟。",
+      "vi": "Ema lập tức quỳ xuống ngồi trên mặt đất. Cùng lúc đó, Alisa ngồi xổm xuống và rên rỉ.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema015",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema015|",
+      "ja": "げほっ、げほげほっ……。",
+      "zh": "咳，咳咳……",
+      "vi": "Khụ khụ, khụ khụ...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa018",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa018|",
+      "ja": "――さっさと行け！<br>理性がまだ残っているうちに！",
+      "zh": "——快走！<br>\n趁我现在还留着点理性！",
+      "vi": "--Đi nhanh lên! Trong khi Tao vẫn còn chút ý thức!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema016",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema016|",
+      "ja": "そんな、アリサちゃ――。",
+      "zh": "我怎么能跑，亚里——",
+      "vi": "Làm sao tôi có thể chạy được, Ari—",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Alisa019",
+      "speaker_tag": "; > Alisa: |#0104Adv02_Alisa019|",
+      "ja": "ウチに殺させるな！<br>行けぇ……っ！",
+      "zh": "不要让我杀人！<br>\n快走……！",
+      "vi": "Đừng để Tao giết bất cứ ai! Đi nhanh lên...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Ema017",
+      "speaker_tag": "; > Ema: |#0104Adv02_Ema017|",
+      "ja": "……っ",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv02_Narrative050",
+      "speaker_tag": "",
+      "ja": "エマは泣きそうになりながら、<br>アリサに背を向け、ひとり駆けだした。",
+      "zh": "感觉眼泪下一瞬间就要夺眶而出，<br>\n但艾玛依然转过身，背对着亚里沙独自一人往回跑。",
+      "vi": "Tôi cảm thấy như nước mắt sắp trào ra trong khoảnh khắc tiếp theo, Nhưng Ema vẫn quay người lại, quay lưng về phía Alisa rồi một mình chạy về.",
+      "objection_links": []
+    }
+  ]
+}

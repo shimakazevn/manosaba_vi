@@ -1,0 +1,1222 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter03_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter03_Trial08",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter03/Act02_Chapter03_Trial08' Naninovel scenario script",
+  "total_entries": 151,
+  "entries": [
+    {
+      "id": "0203Trial08_Hiro001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Hiro001|",
+      "ja": "アンアンは落下後、<br>自分の体に血糊を撒いた。",
+      "zh": "安安坠楼以后<br>\n就把血浆泼到自己身上。",
+      "vi": "Sau khi AnAn rơi từ tòa nhà Chỉ cần đổ plasma lên chính mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Ema001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial08_Ema001|",
+      "ja": "ボクがそれを見て、<br>アンアンちゃんが<br>死んじゃったと<br>勘違い<br>しちゃったんだ……！",
+      "zh": "我看到安安<br>\n全身是血的样子<br>\n就误以为<br>\n她死了……！<br>",
+      "vi": "Tôi đã nhìn thấy AnAn Toàn thân trông như máu Tôi đã nghĩ nhầm Cô ấy chết rồi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hanna001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Hanna001|",
+      "ja": "でも串刺しに<br>なったって話じゃ<br>ないんですのー！？",
+      "zh": "可一开始<br>\n说的不是<br>\n铁栅刺穿身体吗！？",
+      "vi": "Nhưng lúc đầu Không nói về Hàng rào sắt có xuyên qua ngươi không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial08_Hiro002|",
+      "ja": "たしかに、<br>アンアンは発見時<br>串刺しにされていた。",
+      "zh": "发现尸体的时候，<br>\n安安确实<br>\n被铁栅贯穿了身体。",
+      "vi": "Khi thi thể được tìm thấy, AnAn quả thực là Thi thể bị thanh sắt đâm xuyên qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial08_Hiro003|",
+      "ja": "だがそれは<br>発見時の話であって、<br>落下時の話ではないよ。",
+      "zh": "可那只是<br>\n发现尸体时的状态，<br>\n并不是说坠楼后就刺死了。",
+      "vi": "Nhưng đó chỉ là Tình trạng thi thể được tìm thấy, Điều đó không có nghĩa là anh ta bị ngã và bị đâm chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Ema002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Ema002|",
+      "ja": "それにアンアンちゃんに<br>刺さってた鉄柵って、<br>【途中から折れてた】<br>んだよね。",
+      "zh": "而且<br>\n插进安安胸口的铁栅是<br>\n【在中间位置断掉】的<br>\n没错吧。",
+      "vi": "Và Cái vỉ sắt nhét vào ngực AnAn là [Gãy ở giữa] Đúng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Ema003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Ema003|",
+      "ja": "ボクがベランダから<br>中庭のアンアンちゃんを<br>見たときは<br>一瞬だったし……。",
+      "zh": "我只是匆忙地<br>\n从阳台往中庭<br>\n看了安安一眼<br>\n就缩了回来……",
+      "vi": "Tôi chỉ đang vội Từ ban công tới sảnh Tôi liếc nhìn AnAn Sau đó hắn rụt người lại...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Ema004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Ema004|",
+      "ja": "それに遠目で、<br>辺りは暗かったんだ。",
+      "zh": "距离也隔得远，<br>\n周围还很黑。",
+      "vi": "Khoảng cách cũng xa, Xung quanh vẫn còn tối.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Ema005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Ema005|",
+      "ja": "血まみれの印象が<br>強かったのもあって、<br>鉄柵がちゃんと<br>胸に刺さっていたのかまでは<br>確認できてないよ。",
+      "zh": "全身是血的样子<br>\n造成的印象太强烈，<br>\n我没能仔细确认<br>\n铁栅是不是真的<br>\n插进了安安的胸口。",
+      "vi": "Toàn thân như máu Ấn tượng được tạo ra quá mạnh, Tôi đã không xác nhận một cách cẩn thận Hàng rào sắt có thật không Đâm vào ngực AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Sherry001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial08_Sherry001|",
+      "ja": "しかしそうなると、<br>新たな疑問が発生します。",
+      "zh": "可如果事情是这样，<br>\n就会产生新的疑问。",
+      "vi": "Nhưng nếu đúng như vậy, Những câu hỏi mới sẽ nảy sinh.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Sherry002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial08_Sherry002|",
+      "ja": "どうしてアンアンさんは<br>そんなことを<br>したんでしょう？",
+      "zh": "安安她<br>\n为什么<br>\n要这样做？",
+      "vi": "Ann cô ấy Tại sao Bạn muốn làm điều này?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Leia001|",
+      "ja": "アンアンくんは<br>もしかして……<br>【自殺】しようとしたのか？",
+      "zh": "难不成<br>\n安安她……<br>\n想要【自杀】？",
+      "vi": "Có thể là Hãy giữ cô ấy an toàn... Muốn [tự tử]?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Leia002|",
+      "ja": "そうでなければ<br>そんな準備をして<br>飛び降りるなんて……<br><link=\"Objection_02_03_08_01\">するわけがない</link>。",
+      "zh": "不然的话……<br>\n她不<link=\"Objection_02_03_08_01\">可能</link><br>\n做了这种准备，<br>\n明知道后果还往下跳。",
+      "vi": "Nếu không... Cô ấy không<link=\"Objection_02_03_08_01\">có lẽ</link> Đã chuẩn bị xong như thế này, Nhảy xuống dù biết trước hậu quả.",
+      "objection_links": [
+        "Objection_02_03_08_01"
+      ]
+    },
+    {
+      "id": "0203Trial08_Alisa001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial08_Alisa001|",
+      "ja": "自殺だぁ……？<br>んなこと<br><link=\"Objection_02_03_08_02\">明確な理由もない</link>のに<br>するかよ。",
+      "zh": "自杀……？<br>\n<link=\"Objection_02_03_08_02\">没明确的理由</link><br>\n谁会去自杀啊？<br>",
+      "vi": "Tự sát...? <link=\"Objection_02_03_08_02\">Không có lý do rõ ràng</link> Ai sẽ tự sát?",
+      "objection_links": [
+        "Objection_02_03_08_02"
+      ]
+    },
+    {
+      "id": "0203Trial08_Alisa002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial08_Alisa002|",
+      "ja": "ウチだったら<br>何があったって<br>生き残ってやる……！<br>そしてウチらを<br>ここに連れてきた奴ら全員、<br>ぶん殴ってやるんだ……！",
+      "zh": "换做是我，<br>\n不管发生什么事<br>\n我都会想尽办法活下去……！<br>\n然后把那些将我们<br>\n关在这里的人<br>\n全都暴打一顿……！",
+      "vi": "Nếu là Tao, Dù có chuyện gì xảy ra Tao sẽ cố gắng hết sức để sống sót...! Sau đó đặt những thứ đó chúng ta sẽ Những người bị nhốt ở đây Đánh bại tất cả...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Miria001|",
+      "ja": "なら……<br>【事故】だったのかな……。",
+      "zh": "那……<br>\n会不会只是一场【事故】……",
+      "vi": "Sau đó... Phải chăng đó chỉ là một [tai nạn]...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Miria002|",
+      "ja": "アンアンちゃんは<br>やっぱり偶然<br>落ちちゃっただけとか……。",
+      "zh": "安安她<br>\n其实真的只是<br>\n意外坠楼而已……",
+      "vi": "Ann cô ấy Thực ra nó chỉ là Chỉ là một cú ngã vô tình...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Miria003|",
+      "ja": "血糊についても、<br>たまたま赤い液体が<br>こぼれちゃっただけ<br>なんじゃないかな？",
+      "zh": "还有她身上的血浆，<br>\n也有可能只是刚好<br>\n有什么红色液体被打翻了<br>\n溅到她身上而已吧？",
+      "vi": "Và huyết tương trên cơ thể cô ấy, Cũng có thể đó chỉ là Chất lỏng màu đỏ nào đã bị đổ Vừa té nước vào cô ấy, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Noah001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial08_Noah001|",
+      "ja": "アンアンちゃんが<br>偶然落ちたときに<br>偶然赤い液体を持ってて、<br>偶然血まみれっぽくなった<br>……ってこと？",
+      "zh": "你是想说……<br>\n安安意外坠楼，<br>\n刚好她带着某种红色液体，<br>\n然后偶然把自己弄成<br>\n一副满身是血的样子？",
+      "vi": "Bạn có muốn nói... AnAn vô tình rơi từ tòa nhà xuống, Tình cờ là cô ấy đang mang theo một loại chất lỏng màu đỏ nào đó, Rồi vô tình làm cho mình Hình như người anh ta đầy máu?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hanna002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Hanna002|",
+      "ja": "そんな偶然、<br>無理がありますわ～！！",
+      "zh": "哪有这么<br>\n凑巧的事啊～！！",
+      "vi": "Làm sao có thể như vậy Thật là trùng hợp~! !",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Sherry003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial08_Sherry003|",
+      "ja": "ではやっぱり<br>【他殺】だったんですよ！",
+      "zh": "那安安果然<br>\n是死于【他杀】！",
+      "vi": "Đúng như dự đoán, AnAn Anh ta chết vì [giết người]!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Sherry004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial08_Sherry004|",
+      "ja": "きっと死体には何か<br>【赤いもの】が<br>ついてたんです。<br>犯人を示す、<br>何か赤いものが！",
+      "zh": "尸体上肯定是<br>\n沾染了某种<br>\n【红色的东西】。<br>\n某种能够指证凶手的<br>\n红色东西！",
+      "vi": "Phải có trên cơ thể Bị nhiễm một số loại [thứ màu đỏ]. Một loại nào đó có thể xác định được kẻ sát nhân Thứ gì đó màu đỏ!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Sherry005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial08_Sherry005|",
+      "ja": "それをごまかすために、<br>絵の具でも<br>ぶちまけたんじゃ<br>ないでしょーか？",
+      "zh": "可能凶手想要掩盖<br>\n这个证物的存在，<br>\n才会把颜料<br>\n洒得到处都是吧？",
+      "vi": "Có lẽ kẻ sát nhân muốn che đậy Sự tồn tại của bằng chứng này, Chỉ khi đó sơn mới Rắc khắp nơi, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial08_Leia003|",
+      "ja": "でも犯人がごまかしたい<br><link=\"Objection_02_03_08_03\">【赤いもの】</link>なんて<br>何かあっただろうか……？",
+      "zh": "可是现场有发现什么<br>\n凶手会去掩盖的<br>\n<link=\"Objection_02_03_08_03\">【红色的东西】</link>吗……？",
+      "vi": "Nhưng người ta đã tìm thấy thứ gì đó ở hiện trường Kẻ sát nhân sẽ che đậy nó <link=\"Objection_02_03_08_03\">[Vật màu đỏ]</link>...?",
+      "objection_links": [
+        "Objection_02_03_08_03"
+      ]
+    },
+    {
+      "id": "0203Trial08_Hiro004",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro004|",
+      "ja": "（私とエマの推理が正しければ、<br>　あの血糊はアンアン自らが使用したものだ）",
+      "zh": "（如果我跟艾玛的推理是正确的话，<br>\n那就是说把血浆泼到安安身上的就是她本人）",
+      "vi": "(Nếu lý luận của tôi với Ema là đúng, Tức là cô ta chính là người đã đổ huyết tương lên người AnAn)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro005",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro005|",
+      "ja": "（なら……何があったか、可能性は限られている……！）",
+      "zh": "（既然是这样……<br>\n其中到底发生了什么事，能解释清楚的假设非常有限……！）",
+      "vi": "(Trong trường hợp đó... Chính xác thì chuyện gì đã xảy ra ở đó, có rất ít giả thuyết có thể giải thích rõ ràng…! )",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro006",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro006|",
+      "ja": "（間違っている推理に……正しく反論するんだ！）",
+      "zh": "（我要用正确的理据……来驳倒错误的推理！）",
+      "vi": "(Tôi muốn sử dụng bằng chứng chính xác để bác bỏ lý luận sai lầm!)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Choice001",
+      "speaker_tag": "; > @choice |#0203Trial08_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "アンアンは自ら飛び降りた",
+      "zh": "安安是自己跳下去的",
+      "vi": "AnAn tự mình nhảy xuống",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Choice002",
+      "speaker_tag": "; > @choice |#0203Trial08_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "アンアンには自殺する理由があった",
+      "zh": "安安有自杀的理由",
+      "vi": "AnAn có lý do để tự sát",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Choice003",
+      "speaker_tag": "; > @choice |#0203Trial08_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "証拠を提示する",
+      "zh": "出示证据",
+      "vi": "đưa ra bằng chứng",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro007",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro007|",
+      "ja": "いいや。自殺する理由はあるよ。",
+      "zh": "不对。安安她有自杀的理由。",
+      "vi": "Không. Ann, cô ấy có lý do để tự tử.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro008",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro008|",
+      "ja": "こんな悪辣な環境に閉じ込められているんだ。<br>そういう判断をしてしまっても無理はないだろう。",
+      "zh": "我们被人囚禁在如此险恶的环境之中。<br>\n会做出这种冲动的行为也是情有可原。",
+      "vi": "Chúng tôi bị giam cầm trong một môi trường nguy hiểm như vậy. Việc anh ta có hành vi bốc đồng như vậy là điều dễ hiểu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria004",
+      "speaker_tag": "; > Miria: |#0203Trial08_Miria004|",
+      "ja": "でも、今すぐここから積極的に出たいって感じはしなかったよ？",
+      "zh": "可是我没有感觉安安很积极地想逃跑欸？",
+      "vi": "Nhưng Miria không cảm thấy AnAn đang chủ động trốn thoát phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria005",
+      "speaker_tag": "; > Miria: |#0203Trial08_Miria005|",
+      "ja": "何かに追い込まれてるようにも見えなかったし……。",
+      "zh": "而且她看起来也没有表现过精神崩溃的样子……",
+      "vi": "Và cô ấy không có vẻ như đang bị suy sụp tinh thần...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia004",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia004|",
+      "ja": "むしろ、演劇の台本の件も含めて<br>前向きになっていたようにさえ思うよ。",
+      "zh": "我反而觉得她对生活，<br>\n包括舞台剧剧本的事都变得积极起来了。",
+      "vi": "Ngược lại, tôi cảm nhận được thái độ của cô ấy đối với cuộc sống, Những thứ bao gồm cả kịch bản vở kịch sân khấu đều trở nên tích cực.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa003",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa003|",
+      "ja": "……もしかしたら、ここの生活を<br>気に入ってる節すらあったのかもしれねえな。",
+      "zh": "……搞不好，<br>\n她甚至还喜欢上了在这里的生活。",
+      "vi": "...Có lẽ, Cô thậm chí còn thích sống ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria006",
+      "speaker_tag": "; > Miria: |#0203Trial08_Miria006|",
+      "ja": "……やっぱり、自殺は考えられないんじゃないかな？",
+      "zh": "……果然还是很难认定安安会自杀吧？",
+      "vi": "...Chắc chắn vẫn khó kết luận AnAn sẽ tự sát phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia005",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia005|",
+      "ja": "そうだね、私もそう思うよ。",
+      "zh": "没错，我也这么认为。",
+      "vi": "Vâng, tôi cũng nghĩ vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia006",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia006|",
+      "ja": "ヒロくんの推理は、少し無理があるかもしれないね……。",
+      "zh": "希罗的推理或许有点过于牵强了……",
+      "vi": "Lý luận của anh hùng có lẽ hơi quá xa vời...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro009",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro009|",
+      "ja": "（アンアンに自殺する理由は見つかっていない、か……）",
+      "zh": "（在安安身上找不到任何自杀的理由吗……）",
+      "vi": "(Bạn không tìm được lý do nào để tự sát ở AnAn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro010",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro010|",
+      "ja": "（動機がないなら、他に根拠を示さなければ説得力はないな。<br>　しかし――）",
+      "zh": "（如果没有动机，就只能提出新的根据才能说服其他人。<br>\n可是——）",
+      "vi": "(Nếu không có động cơ, bạn chỉ có thể thuyết phục người khác bằng cách đưa ra bằng chứng mới. Nhưng——)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro011",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro011|",
+      "ja": "（アンアンは自ら血糊を使用した……）",
+      "zh": "（安安是自己把血浆泼在身上的……）",
+      "vi": "(AnAn tự mình đổ huyết tương lên người...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro012",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro012|",
+      "ja": "（なら、その目的は限られてるはずだ）",
+      "zh": "（既然是这样，要锁定她的目的应该不难）",
+      "vi": "(Trong trường hợp này, không khó để xác định mục đích của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro013",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro013|",
+      "ja": "犯人が残した【赤いもの】……。",
+      "zh": "凶手留下的【红色东西】……",
+      "vi": "[Thứ màu đỏ] mà kẻ sát nhân để lại...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro014",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro014|",
+      "ja": "それは、これだ！",
+      "zh": "那就是，这个！",
+      "vi": "Đó là, cái này!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria007",
+      "speaker_tag": "; > Miria: |#0203Trial08_Miria007|",
+      "ja": "えっと……<br>それがアンアンちゃんの服についてたってこと……？",
+      "zh": "呃……<br>\n你是说，那东西一直沾在安安的衣服上……？",
+      "vi": "Ờ... Ý bạn là thứ đó đã dính trên quần áo của AnAn...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa004",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa004|",
+      "ja": "どういう意味だよ、そりゃあ。",
+      "zh": "这什么意思啊。",
+      "vi": "Điều này có nghĩa là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia007",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia007|",
+      "ja": "やはり、犯人が残した痕跡なんて<br>無かったんじゃないかな……。",
+      "zh": "所以到头来，根本就没有什么<br>\n凶手留下的痕迹……",
+      "vi": "Vì vậy cuối cùng không có Dấu vết hung thủ để lại...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro015",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro015|",
+      "ja": "（証拠を示せなかったようだ……）",
+      "zh": "（看来没有可以出示的证据……）",
+      "vi": "(Có vẻ như không có bằng chứng nào có thể được đưa ra...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro016",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro016|",
+      "ja": "（しかし、これ以上示せる証拠はないな……）",
+      "zh": "（可我手上已经没有可以出示的证据了……）",
+      "vi": "(Nhưng tôi không còn bằng chứng nào để chứng minh...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro017",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro017|",
+      "ja": "（アンアン自身に何かあると考えてみようか）",
+      "zh": "（试着考虑一下，在安安身上究竟出了什么事情吧）",
+      "vi": "(Các bạn thử nghĩ xem chuyện gì đã xảy ra với AnAn)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro018",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro018|",
+      "ja": "（アンアンは自ら血糊を使用した……）",
+      "zh": "（安安是自己把血浆泼在身上的……）",
+      "vi": "(AnAn tự mình đổ huyết tương lên người...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro019",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro019|",
+      "ja": "（なら、その目的は限られてるはずだ）",
+      "zh": "（既然是这样，要锁定她的目的应该不难）",
+      "vi": "(Trong trường hợp này, không khó để xác định mục đích của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro020",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro020|",
+      "ja": "……違うね。<br>アンアンは、自ら飛び降りたんだ。",
+      "zh": "……你错了。<br>\n安安她是自己跳下去的。",
+      "vi": "...bạn sai rồi. AnAn, cô ấy tự mình nhảy xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia008",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia008|",
+      "ja": "そんなバカな……。",
+      "zh": "怎么可能……",
+      "vi": "Làm sao có thể...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia009",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia009|",
+      "ja": "アンアンくんが自殺したっていうなら、<br>いったいどうして……。",
+      "zh": "你说安安是自杀的，<br>\n那就给我们说明理由……",
+      "vi": "Bạn nói AnAn tự sát, Vậy hãy cho chúng tôi biết lý do...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro021",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro021|",
+      "ja": "アンアンが自分から飛び降りた理由……<br>それは。",
+      "zh": "安安是自己从阳台跳下去的理由……<br>\n那就是——",
+      "vi": "AnAn là nguyên nhân khiến anh ấy nhảy từ ban công xuống... Đó là——",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Choice004",
+      "speaker_tag": "; > @choice |#0203Trial08_Choice004|",
+      "ja": "魔女化していた",
+      "zh": "已经魔女化了",
+      "vi": "Đã biến thành phù thủy rồi",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Choice005",
+      "speaker_tag": "; > @choice |#0203Trial08_Choice005|",
+      "ja": "魔法を使われた",
+      "zh": "用了魔法",
+      "vi": "Phép thuật đã qua sử dụng",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Choice006",
+      "speaker_tag": "; > @choice |#0203Trial08_Choice006|",
+      "ja": "怪我しないよう準備していた",
+      "zh": "做好了不受伤的准备",
+      "vi": "Hãy chuẩn bị để không bị tổn thương",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro022",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro022|",
+      "ja": "アンアンは魔女化していたんだ。",
+      "zh": "安安早就已经变成魔女。",
+      "vi": "AnAn đã trở thành phù thủy rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro023",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro023|",
+      "ja": "自分は死なないと確信を持っていたから<br>アンアンは飛び降りた。",
+      "zh": "她能肯定自己不会死，<br>\n所以才会从阳台跳下去。",
+      "vi": "Cô ấy chắc chắn rằng mình sẽ không chết, Đó là lý do tôi nhảy từ ban công xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro024",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro024|",
+      "ja": "それなら彼女が飛び降りた理由は説明できる。",
+      "zh": "这样就能够说明为什么她会跳下阳台。",
+      "vi": "Điều này sẽ giải thích tại sao cô ấy nhảy khỏi ban công.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia010",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia010|",
+      "ja": "……しかしヒロくん。<br>アンアンくんの死体には、<br>おかしなところは見られなかったよ。",
+      "zh": "……希罗，<br>\n可是我在安安的尸体上没有发现<br>\n任何奇怪的地方哦。",
+      "vi": "...Xin chào, Nhưng tôi không tìm thấy trên cơ thể AnAn. Bất cứ nơi nào kỳ lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia011",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia011|",
+      "ja": "現に、アンアンくんは死んでいるんだ。",
+      "zh": "实际上，安安现在依然是死去的状态。",
+      "vi": "Thực ra AnAn vẫn chưa chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia012",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia012|",
+      "ja": "だから魔女だったという可能性は低いんじゃないかな。",
+      "zh": "所以她已经变成魔女的可能性应该很低。",
+      "vi": "Vì vậy khả năng cô ấy biến thành phù thủy là rất thấp.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria008",
+      "speaker_tag": "; > Miria: |#0203Trial08_Miria008|",
+      "ja": "【魔女を殺す薬】……だっけ。",
+      "zh": "【杀死魔女的药】……记得还有这个东西来着。",
+      "vi": "[Thuốc diệt phù thủy]... Miria nhớ là có thứ này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria009",
+      "speaker_tag": "; > Miria: |#0203Trial08_Miria009|",
+      "ja": "あれもゴクチョーが回収しちゃったし、<br>他にないはずだよね……？",
+      "zh": "那个药也已经被典狱长给全没收了，<br>\n应该哪里都找不着了吧……？",
+      "vi": "Thuốc đó cũng đã bị quản giáo tịch thu, Miria không thể tìm thấy nó ở đâu cả, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro025",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro025|",
+      "ja": "（……アンアンが魔女となっていた可能性は考えにくいか）",
+      "zh": "（……安安已经变成魔女的可能性几乎为零吗）",
+      "vi": "(…Khả năng AnAn biến thành phù thủy gần như bằng không)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro026",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro026|",
+      "ja": "（アンアンが自らの意志で飛び降りたということは、<br>　彼女なりの思惑があったに違いない）",
+      "zh": "（安安是主动从阳台跳下去的，<br>\n她肯定有自己的打算才会这样做）",
+      "vi": "(AnAn tự ý nhảy từ ban công xuống, Cô ấy phải có kế hoạch riêng của mình để làm điều này)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro027",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro027|",
+      "ja": "（ならその思惑とは……？）",
+      "zh": "（她这个打算究竟是……？）",
+      "vi": "(Chính xác thì kế hoạch của cô ấy là gì...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro028",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro028|",
+      "ja": "アンアンは魔法をかけられていたんだ。",
+      "zh": "有人在安安身上施了魔法。",
+      "vi": "Có người niệm phép lên AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro029",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro029|",
+      "ja": "それによって、<br>ベランダからの飛び降りを余儀なくさせられたんだよ。",
+      "zh": "在魔法的作用下<br>\n安安不得已从阳台跳了下去。",
+      "vi": "Dưới ảnh hưởng của phép thuật AnAn đành phải nhảy từ ban công xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia013",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia013|",
+      "ja": "魔法って、具体的にどんなのだい？",
+      "zh": "能具体说说是什么样的魔法吗？",
+      "vi": "Bạn có thể nói cụ thể cho tôi biết đó là loại phép thuật gì không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro030",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro030|",
+      "ja": "本人の意思に反したものといえば、<br>暗示か洗脳の類の魔法だろうね。",
+      "zh": "既然是违背本人意愿，<br>\n那应该是暗示或者洗脑之类的魔法吧。",
+      "vi": "Vì điều đó trái với ý muốn của tôi, Đó hẳn là phép thuật như gợi ý hoặc tẩy não.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hanna003",
+      "speaker_tag": "; > Hanna: |#0203Trial08_Hanna003|",
+      "ja": "……でもそれ、アンアンさんの魔法ですわー？",
+      "zh": "……可那不就是安安的魔法吗？",
+      "vi": "...Nhưng đó chẳng phải là phép thuật của AnAn sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria010",
+      "speaker_tag": "; > Miria: |#0203Trial08_Miria010|",
+      "ja": "わざわざ自分に魔法を使うようなことはしないよね……。",
+      "zh": "她应该不会特意在自己身上施魔法吧……",
+      "vi": "Cô ấy có lẽ sẽ không cố tình sử dụng phép thuật lên bản thân mình...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia014",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia014|",
+      "ja": "間違ってかけられるようなものでもないと思う。",
+      "zh": "我也不信她会犯迷糊搞错施法对象。",
+      "vi": "Tôi cũng không tin rằng cô ấy sẽ bối rối và niệm chú nhầm người.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa005",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa005|",
+      "ja": "二階堂、ふざけてるわけじゃねーよな？",
+      "zh": "二阶堂，你没在开玩笑对吧？",
+      "vi": "Nikaido, mày không đùa đấy chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro031",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro031|",
+      "ja": "（アンアンの洗脳魔法……<br>　自分にかける理由はないか）",
+      "zh": "（安安的洗脑魔法……<br>\n没理由给自己施法吗）",
+      "vi": "(Ma thuật tẩy não của AnAn... Không có lý do gì để niệm phép lên chính mình?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro032",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro032|",
+      "ja": "（アンアンが自らの意志で飛び降りたということは、<br>　彼女なりの思惑があったに違いない）",
+      "zh": "（安安是主动从阳台跳下去的，<br>\n她肯定有自己的打算才会这样做）",
+      "vi": "(AnAn tự ý nhảy từ ban công xuống, Cô ấy phải có kế hoạch riêng của mình để làm điều này)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro033",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro033|",
+      "ja": "（ならその思惑とは……？）",
+      "zh": "（她这个打算究竟是……？）",
+      "vi": "(Chính xác thì kế hoạch của cô ấy là gì...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro034",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro034|",
+      "ja": "怪我をしないと思っていたなら、<br>飛び降りてもおかしくない。",
+      "zh": "她知道不会受伤，所以才会跳下去。<br>\n这样想的话就能解释得通。",
+      "vi": "Cô biết mình sẽ không bị thương nên đã nhảy xuống. Nếu bạn nghĩ về nó theo cách này, nó có ý nghĩa.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia015",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia015|",
+      "ja": "怪我を……しない？",
+      "zh": "不会……受伤？",
+      "vi": "Sẽ không... bị tổn thương chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Sherry006",
+      "speaker_tag": "; > Sherry: |#0203Trial08_Sherry006|",
+      "ja": "でもでも、２階の高さですよ？<br>絶対怪我をしないなんて、言い切れないんじゃないですか？",
+      "zh": "可是可是，从二楼的高度跳下去耶？<br>\n没人敢说绝对不会受伤吧？",
+      "vi": "Nhưng, nhảy từ độ cao của tầng hai? Không ai có thể nói rằng anh ấy sẽ không bao giờ bị thương, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro035",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro035|",
+      "ja": "そうでもないよ。<br>あの場には、高い確率で怪我をせずに<br>飛び降りる方法があったんだ。",
+      "zh": "不一定。<br>\n在当时的环境下，有一个方法可以实现从二楼跳下去<br>\n而不受伤，而且成功概率非常高。",
+      "vi": "Không nhất thiết phải như vậy. Trong hoàn cảnh lúc đó đã có cách để nhảy từ tầng hai Không có thương tích, xác suất thành công rất cao.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro036",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro036|",
+      "ja": "それを示す証拠もある。<br>それは……。",
+      "zh": "我有证据可以证明这一点。<br>\n那就是……",
+      "vi": "Tôi có bằng chứng để chứng minh điều đó. Đó là...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa006",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa006|",
+      "ja": "それのどこが怪我をしないで飛び降りる方法に繋がるんだよ。",
+      "zh": "这玩意跟从二楼跳下去不受伤的方法有什么关系。",
+      "vi": "Thứ này có liên quan gì đến việc làm thế nào để nhảy từ tầng hai mà không bị thương?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Sherry007",
+      "speaker_tag": "; > Sherry: |#0203Trial08_Sherry007|",
+      "ja": "やっぱりそんな方法はなさそうですね！",
+      "zh": "果然没什么好方法呢！",
+      "vi": "Quả nhiên không có biện pháp nào tốt!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro037",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro037|",
+      "ja": "（……これはアンアンが安全に飛び降りた方法を示す証拠にはならないか）",
+      "zh": "（……这个无法证明安安是用什么方法从二楼跳下去能平安着地）",
+      "vi": "(...Điều này không thể chứng minh làm thế nào AnAn có thể hạ cánh an toàn khi nhảy từ tầng hai)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro038",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro038|",
+      "ja": "（今までの証拠の中に<br>　【安全に飛び降りた理由】を説明できそうな物があるかもしれない）",
+      "zh": "（在至今为止收集到的证据里，或许有证据能够说明<br>\n【为什么从二楼跳下去却安然无恙】）",
+      "vi": "(Trong số các bằng chứng được thu thập cho đến nay, có thể có bằng chứng giải thích [Tại sao tôi nhảy từ tầng hai mà không bị tổn hại gì])",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro039",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro039|",
+      "ja": "（たとえば……【クッション】になるような、<br>　衝撃を吸収できそうなものなどはなかっただろうか？）",
+      "zh": "（譬如……<br>\n有没有什么东西能充当吸收冲击力的【垫子】？）",
+      "vi": "(Ví dụ... Có thứ gì có thể hoạt động như một [đệm] để hấp thụ lực tác động không? )",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro040",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro040|",
+      "ja": "アンアンの体の下にあったスマホ……はどうだろう。",
+      "zh": "被安安压在下面的手机……怎样？",
+      "vi": "Còn chiếc điện thoại di động mà AnAn ấn bên dưới thì sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa007",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa007|",
+      "ja": "スマホ？ そんなもんでどうやって<br>夏目の体を落下の衝撃から守るんだよ。",
+      "zh": "手机？<br>\n这怎么保护夏目摔不死啊。",
+      "vi": "Điện thoại di động? Làm thế nào điều này có thể bảo vệ Tsume khỏi rơi vào cái chết?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro041",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro041|",
+      "ja": "少しぐらいは衝撃を軽減させられたかもしれない。",
+      "zh": "多少应该能起到一定的缓冲作用。",
+      "vi": "Bao nhiêu sẽ cung cấp một số hiệu ứng đệm.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa008",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa008|",
+      "ja": "いや、されないだろ……。",
+      "zh": "不，缓冲不了吧……",
+      "vi": "Không, nó không thể được lưu vào bộ đệm...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia016",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia016|",
+      "ja": "スマホの用途は、<br>落ちるときの目印という話だったよね。",
+      "zh": "我们不是刚讨论过，<br>\n手机是用来做落地标记吗。",
+      "vi": "Chẳng phải chúng ta vừa thảo luận sao, Điện thoại di động có được dùng làm điểm hạ cánh không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia017",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia017|",
+      "ja": "なら、今回の話では関係ないんじゃないかな。",
+      "zh": "既然是这样，那就跟这个话题没有关系。",
+      "vi": "Vì đây là trường hợp nên nó không liên quan gì đến chủ đề này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro042",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro042|",
+      "ja": "（さすがに無理があったか……）",
+      "zh": "（实在扯得太离谱了吗……）",
+      "vi": "(Điều này thực sự quá quá đáng phải không...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro043",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro043|",
+      "ja": "（今までの証拠の中に<br>　【安全に飛び降りた理由】を説明できそうな物があるかもしれない）",
+      "zh": "（在至今为止收集到的证据里，或许有证据能够说明<br>\n【为什么从二楼跳下去却安然无恙】）",
+      "vi": "(Trong số các bằng chứng được thu thập cho đến nay, có thể có bằng chứng giải thích [Tại sao tôi nhảy từ tầng hai mà không bị tổn hại gì])",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro044",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro044|",
+      "ja": "（たとえば……【クッション】になるような、<br>　衝撃を吸収できそうなものなどはなかっただろうか？）",
+      "zh": "（譬如……<br>\n有没有什么东西能充当吸收冲击力的【垫子】？）",
+      "vi": "(Ví dụ... Có thứ gì có thể hoạt động như một [đệm] để hấp thụ lực tác động không? )",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro045",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro045|",
+      "ja": "アンアンの落下に関わっていそうなものといえば、<br>やはり鉄柵……。",
+      "zh": "说起跟安安的坠落着地有关系的东西，<br>\n还是绕不开铁栅栏……",
+      "vi": "Nói về những điều liên quan đến việc AnAn rơi và hạ cánh, Vẫn không thể vượt qua hàng rào sắt...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro046",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro046|",
+      "ja": "そうか！<br>鉄柵のしなりで落下の衝撃を抑えたんだ！",
+      "zh": "对了！<br>\n她是通过压弯铁栅来缓冲坠落的冲击力！",
+      "vi": "Đúng vậy! Cô ấy đã giảm bớt tác động của cú ngã bằng cách uốn cong các thanh sắt!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa009",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa009|",
+      "ja": "いや、刺さるだろ！",
+      "zh": "搞什么鬼，铁栅插她身上了好吗！",
+      "vi": "Cái quái gì vậy, hàng rào sắt đang cắm vào người mày ấy?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hanna004",
+      "speaker_tag": "; > Hanna: |#0203Trial08_Hanna004|",
+      "ja": "怪我をしない方法の話ではなかったんですの！？",
+      "zh": "我们在讨论的不是安全着地的方法吗！？",
+      "vi": "Không phải chúng Bổn tiểu thư đang nói về cách hạ cánh an toàn sao? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Sherry008",
+      "speaker_tag": "; > Sherry: |#0203Trial08_Sherry008|",
+      "ja": "やっぱりー！ 落下のときに鉄柵が刺さったんですね！",
+      "zh": "果然！安安是坠落的时候被铁栅刺中的！",
+      "vi": "Chắc chắn rồi! AnAn bị hàng rào sắt đâm khi ngã!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro047",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro047|",
+      "ja": "（しまった……思いつきで議論を混乱させてしまった）",
+      "zh": "（糟糕……我发言太随意，把讨论方向带偏了）",
+      "vi": "(Rất tiếc... tôi đã nói quá tùy tiện và đã lạc hướng cuộc thảo luận)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro048",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro048|",
+      "ja": "（今までの証拠の中に<br>　【安全に飛び降りた理由】を説明できそうな物があるかもしれない）",
+      "zh": "（在至今为止收集到的证据里，或许有证据能够说明<br>\n【为什么从二楼跳下去却安然无恙】）",
+      "vi": "(Trong số các bằng chứng được thu thập cho đến nay, có thể có bằng chứng giải thích [Tại sao tôi nhảy từ tầng hai mà không bị tổn hại gì])",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro049",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro049|",
+      "ja": "（たとえば……【クッション】になるような、<br>　衝撃を吸収できそうなものなどはなかっただろうか？）",
+      "zh": "（譬如……<br>\n有没有什么东西能充当吸收冲击力的【垫子】？）",
+      "vi": "(Ví dụ... Có thứ gì có thể hoạt động như một [đệm] để hấp thụ lực tác động không? )",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro050",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro050|",
+      "ja": "それは中庭にあった【ハンモックの残骸】だよ。",
+      "zh": "那就是在中庭发现的【吊床的残骸】。",
+      "vi": "Đó là [tàn tích của chiếc võng] được tìm thấy ở tâm nhĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa010",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa010|",
+      "ja": "ウチのハンモック……！？",
+      "zh": "我的吊床……！？",
+      "vi": "Chiếc võng của Tao...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro051",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro051|",
+      "ja": "おそらくアンアンはこれを利用して、<br>衝撃を緩和するための【網】を<br>事前に用意していたんだ。",
+      "zh": "我猜安安就是利用吊床<br>\n事先布置了一个用来缓冲落下冲击力的<br>\n【网兜】。",
+      "vi": "Tôi đoán AnAn đang sử dụng võng đã được bố trí trước để giảm tác động khi rơi xuống. [Túi lưới] .",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro052",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro052|",
+      "ja": "そう……<br>サーカスで使うような、<br>【セーフティネット】をね。",
+      "zh": "没错……<br>\n就跟马戏团里会用到的<br>\n【安全网】一样。",
+      "vi": "Đúng rồi... Giống như được sử dụng trong rạp xiếc [Mạng lưới an toàn] Tương tự.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria011",
+      "speaker_tag": "; > Miria: |#0203Trial08_Miria011|",
+      "ja": "じゃ、じゃあアンアンちゃんが<br>そんなことをした理由は……！",
+      "zh": "那、那安安为什么会<br>\n做这种事……！",
+      "vi": "Vậy tại sao AnAn Làm chuyện như vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro053",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro053|",
+      "ja": "そんな理由はひとつだけだ。",
+      "zh": "理由就只有一个。",
+      "vi": "Chỉ có một lý do.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro054",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro054|",
+      "ja": "アンアンがしようとしたことは――。",
+      "zh": "安安打算做的是——",
+      "vi": "Điều AnAn dự định làm là——",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Choice007",
+      "speaker_tag": "; > @choice |#0203Trial08_Choice007|",
+      "ja": "自殺",
+      "zh": "自杀",
+      "vi": "tự tử",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Choice008",
+      "speaker_tag": "; > @choice |#0203Trial08_Choice008|",
+      "ja": "逃走",
+      "zh": "逃跑",
+      "vi": "chạy trốn",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Choice009",
+      "speaker_tag": "; > @choice |#0203Trial08_Choice009|",
+      "ja": "自作自演",
+      "zh": "自导自演",
+      "vi": "Đã đạo diễn và diễn xuất",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro055",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro055|",
+      "ja": "飛び降り自殺だ。",
+      "zh": "跳楼自杀。",
+      "vi": "Tự sát bằng cách nhảy khỏi tòa nhà.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria012",
+      "speaker_tag": "; > Miria: |#0203Trial08_Miria012|",
+      "ja": "あれ、ハンモックで衝撃を緩和したって話だったよね？",
+      "zh": "咦，刚说的不是利用吊床来缓冲落下的冲击力吗？",
+      "vi": "Này, không phải Miria vừa nói về việc dùng võng để giảm tác động khi bị ngã sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria013",
+      "speaker_tag": "; > Miria: |#0203Trial08_Miria013|",
+      "ja": "自殺なら、そんなことする意味ないんじゃ……？",
+      "zh": "想自杀的话她做这种事没有意义吧……？",
+      "vi": "Chẳng ích gì khi làm những việc như thế này nếu cô ấy muốn tự tử, phải không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia018",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia018|",
+      "ja": "それどころか、<br>これまでの発言が全部覆ってしまうね。",
+      "zh": "先不说有没有意义，<br>\n这话可把我们到现在为止的发言全都推翻了。",
+      "vi": "Đừng nói đến việc nó có ý nghĩa hay không, Những lời này lật ngược tất cả những gì chúng ta đã nói cho đến nay.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa011",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa011|",
+      "ja": "……ふざけてんのか？",
+      "zh": "……你在开什么玩笑？",
+      "vi": "...mày đang đùa à?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro056",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro056|",
+      "ja": "（……怒られてしまった）",
+      "zh": "（……惹其他人生气了）",
+      "vi": "(…khiến người khác tức giận)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro057",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro057|",
+      "ja": "（アンアンは事前に準備を行って<br>　飛び降りをした……）",
+      "zh": "（安安是做好事前准备<br>\n才从阳台跳下去的……）",
+      "vi": "(AnAn đã chuẩn bị trước Tôi vừa nhảy từ ban công xuống...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro058",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro058|",
+      "ja": "（最終的な目的はどうあれ、<br>　現時点で明らかになってることが１つあるな）",
+      "zh": "（不管她最终有着什么样的目的，<br>\n目前能够明确的理由就只有一个）",
+      "vi": "(Cho dù mục đích cuối cùng của cô ấy là gì, Hiện tại chỉ có một lý do rõ ràng)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro059",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro059|",
+      "ja": "この牢屋敷からの脱走だ。",
+      "zh": "逃离这座监牢。",
+      "vi": "Thoát khỏi Ngục Dinh Thự này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro060",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro060|",
+      "ja": "アンアンは中庭で死んだフリをして<br>逃げる機会を窺っていたんだ。",
+      "zh": "安安假装在中庭死去，<br>\n再伺机寻找逃跑的机会。",
+      "vi": "AnAn giả chết tại nhà thờ, Sau đó chờ cơ hội trốn thoát.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Miria014",
+      "speaker_tag": "; > Miria: |#0203Trial08_Miria014|",
+      "ja": "で、でも……<br>死体のフリをしたからって逃げられないんじゃないかな……？",
+      "zh": "可、可是……<br>\n她装成尸体就逃不了了啊……？",
+      "vi": "Nhưng, nhưng... Cô ấy không thể trốn thoát bằng cách giả làm một xác chết...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa012",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa012|",
+      "ja": "死んだフリするだけで逃げられるっていうんなら、<br>そっから逃げる具体的な方法を教えてくれよ。",
+      "zh": "如果只要装死就逃得出去，那我还想你仔细说说，<br>\n装死后要怎样做才能跑得了。",
+      "vi": "Nếu mày có thể trốn thoát chỉ bằng cách giả chết thì Tao muốn mày giải thích điều đó một cách cẩn thận, Tao phải làm gì để trốn thoát sau khi giả chết?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hanna005",
+      "speaker_tag": "; > Hanna: |#0203Trial08_Hanna005|",
+      "ja": "べつに死体が家族の元に返されるわけでもないですし、<br>無理だと思いますわ……。",
+      "zh": "又不是人死了他们就会把尸体还给家人，<br>\n我觉得这说不过去吧……",
+      "vi": "Không phải họ chỉ trả lại thi thể cho gia đình khi có ngươi chết, Bổn tiểu thư không nghĩ điều này có ý nghĩa...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro061",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro061|",
+      "ja": "（……死んだフリで<br>　この牢屋敷から脱出するには無理があるか）",
+      "zh": "（……不可能通过装死<br>\n逃出这座监牢吗）",
+      "vi": "(…Không thể giả vờ chết để vượt qua Thoát khỏi Ngục Dinh Thự này?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro062",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro062|",
+      "ja": "（アンアンは事前に準備を行って<br>　飛び降りをした……）",
+      "zh": "（安安是做好事前准备<br>\n才从阳台跳下去的……）",
+      "vi": "(AnAn đã chuẩn bị trước Tôi vừa nhảy từ ban công xuống...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro063",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro063|",
+      "ja": "（最終的な目的はどうあれ、<br>　現時点で明らかになってることが１つあるな）",
+      "zh": "（不管她最终有着什么样的目的，<br>\n目前能够明确的理由就只有一个）",
+      "vi": "(Cho dù mục đích cuối cùng của cô ấy là gì, Hiện tại chỉ có một lý do rõ ràng)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro064",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro064|",
+      "ja": "自作自演……<br>つまり、【狂言自殺】だったんだ。",
+      "zh": "自导自演……<br>\n也就是说，【伪装自杀】。",
+      "vi": "Đạo diễn và diễn xuất... Nói cách khác, [giả vờ tự sát].",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro065",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro065|",
+      "ja": "アンアンは、【突き落とされて死んだ】。<br>そう思わせるため、<br>事前に全てを準備していた。",
+      "zh": "安安事先做好一切准备，<br>\n为的就是让我们误以为<br>\n她是【被人推下楼致死】。",
+      "vi": "AnAn đã chuẩn bị trước mọi việc, Mục đích là khiến chúng ta lầm tưởng rằng Cô ấy đã bị [đẩy xuống cầu thang cho đến chết].",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro066",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro066|",
+      "ja": "ハンモックを落下予定の位置に張り、<br>そこにスマホを置いて<br>飛行機の誘導灯の代わりにしたんだ。",
+      "zh": "她在事前预想的落地位置挂好吊床，<br>\n再放上手机用作<br>\n标记方位的道具。",
+      "vi": "Cô treo võng ở vị trí hạ cánh đã định, Sau đó đặt điện thoại lên và sử dụng nó như Đạo cụ đánh dấu chỉ đường.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro067",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro067|",
+      "ja": "血糊を準備しておき、<br>落下と同時に自分の体へと付着させ……。",
+      "zh": "然后备好血浆，<br>\n在坠落的同时把血浆泼到自己身上……",
+      "vi": "Sau đó chuẩn bị huyết tương, Khi rơi xuống, anh ấy đã đổ huyết tương lên người mình...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro068",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro068|",
+      "ja": "そして、胸元に折れた鉄柵を添える。",
+      "zh": "最后，拿起折断的铁栅放在胸前。",
+      "vi": "Cuối cùng, nhặt hàng rào sắt gãy và áp vào ngực.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro069",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro069|",
+      "ja": "……立派な【死体】の完成だよ。",
+      "zh": "……于是，一具完美的【尸体】就炮制成功了。",
+      "vi": "…Vậy là một [xác chết] hoàn hảo đã được chế tạo thành công.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Leia019",
+      "speaker_tag": "; > Leia: |#0203Trial08_Leia019|",
+      "ja": "そ、そんな……！",
+      "zh": "怎、怎么可能……！",
+      "vi": "Làm sao, làm sao có thể...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa013",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa013|",
+      "ja": "……ちょっと待てよ。",
+      "zh": "……等下。",
+      "vi": "…Đợi một chút.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa014",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa014|",
+      "ja": "その説にはいくつか問題があんだろうよ。",
+      "zh": "你这说法有几个漏洞吧。",
+      "vi": "Có thể có một số sơ hở trong tuyên bố của mày.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro070",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro070|",
+      "ja": "……ああ、否定はしないよ。",
+      "zh": "……没错，我不否认这个推理存在漏洞。",
+      "vi": "...Đúng, tôi không phủ nhận rằng có những sơ hở trong cách lập luận này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro071",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro071|",
+      "ja": "まだ事件について明らかになっていないことは<br>多々ある。",
+      "zh": "这起案件仍然有很多<br>\n未解的疑点。",
+      "vi": "Vẫn còn nhiều việc phải làm với vụ án này Những nghi ngờ chưa được giải quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro072",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro072|",
+      "ja": "だから……<br>話し合おうじゃないか――。",
+      "zh": "所以……<br>\n我们来讨论吧——",
+      "vi": "Vậy... Hãy thảo luận về nó -",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Hiro073",
+      "speaker_tag": "; > Hiro: |#0203Trial08_Hiro073|",
+      "ja": "――真実へ向かって！",
+      "zh": "——朝着真相的所在继续论证！",
+      "vi": "---Tiếp tục tranh luận về sự thật!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa015",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa015|",
+      "ja": "……いいぜ。",
+      "zh": "……好啊。",
+      "vi": "...Được rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial08_Alisa016",
+      "speaker_tag": "; > Alisa: |#0203Trial08_Alisa016|",
+      "ja": "なら……聞かせてもらおうじゃねぇか！",
+      "zh": "那……我就来问个一清二楚！",
+      "vi": "Vậy thì... hãy để Tao hỏi mày mọi thứ!",
+      "objection_links": []
+    }
+  ]
+}

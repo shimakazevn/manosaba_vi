@@ -1,0 +1,592 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Bad04",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Bad04' Naninovel scenario script",
+  "total_entries": 73,
+  "entries": [
+    {
+      "id": "0101Bad04_Ema001",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema001|",
+      "ja": "さっき見たゲストハウスの方に逃げよう！",
+      "zh": "往刚刚见到的招待所方向逃吧！",
+      "vi": "Chúng mình mau chạy về phía Nhà Khách đi!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry001",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry001|",
+      "ja": "なるほど！ あそこなら建物の中に隠れて、<br>やり過ごせるかもしれませんね！",
+      "zh": "我知道了！我们可以藏建筑物里面，<br>\n躲一阵子等它们走开，对不对！",
+      "vi": "Ý kiến hay đó! Ẩn nấp bên trong tòa nhà đó chắc sẽ an toàn hơn!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative001",
+      "speaker_tag": "",
+      "ja": "エマたちの考えは甘かった。",
+      "zh": "但艾玛她们的想法过于单纯了。",
+      "vi": "Thế nhưng suy nghĩ của Ema và mọi người đã quá ngây thơ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative002",
+      "speaker_tag": "",
+      "ja": "逃げた先にも、看守が待ち構えていたのだ。",
+      "zh": "在逃跑方向上，看守正拦在路中间等着她们。",
+      "vi": "Tại lối vào Nhà Khách, nhiều tên cai ngục khổng lồ khác đã đứng phục kích sẵn từ bao giờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Hanna001",
+      "speaker_tag": "; > Hanna: |#0101Bad04_Hanna001|",
+      "ja": "そんなっ！？",
+      "zh": "怎会这样！？",
+      "vi": "Không thể nào……!?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative003",
+      "speaker_tag": "",
+      "ja": "３人はあっさりと看守に捕まってしまった。<br>そして――",
+      "zh": "三人一下子就被看守抓住了。<br>\n然后——",
+      "vi": "Bị bao vây tứ phía không lối thoát, tất cả đều bị tiêu diệt.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative004",
+      "speaker_tag": "",
+      "ja": "ハンナだけが、懲罰房行きになった。",
+      "zh": "只有汉娜被送进了惩罚室。",
+      "vi": "【BAD END 04: Đào tẩu trong tuyệt vọng】",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema002",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema002|",
+      "ja": "なんで！？ どうしてハンナちゃんだけが……！",
+      "zh": "为什么！？为什么只有汉娜进去了……！",
+      "vi": "Tại sao! ? Tại sao chỉ có Hanna vào...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry002",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry002|",
+      "ja": "そうですよ！<br>壁を壊そうとしたのは私なのに……。",
+      "zh": "就是啊！<br>\n明明想要弄坏墙壁的是我……",
+      "vi": "Đúng vậy! Rõ ràng là tôi muốn phá hủy bức tường...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema003",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema003|",
+      "ja": "（磔刑台とか拷問器具みたいなの、あったよね……）",
+      "zh": "（记得那里有十字架之类的拷问工具……）",
+      "vi": "(Hãy nhớ ở đó có những dụng cụ tra tấn như thánh giá...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative005",
+      "speaker_tag": "",
+      "ja": "エマはアリサが捕まっていたときの様子を<br>思い出して、身を震わせた。",
+      "zh": "艾玛回想起亚里沙被抓的情形，<br>\n不禁浑身颤抖。",
+      "vi": "Ema nhớ lại tình huống khi Alisa bị bắt, Tôi không khỏi run rẩy toàn thân.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema004",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema004|",
+      "ja": "やっぱり何か、されるのかな……。",
+      "zh": "她肯定会被惩罚……",
+      "vi": "Cô ấy chắc chắn sẽ bị trừng phạt...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative006",
+      "speaker_tag": "",
+      "ja": "扉には、<ruby=\"のぞ\">覗</ruby>き窓がある。<br>そこから室内の様子を確かめることはできた。",
+      "zh": "门上有个小窗，<br>\n能看到室内的状况。",
+      "vi": "Có một cửa sổ nhỏ trên cửa, Có thể nhìn thấy tình hình trong nhà.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema005",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema005|",
+      "ja": "（どうしよう……見るのが怖い。<br>　もし、ハンナちゃんが酷い目にあっていたら……）",
+      "zh": "（怎么办……我不敢看里面。<br>\n要是汉娜遭了严刑的话……）",
+      "vi": "(Tôi nên làm gì đây...Tôi không dám nhìn vào bên trong. Nếu Hanna bị tra tấn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry003",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry003|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative007",
+      "speaker_tag": "",
+      "ja": "エマもシェリーも決心がつかないのか、<br>ただ扉の前に<ruby=\"たたず\">佇</ruby>むことしかできないでいる。",
+      "zh": "艾玛和雪莉两人都下不了决心，<br>\n只能呆站在门前一动不动。",
+      "vi": "Cả Ema và Sherry đều không thể quyết định được, Anh chỉ có thể đứng bất động trước cửa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema006",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema006|",
+      "ja": "ひっ……！ な、何……！？",
+      "zh": "噫……！什、什么情况……！？",
+      "vi": "Ôi...! C-chuyện gì đang xảy ra vậy...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative008",
+      "speaker_tag": "",
+      "ja": "扉の向こうから聞こえた不穏な音に、<br>エマは思わずシェリーに身を寄せる。",
+      "zh": "艾玛听见门后传来令人不安的声音，<br>\n不由得往雪莉身上倚靠。",
+      "vi": "Ema nghe thấy một âm thanh đáng lo ngại phát ra từ phía sau cánh cửa, Tôi không thể không dựa vào Sherry.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Hanna002",
+      "speaker_tag": "; > Hanna: |#0101Bad04_Hanna002|",
+      "ja": "あうっ！ な、何するんですの！？",
+      "zh": "呀！你、你干什么！？",
+      "vi": "Vâng! Bạn, bạn đang làm gì vậy! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative009",
+      "speaker_tag": "",
+      "ja": "何かを<ruby=\"たた\">叩</ruby>きつけるような音と<br>ハンナの声が、中から聞こえてくる。",
+      "zh": "能听见里面传来用什么东西敲打的声音<br>\n还有汉娜的声音。",
+      "vi": "Bạn có thể nghe thấy âm thanh của vật gì đó bị va đập vào bên trong Và giọng của Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Hanna003",
+      "speaker_tag": "; > Hanna: |#0101Bad04_Hanna003|",
+      "ja": "痛いっ！ やめてくださいまし！？",
+      "zh": "好痛！住手呀！？",
+      "vi": "Đau quá! Dừng lại đi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema007",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema007|",
+      "ja": "ハンナちゃん、大丈夫！？",
+      "zh": "汉娜她没事吧！？",
+      "vi": "Hanna, cô ấy ổn chứ? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative010",
+      "speaker_tag": "",
+      "ja": "エマとシェリーは、<ruby=\"のぞ\">覗</ruby>き窓から中の様子を<ruby=\"うかが\">窺</ruby>う。",
+      "zh": "艾玛和雪莉从小窗看向室内。",
+      "vi": "Ema và Sherry nhìn vào trong nhà từ cửa sổ nhỏ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema008",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema008|",
+      "ja": "……！？",
+      "zh": "……！？",
+      "vi": "……！？",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Hanna004",
+      "speaker_tag": "; > Hanna: |#0101Bad04_Hanna004|",
+      "ja": "ひうっ！ もう<ruby=\"たた\">叩</ruby>かないでくださいまし！？",
+      "zh": "呜！不要再打我了！？",
+      "vi": "Ôi! Đừng đánh Bổn tiểu thư nữa! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative011",
+      "speaker_tag": "",
+      "ja": "室内で繰り広げられている光景は、<br>エマが想像していたであろうものとは少し違っていた。",
+      "zh": "室内呈现的景象，<br>\n跟艾玛的想像有少许出入。",
+      "vi": "Cảnh trình chiếu trong nhà, Nó hơi khác so với trí tưởng tượng của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema009",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema009|",
+      "ja": "看守が持ってるの……あれって、定規？",
+      "zh": "看守手里的是……尺子？",
+      "vi": "Thứ mà Cai Ngục đang cầm là... một cây thước?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative012",
+      "speaker_tag": "",
+      "ja": "ハンナは<ruby=\"たっけいだい\">磔刑台</ruby>に拘束されている。<br>だが恐ろしい拷問器具ではなく、定規で<ruby=\"たた\">叩</ruby>かれていた。<br>まるで教師か親が子供を<ruby=\"せっかん\">折檻</ruby>しているかのように。",
+      "zh": "汉娜被绑在十字架上，<br>\n但用来敲打她的并不是拷问工具，而是尺子。<br>\n就好像老师或者父母责罚小朋友一样。",
+      "vi": "Hanna bị trói vào cây thánh giá, Nhưng thứ dùng để đánh cô không phải là dụng cụ tra tấn mà là một cây thước. Nó giống như việc giáo viên hay cha mẹ trừng phạt một đứa trẻ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative013",
+      "speaker_tag": "",
+      "ja": "看守が定規を振り上げて、ハンナの頬を打つ。",
+      "zh": "看守举起尺子，敲打汉娜的脸颊。",
+      "vi": "Cai Ngục giơ thước lên và đánh vào má Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry004",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry004|",
+      "ja": "エマさん、ハンナさんを助けましょう。",
+      "zh": "艾玛，我们去救汉娜吧。",
+      "vi": "Ema, hãy đi cứu Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema010",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema010|",
+      "ja": "で、でも、助けるって一体どうやって……。",
+      "zh": "可、可是，我们要怎么救……",
+      "vi": "Nhưng, nhưng, làm cách nào để cứu...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry005",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry005|",
+      "ja": "こうやってです！",
+      "zh": "就是这么做！",
+      "vi": "Cứ làm đi!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema011",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema011|",
+      "ja": "え、ちょっとシェリーちゃん！？",
+      "zh": "欸，等一下雪莉！？",
+      "vi": "Này, đợi một chút Sherry! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative014",
+      "speaker_tag": "",
+      "ja": "シェリーは拳を握り、<br>懲罰房の扉を勢いよく殴りつけた。",
+      "zh": "雪莉握紧拳头，<br>\n狠狠往惩罚室的门上砸。",
+      "vi": "Sherry siết chặt nắm tay, Đóng sầm cửa Phòng Kỷ Luật Biệt Giam Biệt Giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Hanna005",
+      "speaker_tag": "; > Hanna: |#0101Bad04_Hanna005|",
+      "ja": "な、なんなんですの！？",
+      "zh": "怎、怎么回事！？",
+      "vi": "Cái gì, chuyện gì đang xảy ra vậy! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry006",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry006|",
+      "ja": "ハンナさん、助けに来ました！",
+      "zh": "汉娜，我们来救你了！",
+      "vi": "Hanna, chúng tôi tới đây để cứu cô!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative015",
+      "speaker_tag": "",
+      "ja": "扉を破壊して室内に現れたシェリーに、<br>ハンナは<ruby=\"あぜん\">唖然</ruby>とする。",
+      "zh": "面对破门而入的雪莉，<br>\n汉娜哑口无言。",
+      "vi": "Đối mặt với Sherry đang xông vào cửa, Hanna không nói nên lời.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema012",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema012|",
+      "ja": "ちょ、ちょっと待ってシェリーちゃん！<br>ダメだよ、看守に抵抗したら……！",
+      "zh": "等、等一下雪莉！<br>\n不可以啊，要是抵抗看守的话……！",
+      "vi": "Đợi đã, đợi một chút Sherry! Không, nếu bạn chống lại lính gác...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative016",
+      "speaker_tag": "",
+      "ja": "――ヒロのように、殺されてしまう。",
+      "zh": "——会跟希罗一样被杀的。",
+      "vi": "---Sẽ bị giết như Anh hùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Hanna006",
+      "speaker_tag": "; > Hanna: |#0101Bad04_Hanna006|",
+      "ja": "そうですわ！ わたくしなら大丈夫ですから、<br>バカな真似はおよしなさい！",
+      "zh": "对啊！我没事的，<br>\n你别做傻事啊！",
+      "vi": "Vâng! Bổn tiểu thư ổn, Đừng làm điều gì ngu ngốc!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry007",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry007|",
+      "ja": "いえ、やってみないとわからないじゃないですか。",
+      "zh": "不不，不试试怎么知道呢？",
+      "vi": "Không, không thử thì làm sao biết được?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative017",
+      "speaker_tag": "",
+      "ja": "シェリーは一歩前に踏み出して、<br>看守に近付いていく。",
+      "zh": "雪莉往前踏出一步，<br>\n靠近看守。",
+      "vi": "Sherry tiến lên một bước, Tiếp cận Cai Ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry008",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry008|",
+      "ja": "本気の本気でやれば、<br>案外ぶっ殺せるかもしれませんよ？",
+      "zh": "只要使出百分之二百的真本事，<br>\n说不定就能轻松杀死它哦？",
+      "vi": "Miễn là bạn sử dụng 200% khả năng thực sự của mình, Có lẽ bạn có thể giết nó một cách dễ dàng?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry009",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry009|",
+      "ja": "ここには武器もたくさんありますし！",
+      "zh": "而且这里还有好多的武器！",
+      "vi": "Và có rất nhiều vũ khí ở đây!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative018",
+      "speaker_tag": "",
+      "ja": "シェリーは近くにあった金属の棒を手に取る。",
+      "zh": "雪莉拿起近处的金属棒。",
+      "vi": "Sherry nhặt thanh kim loại gần đó lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative019",
+      "speaker_tag": "",
+      "ja": "抵抗の意思を察知したのか、<br>看守がシェリーに対して鎌を振り下ろした。",
+      "zh": "看守察觉到了雪莉抵抗的想法，<br>\n于是朝她挥下镰刀。",
+      "vi": "Cai Ngục cảm nhận được sự phản kháng của Sherry, Thế là anh ta vung liềm vào cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry010",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry010|",
+      "ja": "！",
+      "zh": "！",
+      "vi": "！",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative020",
+      "speaker_tag": "",
+      "ja": "シェリーは鎌による一撃を<ruby=\"か\">搔</ruby>い潜り、<br>看守に鉄の棒を<ruby=\"たた\">叩</ruby>きつけた。",
+      "zh": "雪莉躲开镰刀的攻势，<br>\n并用铁棒击打看守。",
+      "vi": "Sherry né đòn tấn công của lưỡi liềm, và đánh Cai Ngục bằng gậy sắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry011",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry011|",
+      "ja": "うああああああっ！",
+      "zh": "唔啊啊啊啊啊啊！",
+      "vi": "Uhhhhhhhhhh!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative021",
+      "speaker_tag": "",
+      "ja": "のけぞるような体勢になった看守に、<br>シェリーは容赦なく追い打ちをかけていく。",
+      "zh": "看守往后一仰，<br>\n雪莉毫不留情发出追击。",
+      "vi": "Cai Ngục ngả người ra sau, Sherry phát động một cuộc truy đuổi không ngừng nghỉ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry012",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry012|",
+      "ja": "エマさん！ 今のうちに、<br>ハンナさんを下ろして逃げてください！",
+      "zh": "艾玛！趁现在，<br>\n快给汉娜松绑，带她逃跑！",
+      "vi": "Ema! Hãy tận dụng ngay bây giờ, Hãy nhanh chóng cởi trói cho Hanna và đưa cô ấy trốn thoát!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema013",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema013|",
+      "ja": "え、えええっ！？",
+      "zh": "欸、欸欸欸！？",
+      "vi": "Này, này, này! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry013",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry013|",
+      "ja": "早くしてくださいー！<br>いつまでもつかわかりませんので！",
+      "zh": "动作快！<br>\n我不知道我能坚持多久！",
+      "vi": "Hành động nhanh chóng! Tôi không biết mình có thể trụ được bao lâu!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema014",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema014|",
+      "ja": "わ、わかった……！",
+      "zh": "我、我知道了……！",
+      "vi": "Tôi-tôi biết...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative022",
+      "speaker_tag": "",
+      "ja": "エマが<ruby=\"たっけいだい\">磔刑台</ruby>に駆け寄り、<br>ハンナの拘束を解きにかかる。",
+      "zh": "艾玛飞奔向十字架，<br>\n为汉娜松绑。",
+      "vi": "Ema bay đến thập tự giá, Cởi trói cho Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative023",
+      "speaker_tag": "",
+      "ja": "どれだけシェリーの怪力で殴られても、<br>看守が死ぬ気配はない。",
+      "zh": "不管雪莉用怪力如何殴打，<br>\n看守都没有濒死的迹象。",
+      "vi": "Cho dù Sherry có đánh cô ấy bằng lực lạ đến đâu, Không ai trong số Cai Ngục có dấu hiệu sắp chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry014",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry014|",
+      "ja": "わわっと！",
+      "zh": "哇哟！",
+      "vi": "Ôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative024",
+      "speaker_tag": "",
+      "ja": "死なないどころか、<br>恐るべきスピードで鎌による反撃を繰り出してきた。",
+      "zh": "不仅不死，<br>\n还以可怕的速度挥出反击的镰刀。",
+      "vi": "Không chỉ bất tử, Anh ta cũng vung lưỡi hái phản công của mình với tốc độ kinh hoàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative025",
+      "speaker_tag": "",
+      "ja": "<ruby=\"とっさ\">咄嗟</ruby>に受け止めた鉄の棒が、<br>真っ二つに切断される。",
+      "zh": "雪莉用铁棒瞬间招架住了攻击，<br>\n但铁棒直接断成了两截。",
+      "vi": "Sherry dùng thanh sắt để ngay lập tức đỡ đòn tấn công, Nhưng thanh sắt lại gãy thẳng thành hai mảnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry015",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry015|",
+      "ja": "それなら、これで……！",
+      "zh": "那，我就用这个……！",
+      "vi": "Vậy thì tôi sẽ dùng cái này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative026",
+      "speaker_tag": "",
+      "ja": "武器は、まだまだある。<br>シェリーは処刑用と思しき剣を<ruby=\"つか\">掴</ruby>んだ。",
+      "zh": "武器要多少有多少。<br>\n雪莉握住似乎是用来处刑的剑。",
+      "vi": "Có nhiều vũ khí như bạn muốn. Sherry cầm thanh kiếm dường như được dùng để hành quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry016",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry016|",
+      "ja": "やああああっ！",
+      "zh": "呀啊啊啊啊！",
+      "vi": "Yeahhhhhhh!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative027",
+      "speaker_tag": "",
+      "ja": "剣を手に、体ごと看守に突っ込む。",
+      "zh": "雪莉手持利剑，向看守发起冲锋。",
+      "vi": "Sherry, kiếm trong tay, lao vào đám Cai Ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Ema015",
+      "speaker_tag": "; > Ema: |#0101Bad04_Ema015|",
+      "ja": "ぐっ……。",
+      "zh": "咕……",
+      "vi": "Gu...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Hanna007",
+      "speaker_tag": "; > Hanna: |#0101Bad04_Hanna007|",
+      "ja": "あっ……。",
+      "zh": "啊……",
+      "vi": "À...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry017",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry017|",
+      "ja": "……あれ？",
+      "zh": "……哎呀？",
+      "vi": "...Rất tiếc?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative028",
+      "speaker_tag": "",
+      "ja": "シェリーの剣が貫いたのは、看守ではなかった。",
+      "zh": "但雪莉的剑贯穿的，并不是看守。",
+      "vi": "Nhưng thanh kiếm của Sherry xuyên thủng không phải lớp bảo vệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative029",
+      "speaker_tag": "",
+      "ja": "エマと、ハンナだ。",
+      "zh": "而是艾玛和汉娜。",
+      "vi": "Nhưng Ema và Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative030",
+      "speaker_tag": "",
+      "ja": "看守の背後で、<br>エマは<ruby=\"たっけいだい\">磔刑台</ruby>からハンナを下ろそうとしていた。",
+      "zh": "在看守的身后，<br>\n艾玛正在十字架处为汉娜松绑。",
+      "vi": "Phía sau Cai Ngục, Ema đang cởi trói cho Hanna ở thập tự giá.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative031",
+      "speaker_tag": "",
+      "ja": "シェリーの突進を看守が避けたことで、<br>２人を刺し貫いてしまったのだ。",
+      "zh": "而看守躲开了雪莉的冲锋，<br>\n自然剑就刺中了她们两个。",
+      "vi": "Cai Ngục né được đòn tấn công của Sherry, Đương nhiên, thanh kiếm đâm vào cả hai người.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry018",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry018|",
+      "ja": "……あちゃー、失敗ですね。",
+      "zh": "……哎呀，失败了呢。",
+      "vi": "...Ồ, nó thất bại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Sherry019",
+      "speaker_tag": "; > Sherry: |#0101Bad04_Sherry019|",
+      "ja": "助けられると思ったんです。<br>でも……やっぱり壊しちゃいましたね。<br>エマさん、ハンナさん、ごめんなさい。",
+      "zh": "我还以为能救到的。<br>\n可是……结果还是搞砸了呢。<br>\n艾玛、汉娜，对不起。",
+      "vi": "Tôi nghĩ nó có thể được cứu. Nhưng... cuối cùng nó lại bị rối tung lên. Ema, Hanna, tôi xin lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad04_Narrative032",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ぼうぜん\">呆然</ruby>と口にするシェリーの背後で、<br>看守が鎌を掲げて――",
+      "zh": "雪莉呆呆地说道。在她背后，<br>\n看守举起了镰刀——",
+      "vi": "Sherry ngơ ngác nói. Phía sau cô ấy, Người lính gác giơ liềm lên——",
+      "objection_links": []
+    }
+  ]
+}

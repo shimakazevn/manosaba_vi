@@ -1,0 +1,673 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial01' Naninovel scenario script",
+  "total_entries": 82,
+  "entries": [
+    {
+      "id": "0205Trial01_Meruru001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru001|",
+      "ja": "ま、魔女化とは……<br>大魔女様に付与された<br>【魔女因子】が<br>覚醒することです。",
+      "zh": "魔、魔女化是指……<br>\n大魔女大人所赋予的<br>\n【魔女因子】<br>\n激活的过程。",
+      "vi": "Sự biến đổi của ma quỷ, phù thủy ám chỉ... được đưa ra bởi Phù thủy vĩ đại [Yếu tố Ma Nữ] quá trình kích hoạt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru002|",
+      "ja": "魔女因子を持って<br>生まれた少女は<br>体質が合えば<br>魔法が使えるようになります。",
+      "zh": "天生携带<br>\n魔女因子的少女，<br>\n只要体质匹配，<br>\n就能使出魔法。",
+      "vi": "Sinh ra với Cô gái có nhân tố phù thủy, Chỉ cần vóc dáng phù hợp là Bạn có thể sử dụng phép thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru003|",
+      "ja": "そして少女の<br><link=\"Objection_02_05_01_01\">精神が魔女化</link>することで、<br><link=\"Objection_02_05_01_02\">肉体もまた魔女と化す</link><br>のです。",
+      "zh": "随着少女的<br>\n<link=\"Objection_02_05_01_01\">精神产生魔女化</link>，<br>\n<link=\"Objection_02_05_01_02\">肉体也会随之转化为魔女</link>。<br>",
+      "vi": "Với của cô gái <link=\"Objection_02_05_01_01\">Thần khí tạo ra sự biến đổi phù thủy</link>, <link=\"Objection_02_05_01_02\">Cơ thể cũng sẽ biến thành phù thủy</link>.",
+      "objection_links": [
+        "Objection_02_05_01_01",
+        "Objection_02_05_01_02"
+      ]
+    },
+    {
+      "id": "0205Trial01_Meruru004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru004|",
+      "ja": "その行き着く先は<br>【なれはて】……。",
+      "zh": "其最终结果就是<br>\n转变成【残骸】……",
+      "vi": "Kết quả cuối cùng là Biến thành [Đống đổ nát]...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru005|",
+      "ja": "【なれはて】とは、<br>魔女因子が魂を食い尽くした<br>魔女の抜け殻のようなものです。",
+      "zh": "【残骸】是指，<br>\n魔女因子将灵魂吞噬殆尽后，<br>\n遗留下的魔女的空壳。",
+      "vi": "[Đống đổ nát] đề cập đến, Sau khi Yếu tố Ma Nữ nuốt chửng linh hồn, Cái vỏ trống rỗng của mụ phù thủy để lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru006|",
+      "ja": "魔法も使えない、<br>ただのお人形……。",
+      "zh": "残骸不能使用魔法，<br>\n纯粹只是个空洞的人偶……",
+      "vi": "Xác tàu không thể sử dụng phép thuật, Nó chỉ là một con búp bê trống rỗng...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru007|",
+      "ja": "魔女因子が魂を喰らい尽くすと<br>魔女化して定着した<br>一部の因子を残して<br>その肉体を離れます。",
+      "zh": "魔女因子将灵魂吞噬殆尽后，<br>\n会主动剥离因魔女化<br>\n固定下来的一部分因子，<br>\n离开那个肉体。",
+      "vi": "Sau khi Yếu tố Ma Nữ nuốt chửng linh hồn, Sẽ tích cực cởi đồ do biến hình thành phù thủy Một phần cố định của hệ số, Hãy rời khỏi cơ thể đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru008|",
+      "ja": "そして離れた魔女因子は<br>輪廻転生のように<br>新たな少女へと<br>移っていくんです。",
+      "zh": "而离开的魔女因子<br>\n会像轮回转世一样，<br>\n转移到<br>\n新的少女身上。",
+      "vi": "Và nhân tố phù thủy đã để lại Nó sẽ giống như sự tái sinh, Di chuyển tới Về cô gái mới.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru009",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru009|",
+      "ja": "……で、でも私は……<br>そんな魔女化してできた<br>魔女とは<br>違う存在で――。",
+      "zh": "……但、但是，我……<br>\n和那种因魔女化<br>\n转化而成的魔女，<br>\n是不同的造物——",
+      "vi": "...Nhưng, nhưng, tôi... Và kiểu người trở thành phù thủy Phù thủy đã biến hình, là những sáng tạo khác nhau——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru010",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru010|",
+      "ja": "――最後に残った<br><link=\"Objection_02_05_01_03\">【原初の魔女】</link>なんです。",
+      "zh": "——我是仅存的<br>\n<link=\"Objection_02_05_01_03\">【原初的魔女】</link>。",
+      "vi": "---Tôi là duy nhất còn lại <link=\"Objection_02_05_01_03\">[Phù thủy nguyên thủy]</link>.",
+      "objection_links": [
+        "Objection_02_05_01_03"
+      ]
+    },
+    {
+      "id": "0205Trial01_Hiro001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial01_Hiro001|",
+      "ja": "【原初の魔女】……？",
+      "zh": "【原初的魔女】……？",
+      "vi": "[Phù thủy nguyên thủy]...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru011",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru011|",
+      "ja": "この島にはその昔、<br>大魔女さまと共に<br>【原初の魔女】たる<br>大勢の魔女が住んでいました。",
+      "zh": "很久以前，<br>\n有许多所谓的【原初的魔女】<br>\n和大魔女大人一起<br>\n共同住在这座岛上。",
+      "vi": "Đã lâu lắm rồi, Có rất nhiều người được gọi là [phù thủy nguyên thủy] Với Phù thủy vĩ đại Sống cùng nhau trên hòn đảo này.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru012",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru012|",
+      "ja": "【原初の魔女】とは、<br>元からこの島に<br><link=\"Objection_02_05_01_04\">住んでいた者</link>たち……。",
+      "zh": "【原初的魔女】就是指，<br>\n这座岛的<br>\n原<link=\"Objection_02_05_01_04\">住民</link>……",
+      "vi": "[Phù thủy ban đầu] có nghĩa là, của hòn đảo này Cựu cư dân <link=\"Objection_02_05_01_04\"></link>……",
+      "objection_links": [
+        "Objection_02_05_01_04"
+      ]
+    },
+    {
+      "id": "0205Trial01_Meruru013",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial01_Meruru013|",
+      "ja": "魔法を操る、<br><link=\"Objection_02_05_01_05\">上位の存在</link>なんです……。",
+      "zh": "是能够施展魔法的，<br>\n<link=\"Objection_02_05_01_05\">高等的造物</link>……",
+      "vi": "Có thể sử dụng phép thuật, <link=\"Objection_02_05_01_05\">Sáng tạo bậc cao</link>……",
+      "objection_links": [
+        "Objection_02_05_01_05"
+      ]
+    },
+    {
+      "id": "0205Trial01_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro002|",
+      "ja": "（……まるで神話のような話だ。<br>　固有名詞ばかりで理解に労する部分もあるが……）",
+      "zh": "（……简直像神话一样。<br>\n专有名词太多，有些地方难以理解……）",
+      "vi": "(…Nó giống như một huyền thoại vậy. Có quá nhiều danh từ riêng và một số chỗ khó hiểu...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro003|",
+      "ja": "（これまで私が見聞きした情報と合わせれば、<br>　彼女が言っていることは真実だ）",
+      "zh": "（但结合我至今为止的所见所闻来判断，<br>\n她说的话是真实的）",
+      "vi": "(Nhưng xét theo những gì tôi đã thấy và nghe cho đến nay, Những gì cô ấy nói là đúng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro004|",
+      "ja": "（……一部を除けば、だが）",
+      "zh": "（……除了其中一部分）",
+      "vi": "(…ngoại trừ một số người trong số họ)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro005|",
+      "ja": "（突きつけてみよう。<br>　彼女の語る言葉と私の持つ情報の相違点を……！）",
+      "zh": "（就让我来当面指出吧。<br>\n她说的话与我所知信息之间存在的差异……！）",
+      "vi": "(Hãy để tôi chỉ thẳng vào mặt bạn. Sự khác biệt giữa những gì cô ấy nói và những gì tôi biết...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial01_Choice001| button:ChoiceButtons/Trial/Question handler:TrialHiro",
+      "ja": "精神の魔女化とは？",
+      "zh": "精神的魔女化是指？",
+      "vi": "Phù thủy tâm linh có nghĩa là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial01_Choice002| button:ChoiceButtons/Trial/Question handler:TrialHiro",
+      "ja": "肉体の魔女化とは？",
+      "zh": "肉体的魔女化是指？",
+      "vi": "Phù thủy của cơ thể có nghĩa là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial01_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "メルルは人間だ",
+      "zh": "梅露露是人类",
+      "vi": "Meruru là con người",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Choice004",
+      "speaker_tag": "; > @choice |#0205Trial01_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "自然発生できない",
+      "zh": "无法自然出现",
+      "vi": "không thể xuất hiện một cách tự nhiên",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Choice005",
+      "speaker_tag": "; > @choice |#0205Trial01_Choice005| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "私たちも魔法を使える",
+      "zh": "我们也能用魔法",
+      "vi": "Chúng ta cũng có thể sử dụng phép thuật",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro006|",
+      "ja": "精神の魔女化……。",
+      "zh": "精神的魔女化……",
+      "vi": "Sự phù thủy của linh hồn...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro007|",
+      "ja": "具体的にそれは何を指すのかな？",
+      "zh": "具体来说是指什么呢？",
+      "vi": "Nó có ý nghĩa cụ thể là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru014",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru014|",
+      "ja": "えっと……<br>それは、精神の凶暴化ですね。",
+      "zh": "呃……<br>\n那是指，精神的凶暴化。",
+      "vi": "Ờ... Điều đó có nghĩa là sự hung dữ của tinh thần.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru015",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru015|",
+      "ja": "魔女化すると、<br>殺人衝動を抱いちゃうんです……。",
+      "zh": "一旦开始魔女化，<br>\n就会产生杀人冲动……",
+      "vi": "Khi bạn bắt đầu trở thành phù thủy, Sẽ có cảm giác muốn giết người...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru016",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru016|",
+      "ja": "それが大魔女様の残した呪いです……。",
+      "zh": "这就是大魔女大人留下的诅咒……",
+      "vi": "Đây là lời nguyền do mụ phù thủy vĩ đại để lại...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro008|",
+      "ja": "（殺人衝動の増加……）",
+      "zh": "（杀人冲动的增加……）",
+      "vi": "(Sự thôi thúc giết người gia tăng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro009|",
+      "ja": "（私に残された時間も少ないか……）",
+      "zh": "（看来我剩下的时间也不多了……）",
+      "vi": "(Có vẻ như mình không còn nhiều thời gian nữa...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro010|",
+      "ja": "肉体の魔女化……<br>それは具体的に、どういうことが起こるのかな。",
+      "zh": "肉体的魔女化……<br>\n具体来说，会发生什么事呢？",
+      "vi": "Sự phù thủy của cơ thể... Cụ thể thì chuyện gì sẽ xảy ra?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru017",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru017|",
+      "ja": "最初は爪が伸びたりする程度ですが……。",
+      "zh": "一开始程度不深，只会出现手指甲变长一类的情况……",
+      "vi": "Ban đầu thì không nghiêm trọng lắm, chỉ là móng tay dài ra thôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru018",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru018|",
+      "ja": "一定のラインを越えると、<br>不老不死になって……。",
+      "zh": "但只要超过某个程度，<br>\n就会变得长生不死……",
+      "vi": "Nhưng miễn là nó vượt quá một mức nhất định, sẽ trở nên bất tử...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru019",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru019|",
+      "ja": "そうなったら大きな傷を負ったとしても、<br>時間が経てば治ってしまいます……。",
+      "zh": "这时候就算受了重伤，<br>\n也能随着时间流逝而痊愈……",
+      "vi": "Ngay cả khi bạn bị thương nặng vào lúc này, Nó cũng có thể lành lại theo thời gian...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru020",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru020|",
+      "ja": "それは過去、<br>人間たちが噂した<br>【醜悪な化け物としての魔女】……。",
+      "zh": "过去，<br>\n【貌似丑陋怪物的魔女形象】<br>\n在人类之间口耳相传……",
+      "vi": "Quá khứ, [Hình ảnh mụ phù thủy trông như một con quái vật xấu xí] Truyền miệng giữa con người...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru021",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru021|",
+      "ja": "その虚像としての怪物を再現しているんです。",
+      "zh": "而魔女化正是重现了那虚构形象中的怪物。",
+      "vi": "Biến hình phù thủy là sự tái hiện lại con quái vật trong hình ảnh hư cấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru022",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru022|",
+      "ja": "とっても皮肉……ですよね……。<br>可哀想……。",
+      "zh": "非常讽刺……对吧……<br>\n真可怜……",
+      "vi": "Thật mỉa mai...đúng rồi... Thật đáng thương...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro011|",
+      "ja": "（……そうだ。<br>　それが魔女化だ）",
+      "zh": "（……没错。<br>\n这就是魔女化）",
+      "vi": "(…Đúng rồi. Đây là phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro012|",
+      "ja": "（今現在私に起きている現象……）",
+      "zh": "（这就是目前正发生在我身上的现象……）",
+      "vi": "(Đây là những gì đang xảy ra với tôi lúc này...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro013|",
+      "ja": "（他のみんなに<br>　【私のような化け物になってくれ】と言っても、<br>　承諾してくれるはずはないか……）",
+      "zh": "（就算我去求别人说<br>\n【请变成像我这样的怪物吧】，<br>\n她们也绝不可能答应……）",
+      "vi": "(Ngay cả khi tôi yêu cầu người khác nói [Hãy trở thành một con quái vật giống như tôi đi], Không đời nào họ lại đồng ý...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro014|",
+      "ja": "……それはおかしいな。",
+      "zh": "……这很奇怪啊。",
+      "vi": "...Điều này thật kỳ lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro015|",
+      "ja": "ここは絶海の孤島だ。",
+      "zh": "这里是与世隔绝的孤岛。",
+      "vi": "Đây là một hòn đảo bị cô lập.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro016|",
+      "ja": "魔女が無から発生したとでも言うのかな？",
+      "zh": "难不成你想说，魔女是无中生有自然产生的吗？",
+      "vi": "Có phải bạn muốn nói rằng phù thủy xuất hiện một cách tự nhiên từ hư không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru023",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru023|",
+      "ja": "魔女たちの出現については<br>私も詳細は知らないんです……。",
+      "zh": "说到魔女究竟是怎么来的，<br>\n详情我也不是很清楚……",
+      "vi": "Nói về việc mụ phù thủy đến từ đâu, Tôi không biết rõ chi tiết lắm…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru024",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru024|",
+      "ja": "でもたしかに、<br>この島で発生したとは考えにくいですね……？",
+      "zh": "不过，的确难以想像<br>\n她们是在岛上自然产生的呢……？",
+      "vi": "Tuy nhiên, quả thực rất khó tưởng tượng Chúng có xuất hiện một cách tự nhiên trên đảo không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru025",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru025|",
+      "ja": "きっと、他の場所から移住してきたんじゃ……ないかと……。",
+      "zh": "我想……她们大概是从其他地方移居过来的……吧……",
+      "vi": "Tôi nghĩ... có lẽ họ đã chuyển đến đây từ nơi khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro017|",
+      "ja": "……そうか。",
+      "zh": "……是这样啊。",
+      "vi": "...Đúng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru026",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru026|",
+      "ja": "あの……説明を再開させてもらっても<br>いいでしょうか……？",
+      "zh": "那个……<br>\n我可以继续说明了吗……？",
+      "vi": "Đó... Tôi có thể tiếp tục giải thích được không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru027",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru027|",
+      "ja": "魔女についての考察なら、<br>あとからたくさんお話しましょう……！",
+      "zh": "想深入探讨魔女的话题的话，<br>\n我可以之后再陪你聊个够……！",
+      "vi": "Nếu bạn muốn khám phá chuyên sâu về chủ đề phù thủy, Tôi có thể trò chuyện với bạn sau...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro018|",
+      "ja": "（魔女オタク扱いされてしまった……）",
+      "zh": "（被人当成魔女宅了……）",
+      "vi": "(Bị coi là một phù thủy otaku...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro019|",
+      "ja": "（今私がすべきは全員の魔女化だ）",
+      "zh": "（我现在该完成的任务是所有人的魔女化）",
+      "vi": "(Nhiệm vụ tôi cần hoàn thành bây giờ là biến mọi người thành phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro020|",
+      "ja": "（しかしどうしてメルルは<br>　私のように魔女化が進んでいないのだろうか。<br>　数百年生きているはずなのに……）",
+      "zh": "（但为什么梅露露<br>\n并没有像我一样出现明显的魔女化特征？<br>\n明明她应该活了有几百年了……）",
+      "vi": "(Nhưng tại sao Meruru Không phải bạn có đặc điểm giống phù thủy rõ ràng như tôi sao? Cô ấy hẳn đã sống hàng trăm năm...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro021|",
+      "ja": "（それを突き止めるためには、<br>　まず彼女自身の情報を集める必要があるな……）",
+      "zh": "（为了查明这一点，<br>\n首先得收集有关她本人的情报……）",
+      "vi": "(Để tìm hiểu, Đầu tiên, chúng ta cần thu thập thông tin về cô ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro022|",
+      "ja": "……いいや。<br>私たちだって魔法を使える。",
+      "zh": "……不。<br>\n我们也能使用魔法。",
+      "vi": "...không. Chúng ta cũng có thể sử dụng phép thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro023|",
+      "ja": "島の魔女が人間の上位種であるとは限らない！",
+      "zh": "岛上的魔女未必就比人类更高等！",
+      "vi": "Các phù thủy trên đảo có thể không tiến bộ hơn con người!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru028",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru028|",
+      "ja": "そ、そもそも……！<br>みなさんの魔法は、<br>大魔女様が授けたものなんです……！",
+      "zh": "说、说到底……！<br>\n各位的魔法，<br>\n都是大魔女大人赐予的……！",
+      "vi": "Rốt cuộc, trong phân tích cuối cùng...! Phép thuật của bạn, Tất cả đều được đưa ra bởi Great Witch...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru029",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru029|",
+      "ja": "なので、大魔女様と人間が同列だなんて<br>間違っても言わないでください……！",
+      "zh": "所以，不要再说什么<br>\n大魔女大人和人类是平等的了……！",
+      "vi": "Vì vậy, đừng nói gì cả Great Witch ngang hàng với con người...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro024|",
+      "ja": "（……メルルの機嫌を損ねてしまった気がする）",
+      "zh": "（……好像惹梅露露不高兴了）",
+      "vi": "(…dường như đã làm Meruru không vui)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro025|",
+      "ja": "（魔女化はさせなくてはいけないが、<br>　途中で議論を打ち切られないようにしないと<br>　いけないな……）",
+      "zh": "（虽然我必须促进她们的魔女化，<br>\n但也得注意<br>\n不能害讨论中途打断……）",
+      "vi": "(Mặc dù tôi phải thúc đẩy việc biến đổi phù thủy của họ, Nhưng bạn cũng phải chú ý đến Đừng làm gián đoạn cuộc thảo luận giữa chừng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro026|",
+      "ja": "（今私がすべきは全員の魔女化だ）",
+      "zh": "（我现在该完成的任务是所有人的魔女化）",
+      "vi": "(Nhiệm vụ tôi cần hoàn thành bây giờ là biến mọi người thành phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro027|",
+      "ja": "（しかしどうしてメルルは<br>　私のように魔女化が進んでいないのだろうか。<br>　数百年生きているはずなのに……）",
+      "zh": "（但为什么梅露露<br>\n并没有像我一样出现明显的魔女化特征？<br>\n明明她应该活了有几百年了……）",
+      "vi": "(Nhưng tại sao Meruru Không phải bạn có đặc điểm giống phù thủy rõ ràng như tôi sao? Cô ấy hẳn đã sống hàng trăm năm...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro028|",
+      "ja": "（それを突き止めるためには、<br>　まず彼女自身の情報を集める必要があるな……）",
+      "zh": "（为了查明这一点，<br>\n首先得收集有关她本人的情报……）",
+      "vi": "(Để tìm hiểu, Đầu tiên, chúng ta cần thu thập thông tin về cô ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro029|",
+      "ja": "……それはどうかな。",
+      "zh": "……那可未必。",
+      "vi": "...Có thể không phải vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru030",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru030|",
+      "ja": "えっ……！？",
+      "zh": "欸……！？",
+      "vi": "Hừ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro030|",
+      "ja": "私は１つの事実を知っている。",
+      "zh": "我知道某个事实。",
+      "vi": "Tôi biết một sự thật nhất định.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro031|",
+      "ja": "それは、とある場所で見つけた手紙に書かれていたことだ。",
+      "zh": "那是写在一封信上的。我在某个地方找到了这封信。",
+      "vi": "Điều đó được viết trên một lá thư. Tôi đã tìm thấy bức thư này ở đâu đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro032|",
+      "ja": "この書き手は、この島の住人……。",
+      "zh": "写这封信的人，就是这座岛的居民……",
+      "vi": "Người viết bức thư này là cư dân của hòn đảo này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro033|",
+      "ja": "君が【原初の魔女】と呼ぶ人たちのようだ。",
+      "zh": "也就是你称为【原初的魔女】的那些人。",
+      "vi": "Đó là những người mà bạn gọi là [phù thủy nguyên thủy].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru031",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru031|",
+      "ja": "……それは…！",
+      "zh": "……那是……！",
+      "vi": "...Đó là...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro034|",
+      "ja": "その中に興味深い記述があった……。",
+      "zh": "信里面有一段很有趣的表述……",
+      "vi": "Trong thư có một câu nói rất thú vị...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro035",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro035|",
+      "ja": "大魔女が、人間の少女を拾って育てたという話だ。",
+      "zh": "上面说，大魔女曾经收养了一位人类少女。",
+      "vi": "Người ta kể rằng mụ phù thủy vĩ đại đã từng nhận nuôi một cô gái loài người.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro036",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro036|",
+      "ja": "島の魔女たちが捕まっていく中、<br>最後に残されたのは大魔女と、<br>そしてもう１人……。",
+      "zh": "在岛上的魔女们相继被抓走后，<br>\n最后剩下的便是大魔女，<br>\n以及另外一位……",
+      "vi": "Sau khi các phù thủy trên đảo lần lượt bị bắt cóc, Người cuối cùng còn lại là bà phù thủy lớn, và một cái khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro037",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro037|",
+      "ja": "……【人間の少女】。",
+      "zh": "……【人类少女】。",
+      "vi": "...[Cô gái loài người].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru032",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru032|",
+      "ja": "………！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro038",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro038|",
+      "ja": "君は自分のことを最後に残った原初の魔女だと言った。",
+      "zh": "你说你自己是最后仅存的原初的魔女。",
+      "vi": "Bạn nói rằng bạn là phù thủy nguyên thủy cuối cùng còn sót lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro039",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro039|",
+      "ja": "けれど、その手紙によれば最後に残ったのは<br>原初の魔女ではなく、<br>大魔女が育てた普通の人間だった……。",
+      "zh": "但是，按那封信的内容来看，最后仅存的<br>\n并非原初的魔女，<br>\n而是大魔女抚养的普通人类……",
+      "vi": "Tuy nhiên, xét theo nội dung của bức thư đó, cuối cùng còn lại Không phải phù thủy nguyên thủy, Nhưng con người bình thường được nuôi dưỡng bởi phù thủy vĩ đại...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro040",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro040|",
+      "ja": "……メルル、これは君の証言と矛盾している記述だ。",
+      "zh": "……梅露露，这份描述与你的证词存在矛盾。",
+      "vi": "...Meruru, mô tả này mâu thuẫn với lời khai của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Hiro041",
+      "speaker_tag": "; > Hiro: |#0205Trial01_Hiro041|",
+      "ja": "君はいったい、何者なのかな。",
+      "zh": "那么你到底，是什么人呢？",
+      "vi": "Vậy bạn là ai?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru033",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru033|",
+      "ja": "……そ、それは……その……！",
+      "zh": "……那、那个……我……！",
+      "vi": "...Cái đó, cái đó...tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru034",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru034|",
+      "ja": "……私は大魔女様に認められ、<br>そして力を与えられた魔女なんです……！",
+      "zh": "……我是被大魔女大人认可，<br>\n且被赋予了力量的魔女……！",
+      "vi": "...Tôi được Đại Ma Nữ công nhận, Một phù thủy đã được trao quyền lực...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial01_Meruru035",
+      "speaker_tag": "; > Meruru: |#0205Trial01_Meruru035|",
+      "ja": "べつになにも……おかしなことなんてありませんっ！",
+      "zh": "并没有什么……奇怪的地方！",
+      "vi": "Không có gì... kỳ lạ về nó cả!",
+      "objection_links": []
+    }
+  ]
+}

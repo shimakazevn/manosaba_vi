@@ -1,0 +1,400 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Adv04",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Adv04' Naninovel scenario script",
+  "total_entries": 49,
+  "entries": [
+    {
+      "id": "0204Adv04_Narrative001",
+      "speaker_tag": "",
+      "ja": "ノアがいなくなってから、<br>ここにはほとんど足を運ばなくなっていた。",
+      "zh": "自从诺亚不在了以后，<br>\n我几乎没有再踏足这里。",
+      "vi": "Vì Nô-ê đã mất nên Tôi gần như không bao giờ đặt chân tới đây nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative002",
+      "speaker_tag": "",
+      "ja": "意識的に避けていたのかもしれない。",
+      "zh": "或许是我在刻意回避。",
+      "vi": "Có lẽ tôi đang cố tình tránh nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Adv04_Hiro001|",
+      "ja": "（ノアのアトリエ……か。<br>　もうここに名付けた本人はいない）",
+      "zh": "（诺亚的画室……吗。<br>\n给这里命名的诺亚本人，已经不在了）",
+      "vi": "(Studio của Nô-ê...? Chính Nô-ê, người đặt tên cho nơi này, không còn ở đây nữa)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative003",
+      "speaker_tag": "",
+      "ja": "なんとなく入っただけで、<br>ゴクチョーがここにいる気配はなく……。",
+      "zh": "我只是不经意走进来，<br>\n并不是因为典狱长有可能在这里……",
+      "vi": "Tôi chỉ tình cờ bước vào, Không phải là không có khả năng Warden ở đây...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative004",
+      "speaker_tag": "",
+      "ja": "静かなアトリエ内には<br>誰もいないかと思ったが、<br>中にはハンナがいた。",
+      "zh": "我本以为<br>\n寂静的画室里空无一人，<br>\n没想到汉娜在画室里。",
+      "vi": "Tôi đã nghĩ Không có ai trong phòng thu im lặng, Thật bất ngờ, Hanna lại có mặt ở trường quay.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative005",
+      "speaker_tag": "",
+      "ja": "ハンナは椅子に座って、<br>熱心にせっせと<ruby=\"さいほう\">裁縫</ruby>をしている。",
+      "zh": "汉娜坐在椅子上，<br>\n专心致志地埋头缝纫。",
+      "vi": "Hanna đang ngồi trên ghế, Tập trung vào việc may vá.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna001",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna001|",
+      "ja": "あら……あなたたち、<br>なんのご用ですのかしら？",
+      "zh": "哎呀……你们，<br>\n来这里有什么事吗？",
+      "vi": "Rất tiếc...các bạn, Có chuyện gì thế này?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative006",
+      "speaker_tag": "",
+      "ja": "私たちの出現に気付き、<br>少し表情を強張らせたハンナが問いかけてくる。",
+      "zh": "察觉我们到来，<br>\n汉娜表情略显紧张地问道。",
+      "vi": "Cảm nhận được sự xuất hiện của chúng tôi, Hanna hỏi với vẻ mặt hơi lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia001",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia001|",
+      "ja": "ハンナくんこそ、ここでまだ裁縫を？<br>舞台用の衣装は全て出来上がっているはずだけど……。",
+      "zh": "汉娜是为什么还在这里缝纫呢？<br>\n舞台服应该全都已经制作完毕了才对……",
+      "vi": "Tại sao Hanna vẫn còn may ở đây? Lẽ ra bây giờ tất cả trang phục sân khấu đều đã được làm xong rồi...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative007",
+      "speaker_tag": "",
+      "ja": "ツン、とハンナはそっぽを向いた。",
+      "zh": "汉娜嘟起嘴，别过头去。",
+      "vi": "Hanna bĩu môi và nhìn đi chỗ khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna002",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna002|",
+      "ja": "元々お裁縫が趣味ですのよ。<br>今は人形を作っていますの。",
+      "zh": "我本来就喜欢缝纫。<br>\n现在做的不是舞台服，而是人偶。",
+      "vi": "Bổn tiểu thư đã thích may vá rồi. Thứ Bổn tiểu thư đang làm bây giờ không phải là trang phục sân khấu mà là những con rối.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna003",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna003|",
+      "ja": "シェリーさんが集めてくれたおかげで<br>布は大量に余っていますしね。",
+      "zh": "多亏雪莉收集了这么多布料，<br>\n现在还剩了一大堆呢。",
+      "vi": "Cảm ơn Sherry vì đã sưu tập rất nhiều vải, Bây giờ còn lại rất nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna004",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna004|",
+      "ja": "最近エマさんの元気がなくて、<br>心配していますの。<br>だから少しでも励みになるかと思って……。",
+      "zh": "最近艾玛没什么精神，<br>\n我有点担心她。<br>\n所以想着，能不能用这个让她开心一点……",
+      "vi": "Gần đây Ema cảm thấy chán nản, Bổn tiểu thư hơi lo lắng cho ngươi ấy. Vì thế Bổn tiểu thư đang nghĩ liệu Bổn tiểu thư có thể dùng điều này để làm ngươi ấy hạnh phúc không...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative008",
+      "speaker_tag": "",
+      "ja": "手元を見れば、<br>それはどうやら私たちを<ruby=\"も\">模</ruby>した人形のようだった。",
+      "zh": "看向她手中的作品，<br>\n那似乎是以我们为原型制作的人偶。",
+      "vi": "Nhìn tác phẩm trên tay cô, Có vẻ như đó là một con búp bê được làm theo mô hình của chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative009",
+      "speaker_tag": "",
+      "ja": "製作しているのは、エマの人形だ。",
+      "zh": "她正在制作的是艾玛的人偶。",
+      "vi": "Thứ cô ấy đang làm là một con rối của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Adv04_Hiro002|",
+      "ja": "（ずいぶんと健気だな……。<br>　エマはそれだけハンナと親しくなっている、<br>　ということか）",
+      "zh": "（她好努力啊……<br>\n这也说明艾玛已经和汉娜<br>\n亲密到这种程度了吧）",
+      "vi": "(Cô ấy làm việc rất chăm chỉ... Điều này cũng cho thấy Ema đã với Hanna Thật thân mật phải không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia002",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia002|",
+      "ja": "へえ！ ハンナくんは本当に器用だね。<br>洗濯も毎日してくれるし、私はそういった<br>家事なんかはてんでダメだから羨ましいよ。",
+      "zh": "哎呀！汉娜真是心灵手巧。<br>\n每天还会为大家洗衣服，<br>\n我做家务可一点不拿手，真的很羡慕你。",
+      "vi": "Rất tiếc! Hana thông minh quá. Tôi cũng giặt quần áo cho mọi người mỗi ngày, Tôi không giỏi việc nhà chút nào. Tôi thực sự ghen tị với bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna005",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna005|",
+      "ja": "羨ましい……？",
+      "zh": "羡慕……？",
+      "vi": "Ghen tị...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative010",
+      "speaker_tag": "",
+      "ja": "レイアはアトリエに飾ってある舞台用ドレスの前に立つ。<br>それからうっとりと目を細めた。",
+      "zh": "蕾雅站在画室里摆放的演出用礼服前，<br>\n眯起眼睛，露出陶醉的表情。",
+      "vi": "Leia đứng trước những bộ váy biểu diễn được trưng bày trong studio, Nheo mắt lại, anh ta tỏ ra say sưa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia003",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia003|",
+      "ja": "ハンナくんが作ってくれた舞台用のドレス……<br>本当に見事だ。",
+      "zh": "汉娜亲手制作的演出礼服……<br>\n真是精美绝伦。",
+      "vi": "Chiếc váy biểu diễn thủ công của Hanna... Nó hoàn toàn tinh tế.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia004",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia004|",
+      "ja": "この金色の刺繍なんて、<br>とても美しくて……いつまでも見ていたくなるよ。",
+      "zh": "这金色的刺绣，<br>\n实在是太美了……让人舍不得移开目光。",
+      "vi": "Bức tranh thêu màu vàng này, Đẹp quá...thật khó để rời mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia005",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia005|",
+      "ja": "もちろん主役が一番だけどね！<br>この王冠なんて、とても良い仕上がりじゃないか。",
+      "zh": "虽然最美丽的还是要数主角的服装！<br>\n但这顶王冠也精致得不分伯仲。",
+      "vi": "Mặc dù đẹp nhất chính là trang phục của nhân vật chính! Nhưng chiếc vương miện này cũng tinh tế không kém.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna006",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna006|",
+      "ja": "それはわたくしが作ったものじゃねーですわよ。",
+      "zh": "那可不是我做的哦。",
+      "vi": "Đó không phải là điều Bổn tiểu thư đã làm.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia006",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia006|",
+      "ja": "うっ、そ、そうかい……。",
+      "zh": "呃，这、这样啊……",
+      "vi": "Ờ, cái này, cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna007",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna007|",
+      "ja": "アンアンさんのリクエストで、<br>ミリアさんが作りましたの。",
+      "zh": "那是米莉亚<br>\n按照安安的要求制作的。",
+      "vi": "Đó là Miria Thực hiện theo yêu cầu của AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna008",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna008|",
+      "ja": "アンアンさんが<br>どうしても王冠が欲しいと言って……。",
+      "zh": "安安说，<br>\n无论如何都想要一顶王冠……",
+      "vi": "AnAn đã nói, Bổn tiểu thư muốn có một chiếc vương miện dù thế nào đi nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative011",
+      "speaker_tag": "",
+      "ja": "ハンナは寂しそうに<ruby=\"うつむ\">俯</ruby>く。<br>私はアンアンと共に脚本を仕上げたからすぐ察した。",
+      "zh": "汉娜露出一抹寂寞的神色，低下头。<br>\n剧本是我和安安一起编写的，所以马上就明白了她的意思。",
+      "vi": "Hanna lộ ra vẻ cô đơn và cúi đầu. Tôi và AnAn cùng nhau viết kịch bản nên tôi hiểu ngay ý của cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Adv04_Hiro003|",
+      "ja": "（そういえば筋書に大分アレンジが入って、<br>　ピーター・パンというより主役が王子様になってたな）",
+      "zh": "（说起来，剧本在大纲的基础上改动了不少，<br>\n比起小飞侠本人，王子倒更像是主角了）",
+      "vi": "(Nói mới nhớ, kịch bản đã được thay đổi rất nhiều dựa trên dàn ý, Hoàng tử giống nhân vật chính hơn chính Peter Pan)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Adv04_Hiro004|",
+      "ja": "（レイアはずいぶん喜んでいたが）",
+      "zh": "（虽然蕾雅很高兴就是了）",
+      "vi": "(Lea chỉ hạnh phúc)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Adv04_Hiro005|",
+      "ja": "（それで王冠か……）",
+      "zh": "（所以才有了这顶王冠吗……）",
+      "vi": "(Đó có phải là lý do tại sao tôi có chiếc vương miện này...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna009",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna009|",
+      "ja": "ノアさんから聞きましたけど、<br>アンアンさんは<br>ウェンディ役をやりたがっていたらしいですわね。",
+      "zh": "我听诺亚说，<br>\n安安其实<br>\n很想扮演温蒂。",
+      "vi": "Bổn tiểu thư đã nghe Nô-ê nói, AnAn thực ra Rất thích chơi Wendy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Adv04_Hiro006|",
+      "ja": "ああ、たしかそんな素振りを見せていたな……。",
+      "zh": "啊，确实，她的确流露出那样的想法……",
+      "vi": "À, quả thực, cô ấy đã bộc lộ những suy nghĩ như vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia007",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia007|",
+      "ja": "そうだったのか……。",
+      "zh": "原来如此……",
+      "vi": "Chuyện là vậy đó…",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative012",
+      "speaker_tag": "",
+      "ja": "ノアとアンアンの話題が出たことで、<br>場の空気が重苦しくなってしまう。",
+      "zh": "一说到诺亚和安安的话题，<br>\n气氛顿时沉重起来。",
+      "vi": "Khi nhắc đến chủ đề Noah và AnAn, Bầu không khí bỗng nhiên trở nên nặng nề.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia008",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia008|",
+      "ja": "ハンナくん、ヒロくん、落ち込まないでほしい。<br>私は舞台を諦めていないよ！",
+      "zh": "汉娜，希罗，不要气馁啊。<br>\n我还没有放弃舞台！",
+      "vi": "Hanna, Anh hùng, đừng nản lòng. Tôi vẫn chưa từ bỏ sân khấu!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative013",
+      "speaker_tag": "",
+      "ja": "レイアがその空気を振り払うように、<br><ruby=\"ほが\">朗</ruby>らかに宣言した。",
+      "zh": "蕾雅仿佛要驱散这股沉闷的气息，<br>\n朗声宣布道。",
+      "vi": "Leya dường như muốn xua tan bầu không khí buồn tẻ này, lớn tiếng tuyên bố.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia009",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia009|",
+      "ja": "ハンナくんがせっかく作ってくれた主役の衣装も<br>着たいしね。",
+      "zh": "我还想穿上<br>\n汉娜精心制作的主角服装呢。",
+      "vi": "Tôi vẫn muốn mặc Và trang phục cầu kỳ của Hanna dành cho nhân vật chính.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia010",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia010|",
+      "ja": "主役の衣装も刺繍が素晴らしくて……<br>ああ、ハンナくんは本当にすごいよ。<br>君を心から尊敬しているんだ。",
+      "zh": "主角用的舞台服，就连上面的刺绣也是美不胜收……<br>\n啊，汉娜真是太了不起了。<br>\n我发自内心敬佩着你。",
+      "vi": "Trang phục sân khấu mà nhân vật chính sử dụng, ngay cả hình thêu trên đó cũng rất đẹp... Ôi, Hanna thật tuyệt vời. Tôi ngưỡng mộ bạn từ tận đáy lòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna010",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna010|",
+      "ja": "……っ",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative014",
+      "speaker_tag": "",
+      "ja": "レイアの瞳を真正面から受け止めたハンナはかっと<ruby=\"ほお\">頬</ruby>を染め、<br>私たちから背を向けた。",
+      "zh": "被蕾雅直率的双瞳这样看着，一对上视线，<br>\n汉娜的脸颊瞬间染上红晕，立刻背过身去。",
+      "vi": "Bị ánh mắt ngây thơ của Leya nhìn như thế này, ánh mắt cô gặp nhau, Má Hanna lập tức đỏ bừng và cô lập tức quay đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna011",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna011|",
+      "ja": "わ、わたくし、いっ、忙しいので<br>もう行ってくださいまし……！",
+      "zh": "我、我、我很、很忙的，<br>\n你们快点离开吧……！",
+      "vi": "Bổn tiểu thư, Bổn tiểu thư, Bổn tiểu thư rất, rất bận, Hãy nhanh chóng rời đi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hanna012",
+      "speaker_tag": "; > Hanna: |#0204Adv04_Hanna012|",
+      "ja": "舞台をやるつもりなら、<br>もう少し衣装も手直ししないといけませんし……っ",
+      "zh": "如果真的要演舞台剧，<br>\n服装还需要再做些调整呢……",
+      "vi": "Nếu bạn thực sự muốn diễn kịch trên sân khấu, Quần áo vẫn cần điều chỉnh một chút...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative015",
+      "speaker_tag": "",
+      "ja": "私とレイアは目を見合わせる。",
+      "zh": "我和蕾雅对视一眼。",
+      "vi": "Leia và tôi nhìn nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Adv04_Hiro007|",
+      "ja": "（照れているのだろうな……。<br>　レイアの言葉はいちいち大げさすぎる）",
+      "zh": "（这大概是害羞了吧……<br>\n蕾雅说话，用词总是这么夸张）",
+      "vi": "(Có lẽ là do tôi nhút nhát... Leya luôn sử dụng những từ cường điệu như vậy khi nói)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia011",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia011|",
+      "ja": "ハンナくんの邪魔になってはいけない。<br>私たちはもう行こうか、ヒロくん。",
+      "zh": "不能再打扰汉娜了。<br>\n我们该走了，希罗。",
+      "vi": "Hanna không còn có thể bị quấy rầy nữa. Đã đến lúc chúng ta phải đi rồi, Anh hùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Adv04_Hiro008|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Leia012",
+      "speaker_tag": "; > Leia: |#0204Adv04_Leia012|",
+      "ja": "いざゴクチョーを捕まえに！",
+      "zh": "出发，去抓住典狱长！",
+      "vi": "Hãy ra ngoài và bắt Warden!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Hiro009",
+      "speaker_tag": "; > Hiro: |#0204Adv04_Hiro009|",
+      "ja": "（何故満足げなんだ……）",
+      "zh": "（为什么她一脸心满意足啊……）",
+      "vi": "(Sao cô ấy trông hài lòng thế nhỉ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv04_Narrative016",
+      "speaker_tag": "",
+      "ja": "私たちはアトリエを後にした。",
+      "zh": "我们离开了画室。",
+      "vi": "Chúng tôi rời trường quay.",
+      "objection_links": []
+    }
+  ]
+}

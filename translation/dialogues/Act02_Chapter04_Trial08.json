@@ -1,0 +1,1200 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Trial08",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Trial08' Naninovel scenario script",
+  "total_entries": 148,
+  "entries": [
+    {
+      "id": "0204Trial08_Hanna001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial08_Hanna001|",
+      "ja": "わたっ、わたくしは<br>シェリーさんが<br>エレベーターで<br>昇ってきたあと、<br>一緒に扉の前で<br>待っていましたわ！",
+      "zh": "我、<br>\n我可是<br>\n在雪莉搭电梯<br>\n上来之后，<br>\n就一直在那里<br>\n和她一起等着了哇！",
+      "vi": "Bổn tiểu thư, Bổn tiểu thư là Đi thang máy ở Sherry Sau khi lên, Nó luôn ở đó Cùng chờ đợi với ngươi ấy nhé!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Sherry001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial08_Sherry001|",
+      "ja": "たしかにその通りですね！<br>ハンナさんが<br>乗り込むことはできません！",
+      "zh": "确实如此！<br>\n汉娜当时根本<br>\n没有机会进入电梯！",
+      "vi": "Thật vậy! Hanna chỉ đơn giản vào thời điểm đó Không có cơ hội vào thang máy!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial08_Miria001|",
+      "ja": "おじさんが<br>着いた時にもいたし、<br>ハンナちゃんが<br>魔法を使ったっていうのは<br>無理があると思うな……。",
+      "zh": "大叔我到达<br>\n上层的时候，<br>\n小娜已经在那里了，<br>\n说是小娜用魔法让尸体飘浮，<br>\n感觉有点牵强了……",
+      "vi": "Bác ơi, cháu đã đến Khi ở cấp cao hơn, Cortana đã ở đó rồi, Người ta nói rằng Xiaona đã sử dụng phép thuật để làm cho xác chết nổi lên, Cảm giác có chút xa vời...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hanna002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial08_Hanna002|",
+      "ja": "そうですわ！<br>わたくし、<br>浮かせられるのは<br><link=\"Objection_02_04_08_01\">自分の体</link>だけですもの！<br>エマさんを浮かせるなんて、<br>無理ですわー！",
+      "zh": "没错！<br>\n我只能让<br>\n<link=\"Objection_02_04_08_01\">自己的身体</link><br>\n飘浮起来呀！<br>\n要说是我让艾玛飘浮起来，<br>\n那是不可能的哇！",
+      "vi": "Đúng vậy! Bổn tiểu thư chỉ có thể để <link=\"Objection_02_04_08_01\">Cơ thể của chính Bổn tiểu thư</link> Nổi! Nói rằng Bổn tiểu thư đã khiến Ema bay lên, Điều đó là không thể!",
+      "objection_links": [
+        "Objection_02_04_08_01"
+      ]
+    },
+    {
+      "id": "0204Trial08_Sherry002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial08_Sherry002|",
+      "ja": "……仮に<br>ヒロさんの言うように<br>【魔法で浮いていた】が<br>正しかったとして……。",
+      "zh": "……假设<br>\n希罗说的<br>\n【用魔法让尸体飘浮】<br>\n是正确的……",
+      "vi": "…Giả sử Anh hùng đã nói gì [Sử dụng phép thuật để làm cho xác chết nổi] là đúng...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Sherry003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial08_Sherry003|",
+      "ja": "ハンナさん以外が<br>死体を浮かばせることが<br>できた可能性も<br>あるんじゃないでしょうか？",
+      "zh": "那除了汉娜之外，<br>\n会不会还有其他人<br>\n也能做到<br>\n让尸体飘浮呢？",
+      "vi": "Ngoại trừ Hanna, Có ai khác Cũng có thể làm Thế còn việc để cơ thể trôi nổi thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Sherry004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial08_Sherry004|",
+      "ja": "アリサさんが<br>気球のようなものを<br>作ったというのも<br>その１つですよね。",
+      "zh": "比如说亚里沙<br>\n制作了什么<br>\n类似热气球的东西。<br>\n这也是一种可能。",
+      "vi": "Ví dụ: Alisa Những gì đã được tạo ra Một cái gì đó giống như một quả khinh khí cầu. Đây cũng là một khả năng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial08_Alisa001|",
+      "ja": "ウチがやったとしたら、<br>その【気球のようなもの】<br>とやらはどこにあんだよ。",
+      "zh": "如果真是我干的，<br>\n那所谓的【类似热气球的东西】<br>\n现在又在哪里？",
+      "vi": "Nếu đó thực sự là Tao, Cái gọi là [thứ gì đó tương tự như khinh khí cầu] Bây giờ mày đang ở đâu?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Sherry005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial08_Sherry005|",
+      "ja": "それは回収する仕組みが<br>あったんですよ。<br>もしかしたら<br><link=\"Objection_02_04_08_02\">隠し通路</link>なんかがあって、<br>アリサさんがそこにいた<br>可能性もあります。",
+      "zh": "那是因为有什么机关<br>\n可以回收热气球吧。<br>\n说不定还有<br>\n<link=\"Objection_02_04_08_02\">隐藏通道</link>之类的，<br>\n亚里沙就躲在那里，<br>\n这也有可能。",
+      "vi": "Đó là do cơ chế nào đó Bạn có thể tái chế khinh khí cầu. Có lẽ có <link=\"Objection_02_04_08_02\"> kênh ẩn </link> và những kênh tương tự, Alisa đang trốn ở đó, Điều này cũng có thể.",
+      "objection_links": [
+        "Objection_02_04_08_02"
+      ]
+    },
+    {
+      "id": "0204Trial08_Sherry006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial08_Sherry006|",
+      "ja": "アリサさんには<br>アリバイがありませんしね？",
+      "zh": "而且亚里沙你<br>\n也没有不在场证明吧？",
+      "vi": "Và Alisa bạn Không có bằng chứng ngoại phạm, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa002",
+      "speaker_tag": "; > @printDebate pos:30,47 roll:-4 |#0204Trial08_Alisa002|",
+      "ja": "……チッ。<br>そんなどうとでも<br>言える話でいいなら、<br>ウチだってできんぞ。",
+      "zh": "……啧。<br>\n要发挥想像力<br>\n想怎么说就怎么说的话，<br>\n谁不会啊？",
+      "vi": "...Chậc. Hãy sử dụng trí tưởng tượng của mày Nói bất cứ điều gì mày muốn, Ai sẽ không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa003",
+      "speaker_tag": "; > @printDebate pos:35,38 roll:-4 |#0204Trial08_Alisa003|",
+      "ja": "【手で仰いで空を飛んだ】とか、<br>【実は魔法が嘘で、<link=\"Objection_02_04_08_03\">念力</link>だった】<br>とかな。",
+      "zh": "那我也可以说<br>\n【你用手当扇子扇风飞上天了】，<br>\n或者【其实并没有所谓的魔法，<br>\n靠的是<link=\"Objection_02_04_08_03\">念动力</link>】之类的啊？",
+      "vi": "Vậy thì Tao cũng có thể nói [Bạn đã dùng tay làm quạt để quạt gió và bay lên trời], Hoặc [Không có thứ gì gọi là phép thuật, Nó dựa vào <link=\"Objection_02_04_08_03\"> điều khiển từ xa</link>] hay thứ gì đó tương tự?",
+      "objection_links": [
+        "Objection_02_04_08_03"
+      ]
+    },
+    {
+      "id": "0204Trial08_Sherry007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial08_Sherry007|",
+      "ja": "またまた～！<br>どんなに力が強くても、<br><link=\"Objection_02_04_08_04\">人が飛べるわけない</link><br>じゃないですか～！",
+      "zh": "又来了～！<br>\n我再怎么力气大，<br>\n我<link=\"Objection_02_04_08_04\">人也不可能飞起来</link>的啦～！<br>",
+      "vi": "Chúng ta lại bắt đầu nữa đây~! Dù tôi có mạnh mẽ đến đâu, Tôi, <link=\"Objection_02_04_08_04\">, không thể bay </link>~!",
+      "objection_links": [
+        "Objection_02_04_08_04"
+      ]
+    },
+    {
+      "id": "0204Trial08_Sherry008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial08_Sherry008|",
+      "ja": "アリサさん、<br>ちゃんと考えて<br>喋らないとダメですよっ！<br>めっ！",
+      "zh": "亚里沙，<br>\n讲话前要好好想清楚，<br>\n不可以乱说话哦！<br>\n哼！",
+      "vi": "Alisa, Hãy suy nghĩ kỹ trước khi nói, Đừng nói vớ vẩn! Ừm!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial08_Alisa004|",
+      "ja": "……コイツ……！！",
+      "zh": "……你这家伙……！！",
+      "vi": "...Anh mày...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro001|",
+      "ja": "（……アリサの言う事はもっともだ）",
+      "zh": "（……亚里沙说得没错）",
+      "vi": "(...Alisa nói đúng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro002|",
+      "ja": "（犯人を追い詰めるには、明確な証拠が必要……）",
+      "zh": "（要逼出凶手，就必须拿出明确的证据……）",
+      "vi": "(Để buộc kẻ giết người phải ra tay, phải đưa ra bằng chứng rõ ràng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro003|",
+      "ja": "（現場に残された証拠……<br>　そこから犯人を示す手がかりを探すんだ！）",
+      "zh": "（在案发现场留下的证据中……<br>\n找出指向凶手的线索！）",
+      "vi": "(Trong số các bằng chứng còn lại tại hiện trường vụ án... Tìm manh mối chỉ ra kẻ sát nhân! )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Choice001",
+      "speaker_tag": "; > @choice |#0204Trial08_Choice001| button:ChoiceButtons/Trial/Approval handler:TrialHiro",
+      "ja": "自分の体を浮かせた",
+      "zh": "使自己的身体飘浮起来了",
+      "vi": "Khiến cơ thể anh lơ lửng",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Choice002",
+      "speaker_tag": "; > @choice |#0204Trial08_Choice002| button:ChoiceButtons/Trial/Approval handler:TrialHiro",
+      "ja": "通れる通路があった",
+      "zh": "有通道",
+      "vi": "Có một kênh",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Choice003",
+      "speaker_tag": "; > @choice |#0204Trial08_Choice003| button:ChoiceButtons/Trial/Approval handler:TrialHiro",
+      "ja": "サイコキネシスを使えた",
+      "zh": "使用念动力操控",
+      "vi": "Sử dụng điều khiển từ xa",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Choice004",
+      "speaker_tag": "; > @choice |#0204Trial08_Choice004| button:ChoiceButtons/Trial/Approval handler:TrialHiro",
+      "ja": "人力で飛ぶ方法があった",
+      "zh": "用人力可以飞起来",
+      "vi": "Có thể bay bằng sức người",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro004|",
+      "ja": "……そうか。",
+      "zh": "……是这样啊。",
+      "vi": "...Đúng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro005|",
+      "ja": "シェリーの言うように<br>エレベーター上部に隠し通路があったとしたら……。",
+      "zh": "如果像雪莉说的那样，<br>\n电梯厢体上方有隐藏通道的话……",
+      "vi": "Nếu đúng như Sherry đã nói, Nếu có một lối đi ẩn phía trên thang máy...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Sherry009",
+      "speaker_tag": "; > Sherry: |#0204Trial08_Sherry009|",
+      "ja": "エレベーターのメンテナンスをするための通用口……<br>とかですかね！",
+      "zh": "维修电梯用的维护入口……<br>\n之类的吗！",
+      "vi": "Lối vào bảo trì thang máy bảo trì... Một cái gì đó như thế!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro006|",
+      "ja": "ああ。<br>それなら気球を回収することも可能だよ。",
+      "zh": "嗯。<br>\n这样的话回收热气球也不是不可能了。",
+      "vi": "Ừm. Trong trường hợp này, việc thu hồi khinh khí cầu không phải là không thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa005",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa005|",
+      "ja": "……けどよ、１人分の体重を支える気球ってなると<br>数メートルの大きさが必要になるはずだ。",
+      "zh": "……但是，能吊起一个人体重的热气球<br>\n应该有好几米宽吧。",
+      "vi": "…Nhưng khinh khí cầu có thể nâng trọng lượng của một người Nó phải rộng vài mét.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria002",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria002|",
+      "ja": "そんなのを回収できるような場所ってことだよね。",
+      "zh": "就是说这个地方要能回收这么大的热气球对吧。",
+      "vi": "Điều này có nghĩa là nơi này chắc chắn có thể tái chế được một quả khinh khí cầu lớn như vậy phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria003",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria003|",
+      "ja": "あったらさすがに誰かが気付くんじゃないかな……？",
+      "zh": "真有这么一个地方的话，肯定会有人发现吧……？",
+      "vi": "Nếu thực sự có một nơi như vậy, chắc chắn sẽ có người phát hiện ra nó…?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa006",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa006|",
+      "ja": "ウチが気球を持ち込んだなんて話は、<br>現実的じゃねーだろ……。",
+      "zh": "说我拿了个热气球进来，<br>\n这不现实吧……",
+      "vi": "Nói rằng Tao đã mang khinh khí cầu vào, Điều này là không thực tế...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa007",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa007|",
+      "ja": "なのにお前らはウチがやったって言うのかよ！<br>ああん！？",
+      "zh": "即使这样你们还要说是我干的吗！<br>\n啊！？",
+      "vi": "Dù vậy, mày vẫn muốn nói rằng đó là Tao? À! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro007|",
+      "ja": "（気球も隠し通路も存在を証明できないか……）",
+      "zh": "（无论是热气球还是隐藏通道，都无法证明它们存在……）",
+      "vi": "(Cả khinh khí cầu lẫn lối đi bí mật đều không thể chứng minh sự tồn tại của chúng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro008|",
+      "ja": "（……だがこれまでの議論を考えると<br>　やはり【死体が浮いていた】可能性が高い）",
+      "zh": "（……但结合至今为止的讨论来考虑，<br>\n【尸体飘浮在空中】的可能性还是很大）",
+      "vi": "(...nhưng xét đến cuộc thảo luận cho đến nay, [Khả năng [xác chết lơ lửng trên không] vẫn rất cao)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro009",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro009|",
+      "ja": "（問題は、浮かせ方だ）",
+      "zh": "（问题在于，是怎么让尸体飘浮起来的）",
+      "vi": "(Câu hỏi làm sao để vật thể nổi)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro010",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro010|",
+      "ja": "（何か気になる証拠はないか……？）",
+      "zh": "（有没有什么需要留意的证据……？）",
+      "vi": "(Có bằng chứng nào cần chú ý không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro011",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro011|",
+      "ja": "（これまで触れられていなかった……<br>　どうして存在するのかわからない証拠）",
+      "zh": "（至今为止都未提及……<br>\n也不知为什么会存在的，某个证据）",
+      "vi": "(Cho đến nay vẫn chưa được đề cập... Tôi không biết tại sao nó tồn tại, một số bằng chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro012",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro012|",
+      "ja": "（それがトリックに必要だったものだとしたら……！）",
+      "zh": "（如果那就是实施杀人诡计不可或缺的关键……！）",
+      "vi": "(Nếu đó là chìa khóa không thể thiếu để thực hiện âm mưu giết người…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro013",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro013|",
+      "ja": "たしかに……誰かが【念動力】の魔法でも使えたなら説明はつく。",
+      "zh": "确实……如果有人能使用【念动力】魔法的话，就能解释了。",
+      "vi": "Quả thực...nếu ai đó có thể sử dụng phép thuật [Psychokinesis], nó sẽ giải thích được điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria004",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria004|",
+      "ja": "サイコキネシス……<br>遠隔で物を動かす魔法だね。",
+      "zh": "意念控物……<br>\n就是隔空移动物品的魔法吧。",
+      "vi": "Điều khiển đồ vật bằng suy nghĩ... Đó là sự kỳ diệu của việc di chuyển các vật thể trong không khí.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro014",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro014|",
+      "ja": "それで遠隔で死体を動かし、浮かせた……。",
+      "zh": "使用这样的魔法隔空移动尸体，使尸体飘浮……",
+      "vi": "Sử dụng loại phép thuật này để di chuyển xác chết trong không trung và khiến chúng lơ lửng...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro015",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro015|",
+      "ja": "それなら問題はない。",
+      "zh": "这样就没问题了吧。",
+      "vi": "Điều đó sẽ không có vấn đề gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa008",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa008|",
+      "ja": "……じゃあその魔法の持ち主ってヤツはどいつだよ。",
+      "zh": "……那到底是谁拥有你说的那种魔法啊。",
+      "vi": "...Vậy thì ai có loại phép thuật mà mày nhắc đến?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa009",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa009|",
+      "ja": "ウチか？ おめえか？<br>そもそもこの中にいるのか？",
+      "zh": "是我？还是你？<br>\n我们之中真有这种人吗？",
+      "vi": "Có phải Tao không? Hay mày? Có thực sự có những người như vậy trong số chúng ta?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa010",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa010|",
+      "ja": "そんな魔法を持ってるやつがいるって証拠はあんのか？",
+      "zh": "你有证据证明有人拥有这种魔法吗？",
+      "vi": "Bạn có bằng chứng cho thấy có ai có phép thuật này không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro016",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro016|",
+      "ja": "……それは。",
+      "zh": "这……",
+      "vi": "Đây...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa011",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa011|",
+      "ja": "【可能性の話ならいくらでも言える】……。",
+      "zh": "【只讲可能性的话，怎么说都行】……",
+      "vi": "[Nếu chúng ta chỉ nói về khả năng, mày có thể nói bất cứ điều gì mày muốn]...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa012",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa012|",
+      "ja": "ウチが言ってんのはそういうことだ。<br>……話が理解できねーなら口挟むんじゃねーよ、二階堂！",
+      "zh": "我就是这个意思。<br>\n……如果你听不懂话就别插嘴，二阶堂！",
+      "vi": "Đó là điều Tao muốn nói. …Nếu mày không hiểu thì đừng ngắt lời, Nikaido!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro017",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro017|",
+      "ja": "（……返す言葉もないな）",
+      "zh": "（……无言以对啊）",
+      "vi": "(…Tôi không nói nên lời)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro018",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro018|",
+      "ja": "（……だがこれまでの議論を考えると<br>　やはり【死体が浮いていた】可能性が高い）",
+      "zh": "（……但结合至今为止的讨论来考虑，<br>\n【尸体飘浮在空中】的可能性还是很大）",
+      "vi": "(...nhưng xét đến cuộc thảo luận cho đến nay, [Khả năng [xác chết lơ lửng trên không] vẫn rất cao)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro019",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro019|",
+      "ja": "（問題は、浮かせ方だ）",
+      "zh": "（问题在于，是怎么让尸体飘浮起来的）",
+      "vi": "(Câu hỏi làm sao để vật thể nổi)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro020",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro020|",
+      "ja": "（何か気になる証拠はないか……？）",
+      "zh": "（有没有什么需要留意的证据……？）",
+      "vi": "(Có bằng chứng nào cần chú ý không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro021",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro021|",
+      "ja": "（これまで触れられていなかった……<br>　どうして存在するのかわからない証拠）",
+      "zh": "（至今为止都未提及……<br>\n也不知为什么会存在的，某个证据）",
+      "vi": "(Cho đến nay vẫn chưa được đề cập... Tôi không biết tại sao nó tồn tại, một số bằng chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro022",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro022|",
+      "ja": "（それがトリックに必要だったものだとしたら……！）",
+      "zh": "（如果那就是实施杀人诡计不可或缺的关键……！）",
+      "vi": "(Nếu đó là chìa khóa không thể thiếu để thực hiện âm mưu giết người…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro023",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro023|",
+      "ja": "いや、人力で飛ぶ方法はあった。",
+      "zh": "不，用人力是可以飞起来的。",
+      "vi": "Không, nó có thể bay bằng sức người.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro024",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro024|",
+      "ja": "ハングライダーの要領で<br>浮力を維持する翼を用意して――。",
+      "zh": "事先准备好维持浮力用的机翼，<br>\n用滑翔翼的原理——",
+      "vi": "Chuẩn bị trước các cánh để duy trì độ nổi, Sử dụng nguyên lý bay lượn——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro025",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro025|",
+      "ja": "怪力を使って羽ばたくように両手で高速で扇げば、<br>浮くことぐらいはできるのでは……！",
+      "zh": "再用怪力魔法，像扇动翅膀一样高速扇动双手，<br>\n应该就能浮起来一点吧……！",
+      "vi": "Sau đó sử dụng phép thuật có sức mạnh kỳ lạ để vỗ tay với tốc độ cao như đôi cánh, Nó sẽ nổi một chút...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa013",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa013|",
+      "ja": "ブッ飛ばすぞ！",
+      "zh": "小心我揍飞你！",
+      "vi": "Cẩn thận Tao sẽ đánh mày đấy!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Sherry010",
+      "speaker_tag": "; > Sherry: |#0204Trial08_Sherry010|",
+      "ja": "……あっ！<br>アリサさんにぶっ飛ばしてもらえば高く飛べるかもしれませんよ！<br>実演してみてください、ヒロさん！",
+      "zh": "……对了！<br>\n让亚里沙把你揍飞的话，说不定能飞得很高哦！<br>\n给我们演示一下吧，希罗！",
+      "vi": "...đúng rồi! Nếu bạn để Alisa đánh bạn, bạn có thể bay rất cao! Hãy cho chúng tôi xem một cuộc biểu tình đi, Anh hùng!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro026",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro026|",
+      "ja": "（……それは遠慮しておこう）",
+      "zh": "（……那还是算了）",
+      "vi": "(…Vậy thì quên nó đi)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro027",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro027|",
+      "ja": "（……だがこれまでの議論を考えると<br>　やはり【死体が浮いていた】可能性が高い）",
+      "zh": "（……但结合至今为止的讨论来考虑，<br>\n【尸体飘浮在空中】的可能性还是很大）",
+      "vi": "(...nhưng xét đến cuộc thảo luận cho đến nay, [Khả năng [xác chết lơ lửng trên không] vẫn rất cao)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro028",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro028|",
+      "ja": "（問題は、浮かせ方だ）",
+      "zh": "（问题在于，是怎么让尸体飘浮起来的）",
+      "vi": "(Câu hỏi làm sao để vật thể nổi)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro029",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro029|",
+      "ja": "（何か気になる証拠はないか……？）",
+      "zh": "（有没有什么需要留意的证据……？）",
+      "vi": "(Có bằng chứng nào cần chú ý không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro030",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro030|",
+      "ja": "（これまで触れられていなかった……<br>　どうして存在するのかわからない証拠）",
+      "zh": "（至今为止都未提及……<br>\n也不知为什么会存在的，某个证据）",
+      "vi": "(Cho đến nay vẫn chưa được đề cập... Tôi không biết tại sao nó tồn tại, một số bằng chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro031",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro031|",
+      "ja": "（それがトリックに必要だったものだとしたら……！）",
+      "zh": "（如果那就是实施杀人诡计不可或缺的关键……！）",
+      "vi": "(Nếu đó là chìa khóa không thể thiếu để thực hiện âm mưu giết người…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro032",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro032|",
+      "ja": "いいや、違うよ。<br>自分の体を浮かせたんだ。",
+      "zh": "不，是可以做到的。<br>\n凶手使用的诡计正是让自己的身体飘浮。",
+      "vi": "Không, nó có thể được thực hiện. Thủ đoạn mà kẻ sát nhân sử dụng là làm cho cơ thể hắn bay lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro033",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro033|",
+      "ja": "それを示す証拠は――。",
+      "zh": "证据就是——",
+      "vi": "Bằng chứng là——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro034",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro034|",
+      "ja": "……証拠は、エマの死体写真の中にある。",
+      "zh": "……证据就在艾玛尸体的照片里。",
+      "vi": "...Bằng chứng nằm trong bức ảnh thi thể của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro035",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro035|",
+      "ja": "なぜ、エマが着替えさせられているのか……<br>ここに何かヒントがあるに違いない。",
+      "zh": "为什么艾玛会被换衣服……<br>\n这其中一定有什么线索。",
+      "vi": "Tại sao Ema lại bị thay đổi... Chắc chắn phải có manh mối nào đó trong chuyện này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria005",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria005|",
+      "ja": "た、たしかにずっと気になってはいたけど……。",
+      "zh": "确、确实我一直很在意……",
+      "vi": "Quả thật, Miria luôn quan tâm đến...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria006",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria006|",
+      "ja": "具体的にあの写真の中の、何が証拠になるのかな……？",
+      "zh": "照片中的具体哪一点可以作为证据呢……？",
+      "vi": "Điểm cụ thể nào trong bức ảnh có thể được dùng làm bằng chứng...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro036",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro036|",
+      "ja": "それは――。",
+      "zh": "那就是——",
+      "vi": "Đó là——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro037",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro037|",
+      "ja": "証拠は、このエマの人形にある。",
+      "zh": "证据就是这个艾玛的人偶。",
+      "vi": "Bằng chứng là con búp bê Ema này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro038",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro038|",
+      "ja": "この人形には、ハンナの魔力がこもっているんだ。<br>その魔力でエマを浮かせたんだよ。",
+      "zh": "这个人偶里蕴含着汉娜的魔力。<br>\n就是用这个让艾玛浮起来了。",
+      "vi": "Con búp bê này chứa đựng phép thuật của Hanna. Chính điều này đã khiến Ema nổi bần bật.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa014",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa014|",
+      "ja": "【魔力をこめる】ってなんだよ。<br>具体的にどうすりゃ魔力がこめられんだ？",
+      "zh": "【蕴含着魔力】是什么鬼。<br>\n具体要怎么做才能让人偶蕴含汉娜的魔力啊？",
+      "vi": "[Chứa sức mạnh ma thuật] là cái quái gì vậy? Chính xác thì mày cần làm gì để khiến con búp bê chứa đựng phép thuật của Hanna?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria007",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria007|",
+      "ja": "いや～、魔法もあるんだし魔力ぐらいあるのかもしれないけどね。",
+      "zh": "哎呀～既然有魔法，那魔力什么的，大概也是有的吧。",
+      "vi": "Rất tiếc~ Vì có phép thuật nên chắc chắn sẽ có sức mạnh ma thuật nào đó hay gì đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria008",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria008|",
+      "ja": "でもおじさんたちは少なくとも、<br>やり方はよくわかんないかな……。",
+      "zh": "但是至少，大叔我们<br>\n是不知道怎么把魔力注入人偶的……",
+      "vi": "Nhưng ít nhất, thưa chú, chúng ta Miria không biết làm thế nào để truyền sức mạnh ma thuật vào con búp bê...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria009",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria009|",
+      "ja": "……でもかっこいいよね！<br>魔力とか気配とか感じられたらさ……！<br>わかるよ、ヒロちゃん！",
+      "zh": "……但这样很帅气对吧！<br>\n要是能感受到魔力啊气息什么的……！<br>\n我懂你，小希！",
+      "vi": "...nhưng cái này trông ngầu đấy, phải không? Giá như Miria có thể cảm nhận được ma thuật, hào quang, v.v...! Miria hiểu bạn, Xiaoxi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro039",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro039|",
+      "ja": "（フォローされてしまった）",
+      "zh": "（被米莉亚打圆场了）",
+      "vi": "(Được giải quyết bởi Miria)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro040",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro040|",
+      "ja": "（……【ハンナは自分の体しか浮かせられない】。<br>　だが当時、【エマの死体は浮いていた】）",
+      "zh": "（……【汉娜只能让自己的身体飘浮】。<br>\n但当时，【艾玛的尸体是飘浮着的】）",
+      "vi": "(…[Hanna chỉ có thể để cơ thể mình lơ lửng]. Nhưng vào thời điểm đó, [cơ thể của Ema đang lơ lửng])",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro041",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro041|",
+      "ja": "（この２つの事実を<br>　結びつける証拠がある）",
+      "zh": "（有某种证据<br>\n能把这两个事实联系到一起）",
+      "vi": "(Có một số bằng chứng có thể kết nối hai sự thật này với nhau)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro042",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro042|",
+      "ja": "（それは――）",
+      "zh": "（那就是——）",
+      "vi": "(Đó là——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Sherry011",
+      "speaker_tag": "; > Sherry: |#0204Trial08_Sherry011|",
+      "ja": "んー……<br>ハンナさんが【自分の体を浮かせられること】と<br>その証拠品がどう繋がるんでしょうか？",
+      "zh": "嗯……<br>\n汉娜【能让自己的身体飘浮】，<br>\n和这个证物有什么联系吗？",
+      "vi": "Ừm... Hanna [có thể khiến cơ thể cô ấy lơ lửng], Có mối liên hệ nào với bằng chứng này không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Sherry012",
+      "speaker_tag": "; > Sherry: |#0204Trial08_Sherry012|",
+      "ja": "私には全然わかりませんね！",
+      "zh": "我完全看不懂！",
+      "vi": "Tôi không thể hiểu được nó chút nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro043",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro043|",
+      "ja": "（……関係ないものだったか）",
+      "zh": "（……是无关的证据啊）",
+      "vi": "(…Đó là bằng chứng không liên quan)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro044",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro044|",
+      "ja": "（……【ハンナは自分の体しか浮かせられない】。<br>　だが当時、【エマの死体は浮いていた】）",
+      "zh": "（……【汉娜只能让自己的身体飘浮】。<br>\n但当时，【艾玛的尸体是飘浮着的】）",
+      "vi": "(…[Hanna chỉ có thể để cơ thể mình lơ lửng]. Nhưng vào thời điểm đó, [cơ thể của Ema đang lơ lửng])",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro045",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro045|",
+      "ja": "（この２つの事実を<br>　結びつける証拠がある）",
+      "zh": "（有某种证据<br>\n能把这两个事实联系到一起）",
+      "vi": "(Có một số bằng chứng có thể kết nối hai sự thật này với nhau)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro046",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro046|",
+      "ja": "（それは――）",
+      "zh": "（那就是——）",
+      "vi": "(Đó là——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro047",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro047|",
+      "ja": "（思えば……<br>　最初からこのドレスは引っかかっていた）",
+      "zh": "（回想起来……<br>\n我从一开始就很在意那件礼服）",
+      "vi": "(Nhìn lại... Tôi đã quan tâm đến chiếc váy đó ngay từ đầu)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro048",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro048|",
+      "ja": "（なぜエマがこれを着ていたのか……）",
+      "zh": "（艾玛究竟为什么会穿着那件礼服……）",
+      "vi": "(Tại sao Ema lại mặc chiếc váy đó...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro049",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro049|",
+      "ja": "（犯人が着せたとしたら、<br>　それにどんな意味があるのか……）",
+      "zh": "（如果是凶手给她穿上的，<br>\n这究竟意味着什么……）",
+      "vi": "(Nếu kẻ sát nhân bôi nó lên người cô ấy, Chính xác thì điều này có nghĩa là gì...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro050",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro050|",
+      "ja": "（ここに来て、それが全て繋がる――）",
+      "zh": "（至此，一切线索都串联起来了——）",
+      "vi": "(Tại thời điểm này, tất cả manh mối đã được kết nối với nhau——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro051",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro051|",
+      "ja": "犯人は、<br>エマにこのドレスを着せていた。",
+      "zh": "是凶手<br>\n让艾玛穿上了那件礼服。",
+      "vi": "Đó là kẻ sát nhân Hãy để Ema mặc chiếc váy đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro052",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro052|",
+      "ja": "その理由は、<br>このドレスが犯行のトリックに<br>密接に関わっているためだ……。",
+      "zh": "因为<br>\n那件礼服，和本案中所使用的杀人诡计<br>\n密切相关……",
+      "vi": "Bởi vì Chiếc váy và thủ đoạn giết người được sử dụng trong vụ án này liên quan mật thiết…",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro053",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro053|",
+      "ja": "犯人はエレベーターの天井裏に<br>エマを浮かせるため、<br>このドレスを着せたんだ。",
+      "zh": "凶手为了让艾玛<br>\n飘浮在电梯顶板上方的空间，<br>\n特意给她穿上了那件礼服。",
+      "vi": "Kẻ sát nhân muốn để Ema Không gian lơ lửng phía trên mái thang máy, Tôi đặc biệt mặc chiếc váy đó cho cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro054",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro054|",
+      "ja": "たしかに犯人は、<br>エマを浮かせたわけじゃない。",
+      "zh": "凶手的确<br>\n没有直接让艾玛飘浮。",
+      "vi": "Kẻ sát nhân quả thực là Ema không được bay lên trực tiếp.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro055",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro055|",
+      "ja": "犯人が浮かせたのは――。",
+      "zh": "凶手真正使其飘浮的是——",
+      "vi": "Thứ mà tên sát nhân thực sự khiến bay lên là——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Choice005",
+      "speaker_tag": "; > @choice |#0204Trial08_Choice005|",
+      "ja": "自分の手",
+      "zh": "自己的手",
+      "vi": "bàn tay của chính mình",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Choice006",
+      "speaker_tag": "; > @choice |#0204Trial08_Choice006|",
+      "ja": "自分の髪",
+      "zh": "自己的头发",
+      "vi": "tóc của chính mình",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Choice007",
+      "speaker_tag": "; > @choice |#0204Trial08_Choice007|",
+      "ja": "自分の血",
+      "zh": "自己的血",
+      "vi": "máu của chính mình",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro056",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro056|",
+      "ja": "自分の手だ！",
+      "zh": "自己的手！",
+      "vi": "chính tay mình!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa015",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa015|",
+      "ja": "手……！？",
+      "zh": "手……！？",
+      "vi": "Bàn tay...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro057",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro057|",
+      "ja": "実は犯人は<br>魔女化がずいぶん進んでいたんだ。",
+      "zh": "其实凶手的<br>\n魔女化程度已经相当严重了。",
+      "vi": "Trên thực tế, của kẻ sát nhân Mức độ biến hình của phù thủy đã trở nên khá nghiêm trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro058",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro058|",
+      "ja": "そして体を切断しても、<br>その一部は生き続けることが出来たんだよ。",
+      "zh": "这种状态下，凶手即使切断自己的身体，<br>\n被切下来的部分也能单独存活。",
+      "vi": "Ở trạng thái này, ngay cả khi kẻ sát nhân tự chặt xác mình, Các bộ phận bị cắt đứt cũng có thể tự tồn tại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro059",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro059|",
+      "ja": "だから犯人は自身の一部を切断し、<br>遠隔で浮かせることにした……。",
+      "zh": "所以凶手决定切下自己的身体的某一部分，<br>\n用魔法隔空让它飘浮……",
+      "vi": "Vì vậy kẻ sát nhân đã quyết định cắt bỏ một phần cơ thể của mình, Sử dụng phép thuật để làm cho nó bay lơ lửng trong không trung...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro060",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro060|",
+      "ja": "人体において最も物を掴みやすい構造をした箇所……<br>つまり手を、ね。",
+      "zh": "切下的是人体中最方便抓取物体的部位……<br>\n也就是，手。",
+      "vi": "Phần được cắt ra là phần cơ thể con người thuận tiện nhất cho việc cầm nắm đồ vật... Đó là, bàn tay.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro061",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro061|",
+      "ja": "そうしてエマのドレスを<br>掴むことによって浮かせたんだ。",
+      "zh": "用这只手抓起艾玛的礼服，<br>\n从而使艾玛飘浮起来。",
+      "vi": "Hãy nắm lấy chiếc váy của Ema bằng bàn tay này, Điều này khiến Ema bay lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria010",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria010|",
+      "ja": "ロケットパンチかな……？<br>さすがに無理があると思うけど……。",
+      "zh": "是火箭飞拳吗……？<br>\n我觉得这有点太离谱了吧……",
+      "vi": "Đó có phải là Rocket Flying Punch...? Miria nghĩ điều này hơi quá đáng...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Sherry013",
+      "speaker_tag": "; > Sherry: |#0204Trial08_Sherry013|",
+      "ja": "ヒロさん！<br>ハンナさんの手はありますし、<br>他にない人もいませんよ！",
+      "zh": "希罗！<br>\n汉娜的手还在，<br>\n也没有其他人缺了手啊！",
+      "vi": "Anh hùng! Bàn tay của Hanna vẫn còn đó, Không ai khác bị thiếu một bàn tay!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa016",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa016|",
+      "ja": "べつに繋ぎ合わせたような跡もねーしな。<br>……ふざけてんじゃねーぞ二階堂。",
+      "zh": "也看不出缝合过的痕迹。<br>\n……现在不是开玩笑的时候，二阶堂。",
+      "vi": "Không có dấu vết của đường khâu. …Bây giờ không phải lúc để đùa đâu, Nikaido.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro062",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro062|",
+      "ja": "（……ふざけてはいないが）",
+      "zh": "（……我不是开玩笑的）",
+      "vi": "(...Tôi không đùa đâu)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro063",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro063|",
+      "ja": "（……だが、犯人がエマにドレスを着せたのには<br>　必ず理由がある）",
+      "zh": "（……但是，凶手让艾玛穿上礼服<br>\n一定是有原因的）",
+      "vi": "(…Tuy nhiên, kẻ sát nhân đã yêu cầu Ema mặc một chiếc váy Chắc chắn phải có lý do)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro064",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro064|",
+      "ja": "（【エマを浮かせるためにドレスを使った】<br>　……とすれば、犯人が浮かせたのは――）",
+      "zh": "（假设【为了让艾玛飘浮，要用到礼服】<br>\n……那么，凶手是让什么飘浮了呢——？）",
+      "vi": "(Giả sử [Để làm cho Ema nổi lên, cần phải có một chiếc váy] …Vậy hung thủ đã làm gì nổi? )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro065",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro065|",
+      "ja": "人体の７％を占めると言われる人体の組織……<br>つまり血液だ。",
+      "zh": "占人体7%的身体组织……<br>\n血液。",
+      "vi": "Chiếm 7% mô cơ thể... máu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa017",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa017|",
+      "ja": "血を浮かせた……？<br>そんなんありえんのかよ……。",
+      "zh": "让血液飘浮……？<br>\n真的假的啊……",
+      "vi": "Để máu chảy...? Thực sự giả tạo...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria011",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria011|",
+      "ja": "ドレスに血を染み込ませて、浮かせたってこと……！？",
+      "zh": "是把礼服泡在自己的血液里，从而让礼服飘浮起来吗……！？",
+      "vi": "Cậu đã ngâm chiếc váy vào máu của chính mình để khiến nó nổi lên à...? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa018",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa018|",
+      "ja": "けど別にドレスが血まみれだったわけでもねーしな。",
+      "zh": "但礼服也没有血迹斑斑啊。",
+      "vi": "Nhưng chiếc váy không dính máu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Alisa019",
+      "speaker_tag": "; > Alisa: |#0204Trial08_Alisa019|",
+      "ja": "桜羽の腹についてた血は、<br>桜羽のもんじゃねーのか？",
+      "zh": "樱羽肚子上的血，<br>\n不是樱羽自己的吗？",
+      "vi": "Máu trên bụng Sakura Yu, Không phải của Sakuraba sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Sherry014",
+      "speaker_tag": "; > Sherry: |#0204Trial08_Sherry014|",
+      "ja": "それに大量の血を流してるような人もいませんし……。<br>どうやって血液を採ったんでしょう？",
+      "zh": "而且我们之中也没有人大量出血……<br>\n到底是怎么采集到血液的呢？",
+      "vi": "Và không ai trong chúng tôi bị chảy máu đầm đìa... Máu được thu thập như thế nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria012",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria012|",
+      "ja": "あんまりしっくりこないかも……。",
+      "zh": "还是感觉不太对劲……",
+      "vi": "Vẫn cảm thấy có gì đó không ổn...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro066",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro066|",
+      "ja": "（血を使ったなら、もっとドレスが赤く染まっているか……）",
+      "zh": "（如果使用了血液，礼服应该会比现在染得更红吧……）",
+      "vi": "(Nếu dùng máu thì chiếc váy sẽ nhuộm đỏ hơn bây giờ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro067",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro067|",
+      "ja": "（……だが、犯人がエマにドレスを着せたのには<br>　必ず理由がある）",
+      "zh": "（……但是，凶手让艾玛穿上礼服<br>\n一定是有原因的）",
+      "vi": "(…Tuy nhiên, kẻ sát nhân đã yêu cầu Ema mặc một chiếc váy Chắc chắn phải có lý do)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro068",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro068|",
+      "ja": "（【エマを浮かせるためにドレスを使った】<br>　……とすれば、犯人が浮かせたのは――）",
+      "zh": "（假设【为了让艾玛飘浮，要用到礼服】<br>\n……那么，凶手是让什么飘浮了呢——？）",
+      "vi": "(Giả sử [Để làm cho Ema nổi lên, cần phải có một chiếc váy] …Vậy hung thủ đã làm gì nổi? )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro069",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro069|",
+      "ja": "……ドレスには【金色の刺繍】がされていた。",
+      "zh": "……那件礼服上绣着【金色刺绣】。",
+      "vi": "…Chiếc váy đó được thêu bằng [thêu vàng].",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro070",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro070|",
+      "ja": "果たしてそれを構成する【糸】は……<br>いったい何でできていたのかな。",
+      "zh": "那么，那些构成刺绣的【线】……<br>\n到底是用什么做成的呢？",
+      "vi": "Vì vậy, những [sợi] tạo nên hình thêu... Nó được làm bằng gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Miria013",
+      "speaker_tag": "; > Miria: |#0204Trial08_Miria013|",
+      "ja": "……そ、それって……！",
+      "zh": "……难、难道是……！",
+      "vi": "...khó, phải chăng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro071",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro071|",
+      "ja": "君はさっきこう言ったね。<br>【自分の体しか浮かせることはできない】と。",
+      "zh": "你刚刚是这么说的吧。<br>\n你【只能让自己的身体飘浮】。",
+      "vi": "Có phải đó là điều bạn vừa nói không? Bạn [chỉ có thể để cơ thể mình trôi nổi].",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro072",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro072|",
+      "ja": "【魔法は髪を、自分の体として認識するのか】……。",
+      "zh": "【魔法是否把“头发”认定为自己身体的一部分】……",
+      "vi": "[Liệu phép thuật có công nhận \"tóc\" là một phần cơ thể của con người]...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro073",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro073|",
+      "ja": "それはわからないが、<br>【髪には魔力が宿る】なんて伝承もあるぐらいだ。<br>……できたとしても不思議はない。",
+      "zh": "这个我无从得知。<br>\n但既然【头发蕴含着魔力】这样的传说能够广为流传，<br>\n我想，有这样的魔法也不足为奇。",
+      "vi": "Tôi không có cách nào để biết điều này. Nhưng vì truyền thuyết [tóc chứa phép thuật] có thể được truyền bá rộng rãi nên Tôi đoán không có gì đáng ngạc nhiên khi có phép thuật như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro074",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro074|",
+      "ja": "君は自身の髪の毛を、<br>製作した衣装に編み込んでいた……。",
+      "zh": "你把自己的头发，<br>\n编进了亲手制作的舞台服里……",
+      "vi": "Bạn tự cắt tóc, Được lồng ghép vào những bộ trang phục sân khấu do chính tay tôi thực hiện...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro075",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro075|",
+      "ja": "そしてそれをエマに着せ、<br>エレベーターの天井裏の空間に浮かせていたんだ。",
+      "zh": "再给艾玛穿上那件衣服，<br>\n使她飘浮在电梯顶板上方的空间里。",
+      "vi": "Hãy mặc lại chiếc váy đó cho Ema, Làm cho cô ấy lơ lửng trong không gian phía trên nóc thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro076",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro076|",
+      "ja": "――自身の持つ、<br>【浮遊】の魔法を使って！",
+      "zh": "——借助你拥有的<br>\n【飘浮】魔法！",
+      "vi": "--Sử dụng bạn có [Nổi] Phép thuật!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro077",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro077|",
+      "ja": "犯人は君だ――。",
+      "zh": "凶手就是你——",
+      "vi": "Kẻ sát nhân là cậu——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro078",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro078|",
+      "ja": "――遠野ハンナ！",
+      "zh": "——远野汉娜！",
+      "vi": "---Tono Hanna!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hanna003",
+      "speaker_tag": "; > Hanna: |#0204Trial08_Hanna003|",
+      "ja": "……あ……う……。",
+      "zh": "……啊……呜……",
+      "vi": "...ah...ôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro079",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro079|",
+      "ja": "……君は以前、腕相撲をしたときに<br>エマへ【おまじない】をかけていたね。",
+      "zh": "……你曾经在和雪莉掰手腕的时候，<br>\n对艾玛施过【魔法】吧。",
+      "vi": "...Khi bạn vật lộn với Sherry, Chắc hẳn bạn đã sử dụng [ma thuật] lên Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hanna004",
+      "speaker_tag": "; > Hanna: |#0204Trial08_Hanna004|",
+      "ja": "絶対、絶対勝ってくださいまし、エマさん！",
+      "zh": "一定、一定要赢哇，艾玛！",
+      "vi": "Bạn phải, bạn phải thắng, Ema!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Ema001",
+      "speaker_tag": "; > Ema: |#0204Trial08_Ema001|",
+      "ja": "が、頑張るよ……！",
+      "zh": "我、我会加油的……！",
+      "vi": "Tôi-tôi sẽ cố gắng hết sức...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hanna005",
+      "speaker_tag": "; > Hanna: |#0204Trial08_Hanna005|",
+      "ja": "エマさんが勝てるようにおまじないですわ。",
+      "zh": "这是能让艾玛获胜的魔法哦。",
+      "vi": "Đây chính là phép thuật có thể khiến Ema chiến thắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro080",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro080|",
+      "ja": "そのあと、シェリーは腕相撲でエマに負けていた。",
+      "zh": "之后，雪莉输给了艾玛。",
+      "vi": "Sau đó, Sherry thua Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro081",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro081|",
+      "ja": "あのときエマの指に結びつけていた【髪】……。",
+      "zh": "那时你绑在艾玛手指上的【头发】……",
+      "vi": "[Mái tóc] bạn buộc quanh ngón tay của Ema lúc đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro082",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro082|",
+      "ja": "あれは魔法による【浮力】をエマの手に<br>与えていたんじゃないかな。",
+      "zh": "是为了给艾玛的手<br>\n施加【浮力】魔法吧。",
+      "vi": "Nó dành cho bàn tay của Ema Áp dụng phép thuật [Sức nổi].",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Sherry015",
+      "speaker_tag": "; > Sherry: |#0204Trial08_Sherry015|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro083",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro083|",
+      "ja": "ハンナ……<br>君はその方法を応用して私の前に<br>エマの死体を出現させてみせたんだ。",
+      "zh": "汉娜……<br>\n你正是利用这个手法，让艾玛的尸体出现在我面前，<br>\n并让我目睹的！",
+      "vi": "Hanna... Bạn đã sử dụng phương pháp này để làm cho cơ thể của Ema xuất hiện trước mặt tôi, Và hãy để tôi chứng kiến điều đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hiro084",
+      "speaker_tag": "; > Hiro: |#0204Trial08_Hiro084|",
+      "ja": "……私に罪をなすりつけるために！",
+      "zh": "……为了把罪名嫁祸给我！",
+      "vi": "...Đổ lỗi cho tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hanna006",
+      "speaker_tag": "; > Hanna: |#0204Trial08_Hanna006|",
+      "ja": "あ……ち、違……。",
+      "zh": "啊……不、不……",
+      "vi": "À...không, không...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hanna007",
+      "speaker_tag": "; > Hanna: |#0204Trial08_Hanna007|",
+      "ja": "………違いますわっ！！",
+      "zh": "………不对！！",
+      "vi": "........Sai rồi! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial08_Hanna008",
+      "speaker_tag": "; > Hanna: |#0204Trial08_Hanna008|",
+      "ja": "わたくし……わたくしそんなことしておりません……。<br>するわけが……ありませんもの！！",
+      "zh": "我……我没有做那种事……<br>\n我怎么可能……会那样做哇！！",
+      "vi": "Bổn tiểu thư...Bổn tiểu thư không làm chuyện đó... Làm sao Bổn tiểu thư có thể... làm được điều đó? !",
+      "objection_links": []
+    }
+  ]
+}

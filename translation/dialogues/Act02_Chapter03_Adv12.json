@@ -1,0 +1,272 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter03_Adv12",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter03/Act02_Chapter03_Adv12' Naninovel scenario script",
+  "total_entries": 33,
+  "entries": [
+    {
+      "id": "0203Adv12_Narrative001",
+      "speaker_tag": "",
+      "ja": "ラウンジに集った少女たちは、<br>誰も口を開かない。",
+      "zh": "所有人都来到了会客厅。<br>\n在场没有一个人开口说话。",
+      "vi": "Mọi người đã đến phòng khách. Không ai có mặt lên tiếng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative002",
+      "speaker_tag": "",
+      "ja": "エマはぎゅっと唇を<ruby=\"か\">噛</ruby>み、<br>何かを<ruby=\"こら\">堪</ruby>えている様子だった。",
+      "zh": "艾玛像在忍受着什么似的咬紧嘴唇。<br>",
+      "vi": "Ema cắn môi như thể đang chịu đựng điều gì đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative003",
+      "speaker_tag": "",
+      "ja": "レイアは打ちひしがれた様子で、<br>頭を抱え込んでいた。",
+      "zh": "蕾雅则是一副沮丧的模样，<br>\n抱着头苦恼不已。",
+      "vi": "Leya trông chán nản, Anh ôm đầu đau khổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative004",
+      "speaker_tag": "",
+      "ja": "アンアンの死を知らされた他の面々も、<br>ショックのあまり顔を<ruby=\"ふ\">伏</ruby>せている。",
+      "zh": "得知安安的死以后，<br>\n其他人也因为这意外的打击而低垂着头。",
+      "vi": "Sau khi biết tin AnAn qua đời, Những người khác cũng cúi đầu vì đòn bất ngờ này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative005",
+      "speaker_tag": "",
+      "ja": "私は、私は未だ現実感を取り戻せず――<br>口の中が乾き、足元がぐらついていた。",
+      "zh": "至于我……我到现在依然没有任何真实感——<br>\n口里干渴，两脚发软，站都快要站不稳。",
+      "vi": "Còn tôi... tôi vẫn chưa có cảm giác thực tế chút nào—— Miệng khát, chân yếu, đứng không vững.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative006",
+      "speaker_tag": "",
+      "ja": "そこに、ゴクチョーが姿を現す。",
+      "zh": "就在此时，典狱长出现了。",
+      "vi": "Đúng lúc đó, quản giáo xuất hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Warden001",
+      "speaker_tag": "; > Warden: |#0203Adv12_Warden001|",
+      "ja": "やれやれ……<br>起きちゃいましたね、殺人事件。",
+      "zh": "哎呀呀……<br>\n发生凶杀案件了呢。",
+      "vi": "Rất tiếc... Đã có một vụ giết người.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Warden002",
+      "speaker_tag": "; > Warden: |#0203Adv12_Warden002|",
+      "ja": "ここしばらくは平和だったのに……<br>やっぱり、抗えないんですかねえ。",
+      "zh": "最近这阵子明明那么和平……<br>\n果然你们还是无法抵抗那种冲动啊。",
+      "vi": "Gần đây thật yên bình... Chắc chắn là bạn vẫn không thể cưỡng lại được sự thôi thúc đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Warden003",
+      "speaker_tag": "; > Warden: |#0203Adv12_Warden003|",
+      "ja": "さて……それでは今回も、<br>事前投票をしていただきましょうか。",
+      "zh": "那么接下来……<br>\n这次也请各位在审判开始前进行投票吧。",
+      "vi": "Vậy tiếp theo... Lần này, hãy bỏ phiếu trước khi phiên tòa bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Hiro001",
+      "speaker_tag": "; > Hiro: |#0203Adv12_Hiro001|",
+      "ja": "私が殺した……。",
+      "zh": "是我杀的……",
+      "vi": "Tôi đã giết anh ta...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative007",
+      "speaker_tag": "",
+      "ja": "無意識だった。<br>私は気付けば、そう口にしていた。",
+      "zh": "是无意识的喃喃自语。<br>\n回过神来，我已经说出了这句话。",
+      "vi": "Đó là một tiếng thì thầm vô thức. Khi tỉnh lại, tôi đã nói điều này rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative008",
+      "speaker_tag": "",
+      "ja": "その告白に、<br>ラウンジの空気が一変した。",
+      "zh": "我的自首<br>\n让会客厅内的气氛骤然一变。",
+      "vi": "Sự đầu hàng của tôi Không khí trong phòng khách đột nhiên thay đổi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Ema001",
+      "speaker_tag": "; > Ema: |#0203Adv12_Ema001|",
+      "ja": "ヒロちゃん！？",
+      "zh": "希罗！？",
+      "vi": "Hiro！？",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Hanna001",
+      "speaker_tag": "; > Hanna: |#0203Adv12_Hanna001|",
+      "ja": "どういうことですの！？",
+      "zh": "你这话是什么意思！？",
+      "vi": "Ý bạn là gì? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Sherry001",
+      "speaker_tag": "; > Sherry: |#0203Adv12_Sherry001|",
+      "ja": "どうもこうも、言葉通りなのでは……<br>ヒロさんが、アンアンさんを殺した犯人。",
+      "zh": "这还能是什么意思，不就是像她说的那样……<br>\n希罗就是杀死安安的凶手。",
+      "vi": "Điều này có thể có ý nghĩa gì khác? Đúng như những gì cô ấy nói... Shi Luo là kẻ sát hại AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Noah001",
+      "speaker_tag": "; > Noah: |#0203Adv12_Noah001|",
+      "ja": "ヒロちゃんが……アンアンちゃんを……。",
+      "zh": "希罗……把安安给……",
+      "vi": "Hiro...đưa An'an...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Miria001",
+      "speaker_tag": "; > Miria: |#0203Adv12_Miria001|",
+      "ja": "そんな……でも、どうして……。",
+      "zh": "怎么会这样……可是，为什么……",
+      "vi": "Làm sao điều này có thể xảy ra...nhưng tại sao...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Alisa001",
+      "speaker_tag": "; > Alisa: |#0203Adv12_Alisa001|",
+      "ja": "やっぱ、無駄だったんじゃねーか。<br>どんなに仲良しごっこなんかしたって、<br>ウチらはもう……。",
+      "zh": "都白费力气了呗。<br>\n就算再怎么继续玩好朋友过家家，<br>\n我们都已经……",
+      "vi": "Mọi nỗ lực của mày đều vô ích. Cho dù chúng ta có tiếp tục chơi nhà với những người mày tốt đến mức nào đi chăng nữa, Chúng Tao có tất cả...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Leia001",
+      "speaker_tag": "; > Leia: |#0203Adv12_Leia001|",
+      "ja": "ヒロくん、キミは……！",
+      "zh": "希罗，你……！",
+      "vi": "Anh hùng, bạn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative009",
+      "speaker_tag": "",
+      "ja": "誰の目も見ることができなかった。<br>私はただ<ruby=\"うなだ\">項垂</ruby>れ、投票結果を待った。",
+      "zh": "我无法直视任何人的眼睛。<br>\n我只是低着头，静静等待投票结果的公布。",
+      "vi": "Tôi không thể nhìn vào mắt ai cả. Tôi chỉ cúi đầu im lặng chờ đợi thông báo kết quả bỏ phiếu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative010",
+      "speaker_tag": "",
+      "ja": "事前投票の結果は当然私となり――",
+      "zh": "投票结果不用说，自然是我——",
+      "vi": "Không cần phải nói, kết quả của cuộc bỏ phiếu là tôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative011",
+      "speaker_tag": "",
+      "ja": "私は懲罰房で拘束されることになった。",
+      "zh": "于是，我被拘禁在惩罚室里了。",
+      "vi": "Thế là tôi bị giam vào Phòng Kỷ Luật Biệt Giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative012",
+      "speaker_tag": "",
+      "ja": "目の前の景色は<ruby=\"かす\">霞</ruby>んでぼやけている。<br>全てが遠くに感じられる。",
+      "zh": "眼前的景象朦朦胧胧，看不真切。<br>\n一切仿佛都在远方。",
+      "vi": "Khung cảnh trước mắt tôi thật mơ hồ và không chân thực. Mọi thứ dường như rất xa vời.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Hiro002",
+      "speaker_tag": "; > Hiro: |#0203Adv12_Hiro002|",
+      "ja": "（あの時、エマは……工作していたのか）",
+      "zh": "（那时，艾玛是在……伪造现场吗）",
+      "vi": "(Lúc đó, có phải Ema... đang giả vờ không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative013",
+      "speaker_tag": "",
+      "ja": "ふと思い至る。<br>けれどそれすらも遠く、<br>体中の力が根こそぎ奪われた感覚だ。",
+      "zh": "我突然想到了这一点。<br>\n可是就连这个念头也飘然远去，<br>\n感觉全身的力气正在从身体深处被抽走。",
+      "vi": "Điều này đột nhiên xảy ra với tôi. Nhưng ngay cả suy nghĩ này cũng trôi đi, Cảm giác như toàn bộ sức lực trong cơ thể đang bị hút ra khỏi sâu trong cơ thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Hiro003",
+      "speaker_tag": "; > Hiro: |#0203Adv12_Hiro003|",
+      "ja": "（それでも、黙っていられなかった）",
+      "zh": "（就算是这样，我也做不到保持沉默）",
+      "vi": "(Mặc dù vậy, tôi không thể giữ im lặng)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative014",
+      "speaker_tag": "",
+      "ja": "昨夜、黙っていられず告白した<br>アンアンと同じように。",
+      "zh": "就像昨晚，<br>\n安安再也无法忍受，向我们自白一样。",
+      "vi": "Cũng giống như tối qua, AnAn không thể chịu đựng được nữa và tỏ tình với chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative015",
+      "speaker_tag": "",
+      "ja": "結果的にアンアンを突き飛ばし、<br>落下させたのは、間違いなく私で。",
+      "zh": "从结果上来说，是我推了安安一把，害她掉了下去。<br>\n这是毫无疑问的。",
+      "vi": "Xét kết quả thì chính tôi đã đẩy AnAn khiến cô ấy ngã. Không có nghi ngờ gì về điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative016",
+      "speaker_tag": "",
+      "ja": "そしてアンアンは死んでしまった。",
+      "zh": "然后，安安死了。",
+      "vi": "Sau đó AnAn chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Hiro004",
+      "speaker_tag": "; > Hiro: |#0203Adv12_Hiro004|",
+      "ja": "……っ",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative017",
+      "speaker_tag": "",
+      "ja": "息をするたびに痛みが増すようだった。<br>どこにも光が見えず、<br>私はただ力なく拘束されている。",
+      "zh": "每次呼吸都会加重我的苦痛。<br>\n我已经看不到任何希望，<br>\n受到拘束的身体完全提不起挣扎的力气。",
+      "vi": "Mỗi hơi thở càng làm nỗi đau của tôi tăng thêm. Tôi không thấy hy vọng nào nữa, Cơ thể bị kiềm chế hoàn toàn không còn sức lực để vùng vẫy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative018",
+      "speaker_tag": "",
+      "ja": "誰も私のところへは、現れなかった。",
+      "zh": "没有任何人来探望我。",
+      "vi": "Không có ai đến thăm tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv12_Narrative019",
+      "speaker_tag": "",
+      "ja": "そして――裁判の時間がやってくる。",
+      "zh": "就这样——审判之时已到。",
+      "vi": "Thế là xong - thời điểm phán xét đã đến.",
+      "objection_links": []
+    }
+  ]
+}

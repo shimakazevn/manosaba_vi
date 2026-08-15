@@ -1,0 +1,240 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Adv02",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Adv02' Naninovel scenario script",
+  "total_entries": 29,
+  "entries": [
+    {
+      "id": "0204Adv02_Narrative001",
+      "speaker_tag": "",
+      "ja": "翌日も、静かに穏やかに時間が過ぎていた。",
+      "zh": "第二天，时间依然平静地流逝。",
+      "vi": "Ngày hôm sau, thời gian vẫn trôi qua trong yên bình.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Narrative002",
+      "speaker_tag": "",
+      "ja": "自由時間になんとなくぶらぶらしていると、<br>レイアが前から歩いてきた。",
+      "zh": "到了放风时间，我正随意闲逛时，<br>\n蕾雅从正面朝我走来。",
+      "vi": "Khi đến lúc thư giãn, tôi đi loanh quanh, Leia tiến về phía tôi từ phía trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Leia001",
+      "speaker_tag": "; > Leia: |#0204Adv02_Leia001|",
+      "ja": "やあ、ヒロくん。",
+      "zh": "你好呀，希罗。",
+      "vi": "Xin chào Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Narrative003",
+      "speaker_tag": "",
+      "ja": "昨日よりレイアはずいぶん顔色が良くなっている。",
+      "zh": "蕾雅的气色明显比昨天好了许多。",
+      "vi": "Nước da của Leya rõ ràng đã tốt hơn nhiều so với ngày hôm qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Narrative004",
+      "speaker_tag": "",
+      "ja": "あんなちょっとした<ruby=\"よきょう\">余興</ruby>でも、<br>気分転換になったのだろう。",
+      "zh": "只是小小的余兴活动，<br>\n似乎就能让大家换换心情了。",
+      "vi": "Chỉ là một hoạt động nhỏ bên lề thôi, Nó dường như làm thay đổi tâm trạng của mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Leia002",
+      "speaker_tag": "; > Leia: |#0204Adv02_Leia002|",
+      "ja": "最近のヒロくん、覇気がないよね。<br>まあ無理もないが……。",
+      "zh": "最近希罗的气势大不如前啊。<br>\n不过这也没办法……",
+      "vi": "Gần đây phong độ của Hiro không còn tốt như trước. Nhưng chúng ta không thể làm gì được...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Leia003",
+      "speaker_tag": "; > Leia: |#0204Adv02_Leia003|",
+      "ja": "しかし私は何かあった時に頼りになるのは、<br>ヒロくんだと思っているよ。<br>共に切磋琢磨してきた仲間同士だしね。",
+      "zh": "但如果我真有个万一，<br>\n到时最值得依靠的，还是希罗啊。<br>\n毕竟我们是互相切磋共同精进至今的伙伴嘛。",
+      "vi": "Nhưng nếu tôi thực sự gặp trường hợp khẩn cấp, Người đáng tin cậy nhất lúc đó vẫn sẽ là Hiro. Suy cho cùng, chúng ta là những đối tác học hỏi lẫn nhau và cùng nhau tiến bộ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Adv02_Hiro001|",
+      "ja": "（共に切磋琢磨した覚えはないが……）",
+      "zh": "（我可不记得和她互相切磋共同精进过……）",
+      "vi": "(Tôi không nhớ đã thảo luận với cô ấy và cùng nhau đề cao...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Leia004",
+      "speaker_tag": "; > Leia: |#0204Adv02_Leia004|",
+      "ja": "ここはひとつ、<br>一緒にゴクチョーを探さないかい？",
+      "zh": "所以想拜托你一件事。<br>\n要不要和我一起去找典狱长？",
+      "vi": "Vì thế tôi muốn nhờ bạn một việc. Bạn có muốn đi cùng tôi để tìm quản giáo không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Adv02_Hiro002|",
+      "ja": "ゴクチョーを？ 何故？",
+      "zh": "找典狱长？为什么？",
+      "vi": "Đang tìm quản giáo à? Tại sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Leia005",
+      "speaker_tag": "; > Leia: |#0204Adv02_Leia005|",
+      "ja": "もう一度裁判制度をやめる説得がしたいんだ。",
+      "zh": "我想再去游说一次，让它取消魔女审判制度。",
+      "vi": "Tôi muốn vận động một lần nữa để bãi bỏ hệ thống xét xử phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Leia006",
+      "speaker_tag": "; > Leia: |#0204Adv02_Leia006|",
+      "ja": "殺人事件などこれ以上はもう起こらない、<br>と信じるのが一番さ。",
+      "zh": "要是大家坚信凶杀案不会再发生，<br>\n那当然再好不过。",
+      "vi": "Nếu mọi người tin rằng vụ giết người sẽ không bao giờ xảy ra nữa, Tất nhiên điều đó sẽ rất tuyệt.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Leia007",
+      "speaker_tag": "; > Leia: |#0204Adv02_Leia007|",
+      "ja": "けれど魔女裁判のことを考えると、<br>私たちはずいぶん精神的に追い詰められる。<br>みんなの心を少しでも守りたいんだよ。",
+      "zh": "可是一想到还有魔女审判这回事，<br>\n大家的精神就会遭到折磨。<br>\n我想尽自己所能，守护大家的心灵不受伤害。",
+      "vi": "Nhưng khi tôi nghĩ về phiên tòa xét xử phù thủy, Tinh thần của mọi người sẽ bị tra tấn. Tôi muốn làm hết sức mình để bảo vệ trái tim của mọi người khỏi bị tổn hại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Adv02_Hiro003|",
+      "ja": "言い分は理解できるが……。",
+      "zh": "倒是能理解你的想法……",
+      "vi": "Tôi có thể hiểu được suy nghĩ của bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Adv02_Hiro004|",
+      "ja": "（私も何度もゴクチョーに直談判はしている。<br>　けどあのフクロウは聞く耳をもたない）",
+      "zh": "（我也曾多次试图直接与典狱长交涉。<br>\n但那只猫头鹰根本不听人说话）",
+      "vi": "(Tôi cũng đã cố gắng thương lượng trực tiếp với quản giáo nhiều lần. Nhưng con cú đó không hề nghe lời)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Adv02_Hiro005|",
+      "ja": "（無駄なあがきな気がするが……）",
+      "zh": "（恐怕只能无功而返吧……）",
+      "vi": "(Tôi e rằng mình chỉ có thể quay lại mà không thành công...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Narrative005",
+      "speaker_tag": "",
+      "ja": "かと言って、<br>私自身、何をすればいいのか<ruby=\"あんちゅうもさく\">暗中模索</ruby>だった。",
+      "zh": "话虽如此，<br>\n到底应该怎么办，我自己也毫无头绪。",
+      "vi": "Nói xong, Tôi không biết phải làm gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Narrative006",
+      "speaker_tag": "",
+      "ja": "エマに向けた憎悪や殺意も――<br>他の少女たちへの接し方も――<br>この牢屋敷での立ち回りさえも――",
+      "zh": "无论是对艾玛的憎恶与杀意——<br>\n还是如何对待其他少女们的方式——<br>\n乃至于在这座监牢中自己该扮演什么角色、该如何具体行动——",
+      "vi": "Cho dù đó là sự căm ghét Ema hay ý định giết người—— Hoặc cách đối xử với những cô gái khác—— Kể cả tôi nên đóng vai trò gì trong Ngục Dinh Thự này và tôi nên hành động cụ thể như thế nào——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Narrative007",
+      "speaker_tag": "",
+      "ja": "全てが迷いの霧の中を<ruby=\"さまよ\">彷徨</ruby>うばかりで、<br>出口は見えない。",
+      "zh": "一切都在迷雾中徘徊，<br>\n看不到出口。",
+      "vi": "Mọi thứ đều đang lang thang trong sương mù, Không có lối ra trong tầm nhìn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Adv02_Hiro006|",
+      "ja": "（こんな弱気な自分は、私らしくない……。<br>　でも、そもそも【私らしさ】って何だ？）",
+      "zh": "（这么软弱，真不像我……<br>\n可是到底怎么做才【像我】？）",
+      "vi": "(Thật không giống tôi chút nào khi quá yếu đuối... Nhưng làm sao tôi có thể [như tôi] được? )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Leia008",
+      "speaker_tag": "; > Leia: |#0204Adv02_Leia008|",
+      "ja": "ヒロくん、<br>どうか私と一緒に来てほしい。",
+      "zh": "希罗，<br>\n请你跟我一起去吧。",
+      "vi": "Anh hùng, Hãy đi cùng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Narrative008",
+      "speaker_tag": "",
+      "ja": "何かスイッチが入ったのか、<br>唐突にレイアは片膝をつき、<br><ruby=\"うやうや\">恭</ruby>しく手を差し出してくる。",
+      "zh": "不知为何，<br>\n蕾雅突然单膝跪地，<br>\n郑重而优雅地向我伸出了手。",
+      "vi": "Vì lý do nào đó, Leya đột nhiên quỳ một gối xuống, Anh đưa tay về phía tôi một cách trang trọng và duyên dáng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Narrative009",
+      "speaker_tag": "",
+      "ja": "そのポーズは<br>さながら姫に求愛する王子のようだった。",
+      "zh": "那动作<br>\n宛如向公主求爱的王子一般。",
+      "vi": "Hành động đó Giống như một hoàng tử đang tán tỉnh một công chúa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Narrative010",
+      "speaker_tag": "",
+      "ja": "私は――",
+      "zh": "我——",
+      "vi": "Tôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Choice001",
+      "speaker_tag": "; > @choice |#0204Adv02_Choice001| button:ChoiceButtons/Adv/Bad",
+      "ja": "手を取る",
+      "zh": "握住她的手",
+      "vi": "nắm tay cô ấy",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Choice002",
+      "speaker_tag": "; > @choice |#0204Adv02_Choice002|",
+      "ja": "手を取らない",
+      "zh": "没有握住她的手",
+      "vi": "đã không nắm tay cô ấy",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Adv02_Hiro007|",
+      "ja": "わかった。探しに行こう。",
+      "zh": "好。一起去找它吧。",
+      "vi": "Được rồi. Chúng ta hãy cùng nhau đi tìm nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Narrative011",
+      "speaker_tag": "",
+      "ja": "いちいちレイアにのってやる必要はない。",
+      "zh": "没有必要次次都配合蕾雅演戏。",
+      "vi": "Không cần thiết lúc nào cũng phải hợp tác với Leya trong diễn xuất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv02_Narrative012",
+      "speaker_tag": "",
+      "ja": "手を取らずに簡素にそれだけ言って、<br>私はさっさと歩き出した。",
+      "zh": "我没有牵起她的手，只是简单地回答了一句，<br>\n便快步走了出去。",
+      "vi": "Tôi không nắm tay cô ấy mà chỉ trả lời đơn giản, Sau đó anh bước nhanh ra ngoài.",
+      "objection_links": []
+    }
+  ]
+}

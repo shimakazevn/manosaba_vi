@@ -1,0 +1,818 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter06_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter06_Trial01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter06/Act02_Chapter06_Trial01' Naninovel scenario script",
+  "total_entries": 100,
+  "entries": [
+    {
+      "id": "0206Trial01_Yuki001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial01_Yuki001|",
+      "ja": "人は<link=\"Objection_02_06_01_01\">罪</link>を背負っています。",
+      "zh": "人生而有<link=\"Objection_02_06_01_01\">罪</link>。",
+      "vi": "Con người sinh ra đã có <link=\"Objection_02_06_01_01\"> tội lỗi</link>.",
+      "objection_links": [
+        "Objection_02_06_01_01"
+      ]
+    },
+    {
+      "id": "0206Trial01_Yuki002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial01_Yuki002|",
+      "ja": "よってこれより、<br>刑を執行します。",
+      "zh": "因此，<br>\n我将执行刑罚。",
+      "vi": "Vì vậy, Tôi sẽ thực hiện hình phạt.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial01_Yuki003|",
+      "ja": "……全人類の処刑。",
+      "zh": "……处决全人类。",
+      "vi": "…Việc hành quyết toàn thể nhân loại.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial01_Yuki004|",
+      "ja": "これは<link=\"Objection_02_06_01_02\">決定事項</link>なんです。",
+      "zh": "这是<link=\"Objection_02_06_01_02\">既定事项</link>。",
+      "vi": "Đây là <link=\"Objection_02_06_01_02\"> một </link> nhất định.",
+      "objection_links": [
+        "Objection_02_06_01_02"
+      ]
+    },
+    {
+      "id": "0206Trial01_Alisa001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial01_Alisa001|",
+      "ja": "いきなり出てきたと<br>思ったら……<br>何言ってんだよてめぇ……！",
+      "zh": "你这家伙……<br>\n忽然间跑出来<br>\n讲什么疯话……！",
+      "vi": "Anh mày... Đột nhiên hết Cậu đang nói cái chuyện điên khùng gì vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Coco001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial01_Coco001|",
+      "ja": "人間全滅させるって<br>言ってる……！？<br>そんなことできんの！？",
+      "zh": "她说，要灭绝<br>\n全人类……！？<br>\n这能做到吗！？",
+      "vi": "Cô ấy nói, để tiêu diệt Toàn thể nhân loại...! ? Điều này có thể được thực hiện! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Nanoka001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial01_Nanoka001|",
+      "ja": "……残念だけれど、<br>大魔女にはそれが可能よ。",
+      "zh": "……很遗憾，<br>\n大魔女确实能做到。",
+      "vi": "...Xin lỗi, Đại Ma Nữ thực sự có thể làm được điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Nanoka002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial01_Nanoka002|",
+      "ja": "彼女には<br>それを実行できる<br>力がある……。",
+      "zh": "因为她的确拥有<br>\n足以灭绝人类的<br>\n能力……",
+      "vi": "Bởi vì cô ấy có Đủ để tiêu diệt loài người Khả năng...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial01_Yuki005|",
+      "ja": "物わかりが良くて<br>助かりますよ、<br>ナノカ。",
+      "zh": "有你这么明事理的人，<br>\n我就不需多费口舌了，<br>\n奈叶香。",
+      "vi": "Có một người nhạy cảm như bạn, Tôi không cần lãng phí thêm lời nào nữa, Nanoha.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial01_Yuki006|",
+      "ja": "大丈夫です。<br>あなたのお姉さんも、<br>ずっと一緒ですからね。",
+      "zh": "不用害怕。<br>\n你姐姐会<br>\n永远陪着你的。",
+      "vi": "Đừng sợ. Em gái của bạn có thể Luôn luôn ở bên bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Nanoka003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial01_Nanoka003|",
+      "ja": "………っ！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial01_Yuki007|",
+      "ja": "すでに人類への<link=\"Objection_02_06_01_03\">執行</link>の猶予は<br>十分に与えました。",
+      "zh": "我已经给予全人类<br>\n足够长的<link=\"Objection_02_06_01_03\">执行</link>延缓期了。",
+      "vi": "Tôi đã trao cho toàn thể nhân loại Khoảng thời gian trì hoãn đủ dài để <link=\"Objection_02_06_01_03\"> thực thi </link>.",
+      "objection_links": [
+        "Objection_02_06_01_03"
+      ]
+    },
+    {
+      "id": "0206Trial01_Yuki008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial01_Yuki008|",
+      "ja": "もう……<br><link=\"Objection_02_06_01_04\">十分</link>ですよね？",
+      "zh": "已经……<br>\n给你们<link=\"Objection_02_06_01_04\">足够</link>时间了吧？",
+      "vi": "Đã... </link> thời gian đó có đủ cho bạn <link=\"Objection_02_06_01_04\"> không?",
+      "objection_links": [
+        "Objection_02_06_01_04"
+      ]
+    },
+    {
+      "id": "0206Trial01_Yuki009",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial01_Yuki009|",
+      "ja": "人類の歴史は<br>今日で終焉を迎えます。",
+      "zh": "人类的历史<br>\n将在今天迎来终结。",
+      "vi": "Lịch sử của nhân loại Nó sẽ kết thúc ngày hôm nay.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki010",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial01_Yuki010|",
+      "ja": "この世界を、<br><link=\"Objection_02_06_01_05\">自然</link>に返しましょう。",
+      "zh": "是时候把世界<br>\n归还给<link=\"Objection_02_06_01_05\">自然</link>了。",
+      "vi": "Đã đến lúc mang cả thế giới Trở lại <link=\"Objection_02_06_01_05\"> một cách tự nhiên </link>.",
+      "objection_links": [
+        "Objection_02_06_01_05"
+      ]
+    },
+    {
+      "id": "0206Trial01_Hiro001",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro001|",
+      "ja": "（ユキが何を考えているのか……<br>　私たちはまだ聞き出せていない）",
+      "zh": "（小雪到底是怎么打算的……<br>\n我们还没问出来）",
+      "vi": "(Chính xác thì kế hoạch của Xiaoxue là gì... Chúng tôi chưa hỏi)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro002",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro002|",
+      "ja": "（だがこのままでは話を聞く前に<br>　人間が死滅してしまう）",
+      "zh": "（但如果不采取行动，这样下去，<br>\n在听到她的解释之前，人类就会灭亡）",
+      "vi": "(Nhưng nếu không thực hiện hành động nào và tình trạng này vẫn tiếp diễn, Nhân loại sẽ diệt vong trước khi nghe lời giải thích của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro003",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro003|",
+      "ja": "（……少しでも彼女の行動を遅らせなくては）",
+      "zh": "（……必须设法拖延她的行动）",
+      "vi": "(...Phải cố gắng trì hoãn hành động của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Choice001",
+      "speaker_tag": "; > @choice |#0206Trial01_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "罪など背負っていない",
+      "zh": "人是无罪的",
+      "vi": "người đàn ông vô tội",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Choice002",
+      "speaker_tag": "; > @choice |#0206Trial01_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "誰もそんなことは決めていない",
+      "zh": "根本没人决定过这件事",
+      "vi": "Không ai quyết định điều này cả",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Choice003",
+      "speaker_tag": "; > @choice |#0206Trial01_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "裁判が行われていない",
+      "zh": "刑罚未经审判",
+      "vi": "Hình phạt không cần xét xử",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Choice004",
+      "speaker_tag": "; > @choice |#0206Trial01_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "不十分だ",
+      "zh": "还不够",
+      "vi": "không đủ",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Choice005",
+      "speaker_tag": "; > @choice |#0206Trial01_Choice005| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "自然なものだ",
+      "zh": "世界本就是属于自然的",
+      "vi": "Thế giới là tự nhiên",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro004",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro004|",
+      "ja": "……何の話だ。",
+      "zh": "……你在说什么？",
+      "vi": "...bạn đang nói về cái gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro005",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro005|",
+      "ja": "人が生まれながらに罪を背負っているだと？",
+      "zh": "人类生而有罪？",
+      "vi": "Có phải con người vốn có tội lỗi?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro006",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro006|",
+      "ja": "そんなこと、あるはずがない！",
+      "zh": "无稽之谈！",
+      "vi": "Vô nghĩa!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki011",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki011|",
+      "ja": "あなたは知らないだけ……。",
+      "zh": "只是你不知道而已……",
+      "vi": "Chỉ là bạn không biết thôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki012",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki012|",
+      "ja": "いいえ、それとも知っているのに<br>知らないふりをしているだけ？",
+      "zh": "还是说，你明明很清楚，<br>\n却在装傻？",
+      "vi": "Hoặc, rõ ràng là bạn biết rất rõ, Bạn đang giả vờ ngu ngốc phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki013",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki013|",
+      "ja": "どちらにせよ……。<br>あなたの反論に意味はありません。",
+      "zh": "无论是哪一种……<br>\n你的反驳都没有任何意义。",
+      "vi": "Bất kể loại nào... Không có sự phản bác nào của bạn có ý nghĩa gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki014",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki014|",
+      "ja": "無駄な時間を使うのであれば……<br>お話は終わりです。",
+      "zh": "再这样浪费时间……<br>\n谈话就到此为止了。",
+      "vi": "Hãy tiếp tục lãng phí thời gian như thế này... Cuộc trò chuyện kết thúc ở đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki015",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki015|",
+      "ja": "刑を執行しましょう。",
+      "zh": "我将执行刑罚。",
+      "vi": "Tôi sẽ thực hiện hình phạt.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro007",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro007|",
+      "ja": "（くっ……！<br>　闇雲に反論をしても、話を打ち切られるだけか……！）",
+      "zh": "（可恶……！<br>\n胡乱反驳只会使谈话结束……！）",
+      "vi": "(Chết tiệt...! Những lời bác bỏ ngẫu nhiên sẽ chỉ kết thúc cuộc trò chuyện...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro008",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro008|",
+      "ja": "（圧倒的な力を持つ大魔女……<br>　この場ではある意味、裁判官に等しい力を持つ）",
+      "zh": "（拥有压倒性力量的大魔女……<br>\n在现在的情况下，某种意义上相当于审判官）",
+      "vi": "(Bà phù thủy vĩ đại với sức mạnh áp đảo... Trong tình hình hiện tại, nó tương đương với một thẩm phán theo một nghĩa nào đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro009",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro009|",
+      "ja": "（心証を損ねるわけにはいかない……か）",
+      "zh": "（得小心，不要损害我在她心里的印象……）",
+      "vi": "(Cẩn thận đừng làm tổn hại đến ấn tượng của mình trong tâm trí cô ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro010",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro010|",
+      "ja": "（彼女を納得させるには、<br>　彼女の世界のルールに従う必要があるな）",
+      "zh": "（要让她信服，<br>\n就必须遵守她那个世界的规则）",
+      "vi": "(Để thuyết phục cô ấy, Bạn phải tuân theo các quy tắc của thế giới của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro011",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro011|",
+      "ja": "人類の処刑が決定事項……？",
+      "zh": "处决人类是既定事项……？",
+      "vi": "Việc hành quyết con người là điều hiển nhiên...?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro012",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro012|",
+      "ja": "誰もそんなことは決めていない！",
+      "zh": "根本没人决定过这件事！",
+      "vi": "Không ai quyết định điều này cả!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki016",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki016|",
+      "ja": "私が決めました。",
+      "zh": "是我决定的。",
+      "vi": "Đó là quyết định của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki017",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki017|",
+      "ja": "処刑を行うのも私です。",
+      "zh": "行刑官也是我。",
+      "vi": "Tôi cũng là người hành quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki018",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki018|",
+      "ja": "それに反抗するというのであれば……。",
+      "zh": "如果要反抗这一点……",
+      "vi": "Nếu bạn muốn chống lại điều này ...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki019",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki019|",
+      "ja": "まずはあなた方から、処刑を実施しましょうか。",
+      "zh": "首先处决的就是在座各位。",
+      "vi": "Những người đầu tiên bị xử tử đều là các bạn ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro013",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro013|",
+      "ja": "（くっ……！<br>　闇雲に反論をしても、話を打ち切られるだけか……！）",
+      "zh": "（可恶……！<br>\n胡乱反驳只会使谈话结束……！）",
+      "vi": "(Chết tiệt...! Những lời bác bỏ ngẫu nhiên sẽ chỉ kết thúc cuộc trò chuyện...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro014",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro014|",
+      "ja": "（圧倒的な力を持つ大魔女……<br>　この場ではある意味、裁判官に等しい力を持つ）",
+      "zh": "（拥有压倒性力量的大魔女……<br>\n在现在的情况下，某种意义上相当于审判官）",
+      "vi": "(Bà phù thủy vĩ đại với sức mạnh áp đảo... Trong tình hình hiện tại, nó tương đương với một thẩm phán theo một nghĩa nào đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro015",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro015|",
+      "ja": "（心証を損ねるわけにはいかない……か）",
+      "zh": "（得小心，不要损害我在她心里的印象……）",
+      "vi": "(Cẩn thận đừng làm tổn hại đến ấn tượng của mình trong tâm trí cô ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro016",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro016|",
+      "ja": "（彼女を納得させるには、<br>　彼女の世界のルールに従う必要があるな）",
+      "zh": "（要让她信服，<br>\n就必须遵守她那个世界的规则）",
+      "vi": "(Để thuyết phục cô ấy, Bạn phải tuân theo các quy tắc của thế giới của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro017",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro017|",
+      "ja": "いいや、不十分だ。",
+      "zh": "不，缓刑期还不够。",
+      "vi": "Không, thử thách là không đủ.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro018",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro018|",
+      "ja": "人を殺すのであれば、<br>もっと慎重に検討すべきだ！",
+      "zh": "这可是杀人，<br>\n应该更慎重地考虑！",
+      "vi": "Thật là giết người, Nên cân nhắc kỹ hơn!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki020",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki020|",
+      "ja": "そうでしょうか？",
+      "zh": "是吗？",
+      "vi": "Thật sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki021",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki021|",
+      "ja": "人間の世界であっても死刑はありますし、<br>こんなに時間があったのですから<br>十分な猶予を与えたと言ってもいいでしょう。",
+      "zh": "我看人类世界也有死刑，<br>\n而且已经过了这么长时间，<br>\n可以说给予了足够的缓刑期了吧。",
+      "vi": "Tôi nghĩ thế giới loài người cũng có án tử hình, Và đã quá lâu rồi, Có thể nói đã đưa ra một thời gian thử việc vừa đủ.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki022",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki022|",
+      "ja": "そしてべつに長い期間の猶予を与えたからといって、<br>罪が無くなるわけでもありません。",
+      "zh": "而且，就算我给予了这么长时间的缓刑期，<br>\n人类的罪孽也不会就此消失。",
+      "vi": "Và ngay cả khi tôi cho phép gia hạn lâu như vậy, Tội lỗi của con người sẽ không tự nhiên biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki023",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki023|",
+      "ja": "愚かな虐殺者には……相応の罰を与えましょう。",
+      "zh": "对于愚蠢的屠杀者……就该给予相应的刑罚。",
+      "vi": "Vụ thảm sát ngu ngốc...cần phải bị trừng phạt tương ứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro019",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro019|",
+      "ja": "（くっ……！<br>　闇雲に反論をしても、話を打ち切られるだけか……！）",
+      "zh": "（可恶……！<br>\n胡乱反驳只会使谈话结束……！）",
+      "vi": "(Chết tiệt...! Những lời bác bỏ ngẫu nhiên sẽ chỉ kết thúc cuộc trò chuyện...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro020",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro020|",
+      "ja": "（圧倒的な力を持つ大魔女……<br>　この場ではある意味、裁判官に等しい力を持つ）",
+      "zh": "（拥有压倒性力量的大魔女……<br>\n在现在的情况下，某种意义上相当于审判官）",
+      "vi": "(Bà phù thủy vĩ đại với sức mạnh áp đảo... Trong tình hình hiện tại, nó tương đương với một thẩm phán theo một nghĩa nào đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro021",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro021|",
+      "ja": "（心証を損ねるわけにはいかない……か）",
+      "zh": "（得小心，不要损害我在她心里的印象……）",
+      "vi": "(Cẩn thận đừng làm tổn hại đến ấn tượng của mình trong tâm trí cô ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro022",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro022|",
+      "ja": "（彼女を納得させるには、<br>　彼女の世界のルールに従う必要があるな）",
+      "zh": "（要让她信服，<br>\n就必须遵守她那个世界的规则）",
+      "vi": "(Để thuyết phục cô ấy, Bạn phải tuân theo các quy tắc của thế giới của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro023",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro023|",
+      "ja": "……自然に返す？",
+      "zh": "……归还自然？",
+      "vi": "…Trở về với thiên nhiên?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro024",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro024|",
+      "ja": "すでに世界は自然な在り方で存在している……。",
+      "zh": "世界本就以自然的方式存在……",
+      "vi": "Thế giới này tồn tại một cách tự nhiên...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro025",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro025|",
+      "ja": "なぜなら人間もまた、自然から発生したものだからだ！",
+      "zh": "就连人类也是从自然中产生的！",
+      "vi": "Ngay cả con người cũng được tạo ra từ thiên nhiên!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki024",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki024|",
+      "ja": "そんな詭弁に付き合う気はありません。",
+      "zh": "我没兴趣和你玩这种诡辩。",
+      "vi": "Tôi không có hứng thú chơi trò ngụy biện như vậy với bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki025",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki025|",
+      "ja": "自然に返すのが嫌というなら……。",
+      "zh": "要是不愿意回归自然……",
+      "vi": "Nếu bạn không muốn trở về với thiên nhiên…",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki026",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki026|",
+      "ja": "無に還してさしあげましょう。<br>……あなた方から。",
+      "zh": "那就让人类归于虚无吧。<br>\n……就从在座各位开始。",
+      "vi": "Sau đó hãy để loài người trở về hư vô. … Hãy bắt đầu với mọi người ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro026",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro026|",
+      "ja": "（……べつに自然環境を守ろうとしているわけでは<br>　なさそうだ）",
+      "zh": "（……看来她并不是想要保护自然环境）<br>",
+      "vi": "(...Có vẻ như cô ấy không muốn bảo vệ môi trường tự nhiên)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro027",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro027|",
+      "ja": "（圧倒的な力を持つ大魔女……<br>　この場ではある意味、裁判官に等しい力を持つ）",
+      "zh": "（拥有压倒性力量的大魔女……<br>\n在现在的情况下，某种意义上相当于审判官）",
+      "vi": "(Bà phù thủy vĩ đại với sức mạnh áp đảo... Trong tình hình hiện tại, nó tương đương với một thẩm phán theo một nghĩa nào đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro028",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro028|",
+      "ja": "（心証を損ねるわけにはいかない……か）",
+      "zh": "（得小心，不要损害我在她心里的印象……）",
+      "vi": "(Cẩn thận đừng làm tổn hại đến ấn tượng của mình trong tâm trí cô ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro029",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro029|",
+      "ja": "（彼女を納得させるには、<br>　彼女の世界のルールに従う必要があるな）",
+      "zh": "（要让她信服，<br>\n就必须遵守她那个世界的规则）",
+      "vi": "(Để thuyết phục cô ấy, Bạn phải tuân theo các quy tắc của thế giới của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Miria001",
+      "speaker_tag": "; > Miria: |#0206Trial01_Miria001|",
+      "ja": "そ、その刑の執行……<br>もうちょっと待ってもらえないかな！",
+      "zh": "等、等一下……<br>\n处刑能不能再推迟一些！",
+      "vi": "Đợi, đợi một chút... Việc xử tử có thể được hoãn lại nữa không?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki027",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki027|",
+      "ja": "それは、どうしてですか？",
+      "zh": "那是为什么呢？",
+      "vi": "Tại sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro030",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro030|",
+      "ja": "……ユキ。",
+      "zh": "……小雪。",
+      "vi": "...Xiaoxue.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro031",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro031|",
+      "ja": "君は今、人類に執行の猶予期間を与えたと言った……。",
+      "zh": "你刚刚说，已经给予了人类缓刑期……",
+      "vi": "Bạn vừa nói rằng nhân loại đã được ân xá...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro032",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro032|",
+      "ja": "だがそもそも、その判決に正当性はあるのかな。",
+      "zh": "但说到底，你的判决究竟有没有正当性呢。",
+      "vi": "Nhưng trong phân tích cuối cùng, phán đoán của bạn có hợp lý không?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki028",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki028|",
+      "ja": "………。",
+      "zh": "………",
+      "vi": "………",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Miria002",
+      "speaker_tag": "; > Miria: |#0206Trial01_Miria002|",
+      "ja": "し、執行猶予が与えられたってことは……<br>判決が下されたってことだと思うんだけど……！",
+      "zh": "既、既然给予了缓刑期……<br>\n就意味着已经下达了判决吧……！",
+      "vi": "Vì, kể từ khi thời gian thử việc được chấp nhận... Nghĩa là bản án đã được tuyên...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Miria003",
+      "speaker_tag": "; > Miria: |#0206Trial01_Miria003|",
+      "ja": "その裁判、不当判決じゃないかな！？",
+      "zh": "那么，那次审判，有没有可能判决不当呢！？",
+      "vi": "Vậy phải chăng phán quyết trong phiên tòa đó là không đúng? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Alisa002",
+      "speaker_tag": "; > Alisa: |#0206Trial01_Alisa002|",
+      "ja": "……おめえら、何言ってんだ……？",
+      "zh": "……你们到底在讲什么啊……？",
+      "vi": "...Cậu đang nói cái quái gì vậy...?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Alisa003",
+      "speaker_tag": "; > Alisa: |#0206Trial01_Alisa003|",
+      "ja": "バケモンの親玉に、<br>そんな理屈通じるわけねぇだろ……。",
+      "zh": "跟怪物头子讲道理，<br>\n怎么可能讲得通……",
+      "vi": "Lý do với thủ lĩnh quái vật, Làm sao nó có thể có ý nghĩa được...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Miria004",
+      "speaker_tag": "; > Miria: |#0206Trial01_Miria004|",
+      "ja": "そ、それでも！",
+      "zh": "即、即使如此！",
+      "vi": "Đó là, thậm chí như vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Miria005",
+      "speaker_tag": "; > Miria: |#0206Trial01_Miria005|",
+      "ja": "理屈は……通すべきだと思うよ！！",
+      "zh": "我觉得……还是应该讲道理才对！！",
+      "vi": "Miria nghĩ... chúng ta nên hợp lý! !",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Miria006",
+      "speaker_tag": "; > Miria: |#0206Trial01_Miria006|",
+      "ja": "だって、君は【人に罪がある】と言った……。",
+      "zh": "你说，【人生而有罪】……",
+      "vi": "Bạn nói, [Con người sinh ra đã có tội]...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Miria007",
+      "speaker_tag": "; > Miria: |#0206Trial01_Miria007|",
+      "ja": "しかもそれは、人間全員が極刑に値するほどの罪だ。",
+      "zh": "而且还是，足以对全人类处以极刑的罪。",
+      "vi": "Hơn nữa, đó là một tội ác đủ để trừng phạt cả nhân loại.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Miria008",
+      "speaker_tag": "; > Miria: |#0206Trial01_Miria008|",
+      "ja": "なら君は、<br>その判断に正当性があると主張しているんだよね……！",
+      "zh": "那么你现在是<br>\n主张该判决具有正当性，对不对……！",
+      "vi": "Vậy thì bây giờ bạn là Có đúng không khi cho rằng bản án đó là chính đáng…?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Miria009",
+      "speaker_tag": "; > Miria: |#0206Trial01_Miria009|",
+      "ja": "つまり、君は【自分の意見が正しい】と思ってるはずだ。",
+      "zh": "也就是说，你认为【自己的意见是正确的】。",
+      "vi": "Nói cách khác, bạn cho rằng [ý kiến của bạn là đúng].",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Miria010",
+      "speaker_tag": "; > Miria: |#0206Trial01_Miria010|",
+      "ja": "罰を与えるというなら……<br>被告である人間にその理由を知らせて、<br>反省を促す必要もあるんじゃないかな……！？",
+      "zh": "既然要给予刑罚……<br>\n那就有必要向作为被告的人类告知判决的理由，<br>\n并促使其反省罪行才对，不是吗……！？",
+      "vi": "Vì hình phạt sẽ được áp dụng... Sau đó cần phải thông báo cho những người là bị cáo lý do đưa ra bản án, Bắt anh ta suy ngẫm về tội ác của mình là điều đúng đắn phải không...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki029",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki029|",
+      "ja": "………。",
+      "zh": "………",
+      "vi": "………",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro033",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro033|",
+      "ja": "（ミリアの理屈は……<br>　正直言ってめちゃくちゃだ）",
+      "zh": "（米莉亚讲的道理……<br>\n说实话太乱来了）",
+      "vi": "(Những gì Miria đã nói... Thành thật mà nói thì nó quá lộn xộn)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro034",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro034|",
+      "ja": "（この場は、裁判とは名ばかりの真似事のような場……。<br>　法が厳格に適用されるような【法廷】とは言えない）",
+      "zh": "（这里只有审判之名，而无审判之实，仅仅只是一种过家家……<br>\n并不是严格适用法律的【法庭】）",
+      "vi": "(Ở đây chỉ có tên phán xét chứ không có phán xét thực sự. Nó chỉ là một loại trò chơi nhà mà thôi... Đây không phải là [tòa án] áp dụng nghiêm ngặt luật pháp)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro035",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro035|",
+      "ja": "（だが相手が圧倒的な力を持っている以上、<br>　暴力で対抗しても意味がないのもたしかだ）",
+      "zh": "（但既然对方拥有压倒性的力量，<br>\n暴力对抗也没有意义）",
+      "vi": "(Nhưng vì đối thủ có sức mạnh áp đảo nên Không có ích gì khi đối đầu bằng bạo lực)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro036",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro036|",
+      "ja": "（まずは彼女との対話に持ち込む……）",
+      "zh": "（首先要和她建立对话……）",
+      "vi": "(Đầu tiên, hãy bắt chuyện với cô ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro037",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro037|",
+      "ja": "（反撃はそれからだ……！）",
+      "zh": "（然后才能谈得上反击……！）",
+      "vi": "(Sau đó chúng ta có thể nói về việc phản công...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro038",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro038|",
+      "ja": "……裁判だ。",
+      "zh": "……开始审判吧。",
+      "vi": "... Hãy để phiên tòa bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro039",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro039|",
+      "ja": "――魔女裁判の開廷を要求する！",
+      "zh": "——我要求开庭进行魔女审判！",
+      "vi": "---Tôi yêu cầu một phiên tòa xét xử phù thủy!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki030",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki030|",
+      "ja": "……魔女裁判？",
+      "zh": "……魔女审判？",
+      "vi": "...Phiên Tòa Ma Nữ?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro040",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro040|",
+      "ja": "そうだ。",
+      "zh": "对。",
+      "vi": "Vâng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro041",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro041|",
+      "ja": "人間が、<br>処刑されるべき【魔女】であるかどうか……。",
+      "zh": "人类究竟是不是<br>\n应当被处决的【魔女】……",
+      "vi": "Có phải con người ? [Pháp thủy] đáng bị xử tử...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro042",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro042|",
+      "ja": "この島のルールに則って、<br>それを決めるんだ……！",
+      "zh": "就让我们按照这座岛的规则，<br>\n讨论出最终答案……！",
+      "vi": "Chúng ta hãy tuân theo các quy tắc của hòn đảo này, Thảo luận về câu trả lời cuối cùng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki031",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki031|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki032",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki032|",
+      "ja": "いいですよ。",
+      "zh": "可以啊。",
+      "vi": "Được rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Hiro043",
+      "speaker_tag": "; > Hiro: |#0206Trial01_Hiro043|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki033",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki033|",
+      "ja": "それであなたたちの気が済むのなら……。",
+      "zh": "如果这样就能让你们服气的话……",
+      "vi": "Nếu điều này có thể thuyết phục bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial01_Yuki034",
+      "speaker_tag": "; > Yuki: |#0206Trial01_Yuki034|",
+      "ja": "少しだけ、お付き合いしましょうか？",
+      "zh": "那我就稍微陪你们玩玩吧？",
+      "vi": "Vậy hãy để tôi chơi với bạn một lúc nhé, được không?",
+      "objection_links": []
+    }
+  ]
+}

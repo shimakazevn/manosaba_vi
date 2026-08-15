@@ -1,0 +1,776 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Bad01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Bad01' Naninovel scenario script",
+  "total_entries": 96,
+  "entries": [
+    {
+      "id": "0202Bad01_Narrative001",
+      "speaker_tag": "",
+      "ja": "私はダストシュートの中を詳しく調べることにした。",
+      "zh": "我决定仔细调查下垃圾滑槽。",
+      "vi": "Tôi quyết định xem xét kỹ hơn máng đổ rác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro001|",
+      "ja": "（事前のチェックは必要だ。<br>　どんなトラブルが起きるかわからない）",
+      "zh": "（事前检查一定要做好。<br>\n谁也不知道会出什么意外）",
+      "vi": "(Hãy nhớ kiểm tra trước. Không ai biết tai nạn gì sẽ xảy ra)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative002",
+      "speaker_tag": "",
+      "ja": "仕掛けに影響しないよう、<br>重たい鉄製のフタをそっと開く。",
+      "zh": "我小心翼翼地掀开沉重的铁盖，<br>\n注意不破坏设好的陷阱。",
+      "vi": "Tôi cẩn thận mở nắp sắt nặng nề, Hãy cẩn thận để không phá hủy cái bẫy bạn đặt ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative003",
+      "speaker_tag": "",
+      "ja": "中を覗くと冷たい空気が吹き抜けていった。",
+      "zh": "往里面一看，冰冷的风便透过管道吹了上来。",
+      "vi": "Nhìn vào bên trong, gió lạnh thổi qua các đường ống.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro002|",
+      "ja": "（……暗くてよく見えないな）",
+      "zh": "（……里面太黑了，看不清啊）",
+      "vi": "(…bên trong quá tối nên tôi không thể nhìn rõ)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative004",
+      "speaker_tag": "",
+      "ja": "もう少ししっかり確認しようと、更に身を乗り出した<br>――瞬間だった。",
+      "zh": "为了看得清楚些，我又把身子往前探了探<br>\n——就在这时。",
+      "vi": "Để nhìn rõ hơn, tôi lại nghiêng người về phía trước --Tại thời điểm này.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro003|",
+      "ja": "うわっ！？",
+      "zh": "哇！？",
+      "vi": "Ôi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro004|",
+      "ja": "（しまっ……――！）",
+      "zh": "（完了……——！）",
+      "vi": "(Kết thúc rồi...——!)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative005",
+      "speaker_tag": "",
+      "ja": "誰かに強く背中を押されて、<br>バランスを崩した私は狭いダクトに<ruby=\"の\">吞</ruby>み込まれた。",
+      "zh": "不知是谁猛地推了我一把，<br>\n我顿时失去平衡掉进了狭窄的管道。",
+      "vi": "Tôi không biết ai đã thúc ép tôi, Tôi bất ngờ mất thăng bằng và rơi vào đường ống hẹp.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative006",
+      "speaker_tag": "",
+      "ja": "暗闇の中を急降下していき、<br>心臓が一気にはね上がる。",
+      "zh": "我在伸手不见五指的黑暗中急速坠落，<br>\n心跳瞬间飙升。",
+      "vi": "Tôi rơi nhanh vào bóng tối, Nhịp tim lập tức tăng vọt.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro005|",
+      "ja": "（くっ、止められな――）",
+      "zh": "（可恶，快停下——）",
+      "vi": "(Chết tiệt, dừng lại ngay——)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative007",
+      "speaker_tag": "",
+      "ja": "風が耳元で叫び声のように渦巻くのを感じながら、<br>私の意識は途中でぷつりと途絶えた――。",
+      "zh": "狂风的尖啸在我耳边盘旋，<br>\n我的意识在途中戛然而止——",
+      "vi": "Tiếng gió gào thét vang vọng bên tai tôi, Ý thức của tôi đột ngột dừng lại trên đường đi——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative008",
+      "speaker_tag": "",
+      "ja": "……徐々に意識を取り戻し、<br>私はがばりと起き上がった。",
+      "zh": "……我慢慢地从昏迷中醒来，<br>\n刚一清醒便猛然起身。",
+      "vi": "…Tôi từ từ tỉnh dậy sau cơn hôn mê, Vừa tỉnh dậy, anh đã bất ngờ đứng dậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative009",
+      "speaker_tag": "",
+      "ja": "するとそこは――懲罰房の中だった。",
+      "zh": "环顾周围——只见自己身在惩罚室当中。",
+      "vi": "Nhìn xung quanh - tôi thấy mình đang ở trong Phòng Kỷ Luật Biệt Giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro006|",
+      "ja": "な、なんだ……？ 懲罰房、か……？",
+      "zh": "怎、怎么回事……？这里是，惩罚室……？",
+      "vi": "Cái gì, chuyện gì đang xảy ra vậy...? Đây là Phòng Kỷ Luật Biệt Giam à...?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro007|",
+      "ja": "（落下して死んだのか私は……？<br>　いやでも、それなら牢屋のベッドで目覚めるはず）",
+      "zh": "（我是掉下去摔死了吗……？<br>\n不对，那我应该在牢房的床上醒来）",
+      "vi": "(Có phải tôi đã ngã và chết không...? Không, vậy thì tôi nên thức dậy trên giường trong phòng giam)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative010",
+      "speaker_tag": "",
+      "ja": "あれだけの距離のダクトを落下したのに、<br>自身には怪我も痛みもない。",
+      "zh": "从那么长的管道里摔下来，<br>\n我的身上却没留下任何伤痛。",
+      "vi": "Rơi từ một đường ống dài như vậy, Trên cơ thể tôi không còn một chút đau đớn nào nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative011",
+      "speaker_tag": "",
+      "ja": "それに、ダクトの先は焼却炉のはずだ。",
+      "zh": "而且，那条管道明明通向焚烧炉。",
+      "vi": "Hơn nữa, đường ống đó rõ ràng dẫn đến lò đốt rác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro008|",
+      "ja": "（いったい何が起きたんだ……？）",
+      "zh": "（到底发生了什么事……？）",
+      "vi": "(Chuyện gì đã xảy ra vậy...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative012",
+      "speaker_tag": "",
+      "ja": "戸惑いながら懲罰房を見回すと、<br>違和感は更に膨らんだ。",
+      "zh": "我迷茫地左右看了看惩罚室，<br>\n异样的感觉愈发明显。",
+      "vi": "Tôi bối rối nhìn quanh Phòng Kỷ Luật Biệt Giam, Cảm giác kỳ lạ càng lúc càng rõ ràng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative013",
+      "speaker_tag": "",
+      "ja": "壁が<ruby=\"ゆが\">歪</ruby>んでいる、いや、<br>空気そのもの、世界全てが<ruby=\"ゆが\">歪</ruby>んでいた。",
+      "zh": "墙壁是扭曲的，不对，<br>\n就连这里的空气、整个世界都是扭曲的。",
+      "vi": "Tường bị cong, sai rồi, Ngay cả không khí ở đây và toàn bộ thế giới cũng bị bóp méo.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro009|",
+      "ja": "（自身の魔法が牢屋敷に干渉して、<br>　不可思議な現象に<ruby=\"つな\">繋</ruby>がったのかもしれないな）",
+      "zh": "（可能是我的魔法影响了整个监牢，<br>\n导致这里出现了奇异的现象吧）",
+      "vi": "(Có lẽ phép thuật của tôi đã ảnh hưởng đến toàn bộ Ngục Dinh Thự, Điều này có thể đã dẫn đến những hiện tượng kỳ lạ xảy ra ở đây)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro010|",
+      "ja": "（ともかく調べてみるしかなさそうだ）",
+      "zh": "（看来只能先调查一下了）",
+      "vi": "(Có vẻ như chúng ta chỉ có thể điều tra trước)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative014",
+      "speaker_tag": "",
+      "ja": "出入口の方へ足を向けると、<br>先に扉が勢いよく開いた。",
+      "zh": "正当我走向门口的时候，<br>\n房门却被谁猛地打开了。",
+      "vi": "Ngay khi tôi đang đi về phía cửa, Cánh cửa đột ngột bị ai đó mở ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro011|",
+      "ja": "！？",
+      "zh": "！？",
+      "vi": "！？",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative015",
+      "speaker_tag": "",
+      "ja": "現れたのは――異形の化け物だった。",
+      "zh": "门背后的是——异形的怪物。",
+      "vi": "Đằng sau cánh cửa là một con quái vật ngoài hành tinh.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro012|",
+      "ja": "（なれはてか！？）",
+      "zh": "（是残骸！？）",
+      "vi": "(Đó có phải là một đống đổ nát không!?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative016",
+      "speaker_tag": "",
+      "ja": "中に入ってきた相手もまた、<br>私の存在に気付きびくりと体を強張らせた。",
+      "zh": "那个怪物一看到我，<br>\n也惊得绷紧了身子。",
+      "vi": "Ngay khi con quái vật đó nhìn thấy tôi, Anh cũng căng thẳng vì sốc.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative017",
+      "speaker_tag": "",
+      "ja": "互いに警戒し<ruby=\"にら\">睨</ruby>み合うこと数秒――<br>なれはてが武器を掲げる。",
+      "zh": "我们就这样警惕地互相瞪了几秒钟——<br>\n突然，它先手挥起武器。",
+      "vi": "Chúng tôi nhìn nhau đầy cảnh giác như thế này trong vài giây—— Đột nhiên, nó vẫy vũ khí trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Unknown001",
+      "speaker_tag": "; > Unknown: |#0202Bad01_Unknown001|",
+      "ja": "■■■■■■■■",
+      "zh": "■■■■■■",
+      "vi": "■■■■■■",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro013|",
+      "ja": "なんだ！？",
+      "zh": "什么！？",
+      "vi": "Cái gì! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative018",
+      "speaker_tag": "",
+      "ja": "なれはてが何かを喚きながら、<br>猛烈な勢いで私に向かってくる。",
+      "zh": "它不知在叫唤什么，<br>\n气势汹汹地朝我冲了过来。",
+      "vi": "Tôi không biết nó gọi là gì, Anh ta lao về phía tôi đầy đe dọa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative019",
+      "speaker_tag": "",
+      "ja": "明らかな殺意をむき出しに、<ruby=\"おの\">斧</ruby>が振られる。",
+      "zh": "斧头裹挟着毫不留情的杀气猛地劈下。",
+      "vi": "Chiếc rìu giáng xuống một cách dữ dội với ý định giết người tàn nhẫn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro014",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro014|",
+      "ja": "くっ！",
+      "zh": "呃！",
+      "vi": "Ờ!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative020",
+      "speaker_tag": "",
+      "ja": "私は身を翻し、<ruby=\"とっさ\">咄嗟</ruby>に避けた。",
+      "zh": "我身子一转，急忙躲开。",
+      "vi": "Tôi quay người lại và vội vàng tránh nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative021",
+      "speaker_tag": "",
+      "ja": "こちらには対抗する術がない。<br>私は逃げるため、扉の方へと駆け抜けた。",
+      "zh": "我没法与它抗衡。<br>\n于是我慌忙跑去门口。",
+      "vi": "Tôi không thể chiến đấu với nó. Thế là tôi vội vã đi ra cửa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative022",
+      "speaker_tag": "",
+      "ja": "あれが何なのかはわからないが、<br>私を殺そうとしたのは空気で伝わった。",
+      "zh": "我不知道它到底是个什么怪物，<br>\n但我能感受到它身上浓重的杀气。",
+      "vi": "Tôi không biết đó là loại quái vật gì, Nhưng tôi có thể cảm nhận được luồng sát khí mạnh mẽ trong đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative023",
+      "speaker_tag": "",
+      "ja": "走りながら、ちらりと後ろを振り向いた。<br>なれはてはまだ私を追いかけてきている。",
+      "zh": "在匆忙逃跑的途中，我瞥了一眼身后。<br>\n那残骸还在紧追不舍。",
+      "vi": "Trong lúc vội vã trốn thoát, tôi liếc nhìn phía sau. Đống đổ nát vẫn đang được truy đuổi ráo riết.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Unknown002",
+      "speaker_tag": "; > Unknown: |#0202Bad01_Unknown002|",
+      "ja": "■■■■■■■！",
+      "zh": "■■■■■！",
+      "vi": "■■■■■！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro015",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro015|",
+      "ja": "（何を言っている！？）",
+      "zh": "（它究竟在说什么！？）",
+      "vi": "(Nó đang nói cái quái gì vậy!?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative024",
+      "speaker_tag": "",
+      "ja": "振り向いたせいで前方がおろそかになり、<br>何かに<ruby=\"つまづ\">躓</ruby>いてしまう。",
+      "zh": "刚才的一回头让我没注意看前方，<br>\n脚不知道绊到了什么。",
+      "vi": "Vừa quay lại, tôi không chú ý đến phía trước, Tôi không biết chân mình đã vấp phải điều gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro016",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro016|",
+      "ja": "あ……ッ！？",
+      "zh": "啊……！？",
+      "vi": "À...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative025",
+      "speaker_tag": "",
+      "ja": "脚がもつれ、私はその場に倒れ込んだ。",
+      "zh": "脚步一滑，我被绊倒在地。",
+      "vi": "Bước chân của tôi bị trượt và tôi vấp ngã và ngã xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro017",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro017|",
+      "ja": "うっ……くっ",
+      "zh": "唔……呃——",
+      "vi": "Ờ... Ờ——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative026",
+      "speaker_tag": "",
+      "ja": "何か考えている暇もなく、<br>なれはては目前まで迫ってきていた。",
+      "zh": "还没来得及思考，<br>\n残骸就已追到眼前。",
+      "vi": "Trước khi tôi có thời gian suy nghĩ, Đống đổ nát đã ở trong tầm mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro018",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro018|",
+      "ja": "待――。",
+      "zh": "等——",
+      "vi": "Đợi đã——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative027",
+      "speaker_tag": "",
+      "ja": "肉を裂き骨を貫く衝撃が自身を襲う。<br>痛みを感じる間すら与えられず、<br>【死】が急速に迫ってくるのを感じた。",
+      "zh": "粉身碎骨的冲击席卷全身。<br>\n还未感到疼痛，<br>\n【死亡】已呼啸而至。",
+      "vi": "Một tác động gãy xương quét qua cơ thể anh. Chưa đau, [Cái chết] đang đến.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro019",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro019|",
+      "ja": "（死ぬ、のか……私は……なん……で……？）",
+      "zh": "（我、要死……了吗……为什么……？）",
+      "vi": "(Mình sắp chết à... tại sao...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro020",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro020|",
+      "ja": "……え？",
+      "zh": "……欸？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative028",
+      "speaker_tag": "",
+      "ja": "目が醒めると、そこは食堂だった。",
+      "zh": "刚一醒来，就发现自己身处食堂。",
+      "vi": "Khi tỉnh dậy tôi đã thấy mình đang ở trong Nhà Ăn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro021",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro021|",
+      "ja": "何故だ！？",
+      "zh": "为什么！？",
+      "vi": "Tại sao! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative029",
+      "speaker_tag": "",
+      "ja": "先ほどの懲罰房と同じ、<ruby=\"ゆが\">歪</ruby>んだ世界。",
+      "zh": "这里和刚才的惩罚室一样，到处都是扭曲的模样。",
+      "vi": "Nơi này cũng giống như Phòng Kỷ Luật Biệt Giam vừa rồi, khắp nơi đều có hiện tượng vặn vẹo.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro022",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro022|",
+      "ja": "（【死に戻り】が発動しなかったのか？<br>　いや、違う――私の傷は治っている。<br>　それなら、【死に戻り】は発動したはず）",
+      "zh": "（【死亡回溯】没有发动吗？<br>\n不，不对——我的伤都痊愈了。<br>\n那能力应该发动了才对）",
+      "vi": "([Thu hồi cái chết] chưa được kích hoạt? Không, điều đó không đúng - mọi vết thương của tôi đều đã lành. Khả năng đó nên được kích hoạt)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative030",
+      "speaker_tag": "",
+      "ja": "そして食堂にはまた、<br>先ほど遭遇したなれはてがいた。",
+      "zh": "与此同时，<br>\n我看到刚才遇到的残骸也在这里。",
+      "vi": "Trong khi đó, Tôi thấy đống đổ nát tôi vừa gặp cũng ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Unknown003",
+      "speaker_tag": "; > Unknown: |#0202Bad01_Unknown003|",
+      "ja": "■■■■■■■！",
+      "zh": "■■■■■！",
+      "vi": "■■■■■！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative031",
+      "speaker_tag": "",
+      "ja": "なれはてが武器を掲げ、私に向かってくる。",
+      "zh": "它举起武器，朝我冲了过来。",
+      "vi": "Nó giơ vũ khí lên và lao vào tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro023",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro023|",
+      "ja": "やめ――。",
+      "zh": "住——",
+      "vi": "Sống——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative032",
+      "speaker_tag": "",
+      "ja": "容赦のない一撃で、<br>私の首は<ruby=\"は\">刎</ruby>ね飛ばされた。",
+      "zh": "毫不留情的一击<br>\n砍飞了我的头颅。",
+      "vi": "Một đòn tàn nhẫn Cắt đầu tôi đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro024",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro024|",
+      "ja": "（何故――殺される）",
+      "zh": "（为什么——会被它杀死）",
+      "vi": "(Tại sao——sẽ bị nó giết)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative033",
+      "speaker_tag": "",
+      "ja": "……その後は同じことの繰り返しだった。",
+      "zh": "……之后又是无穷无尽的轮回。",
+      "vi": "...và sau đó là những lần tái sinh vô tận.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro025",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro025|",
+      "ja": "やめてくれ、まだ――。",
+      "zh": "住手，我——",
+      "vi": "Dừng lại, tôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro026",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro026|",
+      "ja": "来るなあああ！！",
+      "zh": "别过来——！！",
+      "vi": "Đừng đến đây-! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro027",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro027|",
+      "ja": "ひぃぃっ……嫌だああああ！！",
+      "zh": "噫……不要啊啊啊啊！！",
+      "vi": "Ờ... Không, không! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative034",
+      "speaker_tag": "",
+      "ja": "逃げる。<br>殺される。<br>目が醒める。",
+      "zh": "逃走。<br>\n被杀。<br>\n醒来。",
+      "vi": "Trốn thoát. Bị giết. Thức dậy đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative035",
+      "speaker_tag": "",
+      "ja": "隠れる。<br>殺される。<br>目が醒める。",
+      "zh": "躲藏。<br>\n被杀。<br>\n醒来。",
+      "vi": "Ẩn. Bị giết. Thức dậy đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative036",
+      "speaker_tag": "",
+      "ja": "逃げる。<br>殺される。<br>目が醒める……",
+      "zh": "逃走。<br>\n被杀。<br>\n醒来……",
+      "vi": "Trốn thoát. Bị giết. thức dậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative037",
+      "speaker_tag": "",
+      "ja": "その繰り返しだった。",
+      "zh": "一遍又一遍的重蹈覆辙。",
+      "vi": "Lặp đi lặp lại những sai lầm tương tự.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro028",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro028|",
+      "ja": "あ……ああ……来るな、来るなぁ……。",
+      "zh": "啊……啊啊……别过来，别过来……",
+      "vi": "Ah...ah...đừng đến đây, đừng đến đây...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative038",
+      "speaker_tag": "",
+      "ja": "幾度となく首を<ruby=\"は\">刎</ruby>ねられ、<br>もう何度目かもわからない。",
+      "zh": "已经数不清<br>\n是第几次被斩首了。",
+      "vi": "Đã vô số Đây là lần đầu tiên tôi bị chặt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative039",
+      "speaker_tag": "",
+      "ja": "私は壁隅にうずくまり、ガタガタと震えていた。",
+      "zh": "我蹲在墙角根，身子不住地发抖。",
+      "vi": "Tôi ngồi xổm trong góc, run rẩy liên tục.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative040",
+      "speaker_tag": "",
+      "ja": "鉄格子の向こうで、<br>私を探して<ruby=\"はいかい\">徘徊</ruby>しているなれはての気配があった。",
+      "zh": "我能感受到残骸就在铁栅栏的背后<br>\n四处搜寻我的身影。",
+      "vi": "Tôi có thể cảm nhận được đống đổ nát đằng sau song sắt Tìm kiếm tôi khắp mọi nơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Unknown004",
+      "speaker_tag": "; > Unknown: |#0202Bad01_Unknown004|",
+      "ja": "■は■し■■い。君は■■く■い。君■正しくな■",
+      "zh": "■是■■的。你■■误■。你■错误■",
+      "vi": "■Đó là ■■. Bạn đang nhầm lẫn. Bạn ■sai■",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative041",
+      "speaker_tag": "",
+      "ja": "――唐突に気付く。<br>ずっと同じことを言われて殺され続けていて、<br>ようやく理解が追いついたのかもしれない。",
+      "zh": "——忽然间，我恍然大悟。<br>\n在一遍遍的叫喊与追杀中，<br>\n我终于听懂了它的话。",
+      "vi": "---Đột nhiên tôi chợt nhận ra. Trong tiếng la hét và rượt đuổi hết lần này đến lần khác, Cuối cùng tôi cũng hiểu nó đang nói gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro029",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro029|",
+      "ja": "（正しくない……だと？）",
+      "zh": "（它是说……你是错误的？）",
+      "vi": "(Có nghĩa là...bạn sai rồi?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Unknown005",
+      "speaker_tag": "; > Unknown: |#0202Bad01_Unknown005|",
+      "ja": "君は■しくない。■は正しくない。君は正しく■い。",
+      "zh": "你是■误的。■是错误的。你是错■的。",
+      "vi": "Bạn đã sai. ■ là sai. Bạn đã sai.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative042",
+      "speaker_tag": "",
+      "ja": "逃げながら、私はずっと考えていた。",
+      "zh": "逃跑的途中，我一直在思考。",
+      "vi": "Trên đường trốn chạy, tôi không ngừng suy nghĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative043",
+      "speaker_tag": "",
+      "ja": "どうしてこの化け物は、<br>私をここまで<ruby=\"しつよう\">執拗</ruby>に狙うのだろうと。",
+      "zh": "为什么这个怪物<br>\n如此执着于纠缠我。",
+      "vi": "Tại sao con quái vật này lại Cứ kiên trì làm phiền tôi như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro030",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro030|",
+      "ja": "（――このなれはては、私だ）",
+      "zh": "（——因为，这只残骸就是我）",
+      "vi": "(——Bởi vì, đống đổ nát này là mình)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro031",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro031|",
+      "ja": "（落下で私の魔法が不可思議に干渉し、<br>　違う世界線に迷い込んだのか……）",
+      "zh": "（大概是在坠落的途中，我的魔法跟异常产生了互动，<br>\n让我闯入了另一条世界线……）",
+      "vi": "(Có lẽ trên đường đi xuống, phép thuật của tôi đã tương tác với vật thể dị thường, Hãy để tôi đột nhập vào một dòng thế giới khác...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro032",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro032|",
+      "ja": "（ここは私がなれはてとなって、<br>　牢屋敷を<ruby=\"はいかい\">徘徊</ruby>している世界――）",
+      "zh": "（在这个世界里，<br>\n我变成了游走在监牢里的残骸——）",
+      "vi": "(Trên thế giới này, Mình trở thành một kẻ khốn nạn lang thang quanh Ngục Dinh Thự——)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro033",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro033|",
+      "ja": "（あの【私】にとっては、<br>　私が間違っている、正しくない存在なんだ）",
+      "zh": "（对那个【我】而言，<br>\n我确实是不该存在的错误）",
+      "vi": "(Đối với [tôi] đó, Tôi thực sự là một sai lầm không nên tồn tại)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro034",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro034|",
+      "ja": "否――私は、間違ってなんかいない。",
+      "zh": "不——我才不是错误的。",
+      "vi": "Không - tôi không sai.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative044",
+      "speaker_tag": "",
+      "ja": "ぽつりと<ruby=\"つぶや\">呟</ruby>きを落とした。<br>すっかり萎えていた気力が、ようやく戻ってきた。",
+      "zh": "我低声喃喃道。<br>\n精疲力尽的身体终于重振旗鼓。",
+      "vi": "Tôi lặng lẽ lẩm bẩm. Cơ thể kiệt sức cuối cùng cũng lấy lại được sức lực.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative045",
+      "speaker_tag": "",
+      "ja": "通路の方へ出ると、なれはてが私に気付く。",
+      "zh": "一来到过道，残骸就发现了我。",
+      "vi": "Khi ở trên lối đi, đống đổ nát đã tìm thấy tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Unknown006",
+      "speaker_tag": "; > Unknown: |#0202Bad01_Unknown006|",
+      "ja": "君は正しくない！",
+      "zh": "你是错误的！",
+      "vi": "Bạn sai rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro035",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro035|",
+      "ja": "正しくないのは貴様だ！",
+      "zh": "错误的是你！",
+      "vi": "Người sai chính là bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro036",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro036|",
+      "ja": "私は間違ったものを排除する！！",
+      "zh": "我要驱除一切错误！！",
+      "vi": "Tôi muốn xua tan mọi lỗi lầm! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro037",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro037|",
+      "ja": "貴様を正し、私が正しい世界を手に入れる！！",
+      "zh": "我要纠正你，重新掌控正确的世界！！",
+      "vi": "Tôi muốn sửa lỗi cho bạn và giành lại quyền kiểm soát thế giới chính xác! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative046",
+      "speaker_tag": "",
+      "ja": "私は食堂で入手したナイフを手に、<br>なれはてへと突っ込んでいった。",
+      "zh": "我拿起食堂顺来的小刀，<br>\n猛地刺向那具残骸。",
+      "vi": "Tôi nhặt con dao từ Nhà Ăn lên, Đâm mạnh vào phần còn lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Hiro038",
+      "speaker_tag": "; > Hiro: |#0202Bad01_Hiro038|",
+      "ja": "アアアアアッ！！",
+      "zh": "啊啊啊啊啊！！",
+      "vi": "Ahhhhhh! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative047",
+      "speaker_tag": "",
+      "ja": "戦いは終わらない。<br>終わるわけがない。",
+      "zh": "争斗没有结束。<br>\n也永远不会结束。",
+      "vi": "Cuộc chiến vẫn chưa kết thúc. Nó sẽ không bao giờ kết thúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative048",
+      "speaker_tag": "",
+      "ja": "私が何度殺されようと、<br>なれはてを倒してみせようと――",
+      "zh": "无论我被杀死多少次，<br>\n无论我打倒残骸多少次——",
+      "vi": "Cho dù tôi có bị giết bao nhiêu lần đi chăng nữa, Cho dù tôi có đập nát đống đổ nát bao nhiêu lần đi nữa—",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative049",
+      "speaker_tag": "",
+      "ja": "互いに【死に戻り】続けるだけなのだ。",
+      "zh": "我们都只会重复【死亡回溯】。",
+      "vi": "Tất cả chúng ta sẽ chỉ lặp lại [Hồi tưởng về cái chết].",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative050",
+      "speaker_tag": "",
+      "ja": "もうその答えにはたどりついたはずなのに、<br>私はこの結末を受け入れるしかないのだ。",
+      "zh": "明明我已经对答案心知肚明，<br>\n却也只能接受这个结果。",
+      "vi": "Rõ ràng là tôi đã biết câu trả lời rồi, Nhưng anh chỉ có thể chấp nhận kết quả này.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative051",
+      "speaker_tag": "",
+      "ja": "決して終わることはない、<ruby=\"えいごう\">永劫</ruby>の戦いを。",
+      "zh": "我们的争斗永远没有终结的那天。",
+      "vi": "Cuộc chiến của chúng ta sẽ không bao giờ kết thúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Bad01_Narrative052",
+      "speaker_tag": "",
+      "ja": "互いに譲れない【正しさ】のために、<br>永遠の孤独を。",
+      "zh": "只是为了争夺彼此的【正确】，<br>\n坠入深不见底的孤独。",
+      "vi": "Chỉ để tranh giành [sự đúng đắn] của nhau, Rơi vào nỗi cô đơn không đáy.",
+      "objection_links": []
+    }
+  ]
+}

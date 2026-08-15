@@ -1,0 +1,32 @@
+{
+  "bundle": "general-localization-zhhans-scripts-common_assets_all.bundle",
+  "script_name": "CommonBad12",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Common/CommonBad12' Naninovel scenario script",
+  "total_entries": 3,
+  "entries": [
+    {
+      "id": "CommonBad12_Yuki001",
+      "speaker_tag": "; > Yuki: |#CommonBad12_Yuki001|",
+      "ja": "もうお話は結構です。人類の運命は変わりません。<br>処刑を執行します。",
+      "zh": "已经不需多言了，人类的命运绝不会改变。<br>\n接下来将执行刑罚。",
+      "vi": "Không cần phải nói, vận mệnh của nhân loại sẽ không bao giờ thay đổi. Hình phạt sau đó sẽ được thực hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad12_Hiro001",
+      "speaker_tag": "; > Hiro: |#CommonBad12_Hiro001|",
+      "ja": "待てっ――！",
+      "zh": "等下——！",
+      "vi": "Đợi một chút——!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad12_Yuki002",
+      "speaker_tag": "; > Yuki: |#CommonBad12_Yuki002|",
+      "ja": "……さようなら。",
+      "zh": "……永别了。",
+      "vi": "...Tạm biệt.",
+      "objection_links": []
+    }
+  ]
+}

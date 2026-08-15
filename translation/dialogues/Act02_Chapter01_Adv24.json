@@ -1,0 +1,592 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter01_Adv24",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter01/Act02_Chapter01_Adv24' Naninovel scenario script",
+  "total_entries": 73,
+  "entries": [
+    {
+      "id": "0201Adv24_Narrative001",
+      "speaker_tag": "",
+      "ja": "看守に連れられやってきたのは、<br>地下の懲罰房だった。",
+      "zh": "看守把我押送到了<br>\n位于地下层的惩罚室。",
+      "vi": "Các Cai Ngục hộ tống tôi đến Phòng Kỷ Luật Biệt Giam nằm ở tầng hầm.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative002",
+      "speaker_tag": "",
+      "ja": "<ruby=\"たいまつ\">松明</ruby>の火が揺らめき続ける。<br>どこからか、１秒刻みで水の<ruby=\"したた\">滴</ruby>る音がする。",
+      "zh": "火把的火焰不断摇曳。<br>\n不知从何处传来秒针滴答般的滴水声。",
+      "vi": "Ngọn đuốc bập bùng bập bùng. Tiếng nước nhỏ giọt như tiếng tích tắc của kim giây không biết từ đâu vang lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro001",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro001|",
+      "ja": "（３６００回。おおよそ、１時間か）",
+      "zh": "（3600次。大约就是一个小时吧）",
+      "vi": "(3600 lần. Khoảng một giờ)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro002",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro002|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative003",
+      "speaker_tag": "",
+      "ja": "どれだけ時間が経っても、私の怒りは<ruby=\"しず\">鎮</ruby>まらない。",
+      "zh": "不论时间过了多久，我的愤怒还是无法平息。",
+      "vi": "Dù thời gian có trôi qua bao lâu đi nữa, cơn giận của tôi vẫn không thể nguôi ngoai.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative004",
+      "speaker_tag": "",
+      "ja": "その時、古い金属の<ruby=\"きし\">軋</ruby>む音がした。<br>重い扉が、おそるおそると開かれたのだ。",
+      "zh": "这时，古老的金属发出了吱呀声。<br>\n沉重的门被小心翼翼地打开了。",
+      "vi": "Lúc này, kim loại cổ kêu cót két. Cánh cửa nặng nề được cẩn thận mở ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative005",
+      "speaker_tag": "",
+      "ja": "２人の人影が見えた。",
+      "zh": "门口出现两个人影。",
+      "vi": "Hai bóng người xuất hiện ở cửa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Leia001",
+      "speaker_tag": "; > Leia: |#0201Adv24_Leia001|",
+      "ja": "……中に入っていいらしい。",
+      "zh": "……看来我们可以进去了。",
+      "vi": "…Có vẻ như chúng ta có thể vào được.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Leia002",
+      "speaker_tag": "; > Leia: |#0201Adv24_Leia002|",
+      "ja": "塗料で服が汚れているだろうと思って<br>着替えとタオルを持ってきたんだ<br>出るときに使ってくれ。",
+      "zh": "我想你的衣服可能被颜料弄脏了，<br>\n所以带来了换洗衣物和毛巾。<br>\n出去时用吧。",
+      "vi": "Tôi nghĩ quần áo của bạn có thể bị sơn làm ố, Vì thế tôi mang theo quần áo và khăn tắm để thay. Sử dụng nó khi bạn đi ra ngoài.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Ema001",
+      "speaker_tag": "; > Ema: |#0201Adv24_Ema001|",
+      "ja": "ヒロちゃん、あの、大丈夫……？",
+      "zh": "希罗，那个，你没事吗……？",
+      "vi": "Hiro, ừm, cậu ổn không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro003",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro003|",
+      "ja": "……ありがとう。<br>礼は正しく伝えるべきだろうな。",
+      "zh": "……谢谢。<br>\n我应该向你们好好表达谢意才对。",
+      "vi": "...cảm ơn bạn. Tôi nên bày tỏ lòng biết ơn của mình với bạn một cách đúng đắn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro004",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro004|",
+      "ja": "だが、大丈夫に見えるか？<br>このままいけば処刑を待つだけの身だ。",
+      "zh": "但是，我看起来像没事的样子吗？<br>\n照这样下去，我只能等着被处刑了。",
+      "vi": "Nhưng trông tôi có ổn không? Nếu điều này tiếp tục, tôi chỉ có thể chờ đợi để bị xử tử.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative006",
+      "speaker_tag": "",
+      "ja": "エマもタオルを持参してきており、<br>私の<ruby=\"そば\">傍</ruby>に立って汚れを<ruby=\"ふ\">拭</ruby>いてくれる。",
+      "zh": "艾玛也带来了毛巾，<br>\n站在我身边帮我擦拭污渍。",
+      "vi": "Ema cũng mang theo khăn tắm, Hãy đứng cạnh tôi và giúp tôi lau đi vết nhơ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Ema002",
+      "speaker_tag": "; > Ema: |#0201Adv24_Ema002|",
+      "ja": "このままじゃあんまりにひどいよ……。",
+      "zh": "这样下去太惨了……",
+      "vi": "Sẽ rất đau khổ nếu cứ tiếp tục như thế này...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative007",
+      "speaker_tag": "",
+      "ja": "……よりにもよって、桜羽エマ。",
+      "zh": "……来者偏偏是樱羽艾玛。",
+      "vi": "...Người đến không ai khác chính là Ema Sakuraba.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative008",
+      "speaker_tag": "",
+      "ja": "だが、もし誰かが来るなら、<br>彼女だろうと想像がつくあたり、やるせない。",
+      "zh": "但是，如果说有谁会来探望，我想应该就是她了。<br>\n这一点让我心情更加复杂。",
+      "vi": "Nhưng nếu có ai đến thăm, tôi nghĩ đó sẽ là cô ấy. Điều này khiến tôi cảm thấy phức tạp hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative009",
+      "speaker_tag": "",
+      "ja": "エマは唇を<ruby=\"か\">噛</ruby>み、<br>辛そうに<ruby=\"うつむ\">俯</ruby>きながらも私の汚れを<ruby=\"ぬぐ\">拭</ruby>っていく。",
+      "zh": "艾玛咬着嘴唇，<br>\n痛苦地低着头，继续帮我擦拭污渍。",
+      "vi": "Ema cắn môi, Anh đau đớn cúi đầu xuống và tiếp tục lau vết bẩn cho tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Ema003",
+      "speaker_tag": "; > Ema: |#0201Adv24_Ema003|",
+      "ja": "ヒロちゃん、どうして……。",
+      "zh": "希罗，为什么……",
+      "vi": "Anh hùng, tại sao...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro005",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro005|",
+      "ja": "どうして、とは？<br>どうしてメルルを殺したの？ とでも聞きたいのか？",
+      "zh": "什么为什么？<br>\n你是想问我为什么杀了梅露露吗？",
+      "vi": "Tại sao vậy? Bạn có muốn hỏi tại sao tôi lại giết Meruru không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Ema004",
+      "speaker_tag": "; > Ema: |#0201Adv24_Ema004|",
+      "ja": "ちがっ……。",
+      "zh": "不……",
+      "vi": "Không...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro006",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro006|",
+      "ja": "疑っているようにしか聞こえなかったが？",
+      "zh": "但听起来你就是在怀疑我啊？",
+      "vi": "Nhưng có vẻ như bạn đang nghi ngờ tôi?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Ema005",
+      "speaker_tag": "; > Ema: |#0201Adv24_Ema005|",
+      "ja": "……そんなこと……。",
+      "zh": "……怎么会……",
+      "vi": "...sao có thể như vậy được...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Leia003",
+      "speaker_tag": "; > Leia: |#0201Adv24_Leia003|",
+      "ja": "ヒロくん……こんな思いをさせてしまって<br>すまない。キミは私が守りたかった……。",
+      "zh": "希罗……让你经历这样的事，<br>\n我真的很抱歉。我本想保护你的……",
+      "vi": "Anh hùng... Hãy để bạn trải nghiệm điều đó, Tôi thực sự xin lỗi. Tôi đã muốn bảo vệ bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro007",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro007|",
+      "ja": "……守る必要はない。<br>君たちからしたら私が犯人かもしれないんだ。",
+      "zh": "……不需要保护。<br>\n在你们眼中，我可能就是凶手。",
+      "vi": "...không cần bảo vệ. Trong mắt bạn, tôi có thể là kẻ giết người.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative010",
+      "speaker_tag": "",
+      "ja": "私は２人を順番に<ruby=\"にら\">睨</ruby>んだ。",
+      "zh": "我冷冷地瞪视着两人。",
+      "vi": "Tôi lạnh lùng nhìn hai người.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro008",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro008|",
+      "ja": "――当然、私からしたら<br>君たちが犯人かもしれない。",
+      "zh": "——当然，在我看来，<br>\n你们也可能是凶手。",
+      "vi": "---Tất nhiên, theo ý kiến của tôi, Bạn cũng có thể là kẻ giết người.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Leia004",
+      "speaker_tag": "; > Leia: |#0201Adv24_Leia004|",
+      "ja": "そ、そんなことはありえない！<br>私は――。",
+      "zh": "这、这怎么可能！<br>\n我——",
+      "vi": "Điều này, sao có thể như vậy được! Tôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro009",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro009|",
+      "ja": "あくまで可能性の話だ。<br>私は私の無罪を裁判で証明するだけ。",
+      "zh": "只是说有这种可能。<br>\n我只需在审判中证明自己的清白。",
+      "vi": "Chỉ cần nói là có thể. Tôi chỉ cần chứng minh sự vô tội của mình tại phiên tòa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro010",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro010|",
+      "ja": "この事前投票とやらは残酷だな。<br>少女たちの心に分断を招く。",
+      "zh": "这个所谓的先行投票真是残酷。<br>\n它在少女们心中种下了分裂的种子。",
+      "vi": "Cái gọi là bỏ phiếu trước này thực sự rất tàn nhẫn. Nó gieo mầm mống chia rẽ trong lòng các cô gái trẻ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro011",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro011|",
+      "ja": "だが、おかげでハッキリ覚悟ができた。<br>私は誰にも頼らず生き抜いてみせる。",
+      "zh": "不过，多亏如此，我的决心更加坚定了。<br>\n我会独自生存下去，不依靠任何人。",
+      "vi": "Tuy nhiên, nhờ điều này mà quyết tâm của tôi trở nên mạnh mẽ hơn. Tôi sẽ sống sót một mình, không dựa dẫm vào ai.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative011",
+      "speaker_tag": "",
+      "ja": "私の瞳は、さぞ暗い輝きを放っているだろう。",
+      "zh": "我的眼神，想必正闪烁着阴冷的光芒吧。",
+      "vi": "Đôi mắt của tôi chắc hẳn đang tỏa ra ánh sáng lạnh lẽo.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative012",
+      "speaker_tag": "",
+      "ja": "もちろん協力する道もある。",
+      "zh": "当然，选择合作也是一种方法。",
+      "vi": "Tất nhiên, lựa chọn hợp tác cũng là một phương pháp.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative013",
+      "speaker_tag": "",
+      "ja": "事件前後の状況を説明すれば、<br>何かしらの手がかりが得られるかもしれない。",
+      "zh": "若解释事件前后的情况，<br>\n或许能获得推理的线索。",
+      "vi": "Nếu bạn giải thích hoàn cảnh trước và sau sự việc, Có lẽ bạn có thể nhận được manh mối cho lý luận của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative014",
+      "speaker_tag": "",
+      "ja": "だが、誰が真犯人かわからない状態では、<br>逆に犯人に情報を与える結果になりかねない。",
+      "zh": "但在不知谁是真凶的情况下，<br>\n这反而可能给凶手提供消息。",
+      "vi": "Nhưng không biết kẻ sát nhân thực sự là ai, Thay vào đó, điều này có thể cung cấp thông tin cho kẻ sát nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro012",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro012|",
+      "ja": "（犯人は間違いなく私を陥れようとしている）",
+      "zh": "（凶手无疑正试图陷害我）",
+      "vi": "(Kẻ sát nhân chắc chắn đang cố gài bẫy tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro013",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro013|",
+      "ja": "（なら、私に接触を図ってきた<br>　この２人が犯人という可能性も十分ある）",
+      "zh": "（那么，这两个主动接近我的人，<br>\n很可能就是凶手）",
+      "vi": "(Vì vậy, hai người đã tiếp cận tôi, Có lẽ là kẻ giết người)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro014",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro014|",
+      "ja": "（優しさは敵だ。絆は毒だ。<br>　もう私は、ほだされることはない）",
+      "zh": "（善意是敌人。牵绊是毒药。<br>\n我再也不会被这些东西绊倒了）",
+      "vi": "(Thiện chí là kẻ thù. Cà vạt là thuốc độc. Tôi sẽ không bao giờ vấp phải thứ này nữa)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Ema006",
+      "speaker_tag": "; > Ema: |#0201Adv24_Ema006|",
+      "ja": "ひ、ヒロちゃん。ひとりにならないで！<br>みんなで協力すればきっと――。",
+      "zh": "希、希罗。别把自己孤立起来！<br>\n如果大家一起合作的话，一定能——",
+      "vi": "Chào, Anh hùng. Đừng tự cô lập mình! Nếu mọi người cùng hợp tác, chúng ta chắc chắn có thể——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro015",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro015|",
+      "ja": "協力？<br>その結果がこれだ。",
+      "zh": "合作？<br>\n这就是合作的结果。",
+      "vi": "Hợp tác? Đây là kết quả của sự hợp tác.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative015",
+      "speaker_tag": "",
+      "ja": "めまいがした。<br>エマの口からでるきれいごとが受け付けられない。",
+      "zh": "我感到头晕目眩。<br>\n我无法接受艾玛口中那些漂亮话。",
+      "vi": "Tôi cảm thấy chóng mặt. Tôi không thể chịu đựng được những lời nói đẹp đẽ đó phát ra từ miệng Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro016",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro016|",
+      "ja": "エマ、特に君のことは信じられない。",
+      "zh": "艾玛，我最不相信的就是你。",
+      "vi": "Ema, ​​bạn là người tôi không tin tưởng nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Ema007",
+      "speaker_tag": "; > Ema: |#0201Adv24_Ema007|",
+      "ja": "ヒロちゃん……どうして？<br>お願いだからボクの話を聞いて――。",
+      "zh": "希罗……为什么？<br>\n求你了，请听我解释——",
+      "vi": "Anh hùng...tại sao? Xin hãy nghe tôi giải thích——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro017",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro017|",
+      "ja": "黙れ！！<br>君の顔も見たくないし声も聞きたくない！！",
+      "zh": "闭嘴！！<br>\n我不想看到你的脸，也不想听到你的声音！！",
+      "vi": "Im đi! ! Tôi không muốn nhìn thấy khuôn mặt của bạn hoặc nghe giọng nói của bạn! !",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro018",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro018|",
+      "ja": "少しでも私を想う気持ちがあるなら、<br>ここから出て行け！！",
+      "zh": "如果你还有一丝在乎我的心，<br>\n就给我滚出去！！",
+      "vi": "Nếu bạn vẫn quan tâm đến tôi, Chỉ cần ra khỏi đây! !",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Leia005",
+      "speaker_tag": "; > Leia: |#0201Adv24_Leia005|",
+      "ja": "――そこまでだ！",
+      "zh": "——到此为止！",
+      "vi": "--Chính là nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative016",
+      "speaker_tag": "",
+      "ja": "私の怒鳴りにかぶせる形で<br>レイアが声を張りあげた。",
+      "zh": "蕾雅一声高喊，<br>\n盖过了我的怒吼。",
+      "vi": "Leya hét lên, nhấn chìm tiếng gầm của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro019",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro019|",
+      "ja": "なっ……。",
+      "zh": "什么……",
+      "vi": "Cái gì...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative017",
+      "speaker_tag": "",
+      "ja": "不可解な現象に、思わず息が詰まった。",
+      "zh": "一种不可思议的现象，让我不由得屏住了呼吸。",
+      "vi": "Một hiện tượng khó tin khiến tôi phải nín thở.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative018",
+      "speaker_tag": "",
+      "ja": "声につられてレイアを視野に入れたが最後、<br>彼女の顔から目を逸らすことができない。",
+      "zh": "我被声音吸引，将视线落在了蕾雅身上，<br>\n发现自己无法将目光从她脸上移开。",
+      "vi": "Tôi bị thu hút bởi âm thanh đó và ánh mắt tôi đổ dồn vào Liya, Anh thấy mình không thể rời mắt khỏi khuôn mặt cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Leia006",
+      "speaker_tag": "; > Leia: |#0201Adv24_Leia006|",
+      "ja": "……驚かせたね。これが私の魔法さ。<br>【視線の誘導】を行うことができる。",
+      "zh": "……吓到你了吧。这就是我的魔法。<br>\n我可以【引导视线】。",
+      "vi": "...nó làm bạn sợ. Đây là phép thuật của tôi. Tôi có thể [nhìn trực tiếp].",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Leia007",
+      "speaker_tag": "; > Leia: |#0201Adv24_Leia007|",
+      "ja": "人々はよく言うんだ。<br>舞台上の私から不思議と目を離せない、とね。",
+      "zh": "人们常说，<br>\n不知为何无法将目光从舞台上的我身上移开呢。",
+      "vi": "Mọi người thường nói, Không hiểu sao tôi không thể rời mắt khỏi sân khấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Leia008",
+      "speaker_tag": "; > Leia: |#0201Adv24_Leia008|",
+      "ja": "少しでも信じてもらいたいからね。<br>ヒロくんになら、<br>明かしても構わないと思ったんだよ。",
+      "zh": "我想让你稍微信任我一点。<br>\n所以我想，不妨把我的魔法揭露给你看。<br>",
+      "vi": "Tôi muốn bạn tin tưởng tôi một chút. Vì thế tôi nghĩ tôi có thể tiết lộ phép thuật của mình cho bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative019",
+      "speaker_tag": "",
+      "ja": "レイアは優しげに笑う。",
+      "zh": "蕾雅温柔地笑了。",
+      "vi": "Leia mỉm cười nhẹ nhàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro020",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro020|",
+      "ja": "……解除してくれないか。",
+      "zh": "……能解除吗？",
+      "vi": "...nó có thể nhấc lên được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative020",
+      "speaker_tag": "",
+      "ja": "要望した瞬間、視線に自由が<ruby=\"き\">利</ruby>くようになった。",
+      "zh": "我刚提出要求，视线就恢复了自由。",
+      "vi": "Ngay khi tôi đưa ra yêu cầu, tầm nhìn của tôi trở lại tự do.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Leia009",
+      "speaker_tag": "; > Leia: |#0201Adv24_Leia009|",
+      "ja": "どうやら、キミたちの間には<br>昔何かあったようだね。<br>詳しく聞けないかい？",
+      "zh": "看来你们之间<br>\n曾经发生过什么事呢。<br>\n能和我说说吗？",
+      "vi": "Có vẻ như giữa hai bạn Chuyện gì đã xảy ra vậy? Bạn có thể kể cho tôi nghe về nó được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro021",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro021|",
+      "ja": "……断る。",
+      "zh": "……我拒绝。",
+      "vi": "...Tôi từ chối.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Leia010",
+      "speaker_tag": "; > Leia: |#0201Adv24_Leia010|",
+      "ja": "……わかった。<br>今は、そっとしておいた方が良さそうだ。",
+      "zh": "……我明白了。<br>\n现在，还是让你静一静比较好。",
+      "vi": "...Tôi hiểu. Bây giờ tốt hơn hết là bạn nên im lặng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative021",
+      "speaker_tag": "",
+      "ja": "レイアはそれきり、エマに行こう、と諭す。",
+      "zh": "蕾雅说完，就劝艾玛一起离开。",
+      "vi": "Sau khi Leia nói xong, cô thuyết phục Ema cùng nhau rời đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative022",
+      "speaker_tag": "",
+      "ja": "エマは私の剣幕にショックを受けていたようで、<br>レイアに<ruby=\"うなが\">促</ruby>されるまま重い足取りで立ち去って行った。",
+      "zh": "艾玛似乎被我的激烈的态度吓到，<br>\n在蕾雅的催促下拖着沉重的脚步离开了。",
+      "vi": "Ema có vẻ sợ hãi trước thái độ hung dữ của tôi, Trước sự thúc giục của Leya, anh lê bước nặng nề và rời đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Ema008",
+      "speaker_tag": "; > Ema: |#0201Adv24_Ema008|",
+      "ja": "ヒロちゃん……またあとで……。",
+      "zh": "希罗……待会见……",
+      "vi": "Hiro...gặp lại sau...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative023",
+      "speaker_tag": "",
+      "ja": "扉が閉められ、再び静寂が訪れる。",
+      "zh": "随后门被关上，再次恢复了寂静。",
+      "vi": "Sau đó cánh cửa đóng lại và sự im lặng quay trở lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro022",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro022|",
+      "ja": "（……最悪な状況だ……）",
+      "zh": "（……这是最糟糕的情况……）",
+      "vi": "(…đây là trường hợp xấu nhất…)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro023",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro023|",
+      "ja": "（しかし、本当に私がやっていない、<br>　と言えるのか……？）",
+      "zh": "（但我真的能说，<br>\n人不是我杀的吗……？）",
+      "vi": "(Nhưng tôi thực sự có thể nói, Không phải tôi đã giết người đó sao...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative024",
+      "speaker_tag": "",
+      "ja": "<ruby=\"のうり\">脳裏</ruby>に<ruby=\"よぎ\">過</ruby>ったのは、<br>自身の暴走した姿――",
+      "zh": "紧接着，脑海中闪过<br>\n自己失控的样子——",
+      "vi": "Ngay sau đó, hiện lên trong đầu tôi Cái cách anh ấy mất kiểm soát——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro024",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro024|",
+      "ja": "（正気を失って、私はもしかしてメルルを……）",
+      "zh": "（说不定是我失去理智，把梅露露给……）",
+      "vi": "(Có lẽ tôi đã mất trí và đưa Meruru...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro025",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro025|",
+      "ja": "（このまま処刑されるくらいなら、<br>　死んでやり直すのも……）",
+      "zh": "（反正这样下去都要被处刑了，<br>\n还不如死掉重来……）",
+      "vi": "(Dù sao thì bạn sẽ bị xử tử nếu việc này tiếp tục, Thà chết đi và làm lại từ đầu...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative025",
+      "speaker_tag": "",
+      "ja": "だが、次の瞬間、ハッと我に返る。",
+      "zh": "下一个瞬间，我又清醒了过来。",
+      "vi": "Khoảnh khắc tiếp theo, tôi lại tỉnh dậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro026",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro026|",
+      "ja": "（自殺……？ 私が……？）",
+      "zh": "（自杀……？我吗……？）",
+      "vi": "(Tự tử...? Tôi...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Narrative026",
+      "speaker_tag": "",
+      "ja": "身の毛がよだつような<br><ruby=\"きひかん\">忌避感</ruby>が全身を駆け巡る。",
+      "zh": "一种让我不寒而栗的<br>\n嫌恶感传遍全身。",
+      "vi": "khiến tôi rùng mình Sự ghê tởm lan khắp cơ thể anh.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro027",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro027|",
+      "ja": "（何を考えている。<br>　【自殺】だけはありえない）",
+      "zh": "（我在想什么啊。<br>\n无论如何，绝对不可以【自杀】）",
+      "vi": "(Tôi đang nghĩ gì vậy. Dù thế nào đi nữa, bạn không được tự sát)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro028",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro028|",
+      "ja": "（友だちの命を奪った、<br>　忌まわしい方法など取らない！）",
+      "zh": "（我绝对不会用这种<br>\n夺走了朋友生命的禁忌方式！）",
+      "vi": "(Tôi sẽ không bao giờ sử dụng này Một cách bị cấm để lấy đi mạng sống của một người bạn! )",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv24_Hiro029",
+      "speaker_tag": "; > Hiro: |#0201Adv24_Hiro029|",
+      "ja": "（私はメルルを殺していない。<br>　決して――！）",
+      "zh": "（我没有杀害梅露露。<br>\n我没有——！）",
+      "vi": "(Tôi không giết Meruru. Tôi không—! )",
+      "objection_links": []
+    }
+  ]
+}

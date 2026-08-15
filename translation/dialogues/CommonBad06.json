@@ -1,0 +1,192 @@
+{
+  "bundle": "general-localization-zhhans-scripts-common_assets_all.bundle",
+  "script_name": "CommonBad06",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Common/CommonBad06' Naninovel scenario script",
+  "total_entries": 23,
+  "entries": [
+    {
+      "id": "CommonBad06_Narrative001",
+      "speaker_tag": "",
+      "ja": "――結論が出ないまま、時間は流れた。",
+      "zh": "——大家至今一直没有得出结论，时间徒然流逝。",
+      "vi": "——Cho đến nay mọi người vẫn chưa đi đến kết luận, và thời gian đã trôi qua vô ích.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Narrative002",
+      "speaker_tag": "",
+      "ja": "少女たちは自身のスマホを操作し、<br>投票をしていく。",
+      "zh": "少女们各自按着自己的手机，<br>\n进行投票。",
+      "vi": "Mỗi cô gái bấm điện thoại di động của mình, Hãy bỏ phiếu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Narrative003",
+      "speaker_tag": "",
+      "ja": "そして。",
+      "zh": "然后。",
+      "vi": "Sau đó.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Narrative004",
+      "speaker_tag": "",
+      "ja": "まるでそぐわない間抜けなファンファーレ音と共に、<br>スマホに映し出されたのは――",
+      "zh": "随着一声与现场气氛格格不入的滑稽庆祝音效响起，<br>\n手机上出现的——",
+      "vi": "Khi hiệu ứng âm thanh ăn mừng vui nhộn vang lên không phù hợp với không khí của hiện trường, Thứ xuất hiện trên điện thoại——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Narrative005",
+      "speaker_tag": "",
+      "ja": "エマの画像だった。",
+      "zh": "是艾玛的照片。",
+      "vi": "Đó là hình ảnh của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Ema001",
+      "speaker_tag": "; > Ema: |#CommonBad06_Ema001|",
+      "ja": "そん、な……。",
+      "zh": "怎么、会……",
+      "vi": "Làm sao, có thể...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Narrative006",
+      "speaker_tag": "",
+      "ja": "画面に映った自分自身を目にして、<br>エマは声を震わせる。",
+      "zh": "看到手机上自己的照片，<br>\n艾玛用颤抖的声音说道。",
+      "vi": "Tôi đã nhìn thấy ảnh của mình trên điện thoại, Ema nói với giọng run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Ema002",
+      "speaker_tag": "; > Ema: |#CommonBad06_Ema002|",
+      "ja": "どうして……ねえ！？<br>なんでボクに投票したの！？",
+      "zh": "我说……为什么！？<br>\n为什么要投票给我！？",
+      "vi": "Tôi đã nói... tại sao! ? Tại sao bỏ phiếu cho tôi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Margo001",
+      "speaker_tag": "; > Margo: |#CommonBad06_Margo001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Coco001",
+      "speaker_tag": "; > Coco: |#CommonBad06_Coco001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Ema003",
+      "speaker_tag": "; > Ema: |#CommonBad06_Ema003|",
+      "ja": "なんとか言ってよ！<br>ボクはアリサちゃんを殺してない！！",
+      "zh": "你们快说些什么啊！<br>\n我没有杀死亚里沙！！",
+      "vi": "Nói gì đó nhanh lên! Tôi không giết Alisa! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Meruru001",
+      "speaker_tag": "; > Meruru: |#CommonBad06_Meruru001|",
+      "ja": "エマさん、私は……。",
+      "zh": "艾玛小姐，我……",
+      "vi": "Ema, tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Warden001",
+      "speaker_tag": "; > Warden: |#CommonBad06_Warden001|",
+      "ja": "まあ、決定は決定なんで。<br>残念ですけど、諦めてもらうしかないかと。<br>さっさと閉廷したいですし……進行しちゃっていいですかね？",
+      "zh": "哎，这已经是最终决定了。<br>\n虽然很遗憾，但只能请你接受这个结果了。<br>\n我想早点闭庭……能让我继续下一个环节了吗？",
+      "vi": "Than ôi, đây là quyết định cuối cùng. Dù rất đáng tiếc nhưng tôi chỉ có thể cầu xin bạn chấp nhận kết quả này. Tôi muốn đóng cửa phiên tòa sớm...bạn có thể tiếp tục phiên tòa tiếp theo không?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Narrative007",
+      "speaker_tag": "",
+      "ja": "涙を浮かべて無実を訴えるエマだが、<br>ゴクチョーには取り付く島もなかった。",
+      "zh": "尽管艾玛声泪俱下地哭诉自己的无辜，<br>\n但典狱长却不为所动。",
+      "vi": "Mặc dù Ema kêu lên sự vô tội của mình, Nhưng người cai ngục vẫn bất động.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Ema004",
+      "speaker_tag": "; > Ema: |#CommonBad06_Ema004|",
+      "ja": "うううう……ボクは……ボクは……。",
+      "zh": "呜呜呜……我……我没有……",
+      "vi": "Wuwuwu...tôi...tôi không...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Warden002",
+      "speaker_tag": "; > Warden: |#CommonBad06_Warden002|",
+      "ja": "さてと、それでは処刑装置を入れ替えて……。",
+      "zh": "好，接下来让我更换处刑装置……",
+      "vi": "Được rồi, tiếp theo hãy để tôi thay đổi thiết bị thực thi...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Ema005",
+      "speaker_tag": "; > Ema: |#CommonBad06_Ema005|",
+      "ja": "わあああああああ！！",
+      "zh": "呜哇啊啊啊啊啊啊！！",
+      "vi": "Ồhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Narrative008",
+      "speaker_tag": "",
+      "ja": "突然エマが声を荒げ、駆け出した。",
+      "zh": "艾玛突然惊恐地大叫起来，撒腿就跑。",
+      "vi": "Ema đột nhiên hét lên kinh hãi và bỏ chạy.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Ema006",
+      "speaker_tag": "; > Ema: |#CommonBad06_Ema006|",
+      "ja": "違う！ ボクじゃない！<br>ボクは殺してない！！",
+      "zh": "不！不是我！<br>\n我没有杀人！！",
+      "vi": "Không! Không phải tôi! Tôi không giết ai cả! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Ema007",
+      "speaker_tag": "; > Ema: |#CommonBad06_Ema007|",
+      "ja": "こんなのおかしい！<br>助けて！ お父さん……お母さん……！<br>誰か助けてよ！！",
+      "zh": "这太奇怪了！<br>\n救命！爸爸……妈妈……！<br>\n谁来救救我！！",
+      "vi": "Điều này thật kỳ lạ! Giúp đỡ! Bố...Mẹ...! Ai đó hãy đến cứu tôi đi! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Warden003",
+      "speaker_tag": "; > Warden: |#CommonBad06_Warden003|",
+      "ja": "やれやれ……駄目ですよ、逃げたりしたら。<br>まあ、無駄なんですけどね。",
+      "zh": "哎呀呀……不可以逃跑哦。<br>\n不过，逃跑也是白费力气。",
+      "vi": "Rất tiếc...bạn không thể chạy trốn được. Tuy nhiên, việc trốn thoát là vô ích.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Narrative009",
+      "speaker_tag": "",
+      "ja": "泣き叫ぶエマの前に看守が立ち塞がり――",
+      "zh": "在哭嚎着的艾玛面前，看守堵住了她的去路——",
+      "vi": "Trước mặt Ema đang khóc, Cai Ngục đã chặn đường cô——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad06_Warden004",
+      "speaker_tag": "; > Warden: |#CommonBad06_Warden004|",
+      "ja": "あちゃ～……床と壁、掃除しないと……<br>余計な手間を増やさないでいただけると<br>ありがたいんですけどねぇ……。",
+      "zh": "唉呀～……地板和墙壁，都得打扫……<br>\n真希望不要再给我增加<br>\n无谓的工作了……",
+      "vi": "Rất tiếc~...sàn và tường cần được làm sạch... Tôi thực sự mong bạn đừng thêm vào tôi nữa Đó là việc làm vô ích...",
+      "objection_links": []
+    }
+  ]
+}

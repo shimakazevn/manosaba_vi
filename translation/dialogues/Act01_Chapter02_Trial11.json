@@ -1,0 +1,1276 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter02_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter02_Trial11",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter02/Act01_Chapter02_Trial11' Naninovel scenario script",
+  "total_entries": 158,
+  "entries": [
+    {
+      "id": "0102Trial11_Warden001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial11_Warden001|",
+      "ja": "鍵の管理は当時、<br>この看守がしていましたね。",
+      "zh": "当时，负责管理钥匙的<br>\n应该是这位看守没错。",
+      "vi": "Vào thời điểm đó, chịu trách nhiệm quản lý khóa. Chắc chắn là Cai Ngục này.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial11_Warden002|",
+      "ja": "……その時のこと、<br>何かありますか？",
+      "zh": "……那时<br>\n有发生什么事吗？",
+      "vi": "…thì Có chuyện gì đã xảy ra à?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Jailer001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial11_Jailer001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Coco001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial11_Coco001|",
+      "ja": "なんも答えねーんだけど？",
+      "zh": "它怎么不说话呢？",
+      "vi": "Tại sao nó không nói được?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Alisa001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial11_Alisa001|",
+      "ja": "なんか言いやがれ！",
+      "zh": "快说点什么啊！",
+      "vi": "Nói gì đó nhanh lên!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Jailer002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial11_Jailer002|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Margo001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial11_Margo001|",
+      "ja": "あらあら、<br>もしかしてお話できないのかしら？",
+      "zh": "哎呀呀，<br>\n莫非是说不了话？",
+      "vi": "Rất tiếc, Có phải là Chị không thể nói được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial11_Warden003|",
+      "ja": "まあこの方、<br>無口なので……。",
+      "zh": "这位确实<br>\n比较寡言……",
+      "vi": "Cái này thực sự là Tương đối yên tĩnh...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Coco002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial11_Coco002|",
+      "ja": "……【これ】から話を聞くの、<br>無理なんじゃねーの？",
+      "zh": "……估计没法从【这东西】的嘴里<br>\n打听到话吧？",
+      "vi": "...Coco đoán là Coco không thể lấy nó ra khỏi miệng [thứ này] Bạn có nghe thấy gì không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial11_Warden004|",
+      "ja": "基本的に<br>私以外の言うことは<br>聞きませんしねぇ。",
+      "zh": "而且<br>\n一般来说，<br>\n它只听我的话。",
+      "vi": "Và Nói chung, Nó chỉ nghe lời tôi thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Nanoka001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial11_Nanoka001|",
+      "ja": "……それなら、<br>あなたにべつのことを<br>聞きましょうか。",
+      "zh": "……那么，<br>\n我再问你<br>\n一个问题吧。",
+      "vi": "...thì, Tôi sẽ hỏi bạn lần nữa Chỉ là một câu hỏi.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Nanoka002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial11_Nanoka002|",
+      "ja": "この看守に、<br>意思はあるのかしら。",
+      "zh": "这位看守<br>\n有自己的意志吗。",
+      "vi": "Cai Ngục này Bạn có ý chí riêng của mình không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial11_Warden005|",
+      "ja": "少なくとも<br>機械ではありませんね。",
+      "zh": "至少它<br>\n不是机器。",
+      "vi": "Ít nhất là Không phải là một cái máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial11_Warden006|",
+      "ja": "……もしかして、<br>私たちが殺人を行ったと<br>お思いですか？<br>そんなことはありえませんよ。",
+      "zh": "……难道，<br>\n你认为我们<br>\n杀了人？<br>\n我们可没有哦。",
+      "vi": "... Có thể nào, Bạn có nghĩ chúng tôi Giết ai đó? Chúng tôi không có điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden007",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial11_Warden007|",
+      "ja": "なぜなら私たちには<br><link=\"Objection_01_02_11_01\">動機</link>がありません。<br>なので自発的に<br><link=\"Objection_01_02_11_02\">誰かを殺した</link>り、<br>誰かの犯行に協力する<br><link=\"Objection_01_02_11_03\">共犯者</link>となるようなことは<br>ありえないんですよ。",
+      "zh": "因为我们并没有<br>\n<link=\"Objection_01_02_11_01\">动机</link>。<br>\n所以我们不可能<br>\n主动<link=\"Objection_01_02_11_02\">杀害某人</link>，<br>\n或者以<link=\"Objection_01_02_11_03\">共犯</link>的身份<br>\n协助某人作案。<br>",
+      "vi": "Bởi vì chúng tôi không có <link=\"Objection_01_02_11_01\">Động lực</link>. Vì vậy chúng tôi không thể Chủ động <link=\"Objection_01_02_11_02\"> giết ai đó </link>, Hoặc với tư cách là <link=\"Objection_01_02_11_03\"> đồng phạm </link> Để hỗ trợ ai đó thực hiện tội phạm.",
+      "objection_links": [
+        "Objection_01_02_11_01",
+        "Objection_01_02_11_02",
+        "Objection_01_02_11_03"
+      ]
+    },
+    {
+      "id": "0102Trial11_Warden008",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial11_Warden008|",
+      "ja": "というわけで、<br>犯人の方には<br>素直に名乗り出て<br>いただけると<br>ありがたいんですが……。",
+      "zh": "因此，<br>\n希望凶手<br>\n可以老老实实地<br>\n报上名来，<br>\n我们将感激不尽……",
+      "vi": "Vì vậy, Hy vọng kẻ sát nhân Thành thật mà nói, bạn có thể Đăng ký, Chúng tôi sẽ biết ơn…",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Coco003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial11_Coco003|",
+      "ja": "そんなんで出てきたら<br>苦労しねーっての……！",
+      "zh": "要是你一句话就能叫出来<br>\n我们还费什么劲……！",
+      "vi": "Nếu bạn có thể gọi Coco là chỉ bằng một câu Tại sao chúng ta phải bận tâm...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden009",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial11_Warden009|",
+      "ja": "はぁ……。<br>困りましたねぇ。",
+      "zh": "唉……<br>\n真是头疼啊。",
+      "vi": "Than ôi... Thật là đau đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema001",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema001|",
+      "ja": "（ゴクチョーを議論の場に呼んだはいいけど……<br>　事件のことを何か隠しているようには見えないかも……）",
+      "zh": "（总算让典狱长加入讨论了……<br>\n但它看上去并没有隐瞒什么案情……）",
+      "vi": "(Cuối cùng hãy để quản giáo tham gia thảo luận... Nhưng có vẻ như nó không che giấu điều gì...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema002",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema002|",
+      "ja": "（他に何か新しく増えた情報はないかな……？）",
+      "zh": "（这里有没有出现新的情报呢……？）",
+      "vi": "(Có thông tin gì mới ở đây không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Meruru001",
+      "speaker_tag": "; > Meruru: |#0102Trial11_Meruru001|",
+      "ja": "……さっき、ナノカさんはどうして<br>あんなことを聞いたんでしょう……？",
+      "zh": "……刚才，奈叶香小姐为什么<br>\n要问那个问题呢……？",
+      "vi": "...Vừa rồi tại sao cô Nanoyaka Còn việc hỏi câu hỏi đó thì sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema003",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema003|",
+      "ja": "ナノカちゃんが……？",
+      "zh": "奈叶香……？",
+      "vi": "Nanoyaka...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0102Trial11_Nanoka003|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Choice001",
+      "speaker_tag": "; > @choice |#0102Trial11_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "動機はある",
+      "zh": "你们有动机",
+      "vi": "Bạn có một động cơ",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Choice002",
+      "speaker_tag": "; > @choice |#0102Trial11_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "ゴクチョーなら殺せる",
+      "zh": "典狱长也会杀人",
+      "vi": "Quản giáo cũng giết người",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Choice003",
+      "speaker_tag": "; > @choice |#0102Trial11_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "看守が共犯はありえる",
+      "zh": "看守有可能是共犯",
+      "vi": "Cai Ngục có thể là đồng phạm",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema004",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema004|",
+      "ja": "こんなところにボクたちを閉じ込めている時点で、<br>動機がないわけないよ！",
+      "zh": "你们都把我们关在这个鬼地方了，<br>\n怎么可能没有动机！",
+      "vi": "Tất cả các người đều nhốt chúng tôi ở cái nơi chết tiệt này, Làm sao có thể không có động cơ!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden010",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden010|",
+      "ja": "そう言われましても……。",
+      "zh": "可就算你这么说……",
+      "vi": "Nhưng ngay cả khi bạn nói như vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden011",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden011|",
+      "ja": "私たちとしては、<br>【魔女】になりうる少女たちを<br>野放しには出来ないから仕方なくやっているわけで……。",
+      "zh": "站在我们的立场上，<br>\n不能对那些可能成为【魔女】的少女放任不管，<br>\n所以不得已才这么做的……",
+      "vi": "Theo quan điểm của chúng tôi, Chúng ta không thể bỏ mặc những cô gái có thể trở thành [Pháp thủy] một mình, Vì vậy, tôi đã làm điều đó như là phương sách cuối cùng ...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden012",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden012|",
+      "ja": "あの……ご理解ください。",
+      "zh": "抱歉……敬请谅解。",
+      "vi": "Xin lỗi...xin vui lòng hiểu.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden013",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden013|",
+      "ja": "というか、殺人が起きて仕事が増えるのは<br>こっちなんですよ……？",
+      "zh": "倒不如说，发生杀人案<br>\n反而会增加我们的工作量哦……？",
+      "vi": "Đúng hơn là một vụ giết người đã xảy ra Ngược lại, nó sẽ làm tăng khối lượng công việc của chúng tôi...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden014",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden014|",
+      "ja": "むしろ……迷惑なんです。",
+      "zh": "其实……我们也嫌烦。",
+      "vi": "Thực ra... chúng tôi cũng thấy khó chịu.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden015",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden015|",
+      "ja": "どうしてこんなにかわいいフクロウが<br>こんな少女たちの世話をしなければならないのか……<br>ハーァ……。",
+      "zh": "为什么非得要我这个猫头鹰小可爱<br>\n照顾这么一群女孩……<br>\n唉……",
+      "vi": "Tại sao phải có tôi, con cú nhỏ đáng yêu này Chăm sóc một nhóm con gái như vậy... Than ôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Coco004",
+      "speaker_tag": "; > Coco: |#0102Trial11_Coco004|",
+      "ja": "ねえエマっち！！<br>こちとらフクロウのグチを<br>聞いてるヒマはないんだけど！！！！",
+      "zh": "喂，艾玛亲！！<br>\n咱们可没空听<br>\n猫头鹰发牢骚啊！！！！",
+      "vi": "Xin chào Ema thân yêu! ! Chúng Coco không có thời gian để nghe Con cú đang càu nhàu! ! ! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema005",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema005|",
+      "ja": "（なんでボクが怒られるの……！？）",
+      "zh": "（为什么挨骂的是我……！？）",
+      "vi": "(Tại sao mình lại là người bị mắng...!?)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema006",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema006|",
+      "ja": "（……【鍵の管理は看守の役目だった】。<br>　それは間違いないよね……）",
+      "zh": "（……【当时负责管理钥匙的是看守】。<br>\n这点没错吧……）",
+      "vi": "(...[Người chịu trách nhiệm quản lý chìa khóa lúc đó là người trông coi]. Điều đó không đúng sao...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema007",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema007|",
+      "ja": "（じゃあどうして扉を<br>　開けっぱなしにしたりしたんだろう……？）",
+      "zh": "（那它为什么<br>\n没关上门呢……？）",
+      "vi": "(Vậy tại sao lại là Cậu không đóng cửa sao...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema008",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema008|",
+      "ja": "殺せないなんて……嘘だよ！",
+      "zh": "骗人……你们也会杀人！",
+      "vi": "Nói dối... ngươi cũng sẽ giết người!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden016",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden016|",
+      "ja": "嘘とは？",
+      "zh": "哪里骗人了？",
+      "vi": "Lời nói dối ở đâu?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema009",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema009|",
+      "ja": "看守はヒロちゃんを殺したじゃないか……！",
+      "zh": "看守不就杀掉了希罗吗……！",
+      "vi": "Không phải Cai Ngục vừa giết Hiro sao...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden017",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden017|",
+      "ja": "先に仕掛けてきたのはヒロさんでしたし……。",
+      "zh": "但先动手的是希罗小姐……",
+      "vi": "Nhưng Miss Hiro là người ra tay trước...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden018",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden018|",
+      "ja": "それに私たちとしては……<br>面倒なことはこれ以上増やして欲しくないんです。",
+      "zh": "而且站在我们的立场上……<br>\n也不想再惹出更多的麻烦了。",
+      "vi": "Và theo quan điểm của chúng tôi... Tôi không muốn gây thêm rắc rối nào nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema010",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema010|",
+      "ja": "この……！",
+      "zh": "你这家伙……！",
+      "vi": "Anh bạn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Meruru002",
+      "speaker_tag": "; > Meruru: |#0102Trial11_Meruru002|",
+      "ja": "エマさん、お、落ち着いてください……！！",
+      "zh": "艾玛小姐，请、请冷静点……！！",
+      "vi": "Ema, xin hãy bình tĩnh lại...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Meruru003",
+      "speaker_tag": "; > Meruru: |#0102Trial11_Meruru003|",
+      "ja": "これ以上歯向かっても……！",
+      "zh": "继续反抗它也没有意义的……！",
+      "vi": "Không có ích gì khi tiếp tục chống lại nó...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn001",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn001|",
+      "ja": "やれやれ……<br>わざと議論を混乱させようとしているのではないか？",
+      "zh": "哎呀呀……<br>\n你不会是在故意扰乱讨论吧？",
+      "vi": "Rất tiếc... Bạn không cố tình làm gián đoạn cuộc thảo luận đấy chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn002",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn002|",
+      "ja": "死にたいなら、１人で死ぬがいい……！",
+      "zh": "想死的话，你就一个人去死吧……！",
+      "vi": "Muốn chết thì chết một mình đi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema011",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema011|",
+      "ja": "（……みんなを心配させちゃったみたい。<br>　いったん、落ち着こう）",
+      "zh": "（……让大家费心了。<br>\n先冷静一下吧）",
+      "vi": "(…vì rắc rối của mọi người. Hãy bình tĩnh trước đã)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema012",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema012|",
+      "ja": "（……【鍵の管理は看守の役目だった】。<br>　それは間違いないよね……）",
+      "zh": "（……【当时负责管理钥匙的是看守】。<br>\n这点没错吧……）",
+      "vi": "(...[Người chịu trách nhiệm quản lý chìa khóa lúc đó là người trông coi]. Điều đó không đúng sao...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema013",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema013|",
+      "ja": "（じゃあどうして扉を<br>　開けっぱなしにしたりしたんだろう……？）",
+      "zh": "（那它为什么<br>\n没关上门呢……？）",
+      "vi": "(Vậy tại sao lại là Cậu không đóng cửa sao...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema014",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema014|",
+      "ja": "……本当にそうなのかな。",
+      "zh": "……真的是这样吗。",
+      "vi": "...Đây thực sự là trường hợp sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden019",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden019|",
+      "ja": "……と、言いますと？",
+      "zh": "……你的意思是？",
+      "vi": "...ý bạn là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema015",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema015|",
+      "ja": "だって、鍵の管理は看守がしてたんだよね？",
+      "zh": "因为，钥匙是看守负责管理的吧？",
+      "vi": "Bởi vì chìa khóa được quản lý bởi người trông coi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden020",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden020|",
+      "ja": "まあ……そうですね。",
+      "zh": "嗯……是的。",
+      "vi": "Ừm...vâng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema016",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema016|",
+      "ja": "だとしたら、それが懲罰房の中にあるって<br>おかしいんじゃないかな。",
+      "zh": "这样一来，钥匙在惩罚室里<br>\n岂不是很奇怪吗。",
+      "vi": "Trong trường hợp này, chìa khóa ở trong Phòng Kỷ Luật Biệt Giam Biệt Giam Có lạ không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema017",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema017|",
+      "ja": "仮にそれがナノカちゃんの嘘だとしても、<br>ナノカちゃんが鍵を持っていること自体が<br>その証言と矛盾する……。",
+      "zh": "即便奈叶香说谎了，<br>\n钥匙也确实在她手上，<br>\n这点依旧与你的证词相矛盾……",
+      "vi": "Ngay cả khi Nanoyaka nói dối, Chìa khóa quả thực đang nằm trong tay cô ấy, Điều này vẫn mâu thuẫn với lời khai của bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema018",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema018|",
+      "ja": "看守が鍵を今持っていないことが、<br>ゴクチョーの証言と矛盾しているよ！",
+      "zh": "看守现在手里没有钥匙，<br>\n这就与你的证词有矛盾！",
+      "vi": "Cai Ngục hiện không có chìa khóa, Điều này mâu thuẫn với lời khai của bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden021",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden021|",
+      "ja": "ふむ……。<br>たしかにエマさんの言う事も<br>一理あるかもしれませんねぇ……。",
+      "zh": "嗯……<br>\n艾玛小姐你的发言<br>\n也许是有一定的道理……",
+      "vi": "Ừm... Ema, bài phát biểu của bạn Có lẽ có một số sự thật trong đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden022",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden022|",
+      "ja": "しかし看守が勝手に動いたなど……<br>私にも信じがたいことではあるのですが……。",
+      "zh": "但是要说看守擅自行动……<br>\n于我而言有些难以置信……",
+      "vi": "Nhưng để nói rằng Cai Ngục đã hành động trái phép... Nó hơi khó tin đối với tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Hanna001",
+      "speaker_tag": "; > Hanna: |#0102Trial11_Hanna001|",
+      "ja": "なら看守が鍵を置き忘れたとか、<br>盗まれた可能性は万に一つもありませんの？<br>絶対にないことなんですの？",
+      "zh": "难道就没有一丝看守把钥匙忘在房间，<br>\n或者被偷窃的可能吗？<br>\n你就如此肯定？",
+      "vi": "Có dấu vết bảo vệ quên chìa khóa trong phòng không, Hoặc khả năng nó bị đánh cắp? Bạn có chắc chắn như vậy không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden023",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden023|",
+      "ja": "う～ん……。<br>まあたしかにそう言われますと、<br>私も不安にはなってきましたが……。",
+      "zh": "嗯～……<br>\n确实听你这么一说，<br>\n我也有点不自信了……",
+      "vi": "Ừm~...... Tôi thực sự đã nghe thấy những gì bạn nói, Tôi cũng có chút không chắc chắn...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Alisa002",
+      "speaker_tag": "; > Alisa: |#0102Trial11_Alisa002|",
+      "ja": "自信があるのかないのか、<br>どっちだよ……！",
+      "zh": "你到底<br>\n有没有信心啊……！",
+      "vi": "Bạn là ai Bạn có tự tin...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden024",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden024|",
+      "ja": "看守のことは信頼しております。<br>ですが、無い事を証明するのは難しいんですよ。",
+      "zh": "我信任看守。<br>\n但是，很难证明它们没做那些事啊。",
+      "vi": "Tôi tin tưởng những Cai Ngục. Nhưng thật khó để chứng minh họ không làm những điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Margo002",
+      "speaker_tag": "; > Margo: |#0102Trial11_Margo002|",
+      "ja": "悪魔の証明というやつね。",
+      "zh": "就是所谓的“恶魔的证明”吧。",
+      "vi": "Đó là cái gọi là \"bằng chứng của quỷ\".",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden025",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden025|",
+      "ja": "ええ。<br>看守は鍵を肌身離さず<br>身につけていたはずなんですがねぇ……。",
+      "zh": "是的。<br>\n不过看守本该是<br>\n钥匙不离身的才对……",
+      "vi": "Vâng. Nhưng lẽ ra Cai Ngục phải Bạn không bao giờ nên để lại chìa khóa của mình...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden026",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden026|",
+      "ja": "それに懲罰房の鍵を開ける用事は<br>今日はなかったはずなんですよ。",
+      "zh": "而且今天应该没有要事<br>\n需要开惩罚室的门锁。",
+      "vi": "Và hôm nay chắc không có gì quan trọng Khóa cửa Phòng Kỷ Luật Biệt Giam Biệt Giam cần được mở khóa.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden027",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden027|",
+      "ja": "たとえ看守から鍵を盗もうとしようものなら、<br>相手が透明人間であろうと<br>殺してしまうでしょうし……。",
+      "zh": "即便有人想从看守手里偷走钥匙，<br>\n哪怕是透明人<br>\n也会被看守杀掉……",
+      "vi": "Ngay cả khi ai đó cố gắng lấy trộm chìa khóa từ Cai Ngục, Ngay cả một người minh bạch Anh ta cũng sẽ bị giết bởi Cai Ngục...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Jailer003",
+      "speaker_tag": "; > Jailer: |#0102Trial11_Jailer003|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0102Trial11_Nanoka004|",
+      "ja": "……随分な自信ね。",
+      "zh": "……真有自信啊。",
+      "vi": "...thật tự tin.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden028",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden028|",
+      "ja": "それはそういう存在なのですよ。",
+      "zh": "因为它就是专门做这事的。",
+      "vi": "Bởi vì đó là những gì nó được thiết kế để làm.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema019",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema019|",
+      "ja": "……でも、そうだとしたら<br>尚更おかしくないかな？",
+      "zh": "……但如果是这样的话，<br>\n不是更奇怪了吗？",
+      "vi": "…nhưng nếu đúng như vậy, Chẳng phải nó còn kỳ lạ hơn sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema020",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema020|",
+      "ja": "ナノカちゃんが持っていたこの鍵のこと、<br>どう説明するの？",
+      "zh": "你怎么解释<br>\n奈叶香手里的这把钥匙？",
+      "vi": "Bạn giải thích thế nào Chiếc chìa khóa này trong tay Nanoyaka?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden029",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden029|",
+      "ja": "それは……困りました。<br>私どもは、何らかのミスを認めなくては<br>いけないようですね。",
+      "zh": "这……我也说不好。<br>\n看来，我们得承认<br>\n工作失误了呢。",
+      "vi": "Điều này... tôi không thể nói rõ ràng. Có vẻ như chúng ta phải thừa nhận Tôi đã phạm sai lầm trong công việc.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden030",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden030|",
+      "ja": "しかし看守が共犯なんてありえません。<br>看守がそんな意思を持てるはずがありませんから。",
+      "zh": "但看守不可能是共犯。<br>\n因为它们并没有这样的自主意识。",
+      "vi": "Nhưng những Cai Ngục không thể là đồng phạm. Bởi vì họ không có ý thức tự chủ như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden031",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden031|",
+      "ja": "それに看守が囚人の言う事を聞いてたら、<br>仕事にならないじゃないですか。",
+      "zh": "而且看守要是听从囚犯的话，<br>\n岂不是无法正常工作了吗。",
+      "vi": "Và nếu Cai Ngục lắng nghe tù nhân, Nó sẽ không thể hoạt động bình thường được sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden032",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden032|",
+      "ja": "それともエマさん……<br>あなたは何か看守を従わせる方法に<br>心当たりがありますか？",
+      "zh": "还是说，艾玛小姐……<br>\n你知道什么<br>\n让看守听从命令的方法？",
+      "vi": "Hoặc, cô Ema... Bạn biết gì Làm thế nào để Cai Ngục tuân lệnh?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema021",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema021|",
+      "ja": "（看守を従わせる方法……それは）",
+      "zh": "（让看守听从命令的方法……）",
+      "vi": "(Làm sao để lính gác tuân lệnh...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Choice004",
+      "speaker_tag": "; > @choice |#0102Trial11_Choice004|",
+      "ja": "心当たりがある",
+      "zh": "我知道",
+      "vi": "tôi biết",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Choice005",
+      "speaker_tag": "; > @choice |#0102Trial11_Choice005|",
+      "ja": "心当たりはない",
+      "zh": "我不清楚",
+      "vi": "tôi không biết",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Choice006",
+      "speaker_tag": "; > @choice |#0102Trial11_Choice006|",
+      "ja": "今は証明不可能",
+      "zh": "现在无法证明",
+      "vi": "Không thể chứng minh bây giờ",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema022",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema022|",
+      "ja": "心当たりは……ないかな。",
+      "zh": "这……我不太清楚。",
+      "vi": "Điều này... tôi không chắc.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden033",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden033|",
+      "ja": "やはりそうですよね。<br>ではエマさんの考え違いということで……。",
+      "zh": "如我所料呢。<br>\n那么就当是你想错了吧……",
+      "vi": "Đúng như tôi mong đợi. Thế thì cứ cho là mình sai đi...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema023",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema023|",
+      "ja": "（な、なかったことにされちゃった……！）",
+      "zh": "（被、被无视了……！）",
+      "vi": "(Tôi đã, đã bị phớt lờ...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Meruru004",
+      "speaker_tag": "; > Meruru: |#0102Trial11_Meruru004|",
+      "ja": "……エ、エマさん。<br>本当にないんでしょうか……？<br>私たちの中に、看守を従わせられる人は……。",
+      "zh": "……艾、艾玛小姐。<br>\n在我们当中……<br>\n真的没有人能让看守听从命令吗……？",
+      "vi": "...Ai, cô Ema. Trong số chúng ta… Thực sự không có ai có thể khiến Cai Ngục tuân theo mệnh lệnh sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema024",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema024|",
+      "ja": "（そんな人、いたかな……。<br>　魔女図鑑にはたしかみんなの情報も<br>　載ってたけど……）",
+      "zh": "（有这样的人吗……<br>\n魔女图鉴里倒是记录了<br>\n所有人的信息……）",
+      "vi": "(Có người như vậy không... Ghi chép về cuốn sách minh họa của phù thủy Thông tin của mọi người…)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema025",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema025|",
+      "ja": "今はまだ、証明できない……。",
+      "zh": "现在，我没办法证明……",
+      "vi": "Bây giờ tôi không thể chứng minh điều đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Margo003",
+      "speaker_tag": "; > Margo: |#0102Trial11_Margo003|",
+      "ja": "ならいつ証明できるのかしら。",
+      "zh": "那什么时候能证明呢。",
+      "vi": "Khi nào nó sẽ được chứng minh?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema026",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema026|",
+      "ja": "それはその……たぶん、いつか……。",
+      "zh": "这个嘛……可能，之后吧……",
+      "vi": "À... có lẽ, sau này...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden034",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden034|",
+      "ja": "では私たちの証言はここで終わりということで……。",
+      "zh": "那我们的作证就到此为止……",
+      "vi": "Vậy thì lời khai của chúng ta kết thúc ở đây...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema027",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema027|",
+      "ja": "ま、待って！",
+      "zh": "等、等下！",
+      "vi": "Đợi đã, chờ đã!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden035",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden035|",
+      "ja": "……しょうがありませんね。<br>少しだけですよ？<br>もう待ちませんからね？",
+      "zh": "……真拿你没办法。<br>\n就再等你一小会吧？<br>\n没有下次机会了哦？",
+      "vi": "…Tôi thực sự không thể làm gì được cô. Đợi anh một chút nhé, được không? Không có cơ hội tiếp theo, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema028",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema028|",
+      "ja": "（こ、この裁判に次はない……！<br>　今考えるんだ……！）",
+      "zh": "（没、没有下次机会了……！<br>\n现在就要想出来……！）",
+      "vi": "(Không, sẽ không có cơ hội tiếp theo...! Tôi phải tìm ra nó ngay bây giờ...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Meruru005",
+      "speaker_tag": "; > Meruru: |#0102Trial11_Meruru005|",
+      "ja": "……エ、エマさん。<br>本当にないんでしょうか……？<br>私たちの中に、看守を従わせられる人は……。",
+      "zh": "……艾、艾玛小姐。<br>\n在我们当中……<br>\n真的没有人能让看守听从命令吗……？",
+      "vi": "...Ai, cô Ema. Trong số chúng ta… Thực sự không có ai có thể khiến Cai Ngục tuân theo mệnh lệnh sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema029",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema029|",
+      "ja": "（そんな人、いたかな……。<br>　魔女図鑑にはたしかみんなの情報も<br>　載ってたけど……）",
+      "zh": "（有这样的人吗……<br>\n魔女图鉴里倒是记录了<br>\n所有人的信息……）",
+      "vi": "(Có người như vậy không... Ghi chép về cuốn sách minh họa của phù thủy Thông tin của mọi người…)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema030",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema030|",
+      "ja": "……あるよ。",
+      "zh": "……我知道。",
+      "vi": "...Tôi biết.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden036",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden036|",
+      "ja": "それはいったいどうやって？",
+      "zh": "那究竟用怎样的方法？",
+      "vi": "Vậy phương pháp nào được sử dụng?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema031",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema031|",
+      "ja": "（この人なら……その方法を熟知しているはず……！）",
+      "zh": "（这个人……一定熟知让看守听话的方法……！）",
+      "vi": "(Người này… chắc chắn phải biết cách khiến Cai Ngục tuân lệnh…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema032",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema032|",
+      "ja": "看守を従わせる方法を知っているのは、<br>このボクだよ！",
+      "zh": "知道如何让看守听从命令的人<br>\n就是我！",
+      "vi": "Người biết cách bắt Cai Ngục tuân lệnh Đó là tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Sherry001",
+      "speaker_tag": "; > Sherry: |#0102Trial11_Sherry001|",
+      "ja": "それはどうやって聞かせるんですか！？",
+      "zh": "要怎么做才能让它听话呢！？",
+      "vi": "Tôi có thể làm gì để khiến nó vâng lời? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema033",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema033|",
+      "ja": "看守は頼めばお願いぐらい聞いてくれたんだ！",
+      "zh": "只要拜托它，它还是会听的！",
+      "vi": "Chỉ cần hỏi nó, và nó vẫn sẽ lắng nghe!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema034",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema034|",
+      "ja": "ね！<br>ほら、こっち来て！",
+      "zh": "对吧！<br>\n来，过来！",
+      "vi": "Đúng rồi! Đến, đến!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Jailer004",
+      "speaker_tag": "; > Jailer: |#0102Trial11_Jailer004|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Sherry002",
+      "speaker_tag": "; > Sherry: |#0102Trial11_Sherry002|",
+      "ja": "来ませんね！",
+      "zh": "一点不动呢！",
+      "vi": "Không hề di chuyển chút nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Coco005",
+      "speaker_tag": "; > Coco: |#0102Trial11_Coco005|",
+      "ja": "あてぃしだって行かねーわ。",
+      "zh": "要是我我也不会动。",
+      "vi": "Nếu là Coco, Coco sẽ không cử động.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema035",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema035|",
+      "ja": "（ボクの勘違いだったみたい……！）",
+      "zh": "（看来是我搞错了……！）",
+      "vi": "(Có vẻ như mình đã nhầm lẫn...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden037",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden037|",
+      "ja": "……もう一度聞きましょうか、エマさん。<br>【看守を従わせる方法】に心当たりは？",
+      "zh": "……那再问你一遍吧，艾玛小姐。<br>\n你知道【让看守听从命令的方法】吗？",
+      "vi": "...Vậy để tôi hỏi lại cô, cô Ema. Bạn có biết [cách khiến Cai Ngục tuân theo mệnh lệnh] không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema036",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema036|",
+      "ja": "アリサちゃんなら、<br>看守を従わせられるよ！",
+      "zh": "亚里沙可以让看守听话！<br>",
+      "vi": "Alisa có thể khiến Cai Ngục tuân theo!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Alisa003",
+      "speaker_tag": "; > Alisa: |#0102Trial11_Alisa003|",
+      "ja": "ウチが……！？<br>ど、どうやってだよ！",
+      "zh": "我……！？<br>\n怎、怎么搞啊！",
+      "vi": "Tao...! ? Cái gì, làm thế nào để làm điều đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema037",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema037|",
+      "ja": "……ど、恫喝したらきっと……！",
+      "zh": "……只、只要威吓它一下肯定就能……！",
+      "vi": "...Chỉ cần cậu đe dọa nó, nó chắc chắn sẽ làm được...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Alisa004",
+      "speaker_tag": "; > Alisa: |#0102Trial11_Alisa004|",
+      "ja": "あぁん！？ ふざけんなコラァ！",
+      "zh": "啊啊！？少胡说八道了啊！",
+      "vi": "À! ? Đừng nói nhảm nữa!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema038",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema038|",
+      "ja": "ご、ごめんなさい……！",
+      "zh": "对、对不起……！",
+      "vi": "Vâng, tôi xin lỗi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden038",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden038|",
+      "ja": "……もう一度聞きましょうか、エマさん。<br>【看守を従わせる方法】に心当たりは？",
+      "zh": "……那再问你一遍吧，艾玛小姐。<br>\n你知道【让看守听从命令的方法】吗？",
+      "vi": "...Vậy để tôi hỏi lại cô, cô Ema. Bạn có biết [cách khiến Cai Ngục tuân theo mệnh lệnh] không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema039",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema039|",
+      "ja": "シェリーちゃん！<br>キミなら看守を従わせられるよね！",
+      "zh": "雪莉！<br>\n你应该可以让看守听话吧！",
+      "vi": "Sherry! Bạn sẽ có thể làm cho các Cai Ngục tuân theo!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Sherry003",
+      "speaker_tag": "; > Sherry: |#0102Trial11_Sherry003|",
+      "ja": "そうなんですか！？<br>どうやって！？",
+      "zh": "真的吗！？<br>\n怎么做！？",
+      "vi": "Thật sao? ? Làm thế nào để làm điều đó! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema040",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema040|",
+      "ja": "力ずくならきっと……！",
+      "zh": "用蛮力肯定就能……！",
+      "vi": "Bạn chắc chắn có thể làm điều đó bằng vũ lực...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Sherry004",
+      "speaker_tag": "; > Sherry: |#0102Trial11_Sherry004|",
+      "ja": "きっと無理だと思います！",
+      "zh": "肯定是不行的啦！",
+      "vi": "Nó chắc chắn sẽ không hoạt động!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema041",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema041|",
+      "ja": "（笑顔で否定されちゃった……！）",
+      "zh": "（被笑着否定了……！）",
+      "vi": "(Từ chối với một nụ cười...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden039",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden039|",
+      "ja": "……もう一度聞きましょうか、エマさん。<br>【看守を従わせる方法】に心当たりは？",
+      "zh": "……那再问你一遍吧，艾玛小姐。<br>\n你知道【让看守听从命令的方法】吗？",
+      "vi": "...Vậy để tôi hỏi lại cô, cô Ema. Bạn có biết [cách khiến Cai Ngục tuân theo mệnh lệnh] không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Sherry005",
+      "speaker_tag": "; > Sherry: |#0102Trial11_Sherry005|",
+      "ja": "その人が従わせられたとは思えませんね！<br>ええ！ 全然！！",
+      "zh": "那个人决不可能让看守听话！<br>\n嗯！绝对不可能！！",
+      "vi": "Không đời nào người đàn ông đó có thể khiến Cai Ngục tuân theo! Vâng! Tuyệt đối không thể được! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema042",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema042|",
+      "ja": "（全力で否定されちゃった……！）",
+      "zh": "（被全力否定了……！）",
+      "vi": "(Nó đã bị phủ nhận hoàn toàn...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden040",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden040|",
+      "ja": "……もう一度聞きましょうか、エマさん。<br>【看守を従わせる方法】に心当たりは？",
+      "zh": "……那再问你一遍吧，艾玛小姐。<br>\n你知道【让看守听从命令的方法】吗？",
+      "vi": "...Vậy để tôi hỏi lại cô, cô Ema. Bạn có biết [cách khiến Cai Ngục tuân theo mệnh lệnh] không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema043",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema043|",
+      "ja": "ナノカちゃんならもしかして……！",
+      "zh": "奈叶香也许能……！",
+      "vi": "Nanoyaka có thể sẽ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0102Trial11_Nanoka005|",
+      "ja": "……無理よ。",
+      "zh": "……我不行。",
+      "vi": "...Tôi không thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema044",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema044|",
+      "ja": "えっ",
+      "zh": "欸？",
+      "vi": "Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0102Trial11_Nanoka006|",
+      "ja": "絶対に……無理。<br>試したもの。",
+      "zh": "绝对……不可能。<br>\n我试过了。",
+      "vi": "Tuyệt đối...không thể được. Tôi đã thử nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema045",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema045|",
+      "ja": "そ、そっか……。",
+      "zh": "是、是吗……",
+      "vi": "Vâng, vâng...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema046",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema046|",
+      "ja": "（なんだかよくわからないけど……<br>　悲しませちゃったみたい）",
+      "zh": "（不知道怎么回事……<br>\n好像让她伤心了）",
+      "vi": "(Tôi không biết chuyện gì đang xảy ra... Có vẻ như nó làm cô ấy buồn)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Warden041",
+      "speaker_tag": "; > Warden: |#0102Trial11_Warden041|",
+      "ja": "……もう一度聞きましょうか、エマさん。<br>【看守を従わせる方法】に心当たりは？",
+      "zh": "……那再问你一遍吧，艾玛小姐。<br>\n你知道【让看守听从命令的方法】吗？",
+      "vi": "...Vậy để tôi hỏi lại cô, cô Ema. Bạn có biết [cách khiến Cai Ngục tuân theo mệnh lệnh] không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema047",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema047|",
+      "ja": "キミなら……できるはずだよ。",
+      "zh": "如果是你……应该能做到。",
+      "vi": "Nếu là bạn... bạn sẽ làm được điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema048",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema048|",
+      "ja": "キミの【魔法】なら……。",
+      "zh": "你的【魔法】……",
+      "vi": "[Phép thuật] của bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema049",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema049|",
+      "ja": "看守を操れるはずだ！<br>夏目アンアンちゃん。",
+      "zh": "应该可以操控看守！<br>\n夏目安安。",
+      "vi": "Bạn sẽ có thể kiểm soát các vệ sĩ! -Natsume đã an toàn.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn003",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn003|",
+      "ja": "ぐっ……！？",
+      "zh": "呃……！？",
+      "vi": "Ờ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema050",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema050|",
+      "ja": "【看守は機械ではない】……<br>ゴクチョーはそう言ってたよね。",
+      "zh": "【看守并不是机器】……<br>\n典狱长刚刚是这么说的吧。",
+      "vi": "[Cai Ngục không phải là cái máy]...... Đó là những gì quản giáo vừa nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema051",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema051|",
+      "ja": "なら……キミの【言葉で人を操る魔法】で<br>看守を命令通り操れてもおかしくないよ！",
+      "zh": "那么……你也应该能靠【用言语操控人的魔法】<br>\n下达命令操纵看守才对！",
+      "vi": "Vậy thì... bạn cũng có thể dựa vào [sự kỳ diệu của việc điều khiển con người bằng lời nói] Tốt hơn là ra lệnh và kiểm soát Cai Ngục!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn004",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn004|",
+      "ja": "何を……バカなことを……！",
+      "zh": "你在……说什么蠢话……！",
+      "vi": "Bạn đang nói về cái gì vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema052",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema052|",
+      "ja": "だって、元々ミリアちゃんのいた懲罰房は<br>鍵がかかった密室だったはずだ……！",
+      "zh": "因为，米莉亚所在的惩罚室<br>\n本来应该是上锁的密室……！",
+      "vi": "Bởi vì, Phòng Kỷ Luật Biệt Giam Biệt Giam nơi Miria ở Nó được cho là một căn phòng bí mật bị khóa...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema053",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema053|",
+      "ja": "それを開けられたのは……<br>看守に鍵を開けさせられる魔法が使える<br>キミしかいないんじゃないかな！",
+      "zh": "能打开房门的……<br>\n应该就只有能够用魔法<br>\n操控看守开门的你了吧！",
+      "vi": "Có thể mở cửa... Chỉ có thể sử dụng phép thuật Kiểm soát Cai Ngục để mở cửa cho bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn005",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn005|",
+      "ja": "……ぐ、ぐぐ……！",
+      "zh": "……唔、唔唔……！",
+      "vi": "...Ờ-huh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema054",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema054|",
+      "ja": "答えてよ！ アンアンちゃん！",
+      "zh": "回答我啊！安安！",
+      "vi": "Trả lời tôi đi! AnAn!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn006",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn006|",
+      "ja": "……お前……は……！",
+      "zh": "……你这……家伙……！",
+      "vi": "...anh...anh chàng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn007",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn007|",
+      "ja": "……桜羽、エマ……お前は……いつも……！",
+      "zh": "……樱羽、艾玛……你……总是……！",
+      "vi": "...Sakura Yu, Ema...bạn...luôn luôn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn008",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn008|",
+      "ja": "いつもわがはいの邪魔をする……！",
+      "zh": "总是要给吾辈添堵……！",
+      "vi": "Luôn gây rắc rối cho chúng tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema055",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema055|",
+      "ja": "アンアンちゃん……？",
+      "zh": "安安……？",
+      "vi": "AnAn...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn009",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn009|",
+      "ja": "いいだろう、ならば反論してやる……！",
+      "zh": "也罢，那吾辈就来反驳你……！",
+      "vi": "Hãy quên nó đi, sau đó tôi sẽ bác bỏ bạn ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn010",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn010|",
+      "ja": "これまでの議論でわがはいが疑わしいだと？<br>ふざけるなよ。全て憶測だ！",
+      "zh": "竟敢说经过讨论认为吾辈有嫌疑？<br>\n别胡说了。全都是你的揣测！",
+      "vi": "Sao bạn dám nói rằng sau khi thảo luận, bạn cho rằng chúng tôi nghi ngờ? Đừng nói nhảm nữa. Tất cả chỉ là suy đoán của bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn011",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn011|",
+      "ja": "先ほどからの嫌疑、まったく証拠がない！",
+      "zh": "你一直以来的怀疑都毫无根据！",
+      "vi": "Sự nghi ngờ của bạn là không có cơ sở!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn012",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn012|",
+      "ja": "……そんな状況でわがはいに投票するというのか？<br>みなの者、それは間違っているぞ！<br>そう思うだろう……！",
+      "zh": "……在这种情况下还想给吾辈投票？<br>\n诸位，那就是真的犯下大错了！<br>\n吾辈说得没错吧……！",
+      "vi": "...Trong hoàn cảnh như vậy, bạn vẫn muốn bỏ phiếu cho tôi? Mọi người, các bạn thực sự đang phạm sai lầm lớn đấy! Bạn nói đúng đấy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn013",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn013|",
+      "ja": "……<color=#9c8eff><b>【思え】</b></color>っ！！",
+      "zh": "……<color=#9c8eff><b>【没错吧】</b></color>！！",
+      "vi": "...<color=#9c8eff><b>[Đúng vậy]</b></color>! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Hanna002",
+      "speaker_tag": "; > Hanna: |#0102Trial11_Hanna002|",
+      "ja": "……たしかに……そうかも……。",
+      "zh": "……好像……是这样……",
+      "vi": "...có vẻ như...là vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Margo004",
+      "speaker_tag": "; > Margo: |#0102Trial11_Margo004|",
+      "ja": "……なるほど、これがあなたの魔法ね。",
+      "zh": "……原来如此，这就是你的魔法啊。",
+      "vi": "...Chị hiểu rồi, đây là phép thuật của em.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Margo005",
+      "speaker_tag": "; > Margo: |#0102Trial11_Margo005|",
+      "ja": "私もアンアンちゃんに<br>投票するのをやめたくなっちゃった♡",
+      "zh": "我也想放弃<br>\n给安安投票了♡",
+      "vi": "Chị cũng muốn từ bỏ Mình đã bầu cho AnAn♡",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Nanoka007",
+      "speaker_tag": "; > Nanoka: |#0102Trial11_Nanoka007|",
+      "ja": "……たしかにこれは厄介ね。<br>理性では間違っているとわかっていても、<br>その言葉に従いたくなってしまう……。",
+      "zh": "……这能力确实棘手啊。<br>\n哪怕理智上知道不对，<br>\n也会情不自禁地想听从她的话……",
+      "vi": "...Khả năng này thực sự rất phức tạp. Ngay cả khi về mặt trí tuệ bạn biết rằng có điều gì đó không ổn, Tôi không thể không muốn nghe cô ấy nói...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Nanoka008",
+      "speaker_tag": "; > Nanoka: |#0102Trial11_Nanoka008|",
+      "ja": "話し合いの場に介入させては<br>いけない力だと思うわ。",
+      "zh": "我觉得你的能力<br>\n不能用在讨论之中。",
+      "vi": "Tôi nghĩ khả năng của bạn Nó không thể được sử dụng trong các cuộc thảo luận.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Nanoka009",
+      "speaker_tag": "; > Nanoka: |#0102Trial11_Nanoka009|",
+      "ja": "……けれど私の理性は<br>あなたを犯人だと思っている。<br>この気持ちは、折れない……！",
+      "zh": "……但我理智上认为<br>\n你就是凶手。<br>\n这点我决不会屈服……！",
+      "vi": "…Nhưng về mặt trí tuệ tôi nghĩ Bạn là kẻ giết người. Tôi sẽ không bao giờ nhượng bộ chuyện này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Coco006",
+      "speaker_tag": "; > Coco: |#0102Trial11_Coco006|",
+      "ja": "そう？ なんかあてぃしは<br>どうでもよくなって来たけど……。<br>投票、しなくていんじゃない……？",
+      "zh": "是吗？我觉得<br>\n爱怎样怎样吧……<br>\n用得着投什么票吗……？",
+      "vi": "Thật sao? Coco nghĩ Hãy làm bất cứ điều gì bạn muốn... Bạn có cần bỏ phiếu cho điều gì không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_Ema056",
+      "speaker_tag": "; > Ema: |#0102Trial11_Ema056|",
+      "ja": "み、みんな心を強くもって……！",
+      "zh": "请、请大家都坚定一点……！",
+      "vi": "Xin mọi người hãy vững vàng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial11_AnAn014",
+      "speaker_tag": "; > AnAn: |#0102Trial11_AnAn014|",
+      "ja": "わがはいの言葉を……<color=#9c8eff><b>【聞け】</b></color>！！",
+      "zh": "吾辈的话……可都<color=#9c8eff><b>【听好了】</b></color>！！",
+      "vi": "Lời của tôi... đều là <color=#9c8eff><b>[Nghe kỹ]</b></color>! !",
+      "objection_links": []
+    }
+  ]
+}

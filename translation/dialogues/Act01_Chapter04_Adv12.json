@@ -1,0 +1,168 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter04_Adv12",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter04/Act01_Chapter04_Adv12' Naninovel scenario script",
+  "total_entries": 20,
+  "entries": [
+    {
+      "id": "0104Adv12_Narrative001",
+      "speaker_tag": "",
+      "ja": "牢屋敷内に、荘厳な鐘が鳴り響く。",
+      "zh": "一道庄严的钟声在监牢内响起。",
+      "vi": "Một tiếng chuông long trọng vang lên trong Ngục Dinh Thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Ema001",
+      "speaker_tag": "; > Ema: |#0104Adv12_Ema001|",
+      "ja": "（裁判がはじまる――）",
+      "zh": "（审判要开始了——）",
+      "vi": "(Phiên tòa sắp bắt đầu——)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Narrative002",
+      "speaker_tag": "",
+      "ja": "通知音が聞こえて、<br>エマは自身のスマホを確認する。",
+      "zh": "听到提示音后，<br>\n艾玛看了眼自己的手机。",
+      "vi": "Sau khi nghe thấy tiếng bíp, Ema liếc nhìn điện thoại của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Narrative003",
+      "speaker_tag": "",
+      "ja": "『魔女裁判の時間となりました』",
+      "zh": "『魔女审判即将开始』",
+      "vi": "\"Phiên tòa xét xử phù thủy sắp bắt đầu\"",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Narrative004",
+      "speaker_tag": "",
+      "ja": "『皆さん、必ず自身のスマホを持って、<br>　速やかに裁判部屋に集合してください』",
+      "zh": "『请大家务必带好自己的手机，<br>\n迅速到审判庭集合』",
+      "vi": "\"Hãy nhớ mang theo điện thoại di động của bạn, Tập hợp tại tòa án nhanh chóng.』",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Narrative005",
+      "speaker_tag": "",
+      "ja": "『従わない者は看守によって<br>　強制連行します』",
+      "zh": "『如有不遵守者，将由看守强制带走』<br>",
+      "vi": "\"Ai không tuân thủ sẽ bị Cai Ngục cưỡng bức dẫn đi\"",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Narrative006",
+      "speaker_tag": "",
+      "ja": "『ちなみに紫藤アリサさんのご遺体は、<br>　一度処刑台を下げて片づけておきましたので……』",
+      "zh": "『顺带通知一下，紫藤亚里沙小姐的遗体<br>\n已经从处刑台上搬下来并妥善处理好了……』",
+      "vi": "\"Nhân tiện, tôi muốn thông báo với bạn rằng thi thể của cô Alisa Wisteria là Nó đã bị xóa khỏi nền tảng thực thi và được xử lý đúng cách...\"",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Ema002",
+      "speaker_tag": "; > Ema: |#0104Adv12_Ema002|",
+      "ja": "（アリサちゃん……）",
+      "zh": "（亚里沙……）",
+      "vi": "（Alisa……）",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Narrative007",
+      "speaker_tag": "",
+      "ja": "裁判所に入ると、<br>少女たちの目が一斉にエマに向く。",
+      "zh": "当艾玛走进审判庭时，<br>\n在场的每一位少女都把目光投向了她。",
+      "vi": "Khi Ema bước vào Tòa án dị giáo, Mọi cô gái có mặt đều hướng sự chú ý về phía cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Narrative008",
+      "speaker_tag": "",
+      "ja": "メルル、ココ、マーゴ。",
+      "zh": "梅露露，可可，玛格。",
+      "vi": "Meruru, Coco, Mag.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Ema003",
+      "speaker_tag": "; > Ema: |#0104Adv12_Ema003|",
+      "ja": "（こんな人数で裁判するなんて……）",
+      "zh": "（难以相信，参加审判的只剩下我们几个了……）",
+      "vi": "(Thật khó để tin rằng chúng tôi là những người duy nhất tham gia thử nghiệm...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Margo001",
+      "speaker_tag": "; > Margo: |#0104Adv12_Margo001|",
+      "ja": "ナノカちゃん、来ないようね……。",
+      "zh": "奈叶香看来是不会来了……",
+      "vi": "Có vẻ như Nanoyaka sẽ không đến...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Coco001",
+      "speaker_tag": "; > Coco: |#0104Adv12_Coco001|",
+      "ja": "どうせあいつが犯人なんじゃねーの。",
+      "zh": "反正搞不好凶手就是她。",
+      "vi": "Dù sao đi nữa, cô ấy có thể là kẻ giết người.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Ema004",
+      "speaker_tag": "; > Ema: |#0104Adv12_Ema004|",
+      "ja": "ナノカちゃんはそんなことしないよ！",
+      "zh": "奈叶香才不会杀人！",
+      "vi": "Nanoyaka không biết cách giết người!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Coco002",
+      "speaker_tag": "; > Coco: |#0104Adv12_Coco002|",
+      "ja": "まーだそんなこと言ってんのかよ。<br>どれだけ庇っても、誰かが犯人なんだろうがよ。",
+      "zh": "你怎么还在说这种话。<br>\n不管怎么辩解，肯定是这里的某个人下的手好不好。",
+      "vi": "Tại sao bạn vẫn nói điều này? Dù bạn có bảo vệ nó thế nào đi chăng nữa thì ở đây chắc chắn phải có ai đó đã làm điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Meruru001",
+      "speaker_tag": "; > Meruru: |#0104Adv12_Meruru001|",
+      "ja": "う、うぅ……ナノカさん抜きで、<br>進めてしまっていいんでしょうか……。",
+      "zh": "唔……奈叶香没有到场，<br>\n直接就开始审判真的好吗……",
+      "vi": "Ừm... Nanoyaka không có mặt, Trực tiếp bắt đầu thử nghiệm có thực sự ổn không...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Warden001",
+      "speaker_tag": "; > Warden: |#0104Adv12_Warden001|",
+      "ja": "そうですねぇ、困りましたねぇ……。<br>ただ探しても見つからなかったので<br>仕方ありませんよね……。",
+      "zh": "是啊，真头疼……<br>\n可是到处找都找不到她，<br>\n也没有办法了……",
+      "vi": "Ừ, đau đầu quá... Nhưng tôi không tìm thấy cô ấy ở đâu cả, Không có cách nào khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Warden002",
+      "speaker_tag": "; > Warden: |#0104Adv12_Warden002|",
+      "ja": "４名で始めてしまいましょう。",
+      "zh": "就现在四个人开始吧。",
+      "vi": "Bây giờ hãy bắt đầu với bốn người.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Narrative009",
+      "speaker_tag": "",
+      "ja": "４名の少女たちは証言台に立つ。",
+      "zh": "四位少女站上了证人席。",
+      "vi": "Bốn cô gái đứng lên làm nhân chứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv12_Warden003",
+      "speaker_tag": "; > Warden: |#0104Adv12_Warden003|",
+      "ja": "それでは、魔女裁判開廷です！",
+      "zh": "那么，魔女审判现在开庭！",
+      "vi": "Chà, Phiên tòa xét xử phù thủy đã bắt đầu!",
+      "objection_links": []
+    }
+  ]
+}

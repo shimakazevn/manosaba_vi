@@ -1,0 +1,432 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Adv12",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Adv12' Naninovel scenario script",
+  "total_entries": 53,
+  "entries": [
+    {
+      "id": "0101Adv12_Narrative001",
+      "speaker_tag": "",
+      "ja": "エマたちは囚人が最も利用するであろう、<br>２階にある娯楽室へとやってきた。",
+      "zh": "艾玛她们来到了二楼的娱乐室。<br>\n这里应该是囚犯最常来的地方。",
+      "vi": "Ema và Sherry bước vào Phòng Giải Trí ở tầng hai, nơi các phạm nhân có thể thư giãn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Sherry001",
+      "speaker_tag": "; > Sherry: |#0101Adv12_Sherry001|",
+      "ja": "おお、ここは正に憩いの場ですね！",
+      "zh": "呀，这里正是适合休息的地方耶！",
+      "vi": "Oa, đúng là một không gian nghỉ ngơi thư giãn lý tưởng thật đấy!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative002",
+      "speaker_tag": "",
+      "ja": "広い室内は、柔らかいカーペットで覆われて<br>くつろげるソファーもいくつかある。",
+      "zh": "宽广的室内铺着柔软的地毯，<br>\n设置有舒适宜居的沙发。",
+      "vi": "Căn phòng rộng rãi được trải thảm êm ái, xung quanh kê nhiều bộ sofa bọc nhung mềm mại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative003",
+      "speaker_tag": "",
+      "ja": "チェスやボードゲーム、ビリヤード台……<br>大型スクリーンやプロジェクターまであった。",
+      "zh": "这里的设备一应俱全。有西洋棋、桌游、桌球台……<br>\n连大型银幕和投影机都有。",
+      "vi": "Ở đây có bàn cờ vua, các trò chơi board game, bàn bida…… thậm chí có cả một màn hình chiếu phim cỡ lớn cùng máy chiếu hiện đại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative004",
+      "speaker_tag": "",
+      "ja": "そして、エマたちより先客がいた。<br>佐伯ミリアがソファに座っていたのだ。",
+      "zh": "有人比艾玛她们先到这里。<br>\n是佐伯米莉亚，她正坐在沙发上。",
+      "vi": "Trong phòng đã có người đến trước từ sớm, đó là Saeki Miria đang ngồi tựa lưng trên sofa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative005",
+      "speaker_tag": "",
+      "ja": "自然、エマとシェリーの視線は、<br>ミリアへ向けられた。",
+      "zh": "艾玛和雪莉的视线自然而然<br>\n转向米莉亚身上。",
+      "vi": "Ánh mắt của Ema và Sherry bất giác hướng về phía Miria.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative006",
+      "speaker_tag": "",
+      "ja": "ミリアは８ミリフィルムで、<br>スクリーンに白黒映画を再生させていた。",
+      "zh": "她正在银幕上<br>\n播放着8mm胶片里的黑白电影。",
+      "vi": "Miria đang dùng cuộn phim 8mm để chiếu một bộ phim đen trắng cổ điển lên màn hình lớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Miria001",
+      "speaker_tag": "; > Miria: |#0101Adv12_Miria001|",
+      "ja": "……はあ。",
+      "zh": "……唉。",
+      "vi": "……Hầy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative007",
+      "speaker_tag": "",
+      "ja": "映画はほぼ見ておらず、<ruby=\"うれ\">憂</ruby>いげなため息をつき。<br>気だるそうに手元のスマホをいじりはじめる。",
+      "zh": "米莉亚发出一声忧郁的叹息。她几乎没在看电影，<br>\n而是面露困倦地按着手机。",
+      "vi": "Cô bé hầu như chẳng buồn nhìn màn hình, chỉ thở dài một tiếng ngao ngán rồi uể oải bấm nghịch chiếc điện thoại trên tay.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative008",
+      "speaker_tag": "",
+      "ja": "彼女の外見に合わせてなのか、<br>ミリアのスマホはキラキラした派手なデコカバーが<br>取り付けられていた。",
+      "zh": "米莉亚的手机上<br>\n也装着一个亮晶晶的豪华保护套，<br>\n看起来相当衬她的外表。",
+      "vi": "Hợp với phong cách nhí nhảnh của cô, chiếc điện thoại của Miria được ốp một chiếc vỏ đính đá lấp lánh vô cùng bắt mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Sherry002",
+      "speaker_tag": "; > Sherry: |#0101Adv12_Sherry002|",
+      "ja": "なんだか安心しません？",
+      "zh": "你不觉得有点安心吗？",
+      "vi": "Chào bạn Miria nha! Bạn đang xem phim gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema001",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema001|",
+      "ja": "え？",
+      "zh": "欸？",
+      "vi": "Miria-chan không đi dạo xung quanh khám phá sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Sherry003",
+      "speaker_tag": "; > Sherry: |#0101Adv12_Sherry003|",
+      "ja": "いやぁ、学校によくいる女子の光景だなぁって。",
+      "zh": "哎呀，就是感觉，学校里面常见的女孩子就是这个样子的啦。",
+      "vi": "Lạc quan ghê luôn á!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema002",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema002|",
+      "ja": "（たしかに……派手グループにいそう……。<br>　口もきいたこともないタイプだけど……）",
+      "zh": "（确实……感觉她应该属于班上最引人注目的小团体……<br>\n是我从来不敢搭话的那类人……）",
+      "vi": "(Thật vậy... tôi cảm thấy cô ấy nên thuộc nhóm bắt mắt nhất lớp... Họ là loại người mà tôi không bao giờ dám nói chuyện cùng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative009",
+      "speaker_tag": "",
+      "ja": "――と。",
+      "zh": "——接着。",
+      "vi": "--Tiếp tục đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Miria002",
+      "speaker_tag": "; > Miria: |#0101Adv12_Miria002|",
+      "ja": "わぁっ！",
+      "zh": "哇啊！",
+      "vi": "A, chào Sherry-chan với Ema-chan nè~ Mình chỉ bật đại một phim lên xem cho đỡ chán thôi á.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative010",
+      "speaker_tag": "",
+      "ja": "唐突にミリアが肩をびくんと跳ねさせたので、<br>エマとシェリーも驚く。",
+      "zh": "米莉亚的肩膀忽然夸张地颤抖了一下，<br>\n害艾玛和雪莉也吓了一跳。",
+      "vi": "Vai của Miria đột nhiên run rẩy quá mức, Ema và Sherry cũng bị sốc.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Sherry004",
+      "speaker_tag": "; > Sherry: |#0101Adv12_Sherry004|",
+      "ja": "どうしましたミリアさん！？",
+      "zh": "你怎么啦米莉亚！？",
+      "vi": "Có chuyện gì với bạn thế, Miria! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Miria003",
+      "speaker_tag": "; > Miria: |#0101Adv12_Miria003|",
+      "ja": "あ、えっと……誰だっけ。<br>ごめん、まだ顔と名前一致してなくて。良くないよね。",
+      "zh": "啊，呃……叫什么来着。<br>\n不好意思，我还记不太清楚你们的长相和名字。对不起啦。",
+      "vi": "Đi làm chi cho mệt người nè~ Đằng nào cũng bị nhốt ở đây rồi, chi bằng cứ nằm chill ở đây cho sướng thân, hihi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative011",
+      "speaker_tag": "",
+      "ja": "駆け寄ったエマとシェリーを前に、<br>ミリアは戸惑いの表情を浮かべている。",
+      "zh": "面对刚来的艾玛和雪莉，<br>\n米莉亚露出了不知所措的神色。",
+      "vi": "Đối mặt với Ema và Sherry mới đến, Miria trông có vẻ hoang mang.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Sherry005",
+      "speaker_tag": "; > Sherry: |#0101Adv12_Sherry005|",
+      "ja": "橘シェリーです。この子は、桜羽エマさん。<br>で、何に驚いてたんですか？",
+      "zh": "我叫橘雪莉，她是樱羽艾玛。<br>\n我说，你刚才是被什么吓到了？",
+      "vi": "Tên tôi là Tachibana Sherry, còn cô ấy là Sakuraba Ema. Tôi nói, vừa rồi điều gì khiến bạn sợ hãi?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Miria004",
+      "speaker_tag": "; > Miria: |#0101Adv12_Miria004|",
+      "ja": "そ、そう。スマホを見てたら、<br>いきなり猫耳の子が映って。<br>君らのスマホでも見れるかも。",
+      "zh": "是、是吗。我刚刚在看手机，<br>\n突然有个猫耳女孩子出现在屏幕上。<br>\n你们的手机应该也可以看到。",
+      "vi": "Thì phải sống vui vẻ chứ sao giờ nè~ Cơ mà đồ ăn ở đây dở tệ hại luôn á, ước gì có trà sữa trân châu uống thì tuyệt cú mèo biết bao!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema003",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema003|",
+      "ja": "（スマホに映った……？）",
+      "zh": "（出现在手机里……？）",
+      "vi": "(Xuất hiện trên điện thoại...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative012",
+      "speaker_tag": "",
+      "ja": "エマは持ち歩いている自分のスマホを取り出し、<br>起動させた。",
+      "zh": "艾玛打开了自己的手机。<br>",
+      "vi": "Ema bật điện thoại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative013",
+      "speaker_tag": "",
+      "ja": "すると、囚人一覧の『沢渡ココ』が、<br>配信中であるという表示が出ていた。",
+      "zh": "接着，她就看到囚犯名单上的“泽渡可可”那边<br>\n显示“正在直播”。",
+      "vi": "Sau đó, cô nhìn thấy \"Coco Sawatari\" trong danh sách tù nhân \"Phát sóng trực tiếp\" được hiển thị.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative014",
+      "speaker_tag": "",
+      "ja": "表示させてみると、<br>画面にココの顔がアップで映る。",
+      "zh": "点开之后，<br>\n可可的大脸立刻占领了整个屏幕。",
+      "vi": "Sau khi nhấp vào nó, Khuôn mặt to lớn của Coco ngay lập tức chiếm trọn toàn bộ màn hình.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema004",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema004|",
+      "ja": "わぁっ！",
+      "zh": "哇啊！",
+      "vi": "Ôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema005",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema005|",
+      "ja": "（ミリアちゃんと同じ反応しちゃった……）",
+      "zh": "（和米莉亚做了一模一样的反应……）",
+      "vi": "(Miria cũng có phản ứng tương tự...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Sherry006",
+      "speaker_tag": "; > Sherry: |#0101Adv12_Sherry006|",
+      "ja": "へえ～このアプリ、配信もできるんですね！",
+      "zh": "欸～这个APP居然还可以直播耶！",
+      "vi": "Này ~ APP này thực sự có thể phát sóng trực tiếp!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative015",
+      "speaker_tag": "",
+      "ja": "シェリーも感心したように自分のスマホを見ている。<br>画面の中のココは、はしゃいだ様子で<ruby=\"しゃべ\">喋</ruby>りだす。",
+      "zh": "雪莉看着自己的手机，十分感慨地说道。<br>\n这时，画面里神情兴奋的可可也开始发言。",
+      "vi": "Sherry nhìn vào điện thoại của mình và nói với vẻ xúc động. Lúc này, Coco, người trong ảnh trông có vẻ phấn khích cũng bắt đầu lên tiếng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Coco001",
+      "speaker_tag": "; > Coco: |#0101Adv12_Coco001|",
+      "ja": "どもども～ココたんだよ～！<br>今日からあてぃしの配信がはじまるよ～！ みんな見ろよ～！",
+      "zh": "大家好～我是可可碳～！<br>\n今天开始我会经常开直播～！记得多来看哦～！",
+      "vi": "Xin chào mọi người ~ Coco là Coco Carbon ~! Bắt đầu từ hôm nay, Coco sẽ phát sóng trực tiếp thường xuyên~! Hãy nhớ đến và xem thêm nhé~!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Coco002",
+      "speaker_tag": "; > Coco: |#0101Adv12_Coco002|",
+      "ja": "おっ、同接３！<br>良いペースなんじゃね？ 拡散宣伝よろしくぅ！",
+      "zh": "哦，在线观众3个！<br>\n看来开了个好头？请多多转发推介哦！",
+      "vi": "Ôi, 3 người xem trực tuyến! Có vẻ như là một khởi đầu tốt? Hãy chuyển tiếp và giới thiệu thêm!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Sherry007",
+      "speaker_tag": "; > Sherry: |#0101Adv12_Sherry007|",
+      "ja": "最高同接でも、１１しかいないですよね。",
+      "zh": "可最多也只能同时在线11个人耶。",
+      "vi": "Nhưng chỉ có thể có tối đa 11 người trực tuyến cùng một lúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema006",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema006|",
+      "ja": "それ、言っちゃダメなやつ……。",
+      "zh": "这个是不能直说的吧……",
+      "vi": "Chuyện này không thể nói thẳng được...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Coco003",
+      "speaker_tag": "; > Coco: |#0101Adv12_Coco003|",
+      "ja": "まずは、うーん……あてぃしの趣味について語るか。",
+      "zh": "首先是，嗯……从我的兴趣讲起吧。",
+      "vi": "Trước hết, à... hãy bắt đầu với sở thích của Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Coco004",
+      "speaker_tag": "; > Coco: |#0101Adv12_Coco004|",
+      "ja": "あてぃしは推し活が趣味なのね。",
+      "zh": "我的兴趣就是推活哦。",
+      "vi": "Sở thích của Coco là thúc đẩy công việc.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Coco005",
+      "speaker_tag": "; > Coco: |#0101Adv12_Coco005|",
+      "ja": "推し活こそ我が人生！ 推し以外生きてる価値なし！<br>ほかはみんな死ね！ って感じで――。",
+      "zh": "推活正是我的人生！除了我推都没有活着的价值！<br>\n其他人全都给我去死！就这样子——",
+      "vi": "Đẩy cuộc sống là cuộc sống của Coco! Cuộc sống không có giá trị gì ngoại trừ Coco! Những người khác sẽ chết! Cứ như thế này——",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative016",
+      "speaker_tag": "",
+      "ja": "ほぼ同時に、<br>その場にいる全員が配信を閉じていた。",
+      "zh": "在场所有人几乎同时<br>\n关闭了直播。",
+      "vi": "Hầu hết mọi người đều có mặt Đã tắt chương trình phát sóng trực tiếp.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Sherry008",
+      "speaker_tag": "; > Sherry: |#0101Adv12_Sherry008|",
+      "ja": "時間の無駄でしたね。",
+      "zh": "根本浪费时间呢。",
+      "vi": "Thật là lãng phí thời gian.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema007",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema007|",
+      "ja": "それ、言っちゃダメなやつ……。",
+      "zh": "这个是不能直说的吧……",
+      "vi": "Chuyện này không thể nói thẳng được...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative017",
+      "speaker_tag": "",
+      "ja": "沢渡ココは配信者としては特に魅力的でもなさそうだ、<br>という共通の認識が出来上がった。",
+      "zh": "现场所有人达成了共识：<br>\n泽渡可可毫无作为直播主的吸引力。",
+      "vi": "Mọi người tại hiện trường đều nhất trí: Coco Sawatari không có sức hấp dẫn với tư cách là một phát thanh viên trực tiếp.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema008",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema008|",
+      "ja": "なんのために配信機能なんてついてるんだろう。",
+      "zh": "究竟为什么会有直播的功能呢。",
+      "vi": "Tại sao trên trái đất lại có chức năng phát sóng trực tiếp?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Sherry009",
+      "speaker_tag": "; > Sherry: |#0101Adv12_Sherry009|",
+      "ja": "せめてもの慰みじゃないですか？<br>私たちにとって身近なものですし。",
+      "zh": "算是某种程度的安慰剂吧？<br>\n毕竟是我们日常生活会见到的东西。",
+      "vi": "Đó là một loại giả dược, phải không? Rốt cuộc, đó là thứ chúng ta thấy trong cuộc sống hàng ngày.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema009",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema009|",
+      "ja": "外との連絡手段になったりとかは……。",
+      "zh": "那可不可以当联络外部的手段……",
+      "vi": "Liệu nó có thể được sử dụng như một phương tiện để liên lạc với thế giới bên ngoài không...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Sherry010",
+      "speaker_tag": "; > Sherry: |#0101Adv12_Sherry010|",
+      "ja": "ないでしょうね。<br>そんなザルだとは思えません。",
+      "zh": "不行吧，<br>\n幕后黑手不至于这么笨。",
+      "vi": "Không, Kẻ chủ mưu đằng sau không thể ngu ngốc đến thế.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema010",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema010|",
+      "ja": "だよね……。",
+      "zh": "说得也对……",
+      "vi": "Đúng vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative018",
+      "speaker_tag": "",
+      "ja": "エマとシェリーは気持ちを切り替え、<br>娯楽室の探索をはじめた。",
+      "zh": "艾玛和雪莉重整旗鼓，<br>\n开始探索娱乐室。",
+      "vi": "Ema và Sherry đoàn tụ, Bắt đầu khám phá phòng rec.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative019",
+      "speaker_tag": "",
+      "ja": "エマがキャビネットの中を<ruby=\"のぞ\">覗</ruby>いてみると、<br>古びたフィルムが多数収められていた。",
+      "zh": "艾玛往收纳柜里瞧了瞧，<br>\n里面放满了老旧的胶片。",
+      "vi": "Ema nhìn vào tủ đựng đồ, Nó chứa đầy những bộ phim cũ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema011",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema011|",
+      "ja": "（ミリアちゃん、よくこんな古い映画の再生方法<br>　知ってたな……）",
+      "zh": "（米莉亚竟然懂得怎么播放<br>\n这么老的电影……）",
+      "vi": "(Miria thực sự biết chơi Đúng là một bộ phim cũ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative020",
+      "speaker_tag": "",
+      "ja": "ソファーに座っているミリアは、<br>ぼんやりと白黒映画を眺めたまま<ruby=\"びどう\">微動</ruby>だにしない。",
+      "zh": "坐在沙发上的米莉亚，<br>\n精神散漫地看着黑白电影，一动也不动。",
+      "vi": "Miria ngồi trên ghế sofa, Xem phim đen trắng một cách lơ đãng, bất động.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Miria005",
+      "speaker_tag": "; > Miria: |#0101Adv12_Miria005|",
+      "ja": "はあぁ……。",
+      "zh": "唉……",
+      "vi": "Than ôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Ema012",
+      "speaker_tag": "; > Ema: |#0101Adv12_Ema012|",
+      "ja": "（なんか……心病んでる……？）",
+      "zh": "（感觉……她是不是有些心病……？）",
+      "vi": "(Có cảm giác như... cô ấy bị bệnh tâm thần à...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv12_Narrative021",
+      "speaker_tag": "",
+      "ja": "他にこれといって何も見つからず、<br>エマとシェリーは室内を後にすることにした。",
+      "zh": "艾玛和雪莉再也没找到值得关注的事物，<br>\n于是便离开了娱乐室。",
+      "vi": "Ema và Sherry chưa bao giờ tìm thấy điều gì đáng để quan tâm, Thế là anh rời khỏi Phòng Giải Trí.",
+      "objection_links": []
+    }
+  ]
+}

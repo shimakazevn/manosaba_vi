@@ -1,0 +1,24 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter05_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter05_Adv11",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter05/Act01_Chapter05_Adv11' Naninovel scenario script",
+  "total_entries": 2,
+  "entries": [
+    {
+      "id": "0105Adv11_Hiro001",
+      "speaker_tag": "; > Hiro: |#0105Adv11_Hiro001|",
+      "ja": "――【戻った】、ということか……。",
+      "zh": "——这是【回溯了】吗……",
+      "vi": "---Đây có phải là [quay ngược]...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv11_Hiro002",
+      "speaker_tag": "; > Hiro: |#0105Adv11_Hiro002|",
+      "ja": "それなら、はじめから、やり直さないと。",
+      "zh": "那就得从头开始了。",
+      "vi": "Sau đó bạn phải bắt đầu lại từ đầu.",
+      "objection_links": []
+    }
+  ]
+}

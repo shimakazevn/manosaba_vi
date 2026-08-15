@@ -1,0 +1,808 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Adv14",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Adv14' Naninovel scenario script",
+  "total_entries": 100,
+  "entries": [
+    {
+      "id": "0202Adv14_Narrative001",
+      "speaker_tag": "",
+      "ja": "不満そうなノアを連れて２階へ行く。",
+      "zh": "我正带着一脸不高兴的诺亚前往二楼。",
+      "vi": "Tôi đang đi lên tầng hai với Noah, người trông có vẻ không vui.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative002",
+      "speaker_tag": "",
+      "ja": "ちょうど階段を上りきったところで、<br>スマホに通知が入った。",
+      "zh": "刚上到楼梯尽头，<br>\n手机突然响了起来。",
+      "vi": "Vừa đến cuối cầu thang, Điện thoại đột nhiên vang lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro001|",
+      "ja": "（エマとの約束の時間を過ぎている……。<br>　催促か……？）",
+      "zh": "（已经过了和艾玛约定的时间……<br>\n是她在催我……？）",
+      "vi": "(Thời gian thỏa thuận với Ema đã trôi qua... Có phải cô ấy đang thúc giục tôi...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative003",
+      "speaker_tag": "",
+      "ja": "スマホを取り出してちらりと見る。",
+      "zh": "我拿起手机瞟了一眼。",
+      "vi": "Tôi nhấc điện thoại lên và liếc nhìn nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative004",
+      "speaker_tag": "",
+      "ja": "するとそこには<br>【ココちゃん配信中！】という文字。",
+      "zh": "屏幕上显示着<br>\n【可可正在直播！】几个字。",
+      "vi": "được hiển thị trên màn hình 【Coco đang phát sóng trực tiếp! 】 Vài lời.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative005",
+      "speaker_tag": "",
+      "ja": "ため息をついてスマホをしまうと同時、<br>明るい声がした。",
+      "zh": "我叹了口气，收起手机，<br>\n与此同时，一个开朗的声音响起。",
+      "vi": "Tôi thở dài và cất điện thoại, Cùng lúc đó, một giọng nói vui vẻ vang lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria001",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria001|",
+      "ja": "あれっ？<br>ヒロちゃんどうしたの？",
+      "zh": "咦？<br>\n希罗你怎么了？",
+      "vi": "Hả? Hiro, cậu bị sao vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro002|",
+      "ja": "……ノアが。",
+      "zh": "……是诺亚。",
+      "vi": "…Đó là Nô-ê.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria002",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria002|",
+      "ja": "んー？",
+      "zh": "嗯——？",
+      "vi": "Ừm——?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative006",
+      "speaker_tag": "",
+      "ja": "ミリアは<ruby=\"ほお\">頬</ruby>をふくらませているノアの顔を<ruby=\"のぞ\">覗</ruby>き込む。",
+      "zh": "米莉亚仔细盯着诺亚气鼓鼓的脸蛋。",
+      "vi": "Miria cẩn thận nhìn chằm chằm vào khuôn mặt sưng húp của Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria003",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria003|",
+      "ja": "……ははーん。<br>さてはヒロちゃんに怒られたんだね。<br>いたずらでもしちゃったのかな～？",
+      "zh": "……哈哈我懂了。<br>\n是不是被希罗教训了呀。<br>\n诺亚干了什么坏事吧～？",
+      "vi": "...Haha, Miria hiểu rồi. Bạn đã được Hiro dạy một bài học chưa? Noah đã làm điều gì đó tồi tệ phải không~?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Noah001",
+      "speaker_tag": "; > Noah: |#0202Adv14_Noah001|",
+      "ja": "のあ、べつに悪いことしてないもん。",
+      "zh": "诺亚才没干坏事呢。",
+      "vi": "Nô-ê không làm điều gì xấu cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria004",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria004|",
+      "ja": "そっかぁ～。そうだよね～。",
+      "zh": "这样啊～。也是哦～。",
+      "vi": "Thế thôi~. Vâng~.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria005",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria005|",
+      "ja": "じゃあノアちゃんは、<br>何をしてたの？",
+      "zh": "那诺亚你到底做了什么呀？<br>",
+      "vi": "Vậy Nô-ê, bạn đã làm gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Noah002",
+      "speaker_tag": "; > Noah: |#0202Adv14_Noah002|",
+      "ja": "…………お絵描き。",
+      "zh": "…………画画。",
+      "vi": "………bản vẽ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro003|",
+      "ja": "……壁に落描きをしていた。",
+      "zh": "……她在墙壁上涂鸦。",
+      "vi": "…Cô ấy viết nguệch ngoạc lên tường.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria006",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria006|",
+      "ja": "あー、なるほど。<br>それがヒロちゃんにバレちゃったんだね。",
+      "zh": "啊～原来是这样。<br>\n然后被希罗发现了是吧。",
+      "vi": "A~ Ra là vậy. Sau đó anh ấy bị Hiro phát hiện phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria007",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria007|",
+      "ja": "それはよくないな～ノアちゃん。",
+      "zh": "这可不好呀～诺亚。",
+      "vi": "Điều này không tốt đâu ~ Nô-ê.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Noah003",
+      "speaker_tag": "; > Noah: |#0202Adv14_Noah003|",
+      "ja": "……お仕置きされちゃう？",
+      "zh": "……诺亚会被惩罚？",
+      "vi": "...Liệu Noah có bị trừng phạt không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria008",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria008|",
+      "ja": "うん、そうだね。<br>酷いお仕置きされちゃうかも。",
+      "zh": "嗯，是啊。<br>\n可能会狠狠惩罚你哦。",
+      "vi": "Vâng, vâng. Bạn có thể bị trừng phạt nặng nề.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Noah004",
+      "speaker_tag": "; > Noah: |#0202Adv14_Noah004|",
+      "ja": "ええっ……！？",
+      "zh": "什么……！？",
+      "vi": "Cái gì...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro004|",
+      "ja": "……私をなんだと思ってる。",
+      "zh": "……你们把我当成什么人了。",
+      "vi": "...Bạn nghĩ tôi là ai?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria009",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria009|",
+      "ja": "冗談じょうだん！<br>ヒロちゃんはそんなことしないよ。",
+      "zh": "开玩笑啦开玩笑！<br>\n希罗才不会做那种事。",
+      "vi": "Đùa thôi! Đùa thôi! Hiro sẽ không làm những việc như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria010",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria010|",
+      "ja": "……お説教ぐらいはされるかもしれないけど。",
+      "zh": "……不过她可能会口头教育你一下。",
+      "vi": "...nhưng cô ấy có thể cho bạn một nền giáo dục bằng lời nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Noah005",
+      "speaker_tag": "; > Noah: |#0202Adv14_Noah005|",
+      "ja": "む～。",
+      "zh": "唔～",
+      "vi": "Ừm~",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria011",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria011|",
+      "ja": "ん～……。",
+      "zh": "嗯～……",
+      "vi": "Ừm~……",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative007",
+      "speaker_tag": "",
+      "ja": "ミリアは腕組みし、<br>少し考え込んでから口を開いた。",
+      "zh": "米莉亚抱起胳膊，<br>\n稍作思考后开口说道。",
+      "vi": "Miria khoanh tay lại, Sau khi suy nghĩ một lúc, anh nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria012",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria012|",
+      "ja": "……じゃあノアちゃん、<br>おじさんといっしょに映画でも見る？",
+      "zh": "……那诺亚要不要和大叔我一起看电影呀？<br>",
+      "vi": "…Noah có muốn xem phim với chú và Miria không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Noah006",
+      "speaker_tag": "; > Noah: |#0202Adv14_Noah006|",
+      "ja": "……映画？",
+      "zh": "……电影？",
+      "vi": "...phim?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria013",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria013|",
+      "ja": "うん。<br>街の壁に落書きする、<br>ストリートアーティストの話。",
+      "zh": "嗯。<br>\n是个在街头墙壁上涂鸦的<br>\n街头艺术家的故事。",
+      "vi": "Ừm. Đó là một anh chàng viết graffiti trên tường đường phố Câu chuyện của một nghệ sĩ đường phố.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Noah007",
+      "speaker_tag": "; > Noah: |#0202Adv14_Noah007|",
+      "ja": "……面白くなさそう。",
+      "zh": "……感觉很无聊。",
+      "vi": "...nó cảm thấy nhàm chán.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria014",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria014|",
+      "ja": "じゃあヒロちゃんにお説教される？",
+      "zh": "那你想被希罗教训？",
+      "vi": "Vậy bạn muốn được Hiro dạy cho một bài học?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Noah008",
+      "speaker_tag": "; > Noah: |#0202Adv14_Noah008|",
+      "ja": "……映画見る。",
+      "zh": "……诺亚要看电影。",
+      "vi": "…Noah muốn xem phim.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Miria015",
+      "speaker_tag": "; > Miria: |#0202Adv14_Miria015|",
+      "ja": "よし、じゃあ見ようか。<br>おじさんが解説してあげるよ。",
+      "zh": "好嘞，那我们就去看电影吧。<br>\n大叔我会给你解说的。",
+      "vi": "Được rồi, chúng ta đi xem phim nhé. Bác ơi, cháu sẽ giải thích cho bác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative008",
+      "speaker_tag": "",
+      "ja": "ミリアはそう言うと、ノアの手を引く。",
+      "zh": "米莉亚说完便牵起诺亚的手。",
+      "vi": "Nói xong, Miria nắm lấy tay Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative009",
+      "speaker_tag": "",
+      "ja": "そして私に向けてウインクをした。",
+      "zh": "然后朝我眨了眨眼。",
+      "vi": "Sau đó anh ấy nháy mắt với tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro005|",
+      "ja": "（……助かる）",
+      "zh": "（……太感谢了）",
+      "vi": "(…cảm ơn bạn rất nhiều)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative010",
+      "speaker_tag": "",
+      "ja": "ノアをミリアに押し付け、一息つく。",
+      "zh": "终于把诺亚塞给米莉亚，我松了口气。",
+      "vi": "Cuối cùng cũng giao Noah cho Miria, tôi thở phào nhẹ nhõm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro006|",
+      "ja": "（これ以上待たせては、<br>　エマが帰ってしまうかもしれないな）",
+      "zh": "（再不去汇合<br>\n艾玛搞不好就要回去了）",
+      "vi": "(Nếu bạn không đi họp nữa Ema có thể phải quay lại)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative011",
+      "speaker_tag": "",
+      "ja": "階段を降りようとしてすぐ、<br>再び通知音が鳴り、スマホが震える。",
+      "zh": "刚准备下楼梯，<br>\n手机铃声又开始震动并响了起来。",
+      "vi": "Vừa chuẩn bị đi xuống cầu thang, Điện thoại di động lại bắt đầu rung và đổ chuông.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro007|",
+      "ja": "（……またか）",
+      "zh": "（……又来了）",
+      "vi": "(...nó lại đến đây)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative012",
+      "speaker_tag": "",
+      "ja": "苛立ちながらも立ち止まり、<br>スマホを確認した。",
+      "zh": "我不耐烦地停下脚步，<br>\n打开手机一看。",
+      "vi": "Tôi sốt ruột dừng lại, Hãy bật điện thoại của bạn lên và xem xét.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative013",
+      "speaker_tag": "",
+      "ja": "やはりココの名前が表示されている。",
+      "zh": "果不其然还是可可的名字。",
+      "vi": "Chắc chắn rồi, đó vẫn là tên của Cocoa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative014",
+      "speaker_tag": "",
+      "ja": "無視しようと決め、<br>スマホをしまおうとして、思い直す。",
+      "zh": "我决定无视，正打算把手机收起来，<br>\n这时我突然想到。",
+      "vi": "Tôi quyết định bỏ qua và định cất điện thoại đi, Sau đó, nó đột nhiên xảy ra với tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro008|",
+      "ja": "（……まさかシャワー室で配信を……？）",
+      "zh": "（……她该不会在淋浴房直播吧……？）",
+      "vi": "(…Cô ấy đáng lẽ không nên phát sóng trực tiếp trong phòng tắm chứ…?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative015",
+      "speaker_tag": "",
+      "ja": "ふと嫌な予感に襲われたので、<br>念のため配信画面を開いた。",
+      "zh": "一阵不祥的预感袭上心头，<br>\n谨慎起见我点开了直播页面。",
+      "vi": "Một linh cảm không lành đến với tôi, Để thận trọng, tôi bấm vào trang phát sóng trực tiếp.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Coco001",
+      "speaker_tag": "; > Coco: |#0202Adv14_Coco001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro009|",
+      "ja": "（なんだ？ 何か様子がおかしい）",
+      "zh": "（怎么回事？好像不太对劲）",
+      "vi": "(Chuyện gì đang xảy ra vậy? Có gì đó không ổn)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative016",
+      "speaker_tag": "",
+      "ja": "画面に映ったココの表情に、<br>私は違和感を覚えた。",
+      "zh": "屏幕上可可的表情<br>\n让我感觉有几分怪异。",
+      "vi": "Biểu cảm của Coco trên màn hình Làm cho tôi cảm thấy một chút kỳ lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative017",
+      "speaker_tag": "",
+      "ja": "目が激しく泳いでいる。<br>何かに<ruby=\"おび\">怯</ruby>えているような、焦っているような。",
+      "zh": "她的视线正在快速地到处游走。<br>\n又像是焦急，又像是在恐惧着什么东西。",
+      "vi": "Đôi mắt cô đảo nhanh xung quanh. Có vẻ như anh ấy đang lo lắng hoặc sợ hãi điều gì đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Coco002",
+      "speaker_tag": "; > Coco: |#0202Adv14_Coco002|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative018",
+      "speaker_tag": "",
+      "ja": "配信を始めたというのに、<br>ココはひと言も発しようとしない。",
+      "zh": "明明已经开始直播了，<br>\n可可却一言不发。",
+      "vi": "Chương trình phát sóng trực tiếp rõ ràng đã bắt đầu, Coco không nói gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Coco003",
+      "speaker_tag": "; > Coco: |#0202Adv14_Coco003|",
+      "ja": "あっ、やば……。",
+      "zh": "啊，糟糕……！",
+      "vi": "À, ôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Coco004",
+      "speaker_tag": "; > Coco: |#0202Adv14_Coco004|",
+      "ja": "どもども、ココたんだよ～！",
+      "zh": "大家好啊，我是可可碳～！",
+      "vi": "Xin chào mọi người, Coco là Coco Carbon~!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative019",
+      "speaker_tag": "",
+      "ja": "しばらくしてから、<br>ココは<ruby=\"と\">取</ruby>り<ruby=\"つくろ\">繕</ruby>うように<ruby=\"しゃべ\">喋</ruby>りだす。",
+      "zh": "过了一会，<br>\n可可开始说话救场。",
+      "vi": "Sau một lúc, Coco bắt đầu nói chuyện để cứu vãn tình hình.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Coco005",
+      "speaker_tag": "; > Coco: |#0202Adv14_Coco005|",
+      "ja": "えーと、今日は……。",
+      "zh": "呃，今天……",
+      "vi": "Ờ, hôm nay...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Coco006",
+      "speaker_tag": "; > Coco: |#0202Adv14_Coco006|",
+      "ja": "その……なんていうか……。",
+      "zh": "那个……啥来着……",
+      "vi": "Chuyện đó... chuyện gì đang xảy ra vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Coco007",
+      "speaker_tag": "; > Coco: |#0202Adv14_Coco007|",
+      "ja": "そ、そう！ 雑談！<br>雑談配信でもしようかと思って～……！",
+      "zh": "对、对了！闲聊！<br>\n今天来开闲聊台吧～……！",
+      "vi": "Vâng, vâng! Trò chuyện! Hãy mở kênh trò chuyện ngay hôm nay nhé~...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro010|",
+      "ja": "（……明らかに挙動不審だ）",
+      "zh": "（……这举止明显很可疑）",
+      "vi": "(…Hành vi này rõ ràng là đáng ngờ)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative020",
+      "speaker_tag": "",
+      "ja": "加えて、嫌な予感は的中していた。<br>ココの背後には見覚えのある絵。",
+      "zh": "不仅如此，不祥的预感应验了。<br>\n可可身后是那幅熟悉的画。",
+      "vi": "Không chỉ vậy, một linh cảm chẳng lành đã ập đến. Đằng sau Coco là bức tranh quen thuộc.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro011|",
+      "ja": "（シャワールーム……！）",
+      "zh": "（淋浴房……！）",
+      "vi": "(Phòng tắm...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative021",
+      "speaker_tag": "",
+      "ja": "今、ココはシャワールームから配信をしている。",
+      "zh": "现在可可就在淋浴房直播。",
+      "vi": "Bây giờ Coco đang phát sóng trực tiếp trong phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro012|",
+      "ja": "チッ……また邪魔が入った……！",
+      "zh": "啧……又有人来碍事……！",
+      "vi": "Tsk...lại có người cản đường rồi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro013|",
+      "ja": "（今、シャワールームにはエマとココがいる）",
+      "zh": "（现在淋浴房里有艾玛和可可两个人）",
+      "vi": "(Hiện tại có hai người, Ema và Coco, đang ở trong phòng tắm)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro014",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro014|",
+      "ja": "（今行ってしまえば、間違いなくエマといっしょにいるところを<br>　目撃されてしまうか……）",
+      "zh": "（如果现在过去，毫无疑问会被人看到<br>\n我和艾玛在一起的场面……）",
+      "vi": "(Nếu tôi đi ngang qua bây giờ, chắc chắn tôi sẽ bị nhìn thấy Cảnh tôi và Ema ở bên nhau...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro015",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro015|",
+      "ja": "（そうなれば疑われるのは確実……<br>　悔しいが、今回は諦めるしか……）",
+      "zh": "（这样肯定会被怀疑……<br>\n虽然很不甘心，但这次只能放弃实施……）",
+      "vi": "(Điều này chắc chắn sẽ dẫn đến sự nghi ngờ... Mặc dù rất miễn cưỡng nhưng lần này tôi chỉ có thể từ bỏ việc thực hiện...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Coco008",
+      "speaker_tag": "; > Coco: |#0202Adv14_Coco008|",
+      "ja": "……あっ！！",
+      "zh": "……啊！！",
+      "vi": "...À! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative022",
+      "speaker_tag": "",
+      "ja": "ココの驚くような声に、<br>配信を閉じようとしかけた手を止める。",
+      "zh": "可可惊讶的声音，<br>\n让我正准备关闭直播的手不由得停了下来。",
+      "vi": "Giọng ngạc nhiên của Coco, Bàn tay đang định tắt phát sóng trực tiếp của tôi không khỏi dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Coco009",
+      "speaker_tag": "; > Coco: |#0202Adv14_Coco009|",
+      "ja": "おーい、聞こえてますか～……！<br>……えっ？",
+      "zh": "喂，听得到吗～！<br>\n……欸？",
+      "vi": "Này, bạn có nghe Coco nói không~! ...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative023",
+      "speaker_tag": "",
+      "ja": "画面の向こうにいる視聴者にココは声をかけ、<br>そして止まった。",
+      "zh": "可可向屏幕另一端观众问话的声音<br>\n突然停住了。",
+      "vi": "Giọng Coco đặt câu hỏi cho khán giả phía bên kia màn hình Đột nhiên dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Coco010",
+      "speaker_tag": "; > Coco: |#0202Adv14_Coco010|",
+      "ja": "ちょ……まっ",
+      "zh": "不是……等",
+      "vi": "Không... chờ đã",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro016",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro016|",
+      "ja": "なっ！？",
+      "zh": "什么！？",
+      "vi": "Cái gì! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative024",
+      "speaker_tag": "",
+      "ja": "銃声のような音が響くと同時に、<br>赤黒い<ruby=\"しぶき\">飛沫</ruby>が画面を汚した。",
+      "zh": "伴随着类似枪响的声音，<br>\n黑红的飞沫弄脏了整个画面。",
+      "vi": "Kèm theo âm thanh giống như tiếng súng, Những giọt nước đen và đỏ nhuộm đỏ toàn bộ màn hình.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative025",
+      "speaker_tag": "",
+      "ja": "それからすぐに、<br>ぷつりと配信が切れて画面が黒くなった。",
+      "zh": "紧接着，<br>\n直播就中断了，画面一片漆黑。",
+      "vi": "Ngay sau đó, Buổi phát sóng trực tiếp bị gián đoạn và màn hình tối sầm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative026",
+      "speaker_tag": "",
+      "ja": "配信画面の向こうとはいえ、<br>衝撃的な光景を見せられて心臓が激しく脈打っている。",
+      "zh": "虽说是手机屏幕上的画面，<br>\n但这冲击性的场面还是让我的心跳急剧加速。",
+      "vi": "Mặc dù là hình ảnh trên màn hình điện thoại di động nhưng Nhưng cảnh tượng kinh hoàng này vẫn khiến tim tôi đập nhanh.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative027",
+      "speaker_tag": "",
+      "ja": "スマホを持つ手も震えていた。",
+      "zh": "拿着手机的手也开始发抖。",
+      "vi": "Bàn tay cầm điện thoại cũng bắt đầu run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro017",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro017|",
+      "ja": "（銃声……？<br>　何が起こった……？）",
+      "zh": "（枪声……？<br>\n发生什么事了……？）",
+      "vi": "(Tiếng súng...? Chuyện gì đã xảy ra...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro018",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro018|",
+      "ja": "（……いや、考えるまでもない）",
+      "zh": "（……不对，想都不用想）",
+      "vi": "(…Không, thậm chí đừng nghĩ về nó)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative028",
+      "speaker_tag": "",
+      "ja": "画面の向こうで、<br>ココは何者かに撃たれていた。",
+      "zh": "在画面的另一端，<br>\n可可被什么人枪击了。",
+      "vi": "Ở phía bên kia màn hình, Coco đã bị ai đó bắn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro019",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro019|",
+      "ja": "（シャワールームで……殺人事件が起こった……<br>　ならば犯人は……）",
+      "zh": "（在淋浴房……发生了凶杀案……<br>\n那凶手就是……）",
+      "vi": "(Một vụ án mạng xảy ra trong phòng tắm... Kẻ giết người là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative029",
+      "speaker_tag": "",
+      "ja": "私の頭には、ありありと彼女の顔が浮かぶ。",
+      "zh": "她的面庞愈发清晰地浮现在我的脑海中。",
+      "vi": "Khuôn mặt của cô ấy hiện lên trong tâm trí tôi ngày càng rõ ràng hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro020",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro020|",
+      "ja": "……エマ！",
+      "zh": "……艾玛！",
+      "vi": "……Ema！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative030",
+      "speaker_tag": "",
+      "ja": "叫ぶと同時、<br>シャワールームに向かって駆け出した。",
+      "zh": "我大喊她的名字，<br>\n奔向淋浴房。",
+      "vi": "Tôi đã hét tên cô ấy, Chạy vào phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative031",
+      "speaker_tag": "",
+      "ja": "――しかし。",
+      "zh": "——然而。",
+      "vi": "---Tuy nhiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hanna001",
+      "speaker_tag": "; > Hanna: |#0202Adv14_Hanna001|",
+      "ja": "きゃああ！？",
+      "zh": "呀啊啊！？",
+      "vi": "Vâng! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro021",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro021|",
+      "ja": "うぐっ！？",
+      "zh": "呃唔！？",
+      "vi": "Ờ-huh! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative032",
+      "speaker_tag": "",
+      "ja": "階段の途中で誰かと衝突し、<br>転げ落ちることはなかったが、<br>私はその場に思い切り尻もちをついた。",
+      "zh": "下楼的时候我突然撞到了人，<br>\n虽然没摔下楼，<br>\n但也被撞得一屁股坐到了地上。",
+      "vi": "Khi tôi đang đi xuống cầu thang, tôi bất ngờ va phải ai đó, Mặc dù tôi không bị ngã xuống cầu thang, Nhưng anh ta đã bị đánh ngã và ngã xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro022",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro022|",
+      "ja": "っ……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hanna002",
+      "speaker_tag": "; > Hanna: |#0202Adv14_Hanna002|",
+      "ja": "もうなんなんですのー！！",
+      "zh": "到底在搞什么呀！！",
+      "vi": "Bạn đang làm gì vậy! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative033",
+      "speaker_tag": "",
+      "ja": "声の方を見れば、<br>私が衝突した相手はハンナだった。",
+      "zh": "看向声音的方向，<br>\n原来我撞到的人是汉娜。",
+      "vi": "Nhìn về hướng có âm thanh, Hóa ra người tôi gặp phải là Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative034",
+      "speaker_tag": "",
+      "ja": "数段下でハンナも私同様に尻もちをついている。<br>ハンナの周りには、衣服が散乱していた。",
+      "zh": "在往下几级台阶处，汉娜也跟我一样，一屁股跌坐在了地上。<br>\n她身旁是散落一地的衣服。",
+      "vi": "Vừa bước xuống được vài bước, Hanna cũng ngã xuống đất giống như tôi. Bên cạnh cô là quần áo vương vãi trên sàn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hanna003",
+      "speaker_tag": "; > Hanna: |#0202Adv14_Hanna003|",
+      "ja": "雨が降ってきたから取り込んだのに……<br>これじゃあまた洗い直しですわー！",
+      "zh": "我看下雨了，赶紧把衣服收进来……<br>\n这下又得重洗了！",
+      "vi": "Bổn tiểu thư thấy trời đang mưa nên nhanh chóng mặc quần áo vào... Giờ Bổn tiểu thư phải giặt lại lần nữa!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro023",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro023|",
+      "ja": "（雨……？ 気付かなかった。<br>　この衣服は洗濯した物か）",
+      "zh": "（下雨……？我都没注意到。<br>\n看来这些衣服是她洗过的）",
+      "vi": "(Mưa...? Tôi thậm chí còn không để ý. Có vẻ như những bộ quần áo này đã được cô ấy giặt)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative035",
+      "speaker_tag": "",
+      "ja": "私は立ち上がり、<br>ほとんど乾いたそれらを<ruby=\"よ\">除</ruby>けつつ、<br>ハンナの横を通り過ぎていく。",
+      "zh": "我站起身，<br>\n把那些几乎干掉的衣服拿开，<br>\n从汉娜身边走过。",
+      "vi": "Tôi đứng dậy, Cất đi những bộ quần áo gần khô rồi Đi ngang qua Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hiro024",
+      "speaker_tag": "; > Hiro: |#0202Adv14_Hiro024|",
+      "ja": "……すまないが、私は先を急ぐ。",
+      "zh": "……不好意思，我有急事先走了。",
+      "vi": "...Xin lỗi, tôi phải rời đi trong trường hợp khẩn cấp.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hanna004",
+      "speaker_tag": "; > Hanna: |#0202Adv14_Hanna004|",
+      "ja": "ちょっとー！<br>そっちからぶつかってきたんだから<br>手伝ってくださいましー！",
+      "zh": "等等！<br>\n是你先撞上我的，<br>\n你倒是帮帮忙啊！",
+      "vi": "Đợi đã! Chính bạn là ngươi va vào Bổn tiểu thư đầu tiên, Bạn có thể giúp Bổn tiểu thư!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative036",
+      "speaker_tag": "",
+      "ja": "後ろから手を<ruby=\"つか\">掴</ruby>まれてしまったが、<br>本当に今はそれどころではない。",
+      "zh": "她从身后抓住我的手，<br>\n可我现在真的无暇在意这些。",
+      "vi": "Cô ấy nắm lấy tay tôi từ phía sau, Nhưng thực sự bây giờ tôi không có thời gian quan tâm đến chuyện này nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative037",
+      "speaker_tag": "",
+      "ja": "申し訳なさを抱きながらも、<br>勢いよくハンナの手を振り払う。<br>そして<ruby=\"かんぱつ\">間髪</ruby>入れずに駆け出した。",
+      "zh": "我心里有些歉意，<br>\n但还是果断地甩开了汉娜的手。<br>\n然后立即奔跑起来。",
+      "vi": "Tôi cảm thấy hơi tiếc, Nhưng anh vẫn dứt khoát hất tay Hanna ra. Sau đó lập tức bắt đầu chạy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Hanna005",
+      "speaker_tag": "; > Hanna: |#0202Adv14_Hanna005|",
+      "ja": "もう……！<br>ゲリラ豪雨に交通事故に、散々ですわー！？",
+      "zh": "真是的……！<br>\n又是突降暴雨又是交通事故，我也太倒霉了吧！？",
+      "vi": "Thực sự...! Đó là một trận mưa lớn bất ngờ và một vụ tai nạn giao thông. Bổn tiểu thư thật xui xẻo! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv14_Narrative038",
+      "speaker_tag": "",
+      "ja": "そんな声を背中に浴びながら、<br>私はシャワールームへと急いだ。",
+      "zh": "我没理会背后传来的牢骚，<br>\n急忙赶往淋浴房。",
+      "vi": "Tôi phớt lờ những lời phàn nàn từ phía sau, Chạy vội vào phòng tắm.",
+      "objection_links": []
+    }
+  ]
+}

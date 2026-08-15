@@ -1,0 +1,1576 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Adv14",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Adv14' Naninovel scenario script",
+  "total_entries": 196,
+  "entries": [
+    {
+      "id": "0204Adv14_Hanna001",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna001|",
+      "ja": "うっ……うぅ……っ",
+      "zh": "呜……呜呜……",
+      "vi": "Úp... ồ...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna002",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna002|",
+      "ja": "わたくし、わたくしなんてことを……っ<br>エマさんを、エマさんを殺すなんてぇっ……。",
+      "zh": "我……我怎么会做出那样的事……<br>\n居然杀了艾玛，杀了艾玛啊……",
+      "vi": "Bổn tiểu thư...sao Bổn tiểu thư có thể làm được điều đó... Thực ra đã giết Ema, ​​đã giết Ema...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative001",
+      "speaker_tag": "",
+      "ja": "心から悔いている様子で、<br>膝をついたハンナは涙を流し続けていた。",
+      "zh": "像是在发自心底地痛悔，<br>\n跪倒在地的汉娜不断流着悔恨的泪水。",
+      "vi": "Như thể đang hối hận từ tận đáy lòng, Hanna quỳ xuống và rơi nước mắt hối hận.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna003",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna003|",
+      "ja": "うぅうぅ……っ<br>どんなに責められても、仕方ありません……。",
+      "zh": "呜呜呜……<br>\n不管受到怎样的责难，我也无话可说……",
+      "vi": "Woohoo... Dù có nhận bao nhiêu lời chỉ trích thì Bổn tiểu thư cũng không có gì để nói...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna004",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna004|",
+      "ja": "大切なお友だちだと思っていたエマさんを、<br>わたくしは殺めてしまったのですから……。",
+      "zh": "因为我亲手杀死了<br>\n重要的朋友，艾玛……",
+      "vi": "Vì chính tay Bổn tiểu thư đã giết Bạn thân mến, Ema...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative002",
+      "speaker_tag": "",
+      "ja": "泣きじゃくるハンナを前に、<br>私たちはいつも通りゴクチョーに<ruby=\"うなが\">促</ruby>され、<br>処刑執行の選択を迫られる。",
+      "zh": "面对抽泣不止的汉娜，<br>\n我们照例被典狱长催促，<br>\n被迫作出执行处刑的选择。",
+      "vi": "Đối mặt với Hanna đang nức nở, Chúng tôi bị quản giáo thúc giục như thường lệ, Buộc phải lựa chọn thực hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Adv14_Hiro001|",
+      "ja": "（ハンナはエマとレイアを殺した魔女。<br>　処刑されて当然だ）",
+      "zh": "（汉娜是杀害艾玛和蕾雅的魔女。<br>\n被处刑也是理所当然）",
+      "vi": "(Hanna là mụ phù thủy đã giết Ema và Leia. Việc bị xử tử là điều đương nhiên)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Adv14_Hiro002|",
+      "ja": "（何も迷うことなど、あるものか……）",
+      "zh": "（根本不可能会、有理由犹豫……）",
+      "vi": "(Không thể có lý do gì để do dự...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative003",
+      "speaker_tag": "",
+      "ja": "しかし私の指先は、<ruby=\"しゅんじゅん\">逡巡</ruby>してしまっていた。",
+      "zh": "然而我的指尖却不由得迟疑。",
+      "vi": "Tuy nhiên, đầu ngón tay của tôi không khỏi do dự.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Adv14_Hiro003|",
+      "ja": "（何故、何故だ……<br>　どうして私はいつも迷う――！）",
+      "zh": "（为什么，为什么啊……<br>\n为何我总是动摇——！）",
+      "vi": "(Tại sao, tại sao... Tại sao tôi luôn dao động——! )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Adv14_Hiro004|",
+      "ja": "（正しさを知っているはずなのに！）",
+      "zh": "（明明我应该知道，什么才是正确的！）",
+      "vi": "(Rõ ràng là tôi nên biết điều gì là đúng!)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Warden001",
+      "speaker_tag": "; > Warden: |#0204Adv14_Warden001|",
+      "ja": "はい！ ではこれより、<br>魔女の処刑を執行します～。",
+      "zh": "好了！那么，<br>\n现在开始处刑魔女～！",
+      "vi": "Được rồi! Sau đó, Hãy bắt đầu hành quyết phù thủy ngay bây giờ~!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative004",
+      "speaker_tag": "",
+      "ja": "どうしようもなく心を<ruby=\"きし\">軋</ruby>ませる、<br>歯車の回転音が聞こえはじめる。",
+      "zh": "那让人无法承受的齿轮转动声开始响起，<br>\n仿佛将心一点点碾碎。",
+      "vi": "Âm thanh quay bánh răng không thể chịu nổi bắt đầu vang lên, Tim tôi như đang bị bóp nát từng chút một.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative005",
+      "speaker_tag": "",
+      "ja": "やがて中央に現れた処刑台は、<br>信じられないほどに巨大な――砂時計。",
+      "zh": "出现在正中央的处刑台，<br>\n竟是一个大得难以置信的——沙漏。",
+      "vi": "Nền tảng thực thi xuất hiện ở trung tâm, Hóa ra đó là một chiếc đồng hồ cát cực kỳ lớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative006",
+      "speaker_tag": "",
+      "ja": "それは裁判所の天井に届きそうなほどに背が高く、<br>私たちの前にそびえ立っていた。",
+      "zh": "高得几乎要触及审判庭的天花板的巨大沙漏，<br>\n巍然矗立在我们面前。",
+      "vi": "Một chiếc đồng hồ cát khổng lồ cao đến mức gần như chạm tới trần của Tòa án dị giáo, Đứng uy nghiêm trước mặt chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative007",
+      "speaker_tag": "",
+      "ja": "透明なガラスの球体が上下にひろがり、<br>２つの世界を<ruby=\"へだ\">隔</ruby>てるように細い首で<ruby=\"つな\">繋</ruby>がれている。",
+      "zh": "透明的玻璃球体上下延展，<br>\n细细的瓶颈连结在中间，像是要分隔这两个世界一般。",
+      "vi": "Quả cầu thủy tinh trong suốt kéo dài lên xuống, Một cổ chai mỏng được nối ở giữa, như muốn ngăn cách hai thế giới.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative008",
+      "speaker_tag": "",
+      "ja": "上部の球体には大量の岩石が詰まっていた。<br>ぎっしりと重みを持って。",
+      "zh": "上部的球体中满满当当地<br>\n装着沉甸甸的岩石。",
+      "vi": "Hình cầu phía trên chứa đầy Chất đầy đá nặng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative009",
+      "speaker_tag": "",
+      "ja": "私たちにとっては１つ１つ大きな岩だが、<br>巨大な砂時計の中にあると、砂粒のように小さくも見えた。",
+      "zh": "在我们看来每一块岩石都是庞然大物，<br>\n但放在巨大的沙漏里，它们竟显得如同沙粒一般渺小。",
+      "vi": "Đối với chúng tôi, mỗi tảng đá trông giống như một người khổng lồ, Nhưng khi đặt trong một chiếc đồng hồ cát khổng lồ, chúng trông nhỏ như những hạt cát.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Alisa001",
+      "speaker_tag": "; > Alisa: |#0204Adv14_Alisa001|",
+      "ja": "まさか……あれを落として<br>生き埋めにする気かよ……？",
+      "zh": "不会吧……难道是<br>\n要让那些东西砸下来活埋她……？",
+      "vi": "Không thể nào... có thể nào là Muốn để những thứ đó rơi xuống và chôn sống mày ấy...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Miria001",
+      "speaker_tag": "; > Miria: |#0204Adv14_Miria001|",
+      "ja": "い、いやでも、これだと、<br>岩が落下してきただけで相当重いよ……。<br>潰す、気なのかも。",
+      "zh": "不、不对，这样的话，<br>\n就算岩石只是落下来，也已经重到不得了……<br>\n可能，是要把人直接碾碎……",
+      "vi": "Không, không, trong trường hợp này, Tảng đá dù có rơi xuống cũng đã nặng vô cùng rồi... Có lẽ, để trực tiếp nghiền nát mọi người...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative010",
+      "speaker_tag": "",
+      "ja": "ハンナが見上げてごくりと喉を鳴らす。<br><ruby=\"きぜん\">毅然</ruby>としているが、拳は震えてしまっていた。",
+      "zh": "汉娜仰望着沙漏，吞了口口水。<br>\n虽努力维持镇定，但她的拳头却止不住地颤抖。",
+      "vi": "Hanna nhìn lên chiếc đồng hồ cát và nuốt nước bọt. Dù cố gắng giữ bình tĩnh nhưng nắm đấm của cô vẫn không ngừng run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative011",
+      "speaker_tag": "",
+      "ja": "そして看守に手首を<ruby=\"つか\">掴</ruby>まれ、<br>ハンナは処刑台へと連行されていく。",
+      "zh": "看守开始行动，抓住她的手腕，<br>\n将汉娜押送至处刑台。",
+      "vi": "Cai Ngục bắt đầu hành động, nắm lấy cổ tay cô, Áp giải Hanna đến bệ hành quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry001",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry001|",
+      "ja": "……ハンナさん。<br>ひとつ、聞かせてください。",
+      "zh": "……汉娜。<br>\n你可以回答我一个问题吗。",
+      "vi": "...Hanna. Bạn có thể trả lời tôi một câu hỏi được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative012",
+      "speaker_tag": "",
+      "ja": "その途中、静かに口を開いたのはシェリーだった。",
+      "zh": "途中，雪莉静静地开口说道。",
+      "vi": "Trên đường đi, Sherry lặng lẽ nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative013",
+      "speaker_tag": "",
+      "ja": "ハンナはひきつった表情で、シェリーを振り返る。",
+      "zh": "汉娜表情一紧，回头看向雪莉。",
+      "vi": "Vẻ mặt của Hanna đanh lại và cô ấy nhìn lại Sherry.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna005",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna005|",
+      "ja": "なんですの、シェリーさん……。<br>わたくしはもう、言い残したことなんてありません。",
+      "zh": "什么事呢，雪莉……<br>\n我已经没有什么话要说了。",
+      "vi": "Có chuyện gì thế, Sherry... Bổn tiểu thư không còn gì để nói nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna006",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna006|",
+      "ja": "罪を犯したのだから……潔く受け入れます。",
+      "zh": "我已经犯了罪……会坦然接受惩罚的。",
+      "vi": "Bổn tiểu thư đã phạm tội...Bổn tiểu thư sẽ bình tĩnh chấp nhận hình phạt.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative014",
+      "speaker_tag": "",
+      "ja": "震える声でそれだけ言ってハンナは背を向け、<br>再び処刑台へと歩きだす。",
+      "zh": "汉娜用颤抖的声音说完，转过身，<br>\n再度朝处刑台走去。",
+      "vi": "Hanna nói xong với giọng run rẩy, quay lại, Lại đi về phía đài hành quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry002",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry002|",
+      "ja": "レイアさんを殺した理由はなんですか？",
+      "zh": "你为什么要杀蕾雅？",
+      "vi": "Tại sao anh lại giết Leia?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative015",
+      "speaker_tag": "",
+      "ja": "シェリーはそれでも背中に言葉を浴びせた。<br>どこか必死に、<ruby=\"すが\">縋</ruby>るように。",
+      "zh": "在她背后，雪莉依然还在追问。<br>\n那语气似乎带着一种拼命恳求。",
+      "vi": "Phía sau cô, Sherry vẫn đang hỏi. Giọng điệu dường như là một lời cầu xin tuyệt vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry003",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry003|",
+      "ja": "魔女の殺意が心から向いたのは、<br>エマさんではなく、レイアさんですよね？<br>では、その動機は？",
+      "zh": "魔女的杀意使你发自内心要杀的对象，<br>\n其实不是艾玛，而是蕾雅，对吗？<br>\n你的动机是什么？",
+      "vi": "Ý đồ sát nhân của mụ phù thủy khiến bạn muốn giết chết đồ vật từ trong lòng, Không phải Ema mà là Leia, phải không? Động lực của bạn là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna007",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna007|",
+      "ja": "……っ",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative016",
+      "speaker_tag": "",
+      "ja": "ハンナの背中が、揺れた。",
+      "zh": "汉娜的背影微微一颤。",
+      "vi": "Lưng của Hanna khẽ run lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry004",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry004|",
+      "ja": "私、ハンナさんと一番長く一緒にいたので、<br>ちょっとだけハンナさんの気持ちが<br>わかるようになって……。",
+      "zh": "我和汉娜在一起的时间最久了，<br>\n现在渐渐能够稍微理解一点<br>\n你的心情……",
+      "vi": "Hanna và tôi đã ở bên nhau lâu nhất, Bây giờ tôi dần dần hiểu được một chút tâm trạng của bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry005",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry005|",
+      "ja": "ハンナさんは、<br>レイアさんを嫌っていました。<br>きっと、最初に会った時から。",
+      "zh": "汉娜其实<br>\n一直都很讨厌蕾雅吧。<br>\n或许从第一次见面时，就已经……",
+      "vi": "Thực ra là Hanna Chắc hẳn tôi đã luôn ghét Leya. Có lẽ ngay từ lần gặp đầu tiên đã...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry006",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry006|",
+      "ja": "その気持ちが魔女化と共に、<br>徐々に殺意へと膨らんでいっても、<br>おかしくありません。",
+      "zh": "这种心情随着魔女化进程加剧，<br>\n慢慢膨胀成了杀意<br>\n我也能理解。",
+      "vi": "Cảm giác này càng mãnh liệt hơn với quá trình trở thành phù thủy, Từ từ mở rộng thành ý định giết người Tôi cũng có thể hiểu điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Adv14_Hiro005|",
+      "ja": "（……最初、から？）",
+      "zh": "（……从第一次见面时，就已经？）",
+      "vi": "(…từ lần đầu tiên chúng ta gặp nhau?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative017",
+      "speaker_tag": "",
+      "ja": "ハンナがずっとレイアに<br>劣等感を抱き続けていたのだとしたら。",
+      "zh": "如果说汉娜从一开始就对蕾雅<br>\n怀着深深的自卑。",
+      "vi": "Nếu ngay từ đầu Hanna đã có tình cảm với Leia Với một cảm giác tự ti sâu sắc.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative018",
+      "speaker_tag": "",
+      "ja": "初めて会った時からその闇が生まれ、<br>やがて殺意に変わるまで<br>少しずつ少しずつ育まれていったとしたら――。",
+      "zh": "如果说，汉娜心中的阴影在初见蕾雅时业已诞生，<br>\n一点一点地在心中生根发芽，<br>\n终有一天化为杀意——",
+      "vi": "Nếu có thể nói, cái bóng trong trái tim Hanna đã hình thành từ lần đầu cô gặp Leia, Từng chút một, nó đã bén rễ trong trái tim tôi, Một ngày nào đó nó sẽ trở thành ý định giết người——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Adv14_Hiro006|",
+      "ja": "（そんな、それなら、もう――）",
+      "zh": "（那样的话，就——）",
+      "vi": "(Trong trường hợp đó, chỉ——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative019",
+      "speaker_tag": "",
+      "ja": "全てをなかったことには、できない。",
+      "zh": "重来也无济于事。",
+      "vi": "Không có ích gì khi bắt đầu lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative020",
+      "speaker_tag": "",
+      "ja": "その事実にたどりついた時、<br>私の中で何かが音を立てて崩れていった。",
+      "zh": "当意识到这个事实时，<br>\n我心中仿佛有什么轰然崩塌。",
+      "vi": "Khi nhận ra sự thật này, Dường như có điều gì đó sụp đổ trong lòng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative021",
+      "speaker_tag": "",
+      "ja": "あまりのことに、<br>胸を押さえてうずくまる。",
+      "zh": "强烈的冲击<br>\n让我不禁按住胸口缩成一团。",
+      "vi": "Tác động mạnh Nó khiến tôi phải ôm ngực và co lại thành một quả bóng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Miria002",
+      "speaker_tag": "; > Miria: |#0204Adv14_Miria002|",
+      "ja": "ヒロちゃんっ？<br>どうしたの、大丈夫かい！？",
+      "zh": "小希！？<br>\n你怎么了，你没事吧！？",
+      "vi": "Tiểu Hi! ? Có chuyện gì với bạn vậy? Bạn có ổn không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Adv14_Hiro007|",
+      "ja": "……平気だ。<br>最後まで、見届ける。",
+      "zh": "……没事。<br>\n我要亲眼见证到最后。",
+      "vi": "...Không sao đâu. Tôi muốn chứng kiến nó bằng chính mắt mình cho đến cuối cùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative022",
+      "speaker_tag": "",
+      "ja": "膝は震えていたが、なんとか立ち上がる。",
+      "zh": "膝盖在颤抖，我却还是设法站了起来。",
+      "vi": "Đầu gối tôi run rẩy nhưng tôi vẫn đứng dậy được.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative023",
+      "speaker_tag": "",
+      "ja": "ぐらつく視界の端で、<br>シェリーが身を乗り出しているのが映った。",
+      "zh": "在晃动的视野角落，<br>\n看见雪莉向前探出了身子。",
+      "vi": "Ở góc tầm nhìn rung chuyển, Sherry được nhìn thấy đang nghiêng người về phía trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry007",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry007|",
+      "ja": "……言いたくないかもしれません。<br>でも、私、ちゃんと知りたいんです。",
+      "zh": "……你可能不想说出来。<br>\n但我真的，很想知道。",
+      "vi": "…Có thể bạn không muốn nói điều đó. Nhưng tôi thực sự, thực sự muốn biết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry008",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry008|",
+      "ja": "本当のハンナさんの気持ちが知りたい。<br>もっとあなたのこと、知りたいんです。",
+      "zh": "我想知道汉娜真正的心。<br>\n我还想更了解你一点。",
+      "vi": "Tôi muốn biết tấm lòng thật sự của Hanna. Mình cũng muốn làm quen với bạn hơn một chút.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative024",
+      "speaker_tag": "",
+      "ja": "シェリーの声は、<br>今まで聞いたことのないほど震えていた。",
+      "zh": "雪莉的声音<br>\n比以往任何时候都更加颤抖。",
+      "vi": "Giọng của Sherry Run rẩy hơn bao giờ hết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative025",
+      "speaker_tag": "",
+      "ja": "今にも泣きだしてしまいそうに、震えていた。",
+      "zh": "颤抖得仿佛随时会哭出来。",
+      "vi": "Run rẩy như có thể khóc bất cứ lúc nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry009",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry009|",
+      "ja": "お願いします、ハンナさん……っ",
+      "zh": "求求你了，汉娜……",
+      "vi": "Làm ơn đi, Hanna...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna008",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna008|",
+      "ja": "……どうして。",
+      "zh": "……为什么。",
+      "vi": "...tại sao.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative026",
+      "speaker_tag": "",
+      "ja": "ハンナは振り返らないまま、<br>肩を震わせ、かすれた声をしぼりだす。",
+      "zh": "汉娜没有回头，<br>\n只是肩膀轻轻颤抖，挤出沙哑的声音。",
+      "vi": "Hanna không nhìn lại, Chỉ là vai anh ấy hơi run lên và anh ấy phát ra một giọng khàn khàn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna009",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna009|",
+      "ja": "どうしてあなたはいつも……<br>わたくしの中にズカズカと<br>勝手に踏み込んできますの？",
+      "zh": "为什么你总是这样……<br>\n总是不顾一切、<br>\n大摇大摆地闯入我的内心深处？",
+      "vi": "Tại sao bạn luôn như thế này... Luôn tuyệt vọng, Đâm vào tim Bổn tiểu thư?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative027",
+      "speaker_tag": "",
+      "ja": "砂時計の下部分には扉が取り付けられており、<br>その扉を看守が開く。",
+      "zh": "沙漏下方装有一道门。<br>\n看守将那道门打开。",
+      "vi": "Có một cánh cửa bên dưới đồng hồ cát. Cai Ngục mở cửa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative028",
+      "speaker_tag": "",
+      "ja": "ハンナが砂時計の中に放り込まれた。",
+      "zh": "汉娜被看守推入了沙漏中。",
+      "vi": "Hanna bị Cai Ngục đẩy vào đồng hồ cát.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna010",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna010|",
+      "ja": "……っ",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative029",
+      "speaker_tag": "",
+      "ja": "扉の前に看守が立ったのを皮切りに、<br>落石が始まった。",
+      "zh": "看守站到门前时，<br>\n岩石开始下落了。",
+      "vi": "Khi Cai Ngục đứng trước cửa, Những tảng đá bắt đầu rơi xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative030",
+      "speaker_tag": "",
+      "ja": "容赦なく降り注ぐ石の中、<br>倒れ伏していたハンナはよろよろと上体を起こす。",
+      "zh": "在毫不留情地砸下的岩石雨中，<br>\n倒地的汉娜踉跄坐起身来。",
+      "vi": "Trong cơn mưa đá tàn nhẫn, Hanna loạng choạng ngồi dậy sau khi ngã xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative031",
+      "speaker_tag": "",
+      "ja": "座り込んだまま、<br>ガラス越しに私たちの方へと視線を<ruby=\"や\">遣</ruby>った。",
+      "zh": "她坐在地上，<br>\n视线穿过玻璃，看向我们。",
+      "vi": "Cô ấy ngồi trên mặt đất, Nhìn qua kính, nhìn chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna011",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna011|",
+      "ja": "……ええ、ええ、その通りですわ。<br>わたくしは、レイアさんを憎んでいた。",
+      "zh": "……没错，没错，你说得对。<br>\n我，憎恨着蕾雅。",
+      "vi": "...Vâng, vâng, bạn nói đúng. Bổn tiểu thư ghét Leia.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna012",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna012|",
+      "ja": "内心ずっと嫌っていました。<br>それでもなんとかうまくやっていこうとは、<br>努力していました……。",
+      "zh": "我心里一直都不喜欢她。<br>\n尽管如此，我还是在努力<br>\n想要与她好好相处……",
+      "vi": "Trong lòng Bổn tiểu thư chưa bao giờ thích ngươi ấy. Tuy nhiên, Bổn tiểu thư vẫn đang cố gắng Bổn tiểu thư muốn thân thiết với ngươi ấy...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna013",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna013|",
+      "ja": "あの時レイアさんが、<br>あんなことを言わなければ――。",
+      "zh": "如果当时蕾雅<br>\n不说出那句话——",
+      "vi": "Nếu Liya Nếu ngươi không nói những lời đó——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative032",
+      "speaker_tag": "",
+      "ja": "それはわたくしが一度上に戻ろうと、<br>エレベーターに乗り込んだ時でした。",
+      "zh": "那是我正准备回到地面，<br>\n刚走进电梯的时候。",
+      "vi": "Đó là lúc tôi chuẩn bị trở lại mặt đất, Lần đầu tiên tôi bước vào thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative033",
+      "speaker_tag": "",
+      "ja": "偶然レイアさんと一緒になって。",
+      "zh": "偶然遇上了蕾雅。",
+      "vi": "Tôi tình cờ gặp Leya.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative034",
+      "speaker_tag": "",
+      "ja": "わたくしたちは、一緒に昇っていきました。",
+      "zh": "我们乘上了电梯，就这样一同上升。",
+      "vi": "Chúng tôi vào thang máy và cùng nhau đi lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative035",
+      "speaker_tag": "",
+      "ja": "その時のわたくしは、<ruby=\"ひょうかい\">氷塊</ruby>を抱えていました。",
+      "zh": "那时我怀里抱着一块冰。",
+      "vi": "Lúc đó tôi đang ôm một tảng băng trong tay.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative036",
+      "speaker_tag": "",
+      "ja": "シェリーさんが氷サッカーなんかして、<br>落ちていて危なかったので、回収しておいたんです。",
+      "zh": "因为雪莉在玩什么踢冰球，<br>\n地上到处散落着冰块，太危险了。于是我就打算把冰块收拾起来。",
+      "vi": "Vì Sherry đang chơi khúc côn cầu nên Trên mặt đất rải rác những khối băng, quá nguy hiểm. Vì vậy, tôi quyết định đóng gói các khối nước đá.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Leia001",
+      "speaker_tag": "; > Leia: |#0204Adv14_Leia001|",
+      "ja": "アンアンくんに舞台衣装を着せたいって話だけども。",
+      "zh": "之前聊过想让安安穿上舞台服，这件事你还记得吗？",
+      "vi": "Trước đây chúng tôi đã bàn về việc muốn AnAn mặc trang phục sân khấu. Bạn vẫn còn nhớ điều này chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative037",
+      "speaker_tag": "",
+      "ja": "中でふとレイアさんが切り出してきたのは、<br>舞台衣装の話でした。",
+      "zh": "她突然主动开口，<br>\n谈起舞台服的事。",
+      "vi": "Cô ấy đột nhiên chủ động nói, Hãy nói về trang phục sân khấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative038",
+      "speaker_tag": "",
+      "ja": "みんなで地下施設探索に行こうと決まった時、<br>わたくしの頭に思い浮かんだのはアンアンさんでした。",
+      "zh": "当大家决定要一起探索地下设施时，<br>\n我脑海中最先浮现的，是安安。",
+      "vi": "Khi mọi người quyết định cùng nhau khám phá các cơ sở dưới lòng đất, Điều đầu tiên tôi nghĩ đến là AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative039",
+      "speaker_tag": "",
+      "ja": "アンアンさんの遺体が<br>地下施設にあることは知っていたので、<br>せめてその遺体を着飾ってあげたいと思い立ちました。",
+      "zh": "我知道安安的遗体<br>\n还在地下设施里。<br>\n我想至少……替她好好打扮一下。",
+      "vi": "Tôi biết thân hình AnAn Vẫn ở cơ sở ngầm. Ít nhất tôi muốn... mặc cho cô ấy một bộ đồ thật đẹp.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative040",
+      "speaker_tag": "",
+      "ja": "だからわたくしは<br>アトリエに行き、舞台衣装を持ち出していて。",
+      "zh": "于是我去画室，<br>\n把舞台服带了出来。",
+      "vi": "Vì vậy tôi đã đến studio, Mang quần áo sân khấu ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative041",
+      "speaker_tag": "",
+      "ja": "そこをレイアさんに目撃されてしまったのです。",
+      "zh": "然后就被蕾雅撞见了。",
+      "vi": "Sau đó anh ấy va phải Leya.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Leia002",
+      "speaker_tag": "; > Leia: |#0204Adv14_Leia002|",
+      "ja": "ハンナくんの想いは本当に素晴らしいよ。<br>私も乗じさせてもらおうと思っている。",
+      "zh": "汉娜的心意真的太美好了。<br>\n可以的话，我也想加入。",
+      "vi": "Hanna có ý định tốt như vậy. Nếu có thể tôi cũng muốn tham gia.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative042",
+      "speaker_tag": "",
+      "ja": "レイアさんがバッグから<br>ちらりと取り出してみせたのは、主役の王冠でした。",
+      "zh": "蕾雅从包里拿出一样东西给我看。<br>\n那是主角戴的王冠。",
+      "vi": "Leia lấy thứ gì đó ra khỏi túi và đưa cho tôi xem. Đó chính là chiếc vương miện mà nhân vật chính đội.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Leia003",
+      "speaker_tag": "; > Leia: |#0204Adv14_Leia003|",
+      "ja": "彼女の前で、<br>舞台を演じようと思ってね。",
+      "zh": "我想，在她面前，<br>\n上演一场真正的舞台剧。",
+      "vi": "Tôi nghĩ, trước mặt cô ấy, Diễn một vở kịch sân khấu thực sự.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative043",
+      "speaker_tag": "",
+      "ja": "いたずらっぽく笑うレイアさんに、<br>その時のわたくしはただそっぽを向くだけでした。",
+      "zh": "她露出了一丝恶作剧般的笑，<br>\n而那时，我只是别开了视线。",
+      "vi": "Cô nở một nụ cười tinh nghịch, Và lúc đó tôi chỉ nhìn đi chỗ khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Leia004",
+      "speaker_tag": "; > Leia: |#0204Adv14_Leia004|",
+      "ja": "それにしてもハンナくん……<br>手がひどく荒れているね。",
+      "zh": "不过话说回来，汉娜……<br>\n你的手，怎么弄得这么粗糙了啊。",
+      "vi": "Nhưng một lần nữa, Hanna... Sao tay bạn thô thế?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Leia005",
+      "speaker_tag": "; > Leia: |#0204Adv14_Leia005|",
+      "ja": "洗濯なんてやめた方がいいんじゃないかな。",
+      "zh": "你还是不要再继续洗衣服了。",
+      "vi": "Tốt nhất là bạn đừng tiếp tục giặt giũ nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna014",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna014|",
+      "ja": "どうしてですの……？",
+      "zh": "为什么……？",
+      "vi": "Tại sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Leia006",
+      "speaker_tag": "; > Leia: |#0204Adv14_Leia006|",
+      "ja": "正直、キミが毎日洗濯している理由がわからないんだ。",
+      "zh": "说实话，我不太懂你为什么每天都在洗衣服。",
+      "vi": "Thành thật mà nói, tôi không hiểu tại sao bạn lại giặt đồ hàng ngày.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative044",
+      "speaker_tag": "",
+      "ja": "レイアさんは困ったように笑って、<br>その時エレベーターが上に着きました。",
+      "zh": "她露出似乎有些不知所措的笑容。<br>\n就在那一刻，电梯抵达了地面。",
+      "vi": "Cô mỉm cười như thể có chút choáng ngợp. Đúng lúc đó, thang máy đã chạm đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative045",
+      "speaker_tag": "",
+      "ja": "その何気ない、悪気のないひと言は、<br>わたくしの胸の奥底にしまいこんだ気持ちを刺激しました。",
+      "zh": "那不经意的一句话，即使没有恶意，<br>\n却无声地刺进了我心底深藏的情绪。",
+      "vi": "Nhận xét bình thường đó, ngay cả khi nó không có ác ý, Nhưng nó âm thầm thấm sâu vào những cảm xúc sâu thẳm trong lòng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna015",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna015|",
+      "ja": "……わかりませんの。",
+      "zh": "……不会懂的。",
+      "vi": "...sẽ không hiểu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Leia007",
+      "speaker_tag": "; > Leia: |#0204Adv14_Leia007|",
+      "ja": "え？",
+      "zh": "欸？",
+      "vi": "Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative046",
+      "speaker_tag": "",
+      "ja": "わたくしはぎゅっと自分の唇をかみました。",
+      "zh": "我紧紧咬住了嘴唇。",
+      "vi": "Tôi cắn chặt môi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna016",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna016|",
+      "ja": "住む世界が違うあなたには、<br>到底わかるはずがありませんの……！",
+      "zh": "生活在跟我不同世界的你，<br>\n怎么可能会懂……！",
+      "vi": "Bạn sống ở một thế giới khác với Bổn tiểu thư, Làm sao bạn có thể hiểu được...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna017",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna017|",
+      "ja": "……はぁ、はぁ。",
+      "zh": "……哈啊、哈啊……",
+      "vi": "...Haaah, haaah...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna018",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna018|",
+      "ja": "と、取り乱して申し訳ありませんわ。<br>少しだけ待っていただけるかしら。",
+      "zh": "对不起，我太激动了。<br>\n可以等我平复一下吗。",
+      "vi": "Xin lỗi, Bổn tiểu thư quá phấn khích. Bạn có thể đợi cho đến khi Bổn tiểu thư bình tĩnh lại được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative047",
+      "speaker_tag": "",
+      "ja": "それきり<ruby=\"うつむ\">俯</ruby>いて呼吸が荒くなったわたくしに、<br>レイアさんは、何を思っていたのでしょう。<br>黙りこくっていました。",
+      "zh": "扔下这句话后，我低下头，紧张地喘着气。<br>\n不知那时蕾雅心里究竟在想什么。<br>\n她再也不发一言了。",
+      "vi": "Nói xong tôi cúi đầu xuống và thở hổn hển đầy lo lắng. Tôi không biết lúc đó Leya đang nghĩ gì. Cô ấy không nói nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative048",
+      "speaker_tag": "",
+      "ja": "恐れを抱いたのか。<br>不気味に思ったのか。<br>あるいは――哀れに思ったのか。",
+      "zh": "是感到恐惧？<br>\n还是觉得我很吓人？<br>\n又或是——同情？",
+      "vi": "Cảm thấy sợ hãi? Vẫn nghĩ tôi đáng sợ à? Hoặc - sự đồng cảm?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Leia008",
+      "speaker_tag": "; > Leia: |#0204Adv14_Leia008|",
+      "ja": "すまないが、私は【先にいくよ】。",
+      "zh": "不好意思，那我【先走一步】了。",
+      "vi": "Xin lỗi, tôi sẽ [thực hiện bước đầu tiên].",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative049",
+      "speaker_tag": "",
+      "ja": "【先にいくよ】。<br>その言葉は私の心を駆り立てました。",
+      "zh": "【先走一步】。<br>\n这句话一举把我的心逼入绝境。",
+      "vi": "[Thực hiện bước đầu tiên]. Câu nói này khiến trái tim tôi rơi vào tuyệt vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative050",
+      "speaker_tag": "",
+      "ja": "大きな、焦りを。",
+      "zh": "随之而来的是巨大的焦虑感。",
+      "vi": "Tiếp theo là một cảm giác lo lắng tột độ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna019",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna019|",
+      "ja": "……はぁ、はぁ……！",
+      "zh": "……哈啊、哈啊……！",
+      "vi": "...Haaah, haaah...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative051",
+      "speaker_tag": "",
+      "ja": "――やっぱりわたくしと彼女は、いる場所が違う。",
+      "zh": "——果然，我和她，所在的世界天差地别。",
+      "vi": "---Quả nhiên, thế giới mà tôi và cô ấy đang sống hoàn toàn khác nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative052",
+      "speaker_tag": "",
+      "ja": "彼女は１人、<br>キラキラとした華々しい世界に行ってしまう。",
+      "zh": "她总是独自一人，<br>\n走向光彩夺目的那一边。",
+      "vi": "Cô ấy luôn cô đơn, Đi về phía vinh quang.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative053",
+      "speaker_tag": "",
+      "ja": "――わたくしを置いて。",
+      "zh": "——扔下我一个。",
+      "vi": "---Hãy để tôi yên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative054",
+      "speaker_tag": "",
+      "ja": "……なぜ置いていくのでしょう。<br><ruby=\"みじ\">惨</ruby>めなわたくしを――置いていかないで。",
+      "zh": "……为什么要扔下我？<br>\n可不可以不要——抛弃悲惨的我。",
+      "vi": "...Tại sao em lại bỏ rơi anh? Bạn có thể đừng - bỏ rơi tôi, người đang đau khổ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna020",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna020|",
+      "ja": "――ッ！",
+      "zh": "——！",
+      "vi": "——！",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative055",
+      "speaker_tag": "",
+      "ja": "衝動的に、わたくしはレイアさんの後頭部を<br><ruby=\"ひょうかい\">氷塊</ruby>で殴りつけていました。",
+      "zh": "瞬间的冲动闪过。我抡起了手中的冰块<br>\n狠狠砸向蕾雅的后脑。",
+      "vi": "Một xung lực nhất thời lóe lên. Tôi nhặt viên đá trong tay lên Đánh mạnh vào sau đầu Leya.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative056",
+      "speaker_tag": "",
+      "ja": "そしてエレベーターの扉が開き……",
+      "zh": "紧接着，电梯门打开了……",
+      "vi": "Ngay sau đó, cửa thang máy mở ra...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Ema001",
+      "speaker_tag": "; > Ema: |#0204Adv14_Ema001|",
+      "ja": "え……？",
+      "zh": "咦……？",
+      "vi": "Ủa...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative057",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ぼうぜん\">呆然</ruby>としたエマさんが、そこには立っていて――",
+      "zh": "电梯门外站着呆住的艾玛——",
+      "vi": "Ema đứng sững sờ bên ngoài cửa thang máy——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna021",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna021|",
+      "ja": "レイアさんに嫉妬して、羨ましくて、焦がれて、<br>焦がれて、焦がれて、焦がれて……。",
+      "zh": "我嫉妒蕾雅、羡慕蕾雅、渴望成为蕾雅、<br>\n渴望着、渴望着、渴望着……",
+      "vi": "Bổn tiểu thư ghen tị với Leya, Bổn tiểu thư ghen tị với Leya, Bổn tiểu thư khao khát được trở thành Leya, Khát khao, khao khát, khao khát...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna022",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna022|",
+      "ja": "どんなにわたくしが望んでも、<br>彼女のいるところには決して届かない。",
+      "zh": "无论我怎样祈求，<br>\n都无法触及她所在的那片天地。",
+      "vi": "Dù Bổn tiểu thư có cầu nguyện bao nhiêu đi chăng nữa, Không ai trong số họ có thể chạm tới thế giới nơi ngươi đang ở.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna023",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna023|",
+      "ja": "結局わたくしは置き去りにされると思い知って……。",
+      "zh": "意识到我终究会被抛弃时……",
+      "vi": "Khi Bổn tiểu thư nhận ra rằng cuối cùng Bổn tiểu thư cũng sẽ bị bỏ rơi...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna024",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna024|",
+      "ja": "本当に惨めでした。",
+      "zh": "真的好悲惨。",
+      "vi": "Thật bi thảm.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna025",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna025|",
+      "ja": "だからわたくし、<br>レイアさんを殺しましたの。",
+      "zh": "所以，<br>\n我杀了蕾雅。",
+      "vi": "Vì vậy, Bổn tiểu thư đã giết Leia.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative058",
+      "speaker_tag": "",
+      "ja": "ハンナは――泣きながら、<ruby=\"わら\">嗤</ruby>っていた。",
+      "zh": "汉娜她——一边流泪，一边讥笑着。",
+      "vi": "Hanna vừa khóc vừa cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna026",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna026|",
+      "ja": "心底醜いですわね。<br>こんなの、知られたく、ありませんでしたわ。",
+      "zh": "这人真是烂透了，对不对？<br>\n自己这个样子，本来是、不想让任何人知道的……",
+      "vi": "Anh chàng này tệ thật đấy nhỉ? Bổn tiểu thư không muốn ai biết Bổn tiểu thư như thế nào...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative059",
+      "speaker_tag": "",
+      "ja": "ガラス越しに見える彼女の顔には、<br><ruby=\"きれつ\">亀裂</ruby>が入っていた。",
+      "zh": "隔着玻璃，眼睁睁看着<br>\n她的脸逐渐龟裂开来。",
+      "vi": "Qua tấm kính, đang quan sát Khuôn mặt cô dần nứt nẻ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative060",
+      "speaker_tag": "",
+      "ja": "降り注ぐ石が彼女を何度も<ruby=\"おうだ\">殴打</ruby>し、<br>傷跡から流血しているかのように思う。",
+      "zh": "落石无数次殴打她的身体，<br>\n仿佛正从伤口中不断流出鲜血。",
+      "vi": "Đá rơi đập vào người cô không biết bao nhiêu lần, Dường như máu không ngừng chảy ra từ vết thương.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative061",
+      "speaker_tag": "",
+      "ja": "けれどそれはもっと、もっと深い。",
+      "zh": "可那不是血，是更深更深的某物。",
+      "vi": "Nhưng đó không phải là máu, nó là thứ gì đó ngày càng sâu sắc hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative062",
+      "speaker_tag": "",
+      "ja": "鋭い音を立てながら、<br>黒々とした<ruby=\"きれつ\">亀裂</ruby>は顔全体に広がっていく。",
+      "zh": "黢黑的裂痕发出锐声，<br>\n不断蔓延，直至彻底覆盖她的脸。",
+      "vi": "Những vết nứt tối tăm phát ra âm thanh chói tai, Nó tiếp tục lan rộng cho đến khi che phủ hoàn toàn khuôn mặt cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative063",
+      "speaker_tag": "",
+      "ja": "そして私たちは、<br>ハンナの暗黒の中にある【禁忌】を知る。",
+      "zh": "我们终究<br>\n窥见了汉娜内心深处阴影下的【禁忌】。",
+      "vi": "Cuối cùng chúng ta sẽ Một cái nhìn thoáng qua về [điều cấm kỵ] ẩn sâu trong trái tim Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative064",
+      "speaker_tag": "",
+      "ja": "――<ruby=\"つか\">束</ruby>の間の夢を見ていましたの。",
+      "zh": "——我曾梦过一场短暂的梦。",
+      "vi": "---Tôi từng có một giấc mơ ngắn ngủi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative065",
+      "speaker_tag": "",
+      "ja": "ある日、遠野ハンナはゴミ捨て場で<br>資源ごみとして積まれた少女漫画を拾った。",
+      "zh": "有一天，远野汉娜在垃圾场捡到了<br>\n一套被当作可回收垃圾丢弃的少女漫画。",
+      "vi": "Một ngày nọ, Hanna Tono nhặt được ở bãi rác. Một bộ truyện tranh shoujo bị vứt đi như rác tái chế.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative066",
+      "speaker_tag": "",
+      "ja": "夜泣きと夜泣きの間に本を開けば、<br>ハンナはお嬢様の気持ちになれた。",
+      "zh": "在照料年幼妹妹的间隙空暇，只要翻开这套书，<br>\n汉娜就感觉自己仿佛成了书里的大小姐。",
+      "vi": "Lúc rảnh rỗi vừa chăm sóc em gái, tôi chỉ cần mở bộ sách này ra là Hanna cảm thấy như thể mình đã trở thành bà cả trong cuốn sách.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative067",
+      "speaker_tag": "",
+      "ja": "ページをめくるたび、<br>ほんの<ruby=\"せつな\">刹那</ruby>の夢の時間が訪れる。<br>それはハンナの日常となった。",
+      "zh": "只要翻开一页，<br>\n就能迎来一瞬美梦。<br>\n这成了汉娜的日常。",
+      "vi": "Chỉ cần lật một trang, Bạn có thể có một giấc mơ ngọt ngào trong giây lát. Điều này đã trở thành thói quen hàng ngày của Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative068",
+      "speaker_tag": "",
+      "ja": "わずかな夢の日々を過ごしたのち、<br>自分の魔法にも気がついた。",
+      "zh": "在这段充满小小梦境的日子里，<br>\n某一天，汉娜意识到自己拥有魔法。",
+      "vi": "Trong những ngày tràn ngập ước mơ nho nhỏ này, Một ngày nọ, Hanna nhận ra mình có phép thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative069",
+      "speaker_tag": "",
+      "ja": "少しだけ宙に浮くことができたのだ。",
+      "zh": "能够稍微浮在空中的魔法。",
+      "vi": "Một phép thuật có thể bay nhẹ trong không khí.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative070",
+      "speaker_tag": "",
+      "ja": "――漫画のヒロインと同じ。",
+      "zh": "——和漫画里的女主角一样。",
+      "vi": "---Giống như nữ anh hùng trong truyện tranh.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative071",
+      "speaker_tag": "",
+      "ja": "――わたくしは、特別。",
+      "zh": "——我，是特别的。",
+      "vi": "---Tôi đặc biệt.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative072",
+      "speaker_tag": "",
+      "ja": "――わたくしは、選ばれた存在。",
+      "zh": "——我，是被选中的人。",
+      "vi": "---Tôi là người được chọn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative073",
+      "speaker_tag": "",
+      "ja": "やっと順番が来たと、ハンナはそう思った。<br><ruby=\"むく\">報</ruby>われる日がきた。",
+      "zh": "终于轮到我了，汉娜想。<br>\n终于有出头之日了。",
+      "vi": "Cuối cùng cũng đến lượt mình, Hanna nghĩ. Cuối cùng cũng đến lúc thể hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative074",
+      "speaker_tag": "",
+      "ja": "夢は大きく大きく膨らんだ。",
+      "zh": "梦想像气球一样越胀越大。",
+      "vi": "Ước mơ giống như những quả bóng bay ngày càng lớn hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative075",
+      "speaker_tag": "",
+      "ja": "ハンナは夜にこっそりと抜け出して、<br>空を飛ぶ練習をした。",
+      "zh": "汉娜每天夜里跑出家门，<br>\n偷偷练习飞行。",
+      "vi": "Hanna chạy ra khỏi nhà mỗi đêm, Tập bay bí mật.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative076",
+      "speaker_tag": "",
+      "ja": "暑い日も寒い日も、<br>雨の日も風の日も。",
+      "zh": "无论酷暑严寒，<br>\n无论风雨交加。",
+      "vi": "Dù trời nóng hay lạnh thế nào, Hãy đến dù mưa hay nắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative077",
+      "speaker_tag": "",
+      "ja": "もっともっと大空高く駆けられるはず。",
+      "zh": "坚信自己一定能飞向更高的天空。",
+      "vi": "Tôi tin chắc rằng mình sẽ có thể bay cao hơn lên bầu trời.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative078",
+      "speaker_tag": "",
+      "ja": "その日は真冬で、<br>雪がしんしんと降っていた。",
+      "zh": "那是寒冬里的一天。<br>\n大雪静静纷飞。",
+      "vi": "Đó là một ngày mùa đông lạnh giá. Tuyết đang rơi lặng lẽ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative079",
+      "speaker_tag": "",
+      "ja": "いつも抜け出すのはわずかな時間、<br>ほんの少し目を離すだけだから、<br>きっと今日も大丈夫。",
+      "zh": "只是稍微跑出去一会。<br>\n平常也是这样的。<br>\n今天一定也没事。",
+      "vi": "Chỉ cần chạy ra ngoài một chút thôi. Đây thường là trường hợp. Chắc hôm nay ổn thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative080",
+      "speaker_tag": "",
+      "ja": "今日も１ミリだけ高く飛べた気がする。<br>きっと練習の成果が出ている。",
+      "zh": "今天好像又比昨天飞得高了1毫米。<br>\n一定是练习有了成效。",
+      "vi": "Hôm nay nó dường như bay cao hơn hôm qua 1 mm. Việc thực hành chắc chắn đã được đền đáp.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative081",
+      "speaker_tag": "",
+      "ja": "ハンナは満足げな笑顔で、家に帰った。",
+      "zh": "汉娜带着满足的笑容回到家时。",
+      "vi": "Hanna trở về nhà với nụ cười hài lòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative082",
+      "speaker_tag": "",
+      "ja": "高熱を出している妹に<br>ようやく気が付いた。",
+      "zh": "终于发现<br>\n妹妹正发着高烧。",
+      "vi": "Cuối cùng đã tìm thấy Em gái tôi đang bị sốt cao.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative083",
+      "speaker_tag": "",
+      "ja": "電話はない。お金も持たず、必死に病院へと走った。",
+      "zh": "家里没有电话。汉娜连钱包都忘了带，一心拼命跑到医院。",
+      "vi": "Ở nhà không có điện thoại. Hanna thậm chí còn quên mang theo ví và tuyệt vọng chạy đến bệnh viện.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative084",
+      "speaker_tag": "",
+      "ja": "愚かだった。<br>絶え間なく押し寄せる後悔に、<br>誰も救いの言葉などかけてくれない。",
+      "zh": "太愚蠢了。<br>\n悔恨的巨浪将她吞没，<br>\n却再没有人给她任何一句安慰。",
+      "vi": "Thật ngu ngốc. Làn sóng hối hận khổng lồ nuốt chửng cô, Nhưng không ai an ủi cô chút nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative085",
+      "speaker_tag": "",
+      "ja": "――ハンナはお姉ちゃんだから<br>責任をもってきょうだいを守ってね。",
+      "zh": "——你是姐姐。<br>\n你要负起责任，好好照顾弟妹。",
+      "vi": "---Em là em gái anh. Bạn phải có trách nhiệm và chăm sóc tốt cho anh chị em của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative086",
+      "speaker_tag": "",
+      "ja": "母に置き去りにされ、かけられた言葉が、<br>何度も何度も頭にこだました。",
+      "zh": "母亲抛弃她时留下的那句话，<br>\n在脑中一次又一次回响。",
+      "vi": "Lời mẹ để lại khi bỏ rơi cô, cứ lặp đi lặp lại trong tâm trí tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative087",
+      "speaker_tag": "",
+      "ja": "――これは<ruby=\"つか\">束</ruby>の間の夢。",
+      "zh": "——这只是一场短暂的梦。",
+      "vi": "---Đây chỉ là một giấc mơ ngắn ngủi thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative088",
+      "speaker_tag": "",
+      "ja": "――妹は死んでいないし、<br>置き去りになんてしていない。",
+      "zh": "——妹妹没有死，<br>\n母亲也没有抛弃我们。",
+      "vi": "---Em gái tôi chưa chết, Mẹ cũng không bỏ rơi chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative089",
+      "speaker_tag": "",
+      "ja": "――わたくしたちは、<br>置き去りになんてされていない。",
+      "zh": "——我们才不会被抛弃。<br>",
+      "vi": "---Chúng ta sẽ không bị bỏ rơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative090",
+      "speaker_tag": "",
+      "ja": "――お金持ちのあたたかな家で、<br>わたくしたちはお嬢様のような暮らしをしているの。",
+      "zh": "——我们住在又有钱又温暖的家里，<br>\n过着大小姐般的生活。",
+      "vi": "---Chúng ta sống trong một ngôi nhà giàu có và ấm áp, Hãy sống như một cô gái trẻ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative091",
+      "speaker_tag": "",
+      "ja": "――あばら家も。",
+      "zh": "——破旧的小屋。",
+      "vi": "---Một túp lều đổ nát.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative092",
+      "speaker_tag": "",
+      "ja": "――ぼろきれのような服も。",
+      "zh": "——褴褛的衣衫。",
+      "vi": "---Quần áo rách rưới.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative093",
+      "speaker_tag": "",
+      "ja": "――<ruby=\"こご\">凍</ruby>えるような雪も。",
+      "zh": "——刺骨的风雪。",
+      "vi": "---Gió cay và tuyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative094",
+      "speaker_tag": "",
+      "ja": "――死も。",
+      "zh": "——死亡。",
+      "vi": "---Cái chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative095",
+      "speaker_tag": "",
+      "ja": "――こんなものは全部、全部夢だから。",
+      "zh": "——好希望这一切全部、全部都只是一场梦。",
+      "vi": "---Tôi thực sự hy vọng rằng tất cả những điều này chỉ là một giấc mơ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative096",
+      "speaker_tag": "",
+      "ja": "徐々に勢いを増した落石が、<br>ハンナの身を襲った。",
+      "zh": "落石越滚越快，<br>\n纷纷砸在汉娜身上。",
+      "vi": "Những tảng đá rơi càng lúc càng lăn nhanh hơn, Tất cả đều đánh Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna027",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna027|",
+      "ja": "ぐっ……ああぁっ",
+      "zh": "呃啊……啊啊啊！",
+      "vi": "Ờ...ahhhh!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative097",
+      "speaker_tag": "",
+      "ja": "足が変な方向に曲がっていて、<br>折れているように見えた。",
+      "zh": "汉娜的腿折断成奇异的角度，<br>\n再也无法站立，逐渐失去力气瘫坐在地上。",
+      "vi": "Chân của Hanna bị gãy ở những góc độ kỳ lạ, Không thể đứng vững được nữa, anh dần mất đi sức lực và ngã gục xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative098",
+      "speaker_tag": "",
+      "ja": "ハンナは荒い息を吐きながら、<br>赤い血を引きずりながら、<br>ガラスの壁面へと<ruby=\"は\">這</ruby>いずってくる。",
+      "zh": "她喘着粗气，<br>\n拖着一条鲜红的血迹，<br>\n一点一点爬向玻璃壁。",
+      "vi": "Cô thở hổn hển, Kéo theo vệt máu đỏ tươi, Từng chút một leo về phía bức tường kính.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna028",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna028|",
+      "ja": "嫉妬に駆られて殺したなんて、<br>醜くて汚くて最低で……っ",
+      "zh": "因为嫉妒而杀人……<br>\n真是肮脏、丑陋、可耻至极……",
+      "vi": "Giết ngươi vì ghen tị... Nó thực sự bẩn thỉu, xấu xí và vô cùng đáng xấu hổ...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna029",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna029|",
+      "ja": "処刑されて当然なのはわかっています！<br>けれど、けれど……っ",
+      "zh": "我知道自己罪该如此！<br>\n但是、但是……！",
+      "vi": "Bổn tiểu thư biết Bổn tiểu thư xứng đáng với điều này! Nhưng, nhưng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative099",
+      "speaker_tag": "",
+      "ja": "石に埋もれていく砂時計の中で、<br>ハンナが拳で何度もガラスを<ruby=\"たた\">叩</ruby>く。",
+      "zh": "在巨石不断堆积的沙漏里，<br>\n汉娜一次又一次用拳头砸向玻璃。",
+      "vi": "Trong chiếc đồng hồ cát nơi những tảng đá đang chất chồng lên nhau, Hanna đập tay vào kính hết lần này đến lần khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna030",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna030|",
+      "ja": "でも……でも、わたくし、<br>魔女になりたくありませんの……っ",
+      "zh": "但是……但是，我，<br>\n我真的不想变成魔女……",
+      "vi": "Nhưng...nhưng, Bổn tiểu thư, Bổn tiểu thư thực sự không muốn trở thành phù thủy...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna031",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna031|",
+      "ja": "どんなに汚くても、<br>罪深くても、人間のままでいさせてほしいの……っ",
+      "zh": "就算这么肮脏，<br>\n罪孽这么深重，还是想作为一个人……",
+      "vi": "Thậm chí còn rất bẩn, Dù tội lỗi rất nặng nhưng Bổn tiểu thư vẫn muốn làm ngươi...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna032",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna032|",
+      "ja": "どうか人間のままで殺して――！",
+      "zh": "拜托了，在我还是人的时候杀了我吧——！",
+      "vi": "Làm ơn hãy giết Bổn tiểu thư khi Bổn tiểu thư vẫn còn là con ngươi——!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna033",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna033|",
+      "ja": "わたくしを化け物にしないでよぉっ！<br>わたくしのままでいさせてよぉっ！",
+      "zh": "不要把我变成怪物啊！<br>\n就算死我也想保持自己还是人的样子！",
+      "vi": "Đừng biến Bổn tiểu thư thành quái vật! Dù có chết Bổn tiểu thư vẫn muốn làm ngươi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative100",
+      "speaker_tag": "",
+      "ja": "壮絶な光景を目の当たりにし、<br>私たちは息すらできなかった。",
+      "zh": "我们目睹这悲惨的光景，<br>\n甚至不敢呼吸。",
+      "vi": "Chúng tôi đã chứng kiến cảnh tượng bi thảm này, Thậm chí không dám thở.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative101",
+      "speaker_tag": "",
+      "ja": "その心からの叫びに、悲痛な願いに、<br>応えられる者などいない。",
+      "zh": "那灵魂的呐喊、悲痛的祈求——<br>\n再无人能回应。",
+      "vi": "Tiếng kêu của tâm hồn, lời cầu xin đau buồn—— Không ai có thể đáp lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative102",
+      "speaker_tag": "",
+      "ja": "ハンナの魔女化は、本人の望みに反して<br>めきめきと進んでいく。",
+      "zh": "然而，与汉娜的愿望背道而驰的是，<br>\n她正肉眼可见地急速化作残骸。",
+      "vi": "Tuy nhiên, trái với mong muốn của Hanna, Cô ấy nhanh chóng biến thành một đống đổ nát có thể nhìn thấy bằng mắt thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative103",
+      "speaker_tag": "",
+      "ja": "その時だった。",
+      "zh": "就在此时。",
+      "vi": "Ngay bây giờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry010",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry010|",
+      "ja": "わかりました！",
+      "zh": "我全都理解了！",
+      "vi": "Tôi hiểu tất cả!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative104",
+      "speaker_tag": "",
+      "ja": "シェリーが声を張り上げたことで<br>処刑をただ苦しげに見守っていた私は、<br>ハッとさせられる。",
+      "zh": "雪莉一声高喊，<br>\n让原本只能痛苦地注视着处刑的我<br>\n猛然回过神来。",
+      "vi": "Sherry hét lên, Hãy để tôi, người chỉ có thể chứng kiến cuộc hành quyết trong đau đớn Đột nhiên anh tỉnh lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative105",
+      "speaker_tag": "",
+      "ja": "シェリーの方を見れば、<br>猛烈な勢いで砂時計の方へ駆け出していた。",
+      "zh": "我看向雪莉，<br>\n只见她正以惊人的速度冲向那座沙漏。",
+      "vi": "Tôi nhìn Sherry, Tôi thấy cô ấy lao về phía chiếc đồng hồ cát với tốc độ đáng báo động.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Miria003",
+      "speaker_tag": "; > Miria: |#0204Adv14_Miria003|",
+      "ja": "シェリーちゃん！？",
+      "zh": "小莉！？",
+      "vi": "Tiểu Lý! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Alisa002",
+      "speaker_tag": "; > Alisa: |#0204Adv14_Alisa002|",
+      "ja": "おめえ一体何考えて――！",
+      "zh": "你在想什么——！",
+      "vi": "Bạn đang nghĩ gì thế——!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative106",
+      "speaker_tag": "",
+      "ja": "砂時計の扉の前には看守が立っている。<br>そこへ猛然と突っ込んで行ったシェリーは――",
+      "zh": "沙漏的门前站着看守。<br>\n而猛然飞冲上前的雪莉——",
+      "vi": "Một Cai Ngục đứng trước cửa đồng hồ cát. Và Sherry đột nhiên lao về phía trước——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative107",
+      "speaker_tag": "",
+      "ja": "看守に鎌で斬りつけられた。",
+      "zh": "被看守的镰刀斩下。",
+      "vi": "Bị cắt bởi lưỡi hái của Cai Ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Adv14_Hiro008|",
+      "ja": "シェリー！！",
+      "zh": "雪莉！！",
+      "vi": "Sherry！！",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative108",
+      "speaker_tag": "",
+      "ja": "ギリギリで致命傷は逃れたものの、<br>シェリーの体から鮮血が<ruby=\"ほとばし\">迸</ruby>る。",
+      "zh": "虽然侥幸避开了致命处，<br>\n鲜血却从她的身体喷涌而出。",
+      "vi": "Mặc dù may mắn tránh được đòn chí mạng nhưng Nhưng máu phun ra từ cơ thể cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry011",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry011|",
+      "ja": "うあああああああ！！<br>ああああああああっ！！",
+      "zh": "呜啊啊啊啊啊啊！！<br>\n啊啊啊啊啊啊啊啊啊啊！！",
+      "vi": "Ồhhhhhhhhhhhh! ! Ahhhhhhhhhhhhhhh! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative109",
+      "speaker_tag": "",
+      "ja": "しかしシェリーは止まらず、<br>看守に深く何度も斬りつけられながらも、<br>扉の向こうへと飛び込んだ。",
+      "zh": "然而雪莉并没有停下脚步。<br>\n不论被看守的镰刀斩击多少次，<br>\n她依旧奋力冲进了沙漏下方的门。",
+      "vi": "Nhưng Sherry không dừng lại. Cho dù tôi có bị lưỡi hái của Cai Ngục tấn công bao nhiêu lần đi chăng nữa, Cô vẫn cố lao qua cánh cửa dưới chiếc đồng hồ cát.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative110",
+      "speaker_tag": "",
+      "ja": "落下してくる岩はもうハンナの体を半分以上埋めていて、<br>ハンナも怪我を負いながら、呆然としていた。",
+      "zh": "滚落的巨岩几乎快要把汉娜掩埋。<br>\n重伤的汉娜只是呆望着这一切。",
+      "vi": "Những tảng đá rơi gần như đã chôn vùi Hanna. Hanna, người bị thương nặng, chỉ nhìn chằm chằm vào tất cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna034",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna034|",
+      "ja": "あなた、あなた一体どういうつもりですの！？",
+      "zh": "你、你到底要干什么啊！？",
+      "vi": "Anh, anh định làm cái quái gì vậy! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative111",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ちまみ\">血塗</ruby>れのシェリーが<br>岩を強引にかきわけながらハンナへと近付いていく。",
+      "zh": "雪莉浑身是血，<br>\n一边奋力拨开岩石，一边朝汉娜靠近。",
+      "vi": "Người Sherry đầy máu, Trong khi cố gắng đẩy những tảng đá ra xa, anh ấy tiến lại gần Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative112",
+      "speaker_tag": "",
+      "ja": "その間も落石は止まらない。",
+      "zh": "落石仍然一刻不停砸向两人。",
+      "vi": "Những tảng đá rơi tiếp tục rơi trúng hai người họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry012",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry012|",
+      "ja": "置き去りが嫌だって言ったので、<br>一緒に逝きましょう！",
+      "zh": "既然你说不想被抛弃，<br>\n那我们就一起走吧！",
+      "vi": "Vì bạn đã nói rằng bạn không muốn bị bỏ rơi, Vậy thì chúng ta hãy đi cùng nhau nhé!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry013",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry013|",
+      "ja": "私が一緒ですから、ハンナさんはもう大丈夫！<br>置き去りにしてもいないし、<br>置き去りにされてもいません！",
+      "zh": "有我陪着你！所以汉娜，你已经没事了！<br>\n我不会抛弃你，<br>\n更不会让你被人抛弃！",
+      "vi": "Tôi ở bên bạn! Vậy là Hanna, bạn an toàn! Anh sẽ không bỏ rơi em, Tôi sẽ không để bạn bị bỏ rơi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Sherry014",
+      "speaker_tag": "; > Sherry: |#0204Adv14_Sherry014|",
+      "ja": "なれはてには、させませんっ！",
+      "zh": "绝对不会让你变成残骸！",
+      "vi": "Nó sẽ không bao giờ biến bạn thành một xác tàu!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative113",
+      "speaker_tag": "",
+      "ja": "シェリーは<ruby=\"ちまみ\">血塗</ruby>れになりながらも満面の笑顔で、<br>震える手を伸ばした。",
+      "zh": "哪怕浑身是血，雪莉依旧灿烂地笑着，<br>\n向汉娜伸出颤抖的手。",
+      "vi": "Dù người đầy máu nhưng Sherry vẫn mỉm cười rạng rỡ, Anh đưa bàn tay run rẩy về phía Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative114",
+      "speaker_tag": "",
+      "ja": "ハンナの顔がくしゃりと<ruby=\"ゆが\">歪</ruby>む。",
+      "zh": "汉娜的五官痛苦地皱成一团。",
+      "vi": "Nét mặt Hanna nhăn lại vì đau đớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Hanna035",
+      "speaker_tag": "; > Hanna: |#0204Adv14_Hanna035|",
+      "ja": "なんて、なんてバカなのかしら――。",
+      "zh": "你到底、到底有多傻啊——",
+      "vi": "Bạn ngu ngốc đến mức nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative115",
+      "speaker_tag": "",
+      "ja": "岩が完全に２人を埋めつくす前に、<br>ハンナはふっと笑顔になった。",
+      "zh": "巨岩即将把两人彻底吞没之际，<br>\n汉娜牵起雪莉的手，轻轻笑了。",
+      "vi": "Khi tảng đá khổng lồ sắp nuốt chửng hoàn toàn hai người họ, Hanna nắm lấy tay Sherry và mỉm cười dịu dàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative116",
+      "speaker_tag": "",
+      "ja": "その時、<ruby=\"かいまみ\">垣間見</ruby>えたハンナの顔は、<br><ruby=\"きれつ\">亀裂</ruby>が消え失せて<br>元の姿に戻っているように見えた。",
+      "zh": "那一刻，<br>\n我窥见汉娜的脸上的裂痕尽数消失，<br>\n像是恢复了原本的模样。",
+      "vi": "Vào lúc đó, Tôi thấy mọi vết nứt trên mặt Hanna đều biến mất, Có vẻ như nó đã trở lại hình dạng ban đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative117",
+      "speaker_tag": "",
+      "ja": "砂時計の上部にあった岩は、<br>全て下部へと落下し――",
+      "zh": "沙漏上部的大量巨岩<br>\n尽数倾注而下——",
+      "vi": "Một số lượng lớn những tảng đá khổng lồ ở phần trên của đồng hồ cát Đổ mọi thứ xuống——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative118",
+      "speaker_tag": "",
+      "ja": "大量に降り注いだ岩の下に、<br>２人の姿は完全に<ruby=\"つぶ\">潰</ruby>され、消えた。",
+      "zh": "高耸的岩石堆底，<br>\n两人的身影被完全碾碎，就此消失。",
+      "vi": "Ở dưới chân một đống đá cao chót vót, Hai bóng người hoàn toàn bị nghiền nát và biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative119",
+      "speaker_tag": "",
+      "ja": "岩の隙間からじわじわとひろがる赤が、<br>鮮やかな蝶になっていく。",
+      "zh": "从岩缝中缓缓渗出的鲜红，<br>\n逐渐化作绚烂红蝶翩翩飞去。",
+      "vi": "Màu đỏ tươi từ từ rỉ ra từ vết nứt của đá, Dần dần nó biến thành một con bướm đỏ rực rỡ và bay đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative120",
+      "speaker_tag": "",
+      "ja": "なれはての<ruby=\"ほうこう\">咆哮</ruby>は、<br>いつまでたっても聞こえてこないまま……",
+      "zh": "许久以后，<br>\n也不曾传来残骸的咆哮声……",
+      "vi": "Sau một thời gian dài, Không có tiếng gầm rú của đống đổ nát...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative121",
+      "speaker_tag": "",
+      "ja": "処刑台は地下へと降りていった。",
+      "zh": "处刑台缓缓降入地底。",
+      "vi": "Bệ hành hình từ từ hạ xuống mặt đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Alisa003",
+      "speaker_tag": "; > Alisa: |#0204Adv14_Alisa003|",
+      "ja": "なんで、橘まで、なんでだよ……！",
+      "zh": "为什么，连橘都要……为什么啊……！",
+      "vi": "Tại sao, ngay cả những quả cam...tại sao...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Miria004",
+      "speaker_tag": "; > Miria: |#0204Adv14_Miria004|",
+      "ja": "うっ、うぅっ、うぅう……っ",
+      "zh": "呜、呜呜……呜呜呜呜……！",
+      "vi": "Woo, woo woo... woo woo woo...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv14_Narrative122",
+      "speaker_tag": "",
+      "ja": "裁判が終わった後も、<br>私たちはしばらく動けなかった。",
+      "zh": "即使审判结束，<br>\n我们也只得留在原地，久久无法动弹。",
+      "vi": "Ngay cả khi thời gian dùng thử kết thúc, Chúng tôi không còn lựa chọn nào khác ngoài việc đứng yên tại chỗ, không thể di chuyển trong thời gian dài.",
+      "objection_links": []
+    }
+  ]
+}

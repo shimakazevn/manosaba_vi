@@ -1,0 +1,848 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Trial05",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Trial05' Naninovel scenario script",
+  "total_entries": 104,
+  "entries": [
+    {
+      "id": "0202Trial05_Ema001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_Ema001|",
+      "ja": "でもそもそも<br>今回の事件には<br>ボクとヒロちゃんしか<br>関われないんだ。",
+      "zh": "可是话说回来，<br>\n这次的案情<br>\n只涉及到我和希罗<br>\n两个人。",
+      "vi": "Nhưng một lần nữa, Vụ án lần này Nó chỉ liên quan đến Hiro và tôi Hai người.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial05_Hiro001|",
+      "ja": "……エマの言葉は正しい。",
+      "zh": "……艾玛说得对。",
+      "vi": "...Ema nói đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial05_Hiro002|",
+      "ja": "死体は<br>私が中庭を通ったあとに<br>発見された。",
+      "zh": "尸体<br>\n是在我经过中庭以后<br>\n才被发现的。",
+      "vi": "Xác chết Đó là sau khi tôi đi qua sảnh Mới phát hiện ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial05_Hiro003|",
+      "ja": "だからエマが<br>犯人だと言っているんだ。<br>……私が死体を<br>見逃したのでもなければね。",
+      "zh": "所以我才说<br>\n艾玛是凶手。<br>\n……前提是<br>\n我经过中庭时确实没看漏尸体。",
+      "vi": "Đó là lý do tôi nói Ema là kẻ giết người. ...Tiền đề là Tôi chắc chắn đã không bỏ lỡ cơ thể khi đi qua tâm nhĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Noah001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_Noah001|",
+      "ja": "あれ？<br>ならヒロちゃんが<br>見逃した可能性は<br>あるってこと？",
+      "zh": "咦？<br>\n那就是说<br>\n也有可能是希罗你<br>\n没注意到尸体？",
+      "vi": "Hả? Điều đó có nghĩa là Đó cũng có thể là Anh hùng bạn Không để ý tới thi thể sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Noah002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_Noah002|",
+      "ja": "ヒロちゃんって、<br>配信でココちゃんが<br>死んだのを見て<br>ココちゃんを<br>探してたんだよね。",
+      "zh": "希罗，<br>\n你在直播中<br>\n看到可可死了<br>\n就过来<br>\n找她了对吧。",
+      "vi": "Anh hùng, Bạn đang tham gia chương trình phát sóng trực tiếp Nhìn thấy Coco chết Chỉ cần đến đây Đang tìm cô ấy phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Noah003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_Noah003|",
+      "ja": "だったら急いで<br>探してたって<br>ことだし……。",
+      "zh": "所以你<br>\n找人找得<br>\n很匆忙……",
+      "vi": "Vậy bạn Tìm ai đó để tìm Đang vội...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Noah004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_Noah004|",
+      "ja": "中庭にあった死体を<br>見逃して通り過ぎても、<br><link=\"Objection_02_02_05_01\">おかしくない</link>んじゃ<br>ないかなー？",
+      "zh": "就算经过中庭时<br>\n没注意到尸体<br>\n也<link=\"Objection_02_02_05_01\">并不出奇</link>吧～？<br>",
+      "vi": "Ngay cả khi đi qua tâm nhĩ Không để ý tới thi thể Không có gì đáng ngạc nhiên khi <link=\"Objection_02_02_05_01\"> là </link>~?",
+      "objection_links": [
+        "Objection_02_02_05_01"
+      ]
+    },
+    {
+      "id": "0202Trial05_Leia001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial05_Leia001|",
+      "ja": "とはいえ、<br>ヒロくんの視認を疑う前に<br>他にも疑問は<br>残っていると思うよ。",
+      "zh": "不过，<br>\n比起质疑希罗的所见，<br>\n我觉得还有<br>\n其他问题更值得讨论。",
+      "vi": "Tuy nhiên, Thay vì đặt câu hỏi về những gì Anh hùng đã nhìn thấy, Tôi nghĩ cũng có Các vấn đề khác đáng được thảo luận hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Noah005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_Noah005|",
+      "ja": "疑問って？",
+      "zh": "什么问题？",
+      "vi": "Vấn đề là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Leia002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial05_Leia002|",
+      "ja": "たとえば……。",
+      "zh": "比如说……",
+      "vi": "Ví dụ...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Leia003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial05_Leia003|",
+      "ja": "ヒロくんはさっき、<br>ココくんが死んだ場所は<br>地下の焼却炉室の<br>可能性が高いと<br>示していたよね。",
+      "zh": "希罗，你刚才说<br>\n可可的死亡地点<br>\n很有可能是<br>\n地下的焚烧炉室，<br>\n对吧。",
+      "vi": "Anh hùng, bạn vừa nói Nơi chết của Coco Rất có thể Phòng đốt rác ngầm, Đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Leia004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial05_Leia004|",
+      "ja": "けれど、<br>死体は中庭で見つかっている。<br>この<link=\"Objection_02_02_05_02\">矛盾の説明</link>が<br>できていないよ。",
+      "zh": "然而，<br>\n尸体是在中庭被发现的。<br>\n这个<link=\"Objection_02_02_05_02\">矛盾目前讲不通</link>。<br>",
+      "vi": "Tuy nhiên, Thi thể được tìm thấy ở tâm nhĩ. Sự mâu thuẫn <link=\"Objection_02_02_05_02\"> này hiện không có ý nghĩa gì </link>.",
+      "objection_links": [
+        "Objection_02_02_05_02"
+      ]
+    },
+    {
+      "id": "0202Trial05_Miria001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_Miria001|",
+      "ja": "たしかにそうかも……！",
+      "zh": "还真是……！",
+      "vi": "Thật sự là...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Miria002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_Miria002|",
+      "ja": "もし誰かが<br>地下から<br>中庭に運んだなら……。",
+      "zh": "如果是谁<br>\n把尸体从地下<br>\n搬运到了中庭……",
+      "vi": "Nếu ai là Đưa thi thể ra khỏi mặt đất Đã chuyển đến tâm nhĩ ...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Miria003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_Miria003|",
+      "ja": "それって、<br>ヒロちゃんと<br>エマちゃんの間に<br>タイミング良く<br>滑り込んだって<br>ことだよね。",
+      "zh": "那就意味着<br>\n这个人掐准了<br>\n希罗和艾玛<br>\n两人行动之间的<br>\n时间窗口。<br>",
+      "vi": "Điều đó có nghĩa là Người này đã hiểu đúng Anh hùng và Ema giữa hành động của hai người cửa sổ thời gian.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_AnAn001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial05_AnAn001|",
+      "ja": "『それはそもそも<br>不可能だ』",
+      "zh": "『这根本<br>\n不可能』",
+      "vi": "\"Đây hoàn toàn là Không thể",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Leia005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial05_Leia005|",
+      "ja": "ラウンジには<br><link=\"Objection_02_02_05_03\">私とアンアンくん</link>が<br>いた……。",
+      "zh": "<link=\"Objection_02_02_05_03\">我和安安</link><br>\n当时就在<br>\n会客厅里……",
+      "vi": "<link=\"Objection_02_02_05_03\">An'an và tôi</link>_TAG_2__ Lúc đó tôi đang ở Trong phòng khách...",
+      "objection_links": [
+        "Objection_02_02_05_03"
+      ]
+    },
+    {
+      "id": "0202Trial05_Miria004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_Miria004|",
+      "ja": "地下の焼却炉室から<br>中庭に行くには、<br>ラウンジを<br>通らなきゃだよね。",
+      "zh": "要从地下的焚烧炉室<br>\n前往中庭，<br>\n必须经过<br>\n会客厅。",
+      "vi": "Từ phòng đốt rác dưới lòng đất Đi tới sảnh, Phải trải qua Phòng khách.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Alisa001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial05_Alisa001|",
+      "ja": "たしかに<br>ラウンジを通らねーと<br>死体を中庭に<br>運ぶことは<br><link=\"Objection_02_02_05_04\">不可能</link>だ。",
+      "zh": "不经过会客厅<br>\n确实<link=\"Objection_02_02_05_04\">不可能</link><br>\n把尸体<br>\n搬到中庭。<br>",
+      "vi": "Không đi qua phòng khách Quả thực<link=\"Objection_02_02_05_04\">không thể</link> Đặt cơ thể Đã chuyển đến tâm nhĩ.",
+      "objection_links": [
+        "Objection_02_02_05_04"
+      ]
+    },
+    {
+      "id": "0202Trial05_Noah006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_Noah006|",
+      "ja": "遠回りしても、<br>誰かしらに<br>会っちゃいそうだよね。",
+      "zh": "就算绕远路，<br>\n也有可能<br>\n遇到其他人呢。",
+      "vi": "Ngay cả khi phải đi một chặng đường dài, Cũng có thể Gặp gỡ những người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Sherry001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial05_Sherry001|",
+      "ja": "ということはやっぱり、<br>エマさんとヒロさんの<br>どちらかが犯人って<br>ことですね！",
+      "zh": "那也就是说，<br>\n凶手还是<br>\n艾玛和希罗<br>\n二选一咯！",
+      "vi": "Nghĩa là, Kẻ sát nhân vẫn là Ema và Hiro Hãy chọn một trong hai!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_AnAn002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_AnAn002|",
+      "ja": "『そういうことになる』",
+      "zh": "『正是如此』",
+      "vi": "\"Chính xác là vậy\"",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_AnAn003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial05_AnAn003|",
+      "ja": "……何か反論はあるか？",
+      "zh": "……有人要反对吗？",
+      "vi": "…Có ai muốn phản đối không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro004|",
+      "ja": "（第三者の可能性……か）",
+      "zh": "（凶手有可能是第三者吗……）",
+      "vi": "(Có lẽ kẻ sát nhân là bên thứ ba...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro005|",
+      "ja": "（仮にエマが犯人なら、<br>　第三者の可能性がないことを<br>　証明してやればいい）",
+      "zh": "（如果艾玛是凶手的话，<br>\n就只需证明<br>\n凶手不可能是第三者）",
+      "vi": "(Nếu Ema là kẻ sát nhân, Chỉ cần chứng minh Kẻ giết người không thể là bên thứ ba)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro006|",
+      "ja": "（逆に、そうでないのなら……）",
+      "zh": "（反过来说，如果她不是凶手……）",
+      "vi": "(Mặt khác, nếu cô ấy không phải là kẻ giết người...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro007|",
+      "ja": "（【第三者が介入した可能性】を指摘する必要がある）",
+      "zh": "（就必须指出【有第三者介入的可能性】）",
+      "vi": "(Phải chỉ ra [khả năng can thiệp của bên thứ ba])",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro008|",
+      "ja": "（もしも本当にエマが犯人でないなら……だが）",
+      "zh": "（但前提是……艾玛真的不是凶手）",
+      "vi": "(Nhưng tiền đề là... Ema thực sự không phải là kẻ sát nhân)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Choice001",
+      "speaker_tag": "; > @choice |#0202Trial05_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "私が見逃すはずがない",
+      "zh": "我不可能没注意到",
+      "vi": "Không thể nào tôi lại không nhận ra",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Choice002",
+      "speaker_tag": "; > @choice |#0202Trial05_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "殺害現場は中庭だった",
+      "zh": "杀人现场是中庭",
+      "vi": "Hiện trường vụ án mạng xảy ra ở sân trong",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Choice003",
+      "speaker_tag": "; > @choice |#0202Trial05_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "レイアたちが見落とした",
+      "zh": "是你们没注意到",
+      "vi": "Bạn đã không để ý",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Choice004",
+      "speaker_tag": "; > @choice |#0202Trial05_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "中庭に入る方法があった",
+      "zh": "有其他进入中庭的途径",
+      "vi": "Có nhiều cách khác để vào tâm nhĩ",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro009|",
+      "ja": "私が見逃すはずはない。",
+      "zh": "我不可能没注意到。",
+      "vi": "Không thể nào tôi lại không nhận ra được.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro010|",
+      "ja": "中庭だってちゃんと見ていた。",
+      "zh": "中庭我也仔细看过了。",
+      "vi": "Tôi cũng đã nhìn kỹ vào tâm nhĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hanna001",
+      "speaker_tag": "; > Hanna: |#0202Trial05_Hanna001|",
+      "ja": "ウソおっしゃいませですわーッ！！",
+      "zh": "你肯定在说谎！！",
+      "vi": "Chắc chắn là bạn đang nói dối! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro011|",
+      "ja": "な、なにを根拠に――！",
+      "zh": "你、你有什么证据——！",
+      "vi": "Bạn, bạn có bằng chứng gì——!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hanna002",
+      "speaker_tag": "; > Hanna: |#0202Trial05_Hanna002|",
+      "ja": "死体発見直前……２階に上がる階段で<br>ヒロさんはわたくしに激突してきましたの！",
+      "zh": "就在尸体被发现的前不久……你在楼梯上<br>\n狠狠撞到了我！",
+      "vi": "Ngay trước khi thi thể được phát hiện...bạn đang ở trên cầu thang Hãy đánh Bổn tiểu thư thật mạnh!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hanna003",
+      "speaker_tag": "; > Hanna: |#0202Trial05_Hanna003|",
+      "ja": "前方不注意！！<br>ヒロさんが周囲をちゃんと見ていたとは言い切れませんわー！！",
+      "zh": "连路都不注意看！！<br>\n你怎么敢肯定自己有仔细观察周围的情况！！",
+      "vi": "Thậm chí không chú ý đến đường đi! ! Làm thế nào bạn có thể chắc chắn rằng bạn đã quan sát cẩn thận xung quanh Bổn tiểu thư! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro012|",
+      "ja": "（……そういえばそうだった）",
+      "zh": "（……确实有过这么一回事）",
+      "vi": "(...Chuyện như vậy đã xảy ra)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro013|",
+      "ja": "（……ぶつかったという事実がある以上、説得力がないか……）",
+      "zh": "（……既然我撞到了她，这个论点就没有说服力了……）",
+      "vi": "(…Giờ mình gặp cô ấy rồi, lập luận này không còn thuyết phục nữa…)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro014",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro014|",
+      "ja": "（ひとまずは何が真実で、何が錯覚なのかを見極めよう）",
+      "zh": "（先一一辨清哪些是真事，哪些是错觉吧）",
+      "vi": "(Trước tiên chúng ta hãy phân biệt từng cái một cái nào là thật và cái nào là ảo tưởng)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro015",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro015|",
+      "ja": "（可能性を潰した先に、真実はある……）",
+      "zh": "（在扫清所有不可能以后，一定能看到真相……）",
+      "vi": "(Sau khi giải quyết hết những điều không thể, bạn chắc chắn sẽ có thể nhìn ra sự thật...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro016",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro016|",
+      "ja": "（……殺害現場が焼却炉室だと仮定したら、<br>　【中庭に死体がある状況】は成立するのか……？）",
+      "zh": "（……假如杀人现场是焚烧炉室，<br>\n那让【尸体出现在中庭】的方法到底是……？）",
+      "vi": "(...Nếu hiện trường vụ án mạng là một phòng đốt rác, Vậy phương pháp làm cho [xác chết xuất hiện trong tâm nhĩ] là gì...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro017",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro017|",
+      "ja": "……とすると、<br>ココはやはり中庭で殺されたんだ。",
+      "zh": "……那么，<br>\n可可就是在中庭被杀害的。",
+      "vi": "...thì, Coco đã bị giết ở tâm nhĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Noah007",
+      "speaker_tag": "; > Noah: |#0202Trial05_Noah007|",
+      "ja": "え？ なんで？",
+      "zh": "欸？为什么？",
+      "vi": "Hả? Tại sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0202Trial05_Nanoka001|",
+      "ja": "じゃあ地下の血痕はなんだったのかしら。",
+      "zh": "那地下的血迹你要怎么解释。",
+      "vi": "Bạn giải thích thế nào về vết máu trên mặt đất?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_AnAn004",
+      "speaker_tag": "; > AnAn: |#0202Trial05_AnAn004|",
+      "ja": "『話をひっくり返すな』",
+      "zh": "『别反复推翻结论』",
+      "vi": "\"Đừng lật lại kết luận nhiều lần\"",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro018",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro018|",
+      "ja": "（……矛盾が説明できないか）",
+      "zh": "（……看来这个说法无法解释矛盾）",
+      "vi": "(...Có vẻ như câu nói này không thể giải thích được sự mâu thuẫn)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro019",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro019|",
+      "ja": "（ひとまずは何が真実で、何が錯覚なのかを見極めよう）",
+      "zh": "（先一一辨清哪些是真事，哪些是错觉吧）",
+      "vi": "(Trước tiên chúng ta hãy phân biệt từng cái một cái nào là thật và cái nào là ảo tưởng)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro020",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro020|",
+      "ja": "（可能性を潰した先に、真実はある……）",
+      "zh": "（在扫清所有不可能以后，一定能看到真相……）",
+      "vi": "(Sau khi giải quyết hết những điều không thể, bạn chắc chắn sẽ có thể nhìn ra sự thật...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro021",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro021|",
+      "ja": "（……殺害現場が焼却炉室だと仮定したら、<br>　【中庭に死体がある状況】は成立するのか……？）",
+      "zh": "（……假如杀人现场是焚烧炉室，<br>\n那让【尸体出现在中庭】的方法到底是……？）",
+      "vi": "(...Nếu hiện trường vụ án mạng là một phòng đốt rác, Vậy phương pháp làm cho [xác chết xuất hiện trong tâm nhĩ] là gì...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro022",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro022|",
+      "ja": "なら、可能性は１つ。",
+      "zh": "那么，只剩下一种可能性。",
+      "vi": "Vậy thì chỉ còn lại một khả năng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro023",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro023|",
+      "ja": "レイアたちは雑談に夢中で<br>犯人を見落としたに違いない。",
+      "zh": "一定是你们当时沉迷在闲聊之中，<br>\n没注意到凶手。",
+      "vi": "Chắc hẳn lúc đó bạn đang thích nói chuyện phiếm, Không để ý tới kẻ giết người.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Leia006",
+      "speaker_tag": "; > Leia: |#0202Trial05_Leia006|",
+      "ja": "ちょ、ちょっと待ってくれたまえ。",
+      "zh": "等、等一等。",
+      "vi": "Đợi đã, đợi một chút.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Leia007",
+      "speaker_tag": "; > Leia: |#0202Trial05_Leia007|",
+      "ja": "死体を担いだ犯人がラウンジを横切ったら、<br>さすがに私たちだって気付くはずさ。",
+      "zh": "如果凶手扛着尸体穿过会客厅，<br>\n再怎么说我们肯定会注意到。",
+      "vi": "Nếu kẻ sát nhân mang xác qua phòng khách, Dù sao chúng tôi chắc chắn sẽ nhận thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Miria005",
+      "speaker_tag": "; > Miria: |#0202Trial05_Miria005|",
+      "ja": "何か理由があったっていうなら別だけど……。",
+      "zh": "除非有什么别的原因……",
+      "vi": "Trừ khi có lý do nào khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_AnAn005",
+      "speaker_tag": "; > AnAn: |#0202Trial05_AnAn005|",
+      "ja": "『透明にでもなっていない限り<br>　気付くだろうな』",
+      "zh": "『只要没变成透明人<br>\n我们肯定会注意到』",
+      "vi": "\"Chỉ cần bạn không trở nên minh bạch Chúng tôi chắc chắn sẽ chú ý",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Leia008",
+      "speaker_tag": "; > Leia: |#0202Trial05_Leia008|",
+      "ja": "私たちの視認に文句をつけるなら、<br>その根拠を示してもらおう！",
+      "zh": "对我们的目击情报有意见的话，<br>\n就拿出证据来！",
+      "vi": "Nếu bạn có bất kỳ câu hỏi nào về thông tin quan sát của chúng tôi, Hãy chỉ cho tôi bằng chứng!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro024",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro024|",
+      "ja": "（……たしかに根拠になるものは何もないか）",
+      "zh": "（……那我确实没有证据能证明）",
+      "vi": "(...Vậy thì mình thực sự không có bằng chứng nào để chứng minh điều đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro025",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro025|",
+      "ja": "（ひとまずは何が真実で、何が錯覚なのかを見極めよう）",
+      "zh": "（先一一辨清哪些是真事，哪些是错觉吧）",
+      "vi": "(Trước tiên chúng ta hãy phân biệt từng cái một cái nào là thật và cái nào là ảo tưởng)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro026",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro026|",
+      "ja": "（可能性を潰した先に、真実はある……）",
+      "zh": "（在扫清所有不可能以后，一定能看到真相……）",
+      "vi": "(Sau khi giải quyết hết những điều không thể, bạn chắc chắn sẽ có thể nhìn ra sự thật...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro027",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro027|",
+      "ja": "（……殺害現場が焼却炉室だと仮定したら、<br>　【中庭に死体がある状況】は成立するのか……？）",
+      "zh": "（……假如杀人现场是焚烧炉室，<br>\n那让【尸体出现在中庭】的方法到底是……？）",
+      "vi": "(...Nếu hiện trường vụ án mạng là một phòng đốt rác, Vậy phương pháp làm cho [xác chết xuất hiện trong tâm nhĩ] là gì...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro028",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro028|",
+      "ja": "【中庭に入れない】……？<br>いや、そんなことはないよ。",
+      "zh": "【进不去中庭】……？<br>\n不，那可不一定。",
+      "vi": "[Không thể vào tâm nhĩ]...? Không, điều đó không nhất thiết phải như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro029",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro029|",
+      "ja": "中庭に入る方法は他にもある。",
+      "zh": "还有其他进入中庭的途径。",
+      "vi": "Có nhiều cách khác để vào tâm nhĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Alisa002",
+      "speaker_tag": "; > Alisa: |#0202Trial05_Alisa002|",
+      "ja": "んだと？<br>じゃあどっから入ったんだ。",
+      "zh": "你说什么？<br>\n那到底能从哪进去。",
+      "vi": "Bạn đã nói gì? Vậy mày có thể vào ở đâu?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Leia009",
+      "speaker_tag": "; > Leia: |#0202Trial05_Leia009|",
+      "ja": "中庭は三方が壁に囲まれていて、<br>正面の廊下からしか入ることはできない……。",
+      "zh": "中庭被三面墙围住，<br>\n只能从正面的走廊进入……",
+      "vi": "Tâm nhĩ được bao quanh bởi ba bức tường, Chỉ có thể vào từ hành lang phía trước....",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Leia010",
+      "speaker_tag": "; > Leia: |#0202Trial05_Leia010|",
+      "ja": "にも関わらず、ヒロくんは【入れた】と言うんだね。",
+      "zh": "然而，你却说凶手【能进去】。",
+      "vi": "Tuy nhiên, bạn nói kẻ sát nhân [có thể vào được].",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro030",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro030|",
+      "ja": "やれやれ。<br>ここまで説明してもわからないのか？",
+      "zh": "服了你们。<br>\n我都说到这份上了，你们还不明白吗？",
+      "vi": "Tôi rất ấn tượng với bạn. Tôi đã nói về điều này rồi, bạn hiểu không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro031",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro031|",
+      "ja": "犯人はある場所から中庭に侵入したんだ。<br>その場所とは……。",
+      "zh": "凶手是从某个地方潜入中庭的。<br>\n那就是……",
+      "vi": "Kẻ sát nhân đã lẻn vào giếng trời từ đâu đó. Đó là...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Choice005",
+      "speaker_tag": "; > @choice |#0202Trial05_Choice005|",
+      "ja": "壁",
+      "zh": "墙壁",
+      "vi": "bức tường",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Choice006",
+      "speaker_tag": "; > @choice |#0202Trial05_Choice006|",
+      "ja": "土",
+      "zh": "地下",
+      "vi": "dưới lòng đất",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Choice007",
+      "speaker_tag": "; > @choice |#0202Trial05_Choice007|",
+      "ja": "空",
+      "zh": "空中",
+      "vi": "không khí",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro032",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro032|",
+      "ja": "……壁だ。",
+      "zh": "……墙壁。",
+      "vi": "...những bức tường.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro033",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro033|",
+      "ja": "中庭の壁に隠し扉があったんだよ。",
+      "zh": "中庭的墙壁上有扇隐藏的门。",
+      "vi": "Có một cánh cửa ẩn trong bức tường giếng trời.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0202Trial05_Nanoka002|",
+      "ja": "……何を根拠にそんなことを？",
+      "zh": "……你这话有什么依据？",
+      "vi": "…Cơ sở cho tuyên bố của bạn là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_AnAn006",
+      "speaker_tag": "; > AnAn: |#0202Trial05_AnAn006|",
+      "ja": "『わがはいたちも現場検証を徹底したがなかったぞ』",
+      "zh": "『我们已经彻底调查过现场了，但并没有发现』",
+      "vi": "“Chúng tôi đã điều tra kỹ lưỡng hiện trường nhưng không tìm thấy gì cả.”",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Noah008",
+      "speaker_tag": "; > Noah: |#0202Trial05_Noah008|",
+      "ja": "もしかして……<br>ヒロちゃん、隠し通路の証拠とか見つけた？",
+      "zh": "还是说……<br>\n希罗你找到了存在秘密通道的证据？",
+      "vi": "Hoặc... Anh hùng, anh đã tìm thấy bằng chứng về một lối đi bí mật chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro034",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro034|",
+      "ja": "いや……特に証拠はないが。",
+      "zh": "不……我没什么证据。",
+      "vi": "Không...Tôi không có bằng chứng nào cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Alisa003",
+      "speaker_tag": "; > Alisa: |#0202Trial05_Alisa003|",
+      "ja": "なんとなくで推理してんじゃねーぞ。",
+      "zh": "别光靠直觉推理啊。",
+      "vi": "Đừng chỉ dựa vào lý luận trực quan.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro035",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro035|",
+      "ja": "（……そんな便利な抜け道はないか）",
+      "zh": "（……看来没有那么便捷的近路）",
+      "vi": "(…Có vẻ như không có lối tắt thuận tiện như vậy)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro036",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro036|",
+      "ja": "（だが中庭は完全な密室ではない……）",
+      "zh": "（但中庭并不是个完全的密室……）",
+      "vi": "(Nhưng sảnh không phải là một căn phòng hoàn toàn bí mật...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro037",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro037|",
+      "ja": "（行き来ができる場所があるとしたら――）",
+      "zh": "（要说能从哪里进出中庭——）",
+      "vi": "(Hãy cho tôi biết nơi bạn có thể vào và ra khỏi giếng trời——)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro038",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro038|",
+      "ja": "土の中だ。",
+      "zh": "地里。",
+      "vi": "trong lòng đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro039",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro039|",
+      "ja": "犯人はあらかじめ外から地面を掘って<br>中庭に通じる抜け穴を作っていたんだよ。",
+      "zh": "凶手事先从外面<br>\n挖掘出一条通往中庭的地下洞穴。",
+      "vi": "Kẻ sát nhân từ bên ngoài đến trước Khai quật một hang động ngầm dẫn đến tâm nhĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Miria006",
+      "speaker_tag": "; > Miria: |#0202Trial05_Miria006|",
+      "ja": "……で、でも死体を持って<br>中庭に入らなきゃならないんだよね……？",
+      "zh": "……可、可那样的话，<br>\n凶手得背着尸体进入中庭吧……？",
+      "vi": "...Nhưng, trong trường hợp đó, Kẻ sát nhân phải khiêng xác vào trong nhà, phải không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Miria007",
+      "speaker_tag": "; > Miria: |#0202Trial05_Miria007|",
+      "ja": "ふたりも人間が通り抜けられるような穴なんてあったら<br>すぐにわかりそうなものだけど……。",
+      "zh": "如果洞穴宽到足够两个人通过，<br>\n肯定能一眼发现……",
+      "vi": "Nếu hang đủ rộng cho hai người lọt qua, Bạn chắc chắn có thể nhận ra nó chỉ trong nháy mắt...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Noah009",
+      "speaker_tag": "; > Noah: |#0202Trial05_Noah009|",
+      "ja": "そんな穴なかったよー？",
+      "zh": "但是我们没发现那么大的洞穴呀？",
+      "vi": "Nhưng chúng ta không tìm thấy một cái hang lớn như vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0202Trial05_Nanoka003|",
+      "ja": "……死体に土がついていたわけでもないのだしね。",
+      "zh": "……而且尸体上面也没有沾到土。",
+      "vi": "...và không có đất trên cơ thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0202Trial05_Nanoka004|",
+      "ja": "その可能性は、検討する必要があるのかしら。",
+      "zh": "你这个说法真的有必要讨论吗？",
+      "vi": "Tuyên bố của bạn có thực sự cần thiết để thảo luận?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro040",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro040|",
+      "ja": "（……地中からの侵入を示す痕跡はないか）",
+      "zh": "（……看来没有从地里潜入中庭的痕迹）",
+      "vi": "(...Có vẻ như không có dấu vết lẻn vào giếng trời từ mặt đất)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro041",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro041|",
+      "ja": "（だが中庭は完全な密室ではない……）",
+      "zh": "（但中庭并不是个完全的密室……）",
+      "vi": "(Nhưng sảnh không phải là một căn phòng hoàn toàn bí mật...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro042",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro042|",
+      "ja": "（行き来ができる場所があるとしたら――）",
+      "zh": "（要说能从哪里进出中庭——）",
+      "vi": "(Hãy cho tôi biết nơi bạn có thể vào và ra khỏi giếng trời——)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro043",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro043|",
+      "ja": "それはもちろん、【空】だ。",
+      "zh": "当然，是从【空中】进入的。",
+      "vi": "Tất nhiên, nó được đưa vào từ [không khí].",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro044",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro044|",
+      "ja": "庭園に植物はつきもの。<br>そしてそれは【日光】を必要とする。",
+      "zh": "庭院里种了植物，<br>\n而这些植物需要【阳光】。",
+      "vi": "Có cây trồng trong sân, Và những cây này cần [ánh sáng mặt trời].",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro045",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro045|",
+      "ja": "当然、中庭は吹き抜け……<br>直接空と繋がっているんだ。",
+      "zh": "所以，中庭自然是露天的……<br>\n直接与天空相连。",
+      "vi": "Vì vậy, giếng trời có không gian thoáng đãng tự nhiên... Kết nối trực tiếp với bầu trời.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hiro046",
+      "speaker_tag": "; > Hiro: |#0202Trial05_Hiro046|",
+      "ja": "屋根がない空間は、密室とは言えないんだよ。",
+      "zh": "没有屋顶的空间可称不上密室。",
+      "vi": "Một không gian không có mái che không phải là căn phòng bí mật.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Leia011",
+      "speaker_tag": "; > Leia: |#0202Trial05_Leia011|",
+      "ja": "なるほど……！<br>ココくんは空を飛んで中庭に……！",
+      "zh": "原来如此……！<br>\n可可是从空中飞进了中庭……！",
+      "vi": "Thế đấy…! Coco bay vào tâm nhĩ từ trên không...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Sherry002",
+      "speaker_tag": "; > Sherry: |#0202Trial05_Sherry002|",
+      "ja": "つまり犯人は空中を浮いて<br>ココさんの死体を運んだということですね！",
+      "zh": "换言之，凶手是通过空中飘浮的方式<br>\n把可可搬到了中庭对吧！",
+      "vi": "Nói cách khác, kẻ sát nhân đã lơ lửng trên không Di chuyển Coco đến tâm nhĩ, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Sherry003",
+      "speaker_tag": "; > Sherry: |#0202Trial05_Sherry003|",
+      "ja": "そんなことができたのは――。",
+      "zh": "而拥有这个能力的人只有——",
+      "vi": "Và những người duy nhất có khả năng này là——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Sherry004",
+      "speaker_tag": "; > Sherry: |#0202Trial05_Sherry004|",
+      "ja": "――空を飛ぶ魔法が使えるハンナさん！<br>あなたが犯人だったんですねー！",
+      "zh": "——能使用飞天魔法的汉娜！<br>\n你就是凶手吧！",
+      "vi": "--Hanna, người có thể sử dụng phép thuật bay! Bạn phải là kẻ giết người!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hanna004",
+      "speaker_tag": "; > Hanna: |#0202Trial05_Hanna004|",
+      "ja": "なっ……！？",
+      "zh": "什么……！？",
+      "vi": "Cái gì...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial05_Hanna005",
+      "speaker_tag": "; > Hanna: |#0202Trial05_Hanna005|",
+      "ja": "なんですってのーー！？",
+      "zh": "你说什么——！？",
+      "vi": "Cậu vừa nói gì thế——! ?",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Trial08",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Trial08' Naninovel scenario script",
+  "total_entries": 97,
+  "entries": [
+    {
+      "id": "0101Trial08_Leia001",
+      "speaker_tag": "; > @printDebate pos:70,55 roll:4 |#0101Trial08_Leia001|",
+      "ja": "ああそうそう、<br>思い出したよ。<br><link=\"Objection_01_01_08_01\">小腹が空いて</link><br><link=\"Objection_01_01_08_02\">食堂</link>にでも行った気がするな。<br>いや、どうだったかな？<br><link=\"Objection_01_01_08_03\">勘違い</link>かも。",
+      "zh": "啊对了，<br>\n我想起来了。<br>\n我好像<link=\"Objection_01_01_08_01\">肚子饿了</link>，<br>\n然后去了<link=\"Objection_01_01_08_02\">食堂</link>。<br>\n唔，是这样吗？<br>\n或许是我<link=\"Objection_01_01_08_03\">记错</link>了。",
+      "vi": "À, vâng, Tôi đã nhớ ra. Có vẻ như tôi đang <link=\"Objection_01_01_08_01\"> đói </link>, Sau đó chúng tôi tới <link=\"Objection_01_01_08_02\">Nhà Ăn</link>. Ờ, vậy à? Có lẽ tôi <link=\"Objection_01_01_08_03\"> đã nhớ nhầm </link>.",
+      "objection_links": [
+        "Objection_01_01_08_01",
+        "Objection_01_01_08_02",
+        "Objection_01_01_08_03"
+      ]
+    },
+    {
+      "id": "0101Trial08_Margo001",
+      "speaker_tag": "; > @printDebate pos:35,62 roll:-4 |#0101Trial08_Margo001|",
+      "ja": "ふふ、<br>お腹が空いたなら<br>しょうがないわよねぇ。",
+      "zh": "呵呵，<br>\n真是饿肚子的话<br>\n就情有可原呢。",
+      "vi": "Haha, Nếu em thực sự đói Nó có thể tha thứ được.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Alisa001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0101Trial08_Alisa001|",
+      "ja": "そんな適当な話を<br>信じろってのか？",
+      "zh": "所以不管你怎么胡说八道，<br>\n我们只要相信就好咯？",
+      "vi": "Vì vậy, cho dù mày có nói những điều vô nghĩa đến đâu, Tất cả những gì chúng ta cần làm là tin tưởng, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia002",
+      "speaker_tag": "; > @printDebate pos:35,62 roll:-4 |#0101Trial08_Leia002|",
+      "ja": "悪い悪い。<br>バカにする気はないよ。<br>……けど、こんなことを話して<br>本当に意味があるのかな？",
+      "zh": "抱歉了，我没有把大家<br>\n当傻子看的意思。<br>\n……可是，我们讨论这个<br>\n真的有意义吗？",
+      "vi": "Xin lỗi, tôi đã không mọi người Nó có nghĩa là nhìn nó như một kẻ ngốc. …Nhưng, hãy cùng thảo luận về vấn đề này Liệu nó thực sự có ý nghĩa?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia003",
+      "speaker_tag": "; > @printDebate pos:35,50 roll:-4 |#0101Trial08_Leia003|",
+      "ja": "たしかに私には<br>アリバイがないのかも<br>しれないね。<br>けれどそれは<br>とても些末なことだと<br>思わないかい？",
+      "zh": "我也许<br>\n拿不出<br>\n不在场证明。<br>\n可是，你们不觉得<br>\n这件事小到<br>\n根本不值一提吗？",
+      "vi": "Tôi có thể Không thể nhận được Ngoại phạm. Nhưng bạn có nghĩ Thứ này nhỏ bằng Không đáng nhắc tới chút nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia004",
+      "speaker_tag": "; > @printDebate pos:40,50 roll:-4 |#0101Trial08_Leia004|",
+      "ja": "……なぜなら私は<br><link=\"Objection_01_01_08_04\">空を飛べない</link>んだ。<br>私には<link=\"Objection_01_01_08_05\">塗料を越え</link>、<br>入り口から３ｍほどは離れた<br><link=\"Objection_01_01_08_06\">ノアくんに近付く方法がない</link>。",
+      "zh": "……毕竟，<br>\n我<link=\"Objection_01_01_08_04\">不会飞</link>。<br>\n诺亚离门口足足有3米远，<br>\n中间还<link=\"Objection_01_01_08_05\">有颜料挡着</link>，<br>\n<link=\"Objection_01_01_08_06\">我根本没办法接近她</link>。",
+      "vi": "…Sau tất cả, Tôi <link=\"Objection_01_01_08_04\"> không thể bay</link>. Noah cách cửa đủ 3 mét, Ngoài ra còn có <link=\"Objection_01_01_08_05\"> ở giữa có sơn chặn </link>, <link=\"Objection_01_01_08_06\">Tôi không thể đến gần cô ấy chút nào</link>.",
+      "objection_links": [
+        "Objection_01_01_08_04",
+        "Objection_01_01_08_05",
+        "Objection_01_01_08_06"
+      ]
+    },
+    {
+      "id": "0101Trial08_Leia005",
+      "speaker_tag": "; > @printDebate pos:40,55 roll:-4 |#0101Trial08_Leia005|",
+      "ja": "……だからね、<br>この話題をいくら続けたって<br>意味がないんだよ。<br>もっと建設的な話をしようか。",
+      "zh": "……所以我觉得，<br>\n继续讨论这个话题根本没意义。<br>\n不如来讨论其他<br>\n更有建设意义的事，怎样？",
+      "vi": "...Vì vậy tôi nghĩ, Không có ích gì khi tiếp tục cuộc thảo luận này. Tại sao không thảo luận về khác Còn điều gì đó mang tính xây dựng hơn thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Nanoka001",
+      "speaker_tag": "; > @printDebate pos:70,45 roll:4 |#0101Trial08_Nanoka001|",
+      "ja": "……必要かどうかは、<br>私たちが決めるわ。<br>少なくとも<br>あなたが決める事じゃ<br>ないでしょう。",
+      "zh": "……有没有必要<br>\n继续讨论，<br>\n由我们来决定。<br>\n这件事至少你<br>\n没资格决定。",
+      "vi": "...Có cần thiết không Tiếp tục thảo luận, Tùy chúng ta quyết định. Ít nhất bạn vấn đề này Không đủ tư cách để quyết định.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema001",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema001|",
+      "ja": "（レイアちゃんの意見は一見<br>　筋が通っているような気がする……。<br>　でも何か、引っかかるかも……）",
+      "zh": "（乍一看蕾雅的主张<br>\n好像逻辑上讲得通……<br>\n可是我总感觉，有什么地方不太自然……）",
+      "vi": "(Thoạt nhìn, tuyên bố của Leya Về mặt logic thì có vẻ hợp lý... Nhưng tôi luôn cảm thấy có gì đó không tự nhiên...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema002",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema002|",
+      "ja": "（それに、あのときたしか<br>　レイアちゃんとは地下で<br>　会ってたような……）",
+      "zh": "（而且，我记得那时<br>\n我好像在地下<br>\n和蕾雅碰过面……）",
+      "vi": "(Ngoài ra, tôi còn nhớ rằng Có vẻ như tôi đang ở dưới lòng đất Đã gặp Leya...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema003",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema003|",
+      "ja": "（可能性を検討してみよう。<br>　レイアちゃんの言っていることで、<br>　間違ってるかもしれないことはないかな……）",
+      "zh": "（思考一下可能性吧。<br>\n在蕾雅的发言当中，<br>\n有没有什么地方是不对的呢……）",
+      "vi": "(Hãy nghĩ về các khả năng có thể xảy ra. Trong bài phát biểu của Leya, Có chuyện gì à...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Choice001",
+      "speaker_tag": "; > @choice |#0101Trial08_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "お腹が空いていたはずはない",
+      "zh": "不可能肚子饿",
+      "vi": "Không thể đói được",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Choice002",
+      "speaker_tag": "; > @choice |#0101Trial08_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "レイアは食堂に行っていない",
+      "zh": "蕾雅没有去食堂",
+      "vi": "Leia không đến Nhà Ăn",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Choice003",
+      "speaker_tag": "; > @choice |#0101Trial08_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "記憶が曖昧なはずはない",
+      "zh": "记忆不可能这么模糊",
+      "vi": "Ký ức không thể mơ hồ thế này được",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Choice004",
+      "speaker_tag": "; > @choice |#0101Trial08_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "空を飛べるかもしれない",
+      "zh": "也许你其实会飞",
+      "vi": "Có lẽ bạn thực sự có thể bay",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Choice005",
+      "speaker_tag": "; > @choice |#0101Trial08_Choice005| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "塗料を越える必要はない",
+      "zh": "没有必要绕过颜料",
+      "vi": "Không cần phải bỏ qua các sắc tố",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Choice006",
+      "speaker_tag": "; > @choice |#0101Trial08_Choice006| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "ノアに近付く方法があった",
+      "zh": "有办法接近诺亚",
+      "vi": "Có cách nào để đến gần Nô-ê không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema004",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema004|",
+      "ja": "……待って！ おかしいよ！<br>そのとき夕飯の直後だったはず……！<br>すぐにお腹が空くなんてありえないよ……！",
+      "zh": "……等一下！这很不对劲！<br>\n那时是晚餐过后刚不久……！<br>\n不可能马上就饿肚子……！",
+      "vi": "...Đợi một chút! Điều này rất sai lầm! Vừa mới ăn tối xong...! Không thể nào tôi lại đói ngay được...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia006",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia006|",
+      "ja": "そうは言っても、お腹が空いたんだ。<br>それとも私が空腹を感じていなかった<br>証拠でもあるのかい？",
+      "zh": "道理是这么说，可是我肚子饿不饿，又不是你说了算。<br>\n还是说，你有证据证明<br>\n我当时肚子并没有饿吗？",
+      "vi": "Đó là sự thật nhưng không phải bạn là người quyết định cuối cùng tôi có đói hay không. Hoặc bạn có bằng chứng cho thấy Tôi không đói à?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema005",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema005|",
+      "ja": "……それは。",
+      "zh": "这……",
+      "vi": "Đây...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia007",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia007|",
+      "ja": "私の個人的な感覚まで否定されるのは……<br>とても悲しいな。<br>ただでさえこんな所に閉じ込められているのにね。",
+      "zh": "连我的个人感觉都要否定……<br>\n真让我伤心。<br>\n被关在这个地方我都没感到那么伤心。",
+      "vi": "Ngay cả cảm xúc cá nhân của tôi cũng phải bị từ chối... Nó làm tôi buồn. Tôi chưa bao giờ cảm thấy buồn đến thế khi bị nhốt ở nơi này.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema006",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema006|",
+      "ja": "（それとこれとは、別問題だと思うけど……！）",
+      "zh": "（根本是两码事……！）",
+      "vi": "(Chúng là những thứ hoàn toàn khác nhau...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema007",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema007|",
+      "ja": "（レイアちゃん、有名人なだけあって堂々としてる……。<br>　変な発言しちゃうと、逆に反撃されちゃうかも……）",
+      "zh": "（蕾雅真不愧是有名人，摆出了一副坦荡的态度……<br>\n如果我说了奇怪的话，搞不好会被她反击……）",
+      "vi": "(Leya thực sự xứng đáng trở thành một người nổi tiếng và cô ấy đã thể hiện thái độ rộng lượng... Nếu mình nói điều gì đó kì lạ, cô ấy có thể sẽ đánh trả...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru001",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru001|",
+      "ja": "エマさん……レイアさんが嘘をついてたとしても、<br>暴くのは難しいかもしれません。",
+      "zh": "艾玛小姐……就算蕾雅小姐她在说谎，<br>\n我们好像也没办法轻易揭穿她。",
+      "vi": "Ema... Ngay cả khi cô Leia đang nói dối, Có vẻ như chúng ta không thể vạch mặt cô ta một cách dễ dàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema008",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema008|",
+      "ja": "そ、そうだよね……。<br>じゃあ犯人の手がかりは……。",
+      "zh": "是、是啊……<br>\n那凶手的线索该怎么办……",
+      "vi": "Vâng, vâng... Vậy chúng ta nên làm gì với những manh mối về kẻ sát nhân...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru002",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru002|",
+      "ja": "逆に……【ハンナさん以外が犯人だとしたら】と<br>考えてみてはどうでしょうか？",
+      "zh": "那……我们反过来，以【如果凶手不是汉娜】<br>\n为前提再思考看看，你觉得怎么样？",
+      "vi": "Vậy thì... hãy làm ngược lại và sử dụng [Nếu kẻ sát nhân không phải là Hanna] Hãy suy nghĩ lại, bạn nghĩ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru003",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru003|",
+      "ja": "ありえない可能性を除けば……<br>【ありえたかもしれない可能性】が残ります。<br>もしかすると、それが真実かもしれません……。",
+      "zh": "排除掉说不通的可能性……<br>\n剩下的就是【说得通的可能性】。<br>\n说不定，那就是真相……",
+      "vi": "Loại bỏ khả năng nó vô nghĩa... Điều còn lại là [khả năng hiểu được]. Có lẽ, đó là sự thật...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema009",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema009|",
+      "ja": "（【ありえたかもしれない可能性】……。<br>　議論を進める為に、いろいろな可能性を<br>　考えてみよう……！）",
+      "zh": "（【说得通的可能性】……<br>\n为了推进讨论，我们来思考一下<br>\n其他各种各样的可能性吧……！）",
+      "vi": "([Có thể hiểu được]… Để thúc đẩy cuộc thảo luận, hãy xem xét Có nhiều khả năng khác...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema010",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema010|",
+      "ja": "レイアちゃんが食堂に行った……？<br>おかしいな、そんなことないはずだけど……。",
+      "zh": "蕾雅去了食堂……？<br>\n奇怪，不应该是这样……",
+      "vi": "Leia đã đến quán ăn tự phục vụ...? Kỳ quái, lẽ ra không nên như thế này...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia008",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia008|",
+      "ja": "へえ？<br>それはどうしてだい？<br>教えてごらん。",
+      "zh": "哦？<br>\n为什么呢？<br>\n请你讲一下理由。",
+      "vi": "Ồ? Tại sao? Hãy cho tôi biết lý do của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema011",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema011|",
+      "ja": "それは……<br>きっと食堂に行ったなら、<br>誰かが見ているはずじゃ……。",
+      "zh": "呃……<br>\n如果去了食堂，<br>\n一定会有其他人看见才对……",
+      "vi": "Ờ... Nếu bạn đến Nhà Ăn, Chắc chắn có người khác đã nhìn thấy nó...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia009",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia009|",
+      "ja": "誰かって、誰のことだい？<br>誰か食堂にでもいたのかい？<br>そんな発言はなかったと思うけど。",
+      "zh": "这个人是谁？<br>\n有谁会在食堂吗？<br>\n我不记得有人说过这样的事。",
+      "vi": "Người này là ai? Có ai ở Nhà Ăn không? Tôi không nhớ có ai nói điều gì như thế này.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema012",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema012|",
+      "ja": "そ、それは……。",
+      "zh": "这、这个……",
+      "vi": "Cái này, cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia010",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia010|",
+      "ja": "むしろそこに誰もいないことが、<br>私がそこにいた証拠と言えるんじゃないかな。",
+      "zh": "倒不如说，食堂没人这件事<br>\n正好证明了我在食堂，你说对不对。",
+      "vi": "Đúng hơn là không có ai ở Nhà Ăn Nó chỉ chứng tỏ tôi đang ở Nhà Ăn thôi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia011",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia011|",
+      "ja": "妄想で人を犯人扱いするなんて……<br>酷いよ、エマくん……。",
+      "zh": "竟然用臆想来断定别人是凶手……<br>\n艾玛，你太过分了……",
+      "vi": "Anh ấy thực sự đã sử dụng trí tưởng tượng của mình để kết luận rằng kẻ khác là kẻ sát nhân... Ema, em đi quá xa rồi...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema013",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema013|",
+      "ja": "（ボ、ボクが悪者になっちゃった……！）",
+      "zh": "（我、我成了坏人了……！）",
+      "vi": "(M-mình đã trở thành kẻ xấu...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema014",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema014|",
+      "ja": "（レイアちゃん、有名人なだけあって堂々としてる……。<br>　変な発言しちゃうと、逆に反撃されちゃうかも……）",
+      "zh": "（蕾雅真不愧是有名人，摆出了一副坦荡的态度……<br>\n如果我说了奇怪的话，搞不好会被她反击……）",
+      "vi": "(Leya thực sự xứng đáng trở thành một người nổi tiếng và cô ấy đã thể hiện thái độ rộng lượng... Nếu mình nói điều gì đó kì lạ, cô ấy có thể sẽ đánh trả...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru004",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru004|",
+      "ja": "エマさん……レイアさんが嘘をついてたとしても、<br>暴くのは難しいかもしれません。",
+      "zh": "艾玛小姐……就算蕾雅小姐她在说谎，<br>\n我们好像也没办法轻易揭穿她。",
+      "vi": "Ema... Ngay cả khi cô Leia đang nói dối, Có vẻ như chúng ta không thể vạch mặt cô ta một cách dễ dàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema015",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema015|",
+      "ja": "そ、そうだよね……。<br>じゃあ犯人の手がかりは……。",
+      "zh": "是、是啊……<br>\n那凶手的线索该怎么办……",
+      "vi": "Vâng, vâng... Vậy chúng ta nên làm gì với những manh mối về kẻ sát nhân...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru005",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru005|",
+      "ja": "逆に……【ハンナさん以外が犯人だとしたら】と<br>考えてみてはどうでしょうか？",
+      "zh": "那……我们反过来，以【如果凶手不是汉娜】<br>\n为前提再思考看看，你觉得怎么样？",
+      "vi": "Vậy thì... hãy làm ngược lại và sử dụng [Nếu kẻ sát nhân không phải là Hanna] Hãy suy nghĩ lại, bạn nghĩ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru006",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru006|",
+      "ja": "ありえない可能性を除けば……<br>【ありえたかもしれない可能性】が残ります。<br>もしかすると、それが真実かもしれません……。",
+      "zh": "排除掉说不通的可能性……<br>\n剩下的就是【说得通的可能性】。<br>\n说不定，那就是真相……",
+      "vi": "Loại bỏ khả năng nó vô nghĩa... Điều còn lại là [khả năng hiểu được]. Có lẽ, đó là sự thật...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema016",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema016|",
+      "ja": "（【ありえたかもしれない可能性】……。<br>　議論を進める為に、いろいろな可能性を<br>　考えてみよう……！）",
+      "zh": "（【说得通的可能性】……<br>\n为了推进讨论，我们来思考一下<br>\n其他各种各样的可能性吧……！）",
+      "vi": "([Có thể hiểu được]… Để thúc đẩy cuộc thảo luận, hãy xem xét Có nhiều khả năng khác...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema017",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema017|",
+      "ja": "記憶が曖昧なんておかしいよ……！<br>こんな場所でこんな事件が起こったのに……！",
+      "zh": "记忆不可能这么模糊……！<br>\n明明是在这么不正常的地方出了这么不正常的事件……！",
+      "vi": "Ký ức không thể mơ hồ như vậy được...! Rõ ràng là một sự việc bất thường như vậy đã xảy ra ở một nơi bất thường như vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia012",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia012|",
+      "ja": "エマくん、事件が発覚したのは今日だ。<br>昨日の時点で些細な事まで記憶しておくなんて……。",
+      "zh": "艾玛，我们是今天才发现出事的。<br>\n怎么会有人记得住昨天发生的琐碎事情呢……",
+      "vi": "Ema, hôm nay chúng tôi mới phát hiện ra có điều gì đó không ổn. Làm sao ai có thể nhớ được những điều vụn vặt xảy ra ngày hôm qua...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia013",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia013|",
+      "ja": "それじゃあまるで<br>事件が起こるとわかっていたようじゃないか。",
+      "zh": "如果有人记得住，<br>\n那这个人岂不是清楚知道出了事吗？",
+      "vi": "Nếu có ai còn nhớ thì Chẳng phải người này biết rõ có chuyện gì đó không ổn sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema018",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema018|",
+      "ja": "そ、それは……。",
+      "zh": "这、这个……",
+      "vi": "Cái này, cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia014",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia014|",
+      "ja": "むしろ記憶が曖昧な事こそ、<br>私が犯人ではない証拠と言えるんじゃないかい？",
+      "zh": "倒不如说，记忆模糊这件事<br>\n正好证明了我不是凶手，你说对不对？",
+      "vi": "Đúng hơn là vấn đề trí nhớ bị mờ Nó chỉ chứng minh rằng tôi không phải là kẻ giết người, bạn có nghĩ vậy không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema019",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema019|",
+      "ja": "そう……なの、かな……？",
+      "zh": "是……吗……？",
+      "vi": "Có phải...?...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia015",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia015|",
+      "ja": "ついでに言えば、昨日のことを覚えていて当然だという<br>エマくんこそが怪しいんじゃないかな？<br>犯人だから強く覚えていたんだよ……昨日の記憶をね！",
+      "zh": "我多说一句，艾玛你才是不正常的那个人吧？<br>\n你认为记得昨天的事是理所当然的，<br>\n可是……只有凶手才会清楚记得昨天发生的事！",
+      "vi": "Để tôi nói thêm một điều nữa, Ema, ​​bạn là người bất thường phải không? Bạn nghĩ việc nhớ lại những gì đã xảy ra ngày hôm qua là điều tự nhiên, Nhưng... chỉ có kẻ sát nhân mới nhớ rõ chuyện gì đã xảy ra ngày hôm qua!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema020",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema020|",
+      "ja": "（ボ、ボクが犯人だったの……！？）",
+      "zh": "（原、原来我才是凶手……！？）",
+      "vi": "(Hóa ra mình là kẻ sát nhân...!?)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema021",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema021|",
+      "ja": "（レイアちゃん、有名人なだけあって堂々としてる……。<br>　変な発言しちゃうと、逆に反撃されちゃうかも……）",
+      "zh": "（蕾雅真不愧是有名人，摆出了一副坦荡的态度……<br>\n如果我说了奇怪的话，搞不好会被她反击……）",
+      "vi": "(Leya thực sự xứng đáng trở thành một người nổi tiếng và cô ấy đã thể hiện thái độ rộng lượng... Nếu mình nói điều gì đó kì lạ, cô ấy có thể sẽ đánh trả...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru007",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru007|",
+      "ja": "エマさん……レイアさんが嘘をついてたとしても、<br>暴くのは難しいかもしれません。",
+      "zh": "艾玛小姐……就算蕾雅小姐她在说谎，<br>\n我们好像也没办法轻易揭穿她。",
+      "vi": "Ema... Ngay cả khi cô Leia đang nói dối, Có vẻ như chúng ta không thể vạch mặt cô ta một cách dễ dàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema022",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema022|",
+      "ja": "そ、そうだよね……。<br>じゃあ犯人の手がかりは……。",
+      "zh": "是、是啊……<br>\n那凶手的线索该怎么办……",
+      "vi": "Vâng, vâng... Vậy chúng ta nên làm gì với những manh mối về kẻ sát nhân...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru008",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru008|",
+      "ja": "逆に……【ハンナさん以外が犯人だとしたら】と<br>考えてみてはどうでしょうか？",
+      "zh": "那……我们反过来，以【如果凶手不是汉娜】<br>\n为前提再思考看看，你觉得怎么样？",
+      "vi": "Vậy thì... hãy làm ngược lại và sử dụng [Nếu kẻ sát nhân không phải là Hanna] Hãy suy nghĩ lại, bạn nghĩ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru009",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru009|",
+      "ja": "ありえない可能性を除けば……<br>【ありえたかもしれない可能性】が残ります。<br>もしかすると、それが真実かもしれません……。",
+      "zh": "排除掉说不通的可能性……<br>\n剩下的就是【说得通的可能性】。<br>\n说不定，那就是真相……",
+      "vi": "Loại bỏ khả năng nó vô nghĩa... Điều còn lại là [khả năng hiểu được]. Có lẽ, đó là sự thật...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema023",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema023|",
+      "ja": "（【ありえたかもしれない可能性】……。<br>　議論を進める為に、いろいろな可能性を<br>　考えてみよう……！）",
+      "zh": "（【说得通的可能性】……<br>\n为了推进讨论，我们来思考一下<br>\n其他各种各样的可能性吧……！）",
+      "vi": "([Có thể hiểu được]… Để thúc đẩy cuộc thảo luận, hãy xem xét Có nhiều khả năng khác...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema024",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema024|",
+      "ja": "ちょっと待って！ レイアちゃんなら空を飛べても<br>おかしくないよ！",
+      "zh": "等一下！如果是蕾雅的话，<br>\n能飞在半空中也不奇怪！",
+      "vi": "Đợi một chút! Nếu đó là Leia, Không có gì đáng ngạc nhiên khi anh ta có thể bay giữa không trung!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia016",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia016|",
+      "ja": "……どうしてだい？<br>理解に苦しむけれど、一応理由は聞いておこうか。",
+      "zh": "……为什么呢？<br>\n虽然无法理解，但我愿意听一下你的看法。",
+      "vi": "...tại sao? Mặc dù tôi không thể hiểu được nhưng tôi muốn nghe ý kiến của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema025",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema025|",
+      "ja": "だって……その……<br>舞台とかで飛んだり<br>するかもしれないし……。",
+      "zh": "呃……因为……<br>\n你或许以前<br>\n在舞台剧里面飞过……",
+      "vi": "Ờ...bởi vì... Trước đây bạn có thể đã Bay qua vở kịch sân khấu...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia017",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia017|",
+      "ja": "キミの夢を壊すようで悪いけれど……<br>ああいうのは必ずステージに仕掛けがあるんだよ。",
+      "zh": "破坏了你的梦真不好意思……<br>\n我如果要飞，舞台上一定要有机关才行。",
+      "vi": "Tôi xin lỗi vì đã phá hỏng giấc mơ của bạn... Muốn bay thì phải có cơ chế trên sân khấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia018",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia018|",
+      "ja": "トリックもなしに飛ぶなんて、<br>魔法でも使わない限り無理なんだ。",
+      "zh": "要不靠机关飞行，<br>\n除了魔法就再也没其他办法做得到。",
+      "vi": "Hoặc bay mà không cần dựa vào cơ chế, Không có cách nào khác để làm điều đó ngoại trừ phép thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia019",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia019|",
+      "ja": "そして私の魔法は魅了の魔法……<br>キミの意見は絶対に不可能だと<br>否定させてもらうよ！",
+      "zh": "而我的魔法却是魅惑……<br>\n我要提出反对，<br>\n你的主张是绝对不可能的！",
+      "vi": "Nhưng phép thuật của tôi là sự quyến rũ... Tôi muốn phản đối, Yêu cầu của bạn là hoàn toàn không thể!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema026",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema026|",
+      "ja": "（うう……！<br>　レイアちゃんの言う通りかも……！<br>　レイアちゃんが空を飛んだ証拠なんてないし……）",
+      "zh": "（呜……！<br>\n或许她说得没错……！<br>\n我也没有证据证明她飞过……）",
+      "vi": "(Ờ...! Có lẽ cô ấy đúng...! Tôi cũng không có bằng chứng nào cho thấy cô ấy đã bay...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema027",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema027|",
+      "ja": "（レイアちゃん、有名人なだけあって堂々としてる……。<br>　変な発言しちゃうと、逆に反撃されちゃうかも……）",
+      "zh": "（蕾雅真不愧是有名人，摆出了一副坦荡的态度……<br>\n如果我说了奇怪的话，搞不好会被她反击……）",
+      "vi": "(Leya thực sự xứng đáng trở thành một người nổi tiếng và cô ấy đã thể hiện thái độ rộng lượng... Nếu mình nói điều gì đó kì lạ, cô ấy có thể sẽ đánh trả...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru010",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru010|",
+      "ja": "エマさん……レイアさんが嘘をついてたとしても、<br>暴くのは難しいかもしれません。",
+      "zh": "艾玛小姐……就算蕾雅小姐她在说谎，<br>\n我们好像也没办法轻易揭穿她。",
+      "vi": "Ema... Ngay cả khi cô Leia đang nói dối, Có vẻ như chúng ta không thể vạch mặt cô ta một cách dễ dàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema028",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema028|",
+      "ja": "そ、そうだよね……。<br>じゃあ犯人の手がかりは……。",
+      "zh": "是、是啊……<br>\n那凶手的线索该怎么办……",
+      "vi": "Vâng, vâng... Vậy chúng ta nên làm gì với những manh mối về kẻ sát nhân...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru011",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru011|",
+      "ja": "逆に……【ハンナさん以外が犯人だとしたら】と<br>考えてみてはどうでしょうか？",
+      "zh": "那……我们反过来，以【如果凶手不是汉娜】<br>\n为前提再思考看看，你觉得怎么样？",
+      "vi": "Vậy thì... hãy làm ngược lại và sử dụng [Nếu kẻ sát nhân không phải là Hanna] Hãy suy nghĩ lại, bạn nghĩ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru012",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru012|",
+      "ja": "ありえない可能性を除けば……<br>【ありえたかもしれない可能性】が残ります。<br>もしかすると、それが真実かもしれません……。",
+      "zh": "排除掉说不通的可能性……<br>\n剩下的就是【说得通的可能性】。<br>\n说不定，那就是真相……",
+      "vi": "Loại bỏ khả năng nó vô nghĩa... Điều còn lại là [khả năng hiểu được]. Có lẽ, đó là sự thật...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema029",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema029|",
+      "ja": "（【ありえたかもしれない可能性】……。<br>　議論を進める為に、いろいろな可能性を<br>　考えてみよう……！）",
+      "zh": "（【说得通的可能性】……<br>\n为了推进讨论，我们来思考一下<br>\n其他各种各样的可能性吧……！）",
+      "vi": "([Có thể hiểu được]… Để thúc đẩy cuộc thảo luận, hãy xem xét Có nhiều khả năng khác...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema030",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema030|",
+      "ja": "ノアちゃんに近付く方法……<br>他にもあったんじゃないかな？<br>たとえば……【ノアちゃんが外に出てた】とかさ。",
+      "zh": "应该……<br>\n还有其他能靠近诺亚的方法吧？<br>\n比如说……【诺亚走到了外面】之类的。",
+      "vi": "Nên... Có cách nào khác để đến gần hơn với Nô-ê không? Ví dụ như... [Noah bước ra ngoài] hay gì đó tương tự.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Margo002",
+      "speaker_tag": "; > Margo: |#0101Trial08_Margo002|",
+      "ja": "殺害後の死体移動トリック……ということかしら？",
+      "zh": "你是说……存在杀人后移动尸体的手法？",
+      "vi": "Ý em là...rằng có cách nào để di chuyển thi thể sau khi giết ai đó?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia020",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia020|",
+      "ja": "しかし残念だけど現場には足跡もないし、<br>あの血痕を見ればあそこでノアくんが殺されたのは<br>明らかだ。",
+      "zh": "不过很遗憾，现场没有留下足迹，<br>\n而且血迹也明显指出<br>\n诺亚是在那里遇害的。",
+      "vi": "Thật không may, hiện trường không để lại dấu vết nào, Và vết máu cho thấy rõ ràng Nô-ê đã bị giết ở đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia021",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia021|",
+      "ja": "むしろそれができないという証拠が山程あるはずだよ。<br>どうしてキミはそんな浅はかな疑いを<br>私に向けたんだい？",
+      "zh": "证明做不到的证据反而要多少有多少。<br>\n为什么你要把这么漏洞百出的怀疑<br>\n安在我的头上？",
+      "vi": "Bằng chứng chứng minh rằng điều đó không thể thực hiện được là quá nhiều. Tại sao bạn lại nghi ngờ về một thứ đầy sơ hở Đặt nó lên đầu tôi?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema031",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema031|",
+      "ja": "そ、それは……。",
+      "zh": "这、这个……",
+      "vi": "Cái này, cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia022",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia022|",
+      "ja": "まるで根拠のない事を言って<br>議論を煙に巻こうとしている犯人みたいじゃないか！<br>……私には、そう見えるよ。",
+      "zh": "在我看来，你就是在用一些无凭无据的主张<br>\n搞乱这场讨论……<br>\n简直就像是凶手才会做的事！",
+      "vi": "Theo tôi, bạn chỉ đang đưa ra một số tuyên bố vô căn cứ Làm xáo trộn cuộc thảo luận này... Giống như việc mà chỉ có kẻ sát nhân mới làm!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema032",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema032|",
+      "ja": "（やってないことまで自白させられちゃいそう……！）",
+      "zh": "（我差点就承认自己没做过的事了……！）",
+      "vi": "(Tôi gần như đã thừa nhận điều gì đó mà tôi không hề làm…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema033",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema033|",
+      "ja": "（レイアちゃん、有名人なだけあって堂々としてる……。<br>　変な発言しちゃうと、逆に反撃されちゃうかも……）",
+      "zh": "（蕾雅真不愧是有名人，摆出了一副坦荡的态度……<br>\n如果我说了奇怪的话，搞不好会被她反击……）",
+      "vi": "(Leya thực sự xứng đáng trở thành một người nổi tiếng và cô ấy đã thể hiện thái độ rộng lượng... Nếu mình nói điều gì đó kì lạ, cô ấy có thể sẽ đánh trả...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru013",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru013|",
+      "ja": "エマさん……レイアさんが嘘をついてたとしても、<br>暴くのは難しいかもしれません。",
+      "zh": "艾玛小姐……就算蕾雅小姐她在说谎，<br>\n我们好像也没办法轻易揭穿她。",
+      "vi": "Ema... Ngay cả khi cô Leia đang nói dối, Có vẻ như chúng ta không thể vạch mặt cô ta một cách dễ dàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema034",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema034|",
+      "ja": "そ、そうだよね……。<br>じゃあ犯人の手がかりは……。",
+      "zh": "是、是啊……<br>\n那凶手的线索该怎么办……",
+      "vi": "Vâng, vâng... Vậy chúng ta nên làm gì với những manh mối về kẻ sát nhân...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru014",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru014|",
+      "ja": "逆に……【ハンナさん以外が犯人だとしたら】と<br>考えてみてはどうでしょうか？",
+      "zh": "那……我们反过来，以【如果凶手不是汉娜】<br>\n为前提再思考看看，你觉得怎么样？",
+      "vi": "Vậy thì... hãy làm ngược lại và sử dụng [Nếu kẻ sát nhân không phải là Hanna] Hãy suy nghĩ lại, bạn nghĩ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru015",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru015|",
+      "ja": "ありえない可能性を除けば……<br>【ありえたかもしれない可能性】が残ります。<br>もしかすると、それが真実かもしれません……。",
+      "zh": "排除掉说不通的可能性……<br>\n剩下的就是【说得通的可能性】。<br>\n说不定，那就是真相……",
+      "vi": "Loại bỏ khả năng nó vô nghĩa... Điều còn lại là [khả năng hiểu được]. Có lẽ, đó là sự thật...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema035",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema035|",
+      "ja": "（【ありえたかもしれない可能性】……。<br>　議論を進める為に、いろいろな可能性を<br>　考えてみよう……！）",
+      "zh": "（【说得通的可能性】……<br>\n为了推进讨论，我们来思考一下<br>\n其他各种各样的可能性吧……！）",
+      "vi": "([Có thể hiểu được]… Để thúc đẩy cuộc thảo luận, hãy xem xét Có nhiều khả năng khác...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema036",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema036|",
+      "ja": "……本当に塗料を越える必要ってあったのかな？",
+      "zh": "……真的有必要绕过这摊颜料吗？",
+      "vi": "…Có thực sự cần thiết phải vượt qua vũng sơn này không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia023",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia023|",
+      "ja": "……それはどういうことだい？",
+      "zh": "……什么意思？",
+      "vi": "...nó có nghĩa là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema037",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema037|",
+      "ja": "たしかに外からこの部屋の中に足を踏み入れたら、<br>足跡が残ってしまう……<br>だから犯人は床を踏んでいないはず……。",
+      "zh": "如果是从外面走进房间，<br>\n那的确会留下足迹……<br>\n所以凶手应该没有踩到地板才对……",
+      "vi": "Nếu bạn vào phòng từ bên ngoài, Điều đó để lại dấu vết... Vậy hung thủ có lẽ không hề bước lên sàn...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema038",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema038|",
+      "ja": "……なら、部屋に入らずに外から殺したっていう<br>可能性があるんじゃないかな？",
+      "zh": "……那么，会不会有凶手不进房间<br>\n就能杀人的可能性呢？",
+      "vi": "...Rồi sẽ có kẻ sát nhân không vào phòng Khả năng giết ai đó là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema039",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema039|",
+      "ja": "それなら宙に浮かなくったって犯行は可能だよ。",
+      "zh": "这样一来，就算不会飞在半空中也能作案。",
+      "vi": "Bằng cách này, bạn có thể phạm tội ngay cả khi không thể bay giữa không trung.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Sherry001",
+      "speaker_tag": "; > Sherry: |#0101Trial08_Sherry001|",
+      "ja": "……でもでも、ボウガンは使えなかったんですよ～？<br>矢を撃てないのに、どうやって外から<br>突き刺すんですか？",
+      "zh": "……可是可是，弩枪已经用不了了哦～？<br>\n既然射不了箭，那要怎样从外面<br>\n刺伤她呢？",
+      "vi": "...Nhưng, Nỏ Săn không thể sử dụng được nữa~? Vì bạn không thể bắn mũi tên, làm sao bạn có thể bắn nó từ bên ngoài Còn việc đâm cô ấy thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia024",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia024|",
+      "ja": "……その通り。<br>私にはノアくんに矢を刺すことなんてできやしないんだ。",
+      "zh": "……是啊。<br>\n我不可能用箭刺伤诺亚。",
+      "vi": "...Phải. Không đời nào tôi có thể đâm Noah bằng một mũi tên.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Leia025",
+      "speaker_tag": "; > Leia: |#0101Trial08_Leia025|",
+      "ja": "犯人はその手で、直接ノアくんの胸に矢を突き立てた。<br>……空を飛んでね。<br>そうとしか考えられないよ。",
+      "zh": "凶手是亲手直接将箭捅进了诺亚的胸口。<br>\n……当然了，凶手是飞在空中的。<br>\n除此之外别无可能。",
+      "vi": "Kẻ sát nhân đã dùng chính tay mình đâm mũi tên thẳng vào ngực Noah. ...Tất nhiên, kẻ sát nhân đang bay trên không trung. Không có gì khác là có thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Hanna001",
+      "speaker_tag": "; > Hanna: |#0101Trial08_Hanna001|",
+      "ja": "だから！ わたくしじゃねーですわ！",
+      "zh": "我就说了！不是我杀的！",
+      "vi": "Bổn tiểu thư vừa nói đấy! Bổn tiểu thư không giết anh Bổn tiểu thư!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema040",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema040|",
+      "ja": "（……何かボクたち……<br>　根本的な【勘違い】をしているような……）",
+      "zh": "（……感觉……<br>\n我们好像陷入了一个根本上的【误会】……）",
+      "vi": "(…cảm giác… Có vẻ như chúng ta đã rơi vào một [hiểu lầm] căn bản...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Meruru016",
+      "speaker_tag": "; > Meruru: |#0101Trial08_Meruru016|",
+      "ja": "……で、では……<br>もう一度、詳しい状況を話して……<br>整理してみるというのはどうでしょうか……？",
+      "zh": "……那、那么……<br>\n我们重新讨论详细的状况……<br>\n重新作一次整理，怎么样……？",
+      "vi": "...Vậy thì... Hãy xem lại tình huống một cách chi tiết... Còn việc tổ chức lại nó thì sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Ema041",
+      "speaker_tag": "; > Ema: |#0101Trial08_Ema041|",
+      "ja": "詳しい状況……？",
+      "zh": "详细的状况……？",
+      "vi": "Tình hình chi tiết...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0101Trial08_Nanoka002|",
+      "ja": "……私もその意見に賛成するわ。<br>殺害の状況は事件の重要なポイント……<br>納得できるまで、話し合うべきね。",
+      "zh": "……我也同意。<br>\n杀害状况是这次案件的重点……<br>\n应该讨论到所有人都认可才对。",
+      "vi": "...Tôi cũng đồng ý. Tình huống giết người là trọng tâm của vụ án này... Nó nên được thảo luận cho đến khi mọi người đồng ý.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial08_Sherry002",
+      "speaker_tag": "; > Sherry: |#0101Trial08_Sherry002|",
+      "ja": "私も賛成です！<br>では事件を再現するつもりで、<br>状況を整理してみましょうか！",
+      "zh": "我也赞成！<br>\n那我们就试着重现整起案件，<br>\n整理一下状况吧！",
+      "vi": "Tôi cũng đồng ý! Sau đó, hãy thử xây dựng lại toàn bộ vụ việc, Hãy giải quyết tình huống này!",
+      "objection_links": []
+    }
+  ]
+}

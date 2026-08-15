@@ -1,0 +1,794 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter06_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter06_Trial06",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter06/Act02_Chapter06_Trial06' Naninovel scenario script",
+  "total_entries": 97,
+  "entries": [
+    {
+      "id": "0206Trial06_Yuki001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial06_Yuki001|",
+      "ja": "たしかに私の行動が全て<br>合理的であるとは言えません。",
+      "zh": "确实，我的行为<br>\n未必每一个都称得上合理。",
+      "vi": "Quả thực, hành vi của tôi Không phải mọi người trong số họ có thể được gọi là hợp lý.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Nanoka001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial06_Nanoka001|",
+      "ja": "……あなたは<br>自分が感情的に動いていると<br>認めるのね。",
+      "zh": "……你承认<br>\n自己是被情绪<br>\n驱动的吗？",
+      "vi": "…bạn thừa nhận Tôi rất xúc động Lái xe?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial06_Yuki002|",
+      "ja": "はい。<br>今更それは<br>隠しようもない事実です。",
+      "zh": "是的。<br>\n如今再继续掩饰这个事实<br>\n也没有意义。",
+      "vi": "Vâng. Bây giờ hãy tiếp tục che đậy sự thật này Nó cũng không có ý nghĩa gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial06_Yuki003|",
+      "ja": "もとより私は<br><link=\"Objection_02_06_06_01\">復讐のため</link>に動いてます。",
+      "zh": "我的一切行动<br>\n本就是<link=\"Objection_02_06_06_01\">为了复仇</link>。",
+      "vi": "Tất cả hành động của tôi Đây là <link=\"Objection_02_06_06_01\"> để trả thù</link>.",
+      "objection_links": [
+        "Objection_02_06_06_01"
+      ]
+    },
+    {
+      "id": "0206Trial06_Yuki004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial06_Yuki004|",
+      "ja": "同胞を殺されてしまった<br>怒り、<br>悲しみ、<br>恨み、<br>憎しみ……。",
+      "zh": "因同胞被杀所带来的<br>\n愤怒、<br>\n悲伤、<br>\n怨恨、<br>\n憎恶……",
+      "vi": "do vụ sát hại đồng bào gây ra Tức giận, Nỗi buồn, Sự oán giận, Ghét...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial06_Yuki005|",
+      "ja": "それらを晴らすため、<br>人間たちに<br>どんな酷い死に様を<br>迎えてもらうか<br>考え続けてきました。",
+      "zh": "为了告慰这些感情，<br>\n我不停思索着，<br>\n应该让人类<br>\n以怎样凄惨的死状<br>\n迎来末日。",
+      "vi": "Để xoa dịu những cảm xúc này, Tôi cứ suy nghĩ mãi, Con người nên được phép Thật là một cái chết khốn khổ Mở ra cuối cùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial06_Yuki006|",
+      "ja": "それは端的に言えば、<br>【感情的な行動】と<br>分類されてしまうでしょうね。",
+      "zh": "简单粗暴地说，<br>\n这样的做法的确可以被分类为——<br>\n【感情用事】吧。",
+      "vi": "Nói một cách đơn giản và thô thiển, Cách tiếp cận như vậy thực sự có thể được phân loại là—— [Cảm xúc] Hãy làm đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki007",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial06_Yuki007|",
+      "ja": "……でも、<br>みなさんも好きですよね？<br><link=\"Objection_02_06_06_02\">感情のまま</link>に<br>振る舞うのは。",
+      "zh": "……不过，<br>\n你们也喜欢这样吧？<br>\n<link=\"Objection_02_06_06_02\">随心所欲</link>、<br>\n全凭情绪地行动……",
+      "vi": "...Tuy nhiên, Các bạn cũng thích điều này phải không? <link=\"Objection_02_06_06_02\">Như bạn muốn</link>, Hành động hoàn toàn theo cảm xúc...",
+      "objection_links": [
+        "Objection_02_06_06_02"
+      ]
+    },
+    {
+      "id": "0206Trial06_Noah001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0206Trial06_Noah001|",
+      "ja": "のあも<link=\"Objection_02_06_06_03\">嫌なこと</link>は<br>しないよ。",
+      "zh": "诺亚也不会做<br>\n自己<link=\"Objection_02_06_06_03\">不愿意的事</link>。",
+      "vi": "Nô-ê cũng không thể làm Những điều </link> mà bạn <link=\"Objection_02_06_06_03\"> không muốn làm.",
+      "objection_links": [
+        "Objection_02_06_06_03"
+      ]
+    },
+    {
+      "id": "0206Trial06_Yuki008",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial06_Yuki008|",
+      "ja": "なら理解してもらえるかも<br>しれませんね。",
+      "zh": "那，说不定<br>\n你们也能理解我。",
+      "vi": "Chà, có lẽ Bạn cũng có thể hiểu tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki009",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial06_Yuki009|",
+      "ja": "つまり一見<br>不合理に見えるような<br>行動でも、<br>あなたたちには<br>理解できないだけ<br>……ということです。",
+      "zh": "也就是说，<br>\n哪怕我的行为<br>\n看起来并不合理，<br>\n那也只是因为你们<br>\n无法理解罢了。<br>\n……仅此而已。",
+      "vi": "Tức là Ngay cả khi hành vi của tôi Có vẻ không hợp lý, Đó chỉ là vì bạn Chỉ là không thể hiểu được nó. …Chỉ vậy thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki010",
+      "speaker_tag": "; > @printDebate pos:50,70 roll:0 |#0206Trial06_Yuki010|",
+      "ja": "【<link=\"Objection_02_06_06_04\">人間であるエマの手</link>で人類にとどめを刺す】<br>……それでようやく、<br>私の完璧な復讐が<br>遂行されます。",
+      "zh": "由【<link=\"Objection_02_06_06_04\">身为人类的艾玛动手</link>，<br>\n亲自给人类致命一击】……<br>\n这才是我复仇的<br>\n完美落幕。",
+      "vi": "Bắt đầu bởi [<link=\"Objection_02_06_06_04\"> Ema là con người </link>, Đích thân giáng một đòn chí mạng vào nhân loại....... Đây là sự trả thù của tôi Một kết thúc hoàn hảo.",
+      "objection_links": [
+        "Objection_02_06_06_04"
+      ]
+    },
+    {
+      "id": "0206Trial06_Yuki011",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial06_Yuki011|",
+      "ja": "私がしたことは全て、<br><link=\"Objection_02_06_06_05\">人間たちを苦しめる</link>ために<br>必要な行為だったんです。",
+      "zh": "我所做的每一件事，<br>\n都是为了<link=\"Objection_02_06_06_05\">让人类饱受折磨</link><br>\n所必需的步骤。",
+      "vi": "Mọi việc tôi làm, Tất cả vì <link=\"Objection_02_06_06_05\"> để khiến loài người đau khổ </link> các bước cần thiết.",
+      "objection_links": [
+        "Objection_02_06_06_05"
+      ]
+    },
+    {
+      "id": "0206Trial06_Yuki012",
+      "speaker_tag": "; > @printDebate pos:30,30 roll:-4 |#0206Trial06_Yuki012|",
+      "ja": "エマに魔女殺しの魔法を<br>与えたことも、<br>なんらおかしなことでは<br>ありませんよ。",
+      "zh": "把杀死魔女的魔法<br>\n交给艾玛，<br>\n也没什么值得<br>\n大惊小怪的吧。",
+      "vi": "Phép thuật giết chết phù thủy Hãy để việc đó cho Ema, Không có gì đáng giá Thật là ồn ào.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema001",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema001|",
+      "ja": "ユキちゃん……。<br>そんなに人間を憎んで……。",
+      "zh": "小雪……<br>\n你原来这么憎恨人类……",
+      "vi": "Tiểu Tuyết... Bạn thực sự ghét con người rất nhiều ...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Noah002",
+      "speaker_tag": "; > Noah: |#0206Trial06_Noah002|",
+      "ja": "……うーん、本当かな？",
+      "zh": "……唔——真的有那么恨吗？",
+      "vi": "...Hmm - Cậu thực sự ghét nó đến vậy sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema002",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema002|",
+      "ja": "……え？",
+      "zh": "……欸？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Noah003",
+      "speaker_tag": "; > Noah: |#0206Trial06_Noah003|",
+      "ja": "ユキちゃん、嘘ついてるね。",
+      "zh": "小雪在说谎哦。",
+      "vi": "Xiaoxue đang nói dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema003",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema003|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Margo001",
+      "speaker_tag": "; > Margo: |#0206Trial06_Margo001|",
+      "ja": "……そうね。きっとノアちゃんの言う通りよ。",
+      "zh": "……是啊。我也觉得诺亚说得没错。",
+      "vi": "...Phải. Chị cũng nghĩ Nô-ê nói đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Margo002",
+      "speaker_tag": "; > Margo: |#0206Trial06_Margo002|",
+      "ja": "彼女は中身のない言い訳を並べているに過ぎないわ。",
+      "zh": "她不过是在胡乱堆砌些空洞的借口罢了。",
+      "vi": "Cô ấy chỉ đang bịa ra một số lý do trống rỗng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Margo003",
+      "speaker_tag": "; > Margo: |#0206Trial06_Margo003|",
+      "ja": "……少なくとも、私にはそう見えるけどね？",
+      "zh": "……至少，在我看来是这样哦？",
+      "vi": "…Ít nhất, đối với Chị đó là điều Chị thấy?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema004",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema004|",
+      "ja": "（ボクと２人じゃ、見えてるものが違うのかも……）",
+      "zh": "（我和她们看到的东西，可能真的不一样……）",
+      "vi": "(Những gì tôi thấy và những gì họ thấy có thể thực sự khác nhau...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema005",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema005|",
+      "ja": "（でも……２人の印象が真実なら<br>　辻褄が合うかもしれない）",
+      "zh": "（但……如果她们感受到的才是真相，<br>\n那一切或许就能说得通了）",
+      "vi": "(Nhưng...nếu điều họ cảm thấy là sự thật, Vậy thì có lẽ tất cả đều có ý nghĩa)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema006",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema006|",
+      "ja": "（ユキちゃんが隠したいこと……<br>　それを暴くんだ……！）",
+      "zh": "（小雪想要掩盖的部分……<br>\n我要把它揭露出来……！）",
+      "vi": "(Phần Xiaoxue muốn che đậy... Tôi sẽ vạch trần nó...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Choice001",
+      "speaker_tag": "; > @choice |#0206Trial06_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "感情で動くのは間違っている",
+      "zh": "感情用事是错误的",
+      "vi": "Cảm xúc là sai",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Choice002",
+      "speaker_tag": "; > @choice |#0206Trial06_Choice002| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "人は感情の生き物",
+      "zh": "人类本就是感情动物",
+      "vi": "Con người là động vật có cảm xúc",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Choice003",
+      "speaker_tag": "; > @choice |#0206Trial06_Choice003| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "ユキも嫌だった",
+      "zh": "小雪也不会做自己不愿意的事",
+      "vi": "Xiaoxue sẽ không làm bất cứ điều gì cô ấy không muốn làm",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Choice004",
+      "speaker_tag": "; > @choice |#0206Trial06_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "人間がしたとは言えない",
+      "zh": "那不能说是人类动的手",
+      "vi": "Không thể nói rằng nó được thực hiện bởi bàn tay con người.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Choice005",
+      "speaker_tag": "; > @choice |#0206Trial06_Choice005| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "人間は苦しまない",
+      "zh": "人类不会受到折磨",
+      "vi": "Con người sẽ không bị tra tấn",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema007",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema007|",
+      "ja": "でも、感情で動くなんて間違ってる……！",
+      "zh": "但是，只凭感情用事是不对的……！",
+      "vi": "Tuy nhiên, sẽ là sai lầm nếu chỉ hành động dựa trên cảm xúc...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema008",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema008|",
+      "ja": "一時的な感情に流されてもいいことなんてないよ！",
+      "zh": "被一时的感情冲昏头脑，不会有什么好事的！",
+      "vi": "Sẽ không có điều gì tốt đẹp xảy ra nếu bạn bị cuốn theo những cảm xúc nhất thời!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki013",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki013|",
+      "ja": "エマのその気持ちも、感情に突き動かされたもの……。",
+      "zh": "艾玛你现在这种感受，同样也是被感情所驱使的……",
+      "vi": "Ema, cảm xúc của em bây giờ cũng bị chi phối bởi cảm xúc...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki014",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki014|",
+      "ja": "感情は所詮、意思の発露でしかありません。",
+      "zh": "感情终究不过是意志的流露而已。",
+      "vi": "Suy cho cùng, cảm xúc không gì khác ngoài sự thể hiện của ý chí.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki015",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki015|",
+      "ja": "そして遥かなる悠久の時の間に抱き続けた意思は、<br>一時的な感情とは言えないでしょうね。",
+      "zh": "而且，度过漫长悠久的岁月，心怀至今的意志，<br>\n不能称之为“一时的感情”吧。",
+      "vi": "Hơn nữa, sau một thời gian dài, với ý chí cho đến ngày nay, Bạn không thể gọi nó là “cảm giác nhất thời”.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki016",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki016|",
+      "ja": "それは私の存在する意味そのもの……。",
+      "zh": "这意志，就是我存在的意义本身……",
+      "vi": "Ý chí này chính là ý nghĩa cho sự tồn tại của tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki017",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki017|",
+      "ja": "さあエマ、共に人間を滅ぼしましょう。",
+      "zh": "来，艾玛。一起毁灭人类吧。",
+      "vi": "Thôi nào, Ema. Hãy cùng nhau tiêu diệt loài người.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema009",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema009|",
+      "ja": "（ダメだ……！ 今のユキちゃんに説得は通じない……！）",
+      "zh": "（不行……！对现在的小雪，劝说是没有用的……！）",
+      "vi": "(Không...! Thuyết phục là vô ích đối với Xiaoxue hiện tại...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema010",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema010|",
+      "ja": "（ユキちゃんの心の奥に隠された気持ち……<br>　それを明らかにするんだ……！）",
+      "zh": "（小雪内心深藏的感情……<br>\n我要把它揭示出来……！）",
+      "vi": "(Những cảm xúc sâu sắc trong lòng Xiaoxue... Tôi sẽ tiết lộ nó...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema011",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema011|",
+      "ja": "……そうだよ。<br>人は感情の生き物だ。",
+      "zh": "……你说得对。<br>\n人就是感情的动物。",
+      "vi": "...Bạn nói đúng. Con người là động vật có cảm xúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema012",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema012|",
+      "ja": "それによって迷走することもあるし……<br>一致団結することもある……！",
+      "zh": "有时会因此而迷失方向……<br>\n有时也会因此而团结一致……！",
+      "vi": "Đôi khi tôi lạc lối vì điều này... Đôi khi chúng ta đoàn kết vì điều này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema013",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema013|",
+      "ja": "ユキちゃんたち魔女だって、<br>そうなんじゃないかな！",
+      "zh": "小雪你们魔女，<br>\n不也是这样吗！",
+      "vi": "Tiểu Tuyết, đồ phù thủy, Nó không giống nhau sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema014",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema014|",
+      "ja": "ボクたち人間と一緒だ！<br>なのに一方的に殺すなんて……間違ってるよ！",
+      "zh": "和我们人类一样！<br>\n但却单方面地杀人……这是错的！",
+      "vi": "Cũng giống như con người chúng ta! Nhưng đơn phương giết người... Đây là sai lầm!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki018",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki018|",
+      "ja": "間違っているのは人の在り方です。",
+      "zh": "错误的是人类的存在方式。",
+      "vi": "Điều sai là cách con người tồn tại.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki019",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki019|",
+      "ja": "魔女は野蛮な人間と違って、理性的でした。",
+      "zh": "魔女和野蛮的人类不同，我们是理性的。",
+      "vi": "Phù thủy khác với con người man rợ, chúng ta có lý trí.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki020",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki020|",
+      "ja": "しかし人間に滅ぼされてしまった……。",
+      "zh": "但却被人类灭绝……",
+      "vi": "Nhưng chúng đã bị con người tiêu diệt...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki021",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki021|",
+      "ja": "よって私があなたたちの間違いを正してあげますよ。",
+      "zh": "因此，就由我来纠正你们的错误。",
+      "vi": "Vì vậy, việc sửa chữa lỗi lầm của bạn là tùy thuộc vào tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki022",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki022|",
+      "ja": "……感謝してくださいね、エマ。",
+      "zh": "……感谢我吧，艾玛。",
+      "vi": "...Cảm ơn tôi, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema015",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema015|",
+      "ja": "（ダメだ……！ 今のユキちゃんに説得は通じない……！）",
+      "zh": "（不行……！对现在的小雪，劝说是没有用的……！）",
+      "vi": "(Không...! Thuyết phục là vô ích đối với Xiaoxue hiện tại...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema016",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema016|",
+      "ja": "（ユキちゃんの心の奥に隠された気持ち……<br>　それを明らかにするんだ……！）",
+      "zh": "（小雪内心深藏的感情……<br>\n我要把它揭示出来……！）",
+      "vi": "(Những cảm xúc sâu sắc trong lòng Xiaoxue... Tôi sẽ tiết lộ nó...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema017",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema017|",
+      "ja": "その復讐……本当に【人間がした】って言えるのかな？",
+      "zh": "这场复仇……真的说得上是【人类动的手】吗？",
+      "vi": "Sự trả thù này... thực sự có thể nói là [do bàn tay con người thực hiện] sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema018",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema018|",
+      "ja": "たとえボクが魔女を殺す魔法を発動したとしても、<br>魔女因子はキミがバラ撒いたものだ……。",
+      "zh": "即使我发动了杀死魔女的魔法，<br>\n魔女因子也是你散播出去的……",
+      "vi": "Ngay cả khi tôi kích hoạt phép thuật để giết phù thủy, Yếu tố Ma Nữ cũng do bạn lan truyền...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema019",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema019|",
+      "ja": "それに計画を立てたのもキミ……。",
+      "zh": "制定计划的也是你……",
+      "vi": "Chính bạn là người lập kế hoạch...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema020",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema020|",
+      "ja": "【人間の手で復讐を果たした】ということには<br>ならないんじゃないかな！",
+      "zh": "不能算是【由人类之手完成了复仇】吧！<br>",
+      "vi": "Không thể coi đó là [sự trả thù do bàn tay con người thực hiện]!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki023",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki023|",
+      "ja": "そうですね。",
+      "zh": "是呢。",
+      "vi": "Vâng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki024",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki024|",
+      "ja": "正確には私と人間の共同作業でしょうか？",
+      "zh": "准确来说，是我和人类的合作？",
+      "vi": "Nói chính xác hơn, sự hợp tác của tôi với con người?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki025",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki025|",
+      "ja": "でもね、エマ。",
+      "zh": "但是啊，艾玛。",
+      "vi": "Nhưng, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki026",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki026|",
+      "ja": "今となっては、<br>そんなことはさほど重要ではないんです。",
+      "zh": "事到如今，<br>\n那些细节已经不那么重要了。",
+      "vi": "Cho đến nay, Những chi tiết đó không còn quan trọng nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki027",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki027|",
+      "ja": "【人の手によるとどめ】は<br>料理にふりかける最後のトッピングのようなもの……。",
+      "zh": "【由人类亲手了结】<br>\n就像是料理完成前最后撒上的，用于点缀的一撮佐料……",
+      "vi": "【Do bàn tay con người kết thúc】 Nó giống như một nhúm gia vị được rắc vào cuối trước khi món ăn được hoàn thành...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki028",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki028|",
+      "ja": "無いなら無いで、何も問題はありません。",
+      "zh": "没有就没有，也无伤大雅。",
+      "vi": "Nếu bạn không có nó, bạn không có nó, và điều đó không gây tổn hại gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki029",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki029|",
+      "ja": "さあエマ、私の手を取って。<br>共に人々を滅ぼしましょう。",
+      "zh": "来，艾玛，握住我的手。<br>\n一同毁灭人类吧。",
+      "vi": "Hãy đến đây, Ema, nắm lấy tay tôi. Hãy cùng nhau tiêu diệt loài người.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema021",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema021|",
+      "ja": "（ダメだ……！ 今のユキちゃんに説得は通じない……！）",
+      "zh": "（不行……！对现在的小雪，劝说是没有用的……！）",
+      "vi": "(Không...! Thuyết phục là vô ích đối với Xiaoxue hiện tại...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema022",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema022|",
+      "ja": "（ユキちゃんの心の奥に隠された気持ち……<br>　それを明らかにするんだ……！）",
+      "zh": "（小雪内心深藏的感情……<br>\n我要把它揭示出来……！）",
+      "vi": "(Những cảm xúc sâu sắc trong lòng Xiaoxue... Tôi sẽ tiết lộ nó...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema023",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema023|",
+      "ja": "そんなことをしても、人間は苦しまないんじゃないかな。",
+      "zh": "就算你做了这些，人类也不会受到折磨的。",
+      "vi": "Ngay cả khi bạn làm điều này, con người sẽ không bị tra tấn.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema024",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema024|",
+      "ja": "当時の人は誰も生きていないんだから<br>覚えてなんてないよ。",
+      "zh": "当时迫害魔女的人早就不在人世，<br>\n已经没有人记得了。",
+      "vi": "Người đàn áp mụ phù thủy lúc đó đã qua lâu rồi, Không ai còn nhớ đến nó nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema025",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema025|",
+      "ja": "なのに君が人間を滅ぼしたとしても、<br>誰も後悔なんてしないし、<br>誰も罪の意識に苦しんだりなんてしない……。",
+      "zh": "就算你灭绝了人类，<br>\n也没有人会忏悔，<br>\n没有人会被罪恶感折磨……",
+      "vi": "Ngay cả khi bạn tiêu diệt loài người, Sẽ không có ai ăn năn, Không ai bị dày vò bởi cảm giác tội lỗi...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema026",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema026|",
+      "ja": "キミがやっていることは、無意味な自己満足だよ！",
+      "zh": "你的所作所为，不过是毫无意义的自我满足！",
+      "vi": "Tất cả những gì bạn làm chỉ là sự tự mãn vô nghĩa!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki030",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki030|",
+      "ja": "だとして、それがどうかしましたか？",
+      "zh": "就算如此，那又怎么样呢？",
+      "vi": "Kể cả vậy thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki031",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki031|",
+      "ja": "人間たちは何も思わないかもしれません。",
+      "zh": "人类或许什么都不会思考。",
+      "vi": "Con người có thể không nghĩ về bất cứ điều gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki032",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki032|",
+      "ja": "【気がつけば滅亡していた】だけかもしれませんね。",
+      "zh": "对人类来说，或许仅仅只是【不知不觉间就灭绝了】而已。",
+      "vi": "Đối với con người, có thể nó chỉ là “tuyệt chủng mà không nhận ra”.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki033",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki033|",
+      "ja": "それでも私の目的は達成します。",
+      "zh": "即便如此，我的目的也已经达成。",
+      "vi": "Dù vậy, mục tiêu của tôi đã đạt được.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki034",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki034|",
+      "ja": "この世界から全ての人類を抹殺すること……。",
+      "zh": "那就是从这个世界上抹杀所有人类……",
+      "vi": "Đó là quét sạch toàn bộ loài người khỏi thế giới này...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki035",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki035|",
+      "ja": "それで死んでいった魔女たちも喜ぶでしょう。",
+      "zh": "这样，死去的魔女们也会高兴的。",
+      "vi": "Bằng cách này, những phù thủy đã chết cũng sẽ được hạnh phúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki036",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki036|",
+      "ja": "そして魔女を滅ぼした当時の愚かな人間たちも、<br>地獄で絶望と怨嗟の声を上げているかもしれない。",
+      "zh": "当时灭绝了魔女的愚蠢人类们，<br>\n或许正在地狱里发出绝望和怨恨的叫喊。",
+      "vi": "Những con người ngu ngốc đã tiêu diệt phù thủy, Có lẽ địa ngục đang gào thét trong tuyệt vọng và oán giận.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki037",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki037|",
+      "ja": "それこそが、<br>全てを失った私に唯一残された<br>【希望】なのです……。",
+      "zh": "这才是，<br>\n失去一切的我，唯一残留的<br>\n【希望】……",
+      "vi": "Đây là Tôi đã mất tất cả, thứ duy nhất còn lại là [Hy vọng]......",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema027",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema027|",
+      "ja": "（ダメだ……！ 今のユキちゃんに説得は通じない……！）",
+      "zh": "（不行……！对现在的小雪，劝说是没有用的……！）",
+      "vi": "(Không...! Thuyết phục là vô ích đối với Xiaoxue hiện tại...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema028",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema028|",
+      "ja": "（ユキちゃんの心の奥に隠された気持ち……<br>　それを明らかにするんだ……！）",
+      "zh": "（小雪内心深藏的感情……<br>\n我要把它揭示出来……！）",
+      "vi": "(Những cảm xúc sâu sắc trong lòng Xiaoxue... Tôi sẽ tiết lộ nó...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema029",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema029|",
+      "ja": "ユキちゃんの言葉が正しいなら……。",
+      "zh": "如果小雪你说的都是真的……",
+      "vi": "Nếu những gì bạn nói, Xiaoxue, là sự thật...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Ema030",
+      "speaker_tag": "; > Ema: |#0206Trial06_Ema030|",
+      "ja": "ユキちゃんは<br>【自分で人間を殺すのが嫌だった】<br>ってことにならないかな？",
+      "zh": "那不就意味着，<br>\n小雪你<br>\n【不想自己亲手杀死人类】吗？",
+      "vi": "Điều đó không có nghĩa là, Tiểu Tuyết bạn [Bạn không muốn giết người bằng chính đôi tay của mình]?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Noah004",
+      "speaker_tag": "; > Noah: |#0206Trial06_Noah004|",
+      "ja": "そうだよねー。",
+      "zh": "对啊——",
+      "vi": "Đúng vậy——",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Noah005",
+      "speaker_tag": "; > Noah: |#0206Trial06_Noah005|",
+      "ja": "ユキちゃんが嘘をついてないなら、<br>【やりたいことしかしてない】って事になるし……。",
+      "zh": "如果小雪没有说谎，<br>\n意思就是【她只会做自己想做的事】……",
+      "vi": "Nếu Tiểu Tuyết không nói dối, Nó có nghĩa là [cô ấy sẽ chỉ làm những gì cô ấy muốn làm]...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Noah006",
+      "speaker_tag": "; > Noah: |#0206Trial06_Noah006|",
+      "ja": "のあと一緒だね！",
+      "zh": "和诺亚一样呢！",
+      "vi": "Giống như Nô-ê!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Noah007",
+      "speaker_tag": "; > Noah: |#0206Trial06_Noah007|",
+      "ja": "……でもそれって、<br>【やりたくないことはやらない】って<br>ことでもあるよね？",
+      "zh": "……但那也就是说，<br>\n【不想做的事就不做】吧？<br>",
+      "vi": "...Nhưng điều đó có nghĩa là, [Đừng làm những việc bạn không muốn làm] Đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Noah008",
+      "speaker_tag": "; > Noah: |#0206Trial06_Noah008|",
+      "ja": "のあもね、先延ばしはよくしちゃうなー……。",
+      "zh": "诺亚也是，经常拖延症呢……",
+      "vi": "Noah cũng thường trì hoãn...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki038",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki038|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki039",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki039|",
+      "ja": "いいえ、私はどちらでも良かっただけです。",
+      "zh": "不。我只是觉得哪种都没所谓。",
+      "vi": "Không. Tôi chỉ nghĩ điều đó cũng không quan trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki040",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki040|",
+      "ja": "人間が自滅しようと……<br>そうでなかろうと。",
+      "zh": "无论人类是自取灭亡……<br>\n还是反之。",
+      "vi": "Bất kể loài người có đang tự hủy diệt hay không... Hoặc ngược lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Alisa001",
+      "speaker_tag": "; > Alisa: |#0206Trial06_Alisa001|",
+      "ja": "……そいつはおかしいな。",
+      "zh": "……那可就奇怪了。",
+      "vi": "...điều đó thật lạ lùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Alisa002",
+      "speaker_tag": "; > Alisa: |#0206Trial06_Alisa002|",
+      "ja": "【どちらでも良かった】ってんなら、<br>尚更不確実な方法は取らねーんじゃねぇか？",
+      "zh": "要真是【哪种都可以】的话，按理来说，<br>\n应该更加不会特意选择“不够万无一失”的方法吧？",
+      "vi": "Nếu đúng là [bất kỳ loại nào cũng được chấp nhận] thì nói một cách hợp lý, Bạn không nên cố tình chọn một phương pháp “kém hiệu quả” phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Sherry001",
+      "speaker_tag": "; > Sherry: |#0206Trial06_Sherry001|",
+      "ja": "たしかに妙ですよね。",
+      "zh": "确实很可疑呢。",
+      "vi": "Quả thực là đáng nghi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Sherry002",
+      "speaker_tag": "; > Sherry: |#0206Trial06_Sherry002|",
+      "ja": "まるで本当は人間を滅亡させたくないような……。",
+      "zh": "简直就像其实不想毁灭人类一样……",
+      "vi": "Nó gần giống như tôi không muốn tiêu diệt loài người…",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Sherry003",
+      "speaker_tag": "; > Sherry: |#0206Trial06_Sherry003|",
+      "ja": "そんな風にも感じてしまいます！",
+      "zh": "让人有这种感觉！",
+      "vi": "Làm cho mọi người cảm thấy như vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki041",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki041|",
+      "ja": "……そんなことはありませんよ。",
+      "zh": "……没有那回事。",
+      "vi": "...Không có chuyện đó đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki042",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki042|",
+      "ja": "結果的に、<br>遅かれ早かれ人間が滅亡するのは変わりませんし……。",
+      "zh": "就结果而言，<br>\n人类迟早都会灭亡，这一点是不会改变的……",
+      "vi": "Xét về kết quả, Nhân loại sớm muộn gì cũng sẽ diệt vong, điều này sẽ không thay đổi...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki043",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki043|",
+      "ja": "それに私には、復讐をする理由があります。",
+      "zh": "而且我，有复仇的理由。",
+      "vi": "Và tôi có lý do để trả thù.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial06_Yuki044",
+      "speaker_tag": "; > Yuki: |#0206Trial06_Yuki044|",
+      "ja": "ですから、<br>私はこの世から人間を消し去らなくてはいけないんです。",
+      "zh": "所以，<br>\n我必须将人类从这个世界上抹去。",
+      "vi": "Vì vậy, Tôi phải quét sạch loài người khỏi thế giới này.",
+      "objection_links": []
+    }
+  ]
+}

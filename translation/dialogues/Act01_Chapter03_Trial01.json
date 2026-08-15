@@ -1,0 +1,750 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter03_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter03_Trial01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter03/Act01_Chapter03_Trial01' Naninovel scenario script",
+  "total_entries": 92,
+  "entries": [
+    {
+      "id": "0103Trial01_Margo001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial01_Margo001|",
+      "ja": "死体が発見されたのは<br>屋敷のはずれにある<br>ゲストハウスよ。",
+      "zh": "尸体是在<br>\n监牢外部的招待所里<br>\n被发现的。",
+      "vi": "Hiện trường phát hiện thi thể là ở Nhà Khách (Guesthouse) nằm tách biệt phía ngoài khuôn viên dinh thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial01_Margo002|",
+      "ja": "そのうちの１つの、<br>火精の間ね。",
+      "zh": "就在其中一间，<br>\n火精之室里。",
+      "vi": "Cụ thể là bên trong Căn Phòng Hỏa Tinh (Fire Spirit Room).",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial01_Margo003|",
+      "ja": "死体は部屋の中で<br>首を吊られた状態で<br>発見された……。<br>死因は間違いなく<br>【窒息死】よ。",
+      "zh": "尸体在房间内<br>\n被发现时<br>\n是上吊的状态……<br>\n死因无疑是<br>\n【窒息死】。",
+      "vi": "Thi thể được phát hiện trong tư thế treo cổ lơ lửng giữa phòng…… Nguyên nhân tử vong chắc chắn là do 【ngạt thở】.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Alisa001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0103Trial01_Alisa001|",
+      "ja": "間違いなく……って、<br>そんな簡単に<br>断言していいのかよ。",
+      "zh": "无疑……<br>\n这么轻易下定论，<br>\n真的没问题吗？",
+      "vi": "Chắc chắn…… cái con khỉ! Mày dựa vào đâu mà dám khẳng định chắc nịch như thế hả mụ già?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial01_Margo004|",
+      "ja": "私はお医者様や<br>検視官じゃないから<br>詳しくはわからないけど……。",
+      "zh": "我不是医生<br>\n也不是法医，<br>\n所以具体的情况不是很清楚……",
+      "vi": "Chị không phải bác sĩ hay pháp y nên không dám kết luận chi tiết, nhưng dấu vết siết cổ rất rõ ràng……",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial01_Margo005|",
+      "ja": "でも、<br>首にはしっかりと<br>ロープの痕が<br>残っていたわ？",
+      "zh": "但是，<br>\n脖子上清晰地<br>\n留有绳索的<br>\n痕迹哦。",
+      "vi": "Tuy nhiên, Rõ ràng trên cổ còn dây thừng Dấu vết.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial01_Margo006|",
+      "ja": "強い力で首が絞まった……<br>となれば<br>それが死因だと考えるのが<br>妥当な推理じゃないかしら？",
+      "zh": "如果脖子是被用力勒紧的……<br>\n那么，<br>\n我推断这就是死因，<br>\n不是很合理的推理吗？",
+      "vi": "Nếu cổ bị siết chặt bằng lực... Sau đó, Chị kết luận rằng đây là nguyên nhân cái chết, Không phải là một lý do rất hợp lý?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Meruru001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0103Trial01_Meruru001|",
+      "ja": "ハンナさんの身に……<br>何が起こったのでしょうか。",
+      "zh": "汉娜小姐到底……<br>\n遇上了什么事……",
+      "vi": "Hanna... Chuyện gì đã xảy ra...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Meruru002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0103Trial01_Meruru002|",
+      "ja": "も、もしかしたら、<br>犯人なんていなくて……<br><link=\"Objection_01_03_01_01\">【事故】</link>だったりした<br>可能性はないでしょうか？",
+      "zh": "有、有没有可能<br>\n其实根本没有凶手……<br>\n整起事件其实是<br>\n<link=\"Objection_01_03_01_01\">【事故】</link>呢？",
+      "vi": "Có, có thể được không Thực ra chẳng có kẻ sát nhân nào cả... Toàn bộ sự việc thực ra là <link=\"Objection_01_03_01_01\">[Tai nạn] Thế còn </link> thì sao?",
+      "objection_links": [
+        "Objection_01_03_01_01"
+      ]
+    },
+    {
+      "id": "0103Trial01_Coco001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial01_Coco001|",
+      "ja": "んなわけねーだろ！<br>どうやったら<br>事故で首<br>吊れるんだよ！",
+      "zh": "怎么可能！<br>\n哪门子的事故<br>\n会把人<br>\n吊死啊！",
+      "vi": "Làm sao điều đó có thể được! Loại tai nạn gì Sẽ khiến mọi người Hãy tự treo cổ mình!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo007",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0103Trial01_Margo007|",
+      "ja": "あら、<br>小さな可能性でも<br>否定できないのであれば<br>検討すべきじゃないかしら？",
+      "zh": "哎呀，<br>\n不管是多小的可能，<br>\n只要没法否定，<br>\n不是都应该考虑吗？",
+      "vi": "Rất tiếc, Cho dù khả năng có nhỏ đến đâu, Chỉ cần không thể từ chối được, Không phải tất cả đều nên được xem xét sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo008",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0103Trial01_Margo008|",
+      "ja": "たとえば……<br><link=\"Objection_01_03_01_02\">【自殺】</link>だった<br>可能性とかもね。",
+      "zh": "比如说……<br>\n<link=\"Objection_01_03_01_02\">【自杀】</link>的<br>\n可能性。",
+      "vi": "Ví dụ... <link=\"Objection_01_03_01_02\">[Tự sát]</link> của khả năng.",
+      "objection_links": [
+        "Objection_01_03_01_02"
+      ]
+    },
+    {
+      "id": "0103Trial01_Coco002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial01_Coco002|",
+      "ja": "つかこんな状況、<br>誰かが殺したに<br>決まってんだろ！？",
+      "zh": "这种情况<br>\n肯定是有人<br>\n动手杀人吧！？",
+      "vi": "Trong trường hợp này Chắc chắn phải có ai đó Hãy giết người! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Coco003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0103Trial01_Coco003|",
+      "ja": "他殺だよ<link=\"Objection_01_03_01_03\">【他殺】</link>！",
+      "zh": "百分百就是<link=\"Objection_01_03_01_03\">【他杀】</link>啦！",
+      "vi": "Một trăm phần trăm đó là <link=\"Objection_01_03_01_03\">[Giết người]</link>!",
+      "objection_links": [
+        "Objection_01_03_01_03"
+      ]
+    },
+    {
+      "id": "0103Trial01_Ema001",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema001|",
+      "ja": "（ハンナちゃんがどうやって死んだのか……）",
+      "zh": "（汉娜到底是怎么死的……）",
+      "vi": "（Hanna-chan…… Tại sao cậu lại bị sát hại dã man như thế này chứ……）",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema002",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema002|",
+      "ja": "（死体の状況から言って、<br>　少なくとも否定できそうな可能性が１つある……）",
+      "zh": "（从尸体的状况来看，<br>\n至少有一种可能性是可以否定的……）",
+      "vi": "(Xét theo tình trạng của cơ thể, Ít nhất một khả năng có thể bị từ chối...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema003",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema003|",
+      "ja": "（ハンナちゃんのこと……<br>　もう一度詳しく思い返してみよう）",
+      "zh": "（让我再仔细回想一下<br>\n汉娜的事……）",
+      "vi": "(Hãy để tôi suy nghĩ kỹ về Chuyện của Hanna…)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Choice001",
+      "speaker_tag": "; > @choice |#0103Trial01_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "事故ではない",
+      "zh": "这不是意外",
+      "vi": "đây không phải là tai nạn",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Choice002",
+      "speaker_tag": "; > @choice |#0103Trial01_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "自殺ではない",
+      "zh": "不是自杀",
+      "vi": "Không tự tử",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Choice003",
+      "speaker_tag": "; > @choice |#0103Trial01_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "他殺ではない",
+      "zh": "不是他杀",
+      "vi": "Không phải vụ giết người",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema004",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema004|",
+      "ja": "ちょっと待って！<br>自殺ってことはないんじゃないかな。",
+      "zh": "等一下！<br>\n这应该不是自杀吧。",
+      "vi": "Đợi một chút! Đây không phải là một vụ tự sát.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo009",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo009|",
+      "ja": "あら、どうしてそう思うのかしら？",
+      "zh": "哎呀，为什么会这么想呢？",
+      "vi": "Này, tại sao em lại nghĩ vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema005",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema005|",
+      "ja": "だって仮に自殺だったとしたら、<br>わざわざゲストハウスまで行かないよ。",
+      "zh": "因为如果是自杀的话，<br>\n没必要特地去招待所啊。",
+      "vi": "Bởi vì nếu đó là tự sát, Không cần phải đến Nhà Khách.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Sherry001",
+      "speaker_tag": "; > Sherry: |#0103Trial01_Sherry001|",
+      "ja": "まあ、首吊りならもっと身近でも出来ますしね。<br>例えば……部屋の中のベッドとか！",
+      "zh": "确实，只是想上吊的话，就近也能做到。<br>\n比如说……在房间里的床铺上！",
+      "vi": "Thật vậy, nếu bạn chỉ muốn treo cổ tự tử, bạn có thể thực hiện việc đó ở gần đó. Ví dụ như...trên giường trong phòng!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Coco004",
+      "speaker_tag": "; > Coco: |#0103Trial01_Coco004|",
+      "ja": "ちょっと！ 怖いこと言うなよ！<br>想像してまた眠れなくなっちゃうじゃんか！",
+      "zh": "喂！别说这么吓人的话好吗！<br>\n又害我睡不着了！",
+      "vi": "Xin chào! Đừng nói những điều đáng sợ như vậy được không? Coco không thể ngủ được nữa!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo010",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo010|",
+      "ja": "そうね。<br>ハンナちゃんも同室のココちゃんを気遣って<br>自室での自殺を避けたのかもしれないわ。",
+      "zh": "说得对。<br>\n汉娜也可能是顾及同屋的可可，<br>\n才避免在自己房间里自杀的。",
+      "vi": "Đúng vậy. Hanna cũng có thể lo lắng về em cùng phòng Coco, Chỉ để tránh tự tử trong phòng của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo011",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo011|",
+      "ja": "ゲストハウスを選んだのも、<br>何かしら彼女なりの理由があったのかもね。",
+      "zh": "之所以选在招待所，<br>\n或许她也有自己的考量。",
+      "vi": "Lý do Chị chọn Nhà Khách là Có lẽ cô ấy cũng có những cân nhắc của riêng mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Alisa002",
+      "speaker_tag": "; > Alisa: |#0103Trial01_Alisa002|",
+      "ja": "なんにしても今の段階じゃ、<br>自殺じゃないとは言い切れないワケだな。",
+      "zh": "不管怎么说，<br>\n现阶段我们还不能完全否定是自杀。",
+      "vi": "Dù sao đi nữa, Ở giai đoạn này chúng ta không thể phủ nhận hoàn toàn rằng đó là hành vi tự sát.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0103Trial01_Nanoka001|",
+      "ja": "……意味のない話はそれぐらいでいいかしら。",
+      "zh": "……没意义的讨论就到此为止吧。",
+      "vi": "…Hãy kết thúc cuộc thảo luận vô nghĩa này thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema006",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema006|",
+      "ja": "（うっ……！<br>　みんなの視線が痛い……）",
+      "zh": "（唔……！<br>\n大家的目光好刺人……）",
+      "vi": "(Hừm...! Ánh mắt của mọi người thật là xuyên thấu...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema007",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema007|",
+      "ja": "（まだ議論は始まったばかりだし<br>　たしかに色んな可能性が考えられるよね）",
+      "zh": "（讨论才刚开始，<br>\n确实还有很多可能性需要考虑）",
+      "vi": "(Cuộc thảo luận vừa mới bắt đầu, Thực sự có nhiều khả năng để xem xét)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema008",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema008|",
+      "ja": "（ハンナちゃんの【死体の状況】と<br>　【ハンナちゃんの特性】……<br>　照らし合わせながら考えてみよう）",
+      "zh": "（汉娜的【尸体的状况】和<br>\n【汉娜的特征】……<br>\n我要把这些联系起来思考一下）",
+      "vi": "([Trạng thái xác chết] của Hanna và 【Đặc điểm của Hanna】...... Tôi cần suy nghĩ về những kết nối này)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema009",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema009|",
+      "ja": "誰かがハンナちゃんを殺したなんて……<br>そんなことはないんじゃないかな。",
+      "zh": "你说有人杀害了汉娜……<br>\n这应该不可能。",
+      "vi": "Bạn nói ai đó đã giết Hanna... Điều này không thể thực hiện được.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo012",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo012|",
+      "ja": "あら、そう言い切れる根拠があるのかしら？",
+      "zh": "哦？你能这么断定的依据是什么呢？",
+      "vi": "Ồ? Cơ sở cho kết luận của em là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema010",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema010|",
+      "ja": "だって……<br>誰かが殺したなんて考えたくないよ……！",
+      "zh": "因为……<br>\n我不愿相信她是我们之中的人杀的……！",
+      "vi": "Bởi vì... Tôi không muốn tin rằng cô ấy đã bị giết bởi một người trong chúng ta...!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0103Trial01_Nanoka002|",
+      "ja": "この期に及んで、<br>仲間を殺すわけないと言うつもりかしら。",
+      "zh": "都到了这种时候，<br>\n你还要坚持我们不可能杀害同伴吗？",
+      "vi": "Đã đến lúc như thế này, Bạn vẫn khăng khăng rằng chúng tôi không thể giết đồng đội của mình?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo013",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo013|",
+      "ja": "議論をするつもりがないなら、<br>黙っていてもいいと思うわよ。<br>エマちゃん。",
+      "zh": "如果不打算认真参与讨论，<br>\n你也可以选择保持沉默哦，<br>\n艾玛。",
+      "vi": "Nếu em không có ý định tham gia thảo luận một cách nghiêm túc, Bạn cũng có thể chọn giữ im lặng, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema011",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema011|",
+      "ja": "うっ……！",
+      "zh": "呜……！",
+      "vi": "Ôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Meruru003",
+      "speaker_tag": "; > Meruru: |#0103Trial01_Meruru003|",
+      "ja": "エマさん……私も、お気持ちはわかります……！<br>なので、元気出してください……！",
+      "zh": "艾玛小姐……我能理解你的心情……！<br>\n请你打起精神来……！",
+      "vi": "Ema...Tôi có thể hiểu cảm giác của cô...! Hãy vui lên...!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Meruru004",
+      "speaker_tag": "; > Meruru: |#0103Trial01_Meruru004|",
+      "ja": "ファ、ファイト……です！",
+      "zh": "加、加油……！",
+      "vi": "Cố lên, cố lên...!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema012",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema012|",
+      "ja": "（メルルちゃんに気を遣わせちゃった……！）",
+      "zh": "（让梅露露担心了……！）",
+      "vi": "(Meruru đáng lo ngại...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema013",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema013|",
+      "ja": "（そうだよね、現実をちゃんと見ないと。<br>　……ハンナちゃんのためにも！）",
+      "zh": "（说得对，我必须直面现实。<br>\n……这也是为了汉娜！）",
+      "vi": "(Bạn nói đúng, tôi phải đối mặt với thực tế. …Cái này cũng là dành cho Hanna! )",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema014",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema014|",
+      "ja": "（気を取り直して考えよう。<br>　状況をもう少し振り返れば、<br>　１つは可能性を否定できるかも）",
+      "zh": "（打起精神重新思考一下吧。<br>\n只要仔细回顾状况，<br>\n应该可以排除一种可能性）",
+      "vi": "(Hãy vui lên và suy nghĩ lại. Chỉ cần xem xét tình huống một cách cẩn thận, Điều này sẽ loại trừ một khả năng)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema015",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema015|",
+      "ja": "いや……。メルルちゃん。<br>事故はないと思うんだ。",
+      "zh": "不对……梅露露。<br>\n这应该不是事故。",
+      "vi": "Không...Meruru. Đây không phải là một tai nạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema016",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema016|",
+      "ja": "今回の状況……<br>たとえ偶発的な事故だったとしても、<br>ハンナちゃんだけはありえないと思う。",
+      "zh": "就本案的情况而言……<br>\n即使是偶发事故，<br>\n汉娜也是绝对不会因此遇害的。",
+      "vi": "Trong hoàn cảnh của trường hợp này... Ngay cả khi đó là một tai nạn, Hanna sẽ không bao giờ bị giết vì điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Sherry002",
+      "speaker_tag": "; > Sherry: |#0103Trial01_Sherry002|",
+      "ja": "たしかにパッと見は自殺か、<br>もしくはそう思わせようと偽装した<br>殺人事件に見えますよね！",
+      "zh": "确实乍一看像是自杀，<br>\n再稍微思考，也可以认为是<br>\n伪装成自杀的凶杀！",
+      "vi": "Thoạt nhìn trông giống như tự sát, Nếu bạn nghĩ về nó nhiều hơn một chút, bạn có thể coi nó như Giết người cải trang thành tự sát!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Alisa003",
+      "speaker_tag": "; > Alisa: |#0103Trial01_Alisa003|",
+      "ja": "けど、なんで事故【だけ】は<br>ありえないんだ？",
+      "zh": "可是，为什么你能笃定<br>\n【不可能】是事故？",
+      "vi": "Nhưng tại sao mày có thể chắc chắn [Không thể] Đây là tai nạn sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema017",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema017|",
+      "ja": "（ハンナちゃんの死が事故ではない理由、<br>　それは……）",
+      "zh": "（汉娜的死不可能是事故。<br>\n原因就是……）",
+      "vi": "(Cái chết của Hanna không thể là một tai nạn. Lý do là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Choice004",
+      "speaker_tag": "; > @choice |#0103Trial01_Choice004|",
+      "ja": "性格",
+      "zh": "性格",
+      "vi": "nhân vật",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Choice005",
+      "speaker_tag": "; > @choice |#0103Trial01_Choice005|",
+      "ja": "体格",
+      "zh": "体格",
+      "vi": "vóc dáng",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Choice006",
+      "speaker_tag": "; > @choice |#0103Trial01_Choice006|",
+      "ja": "魔法",
+      "zh": "魔法",
+      "vi": "ma thuật",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema018",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema018|",
+      "ja": "ハンナちゃんの性格……<br>事故なんて起こさないと思うよ。",
+      "zh": "以汉娜的性格……<br>\n她不可能出事故。",
+      "vi": "Với nhân vật của Hanna… Cô ấy không thể gặp tai nạn được.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Alisa004",
+      "speaker_tag": "; > Alisa: |#0103Trial01_Alisa004|",
+      "ja": "……あいつ、結構抜けてるとこなかったか……？",
+      "zh": "……你们不觉得她平时就是冒冒失失的吗……？",
+      "vi": "...Bạn không nghĩ rằng mày ấy thường liều lĩnh sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0103Trial01_Nanoka003|",
+      "ja": "……コメントは控えておこうかしら。",
+      "zh": "……这个我还是不予置评好了。",
+      "vi": "...Tốt nhất tôi không nên bình luận về điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo014",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo014|",
+      "ja": "なんにせよ、偏見は良くないわエマちゃん。",
+      "zh": "总之，对人有偏见可是不好的哦，艾玛。",
+      "vi": "Tóm lại, thành kiến với mọi người là không tốt, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo015",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo015|",
+      "ja": "彼女にだって色々事情はあるだろうし、<br>仲がいいからって全部を知ってると思うのも<br>少し傲慢じゃないかしら？",
+      "zh": "她也有自己的种种苦衷。<br>\n就凭你们关系好，就认为自己了解她的一切，<br>\n这是否有些太自以为是了呢？",
+      "vi": "Cô ấy cũng có những khó khăn của riêng mình. Chỉ vì em có một mối quan hệ tốt mà em nghĩ rằng em biết mọi thứ về cô ấy, Có phải điều này hơi quá tự cho mình là đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0103Trial01_Nanoka004|",
+      "ja": "誰であれ、話したくないことぐらいあるわ。",
+      "zh": "每个人都有不愿说出口的事情。",
+      "vi": "Mọi người đều có những điều họ không muốn nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Meruru005",
+      "speaker_tag": "; > Meruru: |#0103Trial01_Meruru005|",
+      "ja": "みんなのこと、これから一緒に知っていきましょうね。<br>エマさん……！",
+      "zh": "让我们今后多多互相了解吧，<br>\n艾玛小姐……！",
+      "vi": "Trong tương lai chúng ta hãy hiểu nhau hơn nhé, Ema...!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema019",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema019|",
+      "ja": "（励まされちゃった……！）",
+      "zh": "（被鼓励了……！）",
+      "vi": "(Khuyến khích...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema020",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema020|",
+      "ja": "（ハンナちゃんが事故死じゃない理由……）",
+      "zh": "（汉娜不可能是事故死的原因……）",
+      "vi": "(Hanna không thể là nguyên nhân của vụ tai nạn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema021",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema021|",
+      "ja": "（それは、ハンナちゃんの<br>　あの特徴を考えると推測できるはず……！）",
+      "zh": "（考虑到她的那个特征，<br>\n应该可以得出结论……！）",
+      "vi": "(Xét đến đặc điểm đó của cô ấy, Chúng ta có thể rút ra kết luận...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema022",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema022|",
+      "ja": "ハンナちゃんの身長じゃ、<br>天井の梁には届かないと思うんだ。",
+      "zh": "以汉娜的身高，<br>\n根本够不着天花板的横梁。",
+      "vi": "Với chiều cao của Hanna, Không có cách nào để chạm tới dầm trần.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema023",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema023|",
+      "ja": "だから事故に遭いようがないよ！",
+      "zh": "所以不可能是事故！",
+      "vi": "Vì vậy, nó không thể là một tai nạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0103Trial01_Nanoka005|",
+      "ja": "普通に考えて、踏み台になるものがあったんでしょう。",
+      "zh": "正常来想，她肯定会用能垫脚的东西。",
+      "vi": "Thông thường, cô ấy chắc chắn sẽ sử dụng thứ gì đó có thể đứng vững trên đôi chân của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo016",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo016|",
+      "ja": "そう考えるのが妥当ね。<br>だとしたら事故の線は捨てきれないわ。",
+      "zh": "这样想确实合理。<br>\n那我们就没法完全排除是事故的可能了。",
+      "vi": "Thực sự có lý khi nghĩ như vậy. Khi đó chúng ta không thể loại trừ hoàn toàn khả năng xảy ra tai nạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo017",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo017|",
+      "ja": "部屋の飾りつけなんかをしてる時に<br>あやまって足を滑らせてしまった……<br>とかね？",
+      "zh": "比如说，在装饰房间的时候，<br>\n一不小心失足了……<br>\n这样如何？",
+      "vi": "Ví dụ: khi trang trí một căn phòng, Chị vô tình mắc sai lầm... Còn cái này thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Coco005",
+      "speaker_tag": "; > Coco: |#0103Trial01_Coco005|",
+      "ja": "そういえば周りに人形もあったっけ……。<br>なんか悪趣味なやつ。",
+      "zh": "说起来现场周围好像还摆着人偶……<br>\n感觉好诡异。",
+      "vi": "Nhắc mới nhớ, hình như có những con búp bê được đặt xung quanh khung cảnh... Cảm giác thật kỳ lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Meruru006",
+      "speaker_tag": "; > Meruru: |#0103Trial01_Meruru006|",
+      "ja": "わ、私は……<br>かわいいと思います……。<br>クリスマスツリーみたいで……！",
+      "zh": "我、我觉得……<br>\n很可爱……！<br>\n就像圣诞树一样……！",
+      "vi": "Tôi, tôi nghĩ... Dễ thương quá...! Giống như một cây thông Noel...!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Sherry003",
+      "speaker_tag": "; > Sherry: |#0103Trial01_Sherry003|",
+      "ja": "じゃあ、今度同じように飾り付けして<br>パーティーを開きましょうか！<br>中庭とかいいんじゃないですかねー。",
+      "zh": "那下次我们也来用同样的装饰开派对吧！<br>\n在中庭那边办怎么样？<br>",
+      "vi": "Vậy lần sau hãy tổ chức một bữa tiệc với cách trang trí tương tự nhé! Làm thế nào về việc làm điều đó trong tâm nhĩ?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0103Trial01_Nanoka006|",
+      "ja": "……議論を脱線させないでくれるかしら？<br>そういうのは後にしてちょうだい、桜羽エマ。",
+      "zh": "……麻烦你可不可以不要偏离主题？<br>\n这种事之后再说，樱羽艾玛。",
+      "vi": "... Bạn có thể vui lòng đừng lạc đề được không? Hãy nói về chuyện này sau nhé, Ema Sakuraba.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema024",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema024|",
+      "ja": "（ボクのせいにされちゃった……！）",
+      "zh": "（怪到我头上来了……！）",
+      "vi": "(Đổ lỗi cho tôi ...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema025",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema025|",
+      "ja": "（ハンナちゃんが事故死じゃない理由……）",
+      "zh": "（汉娜不可能是事故死的原因……）",
+      "vi": "(Hanna không thể là nguyên nhân của vụ tai nạn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema026",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema026|",
+      "ja": "（それは、ハンナちゃんの<br>　あの特徴を考えると推測できるはず）",
+      "zh": "（考虑到她的那个特征，<br>\n应该可以得出结论）",
+      "vi": "(Xét đến đặc điểm đó của cô ấy, Có thể rút ra kết luận)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema027",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema027|",
+      "ja": "ハンナちゃんの魔法を思い出して。",
+      "zh": "请各位回想一下，汉娜的魔法能力。",
+      "vi": "Hãy nghĩ lại khả năng kỳ diệu của Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema028",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema028|",
+      "ja": "ハンナちゃんの魔法は【浮遊】する魔法……。",
+      "zh": "汉娜拥有的是【飘浮】魔法……",
+      "vi": "Thứ mà Hanna sở hữu là phép thuật [Levitation]...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema029",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema029|",
+      "ja": "もしも何かの事故があったとしても、<br>ハンナちゃんなら体重がかかる前に<br>窒息死を防げるはずだよ。",
+      "zh": "就算真的发生了事故，<br>\n以汉娜的能力，她完全可以<br>\n在脖子完全受力前使出魔法，避免窒息死亡。",
+      "vi": "Ngay cả khi xảy ra tai nạn, Với khả năng của Hanna, cô ấy chắc chắn có thể Sử dụng phép thuật trước khi cổ bị căng hoàn toàn để tránh tử vong vì ngạt thở.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Coco006",
+      "speaker_tag": "; > Coco: |#0103Trial01_Coco006|",
+      "ja": "……でもお嬢でしょ？<br>ドン臭そうだし、魔法使う前に首がキュッ……<br>とか、ありそうじゃね？",
+      "zh": "……但那可是大小姐欸？<br>\n看起来就笨笨的，说不定还没来得及用魔法，<br>\n脖子就已经“咔嚓”一下……我觉得很有可能欸？",
+      "vi": "…Nhưng đó là bà cả sao? Trông anh ta ngu quá, có lẽ anh ta chưa có thời gian sử dụng phép thuật, Cổ đã “tách” rồi... Coco nghĩ rất có thể?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Nanoka007",
+      "speaker_tag": "; > Nanoka: |#0103Trial01_Nanoka007|",
+      "ja": "……そうかもしれないけれど、<br>それでも私は桜羽エマの意見に賛成ね。",
+      "zh": "……虽然你说的也有道理，<br>\n但我还是认可樱羽艾玛的观点。",
+      "vi": "...Mặc dù điều bạn nói có lý, Nhưng tôi vẫn đồng ý với quan điểm của Sakuraba Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Nanoka008",
+      "speaker_tag": "; > Nanoka: |#0103Trial01_Nanoka008|",
+      "ja": "そもそもあの体勢で事故に遭ったというなら、<br>ロープに首を吊るそうとしていたはず……。",
+      "zh": "说到底，要说她是以那副姿势遭遇事故的话，<br>\n那么她肯定还是把绳子套在脖子上了才对……",
+      "vi": "Rốt cuộc, nếu cô ấy gặp tai nạn trong tư thế đó, Thế thì chắc chắn cô ấy đã quàng sợi dây quanh cổ mình...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Nanoka009",
+      "speaker_tag": "; > Nanoka: |#0103Trial01_Nanoka009|",
+      "ja": "どんな状況であれ、事故だったとは思えないわ。",
+      "zh": "不管从哪种情况来看，都很难得出是事故的结论。",
+      "vi": "Dù nhìn vào tình huống nào thì cũng khó có thể kết luận rằng đó là một tai nạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo018",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo018|",
+      "ja": "ハンナちゃんが自分から縛られる趣味でも<br>あったなら事故かもしれないけどね♡",
+      "zh": "除非汉娜有捆绑自己的特殊癖好，<br>\n否则确实不太可能是事故呢♡",
+      "vi": "Trừ khi Hanna có sở thích đặc biệt là tự trói mình, Nếu không thì khó có thể là một tai nạn♡",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo019",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo019|",
+      "ja": "でもどう考えてもあの死体は……【自殺】。<br>もしくはそう思わせようとした【他殺】。<br>そのどちらかでいいと思うわ。",
+      "zh": "不过，不管怎么想……要么她是【自杀】，<br>\n要么就是有人想让我们误认为是自杀的【他杀】。<br>\n我觉得只有这两样解释是合理的。",
+      "vi": "Tuy nhiên, dù em nghĩ thế nào đi nữa... thì cô ấy [tự tử], Hoặc có thể là [giết người] mà ai đó muốn chúng ta nhầm là tự sát. Chị nghĩ chỉ có hai cách giải thích này là hợp lý.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo020",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo020|",
+      "ja": "私としては……<br>自ら命を断った線も追いたいけどね♡",
+      "zh": "我个人比较倾向于讨论……<br>\n她是自行了断的♡",
+      "vi": "Cá nhân Chị thiên về thảo luận hơn... Cô ấy đã tự tử♡",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Alisa005",
+      "speaker_tag": "; > Alisa: |#0103Trial01_Alisa005|",
+      "ja": "アイツが自殺した……ってのか？",
+      "zh": "你的意思是，她选择了自杀……？",
+      "vi": "Ý mày là, mày ấy đã chọn cách tự sát...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo021",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo021|",
+      "ja": "ええ。だって、現場の状況がそう言っているもの……。",
+      "zh": "没错。毕竟，现场的一切都是这样暗示的……",
+      "vi": "Đúng vậy. Suy cho cùng thì đó chính là điều mà mọi thứ trong cảnh đó gợi ý…",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Margo022",
+      "speaker_tag": "; > Margo: |#0103Trial01_Margo022|",
+      "ja": "あらためて、それについて少し話しましょう？",
+      "zh": "要不要再仔细讨论一下这个问题？",
+      "vi": "Bạn có muốn thảo luận vấn đề này chi tiết hơn?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema030",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema030|",
+      "ja": "（……ボクは寝込んでもいたし、<br>　みんなの話をよく聞いて<br>　置いていかれないようにしないと……！）",
+      "zh": "（……之前我昏睡了很久，<br>\n我得认真听取大家的讨论，<br>\n跟上大家才行……！）",
+      "vi": "(...Tôi đã ngủ quên từ lâu rồi, Tôi phải lắng nghe thật kỹ cuộc thảo luận của mọi người, Hãy theo dõi mọi người nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Meruru007",
+      "speaker_tag": "; > Meruru: |#0103Trial01_Meruru007|",
+      "ja": "……エ、エマさん。",
+      "zh": "……艾、艾玛小姐。",
+      "vi": "...Ai, cô Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Meruru008",
+      "speaker_tag": "; > Meruru: |#0103Trial01_Meruru008|",
+      "ja": "みなさん、議論の流れを邪魔しないように、<br>詳しい説明を控えている事があります。",
+      "zh": "大家为了不影响讨论的节奏，<br>\n有时会有意省略一些细节的说明。",
+      "vi": "Để không ảnh hưởng đến nhịp độ cuộc thảo luận, Đôi khi một số chi tiết được cố ý bỏ qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Meruru009",
+      "speaker_tag": "; > Meruru: |#0103Trial01_Meruru009|",
+      "ja": "もし疑問に思ったことがあったら、<br>遠慮なく聞いておきましょうね。<br>推理のヒントになるお話が聞けるかもしれません。",
+      "zh": "如果你有任何疑问，<br>\n请一定要问出来。<br>\n说不定你能听到对推理有帮助的重要信息。",
+      "vi": "Nếu bạn có bất kỳ câu hỏi nào, Hãy chắc chắn để hỏi. Có thể bạn sẽ nghe được những thông tin quan trọng giúp ích cho việc lập luận của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Trial01_Ema031",
+      "speaker_tag": "; > Ema: |#0103Trial01_Ema031|",
+      "ja": "うん！<br>ありがとう、メルルちゃん……！",
+      "zh": "嗯！<br>\n谢谢你，梅露露……！",
+      "vi": "Vâng! Cảm ơn Meruru...!",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter03_Bad01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter03/Act01_Chapter03_Bad01' Naninovel scenario script",
+  "total_entries": 7,
+  "entries": [
+    {
+      "id": "0103Bad01_Ema001",
+      "speaker_tag": "; > Ema: |#0103Bad01_Ema001|",
+      "ja": "（もしかして、何かの手がかりじゃ……）",
+      "zh": "（这说不定是什么线索……）",
+      "vi": "(Đây có thể là manh mối...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad01_Narrative001",
+      "speaker_tag": "",
+      "ja": "エマは夢中で掘り進めた。<br>しばらくして出て来たのは、小さな黒い固まりだった。",
+      "zh": "艾玛全神贯注地不停挖掘。<br>\n过了一会，出现了一个小小的黑色团块。",
+      "vi": "Ema tiếp tục đào với tất cả sự tập trung của mình. Một lúc sau, một khối nhỏ màu đen xuất hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad01_Ema002",
+      "speaker_tag": "; > Ema: |#0103Bad01_Ema002|",
+      "ja": "なんだろう、これ。",
+      "zh": "这是什么呢。",
+      "vi": "Đây là cái gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad01_Narrative002",
+      "speaker_tag": "",
+      "ja": "エマがそっと手に取った瞬間、<br>塊から小さな音がして。",
+      "zh": "艾玛刚轻轻拿起它，<br>\n黑块就发出了微弱的声响。",
+      "vi": "Ema chỉ nhẹ nhàng nhặt nó lên, Khối đen phát ra âm thanh yếu ớt.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad01_Ema003",
+      "speaker_tag": "; > Ema: |#0103Bad01_Ema003|",
+      "ja": "えっ……？",
+      "zh": "欸……？",
+      "vi": "Ủa...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad01_Narrative003",
+      "speaker_tag": "",
+      "ja": "地を揺らすほどの<ruby=\"ごうおん\">轟音</ruby>の後、<br>その場に残ったのは――",
+      "zh": "一声震天动地的巨响过后，<br>\n现场只剩下了——",
+      "vi": "Sau một tiếng động lớn làm rung chuyển trái đất, Tất cả những gì còn lại ở hiện trường——",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad01_Narrative004",
+      "speaker_tag": "",
+      "ja": "木っ端<ruby=\"みじん\">微塵</ruby>になった『エマだったもの』だけだった。",
+      "zh": "散落一地的，曾经是艾玛的残骸碎片。",
+      "vi": "Rải rác khắp nơi là những mảnh vỡ của thứ từng là Ema.",
+      "objection_links": []
+    }
+  ]
+}

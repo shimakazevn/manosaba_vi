@@ -1,0 +1,808 @@
+{
+  "bundle": "general-localization-zhhans-scripts-debug_assets_all.bundle",
+  "script_name": "Debug_Home",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Debug/Debug_Home' Naninovel scenario script",
+  "total_entries": 100,
+  "entries": [
+    {
+      "id": "~7d3cde78",
+      "speaker_tag": "; > @choice \"|#~7d3cde78|\" handler:Debug",
+      "ja": "第1章 第1話",
+      "zh": "",
+      "vi": "Chương 1 Tập 1",
+      "objection_links": []
+    },
+    {
+      "id": "~8527fe86",
+      "speaker_tag": "; > @choice \"|#~8527fe86|\" handler:Debug",
+      "ja": "第1章 第2話",
+      "zh": "",
+      "vi": "Chương 1 Chương 2",
+      "objection_links": []
+    },
+    {
+      "id": "~76693d1b",
+      "speaker_tag": "; > @choice \"|#~76693d1b|\" handler:Debug",
+      "ja": "第1章 第3話",
+      "zh": "",
+      "vi": "Chương 1 Chương 3",
+      "objection_links": []
+    },
+    {
+      "id": "~a3fabfcb",
+      "speaker_tag": "; > @choice \"|#~a3fabfcb|\" handler:Debug",
+      "ja": "第1章 第4話",
+      "zh": "",
+      "vi": "Chương 1 Chương 4",
+      "objection_links": []
+    },
+    {
+      "id": "~47513a17",
+      "speaker_tag": "; > @choice \"|#~47513a17|\" handler:Debug",
+      "ja": "第1章 第5話",
+      "zh": "",
+      "vi": "Chương 1 Chương 5",
+      "objection_links": []
+    },
+    {
+      "id": "~a15357be",
+      "speaker_tag": "; > @choice \"|#~a15357be|\" handler:Debug",
+      "ja": "第2章 第1話",
+      "zh": "",
+      "vi": "Chương 2 Tập 1",
+      "objection_links": []
+    },
+    {
+      "id": "~7964b88e",
+      "speaker_tag": "; > @choice \"|#~7964b88e|\" handler:Debug",
+      "ja": "第2章 第2話",
+      "zh": "",
+      "vi": "Chương 2 Tập 2",
+      "objection_links": []
+    },
+    {
+      "id": "~d6ffd8ca",
+      "speaker_tag": "; > @choice \"|#~d6ffd8ca|\" handler:Debug",
+      "ja": "第2章 第3話",
+      "zh": "",
+      "vi": "Chương 2 Tập 3",
+      "objection_links": []
+    },
+    {
+      "id": "~c80df366",
+      "speaker_tag": "; > @choice \"|#~c80df366|\" handler:Debug",
+      "ja": "第2章 第4話",
+      "zh": "",
+      "vi": "Chương 2 Tập 4",
+      "objection_links": []
+    },
+    {
+      "id": "~deda6fc1",
+      "speaker_tag": "; > @choice \"|#~deda6fc1|\" handler:Debug",
+      "ja": "第2章 第5話",
+      "zh": "",
+      "vi": "Chương 2 Chương 5",
+      "objection_links": []
+    },
+    {
+      "id": "~bfdd6ec",
+      "speaker_tag": "; > @choice \"|#~bfdd6ec|\" handler:Debug",
+      "ja": "第2章 第6話",
+      "zh": "",
+      "vi": "Chương 2 Chương 6",
+      "objection_links": []
+    },
+    {
+      "id": "~3acb6e8f",
+      "speaker_tag": "; > @choice |#~3acb6e8f| handler:Debug",
+      "ja": "共通",
+      "zh": "",
+      "vi": "chung",
+      "objection_links": []
+    },
+    {
+      "id": "~88f27163",
+      "speaker_tag": "; > @choice |#~88f27163| handler:Debug",
+      "ja": "サウンドテスト",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~10e38ff5",
+      "speaker_tag": "; > @choice |#~10e38ff5| button:ChoiceButtons/Debug/Cancel handler:Debug",
+      "ja": "戻る",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~15a58af2",
+      "speaker_tag": "; > @choice \"|#~15a58af2|\" handler:Debug",
+      "ja": "ADVパート シーン1",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~d08c664f",
+      "speaker_tag": "; > @choice \"|#~d08c664f|\" handler:Debug",
+      "ja": "ADVパート シーン2",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~ae2c7a96",
+      "speaker_tag": "; > @choice \"|#~ae2c7a96|\" handler:Debug",
+      "ja": "ADVパート シーン3",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~d8b26369",
+      "speaker_tag": "; > @choice \"|#~d8b26369|\" handler:Debug",
+      "ja": "ADVパート シーン4",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~fbe0cf6d",
+      "speaker_tag": "; > @choice \"|#~fbe0cf6d|\" handler:Debug",
+      "ja": "ADVパート シーン5",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~1870235c",
+      "speaker_tag": "; > @choice \"|#~1870235c|\" handler:Debug",
+      "ja": "ADVパート シーン6",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~59df146c",
+      "speaker_tag": "; > @choice \"|#~59df146c|\" handler:Debug",
+      "ja": "ADVパート シーン7",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~b8dcb114",
+      "speaker_tag": "; > @choice \"|#~b8dcb114|\" handler:Debug",
+      "ja": "ADVパート シーン8",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~67de10e5",
+      "speaker_tag": "; > @choice \"|#~67de10e5|\" handler:Debug",
+      "ja": "ADVパート シーン9",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~43356f19",
+      "speaker_tag": "; > @choice \"|#~43356f19|\" handler:Debug",
+      "ja": "ADVパート シーン10",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~c7312a89",
+      "speaker_tag": "; > @choice \"|#~c7312a89|\" handler:Debug",
+      "ja": "ADVパート シーン11",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~7a07eefa",
+      "speaker_tag": "; > @choice \"|#~7a07eefa|\" handler:Debug",
+      "ja": "ADVパート シーン12",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~987268c6",
+      "speaker_tag": "; > @choice \"|#~987268c6|\" handler:Debug",
+      "ja": "ADVパート シーン13",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~493d8d90",
+      "speaker_tag": "; > @choice \"|#~493d8d90|\" handler:Debug",
+      "ja": "ADVパート シーン14",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~30d6b580",
+      "speaker_tag": "; > @choice \"|#~30d6b580|\" handler:Debug",
+      "ja": "ADVパート シーン15",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~a4a2a446",
+      "speaker_tag": "; > @choice \"|#~a4a2a446|\" handler:Debug",
+      "ja": "ADVパート シーン16",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~229646d3",
+      "speaker_tag": "; > @choice \"|#~229646d3|\" handler:Debug",
+      "ja": "ADVパート シーン17",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~aef45c19",
+      "speaker_tag": "; > @choice \"|#~aef45c19|\" handler:Debug",
+      "ja": "ADVパート シーン18",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~b37bd209",
+      "speaker_tag": "; > @choice \"|#~b37bd209|\" handler:Debug",
+      "ja": "ADVパート シーン19",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~837eb94a",
+      "speaker_tag": "; > @choice \"|#~837eb94a|\" handler:Debug",
+      "ja": "ADVパート シーン20",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~dad3a203",
+      "speaker_tag": "; > @choice \"|#~dad3a203|\" handler:Debug",
+      "ja": "ADVパート シーン21",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~1de77a09",
+      "speaker_tag": "; > @choice \"|#~1de77a09|\" handler:Debug",
+      "ja": "ADVパート シーン22",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~fef1a509",
+      "speaker_tag": "; > @choice \"|#~fef1a509|\" handler:Debug",
+      "ja": "ADVパート シーン23",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~35dea8a3",
+      "speaker_tag": "; > @choice \"|#~35dea8a3|\" handler:Debug",
+      "ja": "ADVパート シーン24",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~15729dcd",
+      "speaker_tag": "; > @choice \"|#~15729dcd|\" handler:Debug",
+      "ja": "ADVパート シーン25",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~c60df1fb",
+      "speaker_tag": "; > @choice \"|#~c60df1fb|\" handler:Debug",
+      "ja": "ADVパート シーン26",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~f0cdede4",
+      "speaker_tag": "; > @choice \"|#~f0cdede4|\" handler:Debug",
+      "ja": "ADVパート シーン27",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~1fd4a96c",
+      "speaker_tag": "; > @choice \"|#~1fd4a96c|\" handler:Debug",
+      "ja": "ADVパート シーン28",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~9195b0b1",
+      "speaker_tag": "; > @choice \"|#~9195b0b1|\" handler:Debug",
+      "ja": "ADVパート シーン29",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~6c476ff6",
+      "speaker_tag": "; > @choice \"|#~6c476ff6|\" handler:Debug",
+      "ja": "ADVパート シーン30",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~cb8782f",
+      "speaker_tag": "; > @choice \"|#~cb8782f|\" handler:Debug",
+      "ja": "ADVパート シーン31",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~ad462ad5",
+      "speaker_tag": "; > @choice \"|#~ad462ad5|\" handler:Debug",
+      "ja": "ADVパート シーン32",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~cc1295c0",
+      "speaker_tag": "; > @choice \"|#~cc1295c0|\" handler:Debug",
+      "ja": "ADVパート シーン33",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~e2662959",
+      "speaker_tag": "; > @choice \"|#~e2662959|\" handler:Debug",
+      "ja": "ADVパート シーン34",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~f0435fb2",
+      "speaker_tag": "; > @choice \"|#~f0435fb2|\" handler:Debug",
+      "ja": "ADVパート シーン35",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~bd7f88bd",
+      "speaker_tag": "; > @choice \"|#~bd7f88bd|\" handler:Debug",
+      "ja": "ADVパート シーン36",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~7fa0eb20",
+      "speaker_tag": "; > @choice \"|#~7fa0eb20|\" handler:Debug",
+      "ja": "ADVパート バッドエンド1",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~21e0f3cc",
+      "speaker_tag": "; > @choice \"|#~21e0f3cc|\" handler:Debug",
+      "ja": "ADVパート バッドエンド2",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~46750624",
+      "speaker_tag": "; > @choice \"|#~46750624|\" handler:Debug",
+      "ja": "ADVパート バッドエンド3",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~11b095d6",
+      "speaker_tag": "; > @choice \"|#~11b095d6|\" handler:Debug",
+      "ja": "ADVパート バッドエンド4",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~dee5f190",
+      "speaker_tag": "; > @choice \"|#~dee5f190|\" handler:Debug",
+      "ja": "ADVパート バッドエンド5",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~9a06b4be",
+      "speaker_tag": "; > @choice \"|#~9a06b4be|\" handler:Debug",
+      "ja": "ADVパート バッドエンド6",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~ef528096",
+      "speaker_tag": "; > @choice \"|#~ef528096|\" handler:Debug",
+      "ja": "ADVパート バッドエンド7",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~6eb9adee",
+      "speaker_tag": "; > @choice \"|#~6eb9adee|\" handler:Debug",
+      "ja": "ADVパート バッドエンド8",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~afe85dd2",
+      "speaker_tag": "; > @choice \"|#~afe85dd2|\" handler:Debug",
+      "ja": "裁判パート 導入",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~6d2b1615",
+      "speaker_tag": "; > @choice \"|#~6d2b1615|\" handler:Debug",
+      "ja": "裁判パート 議論1",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~ac2df2bb",
+      "speaker_tag": "; > @choice \"|#~ac2df2bb|\" handler:Debug",
+      "ja": "裁判パート 議論2",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~ba78deb4",
+      "speaker_tag": "; > @choice \"|#~ba78deb4|\" handler:Debug",
+      "ja": "裁判パート 議論3",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~cad7dc3a",
+      "speaker_tag": "; > @choice \"|#~cad7dc3a|\" handler:Debug",
+      "ja": "裁判パート 議論4",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~c8badb81",
+      "speaker_tag": "; > @choice \"|#~c8badb81|\" handler:Debug",
+      "ja": "裁判パート 議論5",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~207befb3",
+      "speaker_tag": "; > @choice \"|#~207befb3|\" handler:Debug",
+      "ja": "裁判パート 議論6",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~6fafc00e",
+      "speaker_tag": "; > @choice \"|#~6fafc00e|\" handler:Debug",
+      "ja": "裁判パート 議論7",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~ba8e70a8",
+      "speaker_tag": "; > @choice \"|#~ba8e70a8|\" handler:Debug",
+      "ja": "裁判パート 議論8",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~46c16ea6",
+      "speaker_tag": "; > @choice \"|#~46c16ea6|\" handler:Debug",
+      "ja": "裁判パート 議論9",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~5503ccb2",
+      "speaker_tag": "; > @choice \"|#~5503ccb2|\" handler:Debug",
+      "ja": "裁判パート 議論10",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~c8c75cee",
+      "speaker_tag": "; > @choice \"|#~c8c75cee|\" handler:Debug",
+      "ja": "裁判パート 議論11",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~cce6d456",
+      "speaker_tag": "; > @choice \"|#~cce6d456|\" handler:Debug",
+      "ja": "裁判パート 議論12",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~654aab48",
+      "speaker_tag": "; > @choice \"|#~654aab48|\" handler:Debug",
+      "ja": "裁判パート 議論13",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~8ba77560",
+      "speaker_tag": "; > @choice \"|#~8ba77560|\" handler:Debug",
+      "ja": "裁判パート 議論14",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~1a227c9",
+      "speaker_tag": "; > @choice \"|#~1a227c9|\" handler:Debug",
+      "ja": "裁判パート 議論15",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~241cdc7e",
+      "speaker_tag": "; > @choice \"|#~241cdc7e|\" handler:Debug",
+      "ja": "裁判パート 議論16",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~5efa29ad",
+      "speaker_tag": "; > @choice \"|#~5efa29ad|\" handler:Debug",
+      "ja": "裁判パート 議論17",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~8dc03a6d",
+      "speaker_tag": "; > @choice \"|#~8dc03a6d|\" handler:Debug",
+      "ja": "裁判パート 議論18",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~56ebddeb",
+      "speaker_tag": "; > @choice \"|#~56ebddeb|\" handler:Debug",
+      "ja": "裁判パート 議論19",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~ebc2a482",
+      "speaker_tag": "; > @choice \"|#~ebc2a482|\" handler:Debug",
+      "ja": "裁判パート 議論20",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~9a9f296c",
+      "speaker_tag": "; > @choice \"|#~9a9f296c|\" handler:Debug",
+      "ja": "裁判パート 議論21",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~b503387b",
+      "speaker_tag": "; > @choice \"|#~b503387b|\" handler:Debug",
+      "ja": "裁判パート 議論22",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~a6c6f8b4",
+      "speaker_tag": "; > @choice \"|#~a6c6f8b4|\" handler:Debug",
+      "ja": "裁判パート 議論23",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~5bde5dfa",
+      "speaker_tag": "; > @choice \"|#~5bde5dfa|\" handler:Debug",
+      "ja": "裁判パート 議論24",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~d5baab2d",
+      "speaker_tag": "; > @choice \"|#~d5baab2d|\" handler:Debug",
+      "ja": "裁判パート 議論25",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~edb413a3",
+      "speaker_tag": "; > @choice \"|#~edb413a3|\" handler:Debug",
+      "ja": "裁判パート 議論26",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~555ef0a3",
+      "speaker_tag": "; > @choice \"|#~555ef0a3|\" handler:Debug",
+      "ja": "裁判パート 議論27",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~9c882851",
+      "speaker_tag": "; > @choice \"|#~9c882851|\" handler:Debug",
+      "ja": "裁判パート 議論28",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~81def113",
+      "speaker_tag": "; > @choice |#~81def113| handler:Debug",
+      "ja": "CommonBad01",
+      "zh": "",
+      "vi": "CommonBad01",
+      "objection_links": []
+    },
+    {
+      "id": "~a24d89f8",
+      "speaker_tag": "; > @choice |#~a24d89f8| handler:Debug",
+      "ja": "CommonBad02",
+      "zh": "",
+      "vi": "CommonBad02",
+      "objection_links": []
+    },
+    {
+      "id": "~12191834",
+      "speaker_tag": "; > @choice |#~12191834| handler:Debug",
+      "ja": "CommonBad03",
+      "zh": "",
+      "vi": "CommonBad03",
+      "objection_links": []
+    },
+    {
+      "id": "~73a95a8e",
+      "speaker_tag": "; > @choice |#~73a95a8e| handler:Debug",
+      "ja": "CommonBad04",
+      "zh": "",
+      "vi": "CommonBad04",
+      "objection_links": []
+    },
+    {
+      "id": "~533795aa",
+      "speaker_tag": "; > @choice |#~533795aa| handler:Debug",
+      "ja": "CommonBad05",
+      "zh": "",
+      "vi": "CommonBad05",
+      "objection_links": []
+    },
+    {
+      "id": "~2c829691",
+      "speaker_tag": "; > @choice |#~2c829691| handler:Debug",
+      "ja": "CommonBad06",
+      "zh": "",
+      "vi": "CommonBad06",
+      "objection_links": []
+    },
+    {
+      "id": "~d324b00c",
+      "speaker_tag": "; > @choice |#~d324b00c| handler:Debug",
+      "ja": "CommonBad07",
+      "zh": "",
+      "vi": "CommonBad07",
+      "objection_links": []
+    },
+    {
+      "id": "~4b1b0b56",
+      "speaker_tag": "; > @choice |#~4b1b0b56| handler:Debug",
+      "ja": "CommonBad08",
+      "zh": "",
+      "vi": "CommonBad08",
+      "objection_links": []
+    },
+    {
+      "id": "~efb02bb8",
+      "speaker_tag": "; > @choice |#~efb02bb8| handler:Debug",
+      "ja": "CommonBad09",
+      "zh": "",
+      "vi": "CommonBad09",
+      "objection_links": []
+    },
+    {
+      "id": "~741c3",
+      "speaker_tag": "; > @choice |#~741c3| handler:Debug",
+      "ja": "CommonBad10",
+      "zh": "",
+      "vi": "CommonBad10",
+      "objection_links": []
+    },
+    {
+      "id": "~c314bf86",
+      "speaker_tag": "; > @choice |#~c314bf86| handler:Debug",
+      "ja": "CommonBad11",
+      "zh": "",
+      "vi": "CommonBad11",
+      "objection_links": []
+    },
+    {
+      "id": "~228985bc",
+      "speaker_tag": "; > @choice |#~228985bc| handler:Debug",
+      "ja": "CommonBad12",
+      "zh": "",
+      "vi": "CommonBad12",
+      "objection_links": []
+    },
+    {
+      "id": "~a88aebfa",
+      "speaker_tag": "; > @choice |#~a88aebfa| handler:Debug",
+      "ja": "CommonBad13",
+      "zh": "",
+      "vi": "CommonBad13",
+      "objection_links": []
+    }
+  ]
+}

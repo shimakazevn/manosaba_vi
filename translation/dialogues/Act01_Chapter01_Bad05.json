@@ -1,0 +1,928 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Bad05",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Bad05' Naninovel scenario script",
+  "total_entries": 115,
+  "entries": [
+    {
+      "id": "0101Bad05_Ema001",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema001|",
+      "ja": "わからないけど、とにかく逃げよう！",
+      "zh": "不知道，总之先跑起来吧！",
+      "vi": "Tôi không biết, nhưng hãy chạy trước đã!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry001",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry001|",
+      "ja": "そうですね、そのうち諦めてくれるかもしれませんし！",
+      "zh": "嗯，说不定之后它们就会放弃追我们了！",
+      "vi": "Chà, có lẽ sau này họ sẽ từ bỏ việc đuổi theo chúng ta!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna001",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna001|",
+      "ja": "無謀ですわ……！",
+      "zh": "真是乱来……！",
+      "vi": "Thật là một mớ hỗn độn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative001",
+      "speaker_tag": "",
+      "ja": "ハンナの言う通りだった。",
+      "zh": "汉娜说得没错。",
+      "vi": "Hanna đã đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative002",
+      "speaker_tag": "",
+      "ja": "逃げた先にも、看守が待ち構えていたのだ。",
+      "zh": "在逃跑方向上，看守正拦在路中间等着她们。",
+      "vi": "Ở hướng trốn thoát, Cai Ngục đã đợi sẵn giữa đường.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna002",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna002|",
+      "ja": "どうするんですのっ！？",
+      "zh": "现在怎么办！？",
+      "vi": "Phải làm gì bây giờ! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema002",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema002|",
+      "ja": "止まらないで！ あっち！",
+      "zh": "不要停！往那边！",
+      "vi": "Đừng dừng lại! Lối đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative003",
+      "speaker_tag": "",
+      "ja": "背後からも看守が迫る中、<br>エマたちは急いで方向転換して脇道に逸れる。",
+      "zh": "看守前后夹击，<br>\n艾玛她们急匆匆偏离方向，跑向岔道的另一头。",
+      "vi": "Cai Ngục tấn công từ cả phía trước và phía sau, Ema và những người khác vội vàng chệch hướng và chạy sang đầu bên kia ngã ba.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative004",
+      "speaker_tag": "",
+      "ja": "そうして３人が森の中を駆けずり回っていると――",
+      "zh": "于是3人不停奔跑在森林之中。忽然间——",
+      "vi": "Thế là cả ba người cứ thế chạy vào rừng. Đột nhiên——",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema003",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema003|",
+      "ja": "わっ……！！",
+      "zh": "哇……！！",
+      "vi": "Ôi...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry002",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry002|",
+      "ja": "えっ……！？",
+      "zh": "欸……！？",
+      "vi": "Hừ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna003",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna003|",
+      "ja": "きゃああああっ！？",
+      "zh": "呀啊啊啊啊！？",
+      "vi": "Yeahhhhhhh! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema004",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema004|",
+      "ja": "いたた……。",
+      "zh": "好痛……",
+      "vi": "Nó đau...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna004",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna004|",
+      "ja": "うぅ……。",
+      "zh": "呜呜……",
+      "vi": "Woohoo...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry003",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry003|",
+      "ja": "……っ",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema005",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema005|",
+      "ja": "どこかに落ちちゃったみたいだけど……<br>２人とも、怪我はない？",
+      "zh": "看来好像掉进洞里了……<br>\n你们两个没受伤吧？",
+      "vi": "Hình như tôi đã rơi vào một cái hố... Hai người có bị thương không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry004",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry004|",
+      "ja": "……私は大丈夫です！",
+      "zh": "……我没事！",
+      "vi": "...Tôi ổn!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna005",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna005|",
+      "ja": "わたくしも、とりあえず平気ですわ。<br>それより、ここは一体なんなんですの？",
+      "zh": "我也姑且没事。<br>\n这个先不提，这里到底是什么地方？",
+      "vi": "Hiện tại Bổn tiểu thư ổn. Đặt chuyện này sang một bên, chính xác nơi này là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema006",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema006|",
+      "ja": "うーん……。",
+      "zh": "唔……",
+      "vi": "Ừm...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry005",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry005|",
+      "ja": "おそらく、枯れ井戸じゃないでしょうか。",
+      "zh": "我猜这里应该是座枯井吧。",
+      "vi": "Tôi đoán đây hẳn là một cái giếng khô.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative005",
+      "speaker_tag": "",
+      "ja": "そう口にして、シェリーは上を向く。<br>エマとハンナも、頭上を振り仰いだ。<br>かなり高い位置に空が見える。",
+      "zh": "说着，雪莉抬头往上看。<br>\n于是艾玛和汉娜也抬头看。<br>\n能看到外面的天空在很高的地方，这里离外界十分地远。",
+      "vi": "Nói vậy, Sherry nhìn lên. Sau đó Ema và Hanna cũng nhìn lên. Bạn có thể nhìn thấy bầu trời bên ngoài ở một nơi rất cao và rất xa thế giới bên ngoài.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema007",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema007|",
+      "ja": "この高さから落ちて、<br>よく無事で済んだよね……。",
+      "zh": "掉到这么深的地方，<br>\n真亏我们还能没事……",
+      "vi": "Rơi xuống quá sâu, Thật tiếc là chúng ta vẫn ổn...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry006",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry006|",
+      "ja": "クッションが効いていたおかげだと思いますよ。<br>柔らかい土と、葉っぱが積もってますから。",
+      "zh": "我想应该是垫子起作用了吧。<br>\n这里的土壤很柔软，也积了很多的叶子。",
+      "vi": "Tôi nghĩ đó là tấm thảm hoạt động. Đất ở đây rất mềm và có nhiều lá.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna006",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna006|",
+      "ja": "なるほど……って、納得してる場合じゃないですわ！<br>どうやってここから出るんですの！？",
+      "zh": "原来如此……不对，现在不是讨论这个的时候啦！<br>\n我们要怎么出去啊！？",
+      "vi": "Bổn tiểu thư hiểu rồi... Không, bây giờ không phải là lúc để thảo luận chuyện này! Làm sao chúng Bổn tiểu thư có thể thoát ra được! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry007",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry007|",
+      "ja": "壁をのぼるしかないんじゃないでしょうか。",
+      "zh": "那只能爬墙上去了啊。",
+      "vi": "Sau đó chúng ta chỉ có thể leo lên tường.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema008",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema008|",
+      "ja": "やっぱり、そうなるよね。",
+      "zh": "看来也只能这样了。",
+      "vi": "Có vẻ như đây là con đường duy nhất để đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative006",
+      "speaker_tag": "",
+      "ja": "エマは<ruby=\"こけ\">苔</ruby>むした壁に手を触れる。",
+      "zh": "艾玛把手放在爬满青苔的墙上。",
+      "vi": "Ema đặt tay lên bức tường phủ đầy rêu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema009",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema009|",
+      "ja": "でも、のぼりきれるかな……。",
+      "zh": "可是，这真的能爬到顶吗……",
+      "vi": "Nhưng, liệu điều này thực sự có thể leo lên đỉnh...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative007",
+      "speaker_tag": "",
+      "ja": "自信なさげな声をもらす。<br>さっきもエマは塀をのぼろうとして、すぐに力尽きてしまった。",
+      "zh": "艾玛的声音里没什么自信。<br>\n刚刚艾玛也是想着爬上围墙，没过多久就用尽力气了。",
+      "vi": "Không có sự tự tin trong giọng nói của Ema. Vừa rồi Ema đang nghĩ đến việc trèo tường, nhưng không bao lâu sau cô đã cạn kiệt sức lực.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna007",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna007|",
+      "ja": "こうなったら、わたくしの魔法で<br>脱出してみせますわあああっ……！",
+      "zh": "这样的话，就试试靠我的魔法<br>\n逃出这里哇啊啊啊……！",
+      "vi": "Trong trường hợp này, hãy thử dựa vào phép thuật của Bổn tiểu thư Thoát khỏi đây đi ahhhh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative008",
+      "speaker_tag": "",
+      "ja": "ハンナがちょっとだけ浮かぶ。",
+      "zh": "汉娜稍微飘起来了一点点。",
+      "vi": "Hanna nổi lên một chút.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative009",
+      "speaker_tag": "",
+      "ja": "ふらふらと揺れながら上昇しようと試みたようだが、<br>すぐ地面に足がついた。",
+      "zh": "她摇摇晃晃地试着抬升高度，<br>\n但没一会就落地了。",
+      "vi": "Cô ấy loạng choạng và cố gắng tăng độ cao, Nhưng nó đã hạ cánh sau một thời gian.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna008",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna008|",
+      "ja": "くそー！ 高すぎて無理ですわ！！",
+      "zh": "该死的！太高了，我做不到！！",
+      "vi": "Chết tiệt! Cao quá, Bổn tiểu thư không làm được! !",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry008",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry008|",
+      "ja": "ふむ……。<br>私がお２人を上に投げるというのはどうでしょう？",
+      "zh": "唔……<br>\n我来把你们两个往上抛，怎么样？",
+      "vi": "Ừm... Thế còn tôi ném hai người lên thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative010",
+      "speaker_tag": "",
+      "ja": "シェリーの提案に、エマとハンナは目を丸くする。",
+      "zh": "面对雪莉的提议，艾玛和汉娜都瞪圆了眼睛。",
+      "vi": "Đối mặt với lời cầu hôn của Sherry, Ema và Hanna đều mở to mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema010",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema010|",
+      "ja": "投げるって……。",
+      "zh": "往上抛……",
+      "vi": "Ném nó lên...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna009",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna009|",
+      "ja": "発想がゴリラ過ぎですわ……。",
+      "zh": "你的想法也有够像猩猩的……",
+      "vi": "Suy nghĩ của bạn khá giống khỉ...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry009",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry009|",
+      "ja": "とはいえ、外まで投げるというのは<br>さすがに無理だと思いますけどね。",
+      "zh": "只不过，我想我是实在做不到<br>\n把你们直接抛出外面。",
+      "vi": "Nhưng tôi nghĩ tôi thực sự không thể làm được Vứt bạn ra ngay.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry010",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry010|",
+      "ja": "私が壁の途中まで投げて、<br>そこからは自力でのぼってもらう……という感じで。",
+      "zh": "所以我在想，把你们抛到爬墙的半路上，<br>\n剩下的距离靠你们自己来爬……怎么样。",
+      "vi": "Vì vậy tôi đang nghĩ, hãy ném bạn lên lưng chừng bức tường, Còn việc tự mình leo đoạn đường còn lại thì sao...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative011",
+      "speaker_tag": "",
+      "ja": "エマとハンナは顔を見合わせる。<br>確かにシェリーの怪力なら、可能かもしれない。",
+      "zh": "艾玛和汉娜对视了一下。<br>\n靠雪莉的怪力，或许真的可行。",
+      "vi": "Ema và Hanna nhìn nhau. Với sức mạnh kỳ lạ của Sherry, điều đó có thể thực hiện được.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema011",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema011|",
+      "ja": "でも、その後は？ シェリーちゃんはどうするの？",
+      "zh": "可是，之后呢？雪莉你怎么办？",
+      "vi": "Nhưng điều gì xảy ra tiếp theo? Sherry, bạn nên làm gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry011",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry011|",
+      "ja": "そこはご安心を！<br>このくらいの高さなら、自力でのぼれそうですから。",
+      "zh": "之后不用担心！<br>\n就这么点高度，我能自己爬。",
+      "vi": "Không có lo lắng sau đó! Tôi có thể tự mình leo lên ở độ cao nhỏ này.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna010",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna010|",
+      "ja": "ちょっとお待ちなさい。<br>だったらあなたが先に出て、<br>助けを呼んでくることもできるんじゃ……。",
+      "zh": "给我等一下。<br>\n那你先出去，<br>\n再来喊人帮忙不是更好……",
+      "vi": "Hãy cho Bổn tiểu thư một chút thời gian. Vậy thì hãy ra ngoài trước, Sẽ tốt hơn nếu nhờ ai đó giúp đỡ...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry012",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry012|",
+      "ja": "……あちゃー、そこ気付いちゃいました？",
+      "zh": "……哎呀，被发现了？",
+      "vi": "...Ồ, nó bị phát hiện rồi à?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative012",
+      "speaker_tag": "",
+      "ja": "笑みを浮かべながら、シェリーはハンナに手を伸ばして――",
+      "zh": "雪莉边笑着，然后向汉娜伸出手——",
+      "vi": "Sherry mỉm cười, rồi đưa tay ra cho Hanna——",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative013",
+      "speaker_tag": "",
+      "ja": "上方に投げ飛ばした。",
+      "zh": "然后抓住她往上抛去。",
+      "vi": "Sau đó tóm lấy cô ấy và ném cô ấy lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna011",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna011|",
+      "ja": "イヤアアアッ！？",
+      "zh": "不要啊啊啊！？",
+      "vi": "Không! KHÔNG! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema012",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema012|",
+      "ja": "ちょ、ちょっとシェリーちゃん！？",
+      "zh": "雪、雪莉你在做什么！？",
+      "vi": "Snow, Sherry, em đang làm gì vậy! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna012",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna012|",
+      "ja": "いきなり何するんですの！？ このゴリラ女～！",
+      "zh": "突然间搞什么啦！？你这个猩猩女～！",
+      "vi": "Chuyện gì đột nhiên xảy ra vậy! ? Cô gái khỉ đột à~!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative014",
+      "speaker_tag": "",
+      "ja": "壁面の中間あたりに<ruby=\"つか\">掴</ruby>まったハンナが、<br>シェリーに向かって叫ぶ。",
+      "zh": "抓住壁面中段的汉娜<br>\n朝雪莉喊道。",
+      "vi": "Ôm Hanna vào giữa bức tường hét lên với Sherry.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry013",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry013|",
+      "ja": "あはは～。はい、次はエマさんの番ですよ。<br>しっかり壁に掴まってくださいね。",
+      "zh": "啊哈哈～好啦，下一个轮到艾玛了。<br>\n要抓紧墙壁哦。",
+      "vi": "Ahaha ~ Được rồi, tiếp theo đến lượt Ema. Giữ chặt vào bức tường.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema013",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema013|",
+      "ja": "え、待って、まだ心の準備が……。",
+      "zh": "欸，等一下，我还没做好心理准备……",
+      "vi": "Này, đợi một chút, tôi chưa chuẩn bị tinh thần...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema014",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema014|",
+      "ja": "わああああっ！？",
+      "zh": "哇啊啊啊啊！？",
+      "vi": "Ôi ôi à ôi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative015",
+      "speaker_tag": "",
+      "ja": "シェリーに放り投げられたエマが、<br>なんとか壁に<ruby=\"つか\">掴</ruby>みかかる。",
+      "zh": "被雪莉抛出的艾玛<br>\n尽力抓住了墙面。",
+      "vi": "Ema bị Sherry ném Cố gắng hết sức để bám vào bức tường.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema015",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema015|",
+      "ja": "はぁ、はぁ……怖かった……。",
+      "zh": "哈啊，哈啊……吓死人了……",
+      "vi": "Ha ha ha... đáng sợ quá...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry014",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry014|",
+      "ja": "さあ、のぼっちゃってください！",
+      "zh": "好啦，爬上去吧！",
+      "vi": "Được rồi, leo lên!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema016",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema016|",
+      "ja": "う、うん……シェリーちゃんも早く！",
+      "zh": "嗯、嗯……雪莉你也快点上来！",
+      "vi": "Ừm, ừm... Sherry, lên nhanh lên!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative016",
+      "speaker_tag": "",
+      "ja": "エマの言葉に、シェリーは首を横に振った。",
+      "zh": "听到艾玛的话，雪莉摇了摇头。",
+      "vi": "Nghe Ema nói, Sherry lắc đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry015",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry015|",
+      "ja": "私のことは、お構いなく。<br>やっぱり、のぼれそうにないんで。",
+      "zh": "不用管我了，<br>\n我确实没办法爬上去了。",
+      "vi": "Đừng lo lắng cho tôi, Tôi thực sự không thể leo lên được.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna013",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna013|",
+      "ja": "はぁっ！？ 何を言ってるんです！？<br>あなたさっき、自力でのぼれると言ったじゃありませんか！",
+      "zh": "哈！？你说什么啊！？<br>\n你刚才不是说自己能爬上来吗！",
+      "vi": "Hà! ? Bạn đã nói gì vậy! ? Không phải bạn vừa nói bạn có thể leo lên sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry016",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry016|",
+      "ja": "あははー。すみません、あれは嘘です。<br>実は……こんな状態でして。",
+      "zh": "啊哈哈～对不起，我骗你们的。<br>\n其实……我已经不行了。",
+      "vi": "Ahaha ~ Xin lỗi, tôi đã nói dối bạn. Thực ra... tôi không thể làm được nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative017",
+      "speaker_tag": "",
+      "ja": "シェリーが自らの脇腹を見せる。<br>そこには、太い木の枝が深々と突き刺さっていた。",
+      "zh": "雪莉翻身露出了自己的侧腹。<br>\n有根粗大的树枝深深地刺进了里面。",
+      "vi": "Sherry lăn người và để lộ sườn. Một cành cây dày đâm sâu vào đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative018",
+      "speaker_tag": "",
+      "ja": "息を<ruby=\"の\">呑</ruby>むエマとハンナに、シェリーは微笑む。",
+      "zh": "艾玛和汉娜倒抽一口凉气。雪莉朝她们笑了笑。",
+      "vi": "Ema và Hanna thở hổn hển. Sherry mỉm cười với họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry017",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry017|",
+      "ja": "落ちたときに刺さっちゃったみたいで。<br>内臓まで届いちゃってる感じなんですよね。<br>なので、私のことは置いていってください！",
+      "zh": "好像是掉下来的时候被刺中了，<br>\n能感觉到它已经捅到内脏了。<br>\n所以呢，你们不用管我啦！",
+      "vi": "Có vẻ như anh ấy đã bị đâm khi ngã, Bạn có thể cảm thấy nó đâm vào ruột bạn. Vì vậy, bạn không cần phải lo lắng cho tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna014",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna014|",
+      "ja": "ふ……ふざけるんじゃねえですわよ！<br>そんなこと、できるわけないでしょう！",
+      "zh": "开……开什么玩笑啊！<br>\n我们怎么可能会丢下你不管！",
+      "vi": "Thật là một trò đùa! Làm sao chúng Bổn tiểu thư có thể để bạn một Bổn tiểu thư!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema017",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema017|",
+      "ja": "そうだよ！ せめてボクかハンナちゃん、<br>どっちか１人が助けを呼びに行くとか……！",
+      "zh": "对啊！至少我们其中的一个<br>\n去找帮手来就好……！",
+      "vi": "Vâng! Ít nhất một người trong chúng tôi Chỉ cần tìm một số trợ giúp ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Sherry018",
+      "speaker_tag": "; > Sherry: |#0101Bad05_Sherry018|",
+      "ja": "いえ、いいんです。<br>なんか、もう間に合わなそうな感じなんで……<br>お２人で、行ってください……。",
+      "zh": "不，没关系的。<br>\n总感觉，到时候已经来不及了……<br>\n你们两个快去吧……",
+      "vi": "Không, không sao đâu. Tôi luôn cảm thấy rằng đến lúc đó thì đã quá muộn... Hai người đi nhanh đi...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative019",
+      "speaker_tag": "",
+      "ja": "シェリーはふらふらと壁に寄りかかる。",
+      "zh": "雪莉摇摇晃晃地倚靠在墙壁上。",
+      "vi": "Sherry lảo đảo dựa vào tường.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna015",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna015|",
+      "ja": "……勝手に諦めるんじゃねえですわよ！<br>殺しても死ななそうな顔してるくせに！",
+      "zh": "……不许你擅自放弃！<br>\n明明你平时就摆出一副打不死的样子！",
+      "vi": "...Bạn không được phép bỏ cuộc khi chưa được phép! Rõ ràng là bạn luôn hành động như thể bạn không thể bị đánh bại!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative020",
+      "speaker_tag": "",
+      "ja": "声を荒げたハンナは、腕を伸ばして壁をのぼり始める。",
+      "zh": "汉娜的声音变得急促，开始伸手爬墙。",
+      "vi": "Giọng Hanna trở nên khẩn cấp và cô bắt đầu với tay lên tường.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema018",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema018|",
+      "ja": "ハンナちゃん……！",
+      "zh": "汉娜……！",
+      "vi": "Hanna……！",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna016",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna016|",
+      "ja": "急いでここを出ますわよ！<br>すぐに助けを呼んで戻ってきて……。",
+      "zh": "快爬出这里吧！<br>\n要尽快找人过来帮忙……",
+      "vi": "Leo ra khỏi đây! Chúng Bổn tiểu thư cần tìm ai đó để giúp đỡ càng sớm càng tốt...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna017",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna017|",
+      "ja": "ヒーロー気取りのあいつを笑い飛ばしてやりますわ！<br>格好つけたくせに、助かってるじゃないって！",
+      "zh": "之后我要狠狠笑话这个自以为是英雄的家伙！<br>\n在那里耍帅，结果还是要人救！",
+      "vi": "Thế thì Bổn tiểu thư sẽ cười nhạo cái gã tự coi Bổn tiểu thư là anh hùng này! Ở đó bạn tỏ ra rất ngầu, nhưng cuối cùng bạn vẫn cần có ngươi đến cứu Bổn tiểu thư!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema019",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema019|",
+      "ja": "そうだね……絶対にシェリーちゃんを助けよう！",
+      "zh": "嗯……一定要救雪莉她出来！",
+      "vi": "Chà...chúng ta phải giải cứu Sherry!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative021",
+      "speaker_tag": "",
+      "ja": "エマとハンナは枯れ井戸から抜け出し、牢屋敷に戻った。",
+      "zh": "艾玛和汉娜爬出了枯井，回到了监牢。",
+      "vi": "Ema và Hanna trèo ra khỏi giếng khô và quay trở lại Ngục Dinh Thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative022",
+      "speaker_tag": "",
+      "ja": "しかし自由時間が終了しており、<br>２人は規則を破ったとして懲罰房に入れられてしまい――",
+      "zh": "可是放风时间已经结束了，<br>\n二人被视为违反了规定，送进了惩罚室——",
+      "vi": "Nhưng thời gian ngoài trời đã kết thúc, Cả hai bị coi là đã vi phạm nội quy và bị đưa đến Phòng Kỷ Luật Biệt Giam——",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative023",
+      "speaker_tag": "",
+      "ja": "２日後。<br>懲罰房を出たエマとハンナに、レイアは沈痛な面持ちで告げる。",
+      "zh": "两天后，<br>\n蕾雅一脸沉痛地向放出惩罚室的艾玛和汉娜告知。",
+      "vi": "Hai ngày sau, Leia nói với Ema và Hanna, những người được thả ra khỏi Phòng Kỷ Luật Biệt Giam với vẻ mặt buồn bã.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Leia001",
+      "speaker_tag": "; > Leia: |#0101Bad05_Leia001|",
+      "ja": "すまない、我々が見つけたときにはもう……。",
+      "zh": "对不起，我们找到她的时候，她已经……",
+      "vi": "Xin lỗi, khi chúng tôi tìm thấy cô ấy, cô ấy đã...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema020",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema020|",
+      "ja": "う、嘘だよね……。",
+      "zh": "不、不是真的吧……",
+      "vi": "Không, điều đó không đúng...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Leia002",
+      "speaker_tag": "; > Leia: |#0101Bad05_Leia002|",
+      "ja": "残念ながら、事実だ……。",
+      "zh": "很遗憾，是真的……",
+      "vi": "Thật đáng tiếc, đó là sự thật...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative024",
+      "speaker_tag": "",
+      "ja": "懲罰房に連れて行かれる直前、<br>エマとハンナは他の少女たちにシェリーのことを伝えていた。",
+      "zh": "被带去惩罚室之前，<br>\n艾玛和汉娜向其他少女们讲述了雪莉的遭遇。",
+      "vi": "Trước khi bị đưa vào Phòng Kỷ Luật Biệt Giam, Ema và Hanna kể cho những cô gái khác nghe chuyện gì đã xảy ra với Sherry.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema021",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema021|",
+      "ja": "（でも、間に合わなかったんだ……<br>　シェリーちゃんは、あのまま……）",
+      "zh": "（可是，最后还是没来得及……<br>\n雪莉她就那样……）",
+      "vi": "(Nhưng cuối cùng thì vẫn quá muộn... Sherry là như vậy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative025",
+      "speaker_tag": "",
+      "ja": "枯れ井戸の底で、息絶えた。",
+      "zh": "在枯井的底部，咽了气。",
+      "vi": "Đến đáy giếng cạn, tôi trút hơi thở cuối cùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna018",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna018|",
+      "ja": "そん、な……いや……いや……。",
+      "zh": "怎么、会……不……不……",
+      "vi": "Làm sao, có thể nào... không... không...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative026",
+      "speaker_tag": "",
+      "ja": "青ざめた顔で、ハンナが爪を<ruby=\"か\">噛</ruby>む。<br>いや、ぶちぶちと<ruby=\"か\">噛</ruby>みちぎるような勢いだ。",
+      "zh": "汉娜脸色煞白，咬住了手指甲。<br>\n力度之猛，几乎要把指甲咬断。",
+      "vi": "Hanna tái mặt và cắn móng tay. Lực mạnh đến mức anh gần như cắn đứt móng tay.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna019",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna019|",
+      "ja": "置き去りに、したから……<br>わたくしに、もっと力があれば……！",
+      "zh": "因为我们，把她丢下了……<br>\n如果我有更强大的力量……！",
+      "vi": "Vì chúng Bổn tiểu thư mà chúng Bổn tiểu thư đã bỏ rơi ngươi ấy... Nếu Bổn tiểu thư có thêm sức mạnh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema022",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema022|",
+      "ja": "ハンナちゃん！？ 落ち着いて……！",
+      "zh": "汉娜！？你冷静点……！",
+      "vi": "Hanna! ? Bình tĩnh nào...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna020",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna020|",
+      "ja": "だってそうでしょう！？<br>わたくしがもっと自由に空を飛べたら！<br>シェリーさんを助けられたかもしれないのに！！",
+      "zh": "我说得不对吗！？<br>\n要是我能更自由地飞在空中！<br>\n说不定我就能救到雪莉了！！",
+      "vi": "Bổn tiểu thư có đúng không? ? Giá như Bổn tiểu thư có thể bay tự do hơn trên không trung! Có lẽ Bổn tiểu thư có thể cứu được Sherry! !",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna021",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna021|",
+      "ja": "あのときだってそう！！<br>わたくしがもっとしっかりしていれば、<br>置き去りにされたあの子だって死なせずにすんだ！！",
+      "zh": "以前也是！！<br>\n如果我能更中用，<br>\n被丢下的那孩子也就不会死了！！",
+      "vi": "Trước đây cũng vậy! ! Nếu Bổn tiểu thư có thể hữu ích hơn, Đứa trẻ bị bỏ lại sẽ không chết! !",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema023",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema023|",
+      "ja": "（あのときって、ハンナちゃん一体……？）",
+      "zh": "（以前是怎么回事……汉娜她究竟怎么了……？）",
+      "vi": "(Chuyện gì đã xảy ra trước đây...Chuyện gì đã xảy ra với Hanna...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative027",
+      "speaker_tag": "",
+      "ja": "爪を<ruby=\"か\">噛</ruby>みちぎりながら、ハンナはうわごとのように繰り返す。",
+      "zh": "汉娜边狠狠咬着手指甲，一边开始说着胡话。",
+      "vi": "Hanna cắn mạnh móng tay và bắt đầu nói những điều vô nghĩa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna022",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna022|",
+      "ja": "もっともっと、ちゃんとできれば……<br>わたくしが、わたくしのせいで……<br>力が……そう、力があれば……。",
+      "zh": "如果我能更加中用……<br>\n都怪我，都怪我……<br>\n只要有力量……对，只要有力量……",
+      "vi": "Nếu Bổn tiểu thư có thể hữu ích hơn... Tất cả là lỗi của Bổn tiểu thư, tất cả là lỗi của Bổn tiểu thư... Miễn là có quyền lực... vâng, miễn là có quyền lực...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Leia003",
+      "speaker_tag": "; > Leia: |#0101Bad05_Leia003|",
+      "ja": "ハンナくん、あまり自分を責めるのは……。",
+      "zh": "汉娜，你不要太过自责了……",
+      "vi": "Hanna, đừng tự trách mình quá nhiều...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative028",
+      "speaker_tag": "",
+      "ja": "声をかけながら、レイアがハンナの肩にそっと手を置く。",
+      "zh": "蕾雅对她说道，把手放在她的肩上。",
+      "vi": "Leia nói với cô ấy, đặt tay lên vai cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative029",
+      "speaker_tag": "",
+      "ja": "レイアの頭部が不自然な方向に折れ曲がり、<br>そのまま倒れ伏した。",
+      "zh": "这时蕾雅的头部向不自然的方向弯折，<br>\n当场倒在地上。",
+      "vi": "Lúc này, đầu của Leya cúi xuống một hướng không tự nhiên, Anh ta ngã xuống đất ngay tại chỗ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema024",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema024|",
+      "ja": "え……なんで……何が……。",
+      "zh": "欸……怎么会……发生什么……",
+      "vi": "Ơ...sao có thể...chuyện gì đã xảy ra...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna023",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna023|",
+      "ja": "うるせえですわ。<br>今は安っぽい慰めなんて聞きたくない。",
+      "zh": "你好烦。<br>\n我现在不想听这些廉价的安慰。",
+      "vi": "Bạn thật khó chịu. Bổn tiểu thư không muốn nghe những lời an ủi rẻ tiền này ngay bây giờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna024",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna024|",
+      "ja": "まったく、ぶっ殺しますわよ。<br>……って、あら？ もう<ruby=\"や\">殺</ruby>っちゃってますわね。",
+      "zh": "真是的，小心我把你杀了。<br>\n……哎呀，好像已经杀了。",
+      "vi": "Thực sự, hãy cẩn thận Bổn tiểu thư sẽ giết bạn. ...Ồ, có vẻ như nó đã bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna025",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna025|",
+      "ja": "あははははははっ！",
+      "zh": "啊哈哈哈哈哈哈！",
+      "vi": "A ha ha ha ha ha!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative030",
+      "speaker_tag": "",
+      "ja": "レイアの死体を見下ろして、ハンナが<ruby=\"こうしょう\">哄笑</ruby>を上げる。",
+      "zh": "汉娜俯视着蕾雅的尸体，哈哈大笑起来。",
+      "vi": "Hanna nhìn xuống cơ thể của Leia và cười lớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema025",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema025|",
+      "ja": "ハンナ、ちゃん……どうして。",
+      "zh": "汉娜……你为什么……",
+      "vi": "Hanna...tại sao em lại...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative031",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ぼうぜん\">呆然</ruby>とするエマに、ハンナが目を向ける。<br>その<ruby=\"そうぼう\">双眸</ruby>には、殺意が<ruby=\"にじ\">滲</ruby>んでいた。",
+      "zh": "汉娜转头望向呆住的艾玛。<br>\n此时她的双眼散发着杀意。",
+      "vi": "Hanna quay lại nhìn Ema đang sững sờ. Lúc này, trong mắt cô toát ra sát ý.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna026",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna026|",
+      "ja": "エマさん……なんででしょうね？<br>なんだか、わたくし……<br>殺したくて殺したくて、しかたがないんです。",
+      "zh": "艾玛……为什么呢？<br>\n总感觉我……<br>\n突然好想杀人，想得不得了。",
+      "vi": "Ema...tại sao? Bổn tiểu thư luôn cảm thấy như... Bổn tiểu thư đột nhiên muốn giết ai đó đến nỗi Bổn tiểu thư không thể không nghĩ về điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema026",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema026|",
+      "ja": "（これって、まさか……）",
+      "zh": "（这难道是……）",
+      "vi": "(Đây có phải là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative032",
+      "speaker_tag": "",
+      "ja": "『囚人は強いストレスを受けると<br>　魔女因子が高まり、魔女化が進む』",
+      "zh": "『囚犯受到强烈精神压力后，<br>\n魔女因子会得到增强，魔女化程度便会加深』",
+      "vi": "\"Sau khi tù nhân phải chịu áp lực tinh thần mạnh mẽ, Yếu tố Ma Nữ sẽ được tăng cường và mức độ biến đổi phù thủy sẽ ngày càng sâu sắc.』",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative033",
+      "speaker_tag": "",
+      "ja": "『魔女になった者は堪えきれない殺人衝動で、<br>　殺人を犯すおそれがある』",
+      "zh": "『成为魔女之人，有可能会因为难以忍受的<br>\n杀人冲动，犯下杀人的罪行』",
+      "vi": "\"Những người trở thành phù thủy có thể phải chịu đựng những điều không thể chịu nổi Xung động giết người, phạm tội giết người』",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative034",
+      "speaker_tag": "",
+      "ja": "エマは、にじり寄ってくるハンナから距離を取ろうとした。<br>だが恐怖で足がもつれて、尻もちをついてしまう。",
+      "zh": "艾玛试图和步步紧逼的汉娜拉开距离。<br>\n但是因为过于害怕，不小心左脚踢到右脚，一屁股跌坐在了地上。",
+      "vi": "Ema cố gắng tránh xa Hanna, người đang tiến lại gần hơn. Nhưng vì quá sợ hãi, anh đã vô tình dùng chân trái đá vào chân phải và ngã xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna027",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna027|",
+      "ja": "ねえ、エマさん。空を飛んでみたくはありません？",
+      "zh": "我说，艾玛，你想不想试试飞上天空呀？",
+      "vi": "Bổn tiểu thư nói, Ema, ​​​​bạn có muốn thử bay lên trời không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative035",
+      "speaker_tag": "",
+      "ja": "ハンナはエマの頭を<ruby=\"わしづか\">鷲掴</ruby>み、牢屋敷の外に連れ出す。<br>そして、魔法で空高く飛んだ。",
+      "zh": "汉娜一把抓住艾玛的头，把她带出了监牢外。<br>\n然后，用魔法一跃腾空。",
+      "vi": "Hanna nắm lấy đầu Ema và dẫn cô ra khỏi Ngục Dinh Thự. Sau đó, sử dụng phép thuật để nhảy lên không trung.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna028",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna028|",
+      "ja": "あははは！ いい眺めですわ。<br>この高さから落としたら、人間ってどうなるんでしょう。<br>潰れたトマトみてえになるのかしら？",
+      "zh": "啊哈哈哈！风景真好啊。<br>\n要是人从这个高度掉下来，会变成什么样呢。<br>\n会跟打扁的番茄一样吗？",
+      "vi": "A ha ha ha! Phong cảnh đẹp quá. Điều gì sẽ xảy ra nếu một ngươi rơi từ độ cao này? Nó sẽ giống như một quả cà chua bị ép?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema027",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema027|",
+      "ja": "やめて！ ハンナちゃん、お願いだよ！<br>離さないで！ やだやだやだ！！",
+      "zh": "住手！汉娜，求你！<br>\n不要放手！不要不要不要！！",
+      "vi": "Dừng lại! Hanna, làm ơn! Đừng buông tay! Đừng đừng đừng! !",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna029",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna029|",
+      "ja": "うーん……どうしようかしら。",
+      "zh": "嗯……该怎么办呢。",
+      "vi": "Ừm...phải làm gì đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Ema028",
+      "speaker_tag": "; > Ema: |#0101Bad05_Ema028|",
+      "ja": "助けて！ お願いだから許してください！！",
+      "zh": "饶命！求你了放过我！！",
+      "vi": "Hãy tha mạng! Làm ơn để tôi đi! !",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Hanna030",
+      "speaker_tag": "; > Hanna: |#0101Bad05_Hanna030|",
+      "ja": "……なんだか必死で惨めだから、嫌ですわ。",
+      "zh": "……因为你看起来很拼命又可怜，所以我不想答应你。",
+      "vi": "...Bởi vì trông em tuyệt vọng và đáng thương nên anh không muốn đồng ý.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Bad05_Narrative036",
+      "speaker_tag": "",
+      "ja": "エマの懇願するような声が、悲鳴に変わる。<br>けどそれもすぐに<ruby=\"か\">掻</ruby>き消えて――",
+      "zh": "艾玛的恳求声最终变成了惨叫声。<br>\n但这道声音也很快消失了——",
+      "vi": "Lời cầu xin của Ema cuối cùng đã biến thành tiếng hét. Nhưng giọng nói nhanh chóng biến mất——",
+      "objection_links": []
+    }
+  ]
+}

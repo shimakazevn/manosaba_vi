@@ -1,0 +1,606 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial28",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial28' Naninovel scenario script",
+  "total_entries": 74,
+  "entries": [
+    {
+      "id": "0205Trial28_Ema001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial28_Ema001|",
+      "ja": "ボクは……<br>ヒロちゃんが留学するまで、<br>ずっと一緒だった……！",
+      "zh": "我……<br>\n在希罗出国留学之前，<br>\n一直都和你在一起……！",
+      "vi": "Tôi... Trước khi Hiro đi du học, Luôn bên bạn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial28_Hiro001|",
+      "ja": "……正確には。",
+      "zh": "……准确地说。",
+      "vi": "...chính xác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial28_Hiro002|",
+      "ja": "私と君は<br>しばらく疎遠になっていた。",
+      "zh": "我和你<br>\n曾一度疏远了。",
+      "vi": "Tôi và bạn Đã xa cách một thời gian.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial28_Hiro003|",
+      "ja": "私が……<br>【３人目】なんだ。",
+      "zh": "因为我……<br>\n是【第三个人】。",
+      "vi": "Bởi vì tôi... Đó là [người thứ ba].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial28_Ema002|",
+      "ja": "……そんな。<br>じゃあ、ボクは……！",
+      "zh": "……怎么会。<br>\n那，我……！",
+      "vi": "...Sao có thể như vậy được? Sau đó, tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial28_Hiro004|",
+      "ja": "……帰国した私を<br>待っていたのは、<br>いじめを苦にして<br>首を吊った彼女の姿だった。",
+      "zh": "……等待着<br>\n回国的我的，<br>\n是因不堪忍受霸凌<br>\n而上吊的她的身影。",
+      "vi": "…Đang chờ Tôi trở lại Trung Quốc, Đó là vì tôi không thể chịu đựng được việc bị bắt nạt Và hình dáng cô ấy bị treo cổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial28_Ema003|",
+      "ja": "……いじめ……自殺……。",
+      "zh": "……霸凌……自杀……",
+      "vi": "…bắt nạt…tự sát…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial28_Hiro005|",
+      "ja": "エマ……。",
+      "zh": "艾玛……",
+      "vi": "Ema……",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial28_Hiro006|",
+      "ja": "思い出すんだ、<br>彼女の姿を。",
+      "zh": "快想起来<br>\n她是谁吧。",
+      "vi": "Hãy suy nghĩ nhanh về điều đó Cô ấy là ai?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial28_Ema004|",
+      "ja": "……でも、<br><link=\"Objection_02_05_28_01\">いじめられてた</link>のは……<br>ボクだ……。",
+      "zh": "……但是，<br>\n<link=\"Objection_02_05_28_01\">被霸凌</link>的人……<br>\n是我啊……",
+      "vi": "…Nhưng, <link=\"Objection_02_05_28_01\">Những người bị bắt nạt</link>... Là tôi...",
+      "objection_links": [
+        "Objection_02_05_28_01"
+      ]
+    },
+    {
+      "id": "0205Trial28_Ema005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial28_Ema005|",
+      "ja": "<link=\"Objection_02_05_28_02\">どうして</link>……<br>自殺を……？",
+      "zh": "<link=\"Objection_02_05_28_02\">为什么</link>……<br>\n会自杀……？",
+      "vi": "<link=\"Objection_02_05_28_02\">Tại sao </link>____ Sẽ tự sát...?",
+      "objection_links": [
+        "Objection_02_05_28_02"
+      ]
+    },
+    {
+      "id": "0205Trial28_Ema006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial28_Ema006|",
+      "ja": "ヒロちゃんが<br>何を言ってるのか……<br><link=\"Objection_02_05_28_03\">わからない</link>よ……！",
+      "zh": "希罗你<br>\n在说什么……<br>\n我完全<link=\"Objection_02_05_28_03\">听不懂</link>……！",
+      "vi": "Anh hùng bạn Bạn đang nói về cái gì vậy... Tôi không hiểu <link=\"Objection_02_05_28_03\"> chút nào </link>...!",
+      "objection_links": [
+        "Objection_02_05_28_03"
+      ]
+    },
+    {
+      "id": "0205Trial28_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro007|",
+      "ja": "（私はもう……）",
+      "zh": "（我已经……）",
+      "vi": "(Tôi có...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro008|",
+      "ja": "（……迷わない！）",
+      "zh": "（……不会再迷茫！）",
+      "vi": "(…Mình sẽ không bối rối nữa!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial28_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "偽りの記憶だ",
+      "zh": "那是虚假的记忆",
+      "vi": "Đó là một ký ức sai lầm",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial28_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "目を背けるな",
+      "zh": "不要逃避现实",
+      "vi": "đừng trốn tránh hiện thực",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial28_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "落ち着くんだ",
+      "zh": "你冷静点",
+      "vi": "Bình tĩnh lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro009|",
+      "ja": "エマ……事実から目を背けるな。",
+      "zh": "艾玛……不要逃避事实。",
+      "vi": "Ema...đừng chạy trốn sự thật.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro010|",
+      "ja": "君は目撃したんだ。",
+      "zh": "你也看到了。",
+      "vi": "Bạn cũng đã thấy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema007",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema007|",
+      "ja": "そんなの……知らない……ボクは……！",
+      "zh": "我才……不知道……我……！",
+      "vi": "Tôi chỉ...không biết...tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro011|",
+      "ja": "（……直接、突きつけるしかないか）",
+      "zh": "（……看来我只能直接揭穿了）",
+      "vi": "(...Có vẻ như mình chỉ có thể phơi bày nó một cách trực tiếp)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro012|",
+      "ja": "（彼女の記憶を……！）",
+      "zh": "（揭穿她的记忆……！）",
+      "vi": "(Tiết lộ trí nhớ của cô ấy...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro013|",
+      "ja": "落ち着くんだエマ。<br>私が言っていることは、難しいことじゃない。",
+      "zh": "冷静下来，艾玛。<br>\n我说的，并不是什么难懂的事情。",
+      "vi": "Bình tĩnh lại, Ema. Những gì tôi nói không phải là điều khó hiểu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema008",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema008|",
+      "ja": "だって……そんなこと……ありえないよ。",
+      "zh": "但是……这……不可能啊。",
+      "vi": "Nhưng...điều này...không thể nào được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema009",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema009|",
+      "ja": "ボクは……１人でずっといじめられてて……。",
+      "zh": "我……一直孤单一人，遭受霸凌……",
+      "vi": "Tôi...đã ở một mình và bị bắt nạt...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro014|",
+      "ja": "（……直接、突きつけるしかないか）",
+      "zh": "（……看来我只能直接揭穿了）",
+      "vi": "(...Có vẻ như mình chỉ có thể phơi bày nó một cách trực tiếp)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro015|",
+      "ja": "（彼女の記憶を……！）",
+      "zh": "（揭穿她的记忆……！）",
+      "vi": "(Tiết lộ trí nhớ của cô ấy...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro016|",
+      "ja": "……エマ。",
+      "zh": "……艾玛。",
+      "vi": "……Ema。",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro017|",
+      "ja": "君の記憶……。",
+      "zh": "你的记忆……",
+      "vi": "trí nhớ của bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro018|",
+      "ja": "それは……偽りの記憶だ！",
+      "zh": "是虚假的！",
+      "vi": "Nó sai!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro019|",
+      "ja": "（……違う。これじゃあない）",
+      "zh": "（……不对，不是这个）",
+      "vi": "(…Không, không phải vậy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro020|",
+      "ja": "（【エマの過去】を……突きつけるんだ！）",
+      "zh": "（我要揭穿【艾玛的过去】……！）",
+      "vi": "(Tôi muốn vạch trần [quá khứ của Ema]...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro021|",
+      "ja": "君が記憶している、過去にいじめられていた姿。",
+      "zh": "你脑海中的，过去遭受霸凌的记忆。",
+      "vi": "Ký ức về sự bắt nạt trong quá khứ vẫn còn trong tâm trí bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro022|",
+      "ja": "それは君が無意識に改変した記憶であって、<br>真実ではない！",
+      "zh": "那是你无意识中篡改的记忆，<br>\n并不是真相！",
+      "vi": "Đó là ký ức mà bạn đã vô tình giả mạo, Không phải sự thật!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro023|",
+      "ja": "思い出せ！ そこにいた、本当の人物の名を！",
+      "zh": "快想起来！在你真实记忆中存在的，那个人的名字！",
+      "vi": "Hãy nghĩ về nó một cách nhanh chóng! Tên người đó tồn tại trong trí nhớ thực sự của bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema010",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema010|",
+      "ja": "あ、ああっ……！",
+      "zh": "啊、啊啊……！",
+      "vi": "A, a a...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema011",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema011|",
+      "ja": "あああ……あああああっ……！",
+      "zh": "啊啊啊……啊啊啊啊啊……！",
+      "vi": "Ahhh...ahhhhhh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema012",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema012|",
+      "ja": "…………ユキ……ちゃん。",
+      "zh": "…………小雪……",
+      "vi": "………Tiểu Tuyết……",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro024|",
+      "ja": "……月代ユキ。",
+      "zh": "……月代雪。",
+      "vi": "……Yuki。",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro025|",
+      "ja": "私たちの同級生。",
+      "zh": "她是我们的同学。",
+      "vi": "Cô ấy là bạn cùng lớp của chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro026|",
+      "ja": "そして……もう１人の親友の名前だ。",
+      "zh": "同时也是……我的另一位挚友。",
+      "vi": "Ngoài ra... một người bạn thân khác của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro027|",
+      "ja": "……エマ。",
+      "zh": "……艾玛。",
+      "vi": "……Ema。",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro028|",
+      "ja": "君はいじめの被害者ではなかった――。",
+      "zh": "你并不是霸凌的受害者——",
+      "vi": "Bạn không phải là nạn nhân của bắt nạt -",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema013",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema013|",
+      "ja": "うっ……！",
+      "zh": "呜……！",
+      "vi": "Ôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Narrative001",
+      "speaker_tag": "",
+      "ja": "日を追うごとにいじめの空気は過熱し、<br>心臓は<ruby=\"なまり\">鉛</ruby>のように重くなっていった。",
+      "zh": "霸凌日益变本加厉，<br>\n我的心脏好似灌铅般愈发沉重。",
+      "vi": "Tình trạng bắt nạt ngày càng trở nên tồi tệ hơn, Tim tôi như bị lấp đầy bởi chì.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Narrative002",
+      "speaker_tag": "",
+      "ja": "やめてよ。<br>やめて、やめて、やめてやめてやめて。",
+      "zh": "住手吧。<br>\n住手。住手。住手住手住手。",
+      "vi": "Dừng lại đi. Dừng lại. dừng lại. Dừng lại, dừng lại, dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Narrative003",
+      "speaker_tag": "",
+      "ja": "もう虐めないで！！",
+      "zh": "不要再欺负人了！！",
+      "vi": "Hãy ngừng bắt nạt mọi người! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Narrative004",
+      "speaker_tag": "",
+      "ja": "どうしてもその一言が発せない。",
+      "zh": "唯有这句话不管怎样都说不出口。",
+      "vi": "Đây là điều duy nhất tôi không thể nói dù thế nào đi nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema014",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema014|",
+      "ja": "――ボクは。",
+      "zh": "——我。",
+      "vi": "---Tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Narrative005",
+      "speaker_tag": "",
+      "ja": "<ruby=\"さげす\">蔑</ruby>まれ、 貶められ、嘲笑される毎日に、<br>終わりは見えなかった。<br>その残酷な行為は、あまりにも徹底的に、長期に及んだ。",
+      "zh": "她被辱骂，被欺侮，被嘲笑，<br>\n每日如此，不见尽头。<br>\n如此残酷的行为，竟长期持续，未曾断绝。",
+      "vi": "Cô ấy bị xúc phạm, bắt nạt và cười nhạo, Chuyện này xảy ra hàng ngày, không có hồi kết. Hành vi tàn ác như vậy đã diễn ra trong một thời gian dài và chưa bao giờ dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Narrative006",
+      "speaker_tag": "",
+      "ja": "誰よりも臆病な自分を責めて、<br>自分を嫌って、<br>消えていなくなってしまいたくなる。",
+      "zh": "我不禁开始责备比任何人都胆小的自己。<br>\n我太过讨厌自己，<br>\n甚至想要就此消失。",
+      "vi": "Tôi không khỏi tự trách mình hèn nhát hơn ai hết. Tôi ghét bản thân mình quá, Thậm chí muốn biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema015",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema015|",
+      "ja": "――見ていた、だけだった。",
+      "zh": "——我只是，单纯在旁观而已。",
+      "vi": "---Tôi chỉ đang xem thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema016",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema016|",
+      "ja": "あの子を助けることも、<br>声をあげることもできずに。",
+      "zh": "既没能帮助她，<br>\n也没能替她发声。",
+      "vi": "Cả hai đều không thể giúp được cô ấy, Anh cũng không thể nói thay cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema017",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema017|",
+      "ja": "ただ見ていただけの――傍観者だった……！",
+      "zh": "我是单纯在一旁看着的——旁观者……！",
+      "vi": "Tôi chỉ đơn giản là quan sát từ bên ngoài - một người ngoài cuộc...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema018",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema018|",
+      "ja": "いじめの被害者じゃなくて……。",
+      "zh": "不是霸凌的受害者……",
+      "vi": "Không phải là nạn nhân của bắt nạt…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema019",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema019|",
+      "ja": "いじめの……傍観者……。",
+      "zh": "而是霸凌的……旁观者……",
+      "vi": "Nhưng việc bắt nạt...những người ngoài cuộc...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema020",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema020|",
+      "ja": "それが……ボクの罪だったんだ……。",
+      "zh": "那就是……我的罪孽……",
+      "vi": "Đó là...tội lỗi của tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema021",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema021|",
+      "ja": "……ボクは……ボクは……！",
+      "zh": "……我……我……！",
+      "vi": "...Tôi...tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro029|",
+      "ja": "……エマ。",
+      "zh": "……艾玛。",
+      "vi": "……Ema。",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro030|",
+      "ja": "話の続きは、まだある。",
+      "zh": "故事还没有结束。",
+      "vi": "Câu chuyện vẫn chưa kết thúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema022",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema022|",
+      "ja": "……え……？",
+      "zh": "……欸……？",
+      "vi": "...Ơ...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro031|",
+      "ja": "彼女は……<br>私たちをずっと監視していた。",
+      "zh": "她……<br>\n一直在监视着我们。",
+      "vi": "Cô ấy... Luôn theo dõi chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro032|",
+      "ja": "君を魔女にするため……<br>ずっとそばにいたんだ。",
+      "zh": "为了让你变成魔女……<br>\n她一直待在你身边。",
+      "vi": "Để biến bạn thành phù thủy... Cô ấy luôn ở đó vì bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Ema023",
+      "speaker_tag": "; > Ema: |#0205Trial28_Ema023|",
+      "ja": "……どういう……こと……？",
+      "zh": "……什么……意思……？",
+      "vi": "...cái...có nghĩa là...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro033|",
+      "ja": "彼女が宿っていた呪物……それは。",
+      "zh": "她所附身的咒物……就是——",
+      "vi": "Lời nguyền mà cô ấy sở hữu...là——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro034|",
+      "ja": "（……これではない）",
+      "zh": "（……不是这个）",
+      "vi": "(...không phải cái này)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro035",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro035|",
+      "ja": "（エマと私のそばにずっとあって、<br>　彼女が宿っていたものがあったはずだ……）",
+      "zh": "（应该有某样物品一直存在于艾玛和我的身边，<br>\n那就是她附身的物品才对……）",
+      "vi": "(Chắc hẳn phải có điều gì đó luôn ở bên Ema và tôi, Đó chắc hẳn là vật mà cô ấy sở hữu...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro036",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro036|",
+      "ja": "（……それは）",
+      "zh": "（……那件物品就是）",
+      "vi": "(…món đồ đó là)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro037",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro037|",
+      "ja": "これが【月代ユキ】……<br>いや、彼女こそがこの事件の元凶である黒幕――！",
+      "zh": "这就是【月代雪】……<br>\n不，正是这起事件的元凶，幕后黑手——！",
+      "vi": "Đây là [Tsukiyo Tuyết]...... Không, chính là thủ phạm của vụ việc này, kẻ chủ mưu đằng sau hậu trường——!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro038",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro038|",
+      "ja": "――【大魔女】が宿った依代だ！",
+      "zh": "——【大魔女】所附身的凭依物！",
+      "vi": "---Vật sở hữu của [Great Witch]!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro039",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro039|",
+      "ja": "……さあ、用意したぞ。",
+      "zh": "……来吧，我都准备好了。",
+      "vi": "...Nào, tôi đã sẵn sàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro040",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro040|",
+      "ja": "１３人の魔女と……儀礼の剣！",
+      "zh": "13位魔女……还有仪式的剑！",
+      "vi": "13 phù thủy...và những thanh kiếm nghi lễ!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial28_Hiro041",
+      "speaker_tag": "; > Hiro: |#0205Trial28_Hiro041|",
+      "ja": "姿を見せてもらうぞ……大魔女っ！！",
+      "zh": "现出真身吧……大魔女！！",
+      "vi": "Tiết lộ hình dạng thật của bạn...phù thủy vĩ đại! !",
+      "objection_links": []
+    }
+  ]
+}

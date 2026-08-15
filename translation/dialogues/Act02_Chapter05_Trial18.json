@@ -1,0 +1,672 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial18",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial18' Naninovel scenario script",
+  "total_entries": 82,
+  "entries": [
+    {
+      "id": "0205Trial18_Miria001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial18_Miria001|",
+      "ja": "ど、どっちの味方とか……<br>そういうことじゃないと<br>思うんだけどな……！",
+      "zh": "我、我觉得……<br>\n不是站哪边的<br>\n问题吧……！",
+      "vi": "Miria, Miria nghĩ... Vấn đề không phải là bạn theo phe nào Câu hỏi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Alisa001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial18_Alisa001|",
+      "ja": "なら、<br>おめえはバケモンの方に<br>つくってのか？",
+      "zh": "那你<br>\n是要站怪物<br>\n那边吗？",
+      "vi": "Vậy thì mày Tao muốn chống lại con quái vật Ở đó?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial18_Miria002|",
+      "ja": "そ、<link=\"Objection_02_05_18_01\">そういう話</link>じゃ<br>なくて……。",
+      "zh": "我、<br>\n我没<link=\"Objection_02_05_18_01\">那个意思</link>……",
+      "vi": "Miria, Ý Miria không phải là <link=\"Objection_02_05_18_01\"></link>...",
+      "objection_links": [
+        "Objection_02_05_18_01"
+      ]
+    },
+    {
+      "id": "0205Trial18_Miria003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial18_Miria003|",
+      "ja": "……おじさんは<br><link=\"Objection_02_05_18_02\">みんなの味方</link>で<br>いたいんだ。",
+      "zh": "……大叔我是<br>\n想做<link=\"Objection_02_05_18_02\">大家的好朋友</link>啦。<br>",
+      "vi": "...Chú ơi, cháu là Miria muốn trở thành <link=\"Objection_02_05_18_02\"> bạn tốt của mọi người</link>.",
+      "objection_links": [
+        "Objection_02_05_18_02"
+      ]
+    },
+    {
+      "id": "0205Trial18_Hiro001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial18_Hiro001|",
+      "ja": "……八方美人とも<br>言える態度だな。",
+      "zh": "……就是说你<br>\n谁都不想得罪咯。",
+      "vi": "...điều đó có nghĩa là bạn Không ai muốn xúc phạm.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial18_Hiro002|",
+      "ja": "私は<br>君の意思を確認したい。",
+      "zh": "我想确认<br>\n你的真实意愿。",
+      "vi": "Tôi muốn xác nhận mong muốn thực sự của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial18_Miria004|",
+      "ja": "えっと……<br>そんなこと<br>言われても……。",
+      "zh": "呃……<br>\n就算你突然<br>\n这么问……",
+      "vi": "Ờ... Ngay cả khi bạn đột nhiên Hỏi cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial18_Miria005|",
+      "ja": "じゃ、じゃあさ！<br>おじさんのことは<br>ひとまず<br>置いておこうよ……！",
+      "zh": "我、我说！<br>\n先把大叔我的问题<br>\n暂时放一边吧……！<br>",
+      "vi": "Miria, Miria đã nói! Trước tiên hãy để Miria kể cho bạn câu hỏi của Miria Bây giờ hãy tạm gác nó sang một bên…!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial18_Miria006|",
+      "ja": "おじさん……<br>みんなで決めたことに<br>従うからさ……。",
+      "zh": "大叔我……<br>\n会尊重<br>\n大家的决定的……",
+      "vi": "Bác ơi, cháu... Sẽ tôn trọng Đó là quyết định của mọi người...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial18_Hiro003|",
+      "ja": "……仮にその結果、<br>自分が犠牲になっても<br>いいのかな？",
+      "zh": "……假设最终的结果<br>\n会牺牲自己<br>\n也无所谓吗？",
+      "vi": "...giả sử kết quả cuối cùng là Sẽ hy sinh bản thân Nó không quan trọng sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial18_Miria007|",
+      "ja": "えっ！？<br>そ、それは……<br>その……。",
+      "zh": "欸！？<br>\n这、这个……<br>\n那个……",
+      "vi": "Hừ! ? Cái này, cái này... Đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial18_Miria008|",
+      "ja": "ま、まあ……そうだね。<br>おじさんもべつに<br>外の世界に<link=\"Objection_02_05_18_03\">未練</link>が<br>あるわけじゃないし……。",
+      "zh": "呃、嗯……是啊。<br>\n大叔我对<br>\n外面的世界<br>\n也没什么<link=\"Objection_02_05_18_03\">留恋</link>……",
+      "vi": "Ờ, ừ...ừ. Bác ơi, cháu yêu Thế giới bên ngoài Không có gì <link=\"Objection_02_05_18_03\">hoài cổ</link>......",
+      "objection_links": [
+        "Objection_02_05_18_03"
+      ]
+    },
+    {
+      "id": "0205Trial18_Miria009",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial18_Miria009|",
+      "ja": "……その結果でここに<br><link=\"Objection_02_05_18_04\">閉じ込められる</link>なら……<br>そういう運命<br>だったのかも……。",
+      "zh": "……如果最终我要<br>\n<link=\"Objection_02_05_18_04\">被关在这里</link>……<br>\n那我就<br>\n认命好了……",
+      "vi": "…Nếu Miria kết thúc với <link=\"Objection_02_05_18_04\"> bị nhốt ở đây</link>…… Sau đó Miria sẽ Chấp nhận số phận của bạn...",
+      "objection_links": [
+        "Objection_02_05_18_04"
+      ]
+    },
+    {
+      "id": "0205Trial18_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro004|",
+      "ja": "（【付和雷同】……<br>　ミリアは周囲との協調性を重んじる）",
+      "zh": "（【随波逐流】……<br>\n米莉亚很注重合群，不愿当异类）",
+      "vi": "([Tuân theo dòng chảy]...... Miria rất coi trọng việc hòa đồng và không muốn trở thành người ngoại lệ)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro005|",
+      "ja": "（彼女の過剰なまでの消極性と寛容さは、<br>　まるで何かに怯えているかのようだ）",
+      "zh": "（她过度的消极和宽容，<br>\n看起来就像在害怕着什么东西）",
+      "vi": "(Sự tiêu cực và bao dung quá mức của cô ấy, Có vẻ như anh ấy đang sợ điều gì đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro006|",
+      "ja": "（彼女を魔女化させるには、<br>　その心の深部に触れなければ……！）",
+      "zh": "（要让她魔女化，<br>\n必须触碰到其内心深处才行……！）",
+      "vi": "(Để biến cô ấy thành phù thủy, Bạn phải chạm vào sâu thẳm trái tim anh ấy...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial18_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "ミリアの真意はヒロ側",
+      "zh": "米莉亚真实的想法是站希罗这边",
+      "vi": "Ý tưởng thực sự của Miria là sát cánh cùng Anh hùng",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial18_Choice002| button:ChoiceButtons/Trial/Question handler:TrialHiro",
+      "ja": "なぜ庇う？",
+      "zh": "为什么要袒护我？",
+      "vi": "Tại sao bạn lại bảo vệ tôi?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial18_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "残してきたものがある",
+      "zh": "你还有要守护的东西",
+      "vi": "Bạn vẫn còn thứ gì đó để bảo vệ",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Choice004",
+      "speaker_tag": "; > @choice |#0205Trial18_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "殺される可能性がある",
+      "zh": "有可能会被杀",
+      "vi": "Có thể bị giết",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro007|",
+      "ja": "その<ruby=\"こころざし\">志</ruby>は……立派だ。",
+      "zh": "你的这份胸怀……很了不起。",
+      "vi": "Trái tim rộng lớn của bạn...thật tuyệt vời.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria010",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria010|",
+      "ja": "えっ……。",
+      "zh": "欸……",
+      "vi": "Hừ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro008|",
+      "ja": "私の知っているミリアも、<br>疑われた者を庇ったりしていた。",
+      "zh": "我所认识的米莉亚，<br>\n总是替被怀疑的人挺身而出。",
+      "vi": "Miria mà tôi biết, Luôn đứng lên bảo vệ những người đang bị nghi ngờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro009|",
+      "ja": "……私も、庇われた中にいたよ。",
+      "zh": "……我也曾是那个被你庇护的人之一。",
+      "vi": "...Tôi đã từng là một trong những người được bạn bảo vệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria011",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria011|",
+      "ja": "そ、そうなんだ……。",
+      "zh": "是、是吗……",
+      "vi": "Vâng, vâng...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro010|",
+      "ja": "けれど、どうして君は<br>そんな聖人のような振る舞いをするのかな。",
+      "zh": "不过，你为何<br>\n要表现得像个圣人一样呢。",
+      "vi": "Nhưng tại sao bạn Bạn phải hành động như một vị thánh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro011|",
+      "ja": "私たちは出会ったばかりで、<br>信じられるかどうかもわからない相手なのに……。",
+      "zh": "明明我们才刚认识，<br>\n对方是否值得信任都不知道……",
+      "vi": "Rõ ràng là chúng ta vừa gặp nhau, Tôi thậm chí còn không biết liệu bên kia có đáng tin cậy hay không...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria012",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria012|",
+      "ja": "それは……。",
+      "zh": "那个……",
+      "vi": "Đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria013",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria013|",
+      "ja": "……ヒロちゃんの経験した世界の中で、<br>おじさんがどんなことを考えていたのかは<br>わからないけど……。",
+      "zh": "……虽然不知道<br>\n在希罗经历的世界里，<br>\n大叔我有过什么想法……",
+      "vi": "…Mặc dù Miria không biết Trong thế giới mà Anh hùng đã trải qua, Bác ơi, cháu đã có suy nghĩ gì...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria014",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria014|",
+      "ja": "きっと……【先生】のことを見習ったんだと思う。",
+      "zh": "但我想……我大概是在效仿【老师】吧。",
+      "vi": "Nhưng Miria nghĩ... có lẽ Miria đang làm theo gương của [giáo viên].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro012|",
+      "ja": "【先生】？",
+      "zh": "【老师】？",
+      "vi": "[Giáo viên]?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria015",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria015|",
+      "ja": "……うん。",
+      "zh": "……嗯。",
+      "vi": "...Hừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria016",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria016|",
+      "ja": "おじさんが……<br>昔、困ってたときがあってお世話になった人なんだ。",
+      "zh": "是大叔我……<br>\n在以前遇到困难时受过关照的人。",
+      "vi": "Cháu đây chú ơi... Một người đã từng được quan tâm trong lúc khó khăn trước đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria017",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria017|",
+      "ja": "おじさんもその先生みたくなりたくて、<br>真似してるだけだよ。",
+      "zh": "大叔我也想变得像那位老师一样，<br>\n单纯是有样学样而已。",
+      "vi": "Bác ơi cháu cũng muốn được như cô giáo đó, Đó chỉ là vấn đề làm theo gương của một người.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro013|",
+      "ja": "（……ミリアの【先生】か）",
+      "zh": "（……米莉亚的【老师】吗）",
+      "vi": "(…[giáo viên] của Miria)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro014|",
+      "ja": "（覚えておこう）",
+      "zh": "（记好这件事吧）",
+      "vi": "(Hãy nhớ điều này)",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_002",
+      "speaker_tag": "; > @toast |#Toast_002|",
+      "ja": "議論発展…",
+      "zh": "讨论前进…",
+      "vi": "Cuộc thảo luận đang tiến triển…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro015|",
+      "ja": "ミリア。<br>君はさっき、私をアリサから庇おうと<br>話に割り込んできた……。",
+      "zh": "米莉亚。<br>\n你刚才，为了袒护我<br>\n而出言阻止亚里沙……",
+      "vi": "Miria. Bạn chỉ muốn bảo vệ tôi Và lên tiếng để ngăn Alisa lại...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro016|",
+      "ja": "なら、本心は私と同意見なんじゃないか？",
+      "zh": "那么，你内心的想法其实是和我一样的吧？",
+      "vi": "Vậy thực ra suy nghĩ bên trong của bạn cũng giống tôi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria018",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria018|",
+      "ja": "えぇ……！？",
+      "zh": "欸欸……！？",
+      "vi": "Này...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro017|",
+      "ja": "アリサが圧を掛けるから<br>怖くて言い出せなかったんだろう？",
+      "zh": "是因为亚里沙施加了压力，<br>\n所以害怕得不敢说出来吧？",
+      "vi": "Đó là do áp lực của Alisa, Vì vậy, bạn quá sợ hãi để nói điều đó, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro018|",
+      "ja": "ならどっちつかずの反応になるのも、無理はない。",
+      "zh": "那么你模棱两可的反应，也情有可原。",
+      "vi": "Khi đó phản ứng mơ hồ của bạn là điều dễ hiểu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Alisa002",
+      "speaker_tag": "; > Alisa: |#0205Trial18_Alisa002|",
+      "ja": "あぁ！？ ウチが悪いってのかよ！",
+      "zh": "啊啊！？怪我咯！",
+      "vi": "À! ? Đổ lỗi cho Tao!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria019",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria019|",
+      "ja": "あぁ……！<br>待って待って！ そうじゃないって！",
+      "zh": "啊啊……！<br>\n等等、等一下！不是那样的！",
+      "vi": "À...! Đợi đã, đợi một chút! Không phải như vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria020",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria020|",
+      "ja": "ただおじさんは、ヒロちゃんの言った事も<br>一理あるのかもって思っただけで……。",
+      "zh": "大叔我只是觉得，希罗说的话，<br>\n也有一定的道理……",
+      "vi": "Bác ơi, cháu chỉ nghĩ như Anh hùng đã nói, Có một số sự thật về điều này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria021",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria021|",
+      "ja": "べつにどっちが正しいかとかいう話じゃないよ！<br>みんなでもう少し話そ……！ ね？",
+      "zh": "并没有说谁对谁错！<br>\n大家再多聊一聊吧……！好吗？",
+      "vi": "Nó không nói ai đúng ai sai! Hãy nói chuyện thêm chút nữa...! Được rồi?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro019|",
+      "ja": "（ミリアは立ち場を決めかねている……）",
+      "zh": "（米莉亚没办法主动决定立场……）",
+      "vi": "(Miria không thể chủ động quyết định vị trí của mình...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro020|",
+      "ja": "（この協調を重んじる精神は<br>　いったいどこから来るのか……）",
+      "zh": "（为何她如此在意合群呢？<br>\n是以前遭遇过什么变故吗……）",
+      "vi": "(Tại sao cô ấy lại quan tâm nhiều đến việc hòa đồng đến thế? Có chuyện gì bất ngờ xảy ra trước đó...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro021|",
+      "ja": "（ミリアのことをもう少し知る必要があるな）",
+      "zh": "（看来我需要再多了解一下米莉亚了）",
+      "vi": "(Có vẻ như mình cần biết thêm về Miria)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro022|",
+      "ja": "【閉じ込められるだけ】なら、<br>いいのかもしれないが……。",
+      "zh": "如果只是【被关起来】，<br>\n那还算好的……",
+      "vi": "Nếu chỉ là [bị nhốt], Điều đó khá tốt...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro023|",
+      "ja": "殺される可能性だってある。",
+      "zh": "只是，也有可能会被杀。",
+      "vi": "Tuy nhiên, anh ta cũng có thể bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria022",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria022|",
+      "ja": "………っ！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro024|",
+      "ja": "それでも君は、<br>そんな死の運命であっても受け入れるのかな？",
+      "zh": "即便如此，你也愿意<br>\n接受死亡的命运吗？",
+      "vi": "Dù vậy, bạn vẫn sẵn lòng Chấp nhận số phận của cái chết?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria023",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria023|",
+      "ja": "そ、それは怖いけど……。",
+      "zh": "我、我虽然很怕……",
+      "vi": "Miria, mặc dù Miria rất sợ hãi...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria024",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria024|",
+      "ja": "でもそのときは、しょうがないよ……。",
+      "zh": "可是如果真到了那一刻，我也只好认命了……",
+      "vi": "Nhưng nếu thời điểm đó đến, Miria không còn cách nào khác ngoài việc chấp nhận số phận của mình...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria025",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria025|",
+      "ja": "みんなで納得して決めた結果ならさ……。<br>おじさんは受け入れられると思う。",
+      "zh": "如果是大家达成一致并决定下来的结果……<br>\n大叔我应该会接受的。",
+      "vi": "Nếu đó là kết quả được mọi người đồng tình và quyết định... Bác ơi, cháu nên chấp nhận điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro025|",
+      "ja": "（脅しではミリアの心は動かせないか）",
+      "zh": "（看来靠威胁是无法动摇米莉亚的心的）",
+      "vi": "(Có vẻ như những lời đe dọa không thể lay chuyển được trái tim của Miria)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro026|",
+      "ja": "（……死も覚悟出来てしまうとは）",
+      "zh": "（……她甚至都准备好赴死了）",
+      "vi": "(...Cô ấy thậm chí còn sẵn sàng chết)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro027|",
+      "ja": "（この協調を重んじる精神は<br>　いったいどこから来るのか……）",
+      "zh": "（为何她如此在意合群呢？<br>\n是以前遭遇过什么变故吗……）",
+      "vi": "(Tại sao cô ấy lại quan tâm nhiều đến việc hòa đồng đến thế? Có chuyện gì bất ngờ xảy ra trước đó...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro028|",
+      "ja": "（ミリアのことをもう少し知る必要があるな）",
+      "zh": "（看来我需要再多了解一下米莉亚了）",
+      "vi": "(Có vẻ như mình cần biết thêm về Miria)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro029|",
+      "ja": "君はどうして嘘をつくんだ。",
+      "zh": "你为什么要撒谎？",
+      "vi": "Tại sao bạn lại nói dối?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria026",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria026|",
+      "ja": "えっ……。<br>嘘……？",
+      "zh": "欸……<br>\n撒谎……？",
+      "vi": "Ơ... Nói dối...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro030|",
+      "ja": "そうだ。",
+      "zh": "没错。",
+      "vi": "Đúng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro031|",
+      "ja": "君は未練がないと言ったが……。",
+      "zh": "你说没有留恋……",
+      "vi": "Bạn nói bạn không có nỗi nhớ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro032|",
+      "ja": "さっきの【先生】の話はどうなんだい。",
+      "zh": "那刚才【老师】的话题又是怎么一回事？",
+      "vi": "Vậy vừa rồi [Thầy] đang nói về cái gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria027",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria027|",
+      "ja": "そ、それは、その……。",
+      "zh": "那、那是，那个……",
+      "vi": "Đó, đó là, đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria028",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria028|",
+      "ja": "先生は立派な人だから、<br>おじさんなんて必要ないよ。",
+      "zh": "老师是个很了不起的人，<br>\n不需要大叔我啦。",
+      "vi": "Giáo viên là một người tuyệt vời, Chú không cần Miria đâu chú.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro033|",
+      "ja": "仮にそうだとして……。",
+      "zh": "即便如此……",
+      "vi": "Dù vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro034|",
+      "ja": "君の行動を【先生】は喜ぶのかな。",
+      "zh": "你觉得【老师】会为你的行为高兴吗？",
+      "vi": "Bạn có nghĩ [giáo viên] sẽ hài lòng với hành vi của bạn không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria029",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria029|",
+      "ja": "……え？",
+      "zh": "……欸？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro035",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro035|",
+      "ja": "君の先生は立派な人で、<br>君の未来のために尽力してくれた……。",
+      "zh": "你的老师是个了不起的人，<br>\n为了你的未来而尽心尽力……",
+      "vi": "Giáo viên của bạn là một người tuyệt vời, Hãy cố gắng hết mình vì tương lai của bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro036",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro036|",
+      "ja": "なら、先生が守りたかったのは……<br>君の将来なんじゃないかな。",
+      "zh": "那么，老师想要守护的……<br>\n不正是你的将来吗？",
+      "vi": "Vậy thì điều mà giáo viên muốn bảo vệ... Đó không phải là tương lai của bạn sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria030",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria030|",
+      "ja": "うぐっ……！",
+      "zh": "呜呜……！",
+      "vi": "Woohoo...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria031",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria031|",
+      "ja": "そ、それは……。",
+      "zh": "这、这个……",
+      "vi": "Cái này, cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro037",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro037|",
+      "ja": "君自身の手で、<br>先生の守りたかったものを壊していいのか？",
+      "zh": "你要亲手毁掉，<br>\n老师想要守护的东西吗？",
+      "vi": "Bạn phải tự mình tiêu diệt nó, Có điều gì mà giáo viên muốn bảo vệ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria032",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria032|",
+      "ja": "……そ、そんなの……。",
+      "zh": "……这、这……",
+      "vi": "...cái này, cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria033",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria033|",
+      "ja": "そんなの……わかんないよっ！",
+      "zh": "大叔我……搞不懂啊！",
+      "vi": "Bác ơi, cháu... không hiểu!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Hiro038",
+      "speaker_tag": "; > Hiro: |#0205Trial18_Hiro038|",
+      "ja": "………！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria034",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria034|",
+      "ja": "おじさんは……おじさんは……。",
+      "zh": "大叔我……大叔我……",
+      "vi": "Chú, cháu... Chú, cháu...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial18_Miria035",
+      "speaker_tag": "; > Miria: |#0205Trial18_Miria035|",
+      "ja": "……ヒロちゃんや【先生】みたく……<br>強くないんだ！！",
+      "zh": "……不像希罗和【老师】那样……<br>\n那么坚强啊！！",
+      "vi": "...Không giống như Hiro và [Thầy]... Thật mạnh mẽ! !",
+      "objection_links": []
+    }
+  ]
+}

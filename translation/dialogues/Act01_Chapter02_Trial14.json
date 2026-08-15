@@ -1,0 +1,1232 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter02_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter02_Trial14",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter02/Act01_Chapter02_Trial14' Naninovel scenario script",
+  "total_entries": 152,
+  "entries": [
+    {
+      "id": "0102Trial14_Ema001",
+      "speaker_tag": "; > @printDebate pos:65,50 roll:4 |#0102Trial14_Ema001|",
+      "ja": "時系列を<br>整理するよ。",
+      "zh": "我来按时间顺序<br>\n整理一下经过。",
+      "vi": "Mình xin phép sắp xếp lại dòng thời gian của vụ án nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial14_Ema002|",
+      "ja": "ナノカちゃんが<br>死体を見つけて<br>部屋を出てから、<br>シェリーちゃんが<br>扉を開けるまでの間<br>懲罰房は密室だった……。",
+      "zh": "从奈叶香<br>\n发现尸体<br>\n离开房间<br>\n到雪莉打开房门的<br>\n这段时间里<br>\n惩罚室是密室状态……",
+      "vi": "Từ lúc Nanoka-chan phát hiện thi thể rời khỏi phòng cho đến khi Sherry-chan mở cửa, căn Phòng Kỷ Luật Biệt Giam hoàn toàn là một căn phòng kín……",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial14_Ema003|",
+      "ja": "そしてその間に、<br>ミリアちゃんの【悲鳴】が<br>部屋の中から聞こえたんだ。",
+      "zh": "而正是在这段时间里，<br>\n有人听见房间里<br>\n传来米莉亚的【惨叫声】。",
+      "vi": "Và trong khoảng thời gian đó, 【tiếng hét thất thanh】 của Miria-chan lại vang lên từ bên trong căn phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial14_Ema004|",
+      "ja": "すでに死んでたという<br>ナノカちゃんの証言が本当なら、<br>その悲鳴は<br>録音したデータだったって<br>事になるし……。",
+      "zh": "如果奈叶香的证词是真的，<br>\n她之前就已经死了，<br>\n那这声惨叫<br>\n就是录下的<br>\n声音……",
+      "vi": "Nếu lời khai của Nanoka-chan rằng Miria-chan đã chết từ trước là sự thật, thì tiếng hét đó chắc chắn là một đoạn ghi âm phát lại từ điện thoại……",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial14_Ema005|",
+      "ja": "そのデータは<br>誰かが消した事になる……。",
+      "zh": "然后这份录音<br>\n被某人删掉了……",
+      "vi": "Và đoạn ghi âm đó sau đó đã bị một ai đó bí mật xóa sạch dấu vết……",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial14_Ema006|",
+      "ja": "部屋に入って、<br>最初にミリアちゃんの<br>スマホを見つけたのは<br>アンアンちゃんだけど――。",
+      "zh": "进入房间以后，<br>\n第一个找到<br>\n米莉亚手机的<br>\n就是安安——",
+      "vi": "Đúng vậy! Và người sở hữu ma pháp thao túng tâm trí…… không ai khác ngoài Natsume AnAn!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial14_AnAn001|",
+      "ja": "――しかしあの時<br>わがはいには<br><link=\"Objection_01_02_14_01\">データを消す時間</link>は<br>なかった！<br>つまりあの<link=\"Objection_01_02_14_02\">悲鳴は本物</link><br>だったのだ！<br>ミリアはあの時、<br><link=\"Objection_01_02_14_03\">生きていた</link>に違いない！",
+      "zh": "——但那时吾辈<br>\n<link=\"Objection_01_02_14_01\">没有时间清除数据</link>！<br>\n也就是说，<br>\n那声<link=\"Objection_01_02_14_02\">惨叫是真的</link>！<br>\n米莉亚当时<br>\n毫无疑问<br>\n<link=\"Objection_01_02_14_03\">还活着</link>！<br>",
+      "vi": "---Nhưng vào thời điểm đó chúng tôi <link=\"Objection_01_02_14_01\">Không có thời gian để xóa dữ liệu</link>! Tức là Tiếng hét <link=\"Objection_01_02_14_02\"> đó là thật </link>! Miria đã Không còn nghi ngờ gì nữa <link=\"Objection_01_02_14_03\"> còn sống </link>!",
+      "objection_links": [
+        "Objection_01_02_14_01",
+        "Objection_01_02_14_02",
+        "Objection_01_02_14_03"
+      ]
+    },
+    {
+      "id": "0102Trial14_AnAn002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial14_AnAn002|",
+      "ja": "全てはナノカの嘘……<br>ナノカがミリアを<br>殺したのだ！！",
+      "zh": "一切都是奈叶香的谎言……<br>\n是她杀害了<br>\n米莉亚！！",
+      "vi": "Mọi thứ đều là lời nói dối của Nanoyaka... Chính cô ấy đã giết Miria! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial14_Nanoka001|",
+      "ja": "違う！<br>私は殺してない！",
+      "zh": "不是……！<br>\n我没有杀她……！",
+      "vi": "Người có thể điều khiển người khác xóa dữ liệu đó chỉ có thể là người sở hữu ma pháp thôi……",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Coco001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial14_Coco001|",
+      "ja": "でも実際、<br>ナノカ以外<br>できねーじゃん？",
+      "zh": "可是，实际上<br>\n只有你能<br>\n做到啊？",
+      "vi": "Tuy nhiên, trên thực tế Chỉ bạn mới có thể Bạn có thể làm được điều đó không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial14_Nanoka002|",
+      "ja": "それは……！<br>何かトリックが……<br>前提の間違いが<br>あるはず……！",
+      "zh": "我……！<br>\n这里面一定有什么诡计……<br>\n是我们搞错了<br>\n前提……！",
+      "vi": "Tôi...! Chắc chắn phải có thủ thuật nào đó ở đây... Chúng tôi đã phạm sai lầm Tiền đề...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial14_Nanoka003|",
+      "ja": "本当は<link=\"Objection_01_02_14_04\">犯人は共犯</link>だった……？<br>それとも何か<br><link=\"Objection_01_02_14_05\">スマホに仕掛け</link>が<br>されていた……？<br>もしかして<br><link=\"Objection_01_02_14_06\">私が見た死体</link>は、<br>見間違いだったの……？",
+      "zh": "也许<link=\"Objection_01_02_14_04\">凶手不止一个</link>……？<br>\n又或者<br>\n手机被动了<br>\n什么<link=\"Objection_01_02_14_05\">手脚</link>……？<br>\n还是说<br>\n我看走眼了<br>\n<link=\"Objection_01_02_14_06\">尸体</link>……？",
+      "vi": "Có lẽ có nhiều hơn một <link=\"Objection_01_02_14_04\"> kẻ sát nhân </link>...? Hoặc Điện thoại bị động <link=\"Objection_01_02_14_05\">tay và chân</link>... là gì? Hoặc nói Tôi đã phạm sai lầm <link=\"Objection_01_02_14_06\">Xác chết</link>...?",
+      "objection_links": [
+        "Objection_01_02_14_04",
+        "Objection_01_02_14_05",
+        "Objection_01_02_14_06"
+      ]
+    },
+    {
+      "id": "0102Trial14_AnAn003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial14_AnAn003|",
+      "ja": "もういい……！<br>議論は<br>十分され尽くした……！",
+      "zh": "够了……！<br>\n已经<br>\n讨论够了……！",
+      "vi": "Đủ rồi...! Đã Thảo luận đủ rồi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn004",
+      "speaker_tag": "; > @printDebate pos:40,50 roll:-4 |#0102Trial14_AnAn004|",
+      "ja": "<size=200><color=#9c8eff>【投票しろ】</color>！</size>",
+      "zh": "<size=200><color=#9c8eff>【投票吧】</color>！</size>",
+      "vi": "<size=200><color=#9c8eff> 【Bỏ phiếu】</color>! </size>",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema007",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema007|",
+      "ja": "（……投票、しなきゃ……）",
+      "zh": "（……该投票了……）",
+      "vi": "(…đã đến lúc bỏ phiếu…)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Meruru001",
+      "speaker_tag": "; > Meruru: |#0102Trial14_Meruru001|",
+      "ja": "エマさん、気を確かに……！",
+      "zh": "艾玛小姐，坚持住……！",
+      "vi": "Ema, đợi đã...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema008",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema008|",
+      "ja": "う、うん……！",
+      "zh": "嗯、嗯……",
+      "vi": "Ừm, ừm...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema009",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema009|",
+      "ja": "（今の話の中で気になった部分……！<br>　それを……指摘するんだ！）",
+      "zh": "（刚才的交谈中有什么感觉不对劲的地方……！<br>\n把它们……指出来！）",
+      "vi": "(Có điều gì đó không ổn trong cuộc trò chuyện vừa rồi...! Hãy chỉ ra chúng! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Choice001",
+      "speaker_tag": "; > @choice |#0102Trial14_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "すぐ消せた",
+      "zh": "你很快就删掉了",
+      "vi": "Bạn đã xóa nó nhanh chóng",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Choice002",
+      "speaker_tag": "; > @choice |#0102Trial14_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "悲鳴は偽物だという証拠がある",
+      "zh": "有证据证明那声惨叫是伪造的",
+      "vi": "Có bằng chứng cho thấy tiếng hét là giả",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Choice003",
+      "speaker_tag": "; > @choice |#0102Trial14_Choice003| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "ミリアが生きていた証拠がある",
+      "zh": "有证据证明米莉亚还活着",
+      "vi": "Có bằng chứng cho thấy Miria vẫn còn sống",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Choice004",
+      "speaker_tag": "; > @choice |#0102Trial14_Choice004| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "ミリアがアンアンに協力した",
+      "zh": "是米莉亚帮助了安安",
+      "vi": "Chính Miria đã giúp AnAn",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Choice005",
+      "speaker_tag": "; > @choice |#0102Trial14_Choice005| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "スマホはすり替えられていた",
+      "zh": "手机被掉包了",
+      "vi": "Điện thoại bị rơi",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Choice006",
+      "speaker_tag": "; > @choice |#0102Trial14_Choice006| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "死体は別人だった",
+      "zh": "其实是别人的尸体",
+      "vi": "Thực ra đó là cơ thể của người khác",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema010",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema010|",
+      "ja": "……アンアンちゃんが<br>データを消すことはできたはずだよ！",
+      "zh": "……安安你<br>\n应该清除掉了数据！",
+      "vi": "...Còn bạn Dữ liệu cần được xóa!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn005",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn005|",
+      "ja": "どうやって消すというのだ？",
+      "zh": "那你说说看我是怎么做到的？",
+      "vi": "Vậy hãy cho tôi biết tôi đã làm điều đó như thế nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn006",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn006|",
+      "ja": "データを消すには<br>【３０分】かかるというではないか！",
+      "zh": "清除数据<br>\n需要【30分钟】不是吗！",
+      "vi": "Xóa dữ liệu Phải mất [30 phút] phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn007",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn007|",
+      "ja": "だがわがはいがあのスマホを見つけたのは<br>懲罰房に入ってから【５分】ほどの間……！",
+      "zh": "但吾辈在进入惩罚室后【5分钟】左右<br>\n就找到了那部手机……！",
+      "vi": "Nhưng khoảng [5 phút] sau khi tôi vào Phòng Kỷ Luật Biệt Giam Tôi đã tìm thấy chiếc điện thoại đó...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn008",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn008|",
+      "ja": "わがはいには不可能だ！",
+      "zh": "吾辈是不可能做到的！",
+      "vi": "Tôi không thể làm được điều đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema011",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema011|",
+      "ja": "でも何か裏技があったのかも……！",
+      "zh": "也许有什么特殊技巧……！",
+      "vi": "Có lẽ có một số kỹ năng đặc biệt...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn009",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn009|",
+      "ja": "ならばそれを示すがいい！<br>それができないなら……。",
+      "zh": "那你展示便是！<br>\n如果你做不到的话……",
+      "vi": "Sau đó, bạn hiển thị nó! Nếu bạn không thể làm được...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn010",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn010|",
+      "ja": "<color=#9c8eff><b>【もう無駄な問答は不要である】</b></color>！<br><color=#9c8eff><b>【早急に裁判を終わらせるべきだ】</b></color>！",
+      "zh": "就<color=#9c8eff><b>【不要再重复这种无用的问答】</b></color>！<br>\n<color=#9c8eff><b>【尽快结束审判才是】</b></color>！",
+      "vi": "Chỉ cần <color=#9c8eff><b> [Đừng lặp lại câu hỏi vô ích này và trả lời lại] </b></color>! <color=#9c8eff><b>[Thời gian dùng thử phải kết thúc càng sớm càng tốt]</b></color>!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema012",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema012|",
+      "ja": "（半端な指摘じゃ、<br>　アンアンちゃんに押し切られちゃいそうだ……！）",
+      "zh": "（看来不够有力的提问<br>\n会被安安糊弄过去……！）",
+      "vi": "(Có vẻ như câu hỏi chưa đủ mạnh Sẽ bị AnAn lừa...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema013",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema013|",
+      "ja": "（何か決定打を見つけないと！）",
+      "zh": "（我得找到决定性的一手！）",
+      "vi": "(Mình phải tìm ra bàn tay quyết định!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema014",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema014|",
+      "ja": "（アンアンちゃんが焦っている理由は何だろう……？<br>　スマホの初期化に関連することなのかな……？）",
+      "zh": "（安安为什么如此焦躁不安……？<br>\n和手机恢复出厂设置有关吗……？）",
+      "vi": "(Sao AnAn bồn chồn thế nhỉ...? Có liên quan đến việc khôi phục điện thoại về cài đặt gốc không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema015",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema015|",
+      "ja": "ミリアちゃんの悲鳴は偽物だよ！<br>その証拠もある！",
+      "zh": "米莉亚的惨叫声是伪造的！<br>\n这点也有证据！",
+      "vi": "Tiếng hét của Miria là giả! Có bằng chứng cho việc này quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn011",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn011|",
+      "ja": "あるものか！！<br>虚言を吐くな！！",
+      "zh": "哪里有！！<br>\n不要胡说八道！！",
+      "vi": "Nó ở đâu? ! Đừng nói vớ vẩn! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn012",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn012|",
+      "ja": "あのスマホは初期化されている！<br>スマホから悲鳴を流したという証拠はない！",
+      "zh": "那个手机被恢复出厂设置了！<br>\n没有证据能证明惨叫声是手机播放的！",
+      "vi": "Điện thoại đó đã được khôi phục cài đặt gốc! Không có bằng chứng nào chứng minh tiếng hét được phát bởi điện thoại di động!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn013",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn013|",
+      "ja": "エマは<color=#9c8eff><b>【口をとざせ】</b></color>！！<br><color=#9c8eff><b>【議論は終わりだ】</b></color>！！",
+      "zh": "艾玛你给我<color=#9c8eff><b>【闭嘴】</b></color>！！<br>\n<color=#9c8eff><b>【这场讨论结束了】</b></color>！！",
+      "vi": "Ema, đưa tôi <color=#9c8eff><b> [Im đi] </b></color>! ! <color=#9c8eff><b> 【Cuộc thảo luận này đã kết thúc】</b></color>! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema016",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema016|",
+      "ja": "（半端な指摘じゃ、<br>　アンアンちゃんに押し切られちゃいそうだ……！）",
+      "zh": "（看来不够有力的提问<br>\n会被安安糊弄过去……！）",
+      "vi": "(Có vẻ như câu hỏi chưa đủ mạnh Sẽ bị AnAn lừa...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema017",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema017|",
+      "ja": "（何か決定打を見つけないと！）",
+      "zh": "（我得找到决定性的一手！）",
+      "vi": "(Mình phải tìm ra bàn tay quyết định!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema018",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema018|",
+      "ja": "（アンアンちゃんが焦っている理由は何だろう……？<br>　スマホの初期化に関連することなのかな……？）",
+      "zh": "（安安为什么如此焦躁不安……？<br>\n和手机恢复出厂设置有关吗……？）",
+      "vi": "(Sao AnAn bồn chồn thế nhỉ...? Có liên quan đến việc khôi phục điện thoại về cài đặt gốc không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema019",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema019|",
+      "ja": "そうだよ！<br>アンアンちゃんが言う通り、<br>その時ミリアちゃんは生きてたんだ！",
+      "zh": "对啊！<br>\n就像安安说的一样，<br>\n那时候米莉亚还活着！",
+      "vi": "Đúng! Đúng như AnAn đã nói, Miria vẫn còn sống vào thời điểm đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka004|",
+      "ja": "桜羽エマ、佐伯ミリアの死体は<br>私が確認しているわ。",
+      "zh": "樱羽艾玛，我亲眼确认过<br>\n佐伯米莉亚的尸体。",
+      "vi": "Ema Sakuraba, tôi đã tận mắt xác nhận điều đó Cơ thể của Miria Saebe.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka005|",
+      "ja": "夏目アンアンの苦し紛れの言い訳に、<br>騙されないで……！",
+      "zh": "不要被夏目安安的强词夺理蒙骗……！<br>",
+      "vi": "Đừng để bị đánh lừa bởi những lời nói mạnh mẽ của Natsme AnAn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn014",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn014|",
+      "ja": "わがはいとハンナが懲罰房に行った時、<br>まだミリアは生きていたのだ！<br>悲鳴を上げ、苦しんでいた！",
+      "zh": "吾辈和汉娜去惩罚室的时候，<br>\n米莉亚还活着！<br>\n她在痛苦地惨叫！",
+      "vi": "Khi tôi và Hanna đến Phòng Kỷ Luật Biệt Giam, Miria còn sống! Cô ấy đang hét lên đau đớn!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn015",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn015|",
+      "ja": "そしてわがはいたちが去った後、<br>ナノカが懲罰房に入り、ミリアを殺した！<br><color=#9c8eff><b>【そうとしか考えられまい】</b></color>！？",
+      "zh": "等我们离开以后，<br>\n奈叶香进入惩罚室杀害了米莉亚！<br>\n<color=#9c8eff><b>【只有这一种可能，不是吗】</b></color>！？",
+      "vi": "Sau khi chúng tôi rời đi, Nanoyaka vào Phòng Kỷ Luật Biệt Giam và giết Miria! <color=#9c8eff><b>[Đây là khả năng duy nhất phải không]</b></color>! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn016",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn016|",
+      "ja": "これですべて筋が通る！<br><color=#9c8eff><b>【早急に投票を終え、閉廷せよ】</b></color>！",
+      "zh": "这样一来一切都说通了！<br>\n<color=#9c8eff><b>【尽快投票，结束审判吧】</b></color>！",
+      "vi": "Bây giờ mọi thứ đều có ý nghĩa! <color=#9c8eff><b> 【Bỏ phiếu càng sớm càng tốt để kết thúc thời gian dùng thử】</b></color>!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema020",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema020|",
+      "ja": "（アンアンちゃんの言葉……<br>　やっぱり何かがおかしい気がする……！）",
+      "zh": "（我感觉安安的发言……<br>\n还是有哪里不对劲……！）",
+      "vi": "(Tôi cảm nhận được lời nói của AnAn... Vẫn có gì đó không ổn...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema021",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema021|",
+      "ja": "（……アンアンちゃんの嘘を……<br>　指摘するんだ……！）",
+      "zh": "（……我要戳破……<br>\n她的谎言……！）",
+      "vi": "(...Tôi muốn vạch trần... Lời nói dối của cô ấy...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema022",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema022|",
+      "ja": "（アンアンちゃんが焦っている理由は何だろう……？<br>　スマホの初期化に関連することなのかな……？）",
+      "zh": "（安安为什么如此焦躁不安……？<br>\n和手机恢复出厂设置有关吗……？）",
+      "vi": "(Sao AnAn bồn chồn thế nhỉ...? Có liên quan đến việc khôi phục điện thoại về cài đặt gốc không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema023",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema023|",
+      "ja": "そ、そうか、そうだよナノカちゃん……！<br>ミリアちゃんとアンアンちゃんは共犯だったんだ！",
+      "zh": "对、对哦，我明白了奈叶香……！<br>\n米莉亚和安安是共犯！",
+      "vi": "Vâng, vâng, tôi hiểu Nanoyaka...! Miria và AnAn là đồng phạm!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema024",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema024|",
+      "ja": "ミリアちゃんは事前に初期化した自分のスマホを<br>アンアンちゃんに渡しておいたんだよ！",
+      "zh": "米莉亚把事先恢复完出厂设置的手机<br>\n交给了安安！",
+      "vi": "Miria đã khôi phục trước điện thoại về cài đặt gốc Để đó cho AnAn!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Coco002",
+      "speaker_tag": "; > Coco: |#0102Trial14_Coco002|",
+      "ja": "なにそれどゆこと！？",
+      "zh": "你说什么，怎么回事！？",
+      "vi": "Bạn đã nói gì, chuyện gì đã xảy ra! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Meruru002",
+      "speaker_tag": "; > Meruru: |#0102Trial14_Meruru002|",
+      "ja": "で、でもどのタイミングで初期化したんでしょうか……？<br>懲罰房に連れていかれたあと<br>ミリアさんは拘束されていましたし……。",
+      "zh": "可、可是，她是在什么时候恢复的……？<br>\n被带到惩罚室以后<br>\n她就被绑起来了才对……",
+      "vi": "Nhưng, khi nào cô ấy hồi phục...? Sau khi bị đưa vào Phòng Kỷ Luật Biệt Giam Lẽ ra cô ấy phải bị trói...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo001",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo001|",
+      "ja": "それに、スマホが初期化されて<br>アンアンちゃんの手元にあるのなら<br>悲鳴の偽装は不可能になるけれど……。",
+      "zh": "而且，<br>\n如果手机在安安的手里<br>\n她就无法伪造惨叫了……",
+      "vi": "Hơn nữa, Nếu điện thoại nằm trong tay AnAn Cô ấy sẽ không thể giả vờ hét lên được...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo002",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo002|",
+      "ja": "悲鳴の偽装がないとなると、<br>スマホを初期化する必要性もなくなるわね？",
+      "zh": "这样一来，<br>\n也就没有必要把手机恢复出厂设置了吧？",
+      "vi": "Bằng cách này, Không cần khôi phục điện thoại về cài đặt gốc phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Hanna001",
+      "speaker_tag": "; > Hanna: |#0102Trial14_Hanna001|",
+      "ja": "ぜ、前提がガラガラと崩れていきますわ～～！？<br>混乱させるようなことを言わねーでくださいまし！！",
+      "zh": "前、前提都要站不住脚了哦～～！？<br>\n请你不要作出扰乱讨论的发言可以吗！！",
+      "vi": "Tiền đề và tiền đề đều không thể đứng vững được~~! ? Bạn có thể vui lòng không đưa ra những nhận xét làm gián đoạn cuộc thảo luận được không? !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema025",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema025|",
+      "ja": "（み、みんなを混乱させちゃった……！）",
+      "zh": "（让、让大家陷入混乱了……！）",
+      "vi": "(Hãy để mọi người rơi vào hỗn loạn...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema026",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema026|",
+      "ja": "（……【スマホが初期化されていた】ことは事実……！<br>　【初期化に３０分】かかることも説明された……）",
+      "zh": "（……【手机被恢复出厂设置】是事实……！<br>\n现在还得知了【其过程需花费30分钟】……）",
+      "vi": "(...[Điện thoại đã được khôi phục về cài đặt gốc] là sự thật...! Bây giờ tôi cũng biết được rằng [quá trình này mất 30 phút]...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema027",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema027|",
+      "ja": "（……もし、もし仮にだけど、<br>　アンアンちゃんが初期化をしたのだとしたら、<br>　いつ、どうやって……？）",
+      "zh": "（……假如，假如说，<br>\n是安安把手机恢复了出厂设置，<br>\n那她是什么时候动手的，通过什么手段……？）",
+      "vi": "(...nếu, nếu, ví dụ, Chính AnAn đã khôi phục điện thoại về cài đặt gốc, Vậy cô ấy hành động khi nào và bằng cách nào...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema028",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema028|",
+      "ja": "そっか、ナノカちゃんが見た死体は<br>別人のものだったんだ！",
+      "zh": "我明白了，奈叶香发现的尸体<br>\n是其他人！",
+      "vi": "Tôi hiểu, thi thể được Nanoyaka tìm thấy Đó là một người khác!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Sherry001",
+      "speaker_tag": "; > Sherry: |#0102Trial14_Sherry001|",
+      "ja": "なるほどー！？<br>しかし別人だとすると、誰です！？",
+      "zh": "是这样啊！？<br>\n但那个人是谁呢！？",
+      "vi": "Đúng vậy! ? Nhưng người đó là ai! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka006|",
+      "ja": "私が確認した死体は佐伯ミリアのものだったわ。",
+      "zh": "经我确认，那具尸体就是佐伯米莉亚。",
+      "vi": "Tôi xác nhận rằng thi thể đó là của Miria Saebe.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka007",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka007|",
+      "ja": "それを疑うなら桜羽エマ……<br>あなたもまた怪しいわ。",
+      "zh": "如果要怀疑这点，樱羽艾玛……<br>\n你也挺可疑的。",
+      "vi": "Nếu bạn có bất kỳ nghi ngờ nào về điều này, Ema Sakuraba... Bạn cũng khá nghi ngờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema029",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema029|",
+      "ja": "（ナノカちゃんに疑われちゃった……！）",
+      "zh": "（被奈叶香怀疑了……！）",
+      "vi": "(Nayoka bị nghi ngờ...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema030",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema030|",
+      "ja": "（冷静に考えるんだ……！<br>　……【見つかった死体もミリアちゃん本人だった】。<br>　それは間違いない……）",
+      "zh": "（冷静下来想一想……！<br>\n……【尸体是米莉亚本人】。<br>\n这点是没错的……）",
+      "vi": "(Hãy bình tĩnh và suy nghĩ về điều đó...! …[Xác chết chính là Miria]. Điều này đúng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema031",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema031|",
+      "ja": "（ならアンアンちゃんがスマホを初期化する方法は……<br>　何かあったはず！<br>　それを考えるんだ！）",
+      "zh": "（那么，安安应该有办法……<br>\n把手机恢复出厂设置！<br>\n想想看是什么办法！）",
+      "vi": "(Vậy AnAn chắc chắn sẽ có cách... Khôi phục điện thoại của bạn về cài đặt gốc! Hãy nghĩ về nó! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema032",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema032|",
+      "ja": "違うよ。ナノカちゃん。",
+      "zh": "不是那样的，奈叶香。",
+      "vi": "Không phải thế đâu, Nanoha.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka008",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka008|",
+      "ja": "ち、違う……？",
+      "zh": "什、什么意思……？",
+      "vi": "Ý bạn là gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema033",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema033|",
+      "ja": "ミリアちゃんのスマホ自体に<br>仕掛けがされてたわけじゃない……！",
+      "zh": "不是米莉亚的手机本身<br>\n被动了手脚……！",
+      "vi": "Không phải điện thoại của Miria Bị thao túng một cách thụ động...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema034",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema034|",
+      "ja": "ミリアちゃんのスマホは……<br>すり替えられてたんだ！",
+      "zh": "而是她的手机……<br>\n被掉包了！",
+      "vi": "Nhưng điện thoại di động của cô ấy... Bị rơi!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka009",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka009|",
+      "ja": "すり替え……！",
+      "zh": "掉包……！",
+      "vi": "Đánh rơi gói hàng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Sherry002",
+      "speaker_tag": "; > Sherry: |#0102Trial14_Sherry002|",
+      "ja": "ええ？<br>でもこのスマホって、ミリアさんの物じゃないですか？",
+      "zh": "什么？<br>\n可是这个手机不是米莉亚的吗？",
+      "vi": "Cái gì? Nhưng chiếc điện thoại này không phải của Miria sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Hanna002",
+      "speaker_tag": "; > Hanna: |#0102Trial14_Hanna002|",
+      "ja": "とっても特徴的ですわー！",
+      "zh": "特征非常鲜明！",
+      "vi": "Đặc điểm rất khác biệt!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo003",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo003|",
+      "ja": "……いいえ。そうとも限らないわ。",
+      "zh": "……不，这可不一定。",
+      "vi": "...Không, điều này không nhất thiết phải như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo004",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo004|",
+      "ja": "たしかにミリアちゃんのスマホは<br>デコられてたけど……。",
+      "zh": "虽然米莉亚的手机<br>\n确实装饰得很华丽……",
+      "vi": "Mặc dù điện thoại di động của Miria Nó thực sự được trang trí rất lộng lẫy…",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo005",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo005|",
+      "ja": "でもそれはあくまでもケースの話だもの。",
+      "zh": "但那也只是保护套而已。",
+      "vi": "Nhưng đó chỉ là lớp vỏ bảo vệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo006",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo006|",
+      "ja": "スマホ本体を入れ替える事は<br>そんなに難しくないんじゃないかしら？",
+      "zh": "换一下装在上面的手机<br>\n也不是什么难事吧？",
+      "vi": "Thay đổi điện thoại di động được cài đặt trên đó Nó không khó lắm phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn017",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn017|",
+      "ja": "な、何を……。",
+      "zh": "你、你说什么……",
+      "vi": "Anh, anh vừa nói gì...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo007",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo007|",
+      "ja": "中身を取り替えるだけなら<br>一瞬で交換できるし……。",
+      "zh": "只是更换安装的手机的话，<br>\n只需一瞬间就能做到……",
+      "vi": "Nếu em vừa thay đổi điện thoại di động đã cài đặt, Chỉ mất một khoảnh khắc...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo008",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo008|",
+      "ja": "入れ替える方のスマホのデータは<br>あらかじめ消しておけばいいものね。",
+      "zh": "而被换上的手机，<br>\n也只需要事先恢复出厂设置就好。",
+      "vi": "Và chiếc điện thoại di động đã được thay thế, Bạn chỉ cần khôi phục cài đặt gốc trước đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo009",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo009|",
+      "ja": "そういうことね？<br>エマちゃん。",
+      "zh": "是这样没错吧？<br>\n艾玛。",
+      "vi": "Có đúng không? Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn018",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn018|",
+      "ja": "……違う。",
+      "zh": "……不是的。",
+      "vi": "...Không.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn019",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn019|",
+      "ja": "違う、違う……違う違う違う！！",
+      "zh": "不是的，不是的……不是不是不是！！",
+      "vi": "Không, không... không, không, không! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn020",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn020|",
+      "ja": "そのスマホはミリアのものだ！<br>わがはいはすり替えてなんていない……！！",
+      "zh": "那个手机是米莉亚的！<br>\n吾辈没有掉包她的手机……！！",
+      "vi": "Chiếc điện thoại đó thuộc về Miria! Tôi không hề đổi điện thoại di động của cô ấy...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka010",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka010|",
+      "ja": "……でも――。",
+      "zh": "……可是——",
+      "vi": "...nhưng——",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn021",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn021|",
+      "ja": "――言いがかりだ！！<br>すり替えた証拠なんて……どこにもない！！",
+      "zh": "——简直无理取闹！！<br>\n你们没有证据……能证明吾辈掉包了手机！！",
+      "vi": "---Thật vô lý! ! Bạn không có bằng chứng...để chứng minh rằng tôi đã đổi điện thoại! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema035",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema035|",
+      "ja": "……スマホが入れ替えられた証拠は。",
+      "zh": "……手机被掉包的证据……",
+      "vi": "...bằng chứng cho thấy điện thoại di động đã bị rơi...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Choice007",
+      "speaker_tag": "; > @choice |#0102Trial14_Choice007|",
+      "ja": "もう存在しない",
+      "zh": "已经没有了",
+      "vi": "Không còn nữa",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Choice008",
+      "speaker_tag": "; > @choice |#0102Trial14_Choice008|",
+      "ja": "現場にいけば見つかる",
+      "zh": "去案发现场就能找到",
+      "vi": "Bạn có thể tìm thấy nó bằng cách đến hiện trường vụ án",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Choice009",
+      "speaker_tag": "; > @choice |#0102Trial14_Choice009|",
+      "ja": "電話をかければ見つかる",
+      "zh": "打个电话就能找到",
+      "vi": "Chỉ cần gọi điện thoại và bạn sẽ tìm thấy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema036",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema036|",
+      "ja": "その証拠は……もう存在しないよ。",
+      "zh": "证据……已经没有了。",
+      "vi": "Bằng chứng... đã biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn022",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn022|",
+      "ja": "ああ！！ そうだろうとも！！",
+      "zh": "没错！！那是必然！！",
+      "vi": "Đúng vậy! ! Đó là điều không thể tránh khỏi! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn023",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn023|",
+      "ja": "スマホは初期化されているんだぞ！？<br>証拠など出せるわけがない！！",
+      "zh": "手机已经被恢复出厂设置了啊！？<br>\n怎么可能拿得出证据！！",
+      "vi": "Điện thoại đã được khôi phục về cài đặt gốc! ? Làm sao có thể có được bằng chứng! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn024",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn024|",
+      "ja": "すべてはただの難癖！ エマの謀略である！<br>ヤツはわがはいを犯人に仕立てようとしている！",
+      "zh": "艾玛只是在一味地刁难！这都是她的策略！<br>\n她想把吾辈推到凶手的位置上！",
+      "vi": "Ema chỉ đang làm mọi việc trở nên khó khăn thôi! Đây đều là chiến lược của cô ấy! Cô ấy muốn đặt tôi vào vị trí kẻ sát nhân!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn025",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn025|",
+      "ja": "そう、<color=#9c8eff><b>【エマこそ魔女だ】</b></color>！！",
+      "zh": "没错，<color=#9c8eff><b>【艾玛才是魔女】</b></color>！！",
+      "vi": "Đúng vậy, <color=#9c8eff>_<b>[Ema là phù thủy]</b></color>! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema037",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema037|",
+      "ja": "（みんなの疑いの目が刺さる……！）",
+      "zh": "（大家都对我投来怀疑的目光……！）",
+      "vi": "(Mọi người nhìn tôi với ánh mắt nghi ngờ...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema038",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema038|",
+      "ja": "（こ、これ以上アンアンちゃんに魔法を使わせちゃダメだ、<br>　みんなを納得させられる証拠を出さないと……！）",
+      "zh": "（不、不能再让安安使用魔法了<br>\n我得拿出能说服大家的证据……！）",
+      "vi": "(Không, chúng ta không thể để AnAn sử dụng phép thuật nữa Tôi phải đưa ra bằng chứng thuyết phục được mọi người...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema039",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema039|",
+      "ja": "その証拠は……現場にいけば見つかるはずだよ！",
+      "zh": "证据……只要去案发现场就能找到！",
+      "vi": "Bằng chứng... có thể được tìm thấy chỉ bằng cách đến hiện trường vụ án!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn026",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn026|",
+      "ja": "全員が現場を調べたはずだ。<br>どこにどんな証拠があるというのだ？",
+      "zh": "所有人都调查过现场。<br>\n哪里有你口中的证据？",
+      "vi": "Mọi người điều tra hiện trường. Bằng chứng từ miệng của bạn ở đâu?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema040",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema040|",
+      "ja": "そ、それは……！",
+      "zh": "这、这……！",
+      "vi": "Cái này, cái này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn027",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn027|",
+      "ja": "エマ、貴様は証拠もなく<br>わがはいを疑い続けているな？",
+      "zh": "艾玛，你连证据都没有<br>\n就一直怀疑吾辈？",
+      "vi": "Ema, bạn thậm chí còn không có bất kỳ bằng chứng nào Bạn luôn nghi ngờ tôi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn028",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn028|",
+      "ja": "わがはいはミリアの仇討ちを成し遂げるべく<br>尽力しているというのに！",
+      "zh": "吾辈只是为了报米莉亚被杀之仇<br>\n而倾尽全力！",
+      "vi": "Chúng tôi chỉ ở đây để trả thù cho vụ giết Miria Và cống hiến hết mình!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn029",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn029|",
+      "ja": "わがはいとエマ、どちらの言い分が正しいか……<br>誰の目にも明らかだと思わないか！？",
+      "zh": "吾辈和艾玛，究竟谁的发言更加合理……<br>\n无论在谁看来，想必都一目了然吧！？",
+      "vi": "Giữa tôi và Ema, phát biểu của ai hợp lý hơn... Bất kể ai nhìn thấy, nhìn thoáng qua đều phải rõ ràng! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn030",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn030|",
+      "ja": "今すぐに<color=#9c8eff><b>【エマに投票すべきだ】</b></color>！",
+      "zh": "应当现在就<color=#9c8eff><b>【给艾玛投票】</b></color>！",
+      "vi": "Bạn nên <color=#9c8eff><b> [bỏ phiếu cho Ema]</b></color> ngay bây giờ!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema041",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema041|",
+      "ja": "（ううう、投票が始まっちゃう！？）",
+      "zh": "（呜呜呜，要开始投票了！？）",
+      "vi": "(Woohoo, cuộc bỏ phiếu sắp bắt đầu!?)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema042",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema042|",
+      "ja": "（こ、これ以上アンアンちゃんに魔法を使わせちゃダメだ、<br>　みんなを納得させられる証拠を出さないと……！）",
+      "zh": "（不、不能再让安安使用魔法了<br>\n我得拿出能说服大家的证据……！）",
+      "vi": "(Không, chúng ta không thể để AnAn sử dụng phép thuật nữa Tôi phải đưa ra bằng chứng thuyết phục được mọi người...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema043",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema043|",
+      "ja": "この人に、電話をかければわかるよ。",
+      "zh": "只要给这个人打个电话就明白了。",
+      "vi": "Chỉ cần gọi cho anh chàng này và tìm hiểu.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema044",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema044|",
+      "ja": "（アンアンちゃんに電話をかければ……）",
+      "zh": "（给安安打个电话……）",
+      "vi": "(Gọi AnAn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema045",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema045|",
+      "ja": "（……ってダメだ！ アンアンちゃんとは<br>　連絡先を交換してないからかけられない……！）",
+      "zh": "（……不行！我没有和安安<br>\n交换过联系方式，打不了电话……！）",
+      "vi": "(...Không! Tôi không ở cùng AnAn Mình đã trao đổi thông tin liên lạc nhưng không gọi được...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema046",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema046|",
+      "ja": "（もう一度考え直そう……！）",
+      "zh": "（再重新好好想想吧……！）",
+      "vi": "(Hãy nghĩ lại về điều đó...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema047",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema047|",
+      "ja": "そう、ボクに電話をかければ、<br>その答えを教えるよ！",
+      "zh": "没错，给我打个电话<br>\n我就告诉你答案！",
+      "vi": "Đúng vậy, hãy gọi cho tôi Tôi sẽ cho bạn biết câu trả lời!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Alisa001",
+      "speaker_tag": "; > Alisa: |#0102Trial14_Alisa001|",
+      "ja": "オイざけんなッ！！ 今教えろッ！！",
+      "zh": "喂瞎扯什么呢！！现在就说！！",
+      "vi": "Bạn đang nói về cái gì vậy? ! Hãy nói ngay bây giờ! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema048",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema048|",
+      "ja": "（ちゃんと答えないと……！）",
+      "zh": "（我得认真回答……！）",
+      "vi": "(Tôi phải trả lời một cách nghiêm túc…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema049",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema049|",
+      "ja": "（これで犯人がわかるはずなんだ！<br>　慎重に考えよう……！）",
+      "zh": "（这下就能查明凶手是谁了！<br>\n我要谨慎思考……！）",
+      "vi": "(Bây giờ bạn có thể tìm ra kẻ sát nhân là ai! Mình cần suy nghĩ kỹ...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema050",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema050|",
+      "ja": "…………ナノカちゃん、いいよね？",
+      "zh": "…………奈叶香，可以吗？",
+      "vi": "........Nayoka, được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka011",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka011|",
+      "ja": "え……？<br>ええ……？<br>いい、けれど……。",
+      "zh": "哎……？<br>\n嗯……？<br>\n可以、是可以……",
+      "vi": "Này...? Ừm...? Vâng, vâng...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka012",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka012|",
+      "ja": "証拠なんて……持っていないわ。",
+      "zh": "但我……没证据啊。",
+      "vi": "Nhưng tôi... không có bằng chứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Coco003",
+      "speaker_tag": "; > Coco: |#0102Trial14_Coco003|",
+      "ja": "なんで電話かけようとしてんだよ！<br>ここで話せ！",
+      "zh": "打什么电话呢！<br>\n就在这说！",
+      "vi": "Bạn đang thực hiện cuộc gọi gì? Chỉ cần nói nó ngay tại đây!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema051",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema051|",
+      "ja": "（怒られた……！）",
+      "zh": "（被骂了……！）",
+      "vi": "(Tôi đã bị mắng...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema052",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema052|",
+      "ja": "（これで犯人がわかるはずなんだ！<br>　慎重に考えよう……！）",
+      "zh": "（这下就能查明凶手是谁了！<br>\n我要谨慎思考……！）",
+      "vi": "(Bây giờ bạn có thể tìm ra kẻ sát nhân là ai! Mình cần suy nghĩ kỹ...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka013",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka013|",
+      "ja": "桜羽エマ……わかっているはずでしょう。<br>……本当は誰に電話をかければいいのかを。",
+      "zh": "樱羽艾玛……其实你是知道的吧。<br>\n……到底应该打电话给谁。",
+      "vi": "Ema Sakuraba...thực ra bạn biết điều đó phải không? ...tôi nên gọi cho ai đây?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka014",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka014|",
+      "ja": "誰と誰のスマホが入れ替わったのか、考えるの。",
+      "zh": "想一想掉包的手机是哪两个人的。",
+      "vi": "Hãy nghĩ về hai người bị đổi điện thoại.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn031",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn031|",
+      "ja": "な、何をごちゃごちゃと<br>さえずっているのだ！！",
+      "zh": "你、你们嘀嘀咕咕的<br>\n在说什么呢！！",
+      "vi": "Bạn, bạn đang lẩm bẩm Bạn đang nói về cái gì vậy! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn032",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn032|",
+      "ja": "すぐに証拠が示せないのなら、裁判は終わりだ！",
+      "zh": "再不赶快出示证据，就结束审判！",
+      "vi": "Nếu bằng chứng không được đưa ra càng sớm càng tốt, phiên tòa sẽ kết thúc!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema053",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema053|",
+      "ja": "（間違えちゃったみたい……！）",
+      "zh": "（看来我弄错了……！）",
+      "vi": "(Có vẻ như tôi đã phạm sai lầm...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema054",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema054|",
+      "ja": "（これで犯人がわかるはずなんだ！<br>　慎重に考えよう……！）",
+      "zh": "（这下就能查明凶手是谁了！<br>\n我要谨慎思考……！）",
+      "vi": "(Bây giờ bạn có thể tìm ra kẻ sát nhân là ai! Mình cần suy nghĩ kỹ...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Miria001",
+      "speaker_tag": "; > Miria: |#0102Trial14_Miria001|",
+      "ja": "……きゃあああーーー！！",
+      "zh": "……呀啊啊啊——！！",
+      "vi": "...Ahhhhhh——! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Coco004",
+      "speaker_tag": "; > Coco: |#0102Trial14_Coco004|",
+      "ja": "この声……！",
+      "zh": "这声音是……！",
+      "vi": "Âm thanh này là...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Nanoka015",
+      "speaker_tag": "; > Nanoka: |#0102Trial14_Nanoka015|",
+      "ja": "佐伯ミリアの……悲鳴。",
+      "zh": "佐伯米莉亚的……惨叫。",
+      "vi": "Tiếng hét của Saeki Miria.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Sherry003",
+      "speaker_tag": "; > Sherry: |#0102Trial14_Sherry003|",
+      "ja": "ハンナさんが録音した物と、<br>同じ声でしたね！",
+      "zh": "和汉娜录下来的声音<br>\n一模一样呢！",
+      "vi": "Giọng nói được ghi âm bởi Hanna Hoàn toàn giống nhau!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Hanna003",
+      "speaker_tag": "; > Hanna: |#0102Trial14_Hanna003|",
+      "ja": "どうして……<br>アンアンさんから……！",
+      "zh": "为什么……<br>\n是从安安的手机里……！",
+      "vi": "Tại sao... Là từ điện thoại di động của AnAn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn033",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn033|",
+      "ja": "……あ……これ……は……。",
+      "zh": "……啊……这是……因为……",
+      "vi": "...ah...đây là...bởi vì...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Miria002",
+      "speaker_tag": "; > Miria: |#0102Trial14_Miria002|",
+      "ja": "……あ～、もう～……。<br>こういうビックリ系のホラー、<br>おじさん苦手なんだよね～。",
+      "zh": "……啊～讨厌啦～……<br>\n大叔我不太擅长看这种<br>\n惊吓类的恐怖片嘛～",
+      "vi": "...A~Miria ghét nó~... Bác ơi cháu không hay xem thể loại này lắm Một bộ phim kinh dị đáng sợ~",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Miria003",
+      "speaker_tag": "; > Miria: |#0102Trial14_Miria003|",
+      "ja": "……って録音してない！？<br>も～、恥ずかしいなぁ。<br>そんなのわざわざ送らなくてもいいって、アンアンちゃ――。",
+      "zh": "……呃，你在录音吗！？<br>\n哎呀～好丢人。<br>\n不用特意把这种东西发给我啦，安安——",
+      "vi": "...Ờ, cậu đang ghi âm đấy à! ? Ối~ Xấu hổ quá. Không cần phải đặc biệt gửi những thứ này cho Miria đâu, AnAn——",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn034",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn034|",
+      "ja": "――もう……やめて……！！",
+      "zh": "——够了……别放了……！！",
+      "vi": "---Đủ rồi...đừng buông ra...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema055",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema055|",
+      "ja": "……今のは、ミリアちゃんのスマホのＩＤに<br>電話をかけたんだ。",
+      "zh": "……我刚才给米莉亚的手机ID<br>\n打了电话。",
+      "vi": "…ID điện thoại di động tôi vừa đưa cho Miria Đã thực hiện cuộc gọi.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema056",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema056|",
+      "ja": "つまり……今アンアンちゃんが持ってるのは<br>ミリアちゃんのスマホっていう事だよ。",
+      "zh": "也就是说……现在安安拿着的手机<br>\n是米莉亚的。",
+      "vi": "Nói cách khác...chiếc điện thoại di động AnAn đang cầm lúc này là Đó là của Miria.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema057",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema057|",
+      "ja": "……佐伯ミリアちゃんを殺した犯人は、キミだ――。",
+      "zh": "……杀害佐伯米莉亚的凶手，就是你——",
+      "vi": "...Kẻ sát hại Miria Saeba chính là ngươi——",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Ema058",
+      "speaker_tag": "; > Ema: |#0102Trial14_Ema058|",
+      "ja": "――夏目アンアンちゃん！！",
+      "zh": "——夏目安安！！",
+      "vi": "——AnAn！！",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn035",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn035|",
+      "ja": "う……あ…………。",
+      "zh": "呃……啊…………",
+      "vi": "Ờ... à...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo010",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo010|",
+      "ja": "……あらあら。<br>意外と詰めが甘いのね？",
+      "zh": "……哎呀呀。<br>\n没想到你会在关键时刻掉链子呢？",
+      "vi": "...Rất tiếc. Không ngờ vào thời điểm quan trọng mình lại rơi khỏi dây xích?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo011",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo011|",
+      "ja": "自分のスマホとすり替えた後、<br>設定をそのままにしてたなんて……。",
+      "zh": "掉包完手机以后<br>\n居然没有更改设置……",
+      "vi": "Sau khi đổi điện thoại, Chị vẫn chưa thay đổi cài đặt ...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn036",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn036|",
+      "ja": "……データを消しても<br>スマホのＩＤは変わらない……。",
+      "zh": "……就算删掉数据<br>\n手机ID也不会变……",
+      "vi": "...ngay cả khi dữ liệu bị xóa ID điện thoại di động cũng sẽ không thay đổi...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn037",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn037|",
+      "ja": "入れ替えに気付かれ、<br>ミリアのスマホが鳴らされた時点で……。",
+      "zh": "在掉包一事败露，<br>\n米莉亚手机响铃的那一刻……",
+      "vi": "Khi sự cố hoán đổi gói bị lộ, Khoảnh khắc điện thoại của Miria reo lên…",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn038",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn038|",
+      "ja": "わがはいの、負けだ。",
+      "zh": "就意味着吾辈输了。",
+      "vi": "Nó có nghĩa là chúng ta thua.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_Margo012",
+      "speaker_tag": "; > Margo: |#0102Trial14_Margo012|",
+      "ja": "それでも……データを消しておけば、<br>言いわけぐらいはできたと思うけどね？",
+      "zh": "不过……只要你把数据删掉，<br>\n总能找到借口蒙混过关吧？",
+      "vi": "Nhưng...miễn là em xóa dữ liệu, Bạn luôn có thể tìm ra một cái cớ để thoát khỏi nó, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn039",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn039|",
+      "ja": "……バカを、言うな……。",
+      "zh": "……说什么蠢话呢……",
+      "vi": "...Cậu đang nói những điều ngu ngốc gì vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn040",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn040|",
+      "ja": "わがはいの、大事な友人との……<br>最後の思い出を……。",
+      "zh": "吾辈……<br>\n怎么可能删掉……",
+      "vi": "Chúng tôi... Sao có thể xóa được...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial14_AnAn041",
+      "speaker_tag": "; > AnAn: |#0102Trial14_AnAn041|",
+      "ja": "消せるわけ……ないだろう……。",
+      "zh": "和挚友留下的……最终回忆……",
+      "vi": "Những kỷ niệm cuối cùng với người bạn thân nhất của tôi...",
+      "objection_links": []
+    }
+  ]
+}

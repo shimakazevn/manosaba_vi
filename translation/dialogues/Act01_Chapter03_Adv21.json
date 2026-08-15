@@ -1,0 +1,80 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter03_Adv21",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter03/Act01_Chapter03_Adv21' Naninovel scenario script",
+  "total_entries": 9,
+  "entries": [
+    {
+      "id": "0103Adv21_Narrative001",
+      "speaker_tag": "",
+      "ja": "エマは火事の起こったゲストハウスの並ぶ棟、<br>中間にある【<ruby=\"ウンディーネ\">水精</ruby>の間】へ入った。",
+      "zh": "艾玛走进招待所之中<br>\n位处中部的【水精之室】。",
+      "vi": "Ema bước vào Nhà Khách [Phòng Thủy Thần] nằm ở giữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv21_Narrative002",
+      "speaker_tag": "",
+      "ja": "火事が起こった建物ではないので、<br>中は元のままだった。",
+      "zh": "由于火灾并未波及这里，<br>\n房间仍保持着原样。",
+      "vi": "Vì lửa không lan rộng ở đây nên Các phòng vẫn giữ nguyên như cũ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv21_Ema001",
+      "speaker_tag": "; > Ema: |#0103Adv21_Ema001|",
+      "ja": "（ここには何もないみたいだ……）",
+      "zh": "（这里好像什么都没有……）",
+      "vi": "(Dường như chẳng có gì ở đây...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv21_Ema002",
+      "speaker_tag": "; > Ema: |#0103Adv21_Ema002|",
+      "ja": "（ゴクチョーの像が立ってる……）",
+      "zh": "（有一座典狱长的雕像……）",
+      "vi": "(Có một bức tượng của người cai ngục...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv21_Narrative003",
+      "speaker_tag": "",
+      "ja": "そう思ってエマが像を触ると、それはバランスを崩して<br>倒れそうになる。",
+      "zh": "艾玛想着，并伸手触碰雕像时，<br>\n雕像失去平衡，差点倒下。",
+      "vi": "Ema suy nghĩ và đưa tay chạm vào bức tượng, Bức tượng mất thăng bằng và suýt ngã.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv21_Ema003",
+      "speaker_tag": "; > Ema: |#0103Adv21_Ema003|",
+      "ja": "うわっ！？",
+      "zh": "哇！？",
+      "vi": "Ôi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv21_Narrative004",
+      "speaker_tag": "",
+      "ja": "<ruby=\"とっさ\">咄嗟</ruby>にエマはそれを支え、慎重に手を離した。",
+      "zh": "艾玛急忙扶住雕像，小心翼翼地松开手。",
+      "vi": "Ema vội vàng ôm lấy bức tượng rồi cẩn thận buông ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv21_Ema004",
+      "speaker_tag": "; > Ema: |#0103Adv21_Ema004|",
+      "ja": "（……この像、重心が不安定みたいだ。<br>　作りのせいかな……？）",
+      "zh": "（……这座雕像的重心似乎不太稳定。<br>\n是制作的问题吗……？）",
+      "vi": "(…Trọng tâm của bức tượng có vẻ không ổn định. Có phải là vấn đề sản xuất...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv21_Narrative005",
+      "speaker_tag": "",
+      "ja": "その後、室内を軽く物色してみたが特に何も見つからず、<br>エマは建物から出た。",
+      "zh": "之后，艾玛简单搜查了一下室内，但没有发现特别的线索，<br>\n便离开了建筑。",
+      "vi": "Sau đó, Ema lục soát căn phòng một thời gian ngắn nhưng không tìm thấy manh mối đặc biệt nào, Sau đó rời khỏi tòa nhà.",
+      "objection_links": []
+    }
+  ]
+}

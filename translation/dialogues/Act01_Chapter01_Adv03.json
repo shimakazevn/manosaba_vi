@@ -1,0 +1,248 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Adv03",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Adv03' Naninovel scenario script",
+  "total_entries": 30,
+  "entries": [
+    {
+      "id": "0101Adv03_Narrative001",
+      "speaker_tag": "",
+      "ja": "先ほどエマが<ruby=\"てつごうし\">鉄格子</ruby>に<ruby=\"すが\">縋</ruby>りついた時に<br>かたく閉ざされていた扉は、あっさり開いた。",
+      "zh": "刚才艾玛抓着铁栅栏时还紧锁着的门，<br>\n如今轻轻一推就打开了。",
+      "vi": "Cánh cửa mà lúc nãy Ema bám vào song sắt vẫn còn khóa chặt, giờ đây chỉ cần đẩy nhẹ là đã mở toang.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative002",
+      "speaker_tag": "",
+      "ja": "エマはすぐにヒロの後を追って通路へと出る。",
+      "zh": "艾玛马上跟在希罗身后，来到过道上。",
+      "vi": "Ema lập tức chạy theo sau Hiro để bước ra hành lang.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Ema001",
+      "speaker_tag": "; > Ema: |#0101Adv03_Ema001|",
+      "ja": "ま、待ってよヒロちゃん！",
+      "zh": "等、等我一下，希罗！",
+      "vi": "Đ-Đợi mình với, Hiro-chan!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative003",
+      "speaker_tag": "",
+      "ja": "通路には、ヒロのほかにも<br>たくさんの少女たちが現れていた。",
+      "zh": "过道上又出现了<br>\n许多名少女。",
+      "vi": "Ngoài hành lang, bên cạnh Hiro còn có sự xuất hiện của rất nhiều thiếu nữ khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative004",
+      "speaker_tag": "",
+      "ja": "声をあげたエマの方へと視線が注がれる。<br>エマにとって、ヒロ以外は全員見たこともない少女たち。",
+      "zh": "少女们的视线都集中在了艾玛身上。<br>\n除了希罗，艾玛并未见过这些少女。",
+      "vi": "Ánh mắt của mọi người đổ dồn về phía Ema khi cô cất tiếng. Ngoại trừ Hiro, toàn bộ những thiếu nữ ở đây Ema đều chưa từng gặp mặt bao giờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Ema002",
+      "speaker_tag": "; > Ema: |#0101Adv03_Ema002|",
+      "ja": "（良かった……全員中学の頃の同級生だったら<br>　どうしようかと……）",
+      "zh": "（太好了……我还在想，<br>\n要是全部人都是初中的同学，我该怎么办呢……）",
+      "vi": "（May quá... Mình cứ lo nếu tất cả mọi người đều là bạn học hồi cấp hai thì biết phải làm sao nữa...）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative005",
+      "speaker_tag": "",
+      "ja": "ただ、年の頃は全員同年代に見える。<br>エマやヒロ同様、不思議な服装に身を包んでいた。",
+      "zh": "但，所有人的年纪看起来都和自己差不多。<br>\n跟艾玛和希罗一样，她们都身穿奇妙的衣裳。",
+      "vi": "Tuy nhiên, trạc tuổi của mọi người trông đều sàn sàn như nhau. Giống như Ema và Hiro, họ đều khoác lên mình những bộ trang phục kỳ lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative006",
+      "speaker_tag": "",
+      "ja": "そして、通路の先には黒衣の異形が歩いている。",
+      "zh": "而过道前方，一个黑衣异形正在走动着。",
+      "vi": "Và ở phía cuối hành lang, một sinh vật dị hình khoác áo choàng đen đang chậm rãi bước đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Ema003",
+      "speaker_tag": "; > Ema: |#0101Adv03_Ema003|",
+      "ja": "（あの異形が看守ってことなのかな）",
+      "zh": "（那个异形就是所谓的看守吧）",
+      "vi": "（Sinh vật dị hình kia chính là người cai ngục sao?）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative007",
+      "speaker_tag": "",
+      "ja": "他の少女たちも青ざめ戸惑いながらも、<br>看守の後について歩き始めている。",
+      "zh": "其他少女也吓得脸色煞白，不知所措，<br>\n只好跟随看守开始移动。",
+      "vi": "Những thiếu nữ khác dù gương mặt tái mét và bối rối, cũng đành phải bước đi theo sau người cai ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative008",
+      "speaker_tag": "",
+      "ja": "ヒロも、エマよりずいぶん先を歩いていた。<br>エマは小走りに追いつく。",
+      "zh": "希罗远远走在了艾玛前边。<br>\n艾玛小跑着追赶着她。",
+      "vi": "Hiro cũng đã đi trước Ema một đoạn khá xa. Ema vội vã rảo bước đuổi theo.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Ema004",
+      "speaker_tag": "; > Ema: |#0101Adv03_Ema004|",
+      "ja": "ヒロちゃん！",
+      "zh": "希罗！",
+      "vi": "Hiro-chan!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Hiro001",
+      "speaker_tag": "; > Hiro: |#0101Adv03_Hiro001|",
+      "ja": "……。",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Ema005",
+      "speaker_tag": "; > Ema: |#0101Adv03_Ema005|",
+      "ja": "あの、あのね。色々あったけど、<br>ヒロちゃんにまた会えてよかった。",
+      "zh": "听、听我说。虽然发生了这样那样的事，<br>\n不过还能见到希罗你，真是太好了。",
+      "vi": "N-Này, cậu nghe mình nói đi. Dù đã có nhiều chuyện xảy ra, nhưng được gặp lại cậu như thế này... mình vui lắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Ema006",
+      "speaker_tag": "; > Ema: |#0101Adv03_Ema006|",
+      "ja": "ボク、変わったんだよ。<br>もう前のボクじゃない。<br>ヒロちゃんと友だちになりたいんだ。",
+      "zh": "我已经下决心改变了，<br>\n已经不是过去的我了。<br>\n我想和你做朋友。",
+      "vi": "Mình đã thay đổi rồi. Không còn là mình của ngày xưa nữa đâu. Mình thật sự muốn làm bạn lại với Hiro-chan mà.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Hiro002",
+      "speaker_tag": "; > Hiro: |#0101Adv03_Hiro002|",
+      "ja": "……。",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative009",
+      "speaker_tag": "",
+      "ja": "ヒロはエマを存在ごと無視することに決めたのか、<br>歩みを止めない。",
+      "zh": "希罗似乎决意要无视艾玛，<br>\n没有放慢脚步。",
+      "vi": "Hiro dường như quyết định coi sự hiện diện của Ema như không tồn tại, bước chân không hề chậm lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Ema007",
+      "speaker_tag": "; > Ema: |#0101Adv03_Ema007|",
+      "ja": "ボ、ボク諦めないから！",
+      "zh": "我，我不会放弃的！",
+      "vi": "M-Mình nhất định sẽ không bỏ cuộc đâu!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Hiro003",
+      "speaker_tag": "; > Hiro: |#0101Adv03_Hiro003|",
+      "ja": "っ……。",
+      "zh": "……",
+      "vi": "Hừ……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative010",
+      "speaker_tag": "",
+      "ja": "ぎりっと強く奥歯を噛みしめる音が響き、<br>ヒロはエマへと振り向く。",
+      "zh": "希罗发出咬牙切齿的声音，<br>\n转过身来面向艾玛。",
+      "vi": "Tiếng nghiến răng ken két vang lên đầy giận dữ, Hiro bực bội quay ngoắt lại nhìn Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative011",
+      "speaker_tag": "",
+      "ja": "そして、思い切りエマを突き飛ばした。",
+      "zh": "然后，毫不犹豫地推了艾玛一下。",
+      "vi": "Rồi thẳng tay đẩy mạnh một cú khiến Ema ngã nhào.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Ema008",
+      "speaker_tag": "; > Ema: |#0101Adv03_Ema008|",
+      "ja": "あうっ",
+      "zh": "呀！",
+      "vi": "A đau quá...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative012",
+      "speaker_tag": "",
+      "ja": "エマはその場に転がる。<br>硬い石の床で、膝をすりむいた。",
+      "zh": "艾玛当即摔倒在地，<br>\n膝盖擦在坚硬的石地板上。",
+      "vi": "Ema ngã lăn ra đất, đầu gối chà xát xuống nền đá cứng ngắc đau buốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative013",
+      "speaker_tag": "",
+      "ja": "怪我をさせた当人のヒロは、<br>憎々しげにエマを見下ろしている。",
+      "zh": "而动手伤人的希罗<br>\n正恶狠狠地俯视着艾玛。",
+      "vi": "Còn kẻ vừa ra tay là Hiro thì đang nhìn xuống Ema với ánh mắt hằn học đầy căm ghét.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Hiro004",
+      "speaker_tag": "; > Hiro: |#0101Adv03_Hiro004|",
+      "ja": "君が変わったとして、<br>そのことが、私になんの意味が？",
+      "zh": "你改变了，<br>\n跟我有什么关系？",
+      "vi": "Cho dù cậu có thay đổi đi chăng nữa, thì điều đó có ý nghĩa quái gì với tôi chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Hiro005",
+      "speaker_tag": "; > Hiro: |#0101Adv03_Hiro005|",
+      "ja": "私が君を嫌いなことは変わらない。<br>この先永遠に。",
+      "zh": "我讨厌你的事实不会改变。<br>\n永远不会。",
+      "vi": "Sự thật là tôi ghét cậu sẽ chẳng bao giờ thay đổi đâu. Mãi mãi về sau cũng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative014",
+      "speaker_tag": "",
+      "ja": "威圧的に言って、<br>ヒロは<ruby=\"きびす\">踵</ruby>を返して去っていく。",
+      "zh": "希罗凶巴巴地说道，<br>\n然后转身离去。",
+      "vi": "Thốt ra những lời đe dọa lạnh lùng ấy xong, Hiro quay gót bỏ đi một mạch.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Ema009",
+      "speaker_tag": "; > Ema: |#0101Adv03_Ema009|",
+      "ja": "ま、待ってよ……！",
+      "zh": "等、等下……！",
+      "vi": "Đ-Đợi mình với mà……!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Unknown001",
+      "speaker_tag": "; > Unknown: |#0101Adv03_Unknown001|",
+      "ja": "ふむ……。",
+      "zh": "唔……",
+      "vi": "Hừm……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv03_Narrative015",
+      "speaker_tag": "",
+      "ja": "水色髪の少女が、興味深げに２人を見ていた。",
+      "zh": "一位水蓝色头发的少女，正兴致勃勃地观察着二人。",
+      "vi": "Một thiếu nữ có mái tóc màu xanh nước biển đang đứng nhìn hai người với ánh mắt đầy vẻ thích thú.",
+      "objection_links": []
+    }
+  ]
+}

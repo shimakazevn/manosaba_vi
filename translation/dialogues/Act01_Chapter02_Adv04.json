@@ -1,0 +1,808 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter02_Adv04",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter02/Act01_Chapter02_Adv04' Naninovel scenario script",
+  "total_entries": 100,
+  "entries": [
+    {
+      "id": "0102Adv04_Narrative001",
+      "speaker_tag": "",
+      "ja": "翌日、午後の自由時間。<br>エマたちは再びマーゴに呼ばれ、図書室を訪れた。",
+      "zh": "第二天下午的放风时间，<br>\n艾玛一行人又被玛格叫去了图书室。",
+      "vi": "Phút thư giãn buổi chiều ngày thứ hai, Ema và nhóm của cô lại được Mag gọi đến Thư Viện.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative002",
+      "speaker_tag": "",
+      "ja": "ミリアとアンアン、メルルは来ていない。<br>しかし昨日のメンバーに加えて、ココが来ていた。",
+      "zh": "米莉亚和安安，还有梅露露都没来。<br>\n不过可可倒是来了。",
+      "vi": "Miria, AnAn và Meruru đều không đến. Nhưng Coco đang ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative003",
+      "speaker_tag": "",
+      "ja": "ココは少し離れた場所で椅子に腰掛け、<br>だるそうにスマホをいじっている。",
+      "zh": "可可坐在离其他人稍远的椅子上，<br>\n正无精打采地玩手机。",
+      "vi": "Coco ngồi trên ghế cách xa những người khác một chút, Anh ấy đang chơi game bơ phờ trên điện thoại di động.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema001",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema001|",
+      "ja": "マーゴちゃん、今日はなんで図書室に……？",
+      "zh": "玛格，今天喊我们来图书室有什么事……？",
+      "vi": "Margo, tại sao hôm nay bạn lại gọi chúng tôi đến Thư Viện...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo001",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo001|",
+      "ja": "ウフフ、そんなに警戒しないで。<br>今日は営業じゃないわ。",
+      "zh": "呵呵呵，不用那么警惕。<br>\n今天我不是来推销的。",
+      "vi": "Hahaha, đừng quá cảnh giác. Hôm nay Chị không ở đây để bán cho em.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo002",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo002|",
+      "ja": "図書室の本を調べてまわったのだけど、<br>興味深いものを見つけたの。<br>みんなにも見てもらおうと思って。",
+      "zh": "我翻了一圈图书室里的书，<br>\n找到本很有意思的书，<br>\n所以想给大家也看一看。",
+      "vi": "Chị lật qua các cuốn sách trong Thư Viện, Đã tìm thấy một cuốn sách rất thú vị, Vì vậy Chị muốn đưa nó cho mọi người xem.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema002",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema002|",
+      "ja": "（マーゴちゃんって悠然としてるように見えるけど……<br>　実はすごく行動力があるのかも……）",
+      "zh": "（玛格虽然看起来悠哉游哉的……<br>\n但说不定其实她行动力很强……）",
+      "vi": "(Mặc dù Margo có vẻ vô tư... Nhưng có lẽ cô ấy thực sự có khả năng di chuyển rất mạnh...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative004",
+      "speaker_tag": "",
+      "ja": "この監獄に捕まってから、<br>マーゴが一番精力的かつ<br>有意義な行動をしているように見える。",
+      "zh": "自从大家被抓到监狱以来，<br>\n玛格似乎是精力最充沛的那个，<br>\n她做的事也是最有意义的。",
+      "vi": "Vì mọi người đều bị bắt vào tù nên Margo có vẻ là người năng động nhất, Những gì cô ấy làm cũng là điều ý nghĩa nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema003",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema003|",
+      "ja": "（ボクよりマーゴちゃんの方がしっかりしてて<br>　リーダー向きなんじゃ………）",
+      "zh": "（也许玛格比我<br>\n更适合做队长………）",
+      "vi": "(Có lẽ Magoo hơn tôi Thích hợp hơn để làm đội trưởng......)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative005",
+      "speaker_tag": "",
+      "ja": "エマはその考えを追い払うように、<br>頭を振った。",
+      "zh": "艾玛摇摇头，<br>\n赶走脑海中浮现的想法。",
+      "vi": "Ema lắc đầu, Hãy loại bỏ những suy nghĩ hiện lên trong đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema004",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema004|",
+      "ja": "（今はそんなこと気にしててもしょうがない……！<br>　せっかくマーゴちゃんが協力的になってくれたんだ）",
+      "zh": "（现在想那么多也没有用……！<br>\n好不容易争取到了玛格的协助）",
+      "vi": "(Bây giờ nghĩ nhiều cũng vô ích...! Cuối cùng cũng nhận được sự giúp đỡ của Mag)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema005",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema005|",
+      "ja": "興味深いものってなんだろう？",
+      "zh": "你说的是什么书？",
+      "vi": "Bạn đang nói về cuốn sách nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo003",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo003|",
+      "ja": "この本よ。",
+      "zh": "就是这本。",
+      "vi": "Đây là nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative006",
+      "speaker_tag": "",
+      "ja": "マーゴが机の上に置いたのは、<br>豪華な装丁の、とても分厚い本だった。",
+      "zh": "玛格放在桌上的书<br>\n装帧豪华，十分厚重。",
+      "vi": "Cuốn sách Margo đặt trên bàn Bìa sách sang trọng và rất nặng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo004",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo004|",
+      "ja": "魔女のことが記された本なの。今のところ、<br>この本以外で魔女のことを記したものは見つけられていない。",
+      "zh": "上面记载了有关魔女的知识。目前，<br>\n我只找到了这一本和魔女有关的书。",
+      "vi": "Nó chứa thông tin về phù thủy. Hiện tại, Chị chỉ tìm thấy cuốn sách này về phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Sherry001",
+      "speaker_tag": "; > Sherry: |#0102Adv04_Sherry001|",
+      "ja": "ほうほう、どれどれ。",
+      "zh": "这样啊，让我看看。",
+      "vi": "Thế đấy, để tôi xem nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative007",
+      "speaker_tag": "",
+      "ja": "シェリーが本を開きページをぺらぺらめくると、<br>ハンナは慌てた。",
+      "zh": "雪莉翻开书，哗啦啦地翻了起来。<br>\n这时汉娜却有些着急了。",
+      "vi": "Sherry mở cuốn sách và lật qua nó. Lúc này, Hanna có chút lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Hanna001",
+      "speaker_tag": "; > Hanna: |#0102Adv04_Hanna001|",
+      "ja": "あっ、あなた乱暴に扱わないでくださいまし！？<br>本が破壊されてしまいますわ！？",
+      "zh": "可、可以请你不要那样粗暴地翻阅吗！？<br>\n书都要被你弄坏了哦！？",
+      "vi": "Nhưng, bạn có thể vui lòng ngừng đọc một cách thô bạo như vậy được không? ? Những cuốn sách sẽ bị hư hỏng bởi bạn! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Sherry002",
+      "speaker_tag": "; > Sherry: |#0102Adv04_Sherry002|",
+      "ja": "……私のことなんだと思ってるんです？",
+      "zh": "……你把我当成什么人了？",
+      "vi": "…Bạn nghĩ tôi là ai?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Sherry003",
+      "speaker_tag": "; > Sherry: |#0102Adv04_Sherry003|",
+      "ja": "それにしてもこの本私には読めないみたいです。",
+      "zh": "不过话说回来，我看不懂这本书耶。",
+      "vi": "Nhưng nói như vậy thì tôi không thể hiểu được cuốn sách này.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative008",
+      "speaker_tag": "",
+      "ja": "エマも興味津々に、本を<ruby=\"のぞ\">覗</ruby>き込んだ。",
+      "zh": "艾玛也兴趣盎然地看起书来。",
+      "vi": "Ema cũng đọc cuốn sách một cách rất thích thú.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo005",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo005|",
+      "ja": "ふふ。 どう？ 不思議な文字でしょう？",
+      "zh": "呵呵呵。怎样？这文字很奇特吧？",
+      "vi": "Hahaha. Làm sao? Chẳng phải văn bản này rất lạ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema006",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema006|",
+      "ja": "マーゴちゃん、まさか解読できるの！？",
+      "zh": "玛格，难道你能看得懂！？",
+      "vi": "Margo, bạn có hiểu không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo006",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo006|",
+      "ja": "いいえ、できないわ。",
+      "zh": "不，我看不懂。",
+      "vi": "Không, Chị không thể hiểu nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative009",
+      "speaker_tag": "",
+      "ja": "マーゴは愉快そうにくすくすと笑う。",
+      "zh": "玛格愉快地扑哧一笑。",
+      "vi": "Margo cười khúc khích vui vẻ.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo007",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo007|",
+      "ja": "ただこの本、図解が多いの。<br>だから魔女について書かれているってわかったのよ。",
+      "zh": "但这本书里有很多图解。<br>\n所以我才知道书上写了和魔女有关的东西。",
+      "vi": "Nhưng có rất nhiều hình ảnh minh họa trong cuốn sách này. Đó là lý do tại sao Chị phát hiện ra rằng cuốn sách có liên quan đến phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo008",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo008|",
+      "ja": "ほら、これなんかは私たちの魔法について<br>描かれてるんじゃないかしら。",
+      "zh": "你看，这张图画的<br>\n是不是我们的魔法。",
+      "vi": "Bạn thấy đấy, của bức ảnh này Đó chẳng phải là phép thuật của chúng ta sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Sherry004",
+      "speaker_tag": "; > Sherry: |#0102Adv04_Sherry004|",
+      "ja": "あ！ 本当です！<br>この絵の女の子、ちょっと浮いてる！",
+      "zh": "啊！真的耶！<br>\n这张画上的女孩有一点飘起来了！",
+      "vi": "À! Thật sự! Cô gái trong bức tranh này hơi lơ lửng một chút!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative010",
+      "speaker_tag": "",
+      "ja": "古びたイラストで図解されている少女が、<br>宙に浮いていた。",
+      "zh": "那张老旧的插图<br>\n画有一位飘在空中的少女。",
+      "vi": "Hình minh họa cũ đó Bức tranh vẽ một cô gái đang lơ lửng trên không trung.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative011",
+      "speaker_tag": "",
+      "ja": "そしてその隣の絵では、<br>大空を滑空しているように見える。",
+      "zh": "而它旁边的那张画，<br>\n好像是一位少女在空中滑翔。",
+      "vi": "Và bức tranh bên cạnh, Có vẻ như một cô gái đang lướt trên không trung.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo009",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo009|",
+      "ja": "ね？ 興味深いでしょう？<br>私たちの魔法がどう進化するか読み解ける。",
+      "zh": "我就说很有意思吧？<br>\n能从中解读出我们的魔法会怎样进化。",
+      "vi": "Hãy để Chị nói nó thú vị, phải không? Có thể giải mã phép thuật của chúng ta sẽ phát triển như thế nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Hanna002",
+      "speaker_tag": "; > Hanna: |#0102Adv04_Hanna002|",
+      "ja": "この本の情報が正しければ……<br>わたくしの魔法は強くなったら<br>もっと上空を飛べますわ！",
+      "zh": "如果这本书的内容没错的话……<br>\n那我的魔法变强以后<br>\n就可以飞得更高了！",
+      "vi": "Nếu nội dung cuốn sách này đúng... Rồi khi phép thuật của Bổn tiểu thư trở nên mạnh mẽ hơn Bạn có thể bay cao hơn!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema007",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema007|",
+      "ja": "ハンナちゃんの魔法が強くなったら<br>塀を越えられるかもしれない……！",
+      "zh": "等你的魔法变强<br>\n说不定能飞过围墙……！",
+      "vi": "Đợi cho đến khi phép thuật của bạn trở nên mạnh mẽ hơn Có lẽ anh ta có thể bay qua tường...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative012",
+      "speaker_tag": "",
+      "ja": "ハンナとエマは希望を見出したのか、<br>合わせた目を輝かせた。",
+      "zh": "汉娜和艾玛似乎寻觅到了一丝希望，<br>\n她们两眼放光地看向彼此。",
+      "vi": "Hanna và Ema dường như đã tìm thấy một tia hy vọng, Họ nhìn nhau với đôi mắt sáng ngời.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Sherry005",
+      "speaker_tag": "; > Sherry: |#0102Adv04_Sherry005|",
+      "ja": "ん……？ でも、魔法が強くなったら、<br>魔女化が進むってことですよね……？",
+      "zh": "嗯……？可是，魔法变强的话，<br>\n也就意味着进一步魔女化吧……？",
+      "vi": "Ừm...? Tuy nhiên, nếu phép thuật trở nên mạnh mẽ hơn, Điều này có nghĩa là sẽ tiếp tục biến thành phù thủy, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Hanna003",
+      "speaker_tag": "; > Hanna: |#0102Adv04_Hanna003|",
+      "ja": "ぐ、そ、そうでしたわ……。<br>【なれはて】にはなりたくありませんわ……。",
+      "zh": "呃，说、说得也对……<br>\n我可不想变成【残骸】……",
+      "vi": "Ờ đúng rồi... Bổn tiểu thư không muốn trở thành một [xác tàu]...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo010",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo010|",
+      "ja": "殺人衝動も高まって、私たちに危険が及ぶ。<br>おススメはしないわね。",
+      "zh": "不仅会加重杀意，还会危及我们的生命。<br>\n这可不是个好主意。",
+      "vi": "Nó không những làm trầm trọng thêm ý định giết người mà còn gây nguy hiểm đến tính mạng của chúng ta. Đây không phải là một ý tưởng tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema008",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema008|",
+      "ja": "ダメかあ……。",
+      "zh": "还是不行啊……",
+      "vi": "Vẫn không hoạt động...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative013",
+      "speaker_tag": "",
+      "ja": "エマはがっくりと肩を落とし、<br>何かヒントが見つけられないかと<br>再度本に目を落とした。",
+      "zh": "艾玛感到很失落，<br>\n她想找到新的线索，<br>\n目光又回到书上。",
+      "vi": "Ema cảm thấy lạc lõng, Cô ấy muốn tìm manh mối mới, Mắt anh quay lại với cuốn sách.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative014",
+      "speaker_tag": "",
+      "ja": "すると、たくさんの魔女が手を<ruby=\"つな\">繋</ruby>いで囲み、<br>いかにも偉そうな魔女が降臨している風の図解があった。",
+      "zh": "这时她看见一幅图解。图画上，众多魔女手牵手围在一起，<br>\n而一名威严十足的魔女正在降临。",
+      "vi": "Sau đó cô nhìn thấy một sơ đồ. Trong ảnh, nhiều phù thủy đang nắm tay nhau và vây quanh nhau, Và một phù thủy uy nghiêm đang đến.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema009",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema009|",
+      "ja": "この人は、魔女のリーダーみたいな存在なのかな……？",
+      "zh": "这个人，是不是类似于魔女的领袖……？",
+      "vi": "Người này có giống với thủ lĩnh của các phù thủy không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo011",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo011|",
+      "ja": "おそらくそうでしょうね。<br>一般的な伝承でも、魔女にはリーダーがいる。",
+      "zh": "恐怕是的。<br>\n在常见的传说中，魔女也都是有领袖的。",
+      "vi": "Chị e là vậy. Trong những truyền thuyết thông thường, phù thủy cũng có người lãnh đạo.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo012",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo012|",
+      "ja": "全ての魔女を統治する――【大魔女】。",
+      "zh": "统治所有魔女的领袖——【大魔女】。",
+      "vi": "Người lãnh đạo cai trị tất cả các phù thủy——[The Great Witch].",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo013",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo013|",
+      "ja": "この図解は【サバト】かしら？<br>魔女たちが大魔女を呼んでいるように見えるわね。",
+      "zh": "这幅图解是【<ruby=\"Sabbath\">魔女的安息日</ruby>】吗？<br>\n看起来像是魔女们在召唤大魔女。",
+      "vi": "Đây có phải là hình minh họa [<ruby=\"Sabbath\">Ngày sa-bát của phù thủy</ruby>] không? Có vẻ như các phù thủy đang triệu tập phù thủy vĩ đại.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo014",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo014|",
+      "ja": "文字さえ解読できたら、<br>もっと詳細に内容がわかりそうなのだけど。",
+      "zh": "如果能解读出文字的话，<br>\n就能知道更详细的内容了。",
+      "vi": "Nếu em có thể giải mã được văn bản, Bạn có thể biết thêm chi tiết.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema010",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema010|",
+      "ja": "（大魔女か……もしかして、黒幕がそれなのかな……？）",
+      "zh": "（大魔女……难道那就是幕后黑手……？）",
+      "vi": "(Bà phù thủy lớn... đó có phải là kẻ chủ mưu đằng sau hậu trường không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative015",
+      "speaker_tag": "",
+      "ja": "エマの頭の中に思い浮かんだのは、<br>ミリアの姿だった。<br>それを慌てた様子で振り払う。",
+      "zh": "艾玛的脑海中浮现出<br>\n米莉亚的身影。<br>\n她连忙甩开这个念头。",
+      "vi": "hiện lên trong tâm trí Ema Hình bóng của Miria. Cô nhanh chóng rũ bỏ suy nghĩ đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema011",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema011|",
+      "ja": "（ナノカちゃんが疑ってるだけだし、<br>　ミリアちゃんが黒幕って決まったわけじゃない）",
+      "zh": "（只是奈叶香怀疑她而已，<br>\n米莉亚也不一定就是幕后黑手）",
+      "vi": "(Chỉ có Nanoyaka là người nghi ngờ cô ấy, Miria không nhất thiết phải là kẻ chủ mưu đằng sau hậu trường)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative016",
+      "speaker_tag": "",
+      "ja": "マーゴは息をついて一度本を閉じ、<br>エマたちの方へ目を向けた。",
+      "zh": "玛格叹了口气将书合上，<br>\n看向艾玛她们。",
+      "vi": "Margo thở dài và đóng cuốn sách lại, Hãy nhìn Ema và những người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo015",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo015|",
+      "ja": "ハンナちゃんの魔法は難しいけれど、<br>魔法を使えば脱獄は可能かもしれない。<br>その話し合いがしたかったの。",
+      "zh": "我想和大家商量的就是，<br>\n虽然汉娜的魔法没法指望，<br>\n不过我们也许可以用其他魔法越狱。",
+      "vi": "Điều Chị muốn thảo luận với em là Mặc dù không thể tin vào phép thuật của Hanna, Nhưng chúng ta có thể trốn thoát bằng phép thuật khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema012",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema012|",
+      "ja": "そうだね……！<br>改めてみんなの魔法を確認してみよう。",
+      "zh": "对哦……！<br>\n我们再确认一遍各自的魔法吧。",
+      "vi": "Vâng...! Hãy xác nhận phép thuật tương ứng của chúng ta một lần nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema013",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema013|",
+      "ja": "って、ごめん……ボクは、<br>ボク自身の魔法がなんなのかわかってないや……。",
+      "zh": "呃，抱歉……我连自己的魔法<br>\n都搞不清楚是什么……",
+      "vi": "Uh, xin lỗi...tôi thậm chí còn không thể sử dụng phép thuật của mình Tôi thậm chí không thể hiểu nó là gì...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative017",
+      "speaker_tag": "",
+      "ja": "はいはーいと元気よく、シェリーが手を挙げた。",
+      "zh": "雪莉举起手，劲头十足地抢先发言。",
+      "vi": "Sherry giơ tay và nói một cách hăng hái.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Sherry006",
+      "speaker_tag": "; > Sherry: |#0102Adv04_Sherry006|",
+      "ja": "私は力が強いです！",
+      "zh": "我的魔法是怪力！",
+      "vi": "Phép thuật của tôi là sức mạnh kỳ lạ!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Sherry007",
+      "speaker_tag": "; > Sherry: |#0102Adv04_Sherry007|",
+      "ja": "ただ、誰かの魔法でもかかっているのか<br>あの塀は私の力をもっても壊せません。<br>のぼるのも不可能でした。",
+      "zh": "但那堵围墙可能是施了什么魔法，<br>\n连我的能力都无法破坏，<br>\n也没办法爬上去。",
+      "vi": "Nhưng bức tường đó có thể bị mê hoặc, Ngay cả khả năng của tôi cũng không thể bị phá hủy, Không có cách nào để leo lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Sherry008",
+      "speaker_tag": "; > Sherry: |#0102Adv04_Sherry008|",
+      "ja": "マーゴさんの魔法はなんなんでしょう！？",
+      "zh": "玛格你的魔法是什么呢！？",
+      "vi": "Margo phép thuật của bạn là gì! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative018",
+      "speaker_tag": "",
+      "ja": "マーゴは軽く息を吐き、肩をすくめた。",
+      "zh": "玛格轻轻吐了口气，耸耸肩说。",
+      "vi": "Margo thở ra và nhún vai.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo016",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo016|",
+      "ja": "私は自分の声を自在に変えられるの。<br>たとえば――。",
+      "zh": "我可以自由变换自己的声音。<br>\n比如像这样——",
+      "vi": "Chị có thể tự do thay đổi giọng nói của mình. Ví dụ, những thứ như thế này——",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo017",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo017|",
+      "ja": "ボクは桜羽エマだよ！",
+      "zh": "我是樱羽艾玛！",
+      "vi": "Chị là Sakuraba Ema!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative019",
+      "speaker_tag": "",
+      "ja": "マーゴから発せられた声は、<br>完全にエマの声だった。",
+      "zh": "玛格发出的声音<br>\n和艾玛一模一样。",
+      "vi": "Âm thanh mà Margo tạo ra Giống hệt Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative020",
+      "speaker_tag": "",
+      "ja": "その場にいる全員がぎょっとする。<br>ただ、マーゴは憂いげな表情だ。",
+      "zh": "在场的所有人都惊呆了。<br>\n唯独玛格一人脸色有些阴郁。",
+      "vi": "Mọi người có mặt đều choáng váng. Mag là người duy nhất trông hơi u ám.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo018",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo018|",
+      "ja": "こんなモノマネみたいな能力でごめんなさい。<br>脱獄にはまったく使えないでしょう？",
+      "zh": "对不起，我只有这种无聊的模仿能力。<br>\n在越狱这件事上完全派不上用场吧？",
+      "vi": "Xin lỗi, Chị chỉ có khả năng bắt chước nhàm chán này thôi. Nó hoàn toàn vô dụng cho việc jailbreak, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative021",
+      "speaker_tag": "",
+      "ja": "マーゴは自分の能力を気に入っていないらしい。<br>エマたちもコメントに困った顔だ。",
+      "zh": "玛格似乎不太中意自己的能力。<br>\n其他人也不知该如何接话。",
+      "vi": "Margo có vẻ không hài lòng lắm với khả năng của mình. Những người khác không biết cách trả lời cuộc gọi.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative022",
+      "speaker_tag": "",
+      "ja": "すると、遠くからけらけらと<br>嘲笑してきたのはココだった。",
+      "zh": "这时，远处的可可<br>\n阴阳怪气地哈哈大笑起来。",
+      "vi": "Lúc này, Coco ở đằng xa Anh ấy cười một cách kì lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco001",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco001|",
+      "ja": "まじー？ 配信ウケしそーじゃん！<br>モノマネ芸人になればあ？",
+      "zh": "真的假的？你超适合当主播啊！<br>\n不如去当模仿艺人怎样？",
+      "vi": "Thật hay giả? Bạn rất thích hợp làm người dẫn chương trình! Trở thành kẻ bắt chước thì thế nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Hanna004",
+      "speaker_tag": "; > Hanna: |#0102Adv04_Hanna004|",
+      "ja": "ふんっ、人の能力を嘲笑うなんて<br>あなたは相当すごい魔法の持ち主なのかしら？",
+      "zh": "哼，竟敢嘲笑别人的能力，<br>\n想必你的魔法一定很了不得吧？",
+      "vi": "Hừ, sao bạn dám cười nhạo khả năng của ngươi khác, Phép thuật của bạn chắc hẳn rất tuyệt vời phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco002",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco002|",
+      "ja": "あてぃし？ あてぃしの魔法は――【千里眼】。",
+      "zh": "你说我吗？我的魔法是——【千里眼】。",
+      "vi": "Bạn đang nói về Coco à? Phép thuật của Coco là - [thấu thị].",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative023",
+      "speaker_tag": "",
+      "ja": "ココはいつもと違い、<br>どこか思い詰めた様子で立ち上がる。",
+      "zh": "可可一转平时的欢脱模样，<br>\n愁眉苦脸着站了起来。",
+      "vi": "Coco đã thay đổi so với vẻ vui vẻ thường ngày của mình, Anh đứng dậy với vẻ mặt cau có.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Hanna005",
+      "speaker_tag": "; > Hanna: |#0102Adv04_Hanna005|",
+      "ja": "せ、千里眼ですって……？<br>わたくしたちのこと常に監視を……？",
+      "zh": "千、千里眼……？<br>\n莫非你一直在监视我们……？",
+      "vi": "Hàng ngàn, khả năng thấu thị...? Có thể nào bạn đang theo dõi chúng Bổn tiểu thư...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco003",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco003|",
+      "ja": "ただし、あてぃしが見えるのは、<br>あてぃしのことを見てるヤツに限る。",
+      "zh": "只不过，我只能对正在看我的人<br>\n使用这个能力。",
+      "vi": "Tuy nhiên, Coco chỉ có thể nói với người đang nhìn Coco Hãy sử dụng khả năng này.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco004",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco004|",
+      "ja": "配信でも写真でも、とにかく沢渡ココを認知してたら<br>あてぃしも見てるヤツのことを俯瞰できるってワケ。",
+      "zh": "无论通过直播还是照片，只要认知到了是泽渡可可这个人，<br>\n我就能用俯瞰视角看到对方。",
+      "vi": "Bất kể qua truyền hình trực tiếp hay ảnh, miễn là bạn nhận ra đó là Sawatari Coco, Coco có thể nhìn thấy nhau từ góc nhìn của một con chim.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Hanna006",
+      "speaker_tag": "; > Hanna: |#0102Adv04_Hanna006|",
+      "ja": "なんだ……良かった～。<br>おっ、驚かさないでくれるかしら。",
+      "zh": "这样啊……那就好～<br>\n请、请你不要吓我们好吗。",
+      "vi": "Thế đấy...thật tốt~ Làm ơn, làm ơn đừng dọa chúng Bổn tiểu thư, được chứ.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema014",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema014|",
+      "ja": "（……だからココちゃんは、<br>　よく配信をしているのか……）",
+      "zh": "（……所以可可她<br>\n才会经常做直播啊……）",
+      "vi": "(...Vậy Cacao Chỉ sau đó mới phát sóng trực tiếp thường xuyên...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco005",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco005|",
+      "ja": "配信さえ見てもらえたら、どこの情報だって<br>見放題なんだけどねー……。",
+      "zh": "只要有人看我的直播，不管这人在哪里<br>\n我都能随意看个够啦……",
+      "vi": "Chỉ cần có người xem chương trình phát sóng trực tiếp của Coco thì việc người đó ở đâu không quan trọng Coco có thể xem bao nhiêu tùy thích...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco006",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco006|",
+      "ja": "使えねえんだよ！！ このクソ魔法！！<br>配信したって誰も見ないんじゃさあ！！",
+      "zh": "什么狗屁魔法！！一点用也没有！！<br>\n开了直播也没人来看啊！！",
+      "vi": "Phép thuật nhảm nhí gì vậy! ! Nó chẳng có tác dụng gì cả! ! Không có ai đến xem truyền hình trực tiếp! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative024",
+      "speaker_tag": "",
+      "ja": "唐突に激高したココに、<br>エマたちはびくりと肩を揺らした。",
+      "zh": "可可突然情绪激动起来，<br>\n吓得艾玛她们肩膀一抖。",
+      "vi": "Coco chợt xúc động, Ema và những người khác sợ hãi đến mức run rẩy vai.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco007",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco007|",
+      "ja": "良い方法でも見つかったのかと思って来てみたら、<br>くっだんない話し合いばっか！！",
+      "zh": "还以为你们找到了什么好办法，结果过来一听，<br>\n都是些废话！！",
+      "vi": "Coco nghĩ bạn đã tìm được giải pháp tốt nào đó nhưng sau đó Coco lại đến để lắng nghe, Tất cả chỉ là điều vô nghĩa! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco008",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco008|",
+      "ja": "あてぃしの魔法も、あんたらの魔法も役立たず！！<br>それでどうやって外に出るんだよ！！",
+      "zh": "我的魔法和你们的魔法全都派不上用场！！<br>\n到底该怎么逃出去啊！！",
+      "vi": "Cả phép thuật của Coco lẫn phép thuật của bạn đều không có tác dụng gì cả! ! Làm thế nào Coco nên trốn thoát? !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco009",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco009|",
+      "ja": "早く方法見つけろよ！！<br>あてぃしはこんなとこから早く出たいんだよ！！",
+      "zh": "快点找到办法啊！！<br>\n我想赶紧离开这破地方！！",
+      "vi": "Hãy tìm cách nhanh chóng! ! Coco muốn thoát khỏi nơi tồi tàn này càng sớm càng tốt! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Hanna007",
+      "speaker_tag": "; > Hanna: |#0102Adv04_Hanna007|",
+      "ja": "それは、みんな同じ気持ちですわよ……！",
+      "zh": "可大家也都是这么想的呀……！",
+      "vi": "Nhưng ai cũng nghĩ vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco010",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco010|",
+      "ja": "うっせえわ！！<br>あてぃしは本気で出たいんだっつの！！",
+      "zh": "烦死了！！<br>\n我是真的想出去！！",
+      "vi": "Thật khó chịu! ! Coco thực sự muốn đi ra ngoài! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative025",
+      "speaker_tag": "",
+      "ja": "<ruby=\"かんしゃく\">癇癪</ruby>を起こしているココは地団太を踏み、<br>くしゃりと顔を<ruby=\"ゆが\">歪</ruby>ませる。",
+      "zh": "怒上心头的可可气得直跺脚，<br>\n脸皱作一团。",
+      "vi": "Keke tức giận đến mức giậm chân giận dữ, Mặt anh nhăn lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco011",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco011|",
+      "ja": "あてぃしは……あてぃしは……<br>早くここを出たい……！",
+      "zh": "人家……是真的……<br>\n好想赶紧逃出这里……！",
+      "vi": "Đó là sự thật... Coco thực sự muốn nhanh chóng thoát khỏi đây...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Coco012",
+      "speaker_tag": "; > Coco: |#0102Adv04_Coco012|",
+      "ja": "早く出なきゃ……。",
+      "zh": "得赶紧逃出去才行……",
+      "vi": "Bạn phải nhanh chóng trốn thoát...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative026",
+      "speaker_tag": "",
+      "ja": "悲痛な<ruby=\"つぶや\">呟</ruby>きを漏らし、<br>ココは<ruby=\"きびす\">踵</ruby>を返して出ていった。",
+      "zh": "可可从喉咙里挤出悲痛的呢喃，<br>\n转身离开了图书馆。",
+      "vi": "Coco thốt lên một tiếng thì thầm thê lương từ cổ họng, Quay người và rời khỏi Thư Viện.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Margo019",
+      "speaker_tag": "; > Margo: |#0102Adv04_Margo019|",
+      "ja": "ココちゃん、心配ね……。<br>ずいぶんストレスが溜まっているみたい。",
+      "zh": "好担心可可啊……<br>\n感觉她积攒了很多压力。",
+      "vi": "Chị rất lo lắng cho Coco... Có cảm giác như cô ấy đã tích lũy rất nhiều áp lực.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema015",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema015|",
+      "ja": "（みんな、限界なんだ…。<br>　いつ誰が魔女になってもおかしくない）",
+      "zh": "（大家的忍耐都快到极限了……<br>\n随时都有可能变成魔女）",
+      "vi": "(Sự kiên nhẫn của mọi người sắp đạt đến giới hạn rồi... Cô ấy có thể biến thành phù thủy bất cứ lúc nào)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema016",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema016|",
+      "ja": "（でも、マーゴちゃんの【モノマネ】も、<br>　ココちゃんの【千里眼】も脱獄には向いてない）",
+      "zh": "（可是，玛格的【模仿】<br>\n和可可的【千里眼】对越狱都没太大帮助）",
+      "vi": "(Tuy nhiên, [Giả] của Mag [Khả năng thấu thị] của Coco cũng không giúp ích nhiều trong việc bẻ khóa)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative027",
+      "speaker_tag": "",
+      "ja": "エマはもう一度頭の中で少女たちの魔法を<br>おさらいしていく。",
+      "zh": "艾玛在脑海中<br>\n再度回顾少女们的魔法。",
+      "vi": "Ema đang nghĩ tới Nhìn lại sự kỳ diệu của các cô gái một lần nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative028",
+      "speaker_tag": "",
+      "ja": "――マーゴの【モノマネ】、<br>――ココの【千里眼】、<br>――ナノカの【幻視】。",
+      "zh": "——玛格的【模仿】，<br>\n——可可的【千里眼】，<br>\n——奈叶香的【幻视】。",
+      "vi": "---[Bắt chước] của Margo, ---[Khả năng thấu thị] của Coco, --- [Tầm nhìn] của Nayoka.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative029",
+      "speaker_tag": "",
+      "ja": "――シェリーの【怪力】、<br>――ハンナの【浮遊】、<br>――メルルの【治癒】。",
+      "zh": "——雪莉的【怪力】，<br>\n——汉娜的【飘浮】，<br>\n——梅露露的【治愈】。",
+      "vi": "---[Sức mạnh kỳ lạ] của Sherry, ---[Float] của Hanna, ---[Phương pháp chữa trị] của Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative030",
+      "speaker_tag": "",
+      "ja": "――ミリアの【入れ替わり】、<br>――アンアンの【洗脳】、<br>――アリサの【発火】。",
+      "zh": "——米莉亚的【互换】，<br>\n——安安的【洗脑】，<br>\n——亚里沙的【点火】。",
+      "vi": "--- [Trao đổi] của Miria, --- [Tẩy não] của AnAn, ---[Đốt lửa] của Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema017",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema017|",
+      "ja": "（みんなの魔法は大体把握できたけれど……<br>　脱獄できそうな魔法なんて、<br>　やっぱりハンナちゃんの【浮遊】以外には……）",
+      "zh": "（所有人的魔法我已经大致了解了……<br>\n但要说哪个能用来越狱，<br>\n可能就只有汉娜的【飘浮】了……）",
+      "vi": "(Tôi đã có hiểu biết chung về phép thuật của mọi người... Nhưng khi nói đến cái nào có thể được sử dụng để bẻ khóa, Có lẽ đó chỉ là [Levitation] của Hanna...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative031",
+      "speaker_tag": "",
+      "ja": "開かれたままの本のページが、エマの目に飛び込む。<br>そこには大空を自由に飛ぶ魔女の姿が描かれていた。",
+      "zh": "翻开的书页映入艾玛的眼帘，<br>\n上面画着自由自在飞翔在无垠蓝天的魔女。",
+      "vi": "Trang sách đang mở đập vào mắt Ema, Nó mô tả một phù thủy bay tự do trên bầu trời xanh vô tận.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema018",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema018|",
+      "ja": "（……ボクらもこんな風に自由に空を飛べたら、<br>　楽しいんだろうな）",
+      "zh": "（……如果我们也能像这样自由地飞在空中，<br>\n一定很快乐吧）",
+      "vi": "(…Nếu chúng ta có thể bay tự do trên không như thế này, Chắc là vui lắm)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema019",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema019|",
+      "ja": "（でも、ボクらはその分科学を発展させて、<br>　空を自由に移動できる……）",
+      "zh": "（但我们可以通过发展科学，<br>\n从而自由地飞上天空……）",
+      "vi": "(Nhưng chúng ta có thể làm được thông qua khoa học phát triển, Để bạn có thể tự do bay lên bầu trời...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema020",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema020|",
+      "ja": "あ！！",
+      "zh": "啊！！",
+      "vi": "À! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Sherry009",
+      "speaker_tag": "; > Sherry: |#0102Adv04_Sherry009|",
+      "ja": "どうしました、エマさん？",
+      "zh": "怎么了，艾玛？",
+      "vi": "Có chuyện gì thế, Ema?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Ema021",
+      "speaker_tag": "; > Ema: |#0102Adv04_Ema021|",
+      "ja": "脱獄方法、見つけたかも……！",
+      "zh": "我好像找到越狱的方法了……！",
+      "vi": "Có vẻ như tôi đã tìm ra cách để jailbreak...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv04_Narrative032",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ひらめ\">閃</ruby>きを得たエマは、前のめりになって<br>少女たちに向けて、語りだした。",
+      "zh": "艾玛灵光一闪，探出身子<br>\n对少女们说出自己的想法。",
+      "vi": "Ema chợt có cảm hứng và nghiêng người ra Nói cho các cô gái biết họ nghĩ gì.",
+      "objection_links": []
+    }
+  ]
+}

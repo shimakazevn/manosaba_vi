@@ -1,0 +1,464 @@
+{
+  "bundle": "general-localization-zhhans-scripts-common_assets_all.bundle",
+  "script_name": "CommonBad04",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Common/CommonBad04' Naninovel scenario script",
+  "total_entries": 57,
+  "entries": [
+    {
+      "id": "CommonBad04_Narrative001",
+      "speaker_tag": "",
+      "ja": "――犯人を突き止められないまま、<br>議論の時間は終わりを迎えた。",
+      "zh": "——直到最后，她们还是没有找出凶手，<br>\n便迎来了讨论时间的结束。",
+      "vi": "——Cho đến cuối cùng, họ vẫn chưa tìm ra kẻ sát nhân, Điều này dẫn đến sự kết thúc của thời gian thảo luận.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Warden001",
+      "speaker_tag": "; > Warden: |#CommonBad04_Warden001|",
+      "ja": "議論はここまでということで、<br>投票に移ってもらっていいですかね？",
+      "zh": "讨论到此为止，<br>\n可以请各位进入投票环节了吗？",
+      "vi": "Cuộc thảo luận kết thúc tại đây, Bạn có thể vui lòng tham gia phiên bỏ phiếu được không?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Ema001",
+      "speaker_tag": "; > Ema: |#CommonBad04_Ema001|",
+      "ja": "（犯人がはっきりしてないのに、投票なんて……<br>　でも、やるしかないんだよね）",
+      "zh": "（明明还没找出凶手，却要投票……<br>\n可是，我们也只能照做了）",
+      "vi": "(Bạn phải bỏ phiếu dù chưa tìm ra kẻ sát nhân... Tuy nhiên, chúng tôi chỉ có thể làm điều đó)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative002",
+      "speaker_tag": "",
+      "ja": "殺人犯を特定しなければ、全員処刑されてしまうのだ。<br>たとえその人物が真犯人でなかったとしても――",
+      "zh": "如果没有找出凶手，就要全员处死。<br>\n即使，那个人并不是真正的凶手——",
+      "vi": "Nếu không tìm ra kẻ giết người, mọi người sẽ bị xử tử. Cho dù người đó không phải là kẻ sát nhân thực sự——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative003",
+      "speaker_tag": "",
+      "ja": "誰が【魔女】として処刑されるのかを決めなければならない。",
+      "zh": "也需要推选出这么一位人物，以【魔女】的身份接受处刑。",
+      "vi": "Cũng cần phải chọn một nhân vật như vậy để được thực thi làm [Phù thủy].",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Ema002",
+      "speaker_tag": "; > Ema: |#CommonBad04_Ema002|",
+      "ja": "（でもやっぱり、辛すぎるよ……）",
+      "zh": "（可是，这实在是太难受了……）",
+      "vi": "(Nhưng, điều này thực sự không thoải mái...)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative004",
+      "speaker_tag": "",
+      "ja": "エマだけじゃない。<br>その場にいる誰もが震え、青ざめていた。",
+      "zh": "不只是艾玛，<br>\n在场的所有人都脸色苍白地颤抖着。",
+      "vi": "Không chỉ Ema, Mọi người có mặt đều trông xanh xao và run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative005",
+      "speaker_tag": "",
+      "ja": "だが、容赦なく投票の時間はやってくる。",
+      "zh": "然而，投票时间无情地降临了。",
+      "vi": "Tuy nhiên, thời gian bỏ phiếu đã đến một cách không thể tránh khỏi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative006",
+      "speaker_tag": "",
+      "ja": "少女たちは自身のスマホを操作し、<br>投票をしていく。",
+      "zh": "少女们各自按着自己的手机，<br>\n进行投票。",
+      "vi": "Mỗi cô gái bấm điện thoại di động của mình, Hãy bỏ phiếu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative007",
+      "speaker_tag": "",
+      "ja": "そして。",
+      "zh": "然后。",
+      "vi": "Sau đó.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative008",
+      "speaker_tag": "",
+      "ja": "スマホの画面に映し出されたのは――",
+      "zh": "在手机屏幕上出现的——",
+      "vi": "Thứ xuất hiện trên màn hình điện thoại——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative009",
+      "speaker_tag": "",
+      "ja": "ココの画像だった。",
+      "zh": "是可可的照片。",
+      "vi": "Đó là một bức ảnh của Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco001",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco001|",
+      "ja": "は？ ちょ……ざっけんなよ……！？<br>マジで意味わかんねえし！<br>おい誰だよ、あてぃしに入れたやつ……！！",
+      "zh": "哈？等下……开什么玩笑……！？<br>\n这根本意义不明啊！<br>\n喂，投票给我的到底是谁啊……！！",
+      "vi": "Hả? Đợi đã...bạn đang đùa à...! ? Điều này hoàn toàn không có ý nghĩa! Này, ai đã bầu cho Coco thế? !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco002",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco002|",
+      "ja": "ちゃんとよく考えろって！<br>あてぃしが殺したワケないじゃんよぉ！！",
+      "zh": "你们认真点思考好不好！<br>\n人怎么可能是我杀的啊！！",
+      "vi": "Làm ơn hãy suy nghĩ thật kỹ nhé! Làm sao Coco có thể giết người này? !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco003",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco003|",
+      "ja": "こんなん無効だろ！<br>投票やり直しでいいじゃん……！",
+      "zh": "这结果无效吧！<br>\n只要重新投票就好了吧……！",
+      "vi": "Kết quả này không hợp lệ! Chỉ cần bỏ phiếu lại ...!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Warden002",
+      "speaker_tag": "; > Warden: |#CommonBad04_Warden002|",
+      "ja": "えー、やり直しはなしでお願いします。<br>というわけで全員がボタンを押したら、<br>処刑執行スタートです。",
+      "zh": "呃，没有重来的机会了，敬请配合。<br>\n大家只要按下处刑按钮，<br>\n就会开始执行处刑了。",
+      "vi": "Thôi, không còn cơ hội làm lại nữa nên hãy hợp tác nhé. Mọi người chỉ cần nhấn nút thực hiện, Việc thực hiện sẽ bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco004",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco004|",
+      "ja": "お、おい、やめろって……<br>ホント、頼むから押さないでください……<br>なあ、やめてくれって……！！",
+      "zh": "喂、喂，住手啊……<br>\n求你们，真的别按下去啦……<br>\n我说，你们住手啊……！！",
+      "vi": "Này này, dừng lại đi... Làm ơn, thực sự đừng nhấn vào... Coco nói, dừng lại đi...! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative010",
+      "speaker_tag": "",
+      "ja": "ココの訴えもむなしく、<br>少女たちは手元のボタンを押していく。",
+      "zh": "可可的请求苍白无力，<br>\n少女们各自按下了手中的按钮。",
+      "vi": "Yêu cầu của Coco thật yếu ớt, Mỗi cô gái bấm nút trên tay mình.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Warden003",
+      "speaker_tag": "; > Warden: |#CommonBad04_Warden003|",
+      "ja": "はい！ ではこれより、<br>魔女の処刑を執行します～。",
+      "zh": "好了！那么，<br>\n现在开始执行对魔女的刑罚～",
+      "vi": "Được rồi! Sau đó, Bây giờ việc thi hành hình phạt phù thủy bắt đầu~",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative011",
+      "speaker_tag": "",
+      "ja": "ゴクチョーの宣言と共に、<br>仕掛けが作動しはじめた。",
+      "zh": "随着典狱长一声令下，<br>\n机关开始启动。",
+      "vi": "Tuân theo lệnh của quản giáo, Cơ chế bắt đầu kích hoạt.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative012",
+      "speaker_tag": "",
+      "ja": "どこからか歯車の回転音が聞こえ、<br>中央の台座がわずかに揺れた。",
+      "zh": "接着，从某处传来了齿轮的转动声，<br>\n中央的底座颤动了一下。",
+      "vi": "Sau đó, tiếng bánh răng quay từ đâu đó vang lên, Căn cứ trung tâm rung chuyển.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative013",
+      "speaker_tag": "",
+      "ja": "床が開き、台座がゆっくりと下降していく。",
+      "zh": "地板开了一个洞，底座缓缓地往下降。",
+      "vi": "Trên sàn xuất hiện một cái lỗ, chân đế từ từ hạ xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative014",
+      "speaker_tag": "",
+      "ja": "もともとあった台座と入れ替わる形で<br>現れたのは――",
+      "zh": "然后，原本的底座消失不见，<br>\n一个新的底座出现了——",
+      "vi": "Sau đó, phần đế ban đầu biến mất, Một căn cứ mới xuất hiện——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Ema003",
+      "speaker_tag": "; > Ema: |#CommonBad04_Ema003|",
+      "ja": "な……何これ……？",
+      "zh": "这……这什么……？",
+      "vi": "Đây...cái gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative015",
+      "speaker_tag": "",
+      "ja": "装置の天井部分から複数の鋭い刃が垂れ下がり、<br>振り子のように揺れている。",
+      "zh": "装置的顶部吊着复数锋利的刀刃，<br>\n像钟摆一样摇晃着。",
+      "vi": "Có nhiều lưỡi dao sắc treo trên đỉnh thiết bị, Đung đưa như một con lắc.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative016",
+      "speaker_tag": "",
+      "ja": "刃の真下――<br>装置の中央には、人を拘束するための台が見えた。",
+      "zh": "而刀刃的正下方——<br>\n在装置的中央处，能看见一个绑住人的台子。",
+      "vi": "Và ngay bên dưới lưỡi kiếm—— Ở trung tâm của quá trình cài đặt, bạn có thể thấy một nền tảng mà mọi người bị ràng buộc.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco005",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco005|",
+      "ja": "んだよ、あれ……<br>まさか、あの下に……？",
+      "zh": "那是搞什么东西啊……<br>\n难不成，我要在下面……？",
+      "vi": "Cái quái gì vậy... Chẳng lẽ Coco muốn ở dưới đó sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative017",
+      "speaker_tag": "",
+      "ja": "鈍い光を放ちながら揺れる刃を目に、<br>ココはガクガクと身を震わせる。",
+      "zh": "看见那闪着寒光摇摇晃晃的刀刃，<br>\n可可便全身颤抖起来。",
+      "vi": "Nhìn thấy lưỡi đao đung đưa với ánh sáng lạnh lẽo, Toàn thân Coco bắt đầu run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative018",
+      "speaker_tag": "",
+      "ja": "ゴクチョーの合図で看守が動き、ココの腕を<ruby=\"つか\">掴</ruby>んだ。",
+      "zh": "典狱长下达指示后，看守按住了可可的双臂。",
+      "vi": "Sau khi quản giáo ra lệnh, Cai Ngục đã giữ tay Coco lại.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco006",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco006|",
+      "ja": "やめろって！ 触んなキモいから！<br>離せ離せ離せ！ やだ！ 行きたくないっ！！",
+      "zh": "住手啊！别碰我好恶心！<br>\n放开我放开我放开我！不要！我不想过去！！",
+      "vi": "Dừng lại đi! Đừng chạm vào Coco, Coco ghê tởm quá! Hãy để Coco đi, để Coco đi, để Coco đi! không muốn! Coco không muốn đến đó! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative019",
+      "speaker_tag": "",
+      "ja": "じたばたと抵抗するココを、<br>看守がステージに引きずっていく。<br>そして、装置の台に彼女を拘束した。",
+      "zh": "看守将挣扎着手脚抵抗着的可可<br>\n拖上了舞台。<br>\n然后，将她固定在装置的台子上。",
+      "vi": "Các Cai Ngục sẽ vùng vẫy bằng tay chân của Coco để chống cự Kéo lên sân khấu. Sau đó, cố định cô ấy vào giá đỡ của thiết bị.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco007",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco007|",
+      "ja": "ひっ、ひぃぃぃぃっ！？<br>こんなんやばいって……！ 死んじゃう死んじゃう……！<br>マジで死んじゃうからっ……！！",
+      "zh": "噫、噫噫噫噫噫！？<br>\n这太不妙了……！要死了要死了……！<br>\n真的要死了啦……！！",
+      "vi": "Ờ, ừ, ừ, ừ, ừ, ừ! ? Điều này thật quá tệ...! Coco sắp chết, Coco sắp chết...! Coco thực sự sắp chết rồi...! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative020",
+      "speaker_tag": "",
+      "ja": "互い違いに揺れる刃が、だんだんと下がってくる。",
+      "zh": "错开着方向摆动着的刀刃缓缓降了下来。",
+      "vi": "Lưỡi dao vung sai hướng từ từ hạ xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco008",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco008|",
+      "ja": "やだやだやだ！ 死にたくないっ！<br>止めろって！<br>お願いします！ 止めてくださいっ！！",
+      "zh": "不要不要不要！我不想死！<br>\n我说住手啊！<br>\n求你们了！请你们住手！！",
+      "vi": "Đừng đừng đừng! Coco không muốn chết! Coco bảo dừng lại đi! Làm ơn! Xin hãy dừng lại! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative021",
+      "speaker_tag": "",
+      "ja": "迫りくる恐怖に表情を<ruby=\"ゆが\">歪</ruby>め、<br>ココは懇願するように叫んだ。",
+      "zh": "面对迫在眉睫的恐惧，可可脸部扭作一团，<br>\n如同恳求般放声大喊。",
+      "vi": "Trước nỗi sợ hãi sắp xảy ra, mặt Coco nhăn lại thành quả bóng, La hét lớn như một lời cầu xin.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Warden004",
+      "speaker_tag": "; > Warden: |#CommonBad04_Warden004|",
+      "ja": "そう言われましても、投票で決まったことなので。<br>ああ、そうだ。この様子を配信でもしたらどうです？<br>人生最後の生配信、処刑の瞬間！ とか。",
+      "zh": "我们也很为难啊，这都是投票决定的结果。<br>\n啊，对了。要不要把过程直播一下呢？<br>\n标题就写：人生最后的直播，处刑的瞬间！怎样。",
+      "vi": "Chúng tôi cũng đang ở trong tình thế tiến thoái lưỡng nan. Tất cả đều là kết quả của việc bỏ phiếu. À, đúng rồi. Bạn có muốn phát sóng trực tiếp quá trình này? Tiêu đề ghi: Buổi phát sóng trực tiếp cuối cùng của cuộc đời, khoảnh khắc hành hình! Làm sao.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Warden005",
+      "speaker_tag": "; > Warden: |#CommonBad04_Warden005|",
+      "ja": "まあ、許可が出るかわかりませんけど……<br>バズるんじゃないですか？<br>あ、ＢＡＮされちゃいますかね？",
+      "zh": "哎，就是不知道会不会批准了……<br>\n这一定能走红吧？<br>\n啊，会被封台吧？",
+      "vi": "Này, tôi chỉ không biết liệu nó có được chấp thuận hay không... Điều này chắc chắn sẽ lan truyền, phải không? À, nó sẽ bị chặn à?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco009",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco009|",
+      "ja": "うっせえ、ふざけんなよ……！<br>おい、おめえら見てないで助けろってぇ！！",
+      "zh": "吵死了，开什么玩笑……！<br>\n喂，你们别光看啊快帮帮我！！",
+      "vi": "Ồn ào quá, đùa à...! Này, đừng chỉ nhìn vào nó, hãy giúp Coco! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Ema004",
+      "speaker_tag": "; > Ema: |#CommonBad04_Ema004|",
+      "ja": "……ごめん、ココちゃん。",
+      "zh": "……对不起，可可。",
+      "vi": "...Xin lỗi, Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative022",
+      "speaker_tag": "",
+      "ja": "処刑の邪魔をすれば、その者まで処罰されてしまう。<br>エマだけでなく、他の誰もが恐怖に縛られていた。",
+      "zh": "如果干扰处刑，干扰者也视为同罪。<br>\n不光是艾玛，其他所有人都在恐惧的作用下无法动弹。",
+      "vi": "Nếu việc hành quyết bị can thiệp, người can thiệp cũng bị coi là phạm tội tương tự. Không chỉ Ema mà tất cả những người khác đều tê liệt vì sợ hãi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco010",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco010|",
+      "ja": "キモキモキモキモキモキモキモっ！<br>おめえら恨んでやるからなっ！<br>全員死ね！ 死ね死ね死ね死ねえ！",
+      "zh": "恶心恶心恶心恶心恶心恶心恶心！<br>\n我要诅咒你们！<br>\n所有人去死！去死去死去死去死！",
+      "vi": "Kinh tởm, kinh tởm, kinh tởm, kinh tởm, kinh tởm! Coco sẽ nguyền rủa bạn! Chết đi mọi người! Đi, chết, chết, chết!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative023",
+      "speaker_tag": "",
+      "ja": "<ruby=\"じゅそ\">呪詛</ruby>の言葉を吐きながら頭を振り乱すココに、<br>鋭い刃は容赦なく迫っていく。",
+      "zh": "可可一边喷洒诅咒，一边胡乱地摇头晃脑。<br>\n而锋利的刀刃正无情地渐渐向她落下。",
+      "vi": "Coco ngẫu nhiên lắc đầu trong khi phun ra những lời chửi bới. Và lưỡi dao sắc bén đang dần rơi về phía cô một cách không thương tiếc.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco011",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco011|",
+      "ja": "もう無理だって……！<br>ああああっ……なんで、あてぃしが……。",
+      "zh": "我已经受不了了……！<br>\n啊啊啊啊……为什么，是我……",
+      "vi": "Coco không thể chịu đựng được nữa...! Ahhh...tại sao, lại là Coco...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Coco012",
+      "speaker_tag": "; > Coco: |#CommonBad04_Coco012|",
+      "ja": "死にたくない、死にたくない、死にたくな――。",
+      "zh": "我不想死，我不想死，我不想——",
+      "vi": "Coco không muốn chết, Coco không muốn chết, Coco không muốn—",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative024",
+      "speaker_tag": "",
+      "ja": "ココの処刑が執行された後。<br>エマは１人、監房で物思いに<ruby=\"ふけ\">耽</ruby>っていた。",
+      "zh": "可可的处刑执行完毕后，<br>\n艾玛独自一人在牢房内陷入深思。",
+      "vi": "Sau khi việc xử tử Coco hoàn tất, Ema ở một mình trong phòng giam, trầm ngâm suy nghĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Ema005",
+      "speaker_tag": "; > Ema: |#CommonBad04_Ema005|",
+      "ja": "（また、殺人事件が起こるのかな……）",
+      "zh": "（凶杀案还会发生的吧……）",
+      "vi": "(Những vụ giết người sẽ lại xảy ra...)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Ema006",
+      "speaker_tag": "; > Ema: |#CommonBad04_Ema006|",
+      "ja": "（そのたびに誰かが殺されて……<br>　誰かが魔女として処刑されて……）",
+      "zh": "（到时候又会有人被杀……<br>\n又会有人被当作魔女处刑……）",
+      "vi": "(Rồi sẽ có người bị giết lần nữa... Ai đó sẽ lại bị xử tử như một phù thủy...)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Ema007",
+      "speaker_tag": "; > Ema: |#CommonBad04_Ema007|",
+      "ja": "もしかしたら次はボクが……。",
+      "zh": "说不定下次就轮到我……",
+      "vi": "Có lẽ lần sau sẽ đến lượt tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative025",
+      "speaker_tag": "",
+      "ja": "身震いして、エマは辺りを見回す。",
+      "zh": "艾玛不禁颤抖了一下，然后往四下张望。",
+      "vi": "Ema không khỏi run rẩy, rồi nhìn xung quanh.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Ema008",
+      "speaker_tag": "; > Ema: |#CommonBad04_Ema008|",
+      "ja": "なんだか、誰かに見られてるような気もするし……。",
+      "zh": "总感觉，好像有人在盯着我……",
+      "vi": "Tôi luôn có cảm giác như có ai đó đang theo dõi mình...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative026",
+      "speaker_tag": "",
+      "ja": "ココの処刑が終わった直後から、<br>エマは謎の視線を感じるようだと<ruby=\"おび\">怯</ruby>えていた。",
+      "zh": "自从可可被处刑，<br>\n艾玛感觉有股神秘视线一直在看着她，这让她感到十分害怕。",
+      "vi": "Kể từ khi Keke bị xử tử, Ema cảm thấy có một ánh mắt bí ẩn đang nhìn mình, khiến cô cảm thấy rất sợ hãi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Ema009",
+      "speaker_tag": "; > Ema: |#CommonBad04_Ema009|",
+      "ja": "なんの音だろ……？",
+      "zh": "这是什么声音……？",
+      "vi": "Âm thanh này là gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative027",
+      "speaker_tag": "",
+      "ja": "不意に響いてきた音の正体を確かめようと、<br>エマは格子から通路の様子をうかがって――",
+      "zh": "艾玛想要确认这道突如其来的声音的来源，<br>\n便从铁栅栏内往过道方向探望——",
+      "vi": "Ema muốn xác nhận nguồn gốc của âm thanh đột ngột này, Sau đó anh nhìn qua hàng rào sắt về phía lối đi——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative028",
+      "speaker_tag": "",
+      "ja": "何者かによってエマの命が奪われた。<br>次の犠牲者となったエマを殺した犯人は誰なのか。",
+      "zh": "有人夺走了艾玛的性命。<br>\n艾玛成了下一位牺牲者，而杀死她的又会是谁。",
+      "vi": "Ai đó đã lấy đi mạng sống của Ema. Ema trở thành nạn nhân tiếp theo và ai sẽ giết cô.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative029",
+      "speaker_tag": "",
+      "ja": "新たな殺人者か。<br>あるいは今回の事件には真犯人が他にいたのか――",
+      "zh": "是出现了新的凶手？<br>\n还是这次案件的真凶另有其人——",
+      "vi": "Có kẻ giết người mới? Hay thủ phạm thực sự trong vụ án này là ai khác——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative030",
+      "speaker_tag": "",
+      "ja": "また、魔女裁判が開かれる。",
+      "zh": "魔女审判又将再次开庭。",
+      "vi": "Phiên tòa xét xử phù thủy sẽ lại bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad04_Narrative031",
+      "speaker_tag": "",
+      "ja": "真実が明らかになる保証はどこにもない――",
+      "zh": "而真相是否能水落石出，谁也无法保证——",
+      "vi": "Và không ai có thể đảm bảo liệu sự thật có được đưa ra ánh sáng hay không——",
+      "objection_links": []
+    }
+  ]
+}

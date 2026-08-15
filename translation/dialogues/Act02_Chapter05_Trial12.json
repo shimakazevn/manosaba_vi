@@ -1,0 +1,1288 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial12",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial12' Naninovel scenario script",
+  "total_entries": 159,
+  "entries": [
+    {
+      "id": "0205Trial12_Nanoka001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial12_Nanoka001|",
+      "ja": "私はここに来てから、<br>この島の過去の光景を<br>少しだけ幻視した……。",
+      "zh": "来到这里之后，<br>\n我稍微幻视到了一些<br>\n这座岛过去的景象……",
+      "vi": "Sau khi tới đây, Tôi đã có một số ảo ảnh Một góc nhìn về quá khứ của hòn đảo...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial12_Nanoka002|",
+      "ja": "そこで見えた光景の<br>意味がなんなのか、<br>正確にはわかって<br>いなかったけれど……。",
+      "zh": "虽然我当时<br>\n并不确切明白<br>\n那些景象<br>\n有什么含义……",
+      "vi": "Mặc dù tôi đã Không hiểu lắm Những cảnh đó Nó có nghĩa là gì...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial12_Nanoka003|",
+      "ja": "あなたの話を踏まえれば、<br>それが大魔女の力だった<br>ということがわかるわ。",
+      "zh": "但结合你的话来看，<br>\n我明白了<br>\n那就是大魔女的力量。",
+      "vi": "Nhưng dựa trên lời nói của bạn, Tôi hiểu Đó là sức mạnh của phù thủy vĩ đại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial12_Nanoka004|",
+      "ja": "大魔女の力は強力で、<br>あなたでは<br>到底<link=\"Objection_02_05_12_01\">敵わない</link>……。",
+      "zh": "大魔女的力量很强大，<br>\n你根本<br>\n无法<link=\"Objection_02_05_12_01\">战胜</link>……",
+      "vi": "Phù thủy vĩ đại rất mạnh mẽ, Bạn chỉ đơn giản Không thể <link=\"Objection_02_05_12_01\"> đánh bại </link>…",
+      "objection_links": [
+        "Objection_02_05_12_01"
+      ]
+    },
+    {
+      "id": "0205Trial12_Nanoka005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial12_Nanoka005|",
+      "ja": "……当然よね。<br>私たちの魔法は<br>彼女によって<br>与えられたものだもの。",
+      "zh": "……这也很正常。<br>\n毕竟<br>\n我们的魔法<br>\n就是她赋予的。",
+      "vi": "...Điều này cũng bình thường thôi. Rốt cuộc Phép thuật của chúng tôi Đó là những gì cô ấy đã cho.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial12_Nanoka006|",
+      "ja": "コピーがオリジナルに<br><link=\"Objection_02_05_12_02\">勝てない</link>のは、<br>当たり前の事実よ。",
+      "zh": "复制品是<br>\n<link=\"Objection_02_05_12_02\">打不赢</link>原版的。<br>\n这是理所当然的事实。",
+      "vi": "Bản sao là <link=\"Objection_02_05_12_02\">không thể đánh bại </link>bản gốc. Đây là một vấn đề tất nhiên.",
+      "objection_links": [
+        "Objection_02_05_12_02"
+      ]
+    },
+    {
+      "id": "0205Trial12_Hiro001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial12_Hiro001|",
+      "ja": "それをどうにかするのが、<br>私の役目だ。",
+      "zh": "我的职责正是<br>\n想办法去解决这个问题。",
+      "vi": "Nhiệm vụ của tôi chính xác là Tìm cách giải quyết vấn đề này.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial12_Nanoka007|",
+      "ja": "……いい加減にして。",
+      "zh": "……够了，放弃吧。",
+      "vi": "...đủ rồi, bỏ cuộc đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial12_Nanoka008|",
+      "ja": "大した戦力にも<br>ならないあなたが、<br>大魔女と戦って<br>勝てるわけないでしょう。",
+      "zh": "你根本<br>\n没什么战斗力，<br>\n怎么可能<br>\n战胜大魔女。",
+      "vi": "Bạn chỉ đơn giản Không có nhiều sức chiến đấu, Làm sao có thể Đánh bại phù thủy vĩ đại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka009",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial12_Nanoka009|",
+      "ja": "戦いにもなりはしない。<br>ただ<link=\"Objection_02_05_12_03\">無駄に殺される</link>だけ。",
+      "zh": "这连战斗都算不上。<br>\n纯粹是<link=\"Objection_02_05_12_03\">白白送死</link>而已。",
+      "vi": "Đây thậm chí không phải là một cuộc chiến. Chỉ là <link=\"Objection_02_05_12_03\"> chết vô ích thôi</link>.",
+      "objection_links": [
+        "Objection_02_05_12_03"
+      ]
+    },
+    {
+      "id": "0205Trial12_Nanoka010",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial12_Nanoka010|",
+      "ja": "私は大魔女に勝つため、<br>十分な準備を整える……。",
+      "zh": "我为了战胜大魔女，<br>\n做了充分的准备……",
+      "vi": "Để đánh bại mụ phù thủy lớn, Đã chuẩn bị đầy đủ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka011",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial12_Nanoka011|",
+      "ja": "……あなたの<link=\"Objection_02_05_12_04\">博打</link>に<br>私を巻き込まないで<br>ちょうだい。",
+      "zh": "……请你不要<br>\n把我拖进你的<br>\n<link=\"Objection_02_05_12_04\">赌局</link>之中。",
+      "vi": "…Xin đừng Kéo tôi vào của bạn <link=\"Objection_02_05_12_04\">Cá cược </link>.",
+      "objection_links": [
+        "Objection_02_05_12_04"
+      ]
+    },
+    {
+      "id": "0205Trial12_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro002|",
+      "ja": "（魔女化してしまった私にはもう<br>　そんな時間はない）",
+      "zh": "（完成魔女化的我，<br>\n已经没多少时间了）",
+      "vi": "(Tôi đã hoàn thành quá trình biến đổi thành phù thủy, Không còn nhiều thời gian nữa)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro003|",
+      "ja": "（それにこの機会を逃せば、<br>　１３人の魔女を集めることも<br>　難しくなるだろう）",
+      "zh": "（而且错过这次机会，<br>\n恐怕也很难<br>\n再次召集13位魔女了）",
+      "vi": "(Và hãy bỏ lỡ cơ hội này, Tôi e là nó cũng khó 13 phù thủy được triệu tập lần nữa)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro004|",
+      "ja": "（……たとえナノカを傷付けたとしても、<br>　私は……前へと進む！）",
+      "zh": "（……就算会伤害到奈叶香，<br>\n我……也要前进！）",
+      "vi": "(...cho dù điều đó có làm tổn thương Nanoyaka, Tôi... cũng muốn tiến về phía trước! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial12_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "外に協力を仰ぐ",
+      "zh": "会寻求外部的协助",
+      "vi": "Sẽ tìm kiếm sự hỗ trợ từ bên ngoài",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial12_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "数で勝る",
+      "zh": "以数量取胜",
+      "vi": "thắng theo số lượng",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial12_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "私が身代わりになる",
+      "zh": "我来替大家承担后果",
+      "vi": "Tôi sẽ gánh chịu hậu quả cho mọi người",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Choice004",
+      "speaker_tag": "; > @choice |#0205Trial12_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "賭ける価値はある",
+      "zh": "有赌一把的价值",
+      "vi": "Đáng đánh bạc",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro005|",
+      "ja": "私たちだけでダメなら、<br>外の世界に協力を仰ごう。",
+      "zh": "如果靠我们自己无法实现，<br>\n就向外面的世界寻求协助吧。",
+      "vi": "Nếu chúng ta không thể tự mình làm được, Chỉ cần nhờ thế giới bên ngoài giúp đỡ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro006|",
+      "ja": "軍隊でも近代兵器でも、なんでもいい……<br>使えるものは全て使って大魔女を打倒するんだ。",
+      "zh": "军队也好，现代武器也好，什么都行……<br>\n我要把能用的都用上，打倒大魔女。",
+      "vi": "Cho dù đó là quân đội, vũ khí hiện đại hay bất cứ thứ gì... Tôi sẽ dùng mọi thứ có thể để đánh bại mụ phù thủy vĩ đại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka012",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka012|",
+      "ja": "この国の人間は、<br>私たちをこんなところに集めた連中よ。",
+      "zh": "这个国家的权势，<br>\n正是把我们抓来监牢的家伙哦。",
+      "vi": "Sức mạnh của đất nước này, Đó là gã đã đưa chúng ta vào tù.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka013",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka013|",
+      "ja": "力を貸してくれるとは思えないわ。",
+      "zh": "我不认为他们会出手帮我们。",
+      "vi": "Tôi không nghĩ họ sẽ giúp chúng ta.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka014",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka014|",
+      "ja": "もしも国の人間が<br>そんな人格者ばかりなら……<br>お姉ちゃんは犠牲になんかなってないの。",
+      "zh": "如果那些上层大人物<br>\n都是这么人格高尚的人……<br>\n姐姐她就不会牺牲了。",
+      "vi": "Nếu những bức ảnh lớn đó ở trên cùng Họ đều là những người có nhân cách cao quý như vậy... Chị ơi, chị ấy sẽ không hy sinh đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro007|",
+      "ja": "（楽観的な解決策では響かないか）",
+      "zh": "（看来乐观的解决方案是没法打动她了）",
+      "vi": "(Có vẻ như những giải pháp lạc quan không thể gây ấn tượng với cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro008|",
+      "ja": "（……それに、ナノカを魔女化させるには<br>　彼女のトラウマを刺激する必要がある）",
+      "zh": "（……而且，要促进奈叶香的魔女化，<br>\n需要刺激她的心理创伤）",
+      "vi": "(…Hơn nữa, để thúc đẩy quá trình biến Nanoyaka thành phù thủy, Cần kích thích chấn thương tâm lý của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro009|",
+      "ja": "（ナノカが最も【望まないこと】を<br>　考えてみよう……）",
+      "zh": "（思考一下<br>\n奈叶香最【不希望发生的事】吧……）",
+      "vi": "(Hãy nghĩ về Có lẽ [điều] Nanoyaka không muốn nhất xảy ra...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro010|",
+      "ja": "（彼女が死の間際、何を拒んでいたか……<br>　私は覚えているはずだ）",
+      "zh": "（她在临死前拒绝了什么……<br>\n我应该还记得才对）",
+      "vi": "(Cô ấy đã từ chối điều gì trước khi chết... Tôi vẫn nên nhớ)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro011|",
+      "ja": "コピーがオリジナルに勝つ方法ぐらい、あるさ。",
+      "zh": "复制品战胜原版的方法，还是有的。",
+      "vi": "Vẫn có cách để bản sao đánh bại bản gốc.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro012|",
+      "ja": "数で勝ればいいんだ。",
+      "zh": "只要靠数量取胜就好。",
+      "vi": "Chỉ cần dựa vào số lượng để giành chiến thắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro013|",
+      "ja": "大魔女はたった１人……<br>それに対して私たちは１３人もいる……。",
+      "zh": "大魔女只有一个人……<br>\n而我们有13人之多……",
+      "vi": "Chỉ có một phù thủy vĩ đại... Và chúng tôi có 13 người...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro014|",
+      "ja": "勝ち目はあるよ。",
+      "zh": "胜算还是有的。",
+      "vi": "Vẫn còn cơ hội chiến thắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka015",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka015|",
+      "ja": "……私たちが束になったところで<br>戦いに役立つ魔法の持ち主なんて<br>限られてるじゃない。",
+      "zh": "……就算我们联合起来，<br>\n也只有那几个人的魔法<br>\n能在战斗中派上用场，不是吗。",
+      "vi": "...Ngay cả khi chúng ta đoàn kết, Chỉ có điều kỳ diệu của số ít người đó Có thể có ích trong trận chiến, phải không.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka016",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka016|",
+      "ja": "それに対して、大魔女の力は強大よ。",
+      "zh": "而相对的，大魔女的力量十分强大。",
+      "vi": "Ngược lại, Great Witch rất mạnh mẽ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka017",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka017|",
+      "ja": "あなたの言葉には説得力が全くないわ。",
+      "zh": "你的主张完全没有说服力。",
+      "vi": "Lập luận của bạn hoàn toàn không thuyết phục.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro015|",
+      "ja": "（楽観的な解決策では響かないか）",
+      "zh": "（看来乐观的解决方案是没法打动她了）",
+      "vi": "(Có vẻ như những giải pháp lạc quan không thể gây ấn tượng với cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro016|",
+      "ja": "（……それに、ナノカを魔女化させるには<br>　彼女のトラウマを刺激する必要がある）",
+      "zh": "（……而且，要促进奈叶香的魔女化，<br>\n需要刺激她的心理创伤）",
+      "vi": "(…Hơn nữa, để thúc đẩy quá trình biến Nanoyaka thành phù thủy, Cần kích thích chấn thương tâm lý của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro017|",
+      "ja": "（ナノカが最も【望まないこと】を<br>　考えてみよう……）",
+      "zh": "（思考一下<br>\n奈叶香最【不希望发生的事】吧……）",
+      "vi": "(Hãy nghĩ về Có lẽ [điều] Nanoyaka không muốn nhất xảy ra...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro018|",
+      "ja": "（彼女が死の間際、何を拒んでいたか……<br>　私は覚えているはずだ）",
+      "zh": "（她在临死前拒绝了什么……<br>\n我应该还记得才对）",
+      "vi": "(Cô ấy đã từ chối điều gì trước khi chết... Tôi vẫn nên nhớ)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro019|",
+      "ja": "博打だとしても<br>賭けなければ何も変わらない……！",
+      "zh": "就算是赌局，<br>\n不下注的话，一切都不会有改变……！",
+      "vi": "Ngay cả khi đó là trò chơi cờ bạc, Nếu bạn không đặt cược, sẽ không có gì thay đổi cả...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro020|",
+      "ja": "どうせ君も大魔女に挑むつもりなんだろう。",
+      "zh": "既然你也打算跟大魔女硬碰硬——",
+      "vi": "Vì cậu cũng có ý định đối đầu trực diện với mụ phù thủy to lớn——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro021|",
+      "ja": "なら私と一緒に戦おう……！",
+      "zh": "不如我们一起并肩作战吧……！",
+      "vi": "Chúng ta cùng chiến đấu nhé...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka018",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka018|",
+      "ja": "あなたの計画には<br>具体性がないわ。",
+      "zh": "你的计划<br>\n缺乏具体性。",
+      "vi": "Kế hoạch của bạn Thiếu tính đặc hiệu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka019",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka019|",
+      "ja": "大魔女は……いつか私が倒す。",
+      "zh": "总有一天……我会打倒大魔女。",
+      "vi": "Một ngày nào đó... tôi sẽ đánh bại mụ phù thủy vĩ đại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka020",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka020|",
+      "ja": "あなたたちと馴れ合うつもりはないの。",
+      "zh": "我不打算跟你们玩友情游戏。",
+      "vi": "Tôi sẽ không chơi trò chơi thân thiện với bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro022|",
+      "ja": "（楽観的な解決策では響かないか）",
+      "zh": "（看来乐观的解决方案是没法打动她了）",
+      "vi": "(Có vẻ như những giải pháp lạc quan không thể gây ấn tượng với cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro023|",
+      "ja": "（……それに、ナノカを魔女化させるには<br>　彼女のトラウマを刺激する必要がある）",
+      "zh": "（……而且，要促进奈叶香的魔女化，<br>\n需要刺激她的心理创伤）",
+      "vi": "(…Hơn nữa, để thúc đẩy quá trình biến Nanoyaka thành phù thủy, Cần kích thích chấn thương tâm lý của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro024|",
+      "ja": "（ナノカが最も【望まないこと】を<br>　考えてみよう……）",
+      "zh": "（思考一下<br>\n奈叶香最【不希望发生的事】吧……）",
+      "vi": "(Hãy nghĩ về Có lẽ [điều] Nanoyaka không muốn nhất xảy ra...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro025|",
+      "ja": "（彼女が死の間際、何を拒んでいたか……<br>　私は覚えているはずだ）",
+      "zh": "（她在临死前拒绝了什么……<br>\n我应该还记得才对）",
+      "vi": "(Cô ấy đã từ chối điều gì trước khi chết... Tôi vẫn nên nhớ)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro026|",
+      "ja": "（……ナノカが処刑されたときのことだ）",
+      "zh": "（……记得当时奈叶香被处刑的时候，发生了一件事）",
+      "vi": "(...Mình nhớ có chuyện đã xảy ra khi Nanoyaka bị xử tử)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka021",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka021|",
+      "ja": "もう私を庇ったりしないでよぉ……！！",
+      "zh": "别再保护我了……！！",
+      "vi": "Đừng bảo vệ tôi nữa...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro027|",
+      "ja": "（彼女が魔女化したとき……<br>　そのきっかけとなった出来事）",
+      "zh": "（而这件事……<br>\n成为了诱发她魔女化的契机）",
+      "vi": "(Và vấn đề này... Nó trở thành cơ hội để khiến cô ấy trở thành phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro028|",
+      "ja": "（あのとき、起こった事は――！）",
+      "zh": "（当时发生的那件事就是——！）",
+      "vi": "(Đó là những gì đã xảy ra vào thời điểm đó——!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro029|",
+      "ja": "……何かあったとき。",
+      "zh": "……之后万一出了什么事。",
+      "vi": "…Lỡ sau này có chuyện gì xảy ra thì sao.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro030|",
+      "ja": "その時は、私がみんなの身代わりになる。",
+      "zh": "到时候，我会做大家的替身，承担不利的后果。",
+      "vi": "Khi thời cơ đến, tôi sẽ là người thay thế mọi người và gánh chịu hậu quả bất lợi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka022",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka022|",
+      "ja": "………っ！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro031|",
+      "ja": "君の姉がしたように……。",
+      "zh": "就像你姐姐当初做的那样……",
+      "vi": "Giống như chị gái cậu đã làm...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka023",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka023|",
+      "ja": "――やめて！！",
+      "zh": "——住口！！",
+      "vi": "--Im đi! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka024",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka024|",
+      "ja": "どうして……<br>どうしてあなたたちはそうなの！？",
+      "zh": "为什么……<br>\n为什么你们都喜欢这样！？",
+      "vi": "Tại sao... Tại sao tất cả các bạn đều thích điều này! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka025",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka025|",
+      "ja": "誰が助けて欲しいなんて言ったの！？<br>私がいつ頼んだのよ！？",
+      "zh": "谁说过要你们帮了！？<br>\n我什么时候拜托过你们了！？",
+      "vi": "Ai nói tôi cần sự giúp đỡ của bạn? ? Tôi đã bao giờ yêu cầu bạn làm hài lòng tôi khi nào? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka026",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka026|",
+      "ja": "勝手に守って、<br>勝手に助けて、<br>勝手に犠牲になって……！",
+      "zh": "自作主张地来保护我，<br>\n自作主张地来帮助我，<br>\n最后自作主张地牺牲掉……！",
+      "vi": "Bạn đã tự mình bảo vệ tôi, Hãy tự mình cố gắng giúp tôi nhé, Cuối cùng, anh ấy đã chủ động hy sinh bản thân mình…!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka027",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka027|",
+      "ja": "そんなに私が頼りないの！？",
+      "zh": "我有那么靠不住吗！？",
+      "vi": "Tôi không đáng tin đến thế à? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka028",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka028|",
+      "ja": "私じゃあ、役に立たないの！？",
+      "zh": "我就一点用处都派不上吗！？",
+      "vi": "Tôi có phải là người vô dụng chút nào không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro032|",
+      "ja": "（今の彼女は私に姉を重ねている）",
+      "zh": "（她现在将她姐姐的形象投射在了我身上）",
+      "vi": "(Bây giờ cô ấy chiếu hình ảnh của em gái mình lên tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro033|",
+      "ja": "（今なら彼女を魔女化させられるかもしれない）",
+      "zh": "（现在的话，说不定就能诱发她的魔女化了）",
+      "vi": "(Bây giờ, có lẽ chúng ta có thể khiến cô ấy trở thành phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro034|",
+      "ja": "（……ナノカのトラウマとなった、<br>　彼女の姉がした事……。<br>　それを再現するには――）",
+      "zh": "（……她姐姐做了一件事，<br>\n造成了奈叶香的心理创伤……<br>\n要重现那件事，我需要——）",
+      "vi": "(...Em gái cô ấy đã làm gì đó, Đã gây ra tổn thương tâm lý cho Nanoyaka... Để tạo lại điều đó, tôi cần --)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Choice005",
+      "speaker_tag": "; > @choice |#0205Trial12_Choice005|",
+      "ja": "愛を囁く",
+      "zh": "轻声道出爱",
+      "vi": "thì thầm tình yêu",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Choice006",
+      "speaker_tag": "; > @choice |#0205Trial12_Choice006|",
+      "ja": "抱きしめる",
+      "zh": "紧紧拥抱她",
+      "vi": "ôm cô ấy thật chặt",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Choice007",
+      "speaker_tag": "; > @choice |#0205Trial12_Choice007|",
+      "ja": "自身を犠牲にする",
+      "zh": "牺牲自己",
+      "vi": "hy sinh bản thân",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro035",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro035|",
+      "ja": "そんなことはない。",
+      "zh": "你不必自责。",
+      "vi": "Bạn không cần phải tự trách mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro036",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro036|",
+      "ja": "前の世界で私は……<br>君に遺言を託されたから、ここまで来れたんだ！",
+      "zh": "在上一个世界……<br>\n多亏你向我托付了遗言，我才能来到这里！",
+      "vi": "Ở thế giới cuối cùng... Nhờ những lời cuối cùng bạn giao phó cho tôi, tôi ở đây!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro037",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro037|",
+      "ja": "君の力のおかげだ。",
+      "zh": "这全都靠你的力量。",
+      "vi": "Tất cả đều nằm trong khả năng của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro038",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro038|",
+      "ja": "……………愛しているよ、ナノカ。",
+      "zh": "……………我爱你哦，奈叶香。",
+      "vi": "………Anh yêu em, Nanoyaka.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka029",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka029|",
+      "ja": "……。",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka030",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka030|",
+      "ja": "冗談は、やめて……。",
+      "zh": "别拿我开玩笑了……",
+      "vi": "Đừng trêu chọc tôi nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro039",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro039|",
+      "ja": "（……これはマーゴのトラウマだったな……）",
+      "zh": "（……这好像是玛格的心理创伤……）",
+      "vi": "(…Đây có vẻ là chấn thương tâm lý của Mag…)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro040",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro040|",
+      "ja": "（魔女化が遠のいてしまったかもしれない）",
+      "zh": "（总感觉现在离魔女化的目标更遥远了）",
+      "vi": "(Tôi cảm thấy như chúng ta đang ngày càng rời xa mục tiêu trở thành phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro041",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro041|",
+      "ja": "（……ナノカを魔女化させるためには、<br>　彼女が最も【望まないこと】をする必要がある）",
+      "zh": "（……要让奈叶香魔女化，<br>\n我有必要做出她最【不希望发生的事】）",
+      "vi": "(...Để biến Nanoyaka thành phù thủy, Tôi phải làm điều mà cô ấy ít muốn xảy ra nhất)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro042",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro042|",
+      "ja": "（ナノカは、私への遺言で<br>　【もう誰も犠牲になってほしくない】と言っていた）",
+      "zh": "（奈叶香在她留给我的遗言中，<br>\n提到过【不希望再有任何人牺牲】）",
+      "vi": "(Nayoka trong lời cuối cùng của cô ấy với tôi, Đã đề cập [Tôi không muốn ai chết nữa])",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro043",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro043|",
+      "ja": "（……その願いを無下にするのは心が痛むが、<br>　ナノカのトラウマを刺激するためには――）",
+      "zh": "（……我也很不愿意践踏她的愿望，<br>\n但为了刺激奈叶香的心理创伤，我需要——）",
+      "vi": "(...Tôi cũng không muốn chà đạp lên mong muốn của cô ấy, Nhưng để kích thích chấn thương tâm lý của Nanoyaka, mình cần——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro044",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro044|",
+      "ja": "（……ナノカの処刑終了後のことだ）",
+      "zh": "（……我还记得奈叶香被处刑之后的样子）",
+      "vi": "(…Tôi vẫn nhớ hình dáng của Nanoyaka sau khi cô ấy bị hành quyết)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro045",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro045|",
+      "ja": "（異形と化した彼女は<br>　姉と２人で抱き合うように重なっていた）",
+      "zh": "（化为异形的她<br>\n最后和姐姐互相拥抱在一起）",
+      "vi": "(Cô ấy biến thành người ngoài hành tinh Cuối cùng tôi và chị ôm nhau)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro046",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro046|",
+      "ja": "（つまり……私がすべきことは――）",
+      "zh": "（也就是说……我应该做的是——）",
+      "vi": "(Nói cách khác... điều mình nên làm là——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro047",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro047|",
+      "ja": "ナノカ、大丈夫だ。<br>私に任せておけば――。",
+      "zh": "奈叶香，没事的。<br>\n交给我吧——",
+      "vi": "Nanoyaka, không sao đâu. Để đó cho tôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka031",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka031|",
+      "ja": "――それ以上近付かないで。",
+      "zh": "——不要再靠近我。",
+      "vi": "--Đừng đến gần tôi nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka032",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka032|",
+      "ja": "撃たれたくなければ、離れなさい。",
+      "zh": "不想挨子弹的话，就离我远点。",
+      "vi": "Nếu không muốn bị bắn thì hãy tránh xa tôi ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro048",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro048|",
+      "ja": "（警戒させてしまったか……）",
+      "zh": "（看来我引起她的戒备了……）",
+      "vi": "(Có vẻ như mình đã đánh thức sự cảnh giác của cô ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro049",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro049|",
+      "ja": "（……ナノカを魔女化させるためには、<br>　彼女が最も【望まないこと】をする必要がある）",
+      "zh": "（……要让奈叶香魔女化，<br>\n我有必要做出她最【不希望发生的事】）",
+      "vi": "(...Để biến Nanoyaka thành phù thủy, Tôi phải làm điều mà cô ấy ít muốn xảy ra nhất)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro050",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro050|",
+      "ja": "（ナノカは、私への遺言で<br>　【もう誰も犠牲になってほしくない】と言っていた）",
+      "zh": "（奈叶香在她留给我的遗言中，<br>\n提到过【不希望再有任何人牺牲】）",
+      "vi": "(Nayoka trong lời cuối cùng của cô ấy với tôi, Đã đề cập [Tôi không muốn ai chết nữa])",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro051",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro051|",
+      "ja": "（……その願いを無下にするのは心が痛むが、<br>　ナノカのトラウマを刺激するためには――）",
+      "zh": "（……我也很不愿意践踏她的愿望，<br>\n但为了刺激奈叶香的心理创伤，我需要——）",
+      "vi": "(...Tôi cũng không muốn chà đạp lên mong muốn của cô ấy, Nhưng để kích thích chấn thương tâm lý của Nanoyaka, mình cần——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro052",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro052|",
+      "ja": "（他者による【自己犠牲】……）",
+      "zh": "（他人的【自我牺牲】……）",
+      "vi": "([Sự hy sinh bản thân] của người khác…)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro053",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro053|",
+      "ja": "（おそらくそれがナノカのトラウマだ）",
+      "zh": "（这大概正是奈叶香的心理创伤）",
+      "vi": "(Đây có lẽ là chấn thương tâm lý của Nanoyaka)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro054",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro054|",
+      "ja": "（なら……私がすべきことは）",
+      "zh": "（那么……接下来我该做的就是——）",
+      "vi": "(Vậy... điều mình nên làm tiếp theo là——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro055",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro055|",
+      "ja": "……わかった。",
+      "zh": "……我明白了。",
+      "vi": "...Tôi hiểu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro056",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro056|",
+      "ja": "君の説得は失敗してしまったようだ。",
+      "zh": "看来我最终没能说服你。",
+      "vi": "Có vẻ như cuối cùng tôi đã thất bại trong việc thuyết phục bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka033",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka033|",
+      "ja": "…………？",
+      "zh": "…………？",
+      "vi": "…………？",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro057",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro057|",
+      "ja": "悪いが、もう私は手段を選んでいられない。",
+      "zh": "抱歉，既然到了这个地步，我只能不择手段了。",
+      "vi": "Xin lỗi, giờ đã đến mức này rồi, tôi không còn cách nào khác ngoài dùng đến mọi biện pháp.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro058",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro058|",
+      "ja": "君を守るためには――。",
+      "zh": "为了保护你——",
+      "vi": "Để bảo vệ bạn——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro059",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro059|",
+      "ja": "――【死に戻る】しかない。",
+      "zh": "——我只能【死亡回溯】了。",
+      "vi": "---Tôi chỉ có thể [nhìn lại cái chết].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka034",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka034|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro060",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro060|",
+      "ja": "（……今の私は魔女。<br>　ちょっとやそっとの傷では死にようがない……）",
+      "zh": "（……我现在是魔女。<br>\n受一点半点的伤是死不掉的……）",
+      "vi": "(...Bây giờ tôi là phù thủy. Bạn sẽ không chết ngay cả khi bạn bị thương nhẹ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro061",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro061|",
+      "ja": "（とはいえ【自殺】を想起してしまうのは、辛いな）",
+      "zh": "（话虽如此，一想到【自杀】我还是会很难受）",
+      "vi": "(Nói vậy nhưng ý nghĩ [tự sát] vẫn khiến tôi khó chịu)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro062",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro062|",
+      "ja": "（だがこれはあくまでも【自傷】……。<br>　死ぬ気はない……！）",
+      "zh": "（不过这终究只能算是【自残】……<br>\n我没打算真的去死……！）",
+      "vi": "(Nhưng suy cho cùng thì điều này chỉ có thể được coi là [tự làm hại bản thân]... Tôi thực sự không có ý định chết...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro063",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro063|",
+      "ja": "（他に手段がない以上……<br>　覚悟を決めろ！<br>　二階堂ヒロ！）",
+      "zh": "（既然没有其他手段……<br>\n只能下定决心了！<br>\n二阶堂希罗！）",
+      "vi": "(Vì không còn cách nào khác... Tôi chỉ có thể quyết định thôi! Nikaido Hiro! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro064",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro064|",
+      "ja": "ぐぅっ……！？",
+      "zh": "咕唔……！？",
+      "vi": "Ôi...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka035",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka035|",
+      "ja": "――やめなさい！！",
+      "zh": "——住手！！",
+      "vi": "--Dừng lại! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Meruru001",
+      "speaker_tag": "; > Meruru: |#0205Trial12_Meruru001|",
+      "ja": "ヒ、ヒロさんっ……！",
+      "zh": "希、希罗小姐……！",
+      "vi": "H-Cô Hiro...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka036",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka036|",
+      "ja": "どうして……どうして……！",
+      "zh": "为什么……为什么……！",
+      "vi": "Tại sao... tại sao...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka037",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka037|",
+      "ja": "遺された人の気持ちも――<br>考えてよぉっ！",
+      "zh": "走得倒是轻松——<br>\n能不能考虑下，被留下的人是什么心情啊！",
+      "vi": "Thật dễ dàng để đi bộ—— Bạn có thể nghĩ xem người bị bỏ lại cảm thấy thế nào không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro065",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro065|",
+      "ja": "（……ナノカが、魔女に……！）",
+      "zh": "（……奈叶香她，变成魔女了……！）",
+      "vi": "(...Nayoka, cô ấy đã trở thành phù thủy...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka038",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka038|",
+      "ja": "う、うう……！",
+      "zh": "呜、呜呜……！",
+      "vi": "Chao ôi, ôi ôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro066",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro066|",
+      "ja": "私は魔女だ。<br>……これぐらいじゃあ、死なない。",
+      "zh": "我是魔女。<br>\n……这么点伤死不了。",
+      "vi": "Tôi là một phù thủy. ...Bạn không thể chết vì vết thương như vậy được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro067",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro067|",
+      "ja": "君を魔女化させるため……<br>わざと君のために犠牲になる者の姿を見せた。",
+      "zh": "为了促成你的魔女化……<br>\n我是故意让你看到，有人为你牺牲的样子。",
+      "vi": "Để thúc đẩy quá trình chuyển đổi của bạn thành phù thủy... Tôi cố tình để bạn nhìn thấy ai đó hy sinh vì bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka039",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka039|",
+      "ja": "……卑怯だわ、あなた。",
+      "zh": "……你真卑鄙。",
+      "vi": "...Anh thật đáng khinh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro068",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro068|",
+      "ja": "……すまない。<br>だがさきほど言った通り、手段を選ぶつもりはない。",
+      "zh": "……抱歉了。<br>\n但正如我刚才所说，我不在乎我要采取怎样的手段。",
+      "vi": "...Xin lỗi. Nhưng như tôi vừa nói, tôi không quan tâm nó cần những gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro069",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro069|",
+      "ja": "必ず……みんなを救ってみせる。",
+      "zh": "我一定要……拯救大家。",
+      "vi": "Tôi phải... cứu mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Nanoka040",
+      "speaker_tag": "; > Nanoka: |#0205Trial12_Nanoka040|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro070",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro070|",
+      "ja": "……すまない、メルル。<br>治療を頼む。",
+      "zh": "……不好意思，梅露露。<br>\n拜托你帮忙治疗了。",
+      "vi": "...Xin lỗi, Meruru. Xin hãy giúp đỡ điều trị.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Meruru002",
+      "speaker_tag": "; > Meruru: |#0205Trial12_Meruru002|",
+      "ja": "は、はい！",
+      "zh": "好、好的！",
+      "vi": "Được rồi, được rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro071",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro071|",
+      "ja": "（……メルルが治すまでもなく、<br>　腹を刺したのに大した出血もない）",
+      "zh": "（……感觉都不需要梅露露治疗了，<br>\n我捅了肚子却没怎么出血）",
+      "vi": "(...Tôi cảm thấy mình không cần sự điều trị của Meruru nữa, Tôi đâm vào bụng nhưng không chảy máu)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro072",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro072|",
+      "ja": "（すっかり化け物の体だな）",
+      "zh": "（整个身体已经完全变成怪物了）",
+      "vi": "(Toàn bộ cơ thể đã hoàn toàn biến thành quái vật)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro073",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro073|",
+      "ja": "（だが心まではまだ魔女となっていない）",
+      "zh": "（但我的内心还没有完全变成魔女）",
+      "vi": "(Nhưng bên trong tôi vẫn chưa hoàn toàn biến thành phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro074",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro074|",
+      "ja": "（今のうちに……大魔女への道を整える……！）",
+      "zh": "（我要趁现在……开辟出一条通往大魔女的道路……！）",
+      "vi": "(Mình muốn tận dụng lúc này... để mở ra con đường dẫn tới mụ phù thủy vĩ đại...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Meruru003",
+      "speaker_tag": "; > Meruru: |#0205Trial12_Meruru003|",
+      "ja": "……ヒロさん、これでどうでしょう……？",
+      "zh": "……希罗小姐，你觉得好些了吗……？",
+      "vi": "...Cô Hiro, cô thấy khỏe hơn chưa...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro075",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro075|",
+      "ja": "……ありがとう。<br>もう痛みもない。",
+      "zh": "……谢谢。<br>\n已经不痛了。",
+      "vi": "...cảm ơn bạn. Nó không còn đau nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro076",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro076|",
+      "ja": "（傷はすっかり塞がったか）",
+      "zh": "（看来伤口完全愈合了）",
+      "vi": "(Có vẻ như vết thương đã lành hoàn toàn)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Coco001",
+      "speaker_tag": "; > Coco: |#0205Trial12_Coco001|",
+      "ja": "……つーかさぁ。",
+      "zh": "……我说啊。",
+      "vi": "...Coco đã nói rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Coco002",
+      "speaker_tag": "; > Coco: |#0205Trial12_Coco002|",
+      "ja": "なんなんその……大魔女とか！",
+      "zh": "那个大魔女什么的……到底是什么鬼啊！",
+      "vi": "Con mụ phù thủy to lớn đó hay thứ gì tương tự thế là cái quái gì vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Coco003",
+      "speaker_tag": "; > Coco: |#0205Trial12_Coco003|",
+      "ja": "あてぃし全然聞いてないんですけどっ！？",
+      "zh": "人家完全没听说过欸！？",
+      "vi": "Coco chưa bao giờ nghe nói về nó cả! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Coco004",
+      "speaker_tag": "; > Coco: |#0205Trial12_Coco004|",
+      "ja": "なんかあれじゃん……<br>【魔王を倒す勇者】みたいなそういう話？",
+      "zh": "总觉得像那个什么……<br>\n【打倒魔王的勇者】之类的故事？",
+      "vi": "Luôn có cảm giác như vậy... Một câu chuyện như [Anh hùng đánh bại Quỷ vương]?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Coco005",
+      "speaker_tag": "; > Coco: |#0205Trial12_Coco005|",
+      "ja": "そういうサムいのはあんたらで勝手にやってよ！",
+      "zh": "这种尬得头皮发麻的事情，就别算上我了啦！",
+      "vi": "Đừng loại Coco ra khỏi chuyện đáng xấu hổ này!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Coco006",
+      "speaker_tag": "; > Coco: |#0205Trial12_Coco006|",
+      "ja": "つかそういうのって警察とかの仕事っしょ！？<br>あてぃしら関係なくない！？",
+      "zh": "再说这些事不该是警察来干吗！？<br>\n跟我们完全没关系吧！？",
+      "vi": "Ngoài ra, cảnh sát không phải chịu trách nhiệm về những việc này sao? ? Nó chẳng liên quan gì đến chúng ta cả! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Coco007",
+      "speaker_tag": "; > Coco: |#0205Trial12_Coco007|",
+      "ja": "……うちに帰してよっ！",
+      "zh": "……快放我回家啊！",
+      "vi": "...Hãy để Coco về nhà nhanh chóng!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro077",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro077|",
+      "ja": "（……うるさいのが騒ぎ出したな）",
+      "zh": "（……烦人的家伙也开始骚动起来了）",
+      "vi": "(...Anh chàng khó chịu cũng bắt đầu làm ầm lên)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo001",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo001|",
+      "ja": "……【逃避】ね。",
+      "zh": "……她在【逃避】哦。",
+      "vi": "...Cô ấy là [trốn thoát].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro078",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro078|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo002",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo002|",
+      "ja": "わかる？<br>ヒロちゃん。",
+      "zh": "能看得出来吗？<br>\n希罗。",
+      "vi": "Bạn có thể nói được không? Anh hùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo003",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo003|",
+      "ja": "彼女は逃避行動を取っている……。<br>恐怖や不安から逃れるための、<br>心の防衛機制よ。",
+      "zh": "她在采取逃避行动……<br>\n这是为了逃避恐惧和不安的，<br>\n心灵的防御机制哦。",
+      "vi": "Cô ấy đang thực hiện hành động lảng tránh... Điều này là để thoát khỏi nỗi sợ hãi và bất an, Cơ chế bảo vệ của tâm trí.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo004",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo004|",
+      "ja": "……ココちゃんだってわかっているの。<br>今のこの状況が異常な状況だっていうことは。",
+      "zh": "……可可她自己也明白，<br>\n目前的情况是异常的。",
+      "vi": "...Bản thân Keke cũng hiểu, Tình hình hiện tại là đặc biệt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo005",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo005|",
+      "ja": "でもそれを理解しようとしていない。<br>頭ではわかっていても、<br>認識できない【フリ】をしてしまう……。",
+      "zh": "但是她并不愿意去理解。<br>\n明明脑子里能想明白，<br>\n也会不自觉地【假装】无法认知……",
+      "vi": "Nhưng cô không muốn hiểu. Rõ ràng là Chị có thể hình dung ra điều đó trong đầu, Họ cũng sẽ [giả vờ] một cách vô thức không thể nhận ra…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo006",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo006|",
+      "ja": "現実から、目を背け続けて破滅に向かっているの。<br>それが今のあの子。",
+      "zh": "她正在持续地逃避现实，正在走向毁灭。<br>\n这就是她目前的情况。",
+      "vi": "Cô ấy đang tiếp tục trốn tránh thực tế và đang hướng tới sự hủy diệt. Đây là tình hình hiện tại của cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo007",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo007|",
+      "ja": "……なら、無理矢理にでも瞼をこじ開けて、<br>前を見せてあげなきゃね♡",
+      "zh": "……既然如此，那就算硬来也得掰开她的眼皮，<br>\n让她好好看清面前的现实才行呢♡",
+      "vi": "...Trong trường hợp này, dù có ép buộc thì Chị cũng phải mở mí mắt cho cô ấy, Hãy để cô ấy nhìn rõ thực tế trước mặt♡",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro079",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro079|",
+      "ja": "……助言かな。<br>礼を言っておこうか。",
+      "zh": "……你是在给我建议吗。<br>\n那我还是给你道个谢好了。",
+      "vi": "...Bạn đang cho tôi lời khuyên phải không? Vậy thì tốt hơn tôi nên nói lời cảm ơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo008",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo008|",
+      "ja": "あら、そんなつもりはないわ。",
+      "zh": "哎呀，我可没那个意思。",
+      "vi": "Rất tiếc, Chị không có ý đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo009",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo009|",
+      "ja": "ただココちゃんがあなたに泣かされてる姿が<br>見てみたいだけ♡",
+      "zh": "我只是想看看<br>\n可可被你弄哭的样子♡",
+      "vi": "Chị chỉ muốn xem Cách Coco khiến em khóc♡",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro080",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro080|",
+      "ja": "（相変わらず悪趣味な……)",
+      "zh": "（她还是老样子，充满了恶趣味……)",
+      "vi": "(Cô ấy vẫn vậy, đầy mùi vị khó chịu...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo010",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo010|",
+      "ja": "それに……<br>ヒロちゃんの計画に乗るにしろ、乗らないにしろ、<br>逃げたら【負け】しか残っていないもの。",
+      "zh": "而且……<br>\n不管我们是否配合希罗你的计划，<br>\n如果逃避的话，等待我们的就只有【失败】了。",
+      "vi": "Và... Bất kể chúng Chị có hợp tác với kế hoạch của em hay không, Anh hùng, Nếu chúng ta trốn thoát, điều duy nhất chờ đợi chúng ta là [thất bại].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo011",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo011|",
+      "ja": "ヒロちゃんはポーカーを知ってるかしら？",
+      "zh": "希罗你知道扑克牌吗？",
+      "vi": "Anh hùng, em có biết poker không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro081",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro081|",
+      "ja": "……ルールぐらいは。",
+      "zh": "……规则我还是知道的。",
+      "vi": "...Tôi vẫn biết luật lệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo012",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo012|",
+      "ja": "なら、わかってくれると思うけれど。",
+      "zh": "那么，我想你应该明白。",
+      "vi": "Vâng, Chị nghĩ em nên hiểu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo013",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo013|",
+      "ja": "私たちに許されるのは、<br>ヒロちゃんの計画に<ruby=\"ベット\">賭</ruby>するか……<br>もしくは他の道を考えること。",
+      "zh": "我们能选的选项，<br>\n要么是在希罗的计划上押注……<br>\n要么是思考其他的方法。",
+      "vi": "Các tùy chọn chúng ta có thể chọn, Hoặc đặt cược vào kế hoạch của Anh hùng... Hoặc nghĩ ra cách khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo014",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo014|",
+      "ja": "でも、この局面での<ruby=\"ドロップ\">降り</ruby>は許されないわ。<br>……絶対にね。",
+      "zh": "但是，在目前的局面下，我们没有办法选择“弃牌”。<br>\n……而且是绝对不可以选。",
+      "vi": "Tuy nhiên, trong tình hình hiện tại, chúng ta không có lựa chọn nào để “bỏ bài”. ...và nó hoàn toàn không phải là một lựa chọn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro082",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro082|",
+      "ja": "……なら、私への<ruby=\"チップ\">賭け金</ruby>は<br><ruby=\"レイズ\">上乗せ</ruby>しておくんだ。",
+      "zh": "……那就把筹码<br>\n压在我身上，怎么样。",
+      "vi": "... Sau đó đặt chip của bạn vào Còn ép tôi thì sao.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Hiro083",
+      "speaker_tag": "; > Hiro: |#0205Trial12_Hiro083|",
+      "ja": "後悔はさせない。",
+      "zh": "我保证不会让你后悔。",
+      "vi": "Tôi hứa bạn sẽ không hối tiếc.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Margo015",
+      "speaker_tag": "; > Margo: |#0205Trial12_Margo015|",
+      "ja": "……ふふ、考えておくわ。",
+      "zh": "……呵呵，我会考虑的。",
+      "vi": "...Haha, Chị sẽ xem xét nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Coco008",
+      "speaker_tag": "; > Coco: |#0205Trial12_Coco008|",
+      "ja": "なにバケモン同士、<br>２人してごちゃごちゃ言ってんのさ！",
+      "zh": "你们两个怪物，<br>\n凑在一起叽里咕噜讲什么呢！",
+      "vi": "Hai con quái vật, Chúng ta đang nói về điều gì khi chúng ta gặp nhau?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial12_Coco009",
+      "speaker_tag": "; > Coco: |#0205Trial12_Coco009|",
+      "ja": "とにかくあてぃしはあんたらなんかの話……<br>絶対聞かないからっ！！",
+      "zh": "总之……我绝对不会听<br>\n你们这种家伙的话！！",
+      "vi": "Tóm lại...Coco sẽ không bao giờ nghe Còn những kẻ như bạn thì sao! !",
+      "objection_links": []
+    }
+  ]
+}

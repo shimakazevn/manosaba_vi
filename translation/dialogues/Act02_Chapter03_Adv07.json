@@ -1,0 +1,560 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter03_Adv07",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter03/Act02_Chapter03_Adv07' Naninovel scenario script",
+  "total_entries": 69,
+  "entries": [
+    {
+      "id": "0203Adv07_Miria001",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria001|",
+      "ja": "エマちゃん、いいよ～。<br>おっ、斜めからもいいね～。",
+      "zh": "艾玛，很好哦～<br>\n哦，侧面角度也棒极了～",
+      "vi": "Ema, hay lắm~ Ôi, góc nghiêng cũng đẹp nữa~",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Ema001",
+      "speaker_tag": "; > Ema: |#0203Adv07_Ema001|",
+      "ja": "あ、あの、ミリアちゃん……<br>写真撮るんじゃなくて、<br>演技を見てもらいたいんだけど……。",
+      "zh": "我、我说，米莉亚……<br>\n别拍了，<br>\n你帮我看看我演得怎样吧……",
+      "vi": "Tôi, tôi đã nói, Miria... Dừng quay phim, Xin hãy giúp tôi xem tôi thực hiện như thế nào ...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria002",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria002|",
+      "ja": "困った顔も可愛いよ～。",
+      "zh": "为难的表情也好可爱啊～",
+      "vi": "Biểu cảm xấu hổ thật dễ thương~",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative001",
+      "speaker_tag": "",
+      "ja": "娯楽室に行くと、ミリアがスマホを片手に、<br>エマの周りをぐるぐると回っていた。",
+      "zh": "当我进入娱乐室的时候，<br>\n正好看到米莉亚拿着手机围着艾玛转。",
+      "vi": "Khi tôi bước vào Phòng Giải Trí, Đúng lúc nhìn thấy Miria đang đi dạo quanh Ema với chiếc điện thoại di động của cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative002",
+      "speaker_tag": "",
+      "ja": "連続でシャッターを切る音が室内に響く。",
+      "zh": "快门声咔嚓咔嚓地不停在房间内回响。",
+      "vi": "Tiếng click của màn trập vang vọng trong phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Hiro001",
+      "speaker_tag": "; > Hiro: |#0203Adv07_Hiro001|",
+      "ja": "これは……何をやっているんだ？",
+      "zh": "你们这……是在干什么？",
+      "vi": "Bạn đang... làm gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative003",
+      "speaker_tag": "",
+      "ja": "踏み込んでいい状況なのかわからず、<br>私は入口付近で<ruby=\"たたず\">佇</ruby>む。",
+      "zh": "我无法判断是否可以走进房间内，<br>\n只好站在门口问道。",
+      "vi": "Tôi không biết liệu mình có thể bước vào phòng hay không, Tôi đành phải đứng trước cửa hỏi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Ema002",
+      "speaker_tag": "; > Ema: |#0203Adv07_Ema002|",
+      "ja": "あ、ヒロちゃん……<br>これはえっと……。",
+      "zh": "啊，希罗……<br>\n我们这是……",
+      "vi": "À, anh hùng... Chúng tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative004",
+      "speaker_tag": "",
+      "ja": "エマは私に対し、<br>どこかぎこちない態度だった。",
+      "zh": "艾玛对我的态度<br>\n有着些许的不知所措。",
+      "vi": "Thái độ của Ema đối với tôi Có một chút bối rối.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative005",
+      "speaker_tag": "",
+      "ja": "先の事件での衝突を引きずっているのかもしれない。",
+      "zh": "可能是因为之前的冲突让她心有余悸。",
+      "vi": "Có lẽ là do cô vẫn còn sợ hãi trước cuộc xung đột trước đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative006",
+      "speaker_tag": "",
+      "ja": "地下の部屋でも相変わらず、<br>私とエマの間に会話はない。<br>冷え切った関係のまま、今日まで来ている。",
+      "zh": "在地下的房间里，<br>\n我跟艾玛依然完全没有交流。<br>\n这种疏远的关系一直维持至今。",
+      "vi": "Trong căn phòng dưới lòng đất, Ema và tôi vẫn không liên lạc gì cả. Mối quan hệ xa lạ này vẫn tiếp tục cho đến ngày nay.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria003",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria003|",
+      "ja": "まだ最初のちょっとだけど、台本ができたでしょ？",
+      "zh": "剧本不是已经出来了嘛？虽然就只有开头的一点点。",
+      "vi": "Không phải kịch bản đã có rồi sao? Mặc dù chỉ một chút lúc đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative007",
+      "speaker_tag": "",
+      "ja": "もたもたと口ごもるエマに代わって、<br>ミリアが事情を語りだした。",
+      "zh": "艾玛吞吞吐吐地说不出话来，<br>\n米莉亚便代她开口，向我说明事情的缘由。",
+      "vi": "Ema lắp bắp và không nói nên lời, Miria lên tiếng thay cô ấy và giải thích lý do cho tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria004",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria004|",
+      "ja": "だからエマちゃんが、<br>おじさんに少し演技を見てくれないかって。",
+      "zh": "所以艾玛<br>\n就来找大叔我来帮忙看看她演得怎样。",
+      "vi": "Vậy là Ema Chỉ cần đến gặp chú Miria để được giúp đỡ và xem cô ấy thực hiện như thế nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Hiro002",
+      "speaker_tag": "; > Hiro: |#0203Adv07_Hiro002|",
+      "ja": "……演技を見ているようには思えなかったが。",
+      "zh": "……可我看你们也不像是那么回事啊。",
+      "vi": "...Nhưng tôi không nghĩ trường hợp đó xảy ra với bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative008",
+      "speaker_tag": "",
+      "ja": "私の指摘に、ミリアは決まり悪そうに笑った。",
+      "zh": "听到我的疑问，米莉亚难为情地笑了笑。",
+      "vi": "Nghe câu hỏi của tôi, Miria mỉm cười ngượng ngùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria005",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria005|",
+      "ja": "それはその……なんていうか……。",
+      "zh": "这个嘛……怎么说呢……",
+      "vi": "Ờ... nên nói thế nào nhỉ...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative009",
+      "speaker_tag": "",
+      "ja": "歯切れの悪いミリアに、私は小さく首を<ruby=\"かし\">傾</ruby>げた。",
+      "zh": "米莉亚含糊其辞的模样让我不解。",
+      "vi": "Vẻ mặt mơ hồ của Miria làm tôi bối rối.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative010",
+      "speaker_tag": "",
+      "ja": "すると、ミリアがハッとした様子で、<br>素早くスマホを私へと向ける。",
+      "zh": "就在这时候，米莉亚突然露出一副恍然大悟的模样，<br>\n迅速把手机镜头对准我。",
+      "vi": "Lúc này, Miria đột nhiên lộ ra vẻ mặt hiểu rõ, Anh ấy nhanh chóng chĩa ống kính điện thoại di động của mình vào tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative011",
+      "speaker_tag": "",
+      "ja": "そして……",
+      "zh": "然后——",
+      "vi": "Sau đó——",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative012",
+      "speaker_tag": "",
+      "ja": "何故か写真を撮影した。",
+      "zh": "不知道出于什么想法，她给我拍了一张照。",
+      "vi": "Vì một ý tưởng nào đó không rõ, cô ấy đã chụp ảnh tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative013",
+      "speaker_tag": "",
+      "ja": "スマホの画面を確認し、<br>ミリアは満足そうに<ruby=\"うなず\">頷</ruby>く。",
+      "zh": "仔细检查过手机上的画面后，<br>\n米莉亚满意地点了点头。",
+      "vi": "Sau khi kiểm tra kỹ hình ảnh trên điện thoại, Miria gật đầu hài lòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative014",
+      "speaker_tag": "",
+      "ja": "それから、今度は私に画面を見せてきた。",
+      "zh": "接着，她把手机递到我面前。",
+      "vi": "Sau đó cô ấy đưa điện thoại cho tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria006",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria006|",
+      "ja": "はいっ、可愛く撮れてるよ。",
+      "zh": "看，拍得很可爱哦。",
+      "vi": "Nhìn xem, bức ảnh rất dễ thương.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative015",
+      "speaker_tag": "",
+      "ja": "そこには、小首を<ruby=\"かし\">傾</ruby>げる私の写真が表示されている。",
+      "zh": "手机画面上显示的，是我歪着头，一脸不明所以的照片。",
+      "vi": "Thứ hiển thị trên màn hình điện thoại là bức ảnh tôi đang nghiêng đầu và vẻ mặt bối rối.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Hiro003",
+      "speaker_tag": "; > Hiro: |#0203Adv07_Hiro003|",
+      "ja": "……どういうつもりかな？",
+      "zh": "……你这是想干什么？",
+      "vi": "...Bạn muốn làm gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative016",
+      "speaker_tag": "",
+      "ja": "あまり良い気分がするものではない。<br>眉をひそめ、静かに問う。",
+      "zh": "这种行为着实让人不快。<br>\n我皱着眉头，用镇静的语气问道。",
+      "vi": "Hành vi này thực sự khó chịu. Tôi hỏi với giọng bình tĩnh, cau mày.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria007",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria007|",
+      "ja": "い、いきなりごめんね！<br>最近おじさん、写真を撮るのにハマってて。",
+      "zh": "突、突然给你拍照，对不起！<br>\n最近大叔我有点沉迷摄影嘛。",
+      "vi": "Xin lỗi vì đột nhiên chụp ảnh bạn! Gần đây cháu hơi bị ám ảnh với nhiếp ảnh, chú ạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative017",
+      "speaker_tag": "",
+      "ja": "ミリアは慌てて<ruby=\"べんめい\">弁明</ruby>してから、<br>ふと、<ruby=\"ものう\">物憂</ruby>げな表情になった。",
+      "zh": "米莉亚慌忙向我解释道。<br>\n但她在下一瞬间，却显得有些忧伤。",
+      "vi": "Miria vội vàng giải thích cho tôi. Nhưng trong khoảnh khắc tiếp theo, cô ấy trông hơi buồn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria008",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria008|",
+      "ja": "おじさんたち、この先どうなるかわからないでしょ？<br>だからなのかな……。",
+      "zh": "我们以后会怎样，不是谁都说不准嘛？<br>\n所以啊……",
+      "vi": "Không ai có thể nói trước điều gì sẽ xảy ra với chúng ta trong tương lai phải không? Vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria009",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria009|",
+      "ja": "なんだか、今この一瞬一瞬を、<br>切り取っておきたい！ みたいな気がして……。",
+      "zh": "大叔我就想着……<br>\n要把现在的每一个瞬间都记录下来！",
+      "vi": "Bác ơi, cháu chỉ đang nghĩ... Hãy ghi lại mọi khoảnh khắc ngay bây giờ!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria010",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria010|",
+      "ja": "でも、いきなり撮るとか失礼だよね。<br>可愛かったからつい……。",
+      "zh": "可是这样突然拍别人确实很没礼貌吧。<br>\n大叔我就是看着可爱，一下子没忍住……",
+      "vi": "Nhưng đột nhiên chụp ảnh người khác như thế này thì thật là thô lỗ. Bác ơi, trông cháu dễ thương quá, không nhịn được...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Hiro004",
+      "speaker_tag": "; > Hiro: |#0203Adv07_Hiro004|",
+      "ja": "……そうだな。<br>許可なく写真を撮られるのは、<br>たしかにあまり良い気分じゃない。",
+      "zh": "……没错。<br>\n未经允许擅自拍下照片，<br>\n被拍的人心里肯定会觉得不舒服。",
+      "vi": "...đúng rồi. Chụp ảnh mà không được phép, Người được chụp ảnh chắc chắn sẽ cảm thấy khó chịu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Hiro005",
+      "speaker_tag": "; > Hiro: |#0203Adv07_Hiro005|",
+      "ja": "場合によっては、<br>肖像権の侵害に該当する行為だ。",
+      "zh": "这种行为还有可能<br>\n侵害他人肖像权。",
+      "vi": "Hành vi này cũng có thể xảy ra Xâm phạm quyền chân dung của người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Hiro006",
+      "speaker_tag": "; > Hiro: |#0203Adv07_Hiro006|",
+      "ja": "仮に君がその写真をどこかに無断で掲載したとすると、<br>名誉棄損やプライバシー権の侵害が成立する場合もある。",
+      "zh": "假如你未经本人同意私自将照片公开，<br>\n也有可能被判定为诽谤或者侵犯个人隐私。",
+      "vi": "Nếu bạn công khai ảnh mà không có sự đồng ý của tôi, Nó cũng có thể bị đánh giá là phỉ báng hoặc xâm phạm quyền riêng tư cá nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative018",
+      "speaker_tag": "",
+      "ja": "私は淡々と、<br>刑法についてミリアに語って聞かせた。",
+      "zh": "我沉声静气地向米莉亚讲述<br>\n刑法的相关条文。",
+      "vi": "Tôi lặng lẽ nói với Miria Các quy định có liên quan của pháp luật hình sự.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative019",
+      "speaker_tag": "",
+      "ja": "もし<ruby=\"めいよきそんざい\">名誉棄損罪</ruby>が認められた場合、<br>３年以下の<ruby=\"ちょうえき\">懲役</ruby>もしくは<ruby=\"きんこ\">禁固</ruby>、<br>または５０万円以下の罰金という可能性もある。",
+      "zh": "若被认定造成诽谤，<br>\n将可能判处三年以下的有期徒刑，<br>\n并处五十万日元以下的罚款。",
+      "vi": "Nếu bị phát hiện là gây phỉ báng, Có thể bị kết án phạt tù có thời hạn lên đến ba năm, và phạt tiền không quá 500.000 yên.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative020",
+      "speaker_tag": "",
+      "ja": "という部分でミリアの顔はもう、<br>かわいそうなくらいに<ruby=\"そうはく\">蒼白</ruby>だった。",
+      "zh": "说到这里，米莉亚已经吓得脸色发白，<br>\n看着都让我觉得可怜。",
+      "vi": "Lúc này, Miria tái mặt vì sợ hãi, Nó làm cho tôi cảm thấy đáng thương chỉ nhìn vào nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria011",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria011|",
+      "ja": "そうでした……<br>うう……以後、気を付けます……。",
+      "zh": "原来是这样……<br>\n呜呜……以后我会注意……",
+      "vi": "Vậy là xong... Woohoo... Miria sẽ chú ý đến nó trong tương lai...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria012",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria012|",
+      "ja": "でも、でもね、<br>おじさんは絶対どこかに掲載とかそういうのはしないよ。",
+      "zh": "可是，可是啊，<br>\n大叔我绝对不会把照片乱上传或者公开哦。",
+      "vi": "Nhưng, nhưng, Bác ơi, cháu sẽ không bao giờ tải ảnh ngẫu nhiên hay công khai đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria013",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria013|",
+      "ja": "それだけは絶対に誓えるけど、<br>でも、良くないことだったと思う。",
+      "zh": "这一点我可以对天发誓，<br>\n不过，大叔我已经知道错了。",
+      "vi": "Miria thề có Chúa, Tuy nhiên, chú ơi, cháu đã biết là mình sai rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative021",
+      "speaker_tag": "",
+      "ja": "反省の意を示すように、<br>ミリアはしゅんと<ruby=\"うなだ\">項垂</ruby>れる。",
+      "zh": "米莉亚低头丧气的，<br>\n看起来已经在反省。",
+      "vi": "Miria có vẻ chán nản, Có vẻ như anh ấy đang suy ngẫm.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative022",
+      "speaker_tag": "",
+      "ja": "あまり心配する必要はないかもしれない。<br>もはや外の法律など無意味にも思える。<br>私たちは、とっくに囚人なのだから。",
+      "zh": "说不定没必要担心那么多。<br>\n也许外面世界的法律对我们来说已经没有意义了。<br>\n因为，我们早就是笼中鸟、阶下囚。",
+      "vi": "Có lẽ không cần phải lo lắng nhiều như vậy. Có lẽ những quy luật của thế giới bên ngoài không còn ý nghĩa với chúng ta nữa. Bởi vì từ lâu chúng ta đã là những con chim và tù nhân bị nhốt trong lồng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Hiro007",
+      "speaker_tag": "; > Hiro: |#0203Adv07_Hiro007|",
+      "ja": "（話は逸れたが、<br>　大体の事情はわかった気がするな）",
+      "zh": "（话题虽然跑偏了，<br>\n但我基本上明白了事情的前因后果）",
+      "vi": "(Mặc dù chủ đề đã đi chệch hướng, Nhưng về cơ bản tôi đã hiểu nguyên nhân và kết quả của vấn đề)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative023",
+      "speaker_tag": "",
+      "ja": "エマの演技を見る過程でミリアは、<br>先ほどのような衝動に駆られたのだろう。",
+      "zh": "在品评艾玛演技如何的过程中，<br>\n米莉亚受到刚才所说的那股冲动驱使，开始给艾玛拍照。",
+      "vi": "Trong quá trình đánh giá khả năng diễn xuất của Ema, Bị thúc đẩy bởi sự thôi thúc đã đề cập trước đó, Miria bắt đầu chụp ảnh Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria014",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria014|",
+      "ja": "一生懸命なエマちゃんがなんかもう、<br>いじらしくて……。",
+      "zh": "尽心尽力的艾玛<br>\n那么的楚楚可怜……",
+      "vi": "Ema là người làm tốt nhất Thật đáng thương...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative024",
+      "speaker_tag": "",
+      "ja": "たどたどしくセリフを読む姿に、緊張でがちがちの動作。",
+      "zh": "台词说得磕磕巴巴，紧张得动作都不利索。",
+      "vi": "Lời thoại được nói một cách vụng về, và anh ấy lo lắng đến mức cử động của mình trở nên lúng túng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative025",
+      "speaker_tag": "",
+      "ja": "とにかく何もかもが、ミリアのツボだったようだ。<br>まるで使命感に動かされているかのように<ruby=\"りきせつ\">力説</ruby>する。",
+      "zh": "反正就是这一切全都戳中了米莉亚的喜好。<br>\n就像受到某种使命感所驱使一般，她大力主张这一点。",
+      "vi": "Dù sao đi nữa, tất cả những điều này đã gây ấn tượng với Miria. Cô ấy ủng hộ điều này, như thể được thúc đẩy bởi ý thức về sứ mệnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria015",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria015|",
+      "ja": "これはもう、写真に残すしかないなって！",
+      "zh": "那么可爱的样子一定得拍下来才行！",
+      "vi": "Vẻ ngoài dễ thương như vậy nhất định phải được chụp ảnh!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Ema003",
+      "speaker_tag": "; > Ema: |#0203Adv07_Ema003|",
+      "ja": "うぅ……<br>恥ずかしいからやめてほしいな。",
+      "zh": "唔唔……<br>\n你别这样，太难为情了。",
+      "vi": "Ừm... Đừng như vậy, xấu hổ quá.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative026",
+      "speaker_tag": "",
+      "ja": "エマは<ruby=\"ほお\">頬</ruby>を赤く染めながら<ruby=\"うめ\">呻</ruby>いた。<br>それからふと、表情を暗くして<ruby=\"うつむ\">俯</ruby>く。",
+      "zh": "艾玛红着脸挤出这句话来。<br>\n突然，她神色黯淡，垂下头来。",
+      "vi": "Ema đỏ mặt và thốt ra những lời này. Đột nhiên, sắc mặt cô trở nên u ám và cô cúi đầu xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Ema004",
+      "speaker_tag": "; > Ema: |#0203Adv07_Ema004|",
+      "ja": "でも……本当にボクなんかでいいのかな。",
+      "zh": "可是……选我真的好吗。",
+      "vi": "Nhưng... chọn tôi có thực sự ổn không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria016",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria016|",
+      "ja": "え、どういうこと？",
+      "zh": "欸，你说的哪回事？",
+      "vi": "Này, bạn đang nói về cái gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Ema005",
+      "speaker_tag": "; > Ema: |#0203Adv07_Ema005|",
+      "ja": "素人で、演技も上手くできないし、<br>セリフだってちゃんと覚えられるか不安で……。",
+      "zh": "我是个外行，演技完全不行，<br>\n就连背台词，都完全没有自信能做好……",
+      "vi": "Tôi là một người bình thường, kỹ năng diễn xuất của tôi hoàn toàn tệ, Ngay cả khi tôi ghi nhớ lời thoại của mình, tôi hoàn toàn không tự tin rằng mình có thể làm tốt…",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Ema006",
+      "speaker_tag": "; > Ema: |#0203Adv07_Ema006|",
+      "ja": "それなのに、重要な役で、<br>素敵な衣装まで作ってもらって……。",
+      "zh": "我这么没用，却让我出演重要角色，<br>\n还给我做了这么漂亮的舞台服……",
+      "vi": "Tôi thật vô dụng nhưng tôi được phép đóng vai trò quan trọng, Anh ấy còn may cho tôi một bộ trang phục sân khấu thật đẹp...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Hiro008",
+      "speaker_tag": "; > Hiro: |#0203Adv07_Hiro008|",
+      "ja": "それで？<br>まさか役を降りたいとでも？",
+      "zh": "然后呢？<br>\n难不成你还想说要辞演？",
+      "vi": "Vậy thì sao? Có thể là bạn vẫn muốn từ chức?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative027",
+      "speaker_tag": "",
+      "ja": "思わず口を挟んでいた。<br><ruby=\"おさ\">抑</ruby>えられず、私は続ける。",
+      "zh": "我不由地插嘴道。<br>\n话语不受我的控制冲口而出。",
+      "vi": "Tôi không thể không xen vào. Những lời đó thoát ra khỏi miệng tôi mà không có sự kiểm soát của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Hiro009",
+      "speaker_tag": "; > Hiro: |#0203Adv07_Hiro009|",
+      "ja": "レイア以外はみんな、素人だ。<br>それでも、前向きに頑張っている。<br>自信がないからと、君だけ投げ出す気か？",
+      "zh": "除了蕾雅以外，所有人都是外行。<br>\n就算是这样，大家都斗志昂扬地在努力。<br>\n一句“没有自信”，你就想擅自一个人放弃？",
+      "vi": "Mọi người đều là giáo dân ngoại trừ Leia. Dù vậy, mọi người đều đang làm việc chăm chỉ với tinh thần cao độ. Chỉ cần nói “bạn không có niềm tin”, bạn có muốn bỏ cuộc một mình không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Ema007",
+      "speaker_tag": "; > Ema: |#0203Adv07_Ema007|",
+      "ja": "ち、違うよ！",
+      "zh": "我、我没有这个意思！",
+      "vi": "Tôi, tôi không có ý đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative028",
+      "speaker_tag": "",
+      "ja": "慌てたように、エマは強く否定してきた。",
+      "zh": "艾玛慌了神似的极力否定。",
+      "vi": "Ema cố gắng hết sức để phủ nhận điều đó như thể cô ấy đang hoảng sợ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Ema008",
+      "speaker_tag": "; > Ema: |#0203Adv07_Ema008|",
+      "ja": "もちろんボクだって、頑張るつもりだよ……<br>だけどただ、不安なだけで……。",
+      "zh": "我肯定也是想努力的……<br>\n我只是，觉得心里没底……",
+      "vi": "Tôi chắc chắn cũng muốn làm việc chăm chỉ... Tôi chỉ cảm thấy không chắc chắn...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative029",
+      "speaker_tag": "",
+      "ja": "目を<ruby=\"ふ\">伏</ruby>せて、エマは消え入りそうな声を出す。",
+      "zh": "艾玛垂着眼，声音小得仿佛随时会消散在空气中。",
+      "vi": "Ema cụp mắt xuống, giọng nói nhỏ đến mức tưởng chừng như có thể biến mất trong không khí bất cứ lúc nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Miria017",
+      "speaker_tag": "; > Miria: |#0203Adv07_Miria017|",
+      "ja": "え、えーっと……。",
+      "zh": "欸……那个……",
+      "vi": "À...cái đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative030",
+      "speaker_tag": "",
+      "ja": "私とエマの間に立つミリアが、<br>気まずそうに目を泳がせている。",
+      "zh": "站在我和艾玛之间的米莉亚看起来有点尴尬，<br>\n眼神游移不定。",
+      "vi": "Miria trông hơi xấu hổ khi đứng giữa tôi và Ema, Đôi mắt anh lang thang.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative031",
+      "speaker_tag": "",
+      "ja": "そのことに気付き、<br>深く息を吐き出した。",
+      "zh": "察觉到这一点后，<br>\n我深深地呼出一口气。",
+      "vi": "Sau khi nhận ra điều này, Tôi thở dài thật sâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative032",
+      "speaker_tag": "",
+      "ja": "頭では理解しているつもりだ。<br>けれどどうしても割り切れない感情がある。",
+      "zh": "虽然理智上知道应该怎么做，<br>\n但心里却仍有某种感情无法释怀。",
+      "vi": "Mặc dù về mặt trí tuệ tôi biết mình nên làm gì, Nhưng trong lòng vẫn có những cảm xúc không thể buông bỏ được.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative033",
+      "speaker_tag": "",
+      "ja": "もうこれ以上の犠牲を出さないためには、<br>たとえ表面上だけでも<br>エマと折り合いをつける必要があるのに。",
+      "zh": "为了避免出现更多的牺牲，<br>\n就算只是表面上也好，<br>\n我跟艾玛的关系也必须找到一个折中的点才行。",
+      "vi": "Để tránh phải hy sinh thêm, Dù chỉ là bề ngoài thôi, Mối quan hệ của tôi với Ema cũng cần phải tìm cách thỏa hiệp.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Hiro010",
+      "speaker_tag": "; > Hiro: |#0203Adv07_Hiro010|",
+      "ja": "（やはりエマとは、<br>　なるべく言葉を交わさないほうがいい）",
+      "zh": "（我果然还是尽量避免跟艾玛对话为好）<br>",
+      "vi": "(Đúng như dự đoán, tôi muốn tránh nói chuyện với Ema càng nhiều càng tốt)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv07_Narrative034",
+      "speaker_tag": "",
+      "ja": "私は無言で<ruby=\"きびす\">踵</ruby>を返し、娯楽室を後にした。",
+      "zh": "我无言转身离开了娱乐室。",
+      "vi": "Tôi quay người rời khỏi Phòng Giải Trí mà không nói gì.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "bundle": "general-localization-zhhans-scripts-common_assets_all.bundle",
+  "script_name": "CommonBad11",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Common/CommonBad11' Naninovel scenario script",
+  "total_entries": 14,
+  "entries": [
+    {
+      "id": "CommonBad11_Narrative001",
+      "speaker_tag": "",
+      "ja": "――監獄島全体がアリサの魔法で炎に包まれ、<br>ハンナの魔法によって空高くへと浮上していく。",
+      "zh": "——整座监狱岛都被亚里沙的魔法火焰吞噬，<br>\n并在汉娜的魔法作用下，飞向高空。",
+      "vi": "---Toàn bộ hòn đảo Ngục Dinh Thự đã bị nuốt chửng bởi ngọn lửa ma thuật của Alisa, Và dưới tác dụng của phép thuật của Hanna, nó bay cao lên trời.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Narrative002",
+      "speaker_tag": "",
+      "ja": "振動と地響きの音が激しい。",
+      "zh": "剧烈的震动和地鸣声响彻四周。",
+      "vi": "Sự rung chuyển dữ dội và tiếng ầm ầm của mặt đất vang vọng xung quanh.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Narrative003",
+      "speaker_tag": "",
+      "ja": "空に浮かび上がった監獄島は、<br>自重に耐え切れず崩壊を始めていた。",
+      "zh": "飘浮到空中的监狱岛，<br>\n因无法承受自身重量而开始崩溃。",
+      "vi": "Đảo tù lơ lửng trên bầu trời, Nó bắt đầu sụp đổ vì không thể chịu nổi sức nặng của chính mình.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Ema001",
+      "speaker_tag": "; > Ema: |#CommonBad11_Ema001|",
+      "ja": "ヒロちゃん……。",
+      "zh": "希罗……",
+      "vi": "Hiro……",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Narrative004",
+      "speaker_tag": "",
+      "ja": "不安そうにこちらを見つめるエマの手を、<br>私は無言でそっと握る。",
+      "zh": "艾玛一脸不安地看着我，<br>\n我无言地轻轻握住了她的手。",
+      "vi": "Ema nhìn tôi khó chịu, Tôi nắm tay cô ấy một cách nhẹ nhàng và lặng lẽ.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Narrative005",
+      "speaker_tag": "",
+      "ja": "魔女に堕ち、<br>暴走した少女を止めることは<ruby=\"かな\">叶</ruby>わなかった――",
+      "zh": "我最终还是没能阻止堕落为魔女、<br>\n失去控制的少女——",
+      "vi": "Cuối cùng, tôi không thể ngăn mình trở thành phù thủy, Cô gái mất kiểm soát——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Hiro001",
+      "speaker_tag": "; > Hiro: |#CommonBad11_Hiro001|",
+      "ja": "すまない……。",
+      "zh": "对不起……",
+      "vi": "Xin lỗi...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Narrative006",
+      "speaker_tag": "",
+      "ja": "私はただ、そう口にすることしかできなかった。",
+      "zh": "我再也做不到任何事，只能说出这样的话。",
+      "vi": "Tôi không thể làm gì hơn ngoài việc nói ra những lời này.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Narrative007",
+      "speaker_tag": "",
+      "ja": "やがて裁判所が崩れ、浮遊感に襲われる。<br>そこで、私の意識は途絶えた――",
+      "zh": "不久，审判庭崩塌了，强烈的失重感向我袭来。<br>\n紧接着，我失去了意识——",
+      "vi": "Chẳng bao lâu, Tòa án dị giáo sụp đổ và một cảm giác không trọng lượng mạnh mẽ ập đến với tôi. Ngay sau đó, tôi bất tỉnh——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Narrative008",
+      "speaker_tag": "",
+      "ja": "監獄島は崩壊し、<br>巻き込まれた少女たちの行方はわからなくなった。",
+      "zh": "监狱岛崩溃了，<br>\n被牵涉其中的少女们下落不明。",
+      "vi": "Đảo Ngục Dinh Thự sụp đổ, Hiện chưa rõ tung tích của các cô gái liên quan.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Warden001",
+      "speaker_tag": "; > Warden: |#CommonBad11_Warden001|",
+      "ja": "これはちょっと面倒なことになりましたねえ。",
+      "zh": "这下有点麻烦了啊。",
+      "vi": "Bây giờ có chút rắc rối.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Warden002",
+      "speaker_tag": "; > Warden: |#CommonBad11_Warden002|",
+      "ja": "まあ、生きていても死んでいても、<br>どっちでもいいんですけど……。",
+      "zh": "唉，不过是死是活，<br>\n倒也无所谓了……",
+      "vi": "Than ôi, đó chỉ là sự sống hay cái chết, Nó không còn quan trọng nữa…",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Narrative009",
+      "speaker_tag": "",
+      "ja": "魔女因子を持つ者も、<br>すでに魔女と化した者も、<br>外の世界で野放しにするわけにはいかない。",
+      "zh": "无论是拥有魔女因子的人，<br>\n还是已经化为魔女的人，<br>\n都不能放任其在外界自由行动。",
+      "vi": "Bất kể ai có Yếu tố Ma Nữ, Hoặc ai đó đã biến thành phù thủy, Họ không thể được phép di chuyển tự do ở thế giới bên ngoài.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad11_Narrative010",
+      "speaker_tag": "",
+      "ja": "見つけ出し、適切に処理する。<br>ただそれだけだ。",
+      "zh": "必须找到她们，对其施加适当的处置。<br>\n仅此而已。",
+      "vi": "Chúng phải được phát hiện và xử lý thích hợp. Thế thôi.",
+      "objection_links": []
+    }
+  ]
+}

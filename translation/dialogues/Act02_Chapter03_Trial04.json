@@ -1,0 +1,1040 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter03_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter03_Trial04",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter03/Act02_Chapter03_Trial04' Naninovel scenario script",
+  "total_entries": 128,
+  "entries": [
+    {
+      "id": "0203Trial04_Sherry001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial04_Sherry001|",
+      "ja": "そもそも、<br>たまたま落ちた先に<br>たまたま鉄柵があるなんて<br>不自然に<br>感じませんでしたか？",
+      "zh": "说到底，<br>\n意外坠落的下方<br>\n凑巧放有铁栅栏，<br>\n有没有感觉<br>\n这巧合得过分了？",
+      "vi": "Suy cho cùng, Bên dưới cú ngã vô tình Tình cờ có một hàng rào sắt, Bạn có cảm thấy Sự trùng hợp này có quá đáng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial04_Sherry002|",
+      "ja": "そこで調べたところ……<br>あったんです！<br>鉄柵を動かした形跡が！",
+      "zh": "于是我就调查了一下……<br>\n竟然让我找到了！<br>\n找到铁栅栏被人移动过的痕迹！",
+      "vi": "Vì vậy tôi đã thực hiện một số nghiên cứu... Tôi thực sự đã tìm thấy nó! Tìm dấu hiệu cho thấy hàng rào sắt đã được di chuyển!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial04_Hiro001|",
+      "ja": "鉄柵を動かした形跡……。",
+      "zh": "铁栅栏被人移动过的痕迹……",
+      "vi": "Dấu vết hàng rào sắt bị dịch chuyển...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial04_Sherry003|",
+      "ja": "そうです！",
+      "zh": "没错！",
+      "vi": "Đúng vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial04_Sherry004|",
+      "ja": "アンアンさんが<br>亡くなっていた<br>現場写真を見れば<br>わかりますが、<br>鉄柵が曲げられているのが<br>見えますよね！",
+      "zh": "大家看看<br>\n尸体的现场照片<br>\n就能看出来，<br>\n能看到铁栅<br>\n弯掉了<br>\n对不对！",
+      "vi": "Hãy cùng xem Hình ảnh thi thể tại hiện trường Bạn có thể thấy nó, Có thể thấy hàng rào sắt Cong Đúng rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial04_Sherry005|",
+      "ja": "あの鉄柵は<br>元はきちんと<br><link=\"Objection_02_03_04_01\">整列していた</link><br>ようでした。",
+      "zh": "看样子，<br>\n铁栅栏<br>\n原本是<br>\n<link=\"Objection_02_03_04_01\">排列得整整齐齐</link>的。",
+      "vi": "Có vẻ như, hàng rào sắt Ban đầu <link=\"Objection_02_03_04_01\"> được sắp xếp gọn gàng </link>.",
+      "objection_links": [
+        "Objection_02_03_04_01"
+      ]
+    },
+    {
+      "id": "0203Trial04_Sherry006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial04_Sherry006|",
+      "ja": "ですが……<br>あの鉄柵、<br>最近<br>動かされたような<link=\"Objection_02_03_04_02\">跡</link>が<br>残ってたんですよ！",
+      "zh": "可是……<br>\n那道铁栅栏上<br>\n竟留下了<br>\n近期<br>\n被人挪过位置的<link=\"Objection_02_03_04_02\">痕迹</link>！",
+      "vi": "Nhưng... Trên hàng rào sắt đó Trên thực tế đã rời khỏi Gần đây Dấu vết <link=\"Objection_02_03_04_02\"> đang được di chuyển </link>!",
+      "objection_links": [
+        "Objection_02_03_04_02"
+      ]
+    },
+    {
+      "id": "0203Trial04_Sherry007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial04_Sherry007|",
+      "ja": "これは間違いなく、<br>犯人が仕組んだ<br>トリックですよ！",
+      "zh": "这毫无疑问，<br>\n就是凶手做过的<br>\n手脚！",
+      "vi": "Không còn nghi ngờ gì nữa, Đó là điều kẻ sát nhân đã làm Tay và chân!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial04_Sherry008|",
+      "ja": "犯人は、<br>アンアンさんを<br>突き落とす前に<br>鉄柵を<br>歪ませていたんです。",
+      "zh": "把安安从阳台<br>\n推下来之前，<br>\n凶手故意<br>\n把铁栅<br>\n先掰弯。",
+      "vi": "Đưa AnAn ra khỏi ban công Trước khi ấn nó xuống, Kẻ sát nhân cố tình Đặt hàng rào sắt Hãy bẻ khúc cua trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry009",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial04_Sherry009|",
+      "ja": "そして<link=\"Objection_02_03_04_03\">鉄柵の上に向け</link>て、<br>ドーンッ！",
+      "zh": "然后把人<link=\"Objection_02_03_04_03\">对准铁栅</link><br>\n用力一推！",
+      "vi": "Sau đó nhắm người<link=\"Objection_02_03_04_03\"> vào cổng sắt</link> Đẩy mạnh vào!",
+      "objection_links": [
+        "Objection_02_03_04_03"
+      ]
+    },
+    {
+      "id": "0203Trial04_Sherry010",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial04_Sherry010|",
+      "ja": "突き落とされた<br>アンアンさんは<br>背中からグサーッ！<br>……っと<br>亡くなってしまったんです！",
+      "zh": "铁栅再往<br>\n坠落的安安<br>\n后背一插！<br>\n……人就这样<br>\n死掉了！",
+      "vi": "Cổng sắt nữa AnAn Rơi Một cú đâm từ phía sau! ...con người là vậy Chết rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry011",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial04_Sherry011|",
+      "ja": "つまりこれは他殺……！<br><link=\"Objection_02_03_04_04\">事故ではなく</link>て、<br>殺人事件だったんですよ！",
+      "zh": "所以说，这是他杀……！<br>\n安安的死亡<link=\"Objection_02_03_04_04\">不是事故</link>，<br>\n是人为的凶杀案件！",
+      "vi": "Vậy đây là vụ giết người...! Cái chết của AnAn <link=\"Objection_02_03_04_04\"> không phải là tai nạn </link>, Đó là một vụ giết người do con người tạo ra!",
+      "objection_links": [
+        "Objection_02_03_04_04"
+      ]
+    },
+    {
+      "id": "0203Trial04_Hiro002",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro002|",
+      "ja": "（鉄柵が移動させられていた……？<br>　偶然か？）",
+      "zh": "（铁栅被人挪过位置……？<br>\n这是偶然吗？）",
+      "vi": "(Hàng rào sắt đã được di chuyển...? Đây có phải là sự trùng hợp ngẫu nhiên? )",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro003",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro003|",
+      "ja": "（なんにせよ、そのせいで客観的に見て<br>　事故の線は薄くなってしまう……）",
+      "zh": "（不管怎么说，因为这个证据，<br>\n从客观来看是事故的可能性就降低了……）",
+      "vi": "(Dù sao thì, vì bằng chứng này, Nhìn từ góc độ khách quan thì khả năng xảy ra tai nạn đã giảm đi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro004",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro004|",
+      "ja": "（しかし他殺と思われてはマズい）",
+      "zh": "（可是让大家真觉得安安是他杀的话，麻烦就大了）",
+      "vi": "(Nhưng nếu mọi người thực sự cho rằng AnAn bị sát hại thì sẽ gặp rắc rối lớn)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro005",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro005|",
+      "ja": "（なら……シェリーの推理を否定するしかない……！）",
+      "zh": "（这样的话……我就只能否定雪莉的推理了……！）",
+      "vi": "(Trong trường hợp này…mình chỉ có thể phủ nhận lý do của Sherry…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Choice001",
+      "speaker_tag": "; > @choice |#0203Trial04_Choice001| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "元々不揃いに並んでいた",
+      "zh": "原本就是歪歪扭扭的",
+      "vi": "Ban đầu nó bị cong",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Choice002",
+      "speaker_tag": "; > @choice |#0203Trial04_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "鉄柵を動かした跡ではない",
+      "zh": "不是移动铁栅的痕迹",
+      "vi": "Không có dấu vết hàng rào sắt chuyển động",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Choice003",
+      "speaker_tag": "; > @choice |#0203Trial04_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "鉄柵を狙って落とすのは難しい",
+      "zh": "对准铁栅推人下去很困难",
+      "vi": "Đẩy người qua cổng sắt khó lắm",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Choice004",
+      "speaker_tag": "; > @choice |#0203Trial04_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "事故の証拠がある",
+      "zh": "有证据表明是事故",
+      "vi": "Có bằng chứng cho thấy đây là một vụ tai nạn",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro006",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro006|",
+      "ja": "きちんと整列していたというが、<br>本当にそうだったのかな。",
+      "zh": "你刚才说铁栅原本是排列得整整齐齐的，<br>\n情况真是这样吗？",
+      "vi": "Bạn vừa nói hàng rào sắt ban đầu được sắp xếp gọn gàng, Đây thực sự là trường hợp?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro007",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro007|",
+      "ja": "シェリーが勘違いしていただけで、<br>元々不揃いに並んでいた可能性はある。",
+      "zh": "会不会只是雪莉你记错了，<br>\n铁栅有可能原本就已经七扭八歪的了。",
+      "vi": "Có phải là cậu vừa nhớ nhầm không, Sherry? Có thể hàng rào sắt đã bị cong rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia001",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia001|",
+      "ja": "いや、たしかにシェリーくんの言う通り、<br>鉄柵は綺麗に整列していた……。",
+      "zh": "不，雪莉说得没错，<br>\n铁栅确实一直都是排列得整整齐齐……",
+      "vi": "Không, Sherry nói đúng, Cánh cổng sắt quả thực lúc nào cũng được sắp xếp gọn gàng...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Alisa001",
+      "speaker_tag": "; > Alisa: |#0203Trial04_Alisa001|",
+      "ja": "……ああ、べつにごちゃついてたとかはなかったな。",
+      "zh": "……对，之前没这么歪歪扭扭的。",
+      "vi": "...Phải, trước đây nó không hề cong vẹo thế này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia002",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia002|",
+      "ja": "……そうか。<br>そういえばアリサくんは最近よく中庭にいたね。",
+      "zh": "……是吗。<br>\n说起来亚里沙最近经常会待在中庭呢。",
+      "vi": "...Thật sao? Nhắc mới nhớ, gần đây Alisa đã ở trong sảnh rất nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Alisa002",
+      "speaker_tag": "; > Alisa: |#0203Trial04_Alisa002|",
+      "ja": "まあな……。",
+      "zh": "算是吧……",
+      "vi": "Đúng vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Alisa003",
+      "speaker_tag": "; > Alisa: |#0203Trial04_Alisa003|",
+      "ja": "ハンモック付けた時にも鉄柵の位置はちゃんと見てたよ。",
+      "zh": "挂吊床的时候我也仔细确认过铁栅栏的位置。",
+      "vi": "Khi treo võng, Tao cũng cẩn thận kiểm tra vị trí của hàng rào sắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Noah001",
+      "speaker_tag": "; > Noah: |#0203Trial04_Noah001|",
+      "ja": "こんなに見てるんだし、本当のことなのかも。",
+      "zh": "亚里沙最近一直都看着，她说的应该是真话。",
+      "vi": "Alisa gần đây đã theo dõi cô ấy, nên điều cô ấy nói chắc chắn là sự thật.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry012",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry012|",
+      "ja": "というわけで、<br>【鉄柵は整列してた】んですよ！<br>間違いありません！",
+      "zh": "综上所述，<br>\n【铁栅排列得整整齐齐】就对了！<br>\n绝对是这样没错！",
+      "vi": "Tóm lại, [Hàng rào sắt được sắp xếp gọn gàng] Đúng vậy! Điều đó hoàn toàn đúng!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro008",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro008|",
+      "ja": "（……少し強引過ぎる反論だったか）",
+      "zh": "（……看来这个反驳有点过于牵强了）",
+      "vi": "(...Có vẻ như lời bác bỏ này hơi quá xa vời)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro009",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro009|",
+      "ja": "（シェリーの推理は一見辻褄があってるように見える――）",
+      "zh": "（雪莉的推理乍一看顺理成章——）",
+      "vi": "(Lý luận của Sherry thoạt nhìn có vẻ hợp lý——)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro010",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro010|",
+      "ja": "（しかし、本当に可能なんだろうか）",
+      "zh": "（可这真的有可能实现吗）",
+      "vi": "(Nhưng điều này có thực sự khả thi không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro011",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro011|",
+      "ja": "（現場の環境、位置関係、時間……<br>　何か周囲の環境と食い違う部分はないかな）",
+      "zh": "（现场环境、位置关系、时间……<br>\n她的话里有什么跟案发周围环境不吻合的地方呢）",
+      "vi": "(Môi trường địa điểm, mối quan hệ vị trí, thời gian... Có điều gì trong lời nói của cô ấy không nhất quán với hoàn cảnh xung quanh vụ án không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro012",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro012|",
+      "ja": "【動かした跡】か……。<br>本当にそうなのかな。",
+      "zh": "【挪过位置】啊……<br>\n真的是这样吗？",
+      "vi": "[Di chuyển qua] À... Đây thực sự là trường hợp?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro013",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro013|",
+      "ja": "もしかすると……<br>鉄柵が勝手に【動いた跡】なんじゃないかな。",
+      "zh": "说不定……<br>\n铁栅只是自己【挪了位置】而已。",
+      "vi": "Có lẽ... Hàng rào sắt tự [chuyển vị trí] thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hanna001",
+      "speaker_tag": "; > Hanna: |#0203Trial04_Hanna001|",
+      "ja": "勝手にって、どうやって動いたんですの！？",
+      "zh": "自己挪位置！？铁栅自己怎样挪位置啊！？",
+      "vi": "Hãy tự di chuyển! ? Làm sao cánh cổng sắt có thể tự di chuyển được? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hanna002",
+      "speaker_tag": "; > Hanna: |#0203Trial04_Hanna002|",
+      "ja": "まさか、夜な夜なひとりでに歩き始めたとか<br>言うわけではありませんわよね……！",
+      "zh": "你不会说什么铁栅每晚都会自己跑出来<br>\n到处走来走去这种话吧……！",
+      "vi": "Bạn sẽ không nói rằng hàng rào sắt sẽ tự bung ra mỗi đêm Nói về việc đi dạo xung quanh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro014",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro014|",
+      "ja": "もちろん私もそんな突飛なことを言うつもりはない。",
+      "zh": "当然，我不会说那种异想天开的话。",
+      "vi": "Tất nhiên, tôi sẽ không nói những điều kỳ quặc như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro015",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro015|",
+      "ja": "だが完全にありえないとは言えないだろう。",
+      "zh": "但谁都无法断言这是不可能的事，对吧。",
+      "vi": "Nhưng không ai có thể nói rằng điều này là không thể, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro016",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro016|",
+      "ja": "たとえば【地震】とかね。",
+      "zh": "例如，发生了【地震】。",
+      "vi": "Ví dụ, một [động đất] đã xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro017",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro017|",
+      "ja": "地面の揺れによって地盤ごと動いたとすれば、説明はつく。",
+      "zh": "如果说由于地面的摇晃导致整个地表都移动了，<br>\n铁栅栏的移位就能说得通了。",
+      "vi": "Nếu toàn bộ bề mặt trái đất chuyển động do mặt đất rung chuyển, Việc dịch chuyển hàng rào sắt sẽ có ý nghĩa.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Alisa004",
+      "speaker_tag": "; > Alisa: |#0203Trial04_Alisa004|",
+      "ja": "でもよ、そんな地震あったか？",
+      "zh": "可是啊，什么时候发生过这么大的地震？",
+      "vi": "Nhưng, trận động đất lớn như vậy xảy ra khi nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro018",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro018|",
+      "ja": "最近じゃなくても、<br>私たちがここに来る前にあったのかもしれないよ。",
+      "zh": "就算不是最近发生也没关系，<br>\n说不定是在我们来到这里前发生过地震。",
+      "vi": "Sẽ không sao nếu điều đó không xảy ra gần đây, Có lẽ đã có một trận động đất trước khi chúng tôi đến đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry013",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry013|",
+      "ja": "いえ！ それはないと思います！<br>だって一昨日までは鉄柵は綺麗に並んでましたから！",
+      "zh": "不！我认为没这个可能！<br>\n因为前天铁栅还是排得整整齐齐的！",
+      "vi": "Không! Tôi không nghĩ điều này là có thể! Bởi vì hôm qua cổng sắt đã được xếp ngay ngắn rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Alisa005",
+      "speaker_tag": "; > Alisa: |#0203Trial04_Alisa005|",
+      "ja": "……昨日今日で地震みてーのは無かったと思うけどな。",
+      "zh": "……这两天应该没发生过地震吧。",
+      "vi": "...Đáng lẽ không có trận động đất nào trong hai ngày qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Miria001",
+      "speaker_tag": "; > Miria: |#0203Trial04_Miria001|",
+      "ja": "たしかに、記憶にはないかも……。",
+      "zh": "确实，我记得是没有……",
+      "vi": "Quả thật Miria không nhớ...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia003",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia003|",
+      "ja": "……となると、地震で勝手に動いたとは考えにくいみたいだね。",
+      "zh": "……这样的话，铁栅由于地震自己挪了位置的说法就不可信了呢。",
+      "vi": "...Trong trường hợp này, không đáng tin khi nói rằng hàng rào sắt đã di chuyển vị trí của nó do trận động đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro019",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro019|",
+      "ja": "（地殻変動は起こっていなかったか……）",
+      "zh": "（看来没有发生过地壳变动……）",
+      "vi": "(Dường như không có thay đổi nào ở vỏ xảy ra...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro020",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro020|",
+      "ja": "（シェリーの推理は一見辻褄があってるように見える――）",
+      "zh": "（雪莉的推理乍一看顺理成章——）",
+      "vi": "(Lý luận của Sherry thoạt nhìn có vẻ hợp lý——)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro021",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro021|",
+      "ja": "（しかし、本当に可能なんだろうか）",
+      "zh": "（可这真的有可能实现吗）",
+      "vi": "(Nhưng điều này có thực sự khả thi không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro022",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro022|",
+      "ja": "（現場の環境、位置関係、時間……<br>　何か周囲の環境と食い違う部分はないかな）",
+      "zh": "（现场环境、位置关系、时间……<br>\n她的话里有什么跟案发周围环境不吻合的地方呢）",
+      "vi": "(Môi trường địa điểm, mối quan hệ vị trí, thời gian... Có điều gì trong lời nói của cô ấy không nhất quán với hoàn cảnh xung quanh vụ án không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro023",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro023|",
+      "ja": "いいやシェリー。<br>事故だという証拠があるよ。",
+      "zh": "不对，雪莉。<br>\n有证据可以证明这是一场意外。",
+      "vi": "Không, Sherry. Có bằng chứng chứng minh đây là một vụ tai nạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry014",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry014|",
+      "ja": "えっ！ そうなんですか！？",
+      "zh": "欸！是这样吗！？",
+      "vi": "Hừ! có phải vậy không! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro024",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro024|",
+      "ja": "ああ。<br>それはこれだよ。",
+      "zh": "没错。<br>\n就是这个证据。",
+      "vi": "Đúng vậy. Đó là bằng chứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia004",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia004|",
+      "ja": "……えっと、ヒロくん<br>これは、証拠にはならないんじゃないかな。",
+      "zh": "……呃，希罗，<br>\n这个应该证明不了什么吧。",
+      "vi": "...Ờ, Hiro, Điều này không nên chứng minh bất cứ điều gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro025",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro025|",
+      "ja": "（これでは証明できないようだ……）",
+      "zh": "（看来靠这个证明不了……）",
+      "vi": "(Có vẻ như điều này không thể được chứng minh...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro026",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro026|",
+      "ja": "（シェリーの推理は一見辻褄があってるように見える――）",
+      "zh": "（雪莉的推理乍一看顺理成章——）",
+      "vi": "(Lý luận của Sherry thoạt nhìn có vẻ hợp lý——)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro027",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro027|",
+      "ja": "（しかし、本当に可能なんだろうか）",
+      "zh": "（可这真的有可能实现吗）",
+      "vi": "(Nhưng điều này có thực sự khả thi không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro028",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro028|",
+      "ja": "（現場の環境、位置関係、時間……<br>　何か周囲の環境と食い違う部分はないかな）",
+      "zh": "（现场环境、位置关系、时间……<br>\n她的话里有什么跟案发周围环境不吻合的地方呢）",
+      "vi": "(Môi trường địa điểm, mối quan hệ vị trí, thời gian... Có điều gì trong lời nói của cô ấy không nhất quán với hoàn cảnh xung quanh vụ án không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro029",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro029|",
+      "ja": "鉄柵に向かって落とす……か。",
+      "zh": "对准铁栅把人推下去……吗。",
+      "vi": "Nhắm vào hàng rào sắt và đẩy người xuống...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro030",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro030|",
+      "ja": "残念だけどその推理は……<br>成立しない。",
+      "zh": "可惜的是，这个推理……<br>\n无法成立。",
+      "vi": "Thật không may, lý do này... Không thể thành lập được.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry015",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry015|",
+      "ja": "ええっ！？ どうしてですか！？",
+      "zh": "欸欸！？为什么！？",
+      "vi": "Này! ? Tại sao! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro031",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro031|",
+      "ja": "それは現場の状況を考えれば一目瞭然だ。",
+      "zh": "只要根据现场情况想想就能一清二楚。",
+      "vi": "Chỉ cần suy nghĩ dựa trên tình hình hiện trường là bạn sẽ biết rõ ràng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro032",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro032|",
+      "ja": "シェリーの推理が正しければ、<br>アンアンはアトリエのベランダから<br>中庭の鉄柵に向かって突き落とされたことになる。",
+      "zh": "雪莉的推理如果是正确的话，<br>\n那就是说，凶手是从画室的阳台之上，<br>\n把安安往中庭的铁栅栏上推下去的。",
+      "vi": "Nếu lý luận của Sherry là đúng, Có nghĩa là, kẻ sát nhân đến từ ban công trường quay, Đẩy AnAn vào hàng rào sắt của giếng trời.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro033",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro033|",
+      "ja": "しかしそこにはそれが不可能となる状況があった。<br>その状況とは……。",
+      "zh": "可现场情况却会导致这个事情无法实现。<br>\n这个情况就是……",
+      "vi": "Tuy nhiên, tình hình tại chỗ có thể khiến điều này không thể thực hiện được. Tình trạng này là...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Choice005",
+      "speaker_tag": "; > @choice |#0203Trial04_Choice005| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "暗い",
+      "zh": "现场昏暗",
+      "vi": "Khung cảnh thật tối tăm",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Choice006",
+      "speaker_tag": "; > @choice |#0203Trial04_Choice006| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "汚い",
+      "zh": "现场脏乱",
+      "vi": "Hiện trường thật hỗn loạn",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Choice007",
+      "speaker_tag": "; > @choice |#0203Trial04_Choice007| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "高い",
+      "zh": "现场很高",
+      "vi": "Cảnh rất cao",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro034",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro034|",
+      "ja": "あの中庭には草木が生い茂っている。",
+      "zh": "中庭里的草木长得很茂盛。",
+      "vi": "Thảm thực vật ở tâm nhĩ tươi tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro035",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro035|",
+      "ja": "鉄柵はそれらに隠れていたから、<br>狙って落ちることは不可能だ。",
+      "zh": "而铁栅栏就隐没在树木杂草之中，<br>\n从楼上把人推下，不可能保证人一定能掉到铁栅栏上。",
+      "vi": "Hàng rào sắt ẩn mình giữa cây cối và cỏ dại, Khi ai đó bị đẩy từ một tòa nhà xuống, không có gì đảm bảo rằng người đó sẽ rơi xuống hàng rào sắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Miria002",
+      "speaker_tag": "; > Miria: |#0203Trial04_Miria002|",
+      "ja": "でも、ジャングルっていうならまだしも、<br>中庭って鉄柵が隠れるほど生い茂ってたかな？",
+      "zh": "可中庭又说不上是热带丛林，<br>\n里面的杂草没有茂密到能把铁栅栏完全藏起来吧？",
+      "vi": "Nhưng tâm nhĩ không thể nói là rừng rậm nhiệt đới, Cỏ dại bên trong không đủ dày để che khuất hoàn toàn hàng rào sắt phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro036",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro036|",
+      "ja": "別に物理的に隠れていなくとも泥なんかで汚れているだけで<br>高いところからの視認はしにくくなる。",
+      "zh": "就算没有物体遮挡，铁栅栏本身就沾了泥巴之类弄得很脏，<br>\n从高处往下看很难辨认位置所在。",
+      "vi": "Ngay cả khi không có vật cản thì bản thân hàng rào sắt cũng lấm lem bùn đất và những thứ tương tự và rất bẩn, Rất khó để xác định vị trí khi nhìn từ trên cao xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry016",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry016|",
+      "ja": "でも現場の鉄柵は、そこまで汚れてなかったと思いますよ？",
+      "zh": "可我觉得案发现场的铁栅栏没有脏到那个地步哦？",
+      "vi": "Nhưng tôi không nghĩ hàng rào sắt ở hiện trường vụ án lại bẩn đến thế?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia005",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia005|",
+      "ja": "……そうだね。",
+      "zh": "……是啊。",
+      "vi": "...Phải.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia006",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia006|",
+      "ja": "綺麗とまでは言えないが<br>見えなくなるほど汚れてはいなかったかな。",
+      "zh": "虽然说不上干净，<br>\n但看起来也没有脏到看不清楚位置的地步。",
+      "vi": "Dù không thể nói là sạch sẽ nhưng Nhưng nó trông không quá bẩn đến mức bạn không thể nhìn rõ nó ở đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hanna003",
+      "speaker_tag": "; > Hanna: |#0203Trial04_Hanna003|",
+      "ja": "じゃあやっぱりちゃんと見えていたということですわね～！",
+      "zh": "那果然还是能从二楼清楚看到铁栅栏的位置呢～！",
+      "vi": "Quả nhiên, từ tầng hai vẫn có thể thấy rõ vị trí của hàng rào sắt ~!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro037",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro037|",
+      "ja": "（……汚かったわけではないか）",
+      "zh": "（……看来铁栅栏没有那么脏）",
+      "vi": "(…Có vẻ như hàng rào sắt không bẩn đến thế)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro038",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro038|",
+      "ja": "（シェリー曰く、<br>　犯人はベランダ下にあった鉄柵めがけて<br>　アンアンを落として串刺しにした……）",
+      "zh": "（按照雪莉的说法，<br>\n凶手是故意对准阳台下方的铁栅栏将安安推下去，<br>\n让铁栅把人给刺死……）",
+      "vi": "(Theo Sherry, Hung thủ cố tình nhắm vào hàng rào sắt dưới ban công đẩy AnAn ngã xuống, Hãy để những thanh sắt đâm chết người...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro039",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro039|",
+      "ja": "（たしかにわかりやすい推理だ）",
+      "zh": "（确实是简单易懂的推理）",
+      "vi": "(Đó thực sự là một lý luận đơn giản và dễ hiểu)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro040",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro040|",
+      "ja": "（――だが、当時の現場の環境ではそれが成立しなかった……）",
+      "zh": "（——可是以案发当时的现场环境来看，这个说法并不成立……）",
+      "vi": "(——Nhưng xét theo bối cảnh hiện trường vào thời điểm xảy ra vụ án, lời tuyên bố này không có căn cứ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro041",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro041|",
+      "ja": "（ベランダから中庭を見下ろしたとき、<br>　特定の場所に狙って飛べない、その理由は――）",
+      "zh": "（从阳台上往下面的中庭看时，<br>\n无法让人掉到特定的地方上去，理由就是——）",
+      "vi": "(Khi nhìn từ ban công xuống giếng trời bên dưới, Lý do tại sao mọi người không thể rơi vào một nơi cụ thể là——)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro042",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro042|",
+      "ja": "アンアンが落ちたベランダは２階の高さだ。",
+      "zh": "安安掉落的阳台在二楼。",
+      "vi": "Ban công nơi AnAn ngã nằm ở tầng 2.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro043",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro043|",
+      "ja": "この高さから中庭を見下ろしても<br>鉄柵は小さくて見えない。",
+      "zh": "从那个高度往下看，<br>\n中庭里的铁栅栏会显得很小看不清。",
+      "vi": "Từ độ cao đó nhìn xuống, Hàng rào sắt ở giếng trời sẽ xuất hiện rất nhỏ và khó nhìn rõ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro044",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro044|",
+      "ja": "狙って突き落とすなんて不可能だ。",
+      "zh": "凶手没办法对准铁栅栏推人下去。",
+      "vi": "Kẻ sát nhân không thể nhắm vào hàng rào sắt và đẩy người xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Alisa006",
+      "speaker_tag": "; > Alisa: |#0203Trial04_Alisa006|",
+      "ja": "……そうか？",
+      "zh": "……是吗？",
+      "vi": "...thật sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Alisa007",
+      "speaker_tag": "; > Alisa: |#0203Trial04_Alisa007|",
+      "ja": "たかだか２階だろ？<br>大体の位置ぐらいわかりそうだけどな。",
+      "zh": "不就一层楼的高度吗？<br>\n大概位置应该还是能确定的吧。",
+      "vi": "Không phải nó chỉ cao một tầng sao? Vị trí gần đúng vẫn cần được xác định.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry017",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry017|",
+      "ja": "そうですね！",
+      "zh": "没错！",
+      "vi": "Đúng vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry018",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry018|",
+      "ja": "しかも整列していた中で一部だけがズレていた訳ですから、<br>余計見つけやすそうです！",
+      "zh": "而且排列得整整齐齐的铁栅栏中有几根被掰弯，<br>\n这不是更显眼更容易看到嘛！",
+      "vi": "Và một số hàng rào sắt xếp ngay ngắn đã bị uốn cong, Chẳng phải điều này dễ thấy và dễ nhìn hơn sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry019",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry019|",
+      "ja": "やっぱり、犯行は可能だったんですよ！",
+      "zh": "这种杀人手法果然是有可能实现的！",
+      "vi": "Phương pháp giết người này quả thực có thể thực hiện được!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro045",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro045|",
+      "ja": "（距離の問題ではないか……）",
+      "zh": "（看来距离并不是问题……）",
+      "vi": "(Có vẻ như khoảng cách không phải là vấn đề...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro046",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro046|",
+      "ja": "（シェリー曰く、<br>　犯人はベランダ下にあった鉄柵めがけて<br>　アンアンを落として串刺しにした……）",
+      "zh": "（按照雪莉的说法，<br>\n凶手是故意对准阳台下方的铁栅栏将安安推下去，<br>\n让铁栅把人给刺死……）",
+      "vi": "(Theo Sherry, Hung thủ cố tình nhắm vào hàng rào sắt dưới ban công đẩy AnAn ngã xuống, Hãy để những thanh sắt đâm chết người...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro047",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro047|",
+      "ja": "（たしかにわかりやすい推理だ）",
+      "zh": "（确实是简单易懂的推理）",
+      "vi": "(Đó thực sự là một lý luận đơn giản và dễ hiểu)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro048",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro048|",
+      "ja": "（――だが、当時の現場の環境ではそれが成立しなかった……）",
+      "zh": "（——可是以案发当时的现场环境来看，这个说法并不成立……）",
+      "vi": "(——Nhưng xét theo bối cảnh hiện trường vào thời điểm xảy ra vụ án, lời tuyên bố này không có căn cứ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro049",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro049|",
+      "ja": "（ベランダから中庭を見下ろしたとき、<br>　特定の場所に狙って飛べない、その理由は――）",
+      "zh": "（从阳台上往下面的中庭看时，<br>\n无法让人掉到特定的地方上去，理由就是——）",
+      "vi": "(Khi nhìn từ ban công xuống giếng trời bên dưới, Lý do tại sao mọi người không thể rơi vào một nơi cụ thể là——)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro050",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro050|",
+      "ja": "死亡推定時刻からして、<br>すでに日も沈み、中庭には照明１つもない状態だ。",
+      "zh": "从推定死亡时间来看，<br>\n案发时间是晚上，中庭处于没有任何照明的状态。",
+      "vi": "Xét theo thời điểm tử vong được cho là, Vụ án xảy ra vào ban đêm, trong sân không có đèn chiếu sáng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro051",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro051|",
+      "ja": "仮にランプでも持ってきて<br>お茶会でも開いていたならまだしも……。",
+      "zh": "如果有人拿来照明灯在中庭办茶话会<br>\n那就另当别论……",
+      "vi": "Nếu ai đó mang đèn đến và tổ chức tiệc trà ở sảnh Đó là một câu chuyện khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro052",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro052|",
+      "ja": "明かりのない中庭の中、<br>鉄柵に向かって突き落とすなんて不可能だよ。",
+      "zh": "但在没有半点照明的中庭内，<br>\n是不可能做到对准铁栅栏把人推落的。",
+      "vi": "Nhưng ở khoảng không gian thông tầng không có ánh sáng, Không thể nhắm vào hàng rào sắt và đẩy ai đó xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Miria003",
+      "speaker_tag": "; > Miria: |#0203Trial04_Miria003|",
+      "ja": "た、たしかに現場は当時真っ暗だったかも……？",
+      "zh": "说、说得没错，案发时现场应该是一片漆黑没错……？",
+      "vi": "Bạn nói đúng. Đáng lẽ khung cảnh phải tối khi vụ án xảy ra...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Miria004",
+      "speaker_tag": "; > Miria: |#0203Trial04_Miria004|",
+      "ja": "そういえばそれで思い出したけど、<br>おじさんが空の写真を撮った時も、<br>それで中庭の方を全然気にしてなかったんだよね……。",
+      "zh": "你这么一说我就想起来了，<br>\n大叔我在拍天空的时候也是完全没注意<br>\n看中庭那边……",
+      "vi": "Miria nhớ lúc bạn nói điều đó, Bác ơi, cháu không chú ý chút nào khi chụp ảnh bầu trời Nhìn qua tâm nhĩ...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Miria005",
+      "speaker_tag": "; > Miria: |#0203Trial04_Miria005|",
+      "ja": "暗くて見えなかったからさ。",
+      "zh": "因为那里黑乎乎一团，什么都看不见。",
+      "vi": "Vì ở đó tối quá nên không thể nhìn thấy gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro053",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro053|",
+      "ja": "……だそうだよ、シェリー。",
+      "zh": "……听到了吗，雪莉。",
+      "vi": "...bạn có nghe thấy không, Sherry?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro054",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro054|",
+      "ja": "つまり君の論は破綻しているんだ。",
+      "zh": "也就是说，你的推理里有漏洞。",
+      "vi": "Nói cách khác, có những lỗ hổng trong lập luận của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro055",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro055|",
+      "ja": "それとも……反論でもあるかな。",
+      "zh": "还是说……你还有反对意见吗？",
+      "vi": "Hay... bạn vẫn còn có ý kiến phản đối nào không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry020",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry020|",
+      "ja": "……はいっ！<br>ありますよ！",
+      "zh": "……是的！<br>\n我要反驳！",
+      "vi": "...Vâng! Tôi muốn bác bỏ!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro056",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro056|",
+      "ja": "………っ",
+      "zh": "………",
+      "vi": "………",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry021",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry021|",
+      "ja": "だってあの柵は……細工されていたと思うんです。",
+      "zh": "因为我敢肯定，铁栅栏……被人动过手脚。",
+      "vi": "Bởi vì tôi chắc chắn rằng hàng rào sắt... đã bị phá hoại.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry022",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry022|",
+      "ja": "実際、何本か折れてましたしね。",
+      "zh": "而实际上也的确有几根铁栅断了。",
+      "vi": "Trên thực tế, một số hàng rào sắt đã bị phá vỡ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry023",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry023|",
+      "ja": "移動させられていたのも合わせて、<br>何者かの思惑があったと考えるのが自然です。",
+      "zh": "结合栅栏被移动过这件事一起想，<br>\n自然会认为是有人蓄意做的。",
+      "vi": "Hãy nghĩ về điều đó cùng với việc hàng rào đã được di chuyển, Đương nhiên, người ta sẽ nghĩ rằng ai đó đã cố tình làm điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry024",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry024|",
+      "ja": "……とはいえ、ヒロさんの言うこともわかります。",
+      "zh": "……不过，我也能理解希罗的意思。",
+      "vi": "...Tuy nhiên, tôi cũng có thể hiểu ý của Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry025",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry025|",
+      "ja": "何もなければ鉄柵に向かって突き落とすのは<br>難しいかもしれません。",
+      "zh": "在没有任何标记的情况下，<br>\n想要对准铁栅栏推人下去是很困难的。",
+      "vi": "Trong trường hợp không có bất kỳ thẻ nào, Rất khó để đẩy ai đó qua hàng rào sắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry026",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry026|",
+      "ja": "ですが……それは【何もなかったら】の話です。",
+      "zh": "可是……也只限【没有任何标记】时才成立。",
+      "vi": "Nhưng... điều này chỉ đúng khi [không có dấu vết].",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro057",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro057|",
+      "ja": "何かがあった……そう言いたいのか？",
+      "zh": "你是说……现场有东西用作了标记？",
+      "vi": "Ý bạn là... có thứ gì đó được dùng làm điểm đánh dấu?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry027",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry027|",
+      "ja": "その通りです。<br>そしてそれは現場からも見つかっていますよ。",
+      "zh": "没错。<br>\n我已经在现场找到这个标记了哦。",
+      "vi": "Đúng vậy. Tôi đã tìm thấy dấu hiệu này trên trang web.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry028",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry028|",
+      "ja": "それはずばり……<br>【アンアンさんのスマホ】です！",
+      "zh": "那就是……<br>\n【安安的手机】！",
+      "vi": "Đó là... [Điện thoại di động của AnAn]!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry029",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry029|",
+      "ja": "そうですよね？<br>レイアさん。",
+      "zh": "我说得没错吧？<br>\n蕾雅。",
+      "vi": "Tôi có đúng không? Leia.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia007",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia007|",
+      "ja": "あ、ああ。<br>アンアンくんが持っていて当然のものだから、<br>わざわざ言ってはいなかったが……。",
+      "zh": "啊，嗯。<br>\n那本来就是安安的随身物品，<br>\n所以我才没有特意提起……",
+      "vi": "À, à. Đó vốn là đồ đạc của AnAn, Đó là lý do tại sao tôi không đề cập cụ thể đến nó…",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia008",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia008|",
+      "ja": "現場にはスマホがあったんだ。<br>……それはアンアンくんの死体の下に残されていた。",
+      "zh": "现场发现了一部手机。<br>\n……是在安安的尸体下找到的。",
+      "vi": "Một chiếc điện thoại di động được tìm thấy tại hiện trường. ...được tìm thấy dưới thi thể của AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hiro058",
+      "speaker_tag": "; > Hiro: |#0203Trial04_Hiro058|",
+      "ja": "（死体の下……？<br>　たしかにそれなら無関係とは切り捨てられないか）",
+      "zh": "（在尸体下……？<br>\n如果是这样的话，就没法咬定这跟案件无关了）",
+      "vi": "(Dưới xác chết...? Nếu đã như vậy thì không có cách nào khẳng định chuyện này không liên quan gì đến vụ án)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia009",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia009|",
+      "ja": "中身も確認したけど、<br>特に不自然なものは記録されていなかったよ。",
+      "zh": "我已经确认过手机里面的记录，<br>\n没有发现什么不对劲的内容。",
+      "vi": "Tôi đã xác nhận hồ sơ trong điện thoại di động, Không có gì không phù hợp được tìm thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia010",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia010|",
+      "ja": "……そういえば、アンアンくんのスマホには<br>ココくんの遺体の写真が保存されていた。",
+      "zh": "……话说回来，<br>\n安安的手机里一直保存着可可的遗体照片。",
+      "vi": "...Nói đến đây, Trong điện thoại của AnAn luôn lưu lại những bức ảnh chụp thi thể Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia011",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia011|",
+      "ja": "<ruby=\"く\">奇</ruby>しくも、アンアンくんが落下した場所は<br>ココくんの死体が発見された場所に近かった……。",
+      "zh": "更巧的是，安安坠落的位置<br>\n就在之前发现可可尸体的地点附近……",
+      "vi": "Điều trùng hợp hơn nữa là vị trí AnAn rơi xuống Ngay gần nơi tìm thấy xác của Coco...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Leia012",
+      "speaker_tag": "; > Leia: |#0203Trial04_Leia012|",
+      "ja": "もしかすると、何か関係があるんだろうか。",
+      "zh": "说不定两者之间有什么关系。",
+      "vi": "Có lẽ giữa hai người có mối quan hệ nào đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry030",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry030|",
+      "ja": "……それはともかく。",
+      "zh": "……暂且不讨论这事。",
+      "vi": "... Bây giờ chúng ta đừng thảo luận về vấn đề này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry031",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry031|",
+      "ja": "スマホを使って現場にひと工夫することで、<br>アンアンさんを目当ての場所に落とすことが可能なんです！",
+      "zh": "只要使用手机在中庭做点手脚，<br>\n就有可能让安安掉落到特定的地方上！",
+      "vi": "Chỉ cần sử dụng điện thoại của bạn để làm điều gì đó ở sân trong, Có thể AnAn rơi vào một chỗ cụ thể!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Hanna004",
+      "speaker_tag": "; > Hanna: |#0203Trial04_Hanna004|",
+      "ja": "そんな料理番組の煽り文句みたいなことがあるんですの！？",
+      "zh": "这种像烹饪节目里“加点秘密调料就能变好吃”一样的事情<br>\n有可能发生吗！？",
+      "vi": "Kiểu này giống như \"thêm một chút nước sốt bí mật vào sẽ ngon hơn\" trong một chương trình nấu ăn Liệu nó có thể xảy ra được không! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial04_Sherry032",
+      "speaker_tag": "; > Sherry: |#0203Trial04_Sherry032|",
+      "ja": "はい！<br>チャンネルはそのままですよ～！",
+      "zh": "没错！<br>\n请各位不要换台哦～！",
+      "vi": "Đúng vậy! Làm ơn đừng chuyển kênh nhé~!",
+      "objection_links": []
+    }
+  ]
+}

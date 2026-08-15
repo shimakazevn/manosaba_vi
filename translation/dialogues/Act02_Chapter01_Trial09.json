@@ -1,0 +1,931 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter01_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter01_Trial09",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter01/Act02_Chapter01_Trial09' Naninovel scenario script",
+  "total_entries": 115,
+  "entries": [
+    {
+      "id": "0201Trial09_Margo001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0201Trial09_Margo001|",
+      "ja": "さっきの話にも<br>あったように、<br>現場の床には白い塗料が<br>塗られていたわ。",
+      "zh": "刚才我们也<br>\n讨论过，<br>\n现场的地板上<br>\n涂有白色的颜料。",
+      "vi": "Vừa rồi chúng Chị cũng Đã thảo luận, Trên sàn tại hiện trường Sơn bằng sơn trắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0201Trial09_Margo002|",
+      "ja": "これはノアちゃんが<br>塗ったのよね？",
+      "zh": "这是诺亚你弄的，<br>\n没错吧？",
+      "vi": "Bạn đã làm điều này Nô-ê, Đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Noah001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial09_Noah001|",
+      "ja": "うん。<br>そうだよー。",
+      "zh": "嗯，<br>\n没错哦～",
+      "vi": "Vâng, Đúng rồi~",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Leia001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0201Trial09_Leia001|",
+      "ja": "塗料は事件当時、<br>まだ乾いていなかったはずだ。<br>その状況は<br>みんなが確認している。",
+      "zh": "案件发生的时候，<br>\n颜料应该还没有干透。<br>\n这一点大家都<br>\n确认过了。",
+      "vi": "Khi vụ việc xảy ra, Sơn chưa khô. Mọi người đều biết điều này Đã xác nhận.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial09_Margo003|",
+      "ja": "なら……<br>犯人が現場に<br>足を踏み入れたら<br>その痕跡が残るはずよ。",
+      "zh": "那么……<br>\n凶手如果<br>\n踏入了现场，<br>\n就肯定会留下痕迹。",
+      "vi": "Vậy... Kẻ sát nhân nếu Bước vào hiện trường, Chắc chắn sẽ để lại dấu vết.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Sherry001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0201Trial09_Sherry001|",
+      "ja": "たしかに<br>その通りですね！",
+      "zh": "确实是<br>\n这样没错！",
+      "vi": "Quả thực Đúng vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial09_Margo004|",
+      "ja": "でも、そこにあったのは<br>ヒロちゃんと<br><link=\"Objection_02_01_09_01\">メルルちゃんの足跡</link>だけ。<br>現場に他の足跡はなく、<br><link=\"Objection_02_01_09_02\">足場になるようなもの</link>も<br>なかった……。",
+      "zh": "但是，<br>\n现场只留下了希罗和<br>\n<link=\"Objection_02_01_09_01\">梅露露的脚印</link>。<br>\n那里并没有其他脚印，<br>\n也没有<br>\n<link=\"Objection_02_01_09_02\">可以用作落脚点的东西</link>……",
+      "vi": "Tuy nhiên, Chỉ còn lại Hiro và ở hiện trường <link=\"Objection_02_01_09_01\">Dấu chân của Meruru</link>. Không có dấu chân nào khác ở đó, Cũng không <link=\"Objection_02_01_09_02\">Những thứ có thể dùng làm chỗ đứng</link>…",
+      "objection_links": [
+        "Objection_02_01_09_01",
+        "Objection_02_01_09_02"
+      ]
+    },
+    {
+      "id": "0201Trial09_Margo005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial09_Margo005|",
+      "ja": "だからね、<br>そもそも私には<br>犯行が不可能なの。",
+      "zh": "所以说，<br>\n我根本就<br>\n不可能作案。",
+      "vi": "Vì vậy, Chị chỉ đơn giản Không thể phạm tội được.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial09_Margo006|",
+      "ja": "近くにいたヒロちゃんか……<br>もしくは、<br>空を飛べるハンナちゃんにしか<br>犯行はできないのよ。",
+      "zh": "只有跟她在一起的希罗……<br>\n或者<br>\n会飞的汉娜<br>\n才有办法作案哦。",
+      "vi": "Chỉ có Hiro ở cùng cô ấy... hoặc Hanna đang bay Chỉ khi đó chúng ta mới có thể phạm tội.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro001",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro001|",
+      "ja": "（エマが嘘をついていなかったとしたら、<br>　マーゴが嘘をついていることになる……）",
+      "zh": "（如果艾玛没有撒谎，<br>\n那就意味着现在撒谎的人是玛格……）",
+      "vi": "(Nếu Ema không nói dối, Điều đó có nghĩa là người đang nói dối bây giờ là Margo...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro002",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro002|",
+      "ja": "（エマを疑いから外したわけではないけれど、<br>　どちらが犯人であれ<br>　この問題は解決しなければいけない問題だ）",
+      "zh": "（虽然我还没有完全排除对艾玛的怀疑，<br>\n但无论谁是凶手，<br>\n这个问题都必须解决）",
+      "vi": "(Mặc dù tôi vẫn chưa loại trừ hoàn toàn những nghi ngờ của Ema, Nhưng bất kể kẻ sát nhân là ai, Vấn đề này phải được giải quyết)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro003",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro003|",
+      "ja": "（【足跡が存在しない部屋】という名の密室……<br>　これを犯人が突破した方法は必ずある）",
+      "zh": "（【没有留下任何脚印的房间】……<br>\n凶手一定有突破这个密室的方法）",
+      "vi": "([Căn phòng không để lại dấu chân]...... Kẻ sát nhân phải có cách đột nhập vào căn phòng bí mật này)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro004",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro004|",
+      "ja": "（逆に……マーゴが犯人なら、<br>　ハンナのように魔法で突破は不可能ということだ）",
+      "zh": "（反过来说……如果凶手是玛格的话，<br>\n就意味着她不可能像汉娜那样，利用魔法突破密室）",
+      "vi": "(Mặt khác...nếu kẻ sát nhân là Mag, Điều này có nghĩa là cô ấy không thể sử dụng phép thuật để đột nhập căn phòng bí mật như Hanna đã làm)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro005",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro005|",
+      "ja": "（現場に見落としがないか……もう一度確認してみよう！）",
+      "zh": "（现场是否还存在遗漏……再重新确认一遍看看吧！）",
+      "vi": "(Nếu có bất kỳ thiếu sót nào tại hiện trường...hãy kiểm tra lại và xem!)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Choice001",
+      "speaker_tag": "; > @choice |#0201Trial09_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "メルルの靴を使った",
+      "zh": "使用了梅露露的鞋子",
+      "vi": "Giày Meruru đã qua sử dụng",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Choice002",
+      "speaker_tag": "; > @choice |#0201Trial09_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "メルルの足跡の上を通った",
+      "zh": "进入时踩着梅露露的脚印",
+      "vi": "Giẫm lên dấu chân của Meruru khi bước vào",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Choice003",
+      "speaker_tag": "; > @choice |#0201Trial09_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "足場はあった",
+      "zh": "有其他落脚点",
+      "vi": "Có những nơi khác để ở",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro006",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro006|",
+      "ja": "メルルの足跡さえあれば十分なのさ。",
+      "zh": "只要有梅露露的脚印，就已经足够了。",
+      "vi": "Chỉ cần có dấu chân của Meruru là đủ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro007",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro007|",
+      "ja": "マーゴ、君はメルルの靴を使って<br>現場に踏み込んだんだよ。",
+      "zh": "玛格，你是利用梅露露的鞋子<br>\n踏入凶案现场的。",
+      "vi": "Mag, bạn đang sử dụng giày của Meruru Tiến vào hiện trường vụ án.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Miria001",
+      "speaker_tag": "; > Miria: |#0201Trial09_Miria001|",
+      "ja": "で、でもそれってどうやったのかな……？<br>死体発見時、メルルちゃんは靴を履いてたんだよね……？",
+      "zh": "但、但是这究竟要怎么做到……？<br>\n发现尸体的时候，小梅不是穿着鞋子的吗……？",
+      "vi": "Nhưng, nhưng làm thế nào để làm điều này...? Khi thi thể được tìm thấy, Xiaomei không đi giày sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro008",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro008|",
+      "ja": "メルルの靴を履いたあと、<br>あらかじめ気絶させていたメルルを運び<br>現場に置いて殺した……。",
+      "zh": "凶手先穿上梅露露的鞋子，<br>\n然后把事先弄晕的梅露露<br>\n转移到现场并杀害……",
+      "vi": "Kẻ sát nhân mang giày cho Meruru trước, Sau đó, Meruru, người đã choáng váng trước đó, Di chuyển đến hiện trường và giết...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro009",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro009|",
+      "ja": "その後、靴をメルルに履かせれば<br>現場にはメルルの靴跡しか残らないよ。",
+      "zh": "之后，凶手再把鞋子穿回梅露露身上，<br>\n这么一来，犯罪现场就只会留下梅露露自己的脚印了。",
+      "vi": "Sau đó, kẻ sát nhân mang đôi giày lại cho Meruru, Bằng cách này, chỉ còn lại dấu chân của Meruru tại hiện trường vụ án.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo007",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo007|",
+      "ja": "それはどうかしらね？",
+      "zh": "情况真是这样吗？",
+      "vi": "Đây thực sự là trường hợp?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo008",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo008|",
+      "ja": "ヒロちゃんは帰りの足跡のことを想定していないわ？",
+      "zh": "你根本没考虑到折返时的足迹吧？",
+      "vi": "Cậu thậm chí còn không để ý tới dấu chân khi quay lại phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo009",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo009|",
+      "ja": "足跡というのは、行きと帰りどちらも残るものなのよ？",
+      "zh": "脚印呢，无论是进场时还是折返时都会留下的哦？",
+      "vi": "Còn dấu chân thì sao? Họ bị bỏ lại cả khi vào và khi quay về?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Miria002",
+      "speaker_tag": "; > Miria: |#0201Trial09_Miria002|",
+      "ja": "あ……たしかに。",
+      "zh": "啊……确实是。",
+      "vi": "À... quả thực là vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo010",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo010|",
+      "ja": "推理にムリがあるわ、ヒロちゃん。<br>いくら処刑されたくないからって……ねえ？",
+      "zh": "你的推理太过牵强了，希罗。<br>\n就算你再怎么不想被处决……也不该胡搅蛮缠的，对吧？",
+      "vi": "Lý luận của em quá xa vời rồi, Anh hùng. Cho dù em có không muốn bị xử tử đến mức nào... em cũng không nên làm loạn, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo011",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo011|",
+      "ja": "無理筋の言い訳も大概にしないとダメよ♡",
+      "zh": "不要再找蹩脚的借口了，好吗♡",
+      "vi": "Đừng đưa ra những lời bào chữa khập khiễng nữa, được chứ♡",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro010",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro010|",
+      "ja": "（言い訳扱いされてしまった……）",
+      "zh": "（被说成是找借口了……）",
+      "vi": "(Người ta nói rằng tôi đang kiếm cớ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro011",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro011|",
+      "ja": "（だが現在最も怪しいのはマーゴだ）",
+      "zh": "（但现在最可疑的人就是玛格）",
+      "vi": "(Nhưng người đáng nghi nhất bây giờ là Margo)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro012",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro012|",
+      "ja": "（彼女が現場に足跡を残さなくて済むように<br>　使えたもの……何かなかっただろうか？）",
+      "zh": "（存不存在某样东西……<br>\n可以让她不留足迹进入现场呢？）",
+      "vi": "(Có tồn tại thứ gì đó không... Liệu cô có thể được phép vào hiện trường mà không để lại dấu vết gì không? )",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro013",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro013|",
+      "ja": "……マーゴは、<br>現場に入ったメルルの足跡の上だけを通ったんだ。",
+      "zh": "……玛格她是<br>\n踩着梅露露走过的足迹进入现场的。",
+      "vi": "...Marge, cô ấy là Anh ta bước vào hiện trường theo bước chân của Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro014",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro014|",
+      "ja": "そしてメルルを殺したあとは、<br>またその足跡だけを注意深く踏んで外に出ればいい。",
+      "zh": "然后在杀害梅露露之后，<br>\n再小心翼翼地，只踩着那些脚印离开现场就行了。",
+      "vi": "Rồi sau khi giết Meruru, Hãy cẩn thận và chỉ cần đi theo những dấu chân đó và rời khỏi hiện trường.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Leia002",
+      "speaker_tag": "; > Leia: |#0201Trial09_Leia002|",
+      "ja": "……それは、難しいんじゃないかな。",
+      "zh": "……这不太合理吧。",
+      "vi": "...Điều này không hợp lý lắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Leia003",
+      "speaker_tag": "; > Leia: |#0201Trial09_Leia003|",
+      "ja": "一歩も動かずに<br>相手を滅多刺しにするなんて、難しいと思うのだけれど……。",
+      "zh": "凶手需要一步不动地<br>\n将受害者乱剑刺死，我觉得这非常难以实现……",
+      "vi": "Kẻ sát nhân cần phải đứng yên Đâm chết nạn nhân, tôi nghĩ việc này rất khó đạt được…",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo012",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo012|",
+      "ja": "そうねえ……<br>それに現場の塗料は乾いていなかったのだから――。",
+      "zh": "是啊……<br>\n而且现场的颜料还没干——",
+      "vi": "Có... Và sơn tại chỗ vẫn chưa khô——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo013",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo013|",
+      "ja": "犯人が足跡の上を歩いたら、<br>【もう一度踏んだような痕跡】が残るんじゃないかしら？",
+      "zh": "如果凶手踩在脚印之上的话，<br>\n应该会留下【再次踩踏过的痕迹】才对，不是吗？",
+      "vi": "Nếu kẻ sát nhân dẫm lên dấu chân, Nó sẽ để lại [dấu vết bị dẫm lên lần nữa], phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Miria003",
+      "speaker_tag": "; > Miria: |#0201Trial09_Miria003|",
+      "ja": "そんな痕跡は……なかったかも。",
+      "zh": "好像……并没有这种痕迹。",
+      "vi": "Có vẻ như... không có dấu vết nào như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo014",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo014|",
+      "ja": "じゃあやっぱり私に犯行は無理ね。",
+      "zh": "到头来，我确实不具备作案条件。",
+      "vi": "Cuối cùng, Chị thực sự không có điều kiện để phạm tội.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo015",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo015|",
+      "ja": "現場の足跡から判断するなら、<br>最も怪しいのはヒロちゃん……あなたよ♡",
+      "zh": "要以现场脚印去判断，<br>\n最可疑的就是希罗……就是你哦♡",
+      "vi": "Để đánh giá dựa trên dấu chân tại chỗ, Người đáng nghi nhất là Hiro...chính là em♡",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro015",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro015|",
+      "ja": "（……かえって私への容疑が深まってしまった）",
+      "zh": "（……结果反而加深了我的嫌疑）",
+      "vi": "(...Cuối cùng, nó chỉ làm mình thêm nghi ngờ)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro016",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro016|",
+      "ja": "（だが現在最も怪しいのはマーゴだ）",
+      "zh": "（但现在最可疑的人就是玛格）",
+      "vi": "(Nhưng người đáng nghi nhất bây giờ là Margo)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro017",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro017|",
+      "ja": "（彼女が現場に足跡を残さなくて済むように<br>　使えたもの……何かなかっただろうか？）",
+      "zh": "（存不存在某样东西……<br>\n可以让她不留足迹进入现场呢？）",
+      "vi": "(Có tồn tại thứ gì đó không... Liệu cô có thể được phép vào hiện trường mà không để lại dấu vết gì không? )",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro018",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro018|",
+      "ja": "現場に足場がなかったって……？",
+      "zh": "你说现场没有落脚点……？",
+      "vi": "Bạn nói hiện trường không còn chỗ ở...?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro019",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro019|",
+      "ja": "やれやれ、そんな言葉で誤魔化されるほど<br>私の目は節穴じゃあない。",
+      "zh": "哎，我眼睛可没那么瞎，<br>\n凭一两句话就能让你蒙混过去了。",
+      "vi": "Này, mắt tôi không mù đến thế đâu, Một hoặc hai câu có thể đánh lừa bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro020",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro020|",
+      "ja": "そうだろう、レイア。",
+      "zh": "你说对吧，蕾雅。",
+      "vi": "Bạn nói đúng, Leia.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Leia004",
+      "speaker_tag": "; > Leia: |#0201Trial09_Leia004|",
+      "ja": "えっ！？<br>あ、あ……ああ……。<br>そうだね……そ、そうかも……。",
+      "zh": "欸！？<br>\n啊、啊……啊啊……<br>\n是啊……应、应该没错……",
+      "vi": "Hừ! ? À, à... à à... Vâng...C-có lẽ đúng...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro021",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro021|",
+      "ja": "……まったく、頼りないリーダーだな。",
+      "zh": "……你这个领袖真是靠不住。",
+      "vi": "...Anh đúng là một nhà lãnh đạo không đáng tin cậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro022",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro022|",
+      "ja": "君たちだって死体を発見したとき、<br>そこに足場があったのは見えていただろうに。",
+      "zh": "明明你们在发现尸体的时候，<br>\n早就看见现场的落脚点了。",
+      "vi": "Rõ ràng là khi bạn tìm thấy thi thể, Tôi đã nhìn thấy chỗ đứng của hiện trường.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Leia005",
+      "speaker_tag": "; > Leia: |#0201Trial09_Leia005|",
+      "ja": "なら、キミには提示できるというのかい……！<br>ヒロくん……！",
+      "zh": "那，你能指出来吗……！<br>\n希罗……！",
+      "vi": "Vậy thì bạn có thể chỉ ra được không...! Anh hùng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Leia006",
+      "speaker_tag": "; > Leia: |#0201Trial09_Leia006|",
+      "ja": "犯人が塗料に足跡を付けずに、<br>部屋の中へと入った道を！",
+      "zh": "指出凶手是如何在不留脚印的情况下<br>\n进入房间的！",
+      "vi": "Chỉ ra cách kẻ sát nhân trốn thoát mà không để lại dấu chân Vào phòng!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro023",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro023|",
+      "ja": "もちろんだとも。",
+      "zh": "当然可以。",
+      "vi": "Tất nhiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro024",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro024|",
+      "ja": "ある程度の身のこなしは必要だったかもしれないが……<br>犯人が足場にしたのは……これだ！",
+      "zh": "这应该需要一定的身手才能用得上……<br>\n不过凶手所利用的落脚点……就是这个！",
+      "vi": "Việc này cần phải có một số kỹ năng nhất định mới có thể sử dụng được... Nhưng chỗ đứng mà kẻ sát nhân sử dụng... chính là chỗ này!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro025",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro025|",
+      "ja": "犯人は……メルルを踏みにじりながら、<br>滅多刺しにしたんだよ。",
+      "zh": "凶手是一边踩着梅露露，<br>\n一边把她乱剑刺死的。",
+      "vi": "Kẻ sát nhân đã dẫm lên Meruru, Trong khi đâm cô ấy đến chết bằng những thanh kiếm ngẫu nhiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo016",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo016|",
+      "ja": "ふふ、それはおかしいわ。",
+      "zh": "呵呵，这可说不通哦。",
+      "vi": "Haha, điều này không có ý nghĩa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo017",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo017|",
+      "ja": "メルルちゃんが倒れたのは刺されたあとでしょう？<br>それを足場にするなんて、順序が真逆よ。",
+      "zh": "梅露露她是被刺伤后才倒在地上的吧？<br>\n要怎么把她当作落脚点呢，连顺序都是反过来的。",
+      "vi": "Meruru ngã xuống đất sau khi bị đâm phải không? Làm thế nào để sử dụng cô ấy như một chỗ đứng? Ngay cả thứ tự cũng bị đảo ngược.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0201Trial09_Nanoka001|",
+      "ja": "……それに死体と入口の距離から考えると<br>氷上メルルの体に一息で飛び乗ったことになる……。",
+      "zh": "……而且从尸体和入口的距离来看，<br>\n要出现在那个位置，得一口气跳到冰上梅露露的身上才行……",
+      "vi": "...Và xét theo khoảng cách giữa cơ thể và lối vào, Để xuất hiện ở vị trí đó, bạn phải nhảy lên trên Meruru trên băng trong một hơi thở...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0201Trial09_Nanoka002|",
+      "ja": "少し現実的ではないわね。",
+      "zh": "我觉得这不太现实。",
+      "vi": "Tôi không nghĩ điều này là thực tế.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hanna001",
+      "speaker_tag": "; > Hanna: |#0201Trial09_Hanna001|",
+      "ja": "推理がアクロバティックすぎですわー！",
+      "zh": "你的推理就跟杂技一样乱来哇！",
+      "vi": "Lý luận của bạn hỗn loạn như nhào lộn!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro026",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro026|",
+      "ja": "（発想を飛躍させすぎたようだ……）",
+      "zh": "（看来我是有些异想天开了……）",
+      "vi": "(Có vẻ như tôi hơi ảo tưởng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro027",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro027|",
+      "ja": "（……現場の状況をもう１度思い出そう）",
+      "zh": "（……再重新回想一下现场的情况吧）",
+      "vi": "(…Hãy suy nghĩ lại về tình huống này)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro028",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro028|",
+      "ja": "（現場には【足場】となるものがあったはずだ……！）",
+      "zh": "（现场应该存在可以作为【落脚点】的东西……！）",
+      "vi": "(Chắc chắn phải có thứ gì đó có thể dùng làm [bàn chân] tại chỗ…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro029",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro029|",
+      "ja": "睡眠薬のビン……これを足場にしたんだよ！<br>足場にしたせいで割れてしまって――。",
+      "zh": "安眠药瓶……凶手就是用这个当落脚点的！<br>\n所以瓶子才会被踩碎——",
+      "vi": "Lọ thuốc ngủ... hung thủ dùng nó làm chỗ đứng! Đó là lý do tại sao cái chai đã bị nghiền nát——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Alisa001",
+      "speaker_tag": "; > Alisa: |#0201Trial09_Alisa001|",
+      "ja": "小さすぎるだろ。",
+      "zh": "那也太小了。",
+      "vi": "Điều đó quá nhỏ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Alisa002",
+      "speaker_tag": "; > Alisa: |#0201Trial09_Alisa002|",
+      "ja": "しかも割れてるし。<br>割れたら足が床につくじゃねーか。",
+      "zh": "而且还碎掉了。<br>\n瓶子碎了的话，脚不就直接着地了吗。",
+      "vi": "Và nó đã bị hỏng. Nếu chai vỡ thì chân có chạm trực tiếp xuống đất không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Coco001",
+      "speaker_tag": "; > Coco: |#0201Trial09_Coco001|",
+      "ja": "てか、それに乗ってメルちゃん滅多刺しにしたん？<br>足場グラッグラじゃね？",
+      "zh": "话说回来，有可能站在那上面乱剑捅小梅吗？<br>\n身子不会左摇右晃吗？",
+      "vi": "Nói như vậy, có thể đứng trên dùng kiếm đâm Tiểu Mỹ sao? Cơ thể bạn sẽ không lắc lư từ bên này sang bên kia phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Alisa003",
+      "speaker_tag": "; > Alisa: |#0201Trial09_Alisa003|",
+      "ja": "【ある程度の身のこなし】ってレベルじゃねーな。",
+      "zh": "就算有【一定的身手】也不可能做到的啦。",
+      "vi": "Ngay cả khi mày có [kỹ năng nhất định], mày cũng không thể làm được.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro030",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro030|",
+      "ja": "（無理がある推理だったか……）",
+      "zh": "（看来这个推理有些牵强了……）",
+      "vi": "(Có vẻ như lý do này hơi xa vời...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro031",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro031|",
+      "ja": "（……現場の状況をもう１度思い出そう）",
+      "zh": "（……再重新回想一下现场的情况吧）",
+      "vi": "(…Hãy suy nghĩ lại về tình huống này)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro032",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro032|",
+      "ja": "（現場には【足場】となるものがあったはずだ……！）",
+      "zh": "（现场应该存在可以作为【落脚点】的东西……！）",
+      "vi": "(Chắc chắn phải có thứ gì đó có thể dùng làm [bàn chân] tại chỗ…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Leia007",
+      "speaker_tag": "; > Leia: |#0201Trial09_Leia007|",
+      "ja": "ヒロくん……<br>それを足場にするのは無理じゃないかな……？",
+      "zh": "希罗……<br>\n那东西好像没法用来当落脚点啊……？",
+      "vi": "Anh hùng...... Có vẻ như thứ đó không thể dùng làm chỗ đứng được...?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro033",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro033|",
+      "ja": "（足場には相応しくないか……）",
+      "zh": "（看来这个东西不太适合用作落脚点……）",
+      "vi": "(Có vẻ như thứ này không thích hợp để dùng làm chỗ đứng…)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro034",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro034|",
+      "ja": "（……現場の状況をもう１度思い出そう）",
+      "zh": "（……再重新回想一下现场的情况吧）",
+      "vi": "(…Hãy suy nghĩ lại về tình huống này)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro035",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro035|",
+      "ja": "（現場には【足場】となるものがあったはずだ……！）",
+      "zh": "（现场应该存在可以作为【落脚点】的东西……！）",
+      "vi": "(Chắc chắn phải có thứ gì đó có thể dùng làm [bàn chân] tại chỗ…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Ema001",
+      "speaker_tag": "; > Ema: |#0201Trial09_Ema001|",
+      "ja": "それって……！",
+      "zh": "那是……！",
+      "vi": "Đó là...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro036",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro036|",
+      "ja": "……まったく。<br>こんな屈辱的なことを<br>解説させられるとは。",
+      "zh": "……唉，<br>\n真没想到会被迫解释<br>\n这么丢脸的事情。",
+      "vi": "...Ồ, Tôi thực sự không ngờ mình lại bị buộc phải giải thích Thật là một điều đáng xấu hổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro037",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro037|",
+      "ja": "犯人が足場にしたもの、それは。",
+      "zh": "凶手所利用的落脚点就是——",
+      "vi": "Chỗ đứng mà kẻ sát nhân sử dụng là——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro038",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro038|",
+      "ja": "【現場に倒れていた私の体】だ。",
+      "zh": "【倒在现场的我的身体】。",
+      "vi": "[Cơ thể tôi gục xuống tại hiện trường].",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Leia008",
+      "speaker_tag": "; > Leia: |#0201Trial09_Leia008|",
+      "ja": "ヒロくんを……踏み台にしたっ！？",
+      "zh": "把希罗……当成踏板了！？",
+      "vi": "Sử dụng Hiro...làm bàn đạp! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro039",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro039|",
+      "ja": "君たちにとって、<br>私は【メルルを殺してから倒れた犯人】だった……。",
+      "zh": "在你们看来，<br>\n我就是【杀了梅露露之后才倒在现场的凶手】……",
+      "vi": "Theo ý kiến của bạn, Tôi là [kẻ sát nhân đã ngã xuống hiện trường sau khi giết Meruru]...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro040",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro040|",
+      "ja": "その先入観があったために、<br>犯人が私を足場にしたなんて気付かなかったんだろう。",
+      "zh": "而正因为你们先入为主地认定我是凶手，<br>\n所以才没有注意到，犯人把我当成了落脚点。",
+      "vi": "Và chính xác là vì bạn tin tưởng một cách định kiến rằng tôi là kẻ sát nhân, Đó là lý do tại sao tôi không để ý rằng người tù coi tôi như một nơi để ở.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro041",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro041|",
+      "ja": "……でも、それは時系列が間違っていたんだ。",
+      "zh": "……不过你们搞错时间顺序了。",
+      "vi": "...Nhưng bạn đã nhầm thứ tự thời gian rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro042",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro042|",
+      "ja": "まず現場に倒れていたのは私だ。<br>そして、そのあとにメルルが部屋の中に入った……。",
+      "zh": "最先倒在现场的人是我。<br>\n之后，梅露露才进入房间……",
+      "vi": "Tôi là người đầu tiên ngã xuống hiện trường. Sau đó, Meruru bước vào phòng...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro043",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro043|",
+      "ja": "つまりメルルの横には、<br>最初から私という名の足場が存在したんだ。",
+      "zh": "也就是说，打从一开始<br>\n我这个落脚点就存在于梅露露身旁了。",
+      "vi": "Nói cách khác, bắt đầu từ đầu Điểm đến cuối cùng của tôi là ngay cạnh Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Noah002",
+      "speaker_tag": "; > Noah: |#0201Trial09_Noah002|",
+      "ja": "じゃあ犯人さんは、<br>どんな風にメルルちゃんを殺したのかな？",
+      "zh": "那，凶手究竟是<br>\n怎样杀害梅露露的呢？",
+      "vi": "Vậy kẻ giết người là ai? Làm thế nào bạn giết Meruru?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro044",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro044|",
+      "ja": "まず犯人は中に入ったメルルに近付くため、<br>私の体に飛び乗った……。",
+      "zh": "首先，凶手为了接近进入房间的梅露露，<br>\n先是跳到我身上……",
+      "vi": "Đầu tiên, để đến gần Meruru đã vào phòng, kẻ sát nhân Đầu tiên anh ấy nhảy vào tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro045",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro045|",
+      "ja": "そして間髪入れずにメルルを刺し殺す。",
+      "zh": "然后立刻刺杀了梅露露。",
+      "vi": "Sau đó anh ta ngay lập tức ám sát Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro046",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro046|",
+      "ja": "犯人は倒れたメルルに追い打ちをかけ、<br>何度か突き刺し……。",
+      "zh": "凶手又朝着倒地的梅露露<br>\n捅了很多剑……",
+      "vi": "Kẻ sát nhân tiến về phía Meruru, người lại ngã xuống đất Đâm rất nhiều kiếm...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro047",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro047|",
+      "ja": "もう１度私に飛び乗って、<br>足跡を残さないよう注意しつつ外へ出た。",
+      "zh": "之后再次跳到我身上，<br>\n小心不留下脚印地离开了房间。",
+      "vi": "Sau đó lại nhảy vào tôi, Anh rời khỏi phòng, cẩn thận không để lại bất kỳ dấu chân nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro048",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro048|",
+      "ja": "気絶した私を踏み台にして跳躍したなら、<br>現場に足跡を残さずにメルルを殺すことは可能だよ。",
+      "zh": "如果将昏迷的我作为踏板起跳，<br>\n那么在不留下脚印的情况下杀死梅露露是完全有可能的。",
+      "vi": "Nếu bạn dùng cái tôi vô thức làm bàn đạp để cất cánh, Khi đó hoàn toàn có thể giết Meruru mà không để lại dấu chân.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0201Trial09_Nanoka003|",
+      "ja": "……立ち幅とびで考えるなら、可能だと思うわ。<br>現実的に飛べる範囲ね。",
+      "zh": "……如果按立定跳远来推测的话，我觉得可行。<br>\n这个距离实际上并不夸张。",
+      "vi": "...Nếu chúng ta suy đoán dựa trên việc đứng nhảy xa thì tôi nghĩ là khả thi. Khoảng cách này thực ra không phải là cường điệu.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Miria004",
+      "speaker_tag": "; > Miria: |#0201Trial09_Miria004|",
+      "ja": "で、でも……！<br>犯人は本当にそんなことしたのかな……！",
+      "zh": "可、可是……！<br>\n凶手真的会这么做吗……！",
+      "vi": "Nhưng, nhưng...! Kẻ sát nhân có thực sự làm điều này không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Miria005",
+      "speaker_tag": "; > Miria: |#0201Trial09_Miria005|",
+      "ja": "現場にはそんな証拠、残されてなかったと思うけど……！",
+      "zh": "我记得现场并没有留下那样的证据……！",
+      "vi": "Miria nhớ hiện trường không còn bằng chứng nào như vậy cả...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro049",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro049|",
+      "ja": "【やったかどうか】はあまり重要ではないよ。<br>【やれたかどうか】が問題なんだ。",
+      "zh": "【实际上有没有做】并不重要。<br>\n重要的是【理论上能不能做到】。",
+      "vi": "Không thành vấn đề [cho dù bạn có thực sự làm điều đó hay không] Điều quan trọng là [liệu nó có thể được thực hiện về mặt lý thuyết hay không].",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro050",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro050|",
+      "ja": "犯行が可能であるのなら、<br>それは検討に値することだよ。",
+      "zh": "只要作案手法在理论上是成立的，<br>\n那就值得我们认真探讨。",
+      "vi": "Miễn là phương thức hoạt động hợp lý về mặt lý thuyết, Điều đó xứng đáng được chúng ta thảo luận nghiêm túc.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo018",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo018|",
+      "ja": "なるほどね……。<br>怖いわ、ヒロちゃん。",
+      "zh": "原来如此……<br>\n你真可怕，希罗。",
+      "vi": "Vậy đó... Anh thật tệ, Anh hùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo019",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo019|",
+      "ja": "あなたにかかれば……<br>無実の罪でも処刑されてしまいそうよ。",
+      "zh": "我想，只要被你缠上……<br>\n就算是清白的人也会被你定罪呢。",
+      "vi": "Chị nghĩ, miễn là Chị vướng vào em... Ngay cả những người vô tội cũng sẽ bị em kết án.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro051",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro051|",
+      "ja": "そっくりそのまま返そうか。",
+      "zh": "这句话我原封不动地还给你。",
+      "vi": "Tôi trả lại câu này cho bạn nguyên vẹn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro052",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro052|",
+      "ja": "君の詭弁……<br>私に通じると思わないことだ。",
+      "zh": "你的诡辩……<br>\n对我无效。",
+      "vi": "Sự ngụy biện của bạn... Không hiệu quả với tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo020",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo020|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro053",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro053|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Miria006",
+      "speaker_tag": "; > Miria: |#0201Trial09_Miria006|",
+      "ja": "ま、待った待った！<br>冷静に……冷静に話し合おう！",
+      "zh": "等、等一下！<br>\n冷静下……大家冷静点讨论好不好！",
+      "vi": "Đợi đã, đợi một chút! Bình tĩnh... Hãy bình tĩnh bàn bạc nhé?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Miria007",
+      "speaker_tag": "; > Miria: |#0201Trial09_Miria007|",
+      "ja": "ヒ、ヒロちゃんがマーゴちゃんを疑うのはわかるけど、<br>マーゴちゃんにはアリバイがあるんじゃないかな？",
+      "zh": "大、大叔我理解小希你为什么怀疑小玛，<br>\n可是小玛不是有不在场证明吗？",
+      "vi": "Chú ơi, cháu hiểu tại sao chú lại nghi ngờ Xiaoma, Xiaoxi, Nhưng Xiaomi không có bằng chứng ngoại phạm sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro054",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro054|",
+      "ja": "いいや。<br>それはとっくの昔に崩れているよ。",
+      "zh": "不，<br>\n那早就不再成立了。",
+      "vi": "Không, Điều đó từ lâu đã không còn đúng nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro055",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro055|",
+      "ja": "君たちが死体発見の直前に聞いた<br>【ガラスの割れる音】……<br>これが偽装だったんだ。",
+      "zh": "你们在发现尸体前不久听到的<br>\n【玻璃碎裂声】……<br>\n那其实是伪装。",
+      "vi": "Những điều bạn đã nghe được ngay trước khi thi thể được tìm thấy [Tiếng kính vỡ]...... Đó thực chất là ngụy trang.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro056",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro056|",
+      "ja": "本来の殺害時刻は、【死体発見の４０分前】……<br>レイアがガラスの割れる音を聞いた時だ。",
+      "zh": "真正的作案时间是【发现尸体的40分钟前】……<br>\n也就是蕾雅听到玻璃碎裂声的时候。",
+      "vi": "Thời gian thực sự của vụ án là [40 phút trước khi thi thể được tìm thấy]... Đó là lúc Leya nghe thấy tiếng kính vỡ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro057",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro057|",
+      "ja": "そのときが犯行時刻だとしたら、<br>マーゴのアリバイなんて存在はしない。",
+      "zh": "是这个作案时间的话，<br>\n玛格就根本没有不在场证明。",
+      "vi": "Nếu đây là thời điểm phạm tội, Margo không có bằng chứng ngoại phạm nào cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo021",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo021|",
+      "ja": "……たしかに私はそのとき、１人でいたわね。",
+      "zh": "……那时候我的确是一个人独处。",
+      "vi": "…Quả thực lúc đó Chị chỉ có một mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo022",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo022|",
+      "ja": "ナノカちゃんたちとラウンジで合流したのはその後。<br>アリバイを証明できる人物は、誰もいないわ？",
+      "zh": "之后我才在会客厅和奈叶香她们会合。<br>\n的确没有人能为我提供不在场证明呢。",
+      "vi": "Sau đó, Chị gặp Nanoyaka và những người khác ở phòng khách. Quả thực, không ai có thể cung cấp cho Chị bằng chứng ngoại phạm.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Miria008",
+      "speaker_tag": "; > Miria: |#0201Trial09_Miria008|",
+      "ja": "そ、そうなんだ……。",
+      "zh": "是、是这样啊……",
+      "vi": "Vâng, đó là nó...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo023",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo023|",
+      "ja": "でもね……。<br>ヒロちゃんの推理の通りだと、<br>私が犯人だと成立しないことがあるのよ。",
+      "zh": "不过……<br>\n按照希罗的推理，<br>\n如果我是凶手，那就有一个地方是说不通的哦。",
+      "vi": "Nhưng... Theo lý luận của Anh hùng, Nếu Chị là kẻ giết người, sẽ có một điều vô nghĩa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo024",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo024|",
+      "ja": "それはね……【メルルちゃんのスマホ】の<ruby=\"ありか\">在処</ruby>よ。",
+      "zh": "那就是……【梅露露的手机】的去向。",
+      "vi": "Đó là nơi... [điện thoại di động của Meruru] đã biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Hiro058",
+      "speaker_tag": "; > Hiro: |#0201Trial09_Hiro058|",
+      "ja": "なに……？",
+      "zh": "什么……？",
+      "vi": "Cái gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial09_Margo025",
+      "speaker_tag": "; > Margo: |#0201Trial09_Margo025|",
+      "ja": "……順を追って説明してあげるわ。",
+      "zh": "……我按顺序说明一下吧。",
+      "vi": "...Hãy để Chị giải thích chúng theo thứ tự.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "bundle": "general-localization-zhhans-scripts-common_assets_all.bundle",
+  "script_name": "CommonBad07",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Common/CommonBad07' Naninovel scenario script",
+  "total_entries": 49,
+  "entries": [
+    {
+      "id": "CommonBad07_Warden001",
+      "speaker_tag": "; > Warden: |#CommonBad07_Warden001|",
+      "ja": "議論はここまでということで、<br>投票に移ってもらっていいですかね？",
+      "zh": "讨论到此为止，<br>\n可以请各位进入投票环节了吗？",
+      "vi": "Cuộc thảo luận kết thúc tại đây, Bạn có thể vui lòng tham gia phiên bỏ phiếu được không?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative001",
+      "speaker_tag": "",
+      "ja": "――私の無実を証明しきれないまま、<br>ゴクチョーにより議論の終了が告げられた。",
+      "zh": "——我还未能证明自己的清白，<br>\n典狱长就宣告讨论结束了。",
+      "vi": "---Tôi vẫn chưa thể chứng minh được mình vô tội, Người quản lý tuyên bố cuộc thảo luận đã kết thúc.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative002",
+      "speaker_tag": "",
+      "ja": "投票によって【魔女】に選ばれたのは――",
+      "zh": "被众人投票选为【魔女】的是——",
+      "vi": "Người được mọi người bầu chọn là [Pháp sư] là——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Warden002",
+      "speaker_tag": "; > Warden: |#CommonBad07_Warden002|",
+      "ja": "やはりというか、なんといいますか。<br>二階堂ヒロの処刑が決定しました～！",
+      "zh": "该说是意料之中还是什么好呢。<br>\n决定处刑二阶堂希罗啦～！",
+      "vi": "Phải nói là đã được mong đợi hay gì đó. Quyết định xử tử Nikaidou Hiro~!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Hiro001",
+      "speaker_tag": "; > Hiro: |#CommonBad07_Hiro001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative003",
+      "speaker_tag": "",
+      "ja": "私は憎悪を込めて、<br>少女全員を<ruby=\"にら\">睨</ruby>みつけた。",
+      "zh": "我满怀憎恨，<br>\n瞪视着在场的每一个少女。",
+      "vi": "Lòng tôi đầy căm ghét, Nhìn chằm chằm vào mọi cô gái có mặt.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Hiro002",
+      "speaker_tag": "; > Hiro: |#CommonBad07_Hiro002|",
+      "ja": "君たちは正しくない。",
+      "zh": "你们是错误的。",
+      "vi": "Bạn đã sai.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative004",
+      "speaker_tag": "",
+      "ja": "告げたところで、結果はもう覆せない。<br>それでも、私は繰り返した。",
+      "zh": "就算说了，也无法颠覆判决。<br>\n尽管如此，我还是重申了一遍。",
+      "vi": "Dù có nói ra cũng không thể lật ngược bản án. Tuy nhiên tôi vẫn nhắc lại điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Hiro003",
+      "speaker_tag": "; > Hiro: |#CommonBad07_Hiro003|",
+      "ja": "君たちは……正しくない……！",
+      "zh": "你们……是错的……！",
+      "vi": "Bạn... sai rồi...!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative005",
+      "speaker_tag": "",
+      "ja": "哀れむような視線を向けられる。",
+      "zh": "许多怜悯般的视线投向了我。",
+      "vi": "Nhiều cái nhìn thương hại đều hướng về phía tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative006",
+      "speaker_tag": "",
+      "ja": "腹の底から沸き起こる怒りのままに、<br>全てをめちゃくちゃにしてやりたい。",
+      "zh": "心底沸腾的怒火，<br>\n让我涌起毁掉一切的冲动。",
+      "vi": "Cơn giận sôi sục trong lòng, Khiến tôi thôi thúc muốn phá hủy mọi thứ.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative007",
+      "speaker_tag": "",
+      "ja": "衝動に駆られる一方で、<br>それすらも面倒だと感じていた。",
+      "zh": "被冲动驱使的同时，<br>\n却又觉得付诸行动也是无益。",
+      "vi": "Trong khi bị thôi thúc, Nhưng tôi cảm thấy rằng hành động đó là vô ích.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Hiro004",
+      "speaker_tag": "; > Hiro: |#CommonBad07_Hiro004|",
+      "ja": "……いいだろう。",
+      "zh": "……好吧。",
+      "vi": "...Được rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative008",
+      "speaker_tag": "",
+      "ja": "【今】は、この結果を受け入れる。<br>上手くやれなかった私自身にも責任はあるのだから。",
+      "zh": "【现在】，我会接受这个结果。<br>\n毕竟我自己没做好，也是咎由自取。",
+      "vi": "[Bây giờ], tôi sẽ chấp nhận kết quả này. Suy cho cùng, bản thân tôi đã không làm tốt công việc và đó là lỗi của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Hiro005",
+      "speaker_tag": "; > Hiro: |#CommonBad07_Hiro005|",
+      "ja": "さっさと済ませてほしい。",
+      "zh": "快点结束吧。",
+      "vi": "Hãy kết thúc nó nhanh chóng.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Warden003",
+      "speaker_tag": "; > Warden: |#CommonBad07_Warden003|",
+      "ja": "……話が早くて助かりますが、<br>ちょっと不気味ですねえ。何か企んでます？",
+      "zh": "……你这么爽快倒是帮了我大忙，<br>\n不过有点诡异呢。你是不是在搞什么小动作？",
+      "vi": "…Thật là một sự giúp đỡ lớn cho tôi khi bạn rất vui vẻ, Nhưng nó hơi kỳ lạ. Bạn đang thực hiện một số thủ thuật?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Hiro006",
+      "speaker_tag": "; > Hiro: |#CommonBad07_Hiro006|",
+      "ja": "べつに。<br>この期に及んで無罪を主張しても、ただ無様なだけだ。",
+      "zh": "没有。<br>\n事到如今再主张无罪，也只是徒增难堪罢了。",
+      "vi": "Không. Sẽ chỉ làm tăng thêm sự bối rối khi khẳng định mình vô tội vào thời điểm này.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Warden004",
+      "speaker_tag": "; > Warden: |#CommonBad07_Warden004|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative009",
+      "speaker_tag": "",
+      "ja": "納得したのかはわからないが、<br>ゴクチョーはそうですかとだけ返してくる。<br>そして、淡々と事を進めだした。",
+      "zh": "不知道典狱长是否理解了我的话，<br>\n它只例行公事地回应了一句，<br>\n随后平静地开始推进处刑流程。",
+      "vi": "Tôi không biết quản giáo có hiểu những gì tôi nói không, Nó chỉ phản hồi theo một quy trình, Sau đó quá trình thực hiện bắt đầu một cách bình tĩnh.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Warden005",
+      "speaker_tag": "; > Warden: |#CommonBad07_Warden005|",
+      "ja": "全員がスマホの処刑ボタンを押したら、<br>処刑執行スタートです。",
+      "zh": "大家只要按下手机上的处刑按钮，<br>\n就会开始执行处刑了。",
+      "vi": "Tất cả những gì bạn phải làm là nhấn nút thực thi trên điện thoại của mình, Việc thực hiện sẽ bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative010",
+      "speaker_tag": "",
+      "ja": "ゴクチョーに促された少女たちは、<br>顔を青くしながらも次々にボタンを押していく。",
+      "zh": "在典狱长的催促下，少女们脸色青白，<br>\n却还是接连按下了按钮。",
+      "vi": "Dưới sự thúc giục của quản giáo, các cô gái tái mặt và Nhưng anh vẫn nhấn hết nút này đến nút khác.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Warden006",
+      "speaker_tag": "; > Warden: |#CommonBad07_Warden006|",
+      "ja": "はい！ ではこれより、<br>魔女の処刑を執行します～。",
+      "zh": "好了！那么，<br>\n现在开始执行对魔女的刑罚～",
+      "vi": "Được rồi! Sau đó, Bây giờ việc thi hành hình phạt phù thủy bắt đầu~",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative011",
+      "speaker_tag": "",
+      "ja": "ゴクチョーの宣言と共に、<br>仕掛けが作動しはじめた。",
+      "zh": "随着典狱长一声令下，<br>\n某处的机关启动了。",
+      "vi": "Tuân theo lệnh của quản giáo, Ở đâu đó cơ chế đã được kích hoạt.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative012",
+      "speaker_tag": "",
+      "ja": "どこからか歯車の回転音が聞こえ、<br>中央の台座がわずかに揺れた。",
+      "zh": "接着，从某处传来了齿轮的转动声，<br>\n中央的底座颤动了一下。",
+      "vi": "Sau đó, tiếng bánh răng quay từ đâu đó vang lên, Căn cứ trung tâm rung chuyển.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative013",
+      "speaker_tag": "",
+      "ja": "床が開き、台座がゆっくりと下降していく。",
+      "zh": "地板开了一个洞，底座缓缓地往下降。",
+      "vi": "Trên sàn xuất hiện một cái lỗ, chân đế từ từ hạ xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative014",
+      "speaker_tag": "",
+      "ja": "もともとあった台座と入れ替わる形で<br>現れた【それ】に、私の胸は大きく脈打った。",
+      "zh": "看着那取代了原有的底座而出现的【那个东西】，<br>\n我的心脏剧烈地跳动起来。",
+      "vi": "Nhìn vào [thứ] xuất hiện thay vì phần đế ban đầu, Tim tôi đập dữ dội.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative015",
+      "speaker_tag": "",
+      "ja": "巨大な鉄棒のような装置。<br>中央には、縄が垂れ下がっている。",
+      "zh": "那是个像巨大铁棍般的装置。<br>\n其中央垂下一根绳子。",
+      "vi": "Đó là một thiết bị giống như một thanh sắt khổng lồ. Một sợi dây treo ở trung tâm của nó.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative016",
+      "speaker_tag": "",
+      "ja": "――絞首台だ。",
+      "zh": "——是绞刑台。",
+      "vi": "---Giá treo cổ.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative017",
+      "speaker_tag": "",
+      "ja": "看守に背を押されて、私は台の上へと進む。",
+      "zh": "看守从后面押送着，我走上了绞刑台。",
+      "vi": "Cai Ngục hộ tống tôi từ phía sau và tôi bước lên giá treo cổ.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative018",
+      "speaker_tag": "",
+      "ja": "絞首台に立ち、私は<ruby=\"くびつ\">首吊</ruby>り縄を<ruby=\"にら\">睨</ruby>みあげる。",
+      "zh": "站在绞刑台上，我抬头瞪视着那根绞索。",
+      "vi": "Đứng trên giàn giáo, tôi nhìn chằm chằm vào chiếc thòng lọng.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative019",
+      "speaker_tag": "",
+      "ja": "心がざわつく感覚を覚えた。<br>どうしても【あの時】の光景が頭にちらつく。",
+      "zh": "心中感到一阵骚动。<br>\n【那时】的景象不受控制地在脑海中闪现。",
+      "vi": "Tôi cảm thấy một sự chấn động trong lòng. Cảnh tượng [lúc đó] lướt qua tâm trí tôi một cách không thể kiểm soát được.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative020",
+      "speaker_tag": "",
+      "ja": "消えない、消せない記憶。",
+      "zh": "无法消失、抹去不了的记忆。",
+      "vi": "Những ký ức không thể biến mất hoặc bị xóa bỏ.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative021",
+      "speaker_tag": "",
+      "ja": "自分の鼓動が耳にうるさい。<br>そこで初めて気付いた。",
+      "zh": "自己的心跳声吵得耳朵发疼。<br>\n直到这时我才第一次发觉——",
+      "vi": "Tiếng nhịp tim của chính anh khiến tai anh đau nhức. Chỉ sau đó tôi mới nhận ra lần đầu tiên——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative022",
+      "speaker_tag": "",
+      "ja": "私は動揺している。",
+      "zh": "我动摇了。",
+      "vi": "Tôi đã bị rung chuyển.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative023",
+      "speaker_tag": "",
+      "ja": "首を<ruby=\"くく\">縊</ruby>るための輪。<br>こんなものが私の大切な友だちを死に至らしめた。",
+      "zh": "用来缢颈的绳圈。<br>\n我珍视的朋友就是被这种东西害死的。",
+      "vi": "Một sợi dây thừng dùng để treo cổ người ta. Những người bạn yêu quý của tôi đã bị giết bởi thứ này.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative024",
+      "speaker_tag": "",
+      "ja": "そして今。<br>私の命を奪おうと手招きしている。<br>首を絞め、息の根を止めようと待ち構えている。",
+      "zh": "如今。<br>\n它正向我招手，想要夺走我的生命。<br>\n它正等待着勒紧我的脖子，扼住我的呼吸。",
+      "vi": "Hôm nay. Nó đang vẫy gọi để lấy đi mạng sống của tôi. Nó đang chờ đợi để siết chặt cổ tôi và bóp nghẹt hơi thở của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative025",
+      "speaker_tag": "",
+      "ja": "……強く握った拳が震えていた。",
+      "zh": "……紧握的拳头在颤抖。",
+      "vi": "…Những bàn tay siết chặt đang run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative026",
+      "speaker_tag": "",
+      "ja": "問題ない。私は向き合える。<br>怒りと恐れに飲み込まれたりはしない。",
+      "zh": "没问题。我可以面对。<br>\n我不会被愤怒和恐惧吞噬。",
+      "vi": "Không vấn đề. Tôi có thể đối mặt với nó. Tôi sẽ không bị nuốt chửng bởi sự tức giận và sợ hãi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative027",
+      "speaker_tag": "",
+      "ja": "姿勢を正し、私は深く息を吸い込む。",
+      "zh": "我挺直身姿，深吸一口气。",
+      "vi": "Tôi đứng thẳng lên và hít một hơi thật sâu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative028",
+      "speaker_tag": "",
+      "ja": "もう平気だ。覚悟は元よりできている。<br>波打っていた感情は、すっかり<ruby=\"な\">凪</ruby>いでいた。",
+      "zh": "已经没事了。我早已做好了觉悟。<br>\n汹涌的感情，已经彻底平息。",
+      "vi": "Bây giờ thì ổn rồi. Tôi đã quyết định rồi. Những cảm xúc hỗn loạn đã hoàn toàn lắng xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Hiro007",
+      "speaker_tag": "; > Hiro: |#CommonBad07_Hiro007|",
+      "ja": "早く終わらせてくれ。",
+      "zh": "快点结束吧。",
+      "vi": "Hãy kết thúc nó nhanh chóng.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative029",
+      "speaker_tag": "",
+      "ja": "看守が私の首に縄をかける。",
+      "zh": "看守把绳索套在我的脖子上。",
+      "vi": "Cai Ngục quàng một sợi dây quanh cổ tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative030",
+      "speaker_tag": "",
+      "ja": "そして。<br>足元の床板が開かれた――",
+      "zh": "然后。<br>\n脚下的地板打开——",
+      "vi": "Sau đó. Sàn nhà dưới chân bạn mở ra——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative031",
+      "speaker_tag": "",
+      "ja": "二階堂ヒロは処刑された。",
+      "zh": "二阶堂希罗被处决了。",
+      "vi": "Nikaido Hiro bị xử tử.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative032",
+      "speaker_tag": "",
+      "ja": "彼女の魔法は【死に戻り】。",
+      "zh": "她的魔法是【死亡回溯】。",
+      "vi": "Phép thuật của cô ấy là [Thu hồi cái chết].",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative033",
+      "speaker_tag": "",
+      "ja": "だが、魔法は発動しなかった。",
+      "zh": "但她的魔法没有发动。",
+      "vi": "Nhưng phép thuật của cô ấy không kích hoạt.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative034",
+      "speaker_tag": "",
+      "ja": "処刑に使われた<ruby=\"くびつ\">首吊</ruby>り縄は、<br>魔女を断罪するために作られた特殊なもの。<br>――魔法を封じ込める効果があった。",
+      "zh": "用于处刑的绞索，<br>\n是为了制裁魔女而特制的道具。<br>\n——它具有封印魔法的效果。",
+      "vi": "thòng lọng dùng để hành quyết, Nó là một công cụ được chế tạo đặc biệt để trừng phạt phù thủy. ---Nó có tác dụng phong ấn ma thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative035",
+      "speaker_tag": "",
+      "ja": "少女たちの殺し合いは終わらない。<br>魔女裁判は続く――",
+      "zh": "少女们的互相残杀仍未终结。<br>\n魔女审判仍在继续——",
+      "vi": "Các cô gái vẫn đang giết nhau. Phiên tòa xét xử phù thủy vẫn tiếp tục——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad07_Narrative036",
+      "speaker_tag": "",
+      "ja": "だが、ヒロは本当の終わりを迎えたのだ。",
+      "zh": "但希罗已迎来了真正的终结。",
+      "vi": "Nhưng Herro đã đến đích thực sự.",
+      "objection_links": []
+    }
+  ]
+}

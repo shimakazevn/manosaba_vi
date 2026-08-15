@@ -1,0 +1,320 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Adv32",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Adv32' Naninovel scenario script",
+  "total_entries": 39,
+  "entries": [
+    {
+      "id": "0101Adv32_Narrative001",
+      "speaker_tag": "",
+      "ja": "エマたちが娯楽室に行ってみると、<br>ソファーでくつろいでいるココがいた。",
+      "zh": "艾玛她们来到了娱乐室，<br>\n看见正靠在沙发上的可可。",
+      "vi": "Ema và những người khác đến Phòng Giải Trí, Anh nhìn thấy Coco đang dựa vào ghế sofa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Narrative002",
+      "speaker_tag": "",
+      "ja": "ココはあくびをしながら、スマホを眺めている。",
+      "zh": "可可一边打着哈欠，一边看着手机。",
+      "vi": "Coco vừa ngáp vừa nhìn vào điện thoại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Hanna001",
+      "speaker_tag": "; > Hanna: |#0101Adv32_Hanna001|",
+      "ja": "ちょっとあなた、<br>みんなが必死に調査してる時に何を遊んでいますの？",
+      "zh": "喂，我说你，<br>\n这时候大家都在拼命调查，为什么你却在玩手机？",
+      "vi": "Này, Bổn tiểu thư đang nói về bạn, Lúc này mọi ngươi đều đang liều mạng điều tra, tại sao lại chơi điện thoại di động?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco001",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco001|",
+      "ja": "はぁ？ ウッザ。<br>あてぃし今忙しいんだけど。ほっとけよ。",
+      "zh": "哈？烦不烦。<br>\n我现在很忙啦，别管我。",
+      "vi": "Hả? Khó chịu hay không. Bây giờ Coco đang rất bận, xin hãy để Coco yên.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Narrative003",
+      "speaker_tag": "",
+      "ja": "その言いぐさに<br>エマも少しカチンとした。",
+      "zh": "她那副说话口吻<br>\n惹得艾玛也有些生气。",
+      "vi": "Giọng nói của cô ấy Nó khiến Ema hơi tức giận.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Ema001",
+      "speaker_tag": "; > Ema: |#0101Adv32_Ema001|",
+      "ja": "人が死んでるんだよ？",
+      "zh": "现在可是有人死了欸？",
+      "vi": "Hiện tại có người đã chết?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco002",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco002|",
+      "ja": "知らないヤツ死んで、メソメソしてろって？<br>あームリ。そういうのキモイから。",
+      "zh": "怎么，要我对一个不认识的死人一把鼻涕一把泪？<br>\n啊我受不了了，也太肉麻了。",
+      "vi": "Cái gì, bạn muốn Coco rơi nước mắt và sụt sùi trước một người chết mà Coco không quen biết? Ôi, Coco không thể chịu đựng được nữa, ghê tởm quá.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco003",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco003|",
+      "ja": "あてぃしと推し以外、<br>この世界の奴らは全部死ねばいいと思ってんの。",
+      "zh": "我觉得除了我和我推之外，<br>\n这世上的所有人都该去死。",
+      "vi": "Coco nghĩ ngoài Coco và sự thúc đẩy của Coco, Mọi người trên thế giới này đều đáng phải chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco004",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco004|",
+      "ja": "勝手に調査でもなんでもやってろっつーの。",
+      "zh": "就是说，爱调查还是怎样随便你们。",
+      "vi": "Tức là bạn có thể làm bất cứ điều gì bạn muốn điều tra.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Ema002",
+      "speaker_tag": "; > Ema: |#0101Adv32_Ema002|",
+      "ja": "（なんかちょっと……嫌な子だな……。<br>　話が合いそうにない）",
+      "zh": "（总感觉她有点……令人讨厌……<br>\n感觉跟她聊不来）",
+      "vi": "(Tôi luôn cảm thấy cô ấy hơi...phiền phức... Tôi cảm thấy như tôi không thể nói chuyện với cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Sherry001",
+      "speaker_tag": "; > Sherry: |#0101Adv32_Sherry001|",
+      "ja": "忙しいって、ココさんは何をしているんです？",
+      "zh": "你说你很忙，那可可你在忙什么？",
+      "vi": "Bạn nói bạn bận, nhưng bạn bận việc gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Narrative004",
+      "speaker_tag": "",
+      "ja": "シェリーは特にココの態度に動じる様子もなく、<br>にこにこと問いかけた。",
+      "zh": "雪莉没有对可可的态度作出明显反应，<br>\n只是笑着向她问道。",
+      "vi": "Sherry không phản ứng rõ ràng với thái độ của Coco, Anh chỉ mỉm cười hỏi cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco005",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco005|",
+      "ja": "昨日の配信アーカイブの確認。",
+      "zh": "我在确认昨天直播的回放。",
+      "vi": "Coco đang kiểm tra bản phát lại của buổi phát sóng trực tiếp ngày hôm qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Ema003",
+      "speaker_tag": "; > Ema: |#0101Adv32_Ema003|",
+      "ja": "（そういえば、昨夜はココちゃんたち配信してたっけ）",
+      "zh": "（说起来，昨天可可她们好像是办了直播）",
+      "vi": "(Nói mới nhớ, Coco và những người khác dường như đã tổ chức một buổi phát sóng trực tiếp ngày hôm qua)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Sherry002",
+      "speaker_tag": "; > Sherry: |#0101Adv32_Sherry002|",
+      "ja": "へえ！ アーカイブが残せるんですね。<br>やたらと凝ってるんですねぇ。",
+      "zh": "哦！竟然还可以保存回放。<br>\n功能还蛮全的耶。",
+      "vi": "Ôi! Bạn thậm chí có thể lưu replay. Các chức năng khá đầy đủ.",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Sherry003",
+      "speaker_tag": "; > Sherry: |#0101Adv32_Sherry003|",
+      "ja": "配信しても我々しか見れないのに、<br>その機能に意味なんてあるんですかね。",
+      "zh": "直播也只有我们才能看到，<br>\n回放究竟有什么意义呢……",
+      "vi": "Chỉ chúng tôi mới có thể xem chương trình phát sóng trực tiếp, Việc phát lại có ý nghĩa gì...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco006",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco006|",
+      "ja": "あてぃしには意味があんの。<br>いいからこれからも配信見てって。",
+      "zh": "反正对我有意义。<br>\n总之你们以后也要看我直播。",
+      "vi": "Dù sao thì nó cũng có ý nghĩa với Coco. Tóm lại, sau này bạn cũng sẽ muốn xem buổi phát sóng trực tiếp của Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Ema004",
+      "speaker_tag": "; > Ema: |#0101Adv32_Ema004|",
+      "ja": "（ココちゃんの魔法って、<br>　配信することと関係あるのかな……？）",
+      "zh": "（可可的魔法<br>\n会不会和直播有关呢……？）",
+      "vi": "(Phép thuật của Coco Có thể nó liên quan đến buổi phát sóng trực tiếp...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Narrative005",
+      "speaker_tag": "",
+      "ja": "シェリーも同じことを思ったらしい。",
+      "zh": "看来雪莉也在想同样的事情。",
+      "vi": "Có vẻ như Sherry cũng đang nghĩ điều tương tự.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Sherry004",
+      "speaker_tag": "; > Sherry: |#0101Adv32_Sherry004|",
+      "ja": "ココさんの魔法は、<br>配信に関係しているんですか？",
+      "zh": "可可的魔法，<br>\n是不是和直播有关系呀？",
+      "vi": "Sự kỳ diệu của ca cao, Có liên quan đến buổi phát sóng trực tiếp không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco007",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco007|",
+      "ja": "キモ。なんであんたらに<br>あてぃしの魔法教えなきゃいけないワケ？",
+      "zh": "恶心死。为什么我一定要<br>\n跟你们讲我会什么魔法？",
+      "vi": "Kinh tởm. Tại sao Coco phải Hãy cho bạn biết Coco có thể làm được phép thuật gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Ema005",
+      "speaker_tag": "; > Ema: |#0101Adv32_Ema005|",
+      "ja": "配信で自分語りはするのに……？",
+      "zh": "明明在直播里滔滔不绝讲自己的事……？",
+      "vi": "Rõ ràng là anh ấy liên tục nói về mình trong buổi phát sóng trực tiếp...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco008",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco008|",
+      "ja": "それとこれとは別なんだって。<br>あーもーうっさいなああ！",
+      "zh": "那是两码事。<br>\n唉你们好烦啊！",
+      "vi": "Đó là hai điều khác nhau. Ôi, cậu thật phiền phức!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Narrative006",
+      "speaker_tag": "",
+      "ja": "バンッと、<br>ココはテーブルを叩いて<ruby=\"いらだ\">苛立</ruby>ちを<ruby=\"あら\">露</ruby>わにしてくる。",
+      "zh": "可可“砰”地<br>\n砸了一下桌子，表露出了明显的焦躁。",
+      "vi": "Coco \"bang\" Anh ta đập bàn, lộ rõ vẻ lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco009",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco009|",
+      "ja": "あてぃし１人で配信しても、<br>同接ほぼゼロとか終わってねえ？",
+      "zh": "我一个人直播的时候<br>\n观众几乎都是零蛋，根本就是完蛋好不好？",
+      "vi": "Khi Coco phát sóng trực tiếp một mình Khán giả gần như toàn là con số 0 nên về cơ bản nó là ngõ cụt, được chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco010",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco010|",
+      "ja": "レイアとコラボしたらみんな見たくせにさぁ！",
+      "zh": "和蕾雅联动的时候你们倒是会来看！",
+      "vi": "Bạn sẽ đến xem nó khi nó được liên kết với Leia!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco011",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco011|",
+      "ja": "あてぃしってレイア以下？<br>なんなのあいつウゼエ。死んでくんないかな。",
+      "zh": "我连蕾雅都不如吗？<br>\n算什么那家伙烦死了。能不能给我去死。",
+      "vi": "Coco không tốt bằng Leya sao? Người đó thật khó chịu. Bạn có thể chết vì Coco được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Hanna002",
+      "speaker_tag": "; > Hanna: |#0101Adv32_Hanna002|",
+      "ja": "コラボしてもらっておいて<br>それはないんじゃないかしら！？",
+      "zh": "她都答应跟你联动了，<br>\n没必要说得这么过分吧！？",
+      "vi": "Cô ấy đã đồng ý hợp tác với bạn, Không cần thiết phải đi quá xa! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Coco012",
+      "speaker_tag": "; > Coco: |#0101Adv32_Coco012|",
+      "ja": "あてぃし頼んでねーし！ あっちが誘ったんだし！",
+      "zh": "我根本没求过她！是她来邀我的好不好！",
+      "vi": "Coco chưa bao giờ hỏi cô ấy! Là cô ấy mời Coco, được chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Hanna003",
+      "speaker_tag": "; > Hanna: |#0101Adv32_Hanna003|",
+      "ja": "あなたお話になりませんわ！ きいぃ！",
+      "zh": "跟你真是没话好说！哼！",
+      "vi": "Bổn tiểu thư thực sự không có gì để nói với bạn! khịt mũi!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Sherry005",
+      "speaker_tag": "; > Sherry: |#0101Adv32_Sherry005|",
+      "ja": "まあまあ。",
+      "zh": "算啦算啦。",
+      "vi": "Quên nó đi, quên nó đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Narrative007",
+      "speaker_tag": "",
+      "ja": "真っ<ruby=\"か\">赤</ruby>になって怒り出したハンナを、<br>シェリーが引きずる。",
+      "zh": "雪莉把涨红了脸<br>\n十分生气的汉娜拖走了。",
+      "vi": "Sherry đỏ mặt Hanna rất tức giận đã bị kéo đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Narrative008",
+      "speaker_tag": "",
+      "ja": "これ以上娯楽室にいたら、<br><ruby=\"けんか\">喧嘩</ruby>がヒートアップするのは目に見えた。",
+      "zh": "显然，再待在娱乐室，<br>\n吵架只会进一步升级。",
+      "vi": "Rõ ràng là ở trong Phòng Giải Trí lâu hơn nữa, Cuộc tranh cãi sẽ chỉ leo thang hơn nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Sherry006",
+      "speaker_tag": "; > Sherry: |#0101Adv32_Sherry006|",
+      "ja": "ここには何も手がかりはなさそうですし、<br>出ましょうか。",
+      "zh": "我看这里也没其他线索了，<br>\n走吧。",
+      "vi": "Tôi thấy ở đây không có manh mối nào khác, Đi thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Ema006",
+      "speaker_tag": "; > Ema: |#0101Adv32_Ema006|",
+      "ja": "そうだね……。",
+      "zh": "嗯……",
+      "vi": "Ừm...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Sherry007",
+      "speaker_tag": "; > Sherry: |#0101Adv32_Sherry007|",
+      "ja": "わかったのは、ココさんが<br>邪悪ってことくらいですかね。",
+      "zh": "到头来也只搞懂了<br>\n可可是坏人这件事。",
+      "vi": "Cuối cùng tôi chỉ hiểu Coco là kẻ xấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Ema007",
+      "speaker_tag": "; > Ema: |#0101Adv32_Ema007|",
+      "ja": "うん。",
+      "zh": "嗯。",
+      "vi": "Ừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv32_Narrative009",
+      "speaker_tag": "",
+      "ja": "エマも思わずといった風に<ruby=\"うなず\">頷</ruby>いた。",
+      "zh": "艾玛也不由得点了点头。",
+      "vi": "Ema không khỏi gật đầu.",
+      "objection_links": []
+    }
+  ]
+}

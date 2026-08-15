@@ -1,0 +1,1488 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter03_Adv14",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter03/Act02_Chapter03_Adv14' Naninovel scenario script",
+  "total_entries": 185,
+  "entries": [
+    {
+      "id": "0203Adv14_Narrative001",
+      "speaker_tag": "",
+      "ja": "恐るべき計画を立て、<br>夏目アンアンを殺したのは、城ケ崎ノア――",
+      "zh": "制定可怕的计划杀害夏目安安的人，<br>\n就是城崎诺亚——",
+      "vi": "Người đã lên kế hoạch khủng khiếp để giết Natsme AnAn, Đó là Noah Kinosaki——",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative002",
+      "speaker_tag": "",
+      "ja": "魔女を選ぶ投票は、全員一致でノアとなった。",
+      "zh": "在魔女表决中，所有人都把票投给了诺亚。",
+      "vi": "Trong cuộc bỏ phiếu phù thủy, mọi người đều bỏ phiếu cho Nô-ê.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative003",
+      "speaker_tag": "",
+      "ja": "少女たちは誰もが辛さを<ruby=\"にじ\">滲</ruby>ませ、<br><ruby=\"だんちょう\">断腸</ruby>の思いでボタンを押しているように見えた。",
+      "zh": "在场的每一名少女<br>\n按下按钮时都充满了痛苦，肝肠寸断。",
+      "vi": "Mọi cô gái đều có mặt Nhấn nút mà lòng đầy đau đớn và quặn thắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative004",
+      "speaker_tag": "",
+      "ja": "それは、私も同様。",
+      "zh": "我也一样。",
+      "vi": "Tôi cũng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Ema001",
+      "speaker_tag": "; > Ema: |#0203Adv14_Ema001|",
+      "ja": "わからないことが、あって。",
+      "zh": "我还有疑问。",
+      "vi": "Tôi vẫn còn thắc mắc.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative005",
+      "speaker_tag": "",
+      "ja": "いたたまれない空気の中、<br>ぽつりと切り出したのはエマだった。",
+      "zh": "在这个令人难以忍受的氛围之下，<br>\n艾玛突然开口说道。",
+      "vi": "Trong bầu không khí không thể chịu nổi này, Ema đột nhiên nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Ema002",
+      "speaker_tag": "; > Ema: |#0203Adv14_Ema002|",
+      "ja": "ノアちゃんとアンアンちゃんは、<br>どうしてそんなイタズラみたいなことを<br>しようと思ったの……？",
+      "zh": "诺亚跟安安……<br>\n她们为什么会想到要做这种<br>\n像恶作剧似的事情呢……？",
+      "vi": "Nô-ê và AnAn... Tại sao họ lại nghĩ đến việc này Thế còn thứ gì đó giống như một trò đùa...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Ema003",
+      "speaker_tag": "; > Ema: |#0203Adv14_Ema003|",
+      "ja": "ノアちゃんは、<br>アンアンちゃんから理由も聞いてるんだよね……？",
+      "zh": "诺亚，你问过安安为什么，<br>\n对吗……？",
+      "vi": "Noah, bạn đã hỏi AnAn tại sao, Phải không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah001",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah001|",
+      "ja": "うん……。",
+      "zh": "嗯……",
+      "vi": "Ừm...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative006",
+      "speaker_tag": "",
+      "ja": "ノアは寂しそうに<ruby=\"うつむ\">俯</ruby>いて、<br>その時のことを語りだした。",
+      "zh": "诺亚看起来很落寞。<br>\n她低着头，向我们说出了当时跟安安的对话。",
+      "vi": "Nô-ê trông có vẻ cô đơn. Cô cúi đầu kể lại cuộc trò chuyện với AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative007",
+      "speaker_tag": "",
+      "ja": "地下のお部屋で２人でいる時、<br>アンアンちゃんは<br>よくノアのことを喜ばせようとしてくれて。",
+      "zh": "当只有两个人待在地下的房间时，<br>\n安安经常都会想办法<br>\n逗诺亚开心。",
+      "vi": "Khi chỉ có hai người trong căn phòng dưới lòng đất, AnAn luôn nghĩ ra cách Làm cho Nô-ê hạnh phúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative008",
+      "speaker_tag": "",
+      "ja": "死んだフリのイタズラ計画を話してくれたのも、<br>その時だった。",
+      "zh": "就是在那个时候，<br>\n安安说出了装死这个恶作剧计划。",
+      "vi": "Đó là vào thời điểm đó, AnAn tiết lộ kế hoạch chơi khăm giả chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_AnAn001",
+      "speaker_tag": "; > AnAn: |#0203Adv14_AnAn001|",
+      "ja": "――どうだ？ 面白いだろう！",
+      "zh": "——怎么样？很好玩对吧！",
+      "vi": "--Nó thế nào rồi? Thật thú vị phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah002",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah002|",
+      "ja": "うんうんうん！<br>みんなびっくりすると思う！",
+      "zh": "嗯嗯嗯！<br>\n这肯定能吓到大家！",
+      "vi": "Ờ-huh! Điều này chắc chắn sẽ khiến mọi người sợ hãi!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah003",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah003|",
+      "ja": "アンアンちゃんってすごいね！<br>そんなイタズラ、のあ思いつけなかった。",
+      "zh": "安安真厉害！<br>\n诺亚可想不出来这种恶作剧。",
+      "vi": "Anh An Tuyệt vời quá! Noah không thể tưởng tượng được một trò đùa như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_AnAn002",
+      "speaker_tag": "; > AnAn: |#0203Adv14_AnAn002|",
+      "ja": "ふふん。",
+      "zh": "哼哼。",
+      "vi": "Ừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_AnAn003",
+      "speaker_tag": "; > AnAn: |#0203Adv14_AnAn003|",
+      "ja": "皆が日々、殺人事件に怯えている。",
+      "zh": "大家每天都在为不知何时会发生的凶杀案担惊受怕。",
+      "vi": "Mỗi ngày mọi người đều lo lắng về vụ giết người sẽ xảy ra mà không biết khi nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_AnAn004",
+      "speaker_tag": "; > AnAn: |#0203Adv14_AnAn004|",
+      "ja": "わがはいがその空気を壊してやろう。<br>殺人事件を嘘にして、笑い飛ばしてやる。",
+      "zh": "就让吾辈来打破这种氛围。<br>\n吾辈要弄一场虚假的凶杀案，让大家一笑了之。",
+      "vi": "Hãy để tôi phá vỡ bầu không khí này. Chúng ta sẽ tạo ra một vụ án giết người giả và khiến mọi người bật cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative009",
+      "speaker_tag": "",
+      "ja": "得意げになった後、<br>アンアンちゃんは少し照れくさそうにそっぽを向いて。",
+      "zh": "得意洋洋一番以后，<br>\n安安带着些许羞涩的神情别过头。",
+      "vi": "Sau khi cảm thấy tự hào, AnAn nhìn đi chỗ khác với vẻ mặt có chút ngượng ngùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_AnAn005",
+      "speaker_tag": "; > AnAn: |#0203Adv14_AnAn005|",
+      "ja": "……笑わせてやるって言っただろう。",
+      "zh": "……吾辈不是说过了吗，一定会让你笑起来的。",
+      "vi": "...Không phải tôi đã nói rồi sao? Nó chắc chắn sẽ làm bạn cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah004",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah004|",
+      "ja": "アンアンちゃんはのあを喜ばせようとしただけなのに、<br>のあはその気持ちを利用したんだ。",
+      "zh": "安安不过是想让诺亚开心而已，<br>\n诺亚却利用了安安的这份感情……",
+      "vi": "AnAn chỉ muốn làm cho Noah vui, Noah đã lợi dụng tình cảm của AnAn...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah005",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah005|",
+      "ja": "悪いことしちゃったのはわかってる。<br>アンアンちゃんを殺しちゃって、<br>本当にごめんなさい。",
+      "zh": "诺亚知道自己做了坏事。<br>\n诺亚杀死了安安，<br>\n真的很对不起。",
+      "vi": "Nô-ê biết mình đã làm điều gì đó xấu. Nô-ê giết AnAn, Noah thực sự xin lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative010",
+      "speaker_tag": "",
+      "ja": "ノア本人が<ruby=\"しゅくしゅく\">粛々</ruby>と罪を受け止め、<br>認めているのに、まだ信じられない。",
+      "zh": "尽管诺亚本人坦然接受并承认了自己的罪行，<br>\n但我仍然无法相信。",
+      "vi": "Mặc dù bản thân Noah đã sẵn sàng chấp nhận và thừa nhận tội lỗi của mình nhưng Nhưng tôi vẫn không thể tin được.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative011",
+      "speaker_tag": "",
+      "ja": "信じたくないという気持ちが大きい。",
+      "zh": "但更多的是，不愿意相信。",
+      "vi": "Nhưng quan trọng hơn, tôi không muốn tin vào điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative012",
+      "speaker_tag": "",
+      "ja": "この場においてそう感じているのは、<br>私だけじゃないはずだ。",
+      "zh": "有这种想法的人肯定不止我一个。<br>\n在场各位或许都有同感。",
+      "vi": "Tôi chắc chắn không phải là người duy nhất nghĩ theo cách này. Mọi người ở đây có thể cũng cảm thấy như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Leia001",
+      "speaker_tag": "; > Leia: |#0203Adv14_Leia001|",
+      "ja": "……ノアくん、<br>どうして、どうしてアンアンくんを殺したんだ？",
+      "zh": "……诺亚，<br>\n为什么，你为什么要杀了安安？",
+      "vi": "…Noah, Tại sao, tại sao ngươi lại giết AnAn?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative013",
+      "speaker_tag": "",
+      "ja": "レイアが静かに尋ねる。<br>それに対しては、ノアはただ<ruby=\"す\">拗</ruby>ねたように口を<ruby=\"とが\">尖</ruby>らせた。",
+      "zh": "蕾雅平心定气地问道。<br>\n可是诺亚听到这个问题，却像在闹别扭似的撇着嘴不说话。",
+      "vi": "Leia bình tĩnh hỏi. Nhưng khi Noah nghe câu hỏi này, anh ấy cong môi và không nói gì như thể đang gặp khó khăn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah006",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah006|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Alisa001",
+      "speaker_tag": "; > Alisa: |#0203Adv14_Alisa001|",
+      "ja": "おい、黙ってたらなんもわかんねーだろうが！",
+      "zh": "喂，你不说我们怎么知道你怎么想！",
+      "vi": "Này, làm sao chúng Tao biết được mày nghĩ gì nếu mày không nói cho chúng Tao biết!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hanna001",
+      "speaker_tag": "; > Hanna: |#0203Adv14_Hanna001|",
+      "ja": "事情があったのなら、<br>きちんと話してほしいですわ！",
+      "zh": "如果这背后有什么内情，<br>\n希望你能好好说出来！",
+      "vi": "Nếu có điều gì đó đằng sau việc này, Bổn tiểu thư hy vọng bạn có thể nói tốt!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Sherry001",
+      "speaker_tag": "; > Sherry: |#0203Adv14_Sherry001|",
+      "ja": "そうですよ！<br>このままじゃ納得できません！",
+      "zh": "没错！<br>\n不说清楚我接受不了这事实！",
+      "vi": "Đúng vậy! Tôi không thể chấp nhận sự thật này trừ khi tôi giải thích rõ ràng!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah007",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah007|",
+      "ja": "だって……。",
+      "zh": "因为……",
+      "vi": "Bởi vì...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative014",
+      "speaker_tag": "",
+      "ja": "不服そうな顔のまま、ノアは目を<ruby=\"ふ\">伏</ruby>せる。",
+      "zh": "脸上依然挂着不服神情的诺亚垂下了眼。",
+      "vi": "Noah, người vẫn còn vẻ mặt không tin, cụp mắt xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah008",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah008|",
+      "ja": "アンアンちゃんが、<br>のあの絵を見たから……。",
+      "zh": "因为安安她……<br>\n看到了诺亚的画……",
+      "vi": "Bởi vì An'an... Noah đã nhìn thấy bức tranh của Nô-ê…",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative015",
+      "speaker_tag": "",
+      "ja": "少女たちの間に、困惑が生じる。",
+      "zh": "在场的少女都陷入了困惑。",
+      "vi": "Các cô gái có mặt đều bối rối.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Miria001",
+      "speaker_tag": "; > Miria: |#0203Adv14_Miria001|",
+      "ja": "ノアちゃんの絵って……<br>そんなのもう、みんな見てるよね？",
+      "zh": "诺亚的画……<br>\n大家平时都在看呀？",
+      "vi": "Bức tranh của Nô-ê… Các bạn có đang xem nó mọi lúc không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative016",
+      "speaker_tag": "",
+      "ja": "牢屋敷の各所への落書きに始まり、<br>スケッチブックに描いたイラスト、<br>舞台の背景まで。",
+      "zh": "不管是监牢随处可见的涂鸦，<br>\n还是素描本上的插画，<br>\n甚至舞台背景。",
+      "vi": "Cho dù đó là hình vẽ bậy có thể nhìn thấy ở mọi nơi trong Ngục Dinh Thự, Vẫn là hình minh họa trong sổ phác thảo, Kể cả phông nền sân khấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative017",
+      "speaker_tag": "",
+      "ja": "ノアは普段から、<br>自分の絵を誇らしげに<ruby=\"ひろう\">披露</ruby>してきた。",
+      "zh": "诺亚平时就总是自豪地向大家炫耀自己的画作。<br>",
+      "vi": "Noah luôn tự hào khoe những bức tranh của mình với mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative018",
+      "speaker_tag": "",
+      "ja": "それなのにアンアンを殺した理由は、絵を見たから――<br>まるで意味が理解できない。",
+      "zh": "但这时候她却把“安安看到她的画”作为杀人理由——<br>\n简直无法理解。",
+      "vi": "Nhưng lúc này cô ta lại lấy \"AnAn xem tranh của cô\" làm lý do giết người—— Chỉ là không thể hiểu được.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah009",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah009|",
+      "ja": "……あれね、本当はのあの絵じゃないの。",
+      "zh": "……那些啊，其实都不是诺亚画的。",
+      "vi": "...trên thực tế, những thứ đó không phải do Noah vẽ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative019",
+      "speaker_tag": "",
+      "ja": "その告白は、不意にぽつりと。",
+      "zh": "突如其来的是一句轻声的自白。",
+      "vi": "Điều bất ngờ xuất hiện là một lời thú nhận nhẹ nhàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah010",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah010|",
+      "ja": "アンアンちゃんもちゃんと告白したから、<br>のあも、言わなきゃいけないよね。",
+      "zh": "安安清清楚楚地坦白了，<br>\n所以诺亚也得说出来才行呢。",
+      "vi": "AnAn đã thú nhận rõ ràng, Thế là Nô-ê phải lên tiếng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah011",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah011|",
+      "ja": "みんなを騙しちゃってて、ごめんなさい。<br>でもね、本当ののあの絵はへたくそだったから。",
+      "zh": "对不起，诺亚骗了大家。<br>\n可是呢，那都是因为，诺亚画的画其实都很难看。",
+      "vi": "Xin lỗi, Noah đã nói dối mọi người. Nhưng, tất cả chỉ vì những bức tranh mà Noah vẽ thực ra rất xấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative020",
+      "speaker_tag": "",
+      "ja": "泣きそうな笑顔で。",
+      "zh": "她泫然欲泣地笑着说。",
+      "vi": "Cô ấy nói với một nụ cười đầy nước mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah012",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah012|",
+      "ja": "なかなか言えなかったんだあ……。",
+      "zh": "诺亚实在说不出口……",
+      "vi": "Noah thực sự không thể nói được…",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative021",
+      "speaker_tag": "",
+      "ja": "きっとこの場で口にする覚悟で。",
+      "zh": "带着一定要在这里说出来的决心。",
+      "vi": "Với sự quyết tâm mà tôi phải nói ra ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative022",
+      "speaker_tag": "",
+      "ja": "ノアは悪ぶっているわけでも、<br><ruby=\"す\">拗</ruby>ねているわけでもなく。",
+      "zh": "诺亚不是有意去害人，<br>\n也不是在闹别扭。",
+      "vi": "Nô-ê không có ý làm hại ai, Nó không giống như có bất kỳ cuộc cãi vã nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah013",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah013|",
+      "ja": "怖、くて。",
+      "zh": "诺亚……好害怕。",
+      "vi": "Nô-ê...sợ quá.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative023",
+      "speaker_tag": "",
+      "ja": "そうしてノアは、<br>【禁忌】を私たちの前にさらけだす。",
+      "zh": "诺亚就这样，<br>\n把她的【禁忌】曝光在我们面前。",
+      "vi": "Thế là xong đối với Noah, Phơi bày [điều cấm kỵ] của cô ấy trước mặt chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative024",
+      "speaker_tag": "",
+      "ja": "彼女の闇の色が、私たちの心を染めていく。",
+      "zh": "她那漆黑的感情，逐渐把我们的心也染上阴暗的颜色。",
+      "vi": "Những cảm xúc đen tối của cô dần dần nhuộm trái tim chúng ta một màu đen tối.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative025",
+      "speaker_tag": "",
+      "ja": "城ケ崎ノアは昔から、<br>絵を描くのが大好きだった。",
+      "zh": "城崎诺亚从很久以前开始<br>\n就非常喜欢画画。",
+      "vi": "Kinosaki Noah đã bắt đầu từ lâu rồi Tôi thực sự thích vẽ tranh.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative026",
+      "speaker_tag": "",
+      "ja": "狭い部屋の中で、<br>いつもチラシの裏に絵を描いて過ごしていた。",
+      "zh": "她总是在狭小的房间里，<br>\n拿传单的背面当画纸，终日画画度过一整天。",
+      "vi": "Cô ấy luôn ở trong một căn phòng nhỏ, Sử dụng mặt sau của tờ rơi làm giấy vẽ và dành cả ngày để vẽ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative027",
+      "speaker_tag": "",
+      "ja": "ある時、母親に頼みこんで、<br>少しだけどお絵描きの道具を買ってもらえた。",
+      "zh": "有一次，她苦苦哀求妈妈，<br>\n给她买了一些画具。",
+      "vi": "Có lần cô cầu xin mẹ mình, Mua cho cô ấy một số dụng cụ vẽ tranh.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative028",
+      "speaker_tag": "",
+      "ja": "大切に使いながら、<br>ノアは色々な絵を自由に<ruby=\"えが\">描</ruby>く。",
+      "zh": "她非常珍惜这些画具，<br>\n用它们画出了各种各样的画作。",
+      "vi": "Cô ấy rất trân trọng những dụng cụ vẽ tranh này, Nhiều bức tranh khác nhau đã được thực hiện với chúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative029",
+      "speaker_tag": "",
+      "ja": "――お絵描きって楽しい！ 大好き！",
+      "zh": "——画画真开心！最喜欢画画了！",
+      "vi": "--Thật thú vị khi vẽ! Tôi thích vẽ nhất!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative030",
+      "speaker_tag": "",
+      "ja": "部屋中にたくさんたくさん自分の絵を飾って、<br>ノアは満面に、幸せそうに笑った。",
+      "zh": "房间里放满了自己的画作，<br>\n诺亚幸福得笑容满面。",
+      "vi": "Căn phòng tràn ngập những bức tranh của tôi, Noah đang rạng rỡ vì hạnh phúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative031",
+      "speaker_tag": "",
+      "ja": "しかし、大きな変化が訪れる。<br>ノアは魔法に目覚めた。",
+      "zh": "可是，她的身上突然发生了巨变。<br>\n诺亚觉醒了魔法。",
+      "vi": "Tuy nhiên, một sự thay đổi lớn bất ngờ xảy ra trong cô. Noah thức tỉnh với phép thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative032",
+      "speaker_tag": "",
+      "ja": "ある日、外に出てみると、<br>建物の壁に大きな絵を描いている人たちがいた。",
+      "zh": "某天外出的时候，<br>\n诺亚看到几个人在建筑物的墙面上画画。",
+      "vi": "Một ngày nọ khi tôi đi vắng, Nô-ê nhìn thấy nhiều người đang vẽ trên tường của tòa nhà.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative033",
+      "speaker_tag": "",
+      "ja": "やらせてと頼んだら、やらせてもらえた。<br>ノアには自信があった。",
+      "zh": "她请求人家让自己动手试试，那几个人答应了。<br>\n那时的诺亚充满了信心。",
+      "vi": "Cô đề nghị họ cho cô thử và những người đó đã đồng ý. Lúc đó Nô-ê tràn đầy tự tin.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative034",
+      "speaker_tag": "",
+      "ja": "なぜならいつも、<br>ノアの描いた絵は魔法で上手になるから。",
+      "zh": "诺亚自信的来源，就是魔法。<br>\n魔法会让诺亚的画变好看。",
+      "vi": "Nguồn tự tin của Noah chính là phép thuật. Phép thuật sẽ làm cho những bức tranh của Noah trông đẹp hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative035",
+      "speaker_tag": "",
+      "ja": "それからは、あっという間。",
+      "zh": "自那以后，没过多久。",
+      "vi": "Không lâu sau đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative036",
+      "speaker_tag": "",
+      "ja": "魔法のかかったノアの絵は<br>話題になって、メディアでも取り上げられた。",
+      "zh": "诺亚用魔法画出来的画作成为了热门话题，<br>\n就连媒体也报道了她的画。",
+      "vi": "Những bức tranh ma thuật của Noah đã trở thành chủ đề nóng hổi, Ngay cả giới truyền thông cũng đưa tin về tranh của cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative037",
+      "speaker_tag": "",
+      "ja": "ノアの絵はたちまち世間で有名になっていった。",
+      "zh": "诺亚的画作转眼间就闻名于世。",
+      "vi": "Những bức tranh của Nô-ê trở nên nổi tiếng thế giới ngay lập tức.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative038",
+      "speaker_tag": "",
+      "ja": "ノアは<ruby=\"ほこ\">誇</ruby>らしかった。<ruby=\"うれ\">嬉</ruby>しかった。<br>自分の絵をみんなが<ruby=\"ほ\">褒</ruby>めてくれる。",
+      "zh": "诺亚很骄傲。诺亚很开心。<br>\n所有人都会夸奖她的画。",
+      "vi": "Nô-ê rất tự hào. Nô-ê rất vui. Mọi người đều khen ngợi những bức tranh của cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative039",
+      "speaker_tag": "",
+      "ja": "――けれど、ノアは絵がどれだけ有名になっても<br>名乗りでることはなかった。",
+      "zh": "——可是，不管诺亚的画作名气有多大，<br>\n她都从未公开宣布自己就是作者。",
+      "vi": "---Nhưng cho dù những bức tranh của Nô-ê có nổi tiếng đến đâu đi nữa, Cô chưa bao giờ công khai tuyên bố mình là tác giả.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative040",
+      "speaker_tag": "",
+      "ja": "心の片隅で、気付いていたから。",
+      "zh": "因为在她心底的某个角落里一直有一份担忧。",
+      "vi": "Bởi vì trong lòng cô luôn có một nỗi lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative041",
+      "speaker_tag": "",
+      "ja": "その引っかかりは、<br>自分の家に帰った時に突きつけられる。",
+      "zh": "每次回到家，<br>\n她都不得不面对摆在眼前的现实。",
+      "vi": "Mỗi lần tôi về nhà, Cô phải đối mặt với sự thật trước mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative042",
+      "speaker_tag": "",
+      "ja": "昔描いて並べた、自分の絵。<br>魔法がかかる前の絵。",
+      "zh": "摆放在房间里的，以前自己亲手画的画。<br>\n没有使用魔法的，自己的画。",
+      "vi": "Những bức tranh đặt trong phòng đều là những bức tranh do chính tay tôi vẽ. Không có phép thuật nào được sử dụng, bức tranh của riêng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative043",
+      "speaker_tag": "",
+      "ja": "新たな絵を描こうとするたび、<br>ノアの魔法は古いノアの絵を次々黒く<ruby=\"ぬ\">塗</ruby>り<ruby=\"つぶ\">潰</ruby>した。",
+      "zh": "每当诺亚想要画出新的画作时，<br>\n诺亚的魔法就会把她之前的画作一张一张涂黑。",
+      "vi": "Bất cứ khi nào Noah muốn vẽ một bức tranh mới, Phép thuật của Noah sẽ làm đen từng bức tranh trước đây của cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative044",
+      "speaker_tag": "",
+      "ja": "へたくそ。<br>へたくそ。",
+      "zh": "丑死了。<br>\n丑死了。",
+      "vi": "Thật xấu xí. Thật xấu xí.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative045",
+      "speaker_tag": "",
+      "ja": "へたくそ。へたくそ。へたくそ。へたくそ。",
+      "zh": "丑死了。丑死了。丑死了。丑死了。",
+      "vi": "Thật xấu xí. Thật xấu xí. Thật xấu xí. Thật xấu xí.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative046",
+      "speaker_tag": "",
+      "ja": "魔法に突きつけられる。<br>ノアが自分で描く絵は不要なのだと。",
+      "zh": "魔法把现实推到诺亚面前。<br>\n诺亚亲手画的画无人需要。",
+      "vi": "Phép thuật đẩy hiện thực đến trước mặt Noah. Không ai muốn những bức tranh mà Nô-ê vẽ bằng chính tay mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative047",
+      "speaker_tag": "",
+      "ja": "そうしてノアの描いた絵は、<br>全部黒く<ruby=\"ぬ\">塗</ruby>り<ruby=\"つぶ\">潰</ruby>されてしまった。",
+      "zh": "就这样，<br>\n诺亚亲手画的画全都被涂成一片黑色了。",
+      "vi": "Vậy đó, Tất cả những bức tranh Nô-ê vẽ đều được sơn màu đen.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative048",
+      "speaker_tag": "",
+      "ja": "――あはは、そうだよね。<br>――こんな恥ずかしい絵いらない。大嫌い。",
+      "zh": "——啊哈哈，没错。<br>\n——诺亚不需要这种看了就羞愧的画。诺亚最讨厌这些画了。",
+      "vi": "--Ahaha, đúng vậy. ——Noah không cần loại tranh khiến anh ấy cảm thấy xấu hổ này. Nô-ê ghét những bức tranh này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative049",
+      "speaker_tag": "",
+      "ja": "ノアは魔法に同調し、<ruby=\"うつ\">虚</ruby>ろに笑った。<br>笑いながら、心がじくじくと痛みを訴えた。",
+      "zh": "诺亚与魔法产生共鸣，发出空洞的笑声。<br>\n在笑容的掩盖下，她的心也感到阵阵刺痛。",
+      "vi": "Noah bật ra một tiếng cười trống rỗng khi anh ấy cộng hưởng với phép thuật. Dưới nụ cười che đậy, trái tim cô cũng cảm thấy ngứa ngáy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative050",
+      "speaker_tag": "",
+      "ja": "本当に描いた絵はいらなくなったのだ。",
+      "zh": "已经不需要这些亲手一笔笔画出来的画了。",
+      "vi": "Không cần thiết những bức tranh này do chính tay bạn vẽ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative051",
+      "speaker_tag": "",
+      "ja": "――こんな絵を好きな人いないよ。",
+      "zh": "——没有人会喜欢这么丑的画。",
+      "vi": "--Sẽ không có ai thích một bức tranh xấu xí như vậy cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative052",
+      "speaker_tag": "",
+      "ja": "いるはずがない。当のノアが好きじゃなくなったから。",
+      "zh": "绝对不会有人喜欢。因为连诺亚本人都变得不喜欢了。",
+      "vi": "Chắc chắn sẽ không có ai thích nó. Bởi vì ngay cả bản thân Nô-ê cũng bị ghét bỏ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah014",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah014|",
+      "ja": "のあが描く絵は、<br>みんな魔法で変えられちゃうんだ。",
+      "zh": "诺亚画的画全都被魔法涂改了。<br>",
+      "vi": "Tất cả những bức tranh do Nô-ê vẽ đều bị ma thuật thay đổi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah015",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah015|",
+      "ja": "でも、たまに魔法がかからなくて、<br>のあの描いた絵が残っちゃう時もあって……。",
+      "zh": "可是，偶尔魔法会失效，<br>\n诺亚画的画会保留下来……",
+      "vi": "Tuy nhiên, đôi khi phép màu lại thất bại, Những bức tranh Nô-ê vẽ sẽ vẫn còn…",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah016",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah016|",
+      "ja": "アンアンちゃんが見たのが、それ。",
+      "zh": "安安看到的，就是那样的画。",
+      "vi": "Những gì AnAn nhìn thấy chính là loại tranh đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah017",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah017|",
+      "ja": "見られたのがすごく辛くて、怖くて……<br>アンアンちゃんを殺さなくちゃって<br>思っちゃった。",
+      "zh": "被其他人看到诺亚的画，诺亚好痛苦、好害怕……<br>\n所以诺亚才会想到，<br>\n要杀了安安。",
+      "vi": "Noah rất đau đớn và sợ hãi khi người khác nhìn thấy tranh của anh... Đó là lý do tại sao Noah nghĩ, Noah muốn giết AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Ema004",
+      "speaker_tag": "; > Ema: |#0203Adv14_Ema004|",
+      "ja": "ノアちゃん……。",
+      "zh": "诺亚……",
+      "vi": "Noah……",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative053",
+      "speaker_tag": "",
+      "ja": "私たちはただただ辛い気持ちで、<br><ruby=\"たたず\">佇</ruby>むノアを見つめる。",
+      "zh": "诺亚站在原地，<br>\n我们只能怀着心痛默默注视着她。",
+      "vi": "Nô-ê đứng đó, Chúng ta chỉ có thể im lặng nhìn cô ấy mà đau lòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative054",
+      "speaker_tag": "",
+      "ja": "何を言えばいい。<br>どう声をかけたらいい。<br>どう思えばいい。",
+      "zh": "我该说什么。<br>\n我该跟她说什么。<br>\n我该怎样看待她。",
+      "vi": "Tôi nên nói gì đây? Tôi nên nói gì với cô ấy đây? Tôi nên nhìn cô ấy như thế nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro001",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro001|",
+      "ja": "（わからない、わからないんだ……）",
+      "zh": "（我不知道，我真的不知道……）",
+      "vi": "(Tôi không biết, tôi thực sự không biết…)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative055",
+      "speaker_tag": "",
+      "ja": "ゴクチョーが<ruby=\"しび\">痺</ruby>れを切らしたように、<br>処刑ボタンを押すように<ruby=\"うなが\">促</ruby>してくる。",
+      "zh": "典狱长大概等得不耐烦了，<br>\n开始催促我们按下处刑按钮。",
+      "vi": "Quản giáo có lẽ đã mỏi mắt chờ đợi rồi, Bắt đầu thúc giục chúng tôi nhấn nút thực hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative056",
+      "speaker_tag": "",
+      "ja": "正しさが見つからないまま、<br>私たちはノアを<ruby=\"さば\">裁</ruby>かなくてはならない。",
+      "zh": "我们不得不在还未找到正确答案的情况下<br>\n把诺亚送上处刑台。",
+      "vi": "Chúng ta phải mà không tìm được câu trả lời đúng Đưa Nô-ê đến chỗ hành quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Warden001",
+      "speaker_tag": "; > Warden: |#0203Adv14_Warden001|",
+      "ja": "ありがとうございます。<br>ではこれより、魔女の処刑を執行します～！",
+      "zh": "谢谢各位。<br>\n现在开始处刑魔女～！",
+      "vi": "Cảm ơn bạn. Hãy bắt đầu hành quyết phù thủy ngay bây giờ~!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative057",
+      "speaker_tag": "",
+      "ja": "ゴクチョーの宣言と同時に、<br>中央の仕掛けが作動する。",
+      "zh": "在典狱长宣告处刑开始的同时，<br>\n中央的机关开始运作。",
+      "vi": "Trong khi cai ngục tuyên bố về vụ hành quyết, Các cơ quan trung ương bắt đầu hoạt động.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative058",
+      "speaker_tag": "",
+      "ja": "台座が入れ替わり、姿を現したのは……",
+      "zh": "底座移位交换，出现在我们面前的是……",
+      "vi": "Căn cứ được dịch chuyển và trao đổi, và thứ xuất hiện trước mặt chúng ta là...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative059",
+      "speaker_tag": "",
+      "ja": "まるでアクアリウムのような――水槽だった。",
+      "zh": "像是一个水族箱一般的——水槽。",
+      "vi": "Giống như một bể cá - một bể nước.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative060",
+      "speaker_tag": "",
+      "ja": "少女ひとり、<ruby=\"やすやす\">易々</ruby>と入れてしまいそうなサイズだ。<br>中には、８割ほど水が張られている。",
+      "zh": "大小看起来能轻松容纳一名少女。<br>\n里面大概装了八成满的水。",
+      "vi": "Kích thước có vẻ như có thể dễ dàng chứa được một cô gái trẻ. Có lẽ nó đã đầy 80% nước.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative061",
+      "speaker_tag": "",
+      "ja": "――これから、ノアが処刑される。<br>その現実が、心に重く<ruby=\"の\">圧</ruby>しかかってきた。",
+      "zh": "——诺亚即将被处死。<br>\n这个事实就像一块巨石，重重地压在我的心头。",
+      "vi": "---Noah sắp bị xử tử. Sự thật này đè nặng lên trái tim tôi như một tảng đá.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative062",
+      "speaker_tag": "",
+      "ja": "止められるものならば、今すぐにでも止めたい。<br>ざわりと感情が波を立てる。",
+      "zh": "如果能做到，我真想马上制止。<br>\n感情正在激烈地波动。",
+      "vi": "Nếu có thể làm được thì tôi thực sự muốn dừng nó lại ngay lập tức. Cảm xúc đang hỗn loạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative063",
+      "speaker_tag": "",
+      "ja": "ゴクチョーも看守も、許せない。<br>いや、他の少女たちや自分すらも許せなかった。",
+      "zh": "不能原谅典狱长和看守。<br>\n不，就连其他少女，甚至我自己，我都无法原谅。",
+      "vi": "Không thể tha thứ cho cai ngục và Cai Ngục. Không, kể cả những cô gái khác, kể cả bản thân tôi, tôi có thể tha thứ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative064",
+      "speaker_tag": "",
+      "ja": "ノアが処刑されるなんて、間違っている――",
+      "zh": "对诺亚处以死刑，是错误的——",
+      "vi": "Thật sai lầm khi áp dụng hình phạt tử hình đối với Noah——",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Warden002",
+      "speaker_tag": "; > Warden: |#0203Adv14_Warden002|",
+      "ja": "今さら言うまでもないと思いますが、<br>他の人たちは、くれぐれも動かないでください。",
+      "zh": "事到如今也不用我多说了吧？<br>\n请各位留在原地，切勿乱动。",
+      "vi": "Tôi không cần phải nói thêm về những gì đã xảy ra bây giờ, phải không? Xin hãy ở yên tại chỗ và đừng di chuyển.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative065",
+      "speaker_tag": "",
+      "ja": "私の心境を見透かしているかのように、<br>ゴクチョーが告げてくる。",
+      "zh": "仿佛看透我此时的心境一般，<br>\n典狱长这般说道。",
+      "vi": "Như thể nhìn thấu tâm trạng của tôi lúc này, Người cai ngục đã nói như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Warden003",
+      "speaker_tag": "; > Warden: |#0203Adv14_Warden003|",
+      "ja": "処刑の邪魔や介入を行うと、<br>その場で看守が断罪しちゃいますので。",
+      "zh": "一旦谁做出妨碍或介入处刑的行为，<br>\n就会被看守当场处死。",
+      "vi": "Khi có người cản trở hoặc can thiệp vào việc thực thi, Anh ta sẽ bị Cai Ngục xử tử ngay tại chỗ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative066",
+      "speaker_tag": "",
+      "ja": "<ruby=\"けいそつ\">軽率</ruby>な行動を取れば、<br>余計な犠牲者が出てしまうかもしれない。",
+      "zh": "若轻举妄动，<br>\n说不定会让更多人牺牲。",
+      "vi": "Nếu bạn hành động hấp tấp, Có lẽ sẽ có nhiều người chết hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative067",
+      "speaker_tag": "",
+      "ja": "私は奥歯を強く<ruby=\"か\">噛</ruby>み締める。<br>このままでは、いけない気がしていた。",
+      "zh": "我咬紧牙关。<br>\n不能再这样下去了。",
+      "vi": "Tôi nghiến răng. Chuyện này không thể tiếp tục được.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah018",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah018|",
+      "ja": "ヒ――。",
+      "zh": "希——",
+      "vi": "Hy vọng——",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative068",
+      "speaker_tag": "",
+      "ja": "看守に連れられていくノアが、<br>ちらりと私の方を見た。",
+      "zh": "被看守带上处刑台的诺亚，<br>\n往我这边瞥了一眼。",
+      "vi": "Noah được Cai Ngục dẫn đến đài hành quyết, Liếc nhìn về phía tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative069",
+      "speaker_tag": "",
+      "ja": "何かを口にしかけて、それは声にならないまま<br>結局閉ざしてしまう。",
+      "zh": "她的嘴巴张了张，仿佛有话要说，<br>\n但结果还是没能说出任何话。",
+      "vi": "Miệng cô ấy mở ra như thể có điều gì muốn nói, Nhưng cuối cùng chẳng có gì được nói ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative070",
+      "speaker_tag": "",
+      "ja": "少し前にも、<br>同じ挙動をしていたノアを見た。",
+      "zh": "就在前阵子，<br>\n我见到过诺亚做出同样的举动。",
+      "vi": "Vừa mới đây thôi, Tôi đã thấy Nô-ê làm điều tương tự.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro002",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro002|",
+      "ja": "（ノアは一体私に何を……）",
+      "zh": "（诺亚到底想对我说什么……）",
+      "vi": "(Noah muốn nói gì với tôi vậy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative071",
+      "speaker_tag": "",
+      "ja": "垂れ下がる鎖に、ノアは拘束された。",
+      "zh": "悬垂的锁链扣住了诺亚。",
+      "vi": "Những sợi xích lủng lẳng trói chặt Nô-ê.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative072",
+      "speaker_tag": "",
+      "ja": "鎖に<ruby=\"つな\">繋</ruby>がれたまま、<br>ノアの体が徐々に水槽内に沈められていく。",
+      "zh": "在受到拘束的状态下，<br>\n诺亚的身体逐渐没入水槽之中。",
+      "vi": "Trong khi bị khống chế, Cơ thể của Noah dần chìm xuống bể nước.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative073",
+      "speaker_tag": "",
+      "ja": "まるで走馬灯のように、<br>ノアと共に過ごした思い出の数々が<ruby=\"よみがえ\">蘇</ruby>る。",
+      "zh": "和诺亚共度的无数回忆犹如走马灯一般<br>\n在脑海中浮现。",
+      "vi": "Vô số kỷ niệm bên Noah giống như một cánh cửa quay đến với tâm trí.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative074",
+      "speaker_tag": "",
+      "ja": "そこで――ようやくわかった。",
+      "zh": "就在这时候——我终于明白过来。",
+      "vi": "Đó là lúc tôi cuối cùng cũng nhận ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro003",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro003|",
+      "ja": "消すんだ！ 今すぐ！",
+      "zh": "把它清理掉！立刻！",
+      "vi": "Dọn dẹp nó đi! ngay lập tức!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah019",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah019|",
+      "ja": "えー、なんでかな？<br>だってのあ、お絵描きしてるだけだよ？",
+      "zh": "欸～为什么啊？<br>\n诺亚只是在画画而已啊？",
+      "vi": "Này~ tại sao vậy? Có phải Nô-ê chỉ đang vẽ tranh?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro004",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro004|",
+      "ja": "君にとっては趣味だろうと芸術だろうと、<br>通路までにおいが漏れているのは、<br>みんなにとって迷惑行為でしかない。",
+      "zh": "不论这对你来说是爱好还是艺术，<br>\n熏人的气味已经飘到过道里了，<br>\n这对其他人来说就是一种骚扰行为。",
+      "vi": "Cho dù đây là sở thích hay nghệ thuật đối với bạn, Mùi hương đã bay vào hành lang, Đây là hành vi quấy rối người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah020",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah020|",
+      "ja": "ここで描いちゃダメ？",
+      "zh": "不能在这里画吗？",
+      "vi": "Bạn không thể vẽ nó ở đây à?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro005",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro005|",
+      "ja": "ダメだ。",
+      "zh": "不行。",
+      "vi": "Không.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah021",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah021|",
+      "ja": "けちー。",
+      "zh": "小气鬼～",
+      "vi": "đồ rẻ tiền~",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro006",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro006|",
+      "ja": "けちで結構。私の目がある限り、<br>勝手な行動は謹んでもらう。",
+      "zh": "随你怎么说。只要我在，<br>\n就不许你恣意妄为。",
+      "vi": "Nói những gì bạn muốn. Miễn là tôi còn ở đây, Bạn không được phép hành động tùy tiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah022",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah022|",
+      "ja": "……お絵描きしちゃった。のあ、怒られる……？",
+      "zh": "……诺亚画画了。希罗会生诺亚的气吗……？",
+      "vi": "…Noah đã vẽ. Liệu Anh Hùng có giận Noah không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro007",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro007|",
+      "ja": "……なんでも怒るわけじゃない。<br>ただ問題は解決していない。",
+      "zh": "……并不是在生你的气。<br>\n只是因为问题还没解决而已。",
+      "vi": "...Tôi không giận bạn. Chỉ là vì vấn đề vẫn chưa được giải quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah023",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah023|",
+      "ja": "……ヒロちゃんなんて大嫌い。",
+      "zh": "……最讨厌希罗了。",
+      "vi": "...Noah ghét Anh Hùng nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro008",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro008|",
+      "ja": "っ、嫌いで結構だ。<br>正しくない行為をしたノアが悪い！",
+      "zh": "讨厌就讨厌吧。<br>\n这都怪诺亚做出不正确的行为！",
+      "vi": "Nếu bạn ghét nó, hãy ghét nó. Tất cả là lỗi của Nô-ê!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro009",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro009|",
+      "ja": "――ノア！！",
+      "zh": "——诺亚！！",
+      "vi": "——Noah！！",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative075",
+      "speaker_tag": "",
+      "ja": "私は<ruby=\"こらえ\">堪</ruby>きれず駆け寄り、声を上げていた。",
+      "zh": "我无法忍耐，飞奔出去，大喊起来。",
+      "vi": "Tôi không chịu nổi nên chạy ra ngoài và hét lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative076",
+      "speaker_tag": "",
+      "ja": "決して届かない分厚いガラス越しに、<br>ノアと見つめ合う。",
+      "zh": "厚厚的玻璃像一道天堑把我们隔开，<br>\n我只能隔着玻璃和诺亚对视。",
+      "vi": "Tấm kính dày ngăn cách chúng ta như vực thẳm, Tôi chỉ có thể nhìn Noah qua tấm kính.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro010",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro010|",
+      "ja": "私は……私はっ",
+      "zh": "我……我……",
+      "vi": "Tôi...tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative077",
+      "speaker_tag": "",
+      "ja": "食事も取らず、<br>地下の監房にこもりきりになっていたノアを、<br>外へ連れ出したのは、私だ。",
+      "zh": "曾经诺亚连饭也不吃，<br>\n一直闷在地下牢房。<br>\n带着她走出牢房，到外面去的，是我。",
+      "vi": "Đã có lúc Nô-ê thậm chí không thèm ăn, Tôi đã bị mắc kẹt trong phòng giam dưới lòng đất. Chính tôi là người dẫn cô ấy ra khỏi phòng giam và ra ngoài.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative078",
+      "speaker_tag": "",
+      "ja": "その手を引き、<br>見守っていたのは、私だ。",
+      "zh": "牵着她的手，<br>\n一直守护着她的，是我。",
+      "vi": "Hãy nắm lấy tay cô ấy, Chính tôi là người đã bảo vệ cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative079",
+      "speaker_tag": "",
+      "ja": "ノアがずっと何か言いたげにしていたのは――<br>私が<ruby=\"そば\">傍</ruby>に来るのを、きっと待っていた。",
+      "zh": "诺亚总是欲言又止，那一定是因为——<br>\n诺亚在等待我走近她的身边。",
+      "vi": "Noah luôn ngại nói, đó hẳn là vì—— Noah đang đợi tôi đến gần cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative080",
+      "speaker_tag": "",
+      "ja": "私のことを待ってくれていた。",
+      "zh": "她一直在等我。",
+      "vi": "Cô ấy đã đợi tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro011",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro011|",
+      "ja": "私は君を見放したりしない！！",
+      "zh": "我不会不管你！！",
+      "vi": "Tôi sẽ không phớt lờ bạn! !",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative081",
+      "speaker_tag": "",
+      "ja": "<ruby=\"のど\">喉</ruby>が切れそうになるほど叫び、<br>ノアを真っすぐ<ruby=\"みす\">見据</ruby>える。",
+      "zh": "我直视着诺亚，声嘶力竭地大喊起来。<br>",
+      "vi": "Tôi nhìn thẳng vào Noah và hét toáng lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro012",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro012|",
+      "ja": "友だちが悪いことをすれば叱るし、<br>間違っていることは嫌がられようと正す！",
+      "zh": "朋友做了坏事，我会斥责她；<br>\n朋友做了错误的事，就算她反感，我也会帮助她改正！",
+      "vi": "Nếu một người bạn làm điều gì xấu, tôi sẽ mắng cô ấy; Nếu một người bạn làm sai điều gì đó, ngay cả khi cô ấy cảm thấy chán ghét, tôi sẽ giúp cô ấy sửa chữa!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro013",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro013|",
+      "ja": "鬱陶しくても煩わしくても、<br>私はそういう人間だ！",
+      "zh": "觉得我烦人也好，觉得我讨厌也好，<br>\n但我就是这样的人！",
+      "vi": "Cho dù bạn nghĩ tôi khó chịu hay khó chịu, Nhưng đó chính là tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro014",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro014|",
+      "ja": "それでも良ければ、仲直りしよう――！",
+      "zh": "如果你愿意的话，我们就言归于好——！",
+      "vi": "Nếu bạn muốn, chúng ta có thể làm hòa—!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah024",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah024|",
+      "ja": "ヒロちゃん……。",
+      "zh": "希罗……",
+      "vi": "Hiro……",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro015",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro015|",
+      "ja": "私は……絶対に、<br>君が嫌がっても見放さない……っ！！",
+      "zh": "就算你不愿意……<br>\n我也绝对不会不管你……！！",
+      "vi": "Ngay cả khi bạn không muốn... Tôi sẽ không bao giờ bỏ qua bạn...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro016",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro016|",
+      "ja": "君を諦めたりしないから！！",
+      "zh": "不会放弃你！！",
+      "vi": "Tôi sẽ không từ bỏ bạn! !",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative082",
+      "speaker_tag": "",
+      "ja": "ノアの<ruby=\"ほお\">頬</ruby>を、<ruby=\"しずく\">雫</ruby>が伝う。",
+      "zh": "诺亚的脸颊划过一丝泪痕。",
+      "vi": "Một giọt nước mắt lăn dài trên má Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative083",
+      "speaker_tag": "",
+      "ja": "涙を流しながら、彼女は声もなく、<br>何度もうん、うん、と<ruby=\"うなず\">頷</ruby>いた。",
+      "zh": "她流着泪，无声地，<br>\n一次又一次地点头。",
+      "vi": "Cô rơi nước mắt, lặng lẽ, Gật đầu hết lần này đến lần khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah025",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah025|",
+      "ja": "ありがとう、ヒロちゃん。",
+      "zh": "谢谢你，希罗。",
+      "vi": "Cảm ơn Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah026",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah026|",
+      "ja": "のあね、ちゃんとね、<br>ヒロちゃんと仲直り、したかったんだ……。",
+      "zh": "其实诺亚，一直想，能好好地，<br>\n跟希罗和好……",
+      "vi": "Trên thực tế, Noah luôn mong muốn có thể Làm hòa với Anh hùng...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah027",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah027|",
+      "ja": "ごめんなさいって、言いたかったんだ……。",
+      "zh": "一直想，跟希罗说一声，对不起……",
+      "vi": "Noah đang nghĩ đến việc xin lỗi Hiro...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah028",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah028|",
+      "ja": "アンアンちゃんのことも、<br>怖くて、我慢できなかったことも……っ",
+      "zh": "还有安安，<br>\n诺亚好害怕，害怕得受不了……",
+      "vi": "Và AnAn, Nô-ê sợ đến mức không chịu nổi...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah029",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah029|",
+      "ja": "もう誰も死んでほしくなかったのに……<br>なのに、殺さなきゃって……！",
+      "zh": "明明不希望再有人死去……<br>\n却想着一定要杀死她不可……！",
+      "vi": "Rõ ràng là Noah không muốn ai chết nữa... Nhưng Noah nghĩ Noah phải giết cô ấy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah030",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah030|",
+      "ja": "嫌なのに……気持ちが、止まらなくて……！",
+      "zh": "心里明明抗拒……却无法抑制这些感情……！",
+      "vi": "Trái tim Noah rõ ràng đang chống cự...nhưng Noah không thể kìm nén những cảm xúc này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah031",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah031|",
+      "ja": "ごめんなさい、ごめんなさい！！<br>本当にごめんなさぁい……っ！！",
+      "zh": "对不起，对不起！！<br>\n真的，对不起……！！",
+      "vi": "Xin lỗi, xin lỗi! ! Thực sự, Noah xin lỗi...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative084",
+      "speaker_tag": "",
+      "ja": "ノアは私に心を寄せ、<br>私のことをずっと、待っていたんだ。",
+      "zh": "诺亚心里一直有我。<br>\n她一直在等我。",
+      "vi": "Noah luôn có tôi trong trái tim anh ấy. Cô ấy đã đợi tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative085",
+      "speaker_tag": "",
+      "ja": "痛みと同時に感じるのは、<ruby=\"つな\">繋</ruby>がり。",
+      "zh": "痛苦袭来的同时，也深刻感受到我们之间的联结。",
+      "vi": "Khi nỗi đau ập đến, tôi cũng cảm nhận sâu sắc được mối liên hệ giữa chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative086",
+      "speaker_tag": "",
+      "ja": "ようやく私は、ノアと心の距離を近く感じた。",
+      "zh": "我终于能感受到，我们的心是如此地靠近。",
+      "vi": "Cuối cùng tôi có thể cảm thấy rằng trái tim của chúng tôi rất gần nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative087",
+      "speaker_tag": "",
+      "ja": "水が満ちていき、ノアが沈んでいく。",
+      "zh": "水位越来越满，诺亚逐渐下沉。",
+      "vi": "Mực nước ngày càng dâng cao và Nô-ê đang chìm dần.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative088",
+      "speaker_tag": "",
+      "ja": "揺らめく光が輪郭をぼやけさせながらも、<br>ガラス越しにたしかな彼女の姿を映す。",
+      "zh": "隔着玻璃，摇曳的水光让她的轮廓变得模糊。<br>",
+      "vi": "Qua tấm kính, ánh nước đung đưa làm mờ đi đường nét của cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative089",
+      "speaker_tag": "",
+      "ja": "その一瞬一瞬が永遠のように思えた。",
+      "zh": "每一分每一秒都漫长得宛如永恒。",
+      "vi": "Từng phút từng giây dài như vô tận.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah032",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah032|",
+      "ja": "……でもね、嬉しいって気持ちもあったんだ。",
+      "zh": "……可是啊，其实诺亚也有高兴过。",
+      "vi": "...Nhưng thực ra, Noah cũng rất vui.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah033",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah033|",
+      "ja": "アンアンちゃんに、<br>本当の絵を好きだって言われて……。",
+      "zh": "安安对诺亚说，<br>\n她喜欢诺亚亲手画的画……",
+      "vi": "AnAn nói với Noah, Cô thích những bức tranh do chính tay Nô-ê vẽ...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah034",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah034|",
+      "ja": "だから、ヒロちゃんにも見てほしかった。",
+      "zh": "所以，其实诺亚也很想给希罗看一看。",
+      "vi": "Cho nên kỳ thật Nô-ê cũng muốn cho Anh hùng nhìn một cái.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Noah035",
+      "speaker_tag": "; > Noah: |#0203Adv14_Noah035|",
+      "ja": "のあの本当の絵、褒めてもらいたかったな。",
+      "zh": "看看诺亚画的画，夸夸真正属于诺亚的画作。",
+      "vi": "Hãy nhìn những bức tranh Nô-ê vẽ và khoe khoang về những bức tranh thật sự của Nô-ê.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro017",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro017|",
+      "ja": "ノア……！",
+      "zh": "诺亚……！",
+      "vi": "Noah……！",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative090",
+      "speaker_tag": "",
+      "ja": "私は思わずガラスを<ruby=\"たた\">叩</ruby>き割ろうと、<br>拳を思い切り振り上げていた。",
+      "zh": "我不禁挥起拳头<br>\n试图打碎玻璃。",
+      "vi": "Tôi không thể không giơ nắm đấm Đang cố gắng phá vỡ kính.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Ema005",
+      "speaker_tag": "; > Ema: |#0203Adv14_Ema005|",
+      "ja": "ヒロちゃん、ダメだよ……！",
+      "zh": "希罗，不行……！",
+      "vi": "Hiro, không...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative091",
+      "speaker_tag": "",
+      "ja": "背後から、エマが私の手首を<ruby=\"つか\">掴</ruby>んで引き止めた。",
+      "zh": "身后，艾玛抓住我的手腕，阻止了我。",
+      "vi": "Phía sau tôi, Ema nắm lấy cổ tay tôi và ngăn tôi lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro018",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro018|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative092",
+      "speaker_tag": "",
+      "ja": "わかっている。<br>もう処刑を止めることは叶わない。",
+      "zh": "我知道。<br>\n已经无法阻止处刑了。",
+      "vi": "Tôi biết. Không thể làm gì để ngăn chặn việc hành quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative093",
+      "speaker_tag": "",
+      "ja": "唇を<ruby=\"か\">噛</ruby>み、私はノアをまっすぐ見据える。",
+      "zh": "我咬紧嘴唇，目不转睛地看着诺亚。",
+      "vi": "Tôi cắn môi và nhìn Noah chăm chú.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro019",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro019|",
+      "ja": "（もう二度と、目を逸らさない。<br>　最後まで、見ていてやる）",
+      "zh": "（我再也不会从你身上移开视线。<br>\n我会看着你，直到最后一刻）",
+      "vi": "(Tôi sẽ không bao giờ rời mắt khỏi bạn nữa. Tôi sẽ theo dõi bạn cho đến giây phút cuối cùng)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Alisa002",
+      "speaker_tag": "; > Alisa: |#0203Adv14_Alisa002|",
+      "ja": "おい、なんか変だぞ……。",
+      "zh": "喂，这不对劲……",
+      "vi": "Này, có gì đó không ổn...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative094",
+      "speaker_tag": "",
+      "ja": "水が勢いよく<ruby=\"あわだ\">泡立</ruby>ち、<br>ノアの姿を少しずつ<ruby=\"おお\">覆</ruby>い隠していく。",
+      "zh": "水中突然翻涌出大量的泡沫，<br>\n逐渐掩盖诺亚全身。",
+      "vi": "Một lượng lớn bọt bất ngờ trào ra khỏi mặt nước, Dần dần bao phủ toàn bộ cơ thể của Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative095",
+      "speaker_tag": "",
+      "ja": "いや。まるでノアの体が<ruby=\"あわ\">泡</ruby>になって、<br>溶け出しているように見えた。",
+      "zh": "不。看起来像是诺亚的身体正在化成泡沫，<br>\n逐渐溶解。",
+      "vi": "Không. Có vẻ như cơ thể của Noah đang biến thành bọt, Hòa tan dần dần.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Leia002",
+      "speaker_tag": "; > Leia: |#0203Adv14_Leia002|",
+      "ja": "まさか……ただの水じゃないのか？",
+      "zh": "难不成……这不是普通的水？",
+      "vi": "Chẳng lẽ...đây không phải là nước bình thường?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative096",
+      "speaker_tag": "",
+      "ja": "最後に見たとき、<br>ノアは私を真っすぐに見つめて微笑んでいた。",
+      "zh": "诺亚微笑着，看着我的眼睛。<br>\n那是她留给我最后的画面。",
+      "vi": "Noah mỉm cười và nhìn vào mắt tôi. Đó là hình ảnh cuối cùng cô ấy để lại cho tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative097",
+      "speaker_tag": "",
+      "ja": "ノアの唇は、ゆっくりと動いていた。",
+      "zh": "诺亚的嘴唇缓缓地动作。",
+      "vi": "Môi của Noah chậm rãi chuyển động.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative098",
+      "speaker_tag": "",
+      "ja": "――ヒロちゃん。",
+      "zh": "——希罗。",
+      "vi": "——Hiro。",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative099",
+      "speaker_tag": "",
+      "ja": "――大好き。",
+      "zh": "——诺亚最喜欢你了。",
+      "vi": "---Noah thích bạn nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative100",
+      "speaker_tag": "",
+      "ja": "――大嫌いなんて、本心じゃなかったんだよ。",
+      "zh": "——说讨厌你，都是假的。",
+      "vi": "---Tất cả đều là dối trá nếu tôi nói tôi ghét bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro020",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro020|",
+      "ja": "今更だ……！",
+      "zh": "都这个时候了……！",
+      "vi": "Đã đến lúc rồi…!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro021",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro021|",
+      "ja": "そんなこと、<br>とっくにもうわかっている……！",
+      "zh": "就算你不说……<br>\n我也知道……！",
+      "vi": "Dù bạn không nói ra... Tôi cũng biết...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative101",
+      "speaker_tag": "",
+      "ja": "やがて<ruby=\"あわだ\">泡立</ruby>ちが収まると――",
+      "zh": "终于，泡沫消散——",
+      "vi": "Cuối cùng, bong bóng tan biến——",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative102",
+      "speaker_tag": "",
+      "ja": "水槽の中に、ノアの姿はなかった。",
+      "zh": "水槽里早已不见诺亚的身影。",
+      "vi": "Nô-ê không còn ở trong bồn rửa nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative103",
+      "speaker_tag": "",
+      "ja": "まるで水に溶けて<ruby=\"はかな\">儚</ruby>く消えてしまったみたいに。",
+      "zh": "她就像融化在水里一般，没有留下一点痕迹。",
+      "vi": "Cô như tan vào nước, không để lại dấu vết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Warden004",
+      "speaker_tag": "; > Warden: |#0203Adv14_Warden004|",
+      "ja": "……困りましたね。<br>これは処刑完了でいいんでしょうか。",
+      "zh": "……这可麻烦了。<br>\n就当处刑已经执行完毕好了。",
+      "vi": "...Thật rắc rối. Chỉ cần giả vờ rằng cuộc hành quyết đã được thực hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative104",
+      "speaker_tag": "",
+      "ja": "ノアの消失は、<br>ゴクチョーにとって想定外だったらしい。",
+      "zh": "似乎连典狱长也没有想到，<br>\n诺亚竟然会完全消失。",
+      "vi": "Có vẻ như ngay cả quản giáo cũng không nghĩ tới, Noah thực sự sẽ biến mất hoàn toàn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Warden005",
+      "speaker_tag": "; > Warden: |#0203Adv14_Warden005|",
+      "ja": "……まあ、良しとしましょう。<br>これにて閉廷です！",
+      "zh": "……算了，就当是那么一回事吧。<br>\n魔女审判，就此闭庭！",
+      "vi": "...Quên nó đi, cứ coi nó như thế đi. Phiên Tòa Ma Nữ hiện đã đóng cửa!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative105",
+      "speaker_tag": "",
+      "ja": "仕掛けが動き、水槽が地下へとおりていく。",
+      "zh": "机关随即动作起来，缓缓地把水槽移动至地下。",
+      "vi": "Cơ chế ngay lập tức bắt đầu di chuyển và từ từ di chuyển bể nước xuống lòng đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Hiro022",
+      "speaker_tag": "; > Hiro: |#0203Adv14_Hiro022|",
+      "ja": "（ノア……君はそこにいるのか？）",
+      "zh": "（诺亚……你在那里面吗？）",
+      "vi": "(Noah...bạn có trong đó không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv14_Narrative106",
+      "speaker_tag": "",
+      "ja": "水槽の中で揺れる水を、私はただ眺めていた。",
+      "zh": "我只能呆呆望着不断摇晃的水面。",
+      "vi": "Tôi chỉ có thể ngơ ngác nhìn dòng nước lắc lư.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter04_Adv11",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter04/Act01_Chapter04_Adv11' Naninovel scenario script",
+  "total_entries": 14,
+  "entries": [
+    {
+      "id": "0104Adv11_Narrative001",
+      "speaker_tag": "",
+      "ja": "エマが地下監房の並ぶ通路を歩いていると、<br>ふらふらと歩くココを見かけた。",
+      "zh": "艾玛走在地下牢房前的过道时，<br>\n碰见了在此游荡的可可。",
+      "vi": "Khi Ema bước xuống lối đi phía trước phòng giam dưới lòng đất, Tôi gặp Coco đang lang thang ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Ema001",
+      "speaker_tag": "; > Ema: |#0104Adv11_Ema001|",
+      "ja": "あっ、ココちゃん……。",
+      "zh": "啊，可可……",
+      "vi": "À, Coco...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Coco001",
+      "speaker_tag": "; > Coco: |#0104Adv11_Coco001|",
+      "ja": "なん？ あてぃし夢見が悪くて、<br>テンション最悪なんだけど。",
+      "zh": "你有事？我睡得不好，<br>\n现在心情爆差的。",
+      "vi": "Có chuyện gì với bạn vậy? Coco ngủ không ngon, Bây giờ Coco cảm thấy thực sự tồi tệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Coco002",
+      "speaker_tag": "; > Coco: |#0104Adv11_Coco002|",
+      "ja": "楽しく話す気にはなれねーかなー。",
+      "zh": "现在没那个心思跟你愉快地聊天。",
+      "vi": "Coco không có thời gian để trò chuyện vui vẻ với bạn lúc này.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Ema002",
+      "speaker_tag": "; > Ema: |#0104Adv11_Ema002|",
+      "ja": "（アリサちゃんが死んじゃって、<br>　楽しく会話なんてできるわけないよ……）",
+      "zh": "（亚里沙才刚死，<br>\n我也不可能开开心心地跟人聊天啊……）",
+      "vi": "(Alisa vừa mới chết, Tôi không thể trò chuyện vui vẻ với mọi người...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Coco003",
+      "speaker_tag": "; > Coco: |#0104Adv11_Coco003|",
+      "ja": "ほんと最悪な気分……。<br>寝なおしたいけど、裁判まであんま時間もねーしな。",
+      "zh": "心情真的糟透了……<br>\n本来还想着睡个回笼觉，但没过多久审判就要开始。",
+      "vi": "Coco cảm thấy thực sự tồi tệ... Ban đầu Coco muốn quay lại ngủ, nhưng phiên tòa sắp bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Ema003",
+      "speaker_tag": "; > Ema: |#0104Adv11_Ema003|",
+      "ja": "ココちゃんのほうで、<br>アリサちゃんの事件に関して何か気付いたこととか、<br>ないかな……？",
+      "zh": "我想问，<br>\n关于亚里沙被杀案，<br>\n可可你有没有发现什么特别的事情……？",
+      "vi": "Tôi muốn hỏi, Liên quan đến vụ sát hại Alisa, Coco, bạn có phát hiện ra điều gì đặc biệt không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Coco004",
+      "speaker_tag": "; > Coco: |#0104Adv11_Coco004|",
+      "ja": "んー、ねーかなぁ……どっちかっていうと、<br>ちょっとホッとしたかも。",
+      "zh": "嗯……没有吧……这事情要我说啊，<br>\n还真松了一口气。",
+      "vi": "Hmm... Không... Coco cần nói về chuyện này, Thật là nhẹ nhõm.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Coco005",
+      "speaker_tag": "; > Coco: |#0104Adv11_Coco005|",
+      "ja": "アイツ明らかに魔女化進んでて、<br>あてぃし殺されるかもって思ってたから……って。",
+      "zh": "一看就知道，她魔女化程度加深得很快，<br>\n我还以为自己会被她杀死……等下。",
+      "vi": "Nhìn thoáng qua bạn có thể biết rằng quá trình biến đổi thành phù thủy của cô ấy diễn ra rất nhanh chóng, Coco nghĩ Coco sẽ bị cô ấy giết chết...đợi đã.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Coco006",
+      "speaker_tag": "; > Coco: |#0104Adv11_Coco006|",
+      "ja": "だからってあてぃしが殺したわけじゃねーからな！",
+      "zh": "事先声明，我可不会因为这样就把她给杀了！",
+      "vi": "Hãy để Coco tuyên bố trước, Coco sẽ không giết cô ấy chỉ vì điều này!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Ema004",
+      "speaker_tag": "; > Ema: |#0104Adv11_Ema004|",
+      "ja": "う、うん。",
+      "zh": "嗯、嗯。",
+      "vi": "Ừm, ừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Coco007",
+      "speaker_tag": "; > Coco: |#0104Adv11_Coco007|",
+      "ja": "あ～ねむ～だる～、<br>もうほんっと毎晩寝れなくてさぁ……<br>メルちゃんがくれた薬、ぜんぜんきかねーんだけど。",
+      "zh": "啊～好困～好乏～<br>\n我真的每晚都睡不着……<br>\n小梅给我的药完全没有效好不好。",
+      "vi": "Ah~buồn ngủ quá~mệt quá~ Coco thực sự không thể ngủ được mỗi đêm... Thuốc Tiểu Mỹ đưa cho Coco không có tác dụng gì cả phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Narrative002",
+      "speaker_tag": "",
+      "ja": "ココは疲れ果てた様子で立ち去っていく。",
+      "zh": "可可带着一脸疲倦走开了。",
+      "vi": "Coco bước đi với vẻ mặt mệt mỏi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Adv11_Narrative003",
+      "speaker_tag": "",
+      "ja": "地下監房に何か手がかりはないかと<br>ひととおり探してみたが、特に何も見つけられなかった。",
+      "zh": "本来打算在地下牢房看能不能找到些什么线索，<br>\n但艾玛一通寻找，也没发现什么有用的信息。",
+      "vi": "Ban đầu tôi định xem liệu có thể tìm thấy manh mối nào trong phòng giam dưới lòng đất không, Nhưng Ema đã tìm kiếm và không tìm thấy thông tin hữu ích nào.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Bad02",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Bad02' Naninovel scenario script",
+  "total_entries": 103,
+  "entries": [
+    {
+      "id": "0204Bad02_Leia001",
+      "speaker_tag": "; > Leia: |#0204Bad02_Leia001|",
+      "ja": "ヒロくん！？ 一体どこへ……。",
+      "zh": "希罗！？你要去哪……",
+      "vi": "Anh hùng! ? Bạn đang đi đâu vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro001|",
+      "ja": "向こうにも何かいるみたいだ。<br>少し確認してくる。",
+      "zh": "那边好像也有什么东西。<br>\n我去看看。",
+      "vi": "Hình như có cái gì đó ở đó. Tôi sẽ đi xem.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro002|",
+      "ja": "すぐに追いつくから、<br>君はゴクチョーを追ってくれ。",
+      "zh": "你先去追典狱长吧，<br>\n我随后就到。",
+      "vi": "Bạn đi tìm quản giáo trước, Tôi sẽ đến đó sớm thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Leia002",
+      "speaker_tag": "; > Leia: |#0204Bad02_Leia002|",
+      "ja": "ああ、わかった。<br>くれぐれも気をつけて。",
+      "zh": "好吧，我会的。<br>\n你千万要小心。",
+      "vi": "Được rồi, tôi sẽ làm vậy. Bạn phải cẩn thận.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro003|",
+      "ja": "君も。",
+      "zh": "你也要小心。",
+      "vi": "Bạn cũng phải cẩn thận.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative001",
+      "speaker_tag": "",
+      "ja": "こうしてレイアと別れ、<br>私は影が向かった方――湖の奥へと進んだ。",
+      "zh": "我与蕾雅就这样分开了。<br>\n我朝着影子离开的方向——湖的深处走去。",
+      "vi": "Đây là cách Leya và tôi chia tay. Tôi đi về phía cái bóng để lại - độ sâu của hồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro004|",
+      "ja": "はぁ、はぁ、はぁ……どこへ行ったんだ。",
+      "zh": "哈啊，哈啊，哈啊……到底去哪了？",
+      "vi": "Haah, haah, haah...bạn đi đâu thế?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative002",
+      "speaker_tag": "",
+      "ja": "しん、と静まり帰った湖は<br>なんだか少し気味が悪い。",
+      "zh": "寂静无声的湖面，<br>\n让人感觉有点毛骨悚然。",
+      "vi": "Mặt hồ tĩnh lặng, Nó cảm thấy một chút đáng sợ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro005|",
+      "ja": "（見間違いだったのか……？）",
+      "zh": "（是我看错了……？）",
+      "vi": "(Tôi có nhìn nhầm không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative003",
+      "speaker_tag": "",
+      "ja": "だとすれば、ここにいる理由はない。",
+      "zh": "如果是那样，就没有待在这里的理由了。",
+      "vi": "Nếu đúng như vậy thì sẽ không có lý do gì để ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro006|",
+      "ja": "（レイアを追いかけないと）",
+      "zh": "（得去追蕾雅才行）",
+      "vi": "(Bạn phải đuổi theo Leya)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative004",
+      "speaker_tag": "",
+      "ja": "そう思って、振り返ったその時。",
+      "zh": "正当我这样想着，转过身时。",
+      "vi": "Ngay khi tôi đang nghĩ vậy, tôi quay lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro007|",
+      "ja": "！",
+      "zh": "！",
+      "vi": "！",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro008|",
+      "ja": "（いつの間に……）",
+      "zh": "（是什么时候……）",
+      "vi": "(Khi nào vậy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative005",
+      "speaker_tag": "",
+      "ja": "水の音に驚いて振り返れば、<br>そこには少女の姿があった。",
+      "zh": "水声使我一惊，回头一看，<br>\n那里站着一名少女。",
+      "vi": "Tiếng nước làm tôi giật mình, tôi nhìn lại, Có một cô gái đang đứng đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative006",
+      "speaker_tag": "",
+      "ja": "それも、見知らぬ少女だ。",
+      "zh": "而且是素未谋面的少女。",
+      "vi": "Và đó là một cô gái tôi chưa từng gặp trước đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro009",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro009|",
+      "ja": "君は……。",
+      "zh": "你是……",
+      "vi": "bạn là...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative007",
+      "speaker_tag": "",
+      "ja": "声をかけると、少女は途端に<br>煙に巻かれたように消えてしまう。",
+      "zh": "我一开口，那少女就像一团烟雾一般消失了。<br>",
+      "vi": "Vừa mở miệng, cô gái đã biến mất như một làn khói.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro010",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro010|",
+      "ja": "（どういうことだ……？）",
+      "zh": "（怎么回事……？）",
+      "vi": "(Chuyện gì đang xảy ra vậy...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative008",
+      "speaker_tag": "",
+      "ja": "訳がわからない。",
+      "zh": "完全搞不懂。",
+      "vi": "Hoàn toàn bối rối.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative009",
+      "speaker_tag": "",
+      "ja": "とにかく、見知らぬ少女がいたことを<br>他の者たちにも知らせたほうがいいだろう。",
+      "zh": "总之，最好先把这里有个陌生少女的事<br>\n告诉其他人。",
+      "vi": "Dù sao thì tốt nhất nên kể cho bạn nghe về cô gái xa lạ ở đây Hãy kể cho người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative010",
+      "speaker_tag": "",
+      "ja": "今度こそレイアを追いかけようと、<br>体の向きを変えたその時だった。",
+      "zh": "我正要转身去追蕾雅，就在此时。<br>",
+      "vi": "Lúc này tôi đang định quay lại và đuổi theo Leya.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro011",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro011|",
+      "ja": "っ！",
+      "zh": "——！",
+      "vi": "——！",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative011",
+      "speaker_tag": "",
+      "ja": "急に足を引っ張られ、浮かぶことができない。",
+      "zh": "有什么东西扯住了我的脚，我无法浮出水面。",
+      "vi": "Có cái gì đó tóm lấy chân tôi và tôi không thể thoát ra khỏi nước.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro012",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro012|",
+      "ja": "（一体何が……！）",
+      "zh": "（到底怎么回事……！）",
+      "vi": "(Cái quái gì đang xảy ra vậy...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative012",
+      "speaker_tag": "",
+      "ja": "焦りながら暗い水中を見渡せば、<br>先ほどの少女が、私の足を<ruby=\"つか\">掴</ruby>んで微笑んでいた。",
+      "zh": "我慌乱地环顾昏暗的水下，<br>\n刚才那少女正抓住我的脚微笑着。",
+      "vi": "Tôi hoảng sợ nhìn quanh vùng nước tối đen, Cô gái vừa rồi đang ôm chân tôi và mỉm cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Girl001",
+      "speaker_tag": "; > Girl: |#0204Bad02_Girl001|",
+      "ja": "やっと……やっと、次を捕まえた。",
+      "zh": "终于……终于抓到下一个了。",
+      "vi": "Cuối cùng...cuối cùng cũng bắt được con tiếp theo.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro013",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro013|",
+      "ja": "（次……？）",
+      "zh": "（下一个……？）",
+      "vi": "(Tiếp theo...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative013",
+      "speaker_tag": "",
+      "ja": "<ruby=\"うれ\">嬉</ruby>しそうな言葉に思考を取られている間にも、<br>身体はどんどん深い場所へ連れて行かれる。",
+      "zh": "我还在思考她那欣喜的语气是什么意思时，<br>\n身体已不断被拖往水深处。",
+      "vi": "Trong khi tôi vẫn đang suy nghĩ về ý nghĩa của giọng điệu vui vẻ của cô ấy, Thân thể liên tục bị kéo xuống nước sâu hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro014",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro014|",
+      "ja": "（苦しい……このままでは……！）",
+      "zh": "（要窒息了……这么下去我会……！）",
+      "vi": "(Mình sắp nghẹt thở...nếu chuyện này tiếp tục...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative014",
+      "speaker_tag": "",
+      "ja": "遠ざかる水面に手を伸ばす。<br>けれど、届くことはない。",
+      "zh": "我向着逐渐远去的水面伸出手，<br>\n却怎么也够不着。",
+      "vi": "Tôi đưa tay về phía mặt nước đang dần rút đi, Nhưng nó không thể đạt được.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro015",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro015|",
+      "ja": "（あぁ……これもう、死ぬ……）",
+      "zh": "（啊啊……这样下去，会死……）",
+      "vi": "(Aa... Nếu cứ tiếp tục thế này, ngươi sẽ chết...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Girl002",
+      "speaker_tag": "; > Girl: |#0204Bad02_Girl002|",
+      "ja": "ふふ、いいのよ……そのまま身を任せて。",
+      "zh": "呵呵，没关系的……就这样放松身体，交给我吧。",
+      "vi": "Haha, không sao đâu...hãy thả lỏng cơ thể và để việc đó cho tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative015",
+      "speaker_tag": "",
+      "ja": "まるで幼子をあやすような優しい声に促され、<br>私は今回の生を終えた。",
+      "zh": "她的嗓音温柔，如同安抚幼儿一般，<br>\n引导我走向这次生命的终点。",
+      "vi": "Giọng cô dịu dàng như dỗ dành một đứa trẻ, Dẫn tôi đi đến cuối cuộc đời này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro016",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro016|",
+      "ja": "っ！ はぁ……はぁ……。",
+      "zh": "唔！哈啊……哈啊……",
+      "vi": "Ờ! Haa... haaah...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative016",
+      "speaker_tag": "",
+      "ja": "目を覚ましたのは、湖の<ruby=\"ほとり\">畔</ruby>だった。",
+      "zh": "醒来时，我发现自己身处湖畔。",
+      "vi": "Khi tỉnh dậy, tôi thấy mình đang ở trên bờ hồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro017",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro017|",
+      "ja": "（どうして……）",
+      "zh": "（为什么……）",
+      "vi": "(Tại sao…)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative017",
+      "speaker_tag": "",
+      "ja": "いつもなら、<br>最後に眠った場所から始まるはずだ。",
+      "zh": "通常情况下，<br>\n应该是在上一次睡着的地方醒来才对。",
+      "vi": "Thông thường, Bạn nên thức dậy ở nơi bạn ngủ lần cuối.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro018",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro018|",
+      "ja": "（とにかく、牢屋敷に戻らないと）",
+      "zh": "（总之得先回监牢）",
+      "vi": "(Dù sao thì chúng ta cũng phải quay lại Ngục Dinh Thự trước đã)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative018",
+      "speaker_tag": "",
+      "ja": "奇妙な違和感を覚えつつ、<br>私は牢屋敷へと足を向けた。",
+      "zh": "虽然感觉到了一种奇妙的异样，<br>\n我还是朝监牢走去。",
+      "vi": "Mặc dù tôi cảm thấy có điều gì đó kỳ lạ nhưng Dù sao thì tôi cũng đi về phía Ngục Dinh Thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative019",
+      "speaker_tag": "",
+      "ja": "牢屋敷へ戻った途端、<br>陰鬱な雰囲気を感じ取って<br>私は顔をしかめた。",
+      "zh": "一回到监牢，<br>\n一股阴郁的气氛扑面而来，<br>\n我不禁皱起了眉头。",
+      "vi": "Khi trở lại Ngục Dinh Thự, Một bầu không khí u ám bao trùm, Tôi không khỏi cau mày.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro019",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro019|",
+      "ja": "（なんだ……？）",
+      "zh": "（怎么回事……？）",
+      "vi": "(Chuyện gì đang xảy ra vậy...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative020",
+      "speaker_tag": "",
+      "ja": "どう考えても、状況がおかしい。<br>ひとまず誰かに話を聞こうと歩き出すと、<br>レイアとミリアが連れ立ってくるのが見えた。",
+      "zh": "无论怎么想，情况都不对劲。<br>\n正当我打算找人问问时，<br>\n看到蕾雅和米莉亚一起朝这边走来。",
+      "vi": "Dù bạn có nghĩ thế nào đi chăng nữa thì vẫn có điều gì đó không ổn. Ngay khi tôi định hỏi ai đó, Tôi thấy Leya và Miria cùng nhau đi về phía này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro020",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro020|",
+      "ja": "（ああ、ちょうどよかった……）",
+      "zh": "（啊，正好可以……）",
+      "vi": "(À, ổn thôi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro021",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro021|",
+      "ja": "レイア、ミリア……。",
+      "zh": "蕾雅、米莉亚……",
+      "vi": "Leya, Miria...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Leia003",
+      "speaker_tag": "; > Leia: |#0204Bad02_Leia003|",
+      "ja": "ミリアくん、気をしっかり持つんだ。",
+      "zh": "米莉亚，你要振作一点。",
+      "vi": "Miria, em cần phải vui lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Miria001",
+      "speaker_tag": "; > Miria: |#0204Bad02_Miria001|",
+      "ja": "ごめん……ごめんね。<br>しっかりしないとって、わかってるんだけど……。",
+      "zh": "对不起……对不起。<br>\n我知道自己必须振作起来，可是……",
+      "vi": "Miria xin lỗi... Miria xin lỗi. Miria biết mình phải vui lên, nhưng...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative021",
+      "speaker_tag": "",
+      "ja": "ボロボロと涙を流すミリアの隣で、<br>レイアも沈痛な面持ちで<ruby=\"うつむ\">俯</ruby>く。",
+      "zh": "米莉亚泪如雨下，<br>\n她身旁的蕾雅也面色沉痛地低着头。",
+      "vi": "Miria bật khóc, Bên cạnh cô, Leya cũng cúi đầu với vẻ mặt buồn bã.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro022",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro022|",
+      "ja": "２人とも、一体何があったんだ？",
+      "zh": "你们两个，到底发生什么事了？",
+      "vi": "Hai người, chuyện gì đã xảy ra vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Leia004",
+      "speaker_tag": "; > Leia: |#0204Bad02_Leia004|",
+      "ja": "……。",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Miria002",
+      "speaker_tag": "; > Miria: |#0204Bad02_Miria002|",
+      "ja": "……。",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro023",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro023|",
+      "ja": "どうして何も答えないんだ。<br>聞こえてるんだろう？",
+      "zh": "为什么都不回答我？<br>\n你们听得见吧？",
+      "vi": "Tại sao bạn không trả lời tôi? Bạn có thể nghe thấy tôi không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative022",
+      "speaker_tag": "",
+      "ja": "重ねて声をかけるのに、<br>２人はチラリともこちらを見ない。",
+      "zh": "我反复呼喊，<br>\n她们连看都不看我一眼。",
+      "vi": "Tôi đã hét lên nhiều lần, Họ thậm chí còn không nhìn tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative023",
+      "speaker_tag": "",
+      "ja": "まるで、本当にこちらの声が<br>届いていないかのように。",
+      "zh": "简直就像，<br>\n真的听不到我的声音一样。",
+      "vi": "Giống như, Giống như bạn không thể thực sự nghe thấy giọng nói của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro024",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro024|",
+      "ja": "（そんなはずない……）",
+      "zh": "（这不可能……）",
+      "vi": "(Điều này là không thể...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Leia005",
+      "speaker_tag": "; > Leia: |#0204Bad02_Leia005|",
+      "ja": "そろそろ戻ろう。<br>きっとみんなも不安がっているはずだ。",
+      "zh": "我们该回去了。<br>\n大家一定也在担心吧。",
+      "vi": "Đã đến lúc chúng ta phải quay lại. Mọi người cũng phải lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Miria003",
+      "speaker_tag": "; > Miria: |#0204Bad02_Miria003|",
+      "ja": "……そう、だね。<br>でも、本当に信じられない……。",
+      "zh": "……嗯，好。<br>\n但我还是无法相信……",
+      "vi": "...Được rồi. Nhưng Miria vẫn không thể tin được...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Miria004",
+      "speaker_tag": "; > Miria: |#0204Bad02_Miria004|",
+      "ja": "ヒロちゃんが……死んだなんて。",
+      "zh": "小希竟然……死了……",
+      "vi": "Tiểu Hi thực ra... đã chết...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro025",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro025|",
+      "ja": "……っ",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro026",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro026|",
+      "ja": "（私が、死んだ……？）",
+      "zh": "（我……死了？）",
+      "vi": "(Tôi...đã chết?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative024",
+      "speaker_tag": "",
+      "ja": "そんなのあり得ない。",
+      "zh": "这不可能。",
+      "vi": "Điều này là không thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative025",
+      "speaker_tag": "",
+      "ja": "去って行く２人を追いかけて問いただしたいのに、<br>足が地面に縫い止められてしまったかのように動かない。",
+      "zh": "我想追上她们问个清楚，<br>\n双脚却像被钉在地上一样动弹不得。",
+      "vi": "Tôi muốn liên lạc với họ và hỏi họ một cách rõ ràng, Nhưng đôi chân của anh không thể di chuyển như thể chúng bị đóng đinh xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro027",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro027|",
+      "ja": "（違う、違う……今のは何かの間違いだ）",
+      "zh": "（不，这不可能……一定哪里搞错了）",
+      "vi": "(Không, điều này là không thể...chắc chắn có điều gì đó không ổn)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro028",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro028|",
+      "ja": "私が、死んだなんて……。",
+      "zh": "我怎么会已经死了……",
+      "vi": "Làm sao tôi có thể chết được...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Girl003",
+      "speaker_tag": "; > Girl: |#0204Bad02_Girl003|",
+      "ja": "ふふっ、間違いじゃないわよ。",
+      "zh": "呵呵，没有搞错哦。",
+      "vi": "Haha, đúng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro029",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro029|",
+      "ja": "！？",
+      "zh": "！？",
+      "vi": "！？",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative026",
+      "speaker_tag": "",
+      "ja": "突然聞こえてきた声に振り返れば、<br>そこには１人の少女がいた。",
+      "zh": "我猛地回头看向声音响起的方向，<br>\n只见那里站着一名少女。",
+      "vi": "Tôi đột ngột quay lại và nhìn về hướng phát ra âm thanh, Tôi nhìn thấy một cô gái đang đứng đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative027",
+      "speaker_tag": "",
+      "ja": "湖で見かけた、あの少女。<br>私を湖の底に引きずり込んだ、あの少女だ。",
+      "zh": "就是在湖边见到的，那个少女。<br>\n把我拖入湖底的，那个少女。",
+      "vi": "Đó là cô gái tôi nhìn thấy bên hồ. Cô gái đã kéo tôi xuống đáy hồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro030",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro030|",
+      "ja": "……どうしてここに。",
+      "zh": "……为什么你会在这。",
+      "vi": "...tại sao bạn lại ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Girl004",
+      "speaker_tag": "; > Girl: |#0204Bad02_Girl004|",
+      "ja": "消える前に、<br>あなたに教えておいてあげようと思って。",
+      "zh": "想着在我消失之前，<br>\n先告诉你一声。",
+      "vi": "Suy nghĩ trước khi tôi biến mất, Hãy để tôi nói cho bạn biết đầu tiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro031",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro031|",
+      "ja": "消える……？",
+      "zh": "消失……？",
+      "vi": "Biến mất...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative028",
+      "speaker_tag": "",
+      "ja": "ただ<ruby=\"ぼうぜん\">呆然</ruby>とする私に、<br>彼女は至極<ruby=\"うれ\">嬉</ruby>しそうな笑みを浮かべた。",
+      "zh": "面对茫然的我，<br>\n她露出了无比愉悦的笑容。",
+      "vi": "Đối mặt với tôi đang bối rối, Cô mỉm cười với niềm vui lớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Girl005",
+      "speaker_tag": "; > Girl: |#0204Bad02_Girl005|",
+      "ja": "あなたはあの湖で死んだの。<br>私の代わりの<ruby=\"い\">生</ruby>け<ruby=\"にえ\">贄</ruby>として。",
+      "zh": "你已经死在那个湖里了。<br>\n作为替代我的祭品。",
+      "vi": "Bạn đã chết trong hồ đó. Như một sự hy sinh thay cho tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Girl006",
+      "speaker_tag": "; > Girl: |#0204Bad02_Girl006|",
+      "ja": "おかげで私は、<br>ようやくここから解放される。",
+      "zh": "多亏你，<br>\n我终于可以从这里解脱了。",
+      "vi": "Cảm ơn bạn, Cuối cùng tôi cũng có thể thoát khỏi đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro032",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro032|",
+      "ja": "（<ruby=\"い\">生</ruby>け<ruby=\"にえ\">贄</ruby>……）",
+      "zh": "（祭品……）",
+      "vi": "(Hy sinh...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative029",
+      "speaker_tag": "",
+      "ja": "嫌な予感に、身体が自然と震え出す。",
+      "zh": "一股恶寒爬满全身，令我不由得颤抖。",
+      "vi": "Một cơn ớn lạnh chạy khắp cơ thể, khiến tôi rùng mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Girl007",
+      "speaker_tag": "; > Girl: |#0204Bad02_Girl007|",
+      "ja": "今度はあなたの番。<br>次の<ruby=\"い\">生</ruby>け<ruby=\"にえ\">贄</ruby>を捧げるまで、<br>ずーっとこの牢屋敷に囚われ続けるの。",
+      "zh": "接下来轮到你了。<br>\n直到献上下一个祭品前，<br>\n你会永～远被囚禁在这座监牢里哦。",
+      "vi": "Tiếp theo đến lượt bạn. Cho đến khi vật hiến tế tiếp theo được dâng lên, Bạn sẽ bị giam cầm trong Ngục Dinh Thự này mãi mãi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative030",
+      "speaker_tag": "",
+      "ja": "言い終えると同時に、<br>少女の姿は薄まり始める。",
+      "zh": "少女说完，<br>\n身影便渐渐淡去。",
+      "vi": "Sau khi cô gái nói xong, Bóng dáng đó dần dần mờ đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro033",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro033|",
+      "ja": "ま、待ってくれ！<br>まだ聞きたいことが……！",
+      "zh": "等、等等！<br>\n我还有话想问……！",
+      "vi": "Đợi đã, chờ đã! Tôi vẫn còn có điều muốn hỏi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Girl008",
+      "speaker_tag": "; > Girl: |#0204Bad02_Girl008|",
+      "ja": "あとは自分で調べて。",
+      "zh": "后面的你就自己查吧。",
+      "vi": "Bạn có thể tự kiểm tra nó sau.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Girl009",
+      "speaker_tag": "; > Girl: |#0204Bad02_Girl009|",
+      "ja": "大丈夫。<br>時間はそれこそ死ぬほどあるんだから。",
+      "zh": "没事。<br>\n反正你的时间多得是呢。名副其实，多得要死。",
+      "vi": "Không sao đâu. Dù sao thì bạn cũng có rất nhiều thời gian. Theo nghĩa đen, có rất nhiều trong số họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative031",
+      "speaker_tag": "",
+      "ja": "クスリと小さな笑いを残して、<br>少女は完全に消えた。",
+      "zh": "少女只留下一声轻笑，<br>\n便彻底消失了。",
+      "vi": "Cô gái chỉ để lại một tiếng cười khúc khích, Sau đó hoàn toàn biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro034",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro034|",
+      "ja": "（なんで……）",
+      "zh": "（为什么……）",
+      "vi": "(Tại sao…)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative032",
+      "speaker_tag": "",
+      "ja": "――あの時、影を追ったりしなければ。<br>――そもそも、湖になんて行かなければ。",
+      "zh": "——那时候，要是不去追什么影子就好了。<br>\n——说到底，当初要是不去什么湖边就好了。",
+      "vi": "---Lúc đó, sẽ tốt hơn nếu tôi không đuổi theo bất kỳ cái bóng nào. ---Sau cùng thì, sẽ tốt hơn nếu ngay từ đầu tôi đã không đến hồ nước.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro035",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro035|",
+      "ja": "（……いや、あの少女の言った事が<br>　本当だとは限らない）",
+      "zh": "（……不，<br>\n那个少女说的也不一定是真的）",
+      "vi": "(...Không, Những gì cô gái nói có thể không đúng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative033",
+      "speaker_tag": "",
+      "ja": "<ruby=\"いちる\">一縷</ruby>の望みに<ruby=\"すが\">縋</ruby>りたくて、<br>私はみんながいるであろうラウンジに向かった。",
+      "zh": "为了抓住最后一缕希望，<br>\n我朝着大家可能会在的会客厅走去。",
+      "vi": "Để nắm bắt tia hy vọng cuối cùng, Tôi đi về phía phòng khách nơi mọi người có thể đang ở.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro036",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro036|",
+      "ja": "みんな！！",
+      "zh": "大家！！",
+      "vi": "Mọi người! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative034",
+      "speaker_tag": "",
+      "ja": "これまでになく大きな声で呼びかけながら、<br>ラウンジに入る。",
+      "zh": "我一边扯着前所未有的大嗓门呼喊，<br>\n一边冲进了会客厅。",
+      "vi": "Tôi đã hét to hơn bao giờ hết, Anh lao vào phòng khách.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative035",
+      "speaker_tag": "",
+      "ja": "そこにはミリアやレイアの他に、<br>生き残っているメンバーが全員<br>集まっていた。",
+      "zh": "会客室里除了米莉亚与蕾雅，<br>\n所有幸存成员都到齐了。<br>",
+      "vi": "Trong phòng tiếp tân, ngoại trừ Miria và Leia, Tất cả các thành viên còn sống đã đến.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative036",
+      "speaker_tag": "",
+      "ja": "一様に沈痛な面持ちで、<br>誰ひとりこちらを見ることはない。",
+      "zh": "每个人都神情沉痛，<br>\n没有一个人看向我。",
+      "vi": "Mọi người đều có vẻ buồn, Không ai nhìn tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro037",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro037|",
+      "ja": "私の声が聞こえないのか！<br>なぁ、本当は聞こえているんだろう？",
+      "zh": "你们听不到我的声音吗！<br>\n喂，其实你们听得见的吧？",
+      "vi": "Bạn không thể nghe thấy giọng nói của tôi? Này, bạn thực sự có thể nghe thấy tôi không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Miria005",
+      "speaker_tag": "; > Miria: |#0204Bad02_Miria005|",
+      "ja": "……あの時、ヒロちゃんについて行っていれば。",
+      "zh": "……要是我当时跟着小希就好了……",
+      "vi": "...Giá như Miria đi theo Tiểu Hi...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Leia006",
+      "speaker_tag": "; > Leia: |#0204Bad02_Leia006|",
+      "ja": "それを言えば私も同じだ……。",
+      "zh": "我也是……",
+      "vi": "Tôi cũng vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Ema001",
+      "speaker_tag": "; > Ema: |#0204Bad02_Ema001|",
+      "ja": "ヒロちゃんが、死んじゃうなんて……。",
+      "zh": "希罗怎么会就这么死掉……",
+      "vi": "Làm sao Anh hùng có thể chết như vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro038",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro038|",
+      "ja": "エマ！ 私はここだ！<br>死んでなんかいない！！",
+      "zh": "艾玛！我就在这里！<br>\n我没有死！！",
+      "vi": "Ema! Tôi ở ngay đây! Tôi chưa chết! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Ema002",
+      "speaker_tag": "; > Ema: |#0204Bad02_Ema002|",
+      "ja": "うぅっ、ヒロちゃん……こんなの、<br>やだ……やだよぉ……。",
+      "zh": "呜呜，希罗……怎么会，<br>\n我不要……我不要这样……",
+      "vi": "Woohoo, Hiro...sao có thể thế được, Tôi không muốn...tôi không muốn điều này...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Miria006",
+      "speaker_tag": "; > Miria: |#0204Bad02_Miria006|",
+      "ja": "エマちゃん……。",
+      "zh": "艾玛……",
+      "vi": "Ema……",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative037",
+      "speaker_tag": "",
+      "ja": "ボロボロと涙を流しながら、<br>エマがその場にへたり込む。",
+      "zh": "艾玛的眼泪大颗大颗滚落，<br>\n哭着瘫坐在地上。",
+      "vi": "Nước mắt của Ema lăn dài, Ngồi dưới đất khóc.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro039",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro039|",
+      "ja": "エマ！ 違う！ 私は生きてる！！<br>こんなの、何かのいたずらで――！",
+      "zh": "艾玛！不是的！我还活着！！<br>\n这一定是，什么恶作剧——！",
+      "vi": "Ema! KHÔNG! Tôi còn sống! ! Đây hẳn là một trò đùa nào đó——!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro040",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro040|",
+      "ja": "（こんなの、おかしい……<br>　おかしいおかしいおかしい！）",
+      "zh": "（这太奇怪了……<br>\n奇怪，太奇怪了，太奇怪了太奇怪了！）",
+      "vi": "(Điều này thật kỳ lạ... Lạ quá, lạ quá, lạ quá, lạ quá! )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Hiro041",
+      "speaker_tag": "; > Hiro: |#0204Bad02_Hiro041|",
+      "ja": "私はここだ！ ここにいるんだ！<br>死んでなんかいない！<br>だから……誰か、気付いてくれ……。",
+      "zh": "我在这里！我就在这里啊！<br>\n我根本没死！<br>\n所以……拜托了，谁都好，注意到我吧……",
+      "vi": "Tôi ở đây! Tôi ở ngay đây! Tôi không hề chết chút nào! Vì vậy...xin mọi người hãy chú ý đến tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative038",
+      "speaker_tag": "",
+      "ja": "どんなに喚いても叫んでも、<br>誰にも声は届くことはなく――。",
+      "zh": "无论我如何哭喊，如何尖叫，<br>\n我的声音都传不到任何人耳中——",
+      "vi": "Cho dù tôi có khóc hay la hét bao nhiêu đi chăng nữa, Giọng nói của tôi không thể lọt vào tai bất cứ ai——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Bad02_Narrative039",
+      "speaker_tag": "",
+      "ja": "死ぬことすら許されない絶望の中、<br>私は牢屋敷に囚われ続けるのだった。",
+      "zh": "在连死亡都不被允许的绝望笼罩下，<br>\n我被囚禁在这座监牢之中，直到永远。",
+      "vi": "Bao phủ trong tuyệt vọng đến nỗi cái chết cũng không được phép, Tôi bị giam cầm trong Ngục Dinh Thự này mãi mãi.",
+      "objection_links": []
+    }
+  ]
+}

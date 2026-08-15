@@ -1,0 +1,504 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter02_Adv18",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter02/Act01_Chapter02_Adv18' Naninovel scenario script",
+  "total_entries": 62,
+  "entries": [
+    {
+      "id": "0102Adv18_Narrative001",
+      "speaker_tag": "",
+      "ja": "少女たちは、ラウンジに集った。<br>集まらないと規則違反になるからだ。",
+      "zh": "此刻，所有少女都集合在会客厅。<br>\n没有人敢违反规定。",
+      "vi": "Lúc này, tất cả các cô gái đều tập trung ở phòng khách. Không ai dám vi phạm các quy tắc.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative002",
+      "speaker_tag": "",
+      "ja": "皆の瞳は一様にほの暗い。",
+      "zh": "大家的眼神都晦暗无光。",
+      "vi": "Ánh mắt mọi người đều đờ đẫn.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative003",
+      "speaker_tag": "",
+      "ja": "ミリアが殺されたと報せが入り、<br>現場を見ていないマーゴとアリサも<br>その現実を拒否しているかのような顔だった。",
+      "zh": "听到米莉亚遇害的消息，<br>\n没有亲眼看到现场的玛格和亚里沙<br>\n也摆出了不愿面对现实的表情。",
+      "vi": "Nghe tin Miria bị sát hại, Mag và Alisa không tận mắt chứng kiến cảnh đó Anh cũng tỏ ra không muốn đối mặt với hiện thực.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo001",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo001|",
+      "ja": "ミリアちゃんが殺されたなんて、<br>それは本当なの……？",
+      "zh": "听说米莉亚遇害了，<br>\n是真的吗……？",
+      "vi": "Chị nghe nói Miria đã bị giết, Có đúng vậy không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Hanna001",
+      "speaker_tag": "; > Hanna: |#0102Adv18_Hanna001|",
+      "ja": "本当ですわ。わたくしたちは、見てきましたの。",
+      "zh": "是真的，我们亲眼看到了。",
+      "vi": "Đúng là chúng Bổn tiểu thư đã tận mắt chứng kiến.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo002",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo002|",
+      "ja": "明らかに殺されていたの？",
+      "zh": "能明显看出是他杀吗？",
+      "vi": "Có rõ ràng đó là vụ giết người không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Meruru001",
+      "speaker_tag": "; > Meruru: |#0102Adv18_Meruru001|",
+      "ja": "それは、そう、かもしれません……。<br>拘束されていましたし、誰かに刺されなければ、<br>あんな風には……。",
+      "zh": "应该，是这样的……<br>\n她被绑着不能动，而且如果不是他杀的话，<br>\n尸体情况也不至于……",
+      "vi": "Nó phải như thế này... Cô ấy bị trói và không thể di chuyển, và nếu anh ta không giết cô ấy, Tình trạng của thi thể không...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative004",
+      "speaker_tag": "",
+      "ja": "マーゴは憂いげにため息をつく。",
+      "zh": "玛格忧郁地叹了口气。",
+      "vi": "Margo thở dài buồn bã.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo003",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo003|",
+      "ja": "そう……ということは、魔女裁判をやる、<br>ということよね。",
+      "zh": "这样啊……那就意味着，<br>\n要举行魔女审判了。",
+      "vi": "Vậy... điều đó có nghĩa là Phiên tòa xét xử phù thủy sắp được tổ chức.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Coco001",
+      "speaker_tag": "; > Coco: |#0102Adv18_Coco001|",
+      "ja": "裁判とかマジだるいんだけど。",
+      "zh": "搞什么审判啊真没劲。",
+      "vi": "Thử thách kiểu gì mà chán thế?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Coco002",
+      "speaker_tag": "; > Coco: |#0102Adv18_Coco002|",
+      "ja": "別にさ、あのおっさんが殺されたって<br>どうでもよくね？ だってあいつ、裏切り者じゃんよ。",
+      "zh": "就算那个大叔被杀了<br>\n又怎么样？反正她背叛了我们。",
+      "vi": "Ngay cả khi người chú đó bị giết Vậy thì sao? Dù sao thì cô ấy cũng đã phản bội chúng Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Alisa001",
+      "speaker_tag": "; > Alisa: |#0102Adv18_Alisa001|",
+      "ja": "黙れよクソ女。",
+      "zh": "闭嘴吧臭女人。",
+      "vi": "Im đi, con khốn.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Coco003",
+      "speaker_tag": "; > Coco: |#0102Adv18_Coco003|",
+      "ja": "んなこと言ってさあ、ヤンキーがやったんじゃないの～？<br>気球壊されてめっっちゃキレてたよね？",
+      "zh": "嘴上装着不饶人，其实就是小太妹你干的吧～？<br>\n热气球被毁掉你超级生气的吧？",
+      "vi": "Em giả vờ không tha thứ, nhưng thực ra là em, em gái, đã làm điều đó phải không? Bạn có cực kỳ tức giận khi khinh khí cầu bị phá hủy?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Alisa002",
+      "speaker_tag": "; > Alisa: |#0102Adv18_Alisa002|",
+      "ja": "マジで燃やすぞ。",
+      "zh": "再说我就真把你烧了。",
+      "vi": "Nếu mày nói bất cứ điều gì khác, Tao sẽ thực sự đốt cháy mày.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo004",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo004|",
+      "ja": "気球を壊された恨みはみんな持っていそうよね。<br>あら、ミリアちゃんを殺した動機って、<br>みんなが持っているということかしら。",
+      "zh": "要说热气球被毁掉的怨恨，大家应该都有吧。<br>\n哎呀，那就是说<br>\n所有人都有杀害米莉亚的动机吗？",
+      "vi": "Về phần oán khí khinh khí cầu bị phá hủy, ai cũng phải có. Rất tiếc, điều đó có nghĩa là Có phải mọi người đều có động cơ giết Millia?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Hanna002",
+      "speaker_tag": "; > Hanna: |#0102Adv18_Hanna002|",
+      "ja": "わたくしはそんなことで人殺しなんてしませんわ！",
+      "zh": "我才不会因为这点事情杀人！",
+      "vi": "Bổn tiểu thư sẽ không giết ai vì điều này!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo005",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo005|",
+      "ja": "魔女になりかけてる子は、殺意にとらわれるんですもの。<br>わからないわ。",
+      "zh": "即将转变为魔女的人会被杀意迷惑，<br>\n这谁说得清楚呢。",
+      "vi": "Những người sắp biến thành phù thủy sẽ bối rối trước ý chí giết chóc, Ai có thể nói rõ điều này?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema001",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema001|",
+      "ja": "（みんなの雰囲気が、険悪になってる……<br>　当然だ。誰かがミリアちゃんを殺した）",
+      "zh": "（气氛变得剑拔弩张起来了……<br>\n这也难怪，因为有人杀了米莉亚）",
+      "vi": "(Bầu không khí trở nên căng thẳng... Không có gì lạ, vì ai đó đã giết Miria)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema002",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema002|",
+      "ja": "（その犯人を探さないと、<br>　ボクらも処刑されてしまう）",
+      "zh": "（再不找出凶手，<br>\n我们也要被处刑）",
+      "vi": "(Nếu chúng ta không tìm ra kẻ sát nhân, Chúng tôi cũng sẽ bị xử tử)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema003",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema003|",
+      "ja": "（みんな、疑い合ってるんだ。<br>　誰が殺したんだって）",
+      "zh": "（大家都在互相怀疑，<br>\n猜测谁是凶手）",
+      "vi": "(Mọi người đang nghi ngờ lẫn nhau, Đoán xem ai là kẻ giết người)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative005",
+      "speaker_tag": "",
+      "ja": "エマを中心にせっかく築き上げてきた仲間の絆は、<br><ruby=\"もろ\">脆</ruby>くも崩れ去りそうだった。",
+      "zh": "艾玛好不容易搭建起来的友情和信任<br>\n眼看着就要轻易地崩塌了。",
+      "vi": "Tình bạn và sự tin tưởng mà Ema cuối cùng đã xây dựng Có vẻ như nó sẽ dễ dàng sụp đổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative006",
+      "speaker_tag": "",
+      "ja": "そこで、天井近くからの羽ばたき音とともに、<br>ゴクチョーが現れる。",
+      "zh": "这时，随着天花板边上传来一阵翅膀拍动的声音，<br>\n典狱长现身了。",
+      "vi": "Lúc này, với âm thanh vỗ cánh từ trần nhà, Người cai ngục xuất hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Warden001",
+      "speaker_tag": "; > Warden: |#0102Adv18_Warden001|",
+      "ja": "はぁ……殺人事件……<br>起きちゃいましたね……しかも夜に……。",
+      "zh": "唉……凶杀案……<br>\n还是发生了……而且还是在大晚上……",
+      "vi": "Than ôi...giết người... Chuyện vẫn xảy ra... và trời vẫn còn khuya...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Warden002",
+      "speaker_tag": "; > Warden: |#0102Adv18_Warden002|",
+      "ja": "捜査は迅速にしたほうがいいでしょうし、<br>特例措置となりますが、今夜の０時に<br>【魔女裁判】を開廷します。",
+      "zh": "建议你们尽快开始搜查吧。<br>\n这次是特殊处理，<br>\n会在今晚0点举行【魔女审判】。",
+      "vi": "Tôi khuyên bạn nên bắt đầu tìm kiếm càng sớm càng tốt. Lần này là sự đối xử đặc biệt, [Thử thách phù thủy] sẽ được tổ chức vào lúc 0 giờ tối nay.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Coco004",
+      "speaker_tag": "; > Coco: |#0102Adv18_Coco004|",
+      "ja": "はっ！？ あと１時間半しかないじゃん！<br>バカなの！？",
+      "zh": "哈！？那不是只剩一个半小时了！<br>\n你在搞笑吗！？",
+      "vi": "Hà! ? Không chỉ còn một tiếng rưỡi nữa! Bạn đang đùa à! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Warden003",
+      "speaker_tag": "; > Warden: |#0102Adv18_Warden003|",
+      "ja": "そう言われましても……<br>私も時間外労働ですから。<br>これが待てる限界ですよ……。",
+      "zh": "你有意见归有意见……<br>\n可我也是在加班啊。<br>\n再晚我就等不了了……",
+      "vi": "Nếu bạn có ý kiến thì bạn có ý kiến... Nhưng tôi cũng đang làm việc ngoài giờ. Tôi không thể chờ đợi được nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Warden004",
+      "speaker_tag": "; > Warden: |#0102Adv18_Warden004|",
+      "ja": "今いる囚人の中から必ず殺人犯を特定してください。<br>その者は、【魔女】として処刑……<br>特定できなかったら全員処刑も変わりませんので。",
+      "zh": "请各位务必从在场的囚犯之中锁定杀人凶手的身份。<br>\n选中的人将以【魔女】的身份被处以死刑……<br>\n还有就是老规矩，如果无法锁定凶手，所有人都要接受处刑。",
+      "vi": "Hãy chắc chắn xác định được kẻ sát nhân trong số các tù nhân có mặt. Người được chọn sẽ bị kết án tử hình với tư cách là [Phù thủy]... Ngoài ra còn có luật cũ rằng nếu không thể xác định được kẻ sát nhân thì mọi người đều phải bị xử tử.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Warden005",
+      "speaker_tag": "; > Warden: |#0102Adv18_Warden005|",
+      "ja": "外出禁止時間ですが、捜査の間は出入り自由とします。<br>では、がんばって犯人を特定してくださいね。",
+      "zh": "虽然现在是禁止外出时间，但搜查期间允许自由出入。<br>\n那么，请各位努力找出凶手吧。",
+      "vi": "Tuy là khoảng thời gian cấm đi nhưng bạn được phép ra vào tự do trong quá trình khám xét. Vì vậy, hãy cố gắng hết sức để tìm ra kẻ sát nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema004",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema004|",
+      "ja": "あ、ちょっ……！",
+      "zh": "啊，等下……！",
+      "vi": "À, đợi một chút...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative007",
+      "speaker_tag": "",
+      "ja": "一方的な話を終え、<br>ゴクチョーは飛び去っていった。",
+      "zh": "典狱长自顾自把话说完<br>\n就飞走了。",
+      "vi": "Quản giáo nói xong Vừa bay đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative008",
+      "speaker_tag": "",
+      "ja": "残された少女たちは<ruby=\"ぼうぜん\">呆然</ruby>と立ち尽くしてしまう。",
+      "zh": "而一众少女则不知所措地愣在原地。",
+      "vi": "Tất cả các cô gái đều choáng váng và choáng váng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema005",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema005|",
+      "ja": "（１時間でミリアちゃんを殺した犯人を特定……？）",
+      "zh": "（一小时内查明杀害米莉亚的凶手……？）",
+      "vi": "(Tìm ra kẻ sát hại Miria trong vòng một giờ...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema006",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema006|",
+      "ja": "（そんなの、無理だよ！）",
+      "zh": "（怎么可能做得到！）",
+      "vi": "(Làm sao điều này có thể xảy ra!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Sherry001",
+      "speaker_tag": "; > Sherry: |#0102Adv18_Sherry001|",
+      "ja": "……いっこ判明したことは、<br>ミリアさんは黒幕じゃなかったんですね。",
+      "zh": "……现在唯一确定的是，<br>\n米莉亚不是幕后黑手对吧。",
+      "vi": "...Điều duy nhất chắc chắn bây giờ là, Miria không phải là kẻ chủ mưu phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Sherry002",
+      "speaker_tag": "; > Sherry: |#0102Adv18_Sherry002|",
+      "ja": "脱獄の邪魔したから、<br>やっぱり黒幕だったのかなぁとも思ったんですが。",
+      "zh": "之前因为她扰乱了越狱计划，<br>\n我们就以为她真的是幕后黑手。",
+      "vi": "Vì trước đây cô ấy đã phá vỡ kế hoạch vượt ngục nên Chúng tôi chỉ nghĩ cô ấy thực sự đứng đằng sau chuyện này.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema007",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema007|",
+      "ja": "う、うん……。そうなると、ますますミリアちゃんの<br>行動理由はわからないけど……。",
+      "zh": "是、是的……可这样一来，就越来越搞不懂<br>\n米莉亚捣乱的原因了……",
+      "vi": "Vâng, vâng... Nhưng lần này, nó ngày càng trở nên khó hiểu hơn Lý do khiến Miria gặp rắc rối...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema008",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema008|",
+      "ja": "と、とにかく急ごう。<br>捜査して、ミリアちゃんを殺した犯人を見つけなきゃ。",
+      "zh": "总、总之快行动起来吧。<br>\n我们得好好搜查，找到杀害米莉亚的凶手。",
+      "vi": "Dù sao đi nữa, hãy hành động nhanh chóng. Chúng ta phải nỗ lực tìm kiếm và tìm ra kẻ giết Miria.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative009",
+      "speaker_tag": "",
+      "ja": "エマが入口に向けて走り出そうとした矢先だった。",
+      "zh": "就在艾玛刚准备跑去门口的时候。",
+      "vi": "Đúng lúc Ema định chạy ra cửa.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative010",
+      "speaker_tag": "",
+      "ja": "立ちはだかるように、マーゴがエマの前に立つ。",
+      "zh": "玛格挡在艾玛身前，把她拦住。",
+      "vi": "Mag đứng trước mặt Ema và ngăn cô lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema009",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema009|",
+      "ja": "マーゴちゃん、一体どう……。",
+      "zh": "玛格，你怎么了……",
+      "vi": "Margo, cậu bị sao vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo006",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo006|",
+      "ja": "提案があるのだけれど、いいかしら。",
+      "zh": "我有个提议，可以听一下吗。",
+      "vi": "Chị có một đề nghị, em có thể lắng nghe được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative011",
+      "speaker_tag": "",
+      "ja": "エマの声を遮ったマーゴの声は、いつになく強い。",
+      "zh": "玛格打断了艾玛的话，她的声音从未如此铿锵有力。",
+      "vi": "Margo ngắt lời Ema, giọng cô chưa bao giờ vang dội đến thế.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo007",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo007|",
+      "ja": "エマちゃんは、<br>シェリーちゃんたちと一緒に捜査をするつもりよね？",
+      "zh": "艾玛，<br>\n你打算和雪莉她们一起搜查对吧？",
+      "vi": "Ema, Cậu định tìm kiếm cùng Sherry và những người khác phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema010",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema010|",
+      "ja": "う、うん、そのつもりだったけど。",
+      "zh": "嗯、嗯，是这样没错。",
+      "vi": "Ừm, ừm, đúng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative012",
+      "speaker_tag": "",
+      "ja": "エマはシェリー、ハンナ、メルルを順番に見てしまう。<br>３人はしっかりと<ruby=\"うなず\">頷</ruby>いている。",
+      "zh": "艾玛不自觉地依次看向雪莉、汉娜和梅露露。<br>\n她们都点了点头。",
+      "vi": "Ema vô thức lần lượt nhìn Sherry, Hanna và Meruru. Tất cả họ đều gật đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo008",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo008|",
+      "ja": "それはやめにしない？",
+      "zh": "可以不要这样做吗？",
+      "vi": "Bạn có thể không làm điều này?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema011",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema011|",
+      "ja": "えっ、それってどういう……。",
+      "zh": "欸，为什么……",
+      "vi": "Này, tại sao...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo009",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo009|",
+      "ja": "あなたたちに結託されてしまうと、<br>あなたたちのグループ以外の人にとって、<br>とても不利なのよ。",
+      "zh": "如果你们结盟的话，<br>\n会对你们团队以外的人来说<br>\n非常不利。",
+      "vi": "Nếu em thành lập một liên minh, Sẽ xuất hiện với những người bên ngoài nhóm của em Rất bất lợi.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative013",
+      "speaker_tag": "",
+      "ja": "シェリーがぽんと手を打つ。",
+      "zh": "雪莉“啪”的一声拍了下手。",
+      "vi": "Sherry vỗ tay một tiếng “bốp”.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Sherry003",
+      "speaker_tag": "; > Sherry: |#0102Adv18_Sherry003|",
+      "ja": "なるほど、票操作！ 私たちがあらかじめ決めておいたら、<br>誰かを犯人にできちゃいますね！",
+      "zh": "我知道了，操控投票！如果我们事先商量好的话，<br>\n就能够把特定人票选为凶手！",
+      "vi": "Tôi hiểu rồi, gian lận phiếu bầu! Nếu chúng ta thảo luận trước, Bạn có thể bầu chọn một người cụ thể là kẻ sát nhân!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo010",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo010|",
+      "ja": "シェリーちゃん、理解が早くて助かるわ。",
+      "zh": "雪莉，你脑袋转得还挺快的，我想说的就是这么一回事。",
+      "vi": "Sherry, đầu em chuyển động khá nhanh, đó là điều Chị muốn nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Hanna003",
+      "speaker_tag": "; > Hanna: |#0102Adv18_Hanna003|",
+      "ja": "わたくしたちがそんな卑怯なことをするとでも！？",
+      "zh": "你竟然认为我们会做那种卑鄙无耻之事！？",
+      "vi": "Bạn thực sự nghĩ rằng chúng Bổn tiểu thư sẽ làm điều gì đó hèn hạ như vậy! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo011",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo011|",
+      "ja": "しないとは思いたいけれど……<br>でも、あなたたち以外のグループにとっては、<br>やっぱり怖いでしょう？",
+      "zh": "我也不愿意这么想……<br>\n但你们团队外的人<br>\n肯定会很害怕吧？",
+      "vi": "Chị cũng không muốn nghĩ vậy... Nhưng những người bên ngoài nhóm của em Chắc hẳn em đang sợ hãi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo012",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo012|",
+      "ja": "だから、一緒に捜査はしないで、<br>単独で捜査するルールにしたいの。公平にするために。",
+      "zh": "所以，为了公平起见，<br>\n希望你们不要一起搜查，而是分开搜查。",
+      "vi": "Vì vậy, công bằng mà nói, Chị hy vọng em sẽ không tìm kiếm cùng nhau mà riêng biệt.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo013",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo013|",
+      "ja": "これ以上協力なんてしないでほしいのよ。<br>ね、エマちゃん。わかるでしょう？",
+      "zh": "请你们不要再结盟了，<br>\n好吗，艾玛。你明白我的意思吧？",
+      "vi": "Hãy ngừng hình thành liên minh, Được rồi, Ema. Bạn biết ý Chị là gì không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative014",
+      "speaker_tag": "",
+      "ja": "マーゴの圧のある物言いに、<br>エマは悲しげに眉を下げた。",
+      "zh": "在玛格压迫感十足的发言下，<br>\n艾玛难过地皱起眉。",
+      "vi": "Dưới bài phát biểu đầy áp bức của Mag, Ema cau mày buồn bã.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema012",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema012|",
+      "ja": "（間違ったことは言ってないけど……<br>　マーゴちゃん……やっぱり誰のことも信じてなかったんだ）",
+      "zh": "（虽然玛格说得并没有错……<br>\n可是……到头来她还是谁也不相信啊）",
+      "vi": "(Mặc dù Margo không sai... Nhưng... cuối cùng cô ấy vẫn không tin ai cả)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema013",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema013|",
+      "ja": "わかった……みんな、単独で捜査しよう。",
+      "zh": "知道了……我们分开搜查吧。",
+      "vi": "Hiểu rồi... hãy tìm kiếm riêng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Ema014",
+      "speaker_tag": "; > Ema: |#0102Adv18_Ema014|",
+      "ja": "ただ、得た情報の共有はしていってもいいでしょう？",
+      "zh": "不过，把得到的情报分享出去应该没关系吧？",
+      "vi": "Nhưng sẽ không có gì to tát nếu bạn chia sẻ thông tin mình có, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Margo014",
+      "speaker_tag": "; > Margo: |#0102Adv18_Margo014|",
+      "ja": "それはもちろん。犯人を特定するのが一番ですもの。<br>頑張りましょうね、エマちゃん。",
+      "zh": "那当然，毕竟最重要的是查明凶手。<br>\n一起加油吧，艾玛。",
+      "vi": "Đương nhiên, suy cho cùng điều quan trọng nhất vẫn là tìm ra hung thủ. Thôi nào, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative015",
+      "speaker_tag": "",
+      "ja": "にっこりと笑うマーゴの顔を、<br>エマはまともに見れなかった。",
+      "zh": "玛格莞尔一笑，<br>\n而艾玛却不敢直视她的脸。",
+      "vi": "Margo mỉm cười, Nhưng Ema không dám nhìn thẳng vào mặt cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv18_Narrative016",
+      "speaker_tag": "",
+      "ja": "エマたちはラウンジを出て、<br>それぞれに捜査を開始した。",
+      "zh": "接着艾玛等人离开会客厅，<br>\n开始各自搜查。",
+      "vi": "Sau đó Ema và những người khác rời khỏi phòng khách, Bắt đầu tìm kiếm riêng lẻ.",
+      "objection_links": []
+    }
+  ]
+}

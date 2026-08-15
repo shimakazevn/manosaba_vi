@@ -1,0 +1,878 @@
+{
+  "bundle": "general-localization-zhhans-scripts-debug_assets_all.bundle",
+  "script_name": "Debug_Trial",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Debug/Debug_Trial' Naninovel scenario script",
+  "total_entries": 108,
+  "entries": [
+    {
+      "id": "~5953b207",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # PerspectiveStage",
+      "zh": "",
+      "vi": "Debug_Trial # PerspectiveStage",
+      "objection_links": []
+    },
+    {
+      "id": "~1329db74",
+      "speaker_tag": "",
+      "ja": "Camera modified.",
+      "zh": "",
+      "vi": "Camera modified.",
+      "objection_links": []
+    },
+    {
+      "id": "~46eff89c",
+      "speaker_tag": "",
+      "ja": "Hide warden.",
+      "zh": "",
+      "vi": "Hide warden.",
+      "objection_links": []
+    },
+    {
+      "id": "~9402ab3a",
+      "speaker_tag": "",
+      "ja": "Re-show Warden.",
+      "zh": "",
+      "vi": "Re-show Warden.",
+      "objection_links": []
+    },
+    {
+      "id": "~bd8d1647",
+      "speaker_tag": "",
+      "ja": "Another camera enabled.",
+      "zh": "",
+      "vi": "Another camera enabled.",
+      "objection_links": []
+    },
+    {
+      "id": "~d9137eca",
+      "speaker_tag": "",
+      "ja": "Another camera disabled.",
+      "zh": "",
+      "vi": "Another camera disabled.",
+      "objection_links": []
+    },
+    {
+      "id": "~1f67eca2",
+      "speaker_tag": "",
+      "ja": "Another screen split and shown.",
+      "zh": "",
+      "vi": "Another screen split and shown.",
+      "objection_links": []
+    },
+    {
+      "id": "~ffc1ada0",
+      "speaker_tag": "",
+      "ja": "Hide another screen.",
+      "zh": "",
+      "vi": "Hide another screen.",
+      "objection_links": []
+    },
+    {
+      "id": "~3ad482dc",
+      "speaker_tag": "",
+      "ja": "Ccharacters hidden.",
+      "zh": "",
+      "vi": "Ccharacters hidden.",
+      "objection_links": []
+    },
+    {
+      "id": "~3c4aa79c",
+      "speaker_tag": "",
+      "ja": "Stage unloaded.",
+      "zh": "",
+      "vi": "Stage unloaded.",
+      "objection_links": []
+    },
+    {
+      "id": "~48fdb008",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # PerspectiveStage ends.",
+      "zh": "",
+      "vi": "Debug_Trial # PerspectiveStage ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~fcdf6ce5",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # PresentEvidence",
+      "zh": "",
+      "vi": "Debug_Trial # PresentEvidence",
+      "objection_links": []
+    },
+    {
+      "id": "~31d4b619",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # PresentEvidence ends.",
+      "zh": "",
+      "vi": "Debug_Trial # PresentEvidence ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~4bc159d4",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Map",
+      "zh": "",
+      "vi": "Debug_Trial # Map",
+      "objection_links": []
+    },
+    {
+      "id": "~73bcd946",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Map ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Map ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~c651365d|~66fea5a2|~fc2a4de5",
+      "speaker_tag": "; @spawn | params:|<br>",
+      "ja": "",
+      "zh": "",
+      "vi": " ",
+      "objection_links": []
+    },
+    {
+      "id": "~ec6915dc",
+      "speaker_tag": "; @despawn ",
+      "ja": "",
+      "zh": "",
+      "vi": " ",
+      "objection_links": []
+    },
+    {
+      "id": "~6b4b9830",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact101",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact101",
+      "objection_links": []
+    },
+    {
+      "id": "~d29e126a",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E01_S01",
+      "zh": "",
+      "vi": "Reenact_Ch01_E01_S01",
+      "objection_links": []
+    },
+    {
+      "id": "~c8278717",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E01_S02",
+      "zh": "",
+      "vi": "Reenact_Ch01_E01_S02",
+      "objection_links": []
+    },
+    {
+      "id": "~4e51fe0a",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E01_S03",
+      "zh": "",
+      "vi": "Reenact_Ch01_E01_S03",
+      "objection_links": []
+    },
+    {
+      "id": "~f8d0e4fa",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E01_S04",
+      "zh": "",
+      "vi": "Reenact_Ch01_E01_S04",
+      "objection_links": []
+    },
+    {
+      "id": "~b1d372f4",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E01_S05",
+      "zh": "",
+      "vi": "Reenact_Ch01_E01_S05",
+      "objection_links": []
+    },
+    {
+      "id": "~a17367a9",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E01_S06",
+      "zh": "",
+      "vi": "Reenact_Ch01_E01_S06",
+      "objection_links": []
+    },
+    {
+      "id": "~5b0544ac",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact101 ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact101 ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~20e195db",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact102",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact102",
+      "objection_links": []
+    },
+    {
+      "id": "~ddc80486",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E02_S01",
+      "zh": "",
+      "vi": "Reenact_Ch01_E02_S01",
+      "objection_links": []
+    },
+    {
+      "id": "~5bd83fb3",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E02_S02",
+      "zh": "",
+      "vi": "Reenact_Ch01_E02_S02",
+      "objection_links": []
+    },
+    {
+      "id": "~908aef9a",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E02_S03",
+      "zh": "",
+      "vi": "Reenact_Ch01_E02_S03",
+      "objection_links": []
+    },
+    {
+      "id": "~cce04553",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E02_S04",
+      "zh": "",
+      "vi": "Reenact_Ch01_E02_S04",
+      "objection_links": []
+    },
+    {
+      "id": "~87b9f717",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E02_S05",
+      "zh": "",
+      "vi": "Reenact_Ch01_E02_S05",
+      "objection_links": []
+    },
+    {
+      "id": "~2fcc5760",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact102 ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact102 ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~45882f8f",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact103",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact103",
+      "objection_links": []
+    },
+    {
+      "id": "~c9546a18",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E03_S01",
+      "zh": "",
+      "vi": "Reenact_Ch01_E03_S01",
+      "objection_links": []
+    },
+    {
+      "id": "~75f6c626",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E03_S02",
+      "zh": "",
+      "vi": "Reenact_Ch01_E03_S02",
+      "objection_links": []
+    },
+    {
+      "id": "~bd0a93c4",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E03_S03",
+      "zh": "",
+      "vi": "Reenact_Ch01_E03_S03",
+      "objection_links": []
+    },
+    {
+      "id": "~9cdcd62e",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E03_S04",
+      "zh": "",
+      "vi": "Reenact_Ch01_E03_S04",
+      "objection_links": []
+    },
+    {
+      "id": "~314154b0",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E03_S05",
+      "zh": "",
+      "vi": "Reenact_Ch01_E03_S05",
+      "objection_links": []
+    },
+    {
+      "id": "~fa21d4f8",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E03_S06",
+      "zh": "",
+      "vi": "Reenact_Ch01_E03_S06",
+      "objection_links": []
+    },
+    {
+      "id": "~798b9a2b",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact103 ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact103 ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~d7cc6a80",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact104",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact104",
+      "objection_links": []
+    },
+    {
+      "id": "~c907cf4f",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E04_S01",
+      "zh": "",
+      "vi": "Reenact_Ch01_E04_S01",
+      "objection_links": []
+    },
+    {
+      "id": "~c6c7bd24",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E04_S02",
+      "zh": "",
+      "vi": "Reenact_Ch01_E04_S02",
+      "objection_links": []
+    },
+    {
+      "id": "~a267ddb0",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E04_S03",
+      "zh": "",
+      "vi": "Reenact_Ch01_E04_S03",
+      "objection_links": []
+    },
+    {
+      "id": "~b2703eec",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E04_S04",
+      "zh": "",
+      "vi": "Reenact_Ch01_E04_S04",
+      "objection_links": []
+    },
+    {
+      "id": "~ccb4e9d2",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact104 ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact104 ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~f83efe94",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact105",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact105",
+      "objection_links": []
+    },
+    {
+      "id": "~143e6b3f",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E05_S01",
+      "zh": "",
+      "vi": "Reenact_Ch01_E05_S01",
+      "objection_links": []
+    },
+    {
+      "id": "~1b11dcf9",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E05_S02",
+      "zh": "",
+      "vi": "Reenact_Ch01_E05_S02",
+      "objection_links": []
+    },
+    {
+      "id": "~6847b751",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E05_S03",
+      "zh": "",
+      "vi": "Reenact_Ch01_E05_S03",
+      "objection_links": []
+    },
+    {
+      "id": "~a27bc48c",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E05_S04",
+      "zh": "",
+      "vi": "Reenact_Ch01_E05_S04",
+      "objection_links": []
+    },
+    {
+      "id": "~103ce9c7",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E05_S05",
+      "zh": "",
+      "vi": "Reenact_Ch01_E05_S05",
+      "objection_links": []
+    },
+    {
+      "id": "~32abbc9e",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E05_S06",
+      "zh": "",
+      "vi": "Reenact_Ch01_E05_S06",
+      "objection_links": []
+    },
+    {
+      "id": "~a8790b39",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E05_S07",
+      "zh": "",
+      "vi": "Reenact_Ch01_E05_S07",
+      "objection_links": []
+    },
+    {
+      "id": "~45a0b6c8",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch01_E05_S08",
+      "zh": "",
+      "vi": "Reenact_Ch01_E05_S08",
+      "objection_links": []
+    },
+    {
+      "id": "~dbc68dfc",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact105 ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact105 ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~a42987a8",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact201",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact201",
+      "objection_links": []
+    },
+    {
+      "id": "~68818d68",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E01_S01",
+      "zh": "",
+      "vi": "Reenact_Ch02_E01_S01",
+      "objection_links": []
+    },
+    {
+      "id": "~f8e71480",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E01_S02",
+      "zh": "",
+      "vi": "Reenact_Ch02_E01_S02",
+      "objection_links": []
+    },
+    {
+      "id": "~70d3bf9e",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E01_S03",
+      "zh": "",
+      "vi": "Reenact_Ch02_E01_S03",
+      "objection_links": []
+    },
+    {
+      "id": "~8b1ad5cc",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E01_S04",
+      "zh": "",
+      "vi": "Reenact_Ch02_E01_S04",
+      "objection_links": []
+    },
+    {
+      "id": "~174adf34",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E01_S05",
+      "zh": "",
+      "vi": "Reenact_Ch02_E01_S05",
+      "objection_links": []
+    },
+    {
+      "id": "~8bc3ef47",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact201 ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact201 ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~591d9324",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact202",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact202",
+      "objection_links": []
+    },
+    {
+      "id": "~f87801d4",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E02_S01",
+      "zh": "",
+      "vi": "Reenact_Ch02_E02_S01",
+      "objection_links": []
+    },
+    {
+      "id": "~f47cacbc",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E02_S02",
+      "zh": "",
+      "vi": "Reenact_Ch02_E02_S02",
+      "objection_links": []
+    },
+    {
+      "id": "~a547a6df",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E02_S03",
+      "zh": "",
+      "vi": "Reenact_Ch02_E02_S03",
+      "objection_links": []
+    },
+    {
+      "id": "~e22d29b1",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E02_S04",
+      "zh": "",
+      "vi": "Reenact_Ch02_E02_S04",
+      "objection_links": []
+    },
+    {
+      "id": "~355ce429",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E02_S05",
+      "zh": "",
+      "vi": "Reenact_Ch02_E02_S05",
+      "objection_links": []
+    },
+    {
+      "id": "~251bc443",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E02_S06",
+      "zh": "",
+      "vi": "Reenact_Ch02_E02_S06",
+      "objection_links": []
+    },
+    {
+      "id": "~6a9342df",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact202 ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact202 ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~306a62cc",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact203",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact203",
+      "objection_links": []
+    },
+    {
+      "id": "~4164a062",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E03_S01",
+      "zh": "",
+      "vi": "Reenact_Ch02_E03_S01",
+      "objection_links": []
+    },
+    {
+      "id": "~1cd88f08",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E03_S02",
+      "zh": "",
+      "vi": "Reenact_Ch02_E03_S02",
+      "objection_links": []
+    },
+    {
+      "id": "~2b14850d",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E03_S03",
+      "zh": "",
+      "vi": "Reenact_Ch02_E03_S03",
+      "objection_links": []
+    },
+    {
+      "id": "~a2cf79e5",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E03_S04",
+      "zh": "",
+      "vi": "Reenact_Ch02_E03_S04",
+      "objection_links": []
+    },
+    {
+      "id": "~3f4cdbe3",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E03_S05",
+      "zh": "",
+      "vi": "Reenact_Ch02_E03_S05",
+      "objection_links": []
+    },
+    {
+      "id": "~ad01078a",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E03_S06",
+      "zh": "",
+      "vi": "Reenact_Ch02_E03_S06",
+      "objection_links": []
+    },
+    {
+      "id": "~5e1f202b",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact203 ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact203 ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~5f1e6dff",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact204",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact204",
+      "objection_links": []
+    },
+    {
+      "id": "~2b343c73",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E04_S01",
+      "zh": "",
+      "vi": "Reenact_Ch02_E04_S01",
+      "objection_links": []
+    },
+    {
+      "id": "~98a28d1a",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E04_S02",
+      "zh": "",
+      "vi": "Reenact_Ch02_E04_S02",
+      "objection_links": []
+    },
+    {
+      "id": "~2efc8c9b",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E04_S03",
+      "zh": "",
+      "vi": "Reenact_Ch02_E04_S03",
+      "objection_links": []
+    },
+    {
+      "id": "~7e901ea8",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E04_S04",
+      "zh": "",
+      "vi": "Reenact_Ch02_E04_S04",
+      "objection_links": []
+    },
+    {
+      "id": "~10dceb42",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E04_S05",
+      "zh": "",
+      "vi": "Reenact_Ch02_E04_S05",
+      "objection_links": []
+    },
+    {
+      "id": "~92728c1",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact204 ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact204 ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~8396484a",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact206",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact206",
+      "objection_links": []
+    },
+    {
+      "id": "~4ba8dddf",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E06_S01",
+      "zh": "",
+      "vi": "Reenact_Ch02_E06_S01",
+      "objection_links": []
+    },
+    {
+      "id": "~487305c",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E06_S02",
+      "zh": "",
+      "vi": "Reenact_Ch02_E06_S02",
+      "objection_links": []
+    },
+    {
+      "id": "~b33e2b13",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E06_S03",
+      "zh": "",
+      "vi": "Reenact_Ch02_E06_S03",
+      "objection_links": []
+    },
+    {
+      "id": "~bd7b63e",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E06_S04",
+      "zh": "",
+      "vi": "Reenact_Ch02_E06_S04",
+      "objection_links": []
+    },
+    {
+      "id": "~9e1a218d",
+      "speaker_tag": "",
+      "ja": "Reenact_Ch02_E06_S05",
+      "zh": "",
+      "vi": "Reenact_Ch02_E06_S05",
+      "objection_links": []
+    },
+    {
+      "id": "~7a2d3868",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Reenact206 ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Reenact206 ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~feb389a8",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # DebateText",
+      "zh": "",
+      "vi": "Debug_Trial # DebateText",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial01_Sherry006",
+      "speaker_tag": "; > @printDebate |#0101Trial01_Sherry006|",
+      "ja": "死体の後ろ、そして周囲……<br>そこに<link=\"Objection_90_01_01_01\">血で描かれた</link>蝶の絵が<br>描かれているんです！",
+      "zh": "",
+      "vi": "Phần sau của thi thể... có hình vẽ bướm được vẽ bằng <link=\"Objection_90_01_01_01\">vết máu</link>!",
+      "objection_links": [
+        "Objection_90_01_01_01"
+      ]
+    },
+    {
+      "id": "Trial1001_Sherry0019",
+      "speaker_tag": "; > @printDebate |#Trial1001_Sherry0019|",
+      "ja": "そう……つまりあの絵は<br><link=\"Objection_90_01_01_02\">ノアさん</link>が<link=\"Objection_90_01_01_02\">死に際</link>、<br><link=\"Objection_90_01_01_02\">犯人</link>であるマーゴさんを告発した<br>メッセージだったんですよ！",
+      "zh": "",
+      "vi": "Đúng vậy…… bức tranh đó là di ngôn của <link=\"Objection_90_01_01_02\">Noah</link> trước khi <link=\"Objection_90_01_01_02\">chết</link>, nhằm tố giác <link=\"Objection_90_01_01_02\">tù nhân</link> Margo!",
+      "objection_links": [
+        "Objection_90_01_01_02",
+        "Objection_90_01_01_02",
+        "Objection_90_01_01_02"
+      ]
+    },
+    {
+      "id": "Trial1001_Sherry0020",
+      "speaker_tag": "; > @printDebate |#Trial1001_Sherry0020|",
+      "ja": "犯人は宝生マーゴさん！<br>あなたで決まりです！",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "Trial1001_Margo0009",
+      "speaker_tag": "; > @printDebate |#Trial1001_Margo0009|",
+      "ja": "あら、そうだったのね。<br>知らなかったわ♪",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~2bcf6941",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # DebateText ends.",
+      "zh": "",
+      "vi": "Debug_Trial # DebateText ends.",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~c863b5f3",
+      "speaker_tag": "; > @choice |#~c863b5f3| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "絵はノアの描いたものではない",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~dca6737d",
+      "speaker_tag": "; > @choice |#~dca6737d| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "絵が描かれたのは死に際ではない",
+      "zh": "",
+      "vi": "vẽ tranh",
+      "objection_links": []
+    },
+    {
+      "id": "~89ad5912",
+      "speaker_tag": "; > @choice |#~89ad5912| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "絵は犯人を示した物ではない",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~6c220e8f",
+      "speaker_tag": "",
+      "ja": "不正解：JudgeDebug1-2",
+      "zh": "",
+      "vi": "Câu trả lời sai: JudgeDebug1-2",
+      "objection_links": []
+    },
+    {
+      "id": "~5f12cc2e",
+      "speaker_tag": "",
+      "ja": "不正解：JudgeDebug1-3",
+      "zh": "",
+      "vi": "Câu trả lời sai: JudgeDebug1-3",
+      "objection_links": []
+    },
+    {
+      "id": "~54c16ee2",
+      "speaker_tag": "",
+      "ja": "正解：JudgeDebug1-4",
+      "zh": "",
+      "vi": "Câu trả lời đúng: JudgeDebug1-4",
+      "objection_links": []
+    },
+    {
+      "id": "~52374a49",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Timer",
+      "zh": "",
+      "vi": "Debug_Trial # Timer",
+      "objection_links": []
+    },
+    {
+      "id": "~77dff30b",
+      "speaker_tag": "",
+      "ja": "Debug_Trial # Timer ends.",
+      "zh": "",
+      "vi": "Debug_Trial # Timer ends.",
+      "objection_links": []
+    }
+  ]
+}

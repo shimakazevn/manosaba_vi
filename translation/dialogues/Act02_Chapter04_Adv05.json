@@ -1,0 +1,344 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Adv05",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Adv05' Naninovel scenario script",
+  "total_entries": 42,
+  "entries": [
+    {
+      "id": "0204Adv05_Narrative001",
+      "speaker_tag": "",
+      "ja": "私とレイアはゴクチョーの姿を求め、<br>森を抜け、湖方面へと足を運んでいた。",
+      "zh": "我和蕾雅为了找到典狱长，<br>\n穿过森林，朝着湖的方向走去。",
+      "vi": "Để tìm người cai ngục, Leya và tôi, Đi bộ xuyên rừng về phía hồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative002",
+      "speaker_tag": "",
+      "ja": "すると、湖の方から水のはねる音が聞こえた。",
+      "zh": "这时，我们听到湖的方向传来水花四溅的声音。",
+      "vi": "Lúc này, chúng tôi nghe thấy tiếng nước bắn tung tóe từ phía hồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Leia001",
+      "speaker_tag": "; > Leia: |#0204Adv05_Leia001|",
+      "ja": "湖に誰かいる……！",
+      "zh": "湖那边有动静……！",
+      "vi": "Bên kia hồ có chuyển động...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Adv05_Hiro001|",
+      "ja": "ああ、ゴクチョーかもしれないな。",
+      "zh": "啊，那也许就是典狱长。",
+      "vi": "À, đó có thể là Warden.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative003",
+      "speaker_tag": "",
+      "ja": "水の音が聞こえたことで私たちが先を急ぐと、<br>そこには意外な人物がいた。",
+      "zh": "听到水声后，我们加快脚步，<br>\n但迎接我们的却是意想不到的人物。",
+      "vi": "Sau khi nghe thấy tiếng nước, chúng tôi bước nhanh hơn, Nhưng chúng tôi được chào đón bởi một nhân vật bất ngờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Miria001",
+      "speaker_tag": "; > Miria: |#0204Adv05_Miria001|",
+      "ja": "レイアちゃん、ヒロちゃん！？<br>わあああっ",
+      "zh": "小蕾，还有小希！？<br>\n哇啊啊啊～",
+      "vi": "Tiểu Lôi, Tiểu Hi! ? Ố ồ ồ ồ ~",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative004",
+      "speaker_tag": "",
+      "ja": "水浴びをしていたらしいミリアは慌てた様子で、<br><ruby=\"とっさ\">咄嗟</ruby>に木陰に身を隠す。",
+      "zh": "正在湖中洗澡的米莉亚慌乱不已，<br>\n连忙躲到树荫下。",
+      "vi": "Miria đang tắm trong hồ thì hoảng sợ, Anh nhanh chóng trốn vào bóng cây.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Miria002",
+      "speaker_tag": "; > Miria: |#0204Adv05_Miria002|",
+      "ja": "び、びびびびっくりした……！<br>まさか誰か来るとは思ってなくて……。",
+      "zh": "吓、吓吓吓死我了……！<br>\n没想到居然会有人来……",
+      "vi": "Sợ quá, sợ quá, sợ chết mất...! Miria không mong đợi có ai đến...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Adv05_Hiro002|",
+      "ja": "服を着たまま入っていたのなら、<br>隠れる必要はないと思うが……。",
+      "zh": "既然你是穿着衣服下水的，<br>\n我是觉得没有必要躲起来……",
+      "vi": "Vì bạn vẫn mặc quần áo xuống nước nên Tôi không nghĩ có cần phải che giấu…",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Miria003",
+      "speaker_tag": "; > Miria: |#0204Adv05_Miria003|",
+      "ja": "いや、おじさんのくせに<br>はしゃいでたのを見られたのが恥ずかしくて……。",
+      "zh": "不、不是啦，明明是个大叔，还在湖里玩闹，<br>\n这幅样子被看到了，有点害羞……",
+      "vi": "Không, không, rõ ràng là chú, nhưng chú ấy vẫn đang chơi trong hồ, Nhìn thấy điều này, Miria cảm thấy hơi xấu hổ...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Adv05_Hiro003|",
+      "ja": "おじさんではないんだろう？",
+      "zh": "你可不是大叔吧？",
+      "vi": "Bạn không phải là chú phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Miria004",
+      "speaker_tag": "; > Miria: |#0204Adv05_Miria004|",
+      "ja": "おじさんではないけども……。<br>そういう問題じゃなくて……。",
+      "zh": "虽然不是真的大叔啦……<br>\n不对，不是这个问题……",
+      "vi": "Tuy ông không phải là chú ruột... Không, đó không phải là vấn đề...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Leia002",
+      "speaker_tag": "; > Leia: |#0204Adv05_Leia002|",
+      "ja": "まあまあヒロくん。<br>普段見せない姿を見せるのは、<br>なかなか勇気がいるものなんだよ。",
+      "zh": "算啦算啦，希罗。<br>\n展现出平时不曾示人的一面，<br>\n确实需要一点勇气。",
+      "vi": "Quên nó đi, Hiro. Hãy thể hiện một khía cạnh mà người khác chưa từng thấy, Nó cần một chút can đảm.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Leia003",
+      "speaker_tag": "; > Leia: |#0204Adv05_Leia003|",
+      "ja": "けれど本当に意外だね。<br>ミリアくんは<br>はしゃいだりするタイプには見えなかったよ。",
+      "zh": "不过，这真是出人意料啊。<br>\n米莉亚确实不像是会这么开心玩闹的人。<br>",
+      "vi": "Tuy nhiên, điều này thực sự nằm ngoài dự đoán. Miria thực sự không có vẻ là người vui vẻ và vui tươi như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Miria005",
+      "speaker_tag": "; > Miria: |#0204Adv05_Miria005|",
+      "ja": "……昨日シェリーちゃんと遊んで。<br>ストレス解消には気分転換って必要だなって<br>しみじみ思ったんだ。",
+      "zh": "……昨天和小莉一起玩了以后啊，<br>\n大叔我深刻体会到，<br>\n为了减轻精神压力，有时候换换心情真的很重要。",
+      "vi": "...Sau khi chơi với Xiaoli ngày hôm qua, Bác ơi, cháu hiểu sâu sắc rồi, Để giảm căng thẳng tinh thần, đôi khi việc thay đổi tâm trạng của bạn thực sự quan trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Miria006",
+      "speaker_tag": "; > Miria: |#0204Adv05_Miria006|",
+      "ja": "だからたまにはぱーっと湖で泳ぐのも<br>アリかな～って。",
+      "zh": "所以偶尔在湖里痛快地游一场<br>\n也不错吧～？",
+      "vi": "Vì vậy, thỉnh thoảng Miria đi bơi thoải mái trong hồ Không tệ phải không~?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative005",
+      "speaker_tag": "",
+      "ja": "底の見えない不気味な湖に立ち入る気持ちは、<br>正直理解しかねたが……",
+      "zh": "虽然我实在无法理解，<br>\n为何她敢踏入这片深不见底的诡异湖泊……",
+      "vi": "Mặc dù tôi thực sự không thể hiểu được nhưng Tại sao cô lại dám bước vào cái hồ không đáy kỳ lạ này...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative006",
+      "speaker_tag": "",
+      "ja": "シェリーに触発された行動は、<br>私とレイアも同様だ。",
+      "zh": "但我们都是受雪莉的影响而开始行动的，<br>\n这点不仅是米莉亚，我和蕾雅也一样。",
+      "vi": "Nhưng tất cả chúng tôi đều bắt đầu hành động dưới sự ảnh hưởng của Sherry, Điều này đúng không chỉ với Miria mà còn đúng với Leia và tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative007",
+      "speaker_tag": "",
+      "ja": "そんなことを思っていた矢先だった。",
+      "zh": "就在我这么想着的时候——",
+      "vi": "Ngay khi tôi đang nghĩ thế——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative008",
+      "speaker_tag": "",
+      "ja": "湖の対岸、離れたところに<br>ゴクチョーが飛んできたのが見えた。",
+      "zh": "在湖对岸的稍远处，<br>\n能看见典狱长正在飞来。",
+      "vi": "Xa hơn một chút ở phía bên kia hồ, Người quản lý có thể được nhìn thấy đang bay vào.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Leia004",
+      "speaker_tag": "; > Leia: |#0204Adv05_Leia004|",
+      "ja": "ヒロくん！ ゴクチョーだ！<br>追おう！",
+      "zh": "希罗！是典狱长！<br>\n我们追！",
+      "vi": "Anh hùng! Đó là quản giáo! Hãy đuổi theo!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Adv05_Hiro004|",
+      "ja": "ああ……行くしかないな。",
+      "zh": "啊……看来只能上了。",
+      "vi": "À...có vẻ như lựa chọn duy nhất là đi lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative009",
+      "speaker_tag": "",
+      "ja": "私たちは仕方なく湖に飛び込んだ。",
+      "zh": "我们不得不跃入湖中。",
+      "vi": "Chúng tôi phải nhảy xuống hồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative010",
+      "speaker_tag": "",
+      "ja": "泳いで対岸に行った方が早いと判断したためだ。",
+      "zh": "因为我们判断，游过去比绕路更快。",
+      "vi": "Bởi vì chúng tôi đánh giá rằng bơi qua sẽ nhanh hơn là đi đường vòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Adv05_Hiro005|",
+      "ja": "（思ったより深いな……）",
+      "zh": "（湖水比想像中深……）",
+      "vi": "(Hồ sâu hơn dự kiến...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative011",
+      "speaker_tag": "",
+      "ja": "幸い水は汚くなく透明で、<br>不快感こそなかったが……",
+      "zh": "幸好湖水干净清澈，<br>\n还不至于令人不适……",
+      "vi": "May mắn thay, nước hồ trong xanh, Nó không khó chịu...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative012",
+      "speaker_tag": "",
+      "ja": "ふと水中に、<br>怪しい影がちらりと映った気がした。",
+      "zh": "然而，我隐约在水下<br>\n瞥见了一个诡异的影子。",
+      "vi": "Tuy nhiên, tôi gần như đang ở dưới nước Tôi thoáng thấy một cái bóng kỳ lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Adv05_Hiro006|",
+      "ja": "（なんだ……？）",
+      "zh": "（什么东西……？）",
+      "vi": "(Cái gì...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative013",
+      "speaker_tag": "",
+      "ja": "私は――",
+      "zh": "我——",
+      "vi": "Tôi——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Choice001",
+      "speaker_tag": "; > @choice |#0204Adv05_Choice001| button:ChoiceButtons/Adv/Bad",
+      "ja": "その影を追った",
+      "zh": "跟在那个影子的后面",
+      "vi": "Đi theo cái bóng đó",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Choice002",
+      "speaker_tag": "; > @choice |#0204Adv05_Choice002|",
+      "ja": "その影をスルーした",
+      "zh": "无视了那个影子",
+      "vi": "Bỏ qua cái bóng đó",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative014",
+      "speaker_tag": "",
+      "ja": "今はそんなことよりゴクチョーだと、<br>その影をスルーした。",
+      "zh": "现在还是追典狱长比较重要。<br>\n我选择无视那个影子。",
+      "vi": "Điều quan trọng hơn là phải đuổi theo quản giáo bây giờ. Tôi chọn cách phớt lờ cái bóng đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative015",
+      "speaker_tag": "",
+      "ja": "――しかし、対岸にたどりついた頃には<br>ゴクチョーはもういなかった。",
+      "zh": "——然而，当我们游到对岸时，<br>\n典狱长早已消失无踪。",
+      "vi": "---Tuy nhiên, khi chúng tôi bơi sang bờ bên kia, Người quản giáo đã biến mất từ ​​lâu không một dấu vết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Adv05_Hiro007|",
+      "ja": "はぁ、はぁ、はぁ……くそっ",
+      "zh": "哈啊，哈啊，哈啊……可恶。",
+      "vi": "Haah, haah, haah... Chết tiệt.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Leia005",
+      "speaker_tag": "; > Leia: |#0204Adv05_Leia005|",
+      "ja": "結局私たちもずぶ濡れになってしまったね……。",
+      "zh": "结果我们也全身湿透了啊……",
+      "vi": "Kết quả là tất cả chúng tôi đều ướt sũng...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative016",
+      "speaker_tag": "",
+      "ja": "私たちの行動が気になったのか、<br>ミリアも対岸まで来ていた。",
+      "zh": "或许是好奇我们的举动，<br>\n米莉亚也游到了对岸。",
+      "vi": "Có thể bạn tò mò về hành động của chúng tôi, Miria cũng bơi sang phía bên kia.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Miria007",
+      "speaker_tag": "; > Miria: |#0204Adv05_Miria007|",
+      "ja": "こうなったら……３人で水遊び、する？",
+      "zh": "既然都湿透了……不如我们三个一起玩水，如何？",
+      "vi": "Vì tất cả chúng ta đều ướt sũng... ba chúng ta cùng nhau chơi đùa trong nước nhé?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative017",
+      "speaker_tag": "",
+      "ja": "ずぶ<ruby=\"ぬ\">濡</ruby>れの私たちは互いの目を合わせ……",
+      "zh": "全身湿透的我们对视了一眼……",
+      "vi": "Chúng tôi nhìn nhau trong lúc ướt sũng...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative018",
+      "speaker_tag": "",
+      "ja": "少しの羽休めだと<br>水遊びに<ruby=\"きょう\">興</ruby>じることにした。",
+      "zh": "最终决定，<br>\n就当作稍事休息，尽情玩水吧。",
+      "vi": "Cuối cùng mọi người quyết định coi đây là một kỳ nghỉ ngắn và thỏa thích chơi đùa dưới nước.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative019",
+      "speaker_tag": "",
+      "ja": "<ruby=\"こも\">木漏</ruby>れ<ruby=\"び\">日</ruby>から差し込む湖面がきらきらと輝き、<br>小さな<ruby=\"はもん\">波紋</ruby>が私たちの動きに合わせて広がっていく。",
+      "zh": "阳光透过树叶洒在湖面上，波光粼粼，<br>\n微小的涟漪随我们的动作扩散。",
+      "vi": "Nắng chiếu xuyên qua kẽ lá trên mặt hồ làm sóng lấp lánh, Những gợn sóng nhỏ lan rộng theo chuyển động của chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative020",
+      "speaker_tag": "",
+      "ja": "水をすくいあげてかけあったり……<br>自由に泳いでみたり……<br>私たちは久々にはしゃいでしまった。",
+      "zh": "我们互相泼水……<br>\n自由游泳……<br>\n难得地尽情玩闹了一番。",
+      "vi": "Chúng tôi té nước vào nhau... Bơi tự do... Thật hiếm khi có được nhiều niềm vui.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv05_Narrative021",
+      "speaker_tag": "",
+      "ja": "草の香りと水のひんやりとした気配が混ざり合って、<br>風がとても心地よかった。",
+      "zh": "微风吹来青草的芳香，混合着湖水的清凉气息，<br>\n令人心旷神怡。",
+      "vi": "Làn gió mang theo hương cỏ xanh thoang thoảng, hòa cùng hơi thở mát rượi của mặt hồ, khiến tâm hồn thật sảng khoái dễ chịu.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Adv15",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Adv15' Naninovel scenario script",
+  "total_entries": 98,
+  "entries": [
+    {
+      "id": "0202Adv15_Narrative001",
+      "speaker_tag": "",
+      "ja": "シャワールームに駆け込むと――<br>その場にはエマが立ち尽くしていた。",
+      "zh": "一跑进淋浴房——<br>\n就看到艾玛呆呆地站在原地。",
+      "vi": "Ngay khi tôi chạy vào phòng tắm—— Tôi thấy Ema đứng đó ngơ ngác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro001|",
+      "ja": "エマっ！",
+      "zh": "艾玛！",
+      "vi": "Ema！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema001",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema001|",
+      "ja": "……ヒロちゃん。",
+      "zh": "……希罗。",
+      "vi": "……Hiro。",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative002",
+      "speaker_tag": "",
+      "ja": "後ろでシャワールームの扉が閉まる。",
+      "zh": "淋浴房的门在我身后关上了。",
+      "vi": "Cửa phòng tắm đóng lại sau lưng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative003",
+      "speaker_tag": "",
+      "ja": "エマとの間に、冷ややかな空気が流れた。",
+      "zh": "冰冷的氛围笼罩着我和艾玛。",
+      "vi": "Một bầu không khí lạnh lẽo bao trùm Ema và tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro002|",
+      "ja": "……ココはどこだ？",
+      "zh": "……可可在哪？",
+      "vi": "...Coco ở đâu?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema002",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema002|",
+      "ja": "……何の話？",
+      "zh": "……你在说什么？",
+      "vi": "...bạn đang nói về cái gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative004",
+      "speaker_tag": "",
+      "ja": "エマの表情からは何も読み取れず、<br>私はざっとシャワールーム内に視線を巡らせる。",
+      "zh": "我从她的脸上看不出任何感情，<br>\n便快速扫视了一圈淋浴房。",
+      "vi": "Tôi không thấy bất kỳ cảm xúc nào trên khuôn mặt cô ấy, Anh nhanh chóng liếc nhìn quanh phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative005",
+      "speaker_tag": "",
+      "ja": "ココの姿はなかった。",
+      "zh": "可可不在。",
+      "vi": "Ca cao không có ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro003|",
+      "ja": "（どういうことだ！？）",
+      "zh": "（怎么回事！？）",
+      "vi": "(Chuyện gì đang xảy ra vậy!?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative006",
+      "speaker_tag": "",
+      "ja": "混乱しながら、<br>私はシャワールームを出た。",
+      "zh": "我感到大脑一片混乱，<br>\n急忙走出淋浴房。",
+      "vi": "Tôi cảm thấy đầu óc mình đang hỗn loạn, Nhanh chóng ra khỏi phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative007",
+      "speaker_tag": "",
+      "ja": "どこに行けばよいかわからず、<br>とりあえず通路を歩きながら考えた。",
+      "zh": "但我不知该去哪，<br>\n只能先边走边思考。",
+      "vi": "Nhưng tôi không biết đi đâu, Bạn chỉ có thể suy nghĩ trong khi đi bộ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro004|",
+      "ja": "（おかしい。ココはどこに行った？<br>　シャワールームで配信をしていたはず）",
+      "zh": "（这不对。可可去哪了？<br>\n她刚才不是在淋浴房直播吗）",
+      "vi": "(Điều này sai rồi. Coco đã đi đâu? Không phải vừa rồi cô ấy đang phát trực tiếp trong phòng tắm sao?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro005|",
+      "ja": "（明らかにココは撃たれていた）",
+      "zh": "（很明显她被枪击了）",
+      "vi": "(Rõ ràng là cô ấy đã bị bắn)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro006|",
+      "ja": "（ならば死体はどこに消えた……！<br>　死体が移動させられたとしたら……それは）",
+      "zh": "（那尸体究竟去哪里了……！<br>\n如果被搬到了别处……那难道是）",
+      "vi": "(Thi thể đã đi đâu rồi...! Nếu nó được chuyển đi nơi khác...có lẽ vậy?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro007|",
+      "ja": "（……焼却炉か！）",
+      "zh": "（……焚烧炉吗！）",
+      "vi": "(...Lò đốt!)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative008",
+      "speaker_tag": "",
+      "ja": "思い当たった瞬間、<br>私は駆けだしていた。",
+      "zh": "想到的一瞬间，<br>\n我立马冲了过去。",
+      "vi": "Ngay lúc tôi nghĩ đến điều đó, Tôi lao tới ngay lập tức.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro008|",
+      "ja": "（焼却炉は地下……！<br>　今ならまだ間に合うはず……！）",
+      "zh": "（焚烧炉在地下……！<br>\n现在应该还来得及……！）",
+      "vi": "(Lò đốt rác nằm dưới lòng đất...! Bây giờ có lẽ đã quá muộn rồi...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative009",
+      "speaker_tag": "",
+      "ja": "１５時に自動で焼却炉が<ruby=\"かどう\">稼働</ruby>するまで、<br>まだ少しだけ時間がある。",
+      "zh": "距离15时焚烧炉自动启动<br>\n还有一点时间。",
+      "vi": "Lò đốt tự động khởi động sau 15 giờ Vẫn còn một chút thời gian.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative010",
+      "speaker_tag": "",
+      "ja": "飛び込むように、<br>ラウンジへと入った瞬間だった。",
+      "zh": "就在我冲进<br>\n会客厅的那一刻。",
+      "vi": "Ngay khi tôi lao vào Khoảnh khắc đó trong phòng khách.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro009|",
+      "ja": "――ッ！",
+      "zh": "——！",
+      "vi": "——！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative011",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ごうおん\">轟音</ruby>が響いたことで、<br>びくりと立ち止まってしまう。",
+      "zh": "一阵无比巨大的轰鸣声响起，<br>\n惊得我停下了脚步。",
+      "vi": "Có một tiếng gầm cực kỳ lớn, Tôi giật mình đến nỗi dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative012",
+      "speaker_tag": "",
+      "ja": "そういえばハンナが先ほど言っていた。<br>雨が降っているのだ。",
+      "zh": "我这才想起，汉娜先前说过。<br>\n现在在下雨。",
+      "vi": "Rồi tôi nhớ lại những gì Hanna đã nói trước đây. Bây giờ trời đang mưa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative013",
+      "speaker_tag": "",
+      "ja": "あまりに焦りすぎて、<br>激しい雨音が聞こえていることに今更気付いた。",
+      "zh": "我实在是太着急了，<br>\n直到现在才注意到嘈杂的雨声。",
+      "vi": "Tôi thực sự quá lo lắng, Lúc này tôi mới để ý tới tiếng mưa ồn ào.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Leia001",
+      "speaker_tag": "; > Leia: |#0202Adv15_Leia001|",
+      "ja": "今の音すごかったね……！",
+      "zh": "刚才那个声音好大啊……！",
+      "vi": "Âm thanh vừa rồi lớn quá...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_AnAn001",
+      "speaker_tag": "; > AnAn: |#0202Adv15_AnAn001|",
+      "ja": "雷が近くに落ちたのではないか。",
+      "zh": "是不是有雷劈在附近了。",
+      "vi": "Có sét đánh gần đó không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative014",
+      "speaker_tag": "",
+      "ja": "ラウンジの中にはレイアとアンアンがいた。",
+      "zh": "会客厅里是蕾雅和安安。",
+      "vi": "Trong phòng khách có Leya và AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative015",
+      "speaker_tag": "",
+      "ja": "そういえば、<br>先ほどシャワールームに向かう時も見かけた。",
+      "zh": "说起来，<br>\n刚才在去淋浴房的路上也看到了她们。",
+      "vi": "Nhắc mới nhớ, Vừa rồi tôi nhìn thấy họ trên đường đến phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative016",
+      "speaker_tag": "",
+      "ja": "直後だった。<br>激しい雨と雷の音の合間に――",
+      "zh": "下一秒。<br>\n就在这激烈的雨声与雷声交织的间隙——",
+      "vi": "Giây tiếp theo. Trong khoảng cách giữa cơn mưa dữ dội và sấm sét——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema003",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema003|",
+      "ja": "ひっ……あああ……！",
+      "zh": "噫……啊啊啊……！",
+      "vi": "Ối...ahhhh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative017",
+      "speaker_tag": "",
+      "ja": "ひきつった悲鳴のようなものが聞こえた。",
+      "zh": "传来一声抽搐着的凄惨尖叫。",
+      "vi": "Có một tiếng hét co giật.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro010|",
+      "ja": "（今の声は、エマか……？）",
+      "zh": "（这声音，是艾玛……？）",
+      "vi": "(Giọng nói này là Ema...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative018",
+      "speaker_tag": "",
+      "ja": "私は廊下の方を振り返った。",
+      "zh": "我转身看向走廊。",
+      "vi": "Tôi quay lại và nhìn xuống hành lang.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative019",
+      "speaker_tag": "",
+      "ja": "廊下には中庭に<ruby=\"つな\">繋</ruby>がる扉がある。<br>その扉が開いていた。",
+      "zh": "走廊有扇通往中庭的门。<br>\n而门是开着的。",
+      "vi": "Hành lang có cửa dẫn vào giếng trời. Và cánh cửa đang mở.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative020",
+      "speaker_tag": "",
+      "ja": "たった今私が通ったとき、<br>そこは閉まっていたはずだ。",
+      "zh": "但我刚刚经过那里时，<br>\n门应该是关着的。",
+      "vi": "Nhưng khi tôi vừa đi qua đó, Cánh cửa nên đóng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro011|",
+      "ja": "（……エマが開けたのか？）",
+      "zh": "（……是艾玛开的吗？）",
+      "vi": "(…Có phải nó do Ema lái không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative021",
+      "speaker_tag": "",
+      "ja": "落雷も激しい雨音も、<br>凶事の前触れかのように感じられた。",
+      "zh": "刚才的雷击和嘈杂的雨声，<br>\n都仿佛是一种凶兆。",
+      "vi": "Sét đánh và mưa ồn ào vừa rồi, Tất cả dường như là một điềm xấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative022",
+      "speaker_tag": "",
+      "ja": "ココの映像を見てからずっと、<br>鼓動がうるさく鳴っている。",
+      "zh": "自打看了可可的直播，<br>\n我的心跳就一直吵得不行。",
+      "vi": "Kể từ khi tôi xem buổi phát sóng trực tiếp của Coco, Nhịp tim của tôi cứ đập mạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative023",
+      "speaker_tag": "",
+      "ja": "私はひとり、<br>ふらふらと吸い寄せられるように中庭へと向かった。",
+      "zh": "像是被一股力量吸引过去似的，<br>\n我独自迈着摇摇晃晃的步子走向中庭。",
+      "vi": "Như bị một lực nào đó thu hút, Tôi bước một mình về phía sảnh với những bước đi run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative024",
+      "speaker_tag": "",
+      "ja": "そして――",
+      "zh": "然后——",
+      "vi": "Sau đó——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative025",
+      "speaker_tag": "",
+      "ja": "激しい雨は瞬間的なものだったらしい。",
+      "zh": "那倾盆大雨似乎只是阵雨。",
+      "vi": "Cơn mưa như trút nước dường như chỉ là một cơn mưa rào.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative026",
+      "speaker_tag": "",
+      "ja": "小雨の降る中庭で――",
+      "zh": "在下着小雨的中庭——",
+      "vi": "Trong nhĩ có mưa nhẹ——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative027",
+      "speaker_tag": "",
+      "ja": "毒舌な配信者の少女、沢渡ココが<br>仰向けに倒れていた。",
+      "zh": "毒舌主播少女泽渡可可，<br>\n正仰面倒在地上。",
+      "vi": "Cô gái mỏ neo độc ác Sawatari Coco, Anh ta đang nằm ngửa trên mặt đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative028",
+      "speaker_tag": "",
+      "ja": "ココの両の<ruby=\"まなこ\">眼</ruby>は何かに驚いたような表情のまま、<br>大きく見開かれていた。",
+      "zh": "她双眼瞪得巨大，<br>\n脸上写满惊恐。",
+      "vi": "Đôi mắt cô ấy mở to, Trên mặt hắn hiện rõ sự kinh hãi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative029",
+      "speaker_tag": "",
+      "ja": "【千里眼】の魔法を持つ彼女だが、<br>その<ruby=\"まなこ\">眼</ruby>はもう何も見ることはできない。",
+      "zh": "尽管拥有【千里眼】魔法，<br>\n这双眼却再也看不到任何东西了。",
+      "vi": "Mặc dù sở hữu phép thuật [thấu thị], Đôi mắt này không thể nhìn thấy gì nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative030",
+      "speaker_tag": "",
+      "ja": "彼女は生命活動を終えていた。",
+      "zh": "可可已经完全停止了生命活动。",
+      "vi": "Coco đã ngừng hoàn toàn các hoạt động sống.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative031",
+      "speaker_tag": "",
+      "ja": "頭部に集い舞う赤い蝶の群れで、<br>額を撃ち抜かれ即死したのだと予感した。",
+      "zh": "成群聚集在她头部飞舞的赤蝶，<br>\n似乎昭示着她是被射穿额头而当场死亡的。",
+      "vi": "Những đàn bướm đỏ bay quanh đầu cô ấy, Có vẻ như cô ấy đã bị bắn xuyên trán và chết ngay tại chỗ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro012|",
+      "ja": "ココ……！！",
+      "zh": "可可……！！",
+      "vi": "Coco……！！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative032",
+      "speaker_tag": "",
+      "ja": "私は<ruby=\"とっさ\">咄嗟</ruby>に駆け寄ろうとして、<br>ハッと気付く。",
+      "zh": "我急忙想跑过去，<br>\n却突然发现。",
+      "vi": "Tôi vội muốn chạy tới, Nhưng đột nhiên bị phát hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative033",
+      "speaker_tag": "",
+      "ja": "ココの死体の前には、エマが立っていた。",
+      "zh": "艾玛正站在可可的尸体前。",
+      "vi": "Ema đang đứng trước xác Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative034",
+      "speaker_tag": "",
+      "ja": "焦点の合わないぼんやりとした瞳で、<br>ココを無感情に見おろしていた。",
+      "zh": "她视线涣散，眼里毫无感情，<br>\n俯视着可可。",
+      "vi": "Tầm nhìn của cô ấy bị phân tâm và trong mắt cô ấy không có cảm xúc, Nhìn xuống Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative035",
+      "speaker_tag": "",
+      "ja": "――拳銃を手に。",
+      "zh": "——手里还拿着把枪。",
+      "vi": "---Trên tay anh ta cũng có một khẩu súng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro013|",
+      "ja": "君が……ココを撃ったのか？",
+      "zh": "是你……向可可开枪的吗？",
+      "vi": "Có phải anh... là người đã bắn Coco?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative036",
+      "speaker_tag": "",
+      "ja": "問いかけると、<br>エマは正気に戻った素振りで私を振り返る。",
+      "zh": "听见我的问话，<br>\n艾玛仿佛才回过神来，回头看向我。",
+      "vi": "Hãy nghe câu hỏi của tôi, Ema dường như vừa tỉnh táo lại và quay lại nhìn tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema004",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema004|",
+      "ja": "ヒロちゃん？<br>……違うよ、そんなわけない――。",
+      "zh": "希罗？<br>\n……不是的，我怎么会——",
+      "vi": "Anh hùng? ...Không, làm sao tôi có thể——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro014",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro014|",
+      "ja": "ならばその拳銃はなんだ？",
+      "zh": "那这把手枪是怎么回事？",
+      "vi": "Vậy chuyện gì đang xảy ra với khẩu súng lục này?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema005",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema005|",
+      "ja": "これは……落ちてたから拾ったんだよ。",
+      "zh": "这是……我看掉在地上就捡了起来。",
+      "vi": "Đây là... Tôi thấy nó rơi xuống đất và nhặt nó lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative037",
+      "speaker_tag": "",
+      "ja": "エマの主張に、<br>私は目を細めて疑念を<ruby=\"にじ\">滲</ruby>ませる。",
+      "zh": "艾玛的辩解<br>\n让我心生怀疑，便眯起眼睛问她。",
+      "vi": "Sự bảo vệ của Ema Điều này khiến tôi nghi ngờ nên tôi nheo mắt lại và hỏi cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro015",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro015|",
+      "ja": "本当にそうかな。",
+      "zh": "真的是这样吗。",
+      "vi": "Đây thực sự là trường hợp?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema006",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema006|",
+      "ja": "……どういう意味？",
+      "zh": "……什么意思？",
+      "vi": "...nó có nghĩa là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative038",
+      "speaker_tag": "",
+      "ja": "居心地の悪さから、<br>部屋を出ようと思った時だった。",
+      "zh": "我感觉心情极差，<br>\n正准备离开房间。",
+      "vi": "Tôi cảm thấy rất tệ, Đang chuẩn bị rời khỏi phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema007",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema007|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative039",
+      "speaker_tag": "",
+      "ja": "視界の端で、エマが何かを見つけた風に<br>さっと<ruby=\"ふところ\">懐</ruby>へと隠したのを見た。",
+      "zh": "我用余光瞥见艾玛似乎发现了什么东西，<br>\n一下子藏到怀里。",
+      "vi": "Tôi thoáng thấy Ema dường như tìm thấy thứ gì đó qua khóe mắt tôi, Đột nhiên, anh giấu nó trong vòng tay.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro016",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro016|",
+      "ja": "（何を隠した……？）",
+      "zh": "（她藏了什么……？）",
+      "vi": "(Cô ấy đang che giấu điều gì...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro017",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro017|",
+      "ja": "マーゴの遺品を整理していた時、<br>君はこっそり何かを隠していたな？",
+      "zh": "在整理玛格遗物的时候，<br>\n你是不是偷偷藏了什么东西？",
+      "vi": "Trong khi sắp xếp đồ đạc của Mag, Bạn đang che giấu điều gì đó bí mật?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema008",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema008|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro018",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro018|",
+      "ja": "あれはなんだ？<br>もしかして、拳銃なんじゃないか？",
+      "zh": "到底是什么？<br>\n该不会是手枪吧？",
+      "vi": "Chính xác thì nó là gì? Nó có thể là một khẩu súng lục?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema009",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema009|",
+      "ja": "それは――。",
+      "zh": "那是——",
+      "vi": "Đó là——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro019",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro019|",
+      "ja": "君はその拳銃でココを殺し、<br>死体をダストシュートから、<br>焼却炉に捨てたんじゃないか？",
+      "zh": "你就是用这把枪杀死了可可，<br>\n把她从垃圾滑槽<br>\n扔进了焚烧炉吧？",
+      "vi": "Đây là khẩu súng bạn dùng để giết Coco, Đưa cô ấy xuống máng rác Ném nó vào lò đốt?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative040",
+      "speaker_tag": "",
+      "ja": "エマに反論の<ruby=\"すき\">隙</ruby>を与えず、<br>私は<ruby=\"たた\">畳</ruby>みかけた。",
+      "zh": "我没给她反驳的余地，<br>\n连珠炮似的逼问道。",
+      "vi": "Tôi không cho cô ấy cơ hội để phản bác, Anh ta hỏi một cách nhanh chóng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema010",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema010|",
+      "ja": "……ッ。",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative041",
+      "speaker_tag": "",
+      "ja": "エマの瞳が揺れた。",
+      "zh": "艾玛的眼神动摇了一下。",
+      "vi": "Đôi mắt của Ema dao động.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative042",
+      "speaker_tag": "",
+      "ja": "泣きだすかと思ったが――<br>……エマは私を暗い瞳で<ruby=\"にら\">睨</ruby>んだ。",
+      "zh": "本以为她要哭出来了——<br>\n……没想到艾玛正用阴暗的眼神瞪着我。",
+      "vi": "Tôi tưởng cô ấy sắp khóc—— ...Thật bất ngờ, Ema đang nhìn chằm chằm vào tôi với đôi mắt đen láy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema011",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema011|",
+      "ja": "いい加減にしてくれないかな。",
+      "zh": "你说够了吗。",
+      "vi": "Bạn đã nói đủ chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema012",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema012|",
+      "ja": "ヒロちゃんは、<br>そんなにボクを犯人にしたいの……？",
+      "zh": "希罗，<br>\n你就那么想诬赖我是凶手吗……？",
+      "vi": "Anh hùng, Bạn có thực sự muốn buộc tội tôi là kẻ giết người không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro020",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro020|",
+      "ja": "私の感情など関係ない。<br>この状況全てが君が犯人だと物語っている。",
+      "zh": "这和我怎么想没关系。<br>\n而是所有的情况都在指明，你就是凶手。",
+      "vi": "Nó không liên quan gì tới điều tôi nghĩ. Nhưng mọi tình tiết đều chỉ ra bạn là kẻ sát nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema013",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema013|",
+      "ja": "……ねえ、ヒロちゃん。",
+      "zh": "……我问你，希罗。",
+      "vi": "…Để tôi hỏi anh, Anh hùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema014",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema014|",
+      "ja": "ボクをシャワールームに呼び出したのは罠？<br>ボクを陥れるために、<br>ヒロちゃんが仕組んだんじゃないの……？",
+      "zh": "你把我叫到淋浴房，是陷阱？<br>\n这一切都是你为了诬陷我设下的局……？<br>",
+      "vi": "Bạn gọi tôi vào phòng tắm. Đó có phải là một cái bẫy? Đây có phải là một cái bẫy do bạn đặt ra để gài bẫy tôi không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative043",
+      "speaker_tag": "",
+      "ja": "何故か見えない気配が背中をなぞるような<br>不気味な感覚があって、私はびくりと震えた。",
+      "zh": "不知为何，我感到有股看不见摸不着的凉意<br>\n顺着背爬了上来，让我为之一抖。",
+      "vi": "Không biết tại sao, tôi cảm thấy một sự mát mẻ vô hình và vô hình Leo lên theo phía sau, nó làm tôi run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro021",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro021|",
+      "ja": "（エマの本性はやはり――）",
+      "zh": "（我就知道，艾玛的本性果然——）",
+      "vi": "(Tôi biết bản chất thực sự của Ema là đúng——)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema015",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema015|",
+      "ja": "犯人はヒロちゃんの方なんじゃないの？",
+      "zh": "凶手难道不是希罗你吗？",
+      "vi": "Không phải anh, Anh hùng, là kẻ giết người sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Sherry001",
+      "speaker_tag": "; > Sherry: |#0202Adv15_Sherry001|",
+      "ja": "あっ、エマさん、ヒロさん！<br>ここにいましたか！<br>さっき私とんでもないものを見てしまい――。",
+      "zh": "啊，艾玛，希罗！<br>\n你们在这啊！<br>\n我刚才好像看到了超级可怕的——",
+      "vi": "Ôi, Ema, Anh hùng! Bạn đang ở đây! Có vẻ như tôi vừa nhìn thấy thứ gì đó siêu đáng sợ——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hanna001",
+      "speaker_tag": "; > Hanna: |#0202Adv15_Hanna001|",
+      "ja": "ぜえ、ぜえ、なんでわたくしまで……。",
+      "zh": "呼哧，呼哧，为什么要把我也拖过来……",
+      "vi": "Huchi, khò khè, sao ngươi cũng lôi Bổn tiểu thư vào đây...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative044",
+      "speaker_tag": "",
+      "ja": "シェリーとハンナが中庭に入ってきた。<br>どうやらシェリーが<br>強引にハンナを引っ張ってきたらしい。",
+      "zh": "雪莉和汉娜也来到了中庭。<br>\n看起来是雪莉硬拉汉娜过来的。<br>",
+      "vi": "Sherry và Hanna cũng đến sân trong. Có vẻ như Sherry đã kéo Hanna lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative045",
+      "speaker_tag": "",
+      "ja": "そして目の前に広がる光景に、<br><ruby=\"そくざ\">即座</ruby>に気付いた。",
+      "zh": "随后，她们立即注意到了眼前的场面。<br>",
+      "vi": "Sau đó, bọn họ lập tức chú ý tới cảnh tượng trước mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Sherry002",
+      "speaker_tag": "; > Sherry: |#0202Adv15_Sherry002|",
+      "ja": "これは……。",
+      "zh": "这是……",
+      "vi": "Đây là...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hanna002",
+      "speaker_tag": "; > Hanna: |#0202Adv15_Hanna002|",
+      "ja": "いやあああああっ！？",
+      "zh": "呀啊啊啊啊啊！？",
+      "vi": "Yeahhhhhhh! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative046",
+      "speaker_tag": "",
+      "ja": "目の当たりにしたココの死体に<br>ハンナは絶叫を上げ、思わずといった風に<br>シェリーにしがみついた。",
+      "zh": "一看到可可的尸体汉娜就大声尖叫起来，<br>\n情不自禁地抓住雪莉。<br>",
+      "vi": "Ngay khi nhìn thấy xác Coco, Hanna đã hét lớn, Tôi không thể không tóm lấy Sherry.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Sherry003",
+      "speaker_tag": "; > Sherry: |#0202Adv15_Sherry003|",
+      "ja": "エマさん、その拳銃は……？",
+      "zh": "艾玛，那个手枪是……？",
+      "vi": "Ema, khẩu súng đó có phải...?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative047",
+      "speaker_tag": "",
+      "ja": "シェリーは目ざとく、<br>エマが手に持っていた拳銃について触れる。",
+      "zh": "眼尖的雪莉立即询问起艾玛手里的手枪。<br>",
+      "vi": "Sherry có đôi mắt sắc bén ngay lập tức hỏi về khẩu súng lục trên tay Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema016",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema016|",
+      "ja": "ちっ、違うよ！<br>これは落ちてたのを拾っただけだよ！",
+      "zh": "不、不是的！<br>\n我只是把掉在地上的枪捡了起来！",
+      "vi": "Không, không! Tôi vừa nhặt khẩu súng rơi trên sàn!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro022",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro022|",
+      "ja": "どうだろうな？",
+      "zh": "谁知道呢？",
+      "vi": "Ai biết?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Ema017",
+      "speaker_tag": "; > Ema: |#0202Adv15_Ema017|",
+      "ja": "……ッ。",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative048",
+      "speaker_tag": "",
+      "ja": "その時、スマホの通知音が鳴った。<br>ゴクチョーからのアナウンスだろう。",
+      "zh": "就在此时，手机提示音响了起来。<br>\n大概是典狱长发来的通知吧。",
+      "vi": "Lúc này, điện thoại di động vang lên tiếng bíp. Có lẽ đó là thông báo từ quản giáo.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro023",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro023|",
+      "ja": "投票までに、もう少しマシな<br>言い訳を考えておいたほうがいい。",
+      "zh": "劝你还是在投票开始前，<br>\n想个更有说服力的借口吧。",
+      "vi": "Tôi khuyên bạn nên làm điều đó trước khi bắt đầu bỏ phiếu, Hãy đưa ra một lý do thuyết phục hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Hiro024",
+      "speaker_tag": "; > Hiro: |#0202Adv15_Hiro024|",
+      "ja": "真実は、裁判で明らかにされる。",
+      "zh": "真相会在审判中揭晓。",
+      "vi": "Sự thật sẽ được tiết lộ trong phiên tòa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative049",
+      "speaker_tag": "",
+      "ja": "騒がしくなった中庭に、<br>続々と少女たちが集まってくる。",
+      "zh": "其他少女也接二连三地被中庭的骚动吸引过来。<br>",
+      "vi": "Những cô gái khác cũng lần lượt bị thu hút bởi sự náo động trong sảnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv15_Narrative050",
+      "speaker_tag": "",
+      "ja": "私は<ruby=\"きびす\">踵</ruby>を返し、<br>中庭を後にした。",
+      "zh": "而我转身离开了中庭。<br>",
+      "vi": "Và tôi quay lại và rời khỏi tâm nhĩ.",
+      "objection_links": []
+    }
+  ]
+}

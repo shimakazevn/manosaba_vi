@@ -1,0 +1,488 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter02_Adv20",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter02/Act01_Chapter02_Adv20' Naninovel scenario script",
+  "total_entries": 60,
+  "entries": [
+    {
+      "id": "0102Adv20_Narrative001",
+      "speaker_tag": "",
+      "ja": "エマが懲罰房の並ぶ通路の方へ行ってみると、<br>シェリーとメルルに遭遇した。",
+      "zh": "艾玛走在惩罚室所在的过道上，<br>\n突然遇到了雪莉和梅露露。",
+      "vi": "Ema bước về phía dãy hành lang dẫn đến Phòng Kỷ Luật Biệt Giam Biệt Giam và bắt gặp Sherry cùng Meruru đang ở đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry001",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry001|",
+      "ja": "あっ、エマさん！<br>やっぱりここを調べに来ますよねえ。<br>捜査の基本ですしね！",
+      "zh": "啊，艾玛！<br>\n我就知道你会来这里。<br>\n毕竟来这里调查可是搜查的基础！",
+      "vi": "A, bạn Ema! Quả nhiên là chị cũng đến đây điều tra ha! Đây là bước cơ bản nhất của thám tử mà!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema001",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema001|",
+      "ja": "う、うん……。<br>さっきはパニックを起こしてたし、<br>ちゃんと調べたほうがいいと思って……。",
+      "zh": "是、是啊……<br>\n刚才大家都很恐慌，<br>\n我觉得还是得好好调查一番……",
+      "vi": "Ừ-Ừm…… Lúc nãy thấy mọi người hoảng loạn quá, nên mình nghĩ cần phải bình tĩnh kiểm tra lại hiện trường cho kỹ……",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema002",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema002|",
+      "ja": "（でも、あれをまた見るのは……正直キツイ……）",
+      "zh": "（可是，说实话……我不忍心再目睹那个场面……）",
+      "vi": "（Thế nhưng…… phải nhìn lại cảnh tượng đẫm máu đó một lần nữa…… lòng mình thật sự rất đau xót……）",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema003",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema003|",
+      "ja": "シェリーちゃん、メルルちゃんは<br>何か見つけられた？",
+      "zh": "雪莉，梅露露，<br>\n你们发现什么了吗？",
+      "vi": "Sherry-chan, Meruru-chan, hai em có phát hiện thêm được manh mối gì không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru001",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru001|",
+      "ja": "……いえ、まだ特には……。<br>懲罰房の通路は暗い、ことくらいしか。",
+      "zh": "……没有，目前还没什么收获……<br>\n只知道惩罚室前的过道光线很暗。",
+      "vi": "Dạ…… Em tìm thấy một vài mảnh vỡ của vỏ ốp điện thoại đính đá lấp lánh của bạn Miria rơi ở góc phòng ạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry002",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry002|",
+      "ja": "あとは強いていえばこれくらいでしょうか。",
+      "zh": "非要说的话，也就发现了这个吧。",
+      "vi": "Và cả chiếc ổ khóa của Phòng Kỷ Luật Biệt Giam nữa! Ổ khóa này hoàn toàn không có dấu vết bị cạy phá từ bên ngoài đâu chị!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative002",
+      "speaker_tag": "",
+      "ja": "シェリーが差し出してきたのは、<br>先ほどシェリーが壊した錠前だった。",
+      "zh": "雪莉把刚才拽掉的锁<br>\n递给艾玛。",
+      "vi": "Sherry vừa mới mở khóa Đưa nó cho Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry003",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry003|",
+      "ja": "壊しちゃったんですが、<br>あとで怒られたりしませんよね……？",
+      "zh": "我把锁弄坏了，<br>\n之后不会挨骂吧……？",
+      "vi": "Tôi đã phá khóa, Sau này cậu sẽ không bị mắng nữa phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema004",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema004|",
+      "ja": "たぶん……。",
+      "zh": "应该不会……",
+      "vi": "Có lẽ là không...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema005",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema005|",
+      "ja": "（懲罰房のドアは、錠前がかかっていて、<br>　閉じられている）",
+      "zh": "（惩罚室的门上了锁，<br>\n房门是关着的）",
+      "vi": "(Cửa Phòng Kỷ Luật Biệt Giam bị khóa, Cánh cửa đã đóng)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema006",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema006|",
+      "ja": "（ボクらが駆けつけた時には鍵がかかっていて、<br>　扉は開けられなかった）",
+      "zh": "（我们赶过来的时候门是锁着的，<br>\n打不开房门）",
+      "vi": "(Cửa đã bị khóa khi chúng tôi lao tới đây, Không mở được cửa)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema007",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema007|",
+      "ja": "（それなら、誰がどうやって、<br>　ミリアちゃんを刺したんだろう……）",
+      "zh": "（既然如此，到底是谁，<br>\n又是怎么捅伤米莉亚的……）",
+      "vi": "(Trong trường hợp này, đó là ai, Sao cậu lại đâm Miria lần nữa...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry004",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry004|",
+      "ja": "これってあれですよね～！ 定番の、あれ！",
+      "zh": "这就是所谓的那个吧！经典的那个！",
+      "vi": "Đây chính là cái gọi là như vậy! Một trong những cổ điển!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema008",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema008|",
+      "ja": "ああ、えっと……密室殺人？",
+      "zh": "啊，你是说……密室杀人？",
+      "vi": "À, ý bạn là... án mạng trong phòng bí mật?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry005",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry005|",
+      "ja": "ですです～！",
+      "zh": "没错没错～！",
+      "vi": "Đúng vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema009",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema009|",
+      "ja": "（シェリーちゃんはテンション上がると思った……）",
+      "zh": "（我就知道雪莉会很兴奋……）",
+      "vi": "(Tôi biết Sherry sẽ rất phấn khích...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru002",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru002|",
+      "ja": "念のため、ほかの懲罰房の扉も開かないか<br>調べてみましたけれど……ダメでした。",
+      "zh": "慎重起见，我也调查了一下<br>\n其他惩罚室的门能不能开……但是都不行。",
+      "vi": "Để thận trọng, tôi cũng đã điều tra Cửa Phòng Kỷ Luật Biệt Giam khác có thể mở được không... Nhưng không được.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru003",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru003|",
+      "ja": "全て鍵がかかっていて、<br>入れるのは、ミリアさんのいる懲罰房だけ、です。",
+      "zh": "所有房间都上了锁，<br>\n只有米莉亚小姐所在的惩罚室能进。",
+      "vi": "Tất cả các phòng đều bị khóa, Chỉ có Phòng Kỷ Luật Biệt Giam của cô Miria mới có thể vào được.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry006",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry006|",
+      "ja": "あまり気乗りはしませんが、<br>ミリアさんの死体を調べるしかないですよね。",
+      "zh": "虽然我也不太想调查米莉亚的尸体，<br>\n但现在能做的只有这一件事了。",
+      "vi": "Mặc dù tôi không thực sự muốn điều tra thi thể của Miria, Nhưng hiện tại chỉ có một việc có thể làm được.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry007",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry007|",
+      "ja": "今回ゴクチョーさんに、<br>中に入っちゃダメって言われてませんし、<br>時間もありません、行きましょう！",
+      "zh": "这次典狱长大人<br>\n没说不能进去，<br>\n而且我们也没有时间了，走吧！",
+      "vi": "Lần này quản giáo Tôi không nói là tôi không thể vào, Và chúng ta không còn thời gian nữa, đi thôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema010",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema010|",
+      "ja": "う、うん……。",
+      "zh": "嗯、嗯……",
+      "vi": "Ừm, ừm...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative003",
+      "speaker_tag": "",
+      "ja": "エマたちは青ざめ、震えながら、<br>ミリアの死体がある懲罰房の中に入った。",
+      "zh": "艾玛她们面色惨白，浑身颤抖着，<br>\n走进米莉亚尸体所在的惩罚室。",
+      "vi": "Ema và những người khác tái mét và run rẩy, Vào Phòng Kỷ Luật Biệt Giam nơi có xác của Miria.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative004",
+      "speaker_tag": "",
+      "ja": "懲罰房内部を改めて観察すると、<br>凶器になりうるものはたくさん置いてある。",
+      "zh": "再度观察整个惩罚室，<br>\n能看到里面放了很多可以用作凶器的东西。",
+      "vi": "Quan sát lại toàn bộ Phòng Kỷ Luật Biệt Giam, Bạn có thể thấy bên trong có rất nhiều thứ có thể dùng làm vũ khí giết người.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema011",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema011|",
+      "ja": "（中にさえ入れたら、<br>　殺人自体は簡単にできちゃうのかも）",
+      "zh": "（感觉只要有办法进来，<br>\n杀人本身就很容易做到）",
+      "vi": "(Tôi cảm thấy miễn là có cách để vào được, Tự giết mình thì dễ)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema012",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema012|",
+      "ja": "（でも、だからって<br>　拘束されているミリアちゃんを刺すなんて……）",
+      "zh": "（可就算是这样，<br>\n也不该刺杀被绑在十字架上的米莉亚……）",
+      "vi": "(Nhưng dù vậy, Chúng ta cũng không nên ám sát Miria, người bị trói trên cây thánh giá...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative005",
+      "speaker_tag": "",
+      "ja": "エマは表情を<ruby=\"ゆが\">歪</ruby>ませ、<br>ミリアの方へとおそるおそる視線を移した。",
+      "zh": "艾玛带着痛苦的表情<br>\n战战兢兢地看向米莉亚那边。",
+      "vi": "Ema có vẻ mặt đau khổ Anh thận trọng nhìn về phía Miria.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative006",
+      "speaker_tag": "",
+      "ja": "<ruby=\"たっけいだい\">磔刑台</ruby>に拘束されたミリアの死体は、<br>先ほどの状態のままだった。",
+      "zh": "被束缚在十字架上的米莉亚的尸体<br>\n仍维持着先前的状态。",
+      "vi": "Thi thể của Millia bị xích vào cây thánh giá Vẫn duy trì trạng thái trước đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry008",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry008|",
+      "ja": "どうやら腹部を何度も刺されてますね……。",
+      "zh": "看来她的腹部被捅了很多刀呢……",
+      "vi": "Có vẻ như cô ấy đã bị đâm rất nhiều vào bụng…",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative007",
+      "speaker_tag": "",
+      "ja": "早速シェリーがスマホを取り出し、<br>房内の撮影をはじめる。",
+      "zh": "雪莉立即掏出手机，<br>\n开始拍摄室内的照片。",
+      "vi": "Sherry ngay lập tức lấy điện thoại di động ra, Bắt đầu chụp ảnh trong nhà.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema013",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema013|",
+      "ja": "（改めてみると……本当にひどい）",
+      "zh": "（再仔细一看……真的好残忍）",
+      "vi": "(Hãy nhìn kỹ...nó thực sự rất tàn nhẫn)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema014",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema014|",
+      "ja": "（なんでこんなに何度も刺す必要があったの？<br>　ミリアちゃんが一体何をしたっていうの？<br>　それともこれが、【魔女の殺意】なの……？）",
+      "zh": "（有必要捅这么多刀吗？<br>\n米莉亚究竟做错了什么？<br>\n还是说，这就是【魔女的杀意】……？）",
+      "vi": "(Có cần thiết phải đâm nhiều lần như vậy không? Miria đã làm gì sai? Hay đây là [ý định giết người của Phù thủy]…? )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative008",
+      "speaker_tag": "",
+      "ja": "エマの目の端にじわりと涙が<ruby=\"にじ\">滲</ruby>み、<br>慌てて拭う。",
+      "zh": "艾玛的眼角渐渐渗出泪花。<br>\n然后，她急忙把眼泪擦掉。",
+      "vi": "Nước mắt dần hình thành nơi khóe mắt Ema. Sau đó cô vội lau nước mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema015",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema015|",
+      "ja": "（泣いてる場合じゃない……時間がないんだ、<br>　犯人の手がかりを見つけないと！）",
+      "zh": "（现在不是哭的时候……没时间了，<br>\n得赶紧找到凶手的线索！）",
+      "vi": "(Bây giờ không phải lúc để khóc... không có thời gian đâu, Chúng ta phải nhanh chóng tìm ra manh mối của kẻ sát nhân! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru004",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru004|",
+      "ja": "ミリアさんを下ろしてあげられないでしょうか……。",
+      "zh": "可以把米莉亚小姐放下来吗……",
+      "vi": "Bạn có thể đặt cô Miria xuống được không...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry009",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry009|",
+      "ja": "かわいそうですけど……でも、<br>捜査中はこのままにしておいたほうが良さそうです。",
+      "zh": "她确实挺可怜的……但是<br>\n在搜查阶段最好还是放着不要动。",
+      "vi": "Cô ấy thực sự khá đáng thương...nhưng Tốt nhất là để nó một mình trong giai đoạn tìm kiếm.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry010",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry010|",
+      "ja": "……凶器は明らかにこれですよね。",
+      "zh": "……凶器很明显是这个吧。",
+      "vi": "...Vũ khí giết người rõ ràng là thứ này.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative009",
+      "speaker_tag": "",
+      "ja": "シェリーが指差したのは、<br>ミリアの胸に突きたっているナイフだった。",
+      "zh": "雪莉指着<br>\n插在米莉亚胸口的一把刀。",
+      "vi": "Sherry chỉ vào Một con dao đâm vào ngực Miria.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema016",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema016|",
+      "ja": "うん……懲罰房の中には、<br>凶器になりそうな刃物がたくさん転がってる。",
+      "zh": "嗯……惩罚室里<br>\n到处都是可以用来行凶的刀具。",
+      "vi": "À...trong Phòng Kỷ Luật Biệt Giam Đâu đâu cũng có dao có thể dùng để giết người.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema017",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema017|",
+      "ja": "犯人はその場で適当な刃物を拾って、<br>ミリアちゃんを刺したんだろうね……。",
+      "zh": "凶手可能是就近随手捡了把刀<br>\n把米莉亚捅死了吧……",
+      "vi": "Kẻ sát nhân có thể đã nhặt một con dao ở gần Cứ đâm chết Miria đi...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry011",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry011|",
+      "ja": "衝動的な殺人だったのですかね……。",
+      "zh": "你是说出于冲动杀人吗……",
+      "vi": "Có phải cậu đang nói về việc giết ai đó chỉ vì bốc đồng...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru005",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru005|",
+      "ja": "あ、あの、私……<br>ミリアさんの死体を調べてみます……っ",
+      "zh": "我、我……<br>\n去调查一下米莉亚小姐的尸体……",
+      "vi": "Tôi, tôi... Đi điều tra thi thể của cô Miria...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative010",
+      "speaker_tag": "",
+      "ja": "メルルは涙目になりながらも、<br>覚悟を決めた顔で言った。",
+      "zh": "梅露露眼角挂着泪水，<br>\n但还是神情坚定地说道。",
+      "vi": "Đôi mắt Meruru ngập tràn nước mắt, Nhưng anh vẫn kiên quyết nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema018",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema018|",
+      "ja": "そ、そんな、メルルちゃん、無理しないで……！",
+      "zh": "别、别这样，梅露露，不要勉强自己……！",
+      "vi": "Đừng, đừng làm điều này, Meruru, đừng ép buộc bản thân...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru006",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru006|",
+      "ja": "いえ、だ、大丈夫です……！<br>死体を調べてみたら、何か<br>わかるかもしれませんから……っ",
+      "zh": "没、没关系的……！<br>\n调查一下尸体<br>\n也许能找到什么线索……",
+      "vi": "Không, không sao đâu...! Điều tra cơ thể Có lẽ tôi có thể tìm ra manh mối nào đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative011",
+      "speaker_tag": "",
+      "ja": "メルルはミリアの死体に手を伸ばし、<br>あちこちを調べはじめた。",
+      "zh": "梅露露向米莉亚的尸体伸出手，<br>\n开始到处调查起来。",
+      "vi": "Meruru đưa tay về phía cơ thể Miria, Bắt đầu điều tra khắp nơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative012",
+      "speaker_tag": "",
+      "ja": "その手が光っているのは、<br>治癒を施そうとしているようにも見えた。",
+      "zh": "她的手发着光，<br>\n大概是想施法治愈米莉亚。",
+      "vi": "Bàn tay cô ấy đang phát sáng, Có lẽ đang cố niệm phép để chữa lành cho Miria.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema019",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema019|",
+      "ja": "（メルルちゃん……）",
+      "zh": "（梅露露……）",
+      "vi": "（Meruru……）",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru007",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru007|",
+      "ja": "傷を塞いであげたいんです……それなのに、<br>私の魔法、役立たずですね……。",
+      "zh": "我想愈合她的伤口……可是，<br>\n我的魔法却这么没用……",
+      "vi": "Tôi muốn chữa lành vết thương cho cô ấy...nhưng, Phép thuật của tôi thật vô dụng...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative013",
+      "speaker_tag": "",
+      "ja": "メルルははらはらと涙をこぼしながら、<br>ミリアの死体を労わるように調べていく。<br>その手が、ハッと止まった。",
+      "zh": "梅露露一边不停地悄悄流泪，<br>\n一边满怀怜悯地调查米莉亚的尸体。<br>\n忽然，她的手停住了。",
+      "vi": "Mei Lulu cứ lặng lẽ khóc, Trong khi điều tra cơ thể của Miria với lòng trắc ẩn. Đột nhiên tay cô dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru008",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru008|",
+      "ja": "これは……。",
+      "zh": "这是……",
+      "vi": "Đây là...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Sherry012",
+      "speaker_tag": "; > Sherry: |#0102Adv20_Sherry012|",
+      "ja": "何か見つけたのでしょうか！？",
+      "zh": "你发现了什么吗！？",
+      "vi": "Bạn có tìm thấy gì không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru009",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru009|",
+      "ja": "は、はい。ミリアさんの口の中に……<br>鍵が入っていました。",
+      "zh": "是、是的。米莉亚小姐的嘴里……<br>\n有个钥匙。",
+      "vi": "Vâng, vâng. Miệng của cô Miria... Có một chiếc chìa khóa.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema020",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema020|",
+      "ja": "鍵がなんで、口の中に……？",
+      "zh": "为什么，嘴里有钥匙……？",
+      "vi": "Tại sao, trong miệng cậu có chìa khóa...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru010",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru010|",
+      "ja": "わかりません……。",
+      "zh": "不知道……",
+      "vi": "Không biết…",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative014",
+      "speaker_tag": "",
+      "ja": "精神の限界で、<br>通路へと戻って３人は詰めた息を吐き出す。",
+      "zh": "三人的精神承受力已经到了极限，<br>\n她们只好回到过道，把刚才郁积的浊气全都吐了出来。",
+      "vi": "Sức chịu đựng tinh thần của ba người họ đã đạt đến giới hạn, Họ không còn cách nào khác ngoài việc quay trở lại hành lang và thở ra toàn bộ không khí ngột ngạt vừa tích tụ vừa rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru011",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru011|",
+      "ja": "……調べてみたところ、<br>腹部をめった刺しにされた後、<br>心臓を一突きされていました……。",
+      "zh": "……根据调查结果来看，<br>\n她是腹部被刺中多刀后，<br>\n心脏受到了致命一击……",
+      "vi": "…Theo kết quả khảo sát, Cô ấy bị đâm nhiều nhát vào bụng, Trái tim đã phải chịu một đòn chí mạng...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Meruru012",
+      "speaker_tag": "; > Meruru: |#0102Adv20_Meruru012|",
+      "ja": "出血多量で、亡くなったのだと思います。",
+      "zh": "应该是出血过量导致的死亡。",
+      "vi": "Có lẽ đó là cái chết do chảy máu quá nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Ema021",
+      "speaker_tag": "; > Ema: |#0102Adv20_Ema021|",
+      "ja": "うん……ありがとうメルルちゃん……<br>ボクは他のところを調べてくるね。",
+      "zh": "嗯……谢谢你梅露露……<br>\n那我去调查一下其他地方。",
+      "vi": "À...cảm ơn Meruru... Sau đó tôi sẽ đi điều tra những nơi khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv20_Narrative015",
+      "speaker_tag": "",
+      "ja": "エマの声は震えている。<br>立っているのもやっとの様子だった。",
+      "zh": "艾玛的声音在颤抖。<br>\n光是站着就已耗尽她的全部气力。",
+      "vi": "Giọng Ema run run. Chỉ cần đứng thôi đã lấy hết năng lượng của cô.",
+      "objection_links": []
+    }
+  ]
+}

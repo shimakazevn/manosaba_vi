@@ -1,0 +1,32 @@
+{
+  "bundle": "general-localization-zhhans-scripts-debug_assets_all.bundle",
+  "script_name": "Debug_Animate",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Debug/Debug_Animate' Naninovel scenario script",
+  "total_entries": 3,
+  "entries": [
+    {
+      "id": "~654ca808",
+      "speaker_tag": "",
+      "ja": "Debug_Animate # Sandbox",
+      "zh": "",
+      "vi": "Debug_Animate # Sandbox",
+      "objection_links": []
+    },
+    {
+      "id": "~33511996",
+      "speaker_tag": "",
+      "ja": "Debug_Animate # Relative",
+      "zh": "",
+      "vi": "Debug_Animate # Relative",
+      "objection_links": []
+    },
+    {
+      "id": "~38bd0750",
+      "speaker_tag": "",
+      "ja": "Debug_Animate # Emote",
+      "zh": "",
+      "vi": "Debug_Animate # Emote",
+      "objection_links": []
+    }
+  ]
+}

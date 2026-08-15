@@ -1,0 +1,814 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Trial09",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Trial09' Naninovel scenario script",
+  "total_entries": 100,
+  "entries": [
+    {
+      "id": "0204Trial09_Hanna001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hanna001|",
+      "ja": "わ、わたくしが<br>髪を編み込んだドレスで<br>エマさんに<br>魔法を使ったなんて……<br>そんな証拠、<br>どこにもありませんわ！",
+      "zh": "说、说我把<br>\n头发编进礼服<br>\n再利用礼服<br>\n对艾玛使用魔法……<br>\n根本没有<br>\n任何证据哇！",
+      "vi": "Nói, nói Bổn tiểu thư đặt Tóc tết thành váy Tái sử dụng váy Sử dụng phép thuật lên Ema... Không có nào cả Bất kỳ bằng chứng wow!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hanna002|",
+      "ja": "それにわたくしには、<br>そんなことする時間なんて<br>ありませんもの！",
+      "zh": "而且，我根本<br>\n没有时间<br>\n做那种事！",
+      "vi": "Hơn nữa, Bổn tiểu thư chỉ đơn giản Không có thời gian Hãy làm điều đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hanna003|",
+      "ja": "わたくしがエレベーターで<br>上に昇ったあと<link=\"Objection_02_04_09_01\">すぐ</link>、<br>シェリーさんが来たんです！<br>わたくしには無理ですわ！",
+      "zh": "我乘电梯<br>\n到上层之后，<br>\n雪莉<link=\"Objection_02_04_09_01\">马上</link>就来了！<br>\n我根本不可能做那些哇！",
+      "vi": "Bổn tiểu thư đi thang máy Sau khi đạt đến cấp độ cao hơn, Sherry<link=\"Objection_02_04_09_01\"> sẽ sớm có mặt ở đây</link>! Không đời nào Bổn tiểu thư có thể làm được điều đó wow!",
+      "objection_links": [
+        "Objection_02_04_09_01"
+      ]
+    },
+    {
+      "id": "0204Trial09_Sherry001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial09_Sherry001|",
+      "ja": "……たしかに<br>そうかもしれません。",
+      "zh": "……或许<br>\n确实是这样。",
+      "vi": "…có lẽ Thật vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Sherry002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial09_Sherry002|",
+      "ja": "ほら、<br>ハンナさんって魔法を使う時に<br>いつも<link=\"Objection_02_04_09_02\">力んでた</link>じゃ<br>ないですかー。",
+      "zh": "不过你看，<br>\n汉娜使用魔法的时候<br>\n不是每次都<br>\n一副<link=\"Objection_02_04_09_02\">很用力</link>的样子吗——",
+      "vi": "Nhưng nhìn này, Khi Hanna sử dụng phép thuật Không phải mọi lúc Có vẻ như <link=\"Objection_02_04_09_02\"> đang gắng sức </link>——",
+      "objection_links": [
+        "Objection_02_04_09_02"
+      ]
+    },
+    {
+      "id": "0204Trial09_Sherry003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial09_Sherry003|",
+      "ja": "上にいたときにそんな様子、<br>なかったですけどね～。",
+      "zh": "在上层的时候，<br>\n可没有看到她做那样的动作哦～",
+      "vi": "Khi ở cấp cao hơn, Nhưng tôi chưa từng thấy cô ấy làm điều gì như thế cả~",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hiro001|",
+      "ja": "……エマとレイアが<br>いつ殺されたのか<br>正確な時間までは<br>わからない。",
+      "zh": "……现在还无法确定<br>\n艾玛和蕾雅<br>\n被杀的准确时间。<br>",
+      "vi": "…vẫn chưa thể xác định được Ema và Leia Thời điểm chính xác anh ta bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hiro002|",
+      "ja": "ずっと前に殺されていて、<br>あらかじめ<br>死体を浮かばせる<br>準備をしていたなら<br>一瞬でできるよ。",
+      "zh": "如果是在较久前的时间杀人，<br>\n并且做好了<br>\n让尸体飘浮的<br>\n事前准备，<br>\n那就可以瞬间做到。",
+      "vi": "Nếu vụ giết người xảy ra đã lâu, Và đã làm được khiến xác chết nổi lên Hãy chuẩn bị trước, Điều đó có thể được thực hiện ngay lập tức.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hiro003|",
+      "ja": "それにハンナの<br>魔女化が進んでいるなら、<br>ナノカのように<br>魔法が強化されている<br>可能性もある……。",
+      "zh": "而且，假如汉娜的<br>\n魔女化程度已经加剧，<br>\n那么她也有可能<br>\n像奈叶香那样，<br>\n魔法得到增强……",
+      "vi": "Hơn nữa, nếu Hanna Mức độ biến đổi phù thủy ngày càng tăng, Vậy thì có thể cô ấy Giống như Nanoha, Phép thuật được tăng cường...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hiro004|",
+      "ja": "普段より自由に<br>浮かせられるように<br>なっていても、<br>おかしくはない……！",
+      "zh": "就算她能<br>\n比平时更自由地<br>\n操纵物体飘浮，<br>\n也不足为奇……！",
+      "vi": "Kể cả khi cô ấy có thể tự do hơn bình thường Thao tác làm vật nổi, Không có gì đáng ngạc nhiên...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial09_Hanna004|",
+      "ja": "そんなの<br>ただのいちゃもんですわっ！",
+      "zh": "说那些<br>\n不过是强词夺理罢了！",
+      "vi": "Nói về những điều đó Đó chỉ là những lời nói mạnh mẽ!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial09_Hanna005|",
+      "ja": "わたくしに<br>そんな準備なんてしている時間<br>ありません……！<br>わたくしは<br>犯人じゃありませんわ！",
+      "zh": "我根本<br>\n没有时间<br>\n做什么事前准备……！<br>\n我不是凶手！<br>",
+      "vi": "Bổn tiểu thư chỉ đơn giản Không có thời gian Cần chuẩn bị gì trước...! Bổn tiểu thư không phải là kẻ giết ngươi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial09_Hanna006|",
+      "ja": "わ、わたくし<br>地下にいましたわよねっ！<br>ねえみなさん！",
+      "zh": "我、我那时候<br>\n不是在地下吗！<br>\n对吧，各位！",
+      "vi": "Bổn tiểu thư, lúc đó Bổn tiểu thư Không phải ở dưới lòng đất sao? Đúng rồi mọi ngươi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Miria001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Miria001|",
+      "ja": "……で、でも、<br>地下の倉庫を調べてた時<br>あんまり周りのみんなを<br>見てる余裕なんて<br>なかったし……。",
+      "zh": "……但、但是，<br>\n在调查地下仓库的时候，<br>\n我们也没有余暇<br>\n观察周围人<br>\n在做什么……",
+      "vi": "...Nhưng, nhưng, Trong khi điều tra nhà kho dưới lòng đất, Chúng Miria không có thời gian rảnh Quan sát những người xung quanh bạn Bạn đang làm gì vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Miria002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Miria002|",
+      "ja": "ハンナちゃんが<br>ずっといたかどうかは……<br>正直わからないよ。",
+      "zh": "小娜是不是<br>\n一直都在地下……<br>\n老实说，大叔我也不知道。",
+      "vi": "Tiểu Na là Luôn ở dưới lòng đất... Thực lòng mà nói chú cũng không biết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Miria003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Miria003|",
+      "ja": "エマちゃんやレイアちゃんが<br>いなくなったのだって、<br>気付かなかったぐらいだし……。",
+      "zh": "就连小艾和小蕾<br>\n不见了，<br>\n我都没能注意到……",
+      "vi": "Ngay cả Tiểu Ái và Tiểu Lôi Đi rồi, Miria thậm chí còn không để ý...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Sherry004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial09_Sherry004|",
+      "ja": "……そうですね。",
+      "zh": "……是啊。",
+      "vi": "...Phải.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Sherry005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0204Trial09_Sherry005|",
+      "ja": "でもたしかにあのとき、<br>集合時間の１０分ほど前には<br>ハンナさんを見た気がします。",
+      "zh": "不过那时我似乎……<br>\n大概在集合时间前10分钟左右<br>\n看到了汉娜。",
+      "vi": "Nhưng sau đó tôi dường như... Khoảng 10 phút trước giờ họp Đã nhìn thấy Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hanna007|",
+      "ja": "わ、わたくしはいました……<br>いたんです！",
+      "zh": "我、我当时确实在呀……<br>\n是真的！",
+      "vi": "Bổn tiểu thư, quả thực Bổn tiểu thư đã ở đó vào lúc đó... Đó là sự thật!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hanna008|",
+      "ja": "……そ、そうだ！<br>そうです！<br>ドレスですわ！",
+      "zh": "……对、对了！<br>\n没错！<br>\n是礼服！",
+      "vi": "...Đúng, đúng! Đúng vậy! Đó là một chiếc váy!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna009",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hanna009|",
+      "ja": "アリサさんが<br>死体発見の１５分前に<br>アトリエにドレスがあったのを<br>見ているんでしょう……！？",
+      "zh": "亚里沙不是在<br>\n发现尸体的15分钟前，<br>\n还看到礼服<br>\n在画室里吗……！？",
+      "vi": "Alisa không có trong 15 phút trước khi thi thể được tìm thấy, Cũng thấy chiếc váy Bạn đang ở trong studio à...? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna010",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hanna010|",
+      "ja": "わたくしには、<br>５分足らずで<br>ドレスを取ってきて、<br>エマさんを着替えさせる<br><link=\"Objection_02_04_09_03\">時間</link>なんてありません……！",
+      "zh": "要在<br>\n不到5分钟内<br>\n把礼服拿过来，<br>\n再给艾玛换上什么的，<br>\n我哪有<link=\"Objection_02_04_09_03\">时间</link>做这些啊！",
+      "vi": "Để ở Chưa đầy 5 phút nữa Mang cho Bổn tiểu thư chiếc váy, Đưa cho Ema thứ gì đó để thay, Làm sao Bổn tiểu thư có thể có <link=\"Objection_02_04_09_03\"> thời gian</link> để làm việc này!",
+      "objection_links": [
+        "Objection_02_04_09_03"
+      ]
+    },
+    {
+      "id": "0204Trial09_Hanna011",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0204Trial09_Hanna011|",
+      "ja": "わたくしには無理ですわ！<br>信じてください！",
+      "zh": "我不可能杀人的！<br>\n请相信我！",
+      "vi": "Không có cách nào Bổn tiểu thư có thể giết bất cứ ai! Xin hãy tin Bổn tiểu thư!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro005|",
+      "ja": "（……ハンナの言葉に確たるものはない）",
+      "zh": "（……汉娜并没有说出什么确凿的东西）",
+      "vi": "(…Hanna không nói điều gì chắc chắn cả)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro006|",
+      "ja": "（だがだからこそ、明確に攻めにくくはある）",
+      "zh": "（但也正因如此，很难明确攻击她的证词）",
+      "vi": "(Nhưng vì điều này nên khó có thể công kích lời khai của cô ấy một cách rõ ràng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro007|",
+      "ja": "（彼女が犯行可能だったかどうか……<br>　その根拠を示すんだ……！）",
+      "zh": "（她到底是否有可能作案……<br>\n必须拿出证据来……！）",
+      "vi": "(Liệu có khả năng cô ấy đã phạm tội hay không... Phải đưa ra bằng chứng...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Choice001",
+      "speaker_tag": "; > @choice |#0204Trial09_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "一瞬で着替えさせた",
+      "zh": "一瞬间就换好了衣服",
+      "vi": "Tôi thay quần áo ngay lập tức",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Choice002",
+      "speaker_tag": "; > @choice |#0204Trial09_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "演技だった",
+      "zh": "那是演的",
+      "vi": "Đó là một hành động",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Choice003",
+      "speaker_tag": "; > @choice |#0204Trial09_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "取りに行く必要はない",
+      "zh": "没有必要去拿礼服",
+      "vi": "Không cần phải lấy váy",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro008|",
+      "ja": "いいや、無理なんかじゃない。",
+      "zh": "不，并非不可能做到。",
+      "vi": "Không, nó không phải là không thể làm được.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro009",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro009|",
+      "ja": "君はあの時、<br>一番にエレベーターへ乗り――。",
+      "zh": "那时，你<br>\n第一个乘上电梯——",
+      "vi": "Vào thời điểm đó, bạn Người đầu tiên bước vào thang máy——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro010",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro010|",
+      "ja": "上に昇ったところでエマを殺し――。",
+      "zh": "升到上层后杀害艾玛——",
+      "vi": "Sau khi lên cấp trên, anh ta đã giết Ema——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro011",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro011|",
+      "ja": "エマの死体を一瞬で着替えさせ――。",
+      "zh": "一瞬间就给艾玛的尸体换好了衣服——",
+      "vi": "Cơ thể của Ema được thay quần áo ngay lập tức——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro012",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro012|",
+      "ja": "エレベーターの天井裏から浮遊させ――。",
+      "zh": "让尸体从电梯顶板上飘浮起来——",
+      "vi": "Hãy để cơ thể trôi nổi từ mái thang máy——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro013",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro013|",
+      "ja": "何食わぬ顔で後の２人を迎えた……。",
+      "zh": "然后若无其事地等待后来的两个人……",
+      "vi": "Sau đó anh ấy đợi hai người tiếp theo như không có chuyện gì xảy ra…",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro014",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro014|",
+      "ja": "――簡単だろう！",
+      "zh": "——很简单吧！",
+      "vi": "--Nó rất đơn giản!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Miria004",
+      "speaker_tag": "; > Miria: |#0204Trial09_Miria004|",
+      "ja": "やることが……<br>やることが多い……！！",
+      "zh": "要做的事……<br>\n步骤好多……！！",
+      "vi": "Những việc cần làm... Có rất nhiều bước...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Sherry006",
+      "speaker_tag": "; > Sherry: |#0204Trial09_Sherry006|",
+      "ja": "それに……死体を着替えさせるのは<br>簡単なことじゃないと思いますよ？",
+      "zh": "而且……给尸体换衣服什么的，<br>\n我不觉得是件容易的事哦？",
+      "vi": "Và... thay quần áo cho xác chết, Tôi không nghĩ đó là một điều dễ dàng?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Sherry007",
+      "speaker_tag": "; > Sherry: |#0204Trial09_Sherry007|",
+      "ja": "一瞬で着替えさせるのはきっと無理ですね！",
+      "zh": "一瞬间就换好衣服肯定是不可能的！",
+      "vi": "Chắc chắn không thể thay quần áo ngay lập tức!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro015",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro015|",
+      "ja": "（……さすがに限られた時間では難しいか）",
+      "zh": "（……在短时间内做到这些很困难）",
+      "vi": "(…Thật khó để làm được điều này trong thời gian ngắn)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro016",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro016|",
+      "ja": "（……ハンナは、<br>　自分には犯行をする【時間がない】と言っている）",
+      "zh": "（……汉娜声称<br>\n自己没有作案的【时间】）",
+      "vi": "(…Hanna tuyên bố Tôi không có [thời gian] để phạm tội)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro017",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro017|",
+      "ja": "（だが、本当にそうか？）",
+      "zh": "（但，真是如此吗？）",
+      "vi": "(Nhưng, có thực sự như vậy không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro018",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro018|",
+      "ja": "（刺繍以外にも、細工が出来た可能性は……ある）",
+      "zh": "（除了刺绣以外，还有可能动了其他手脚……）",
+      "vi": "(Ngoài thêu, các kỹ thuật khác có thể đã được sử dụng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro019",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro019|",
+      "ja": "……他のみんなは魔法を使う時に<br>力んだりはしないよ。",
+      "zh": "……其他人在使用魔法的时候，<br>\n并不会一副用力的样子。",
+      "vi": "...Khi người khác sử dụng phép thuật, Nó không có vẻ như đang dùng lực.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro020",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro020|",
+      "ja": "ハンナはこういう事態に備えて<br>最初から演技をしていた可能性がある。",
+      "zh": "汉娜为杀人做准备，<br>\n有可能从一开始就在演戏。",
+      "vi": "Hanna chuẩn bị giết người, Có thể là nó đã hành động ngay từ đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro021",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro021|",
+      "ja": "本当は……力まずとも魔法が使えたんじゃないか？",
+      "zh": "其实……你不用力也能使用魔法吧？",
+      "vi": "Thực ra...bạn có thể sử dụng phép thuật mà không cần dùng đến bất kỳ lực nào, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna012",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna012|",
+      "ja": "そんなことしてませんわ！",
+      "zh": "我才不会做那种事！",
+      "vi": "Bổn tiểu thư sẽ không làm bất cứ điều gì như vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna013",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna013|",
+      "ja": "そんな証拠もないことで<br>人を疑わないでください！",
+      "zh": "请不要无凭无据<br>\n怀疑别人！",
+      "vi": "Xin đừng vô căn cứ Nghi ngờ ngươi khác!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Sherry008",
+      "speaker_tag": "; > Sherry: |#0204Trial09_Sherry008|",
+      "ja": "……まあ、力む必要があるかないかは<br>当人にしか判断できませんよね。",
+      "zh": "……嗯，需不需要用力，<br>\n只有当事人自己能判断吧。",
+      "vi": "...Chà, bạn có cần dùng sức không? Chỉ có các bên liên quan mới có thể tự mình phán xét.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Alisa001",
+      "speaker_tag": "; > Alisa: |#0204Trial09_Alisa001|",
+      "ja": "そこを言い合ってもラチあかねーだろ。",
+      "zh": "争论这个也没用吧。",
+      "vi": "Không có ích gì khi tranh cãi về điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro022",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro022|",
+      "ja": "（ハンナが魔法を使ったタイミングについては<br>　わからずじまいだが……）",
+      "zh": "（虽然还是不知道<br>\n汉娜到底是什么时候用的魔法……）",
+      "vi": "(Mặc dù tôi vẫn không biết Hanna sử dụng phép thuật khi nào...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro023",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro023|",
+      "ja": "（アリサの言う通り、<br>　証拠もないことを議論しても無駄か……）",
+      "zh": "（但正如亚里沙说的，<br>\n讨论没有证据的事也无益……）",
+      "vi": "(Nhưng như Alisa đã nói, Thảo luận những điều không có bằng chứng là vô ích...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro024",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro024|",
+      "ja": "（……ハンナは、<br>　自分には犯行をする【時間がない】と言っている）",
+      "zh": "（……汉娜声称<br>\n自己没有作案的【时间】）",
+      "vi": "(…Hanna tuyên bố Tôi không có [thời gian] để phạm tội)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro025",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro025|",
+      "ja": "（だが、本当にそうか？）",
+      "zh": "（但，真是如此吗？）",
+      "vi": "(Nhưng, có thực sự như vậy không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro026",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro026|",
+      "ja": "（刺繍以外にも、細工が出来た可能性は……ある）",
+      "zh": "（除了刺绣以外，还有可能动了其他手脚……）",
+      "vi": "(Ngoài thêu, các kỹ thuật khác có thể đã được sử dụng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro027",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro027|",
+      "ja": "べつに君が取りに行く必要はなかったんだ。",
+      "zh": "你没有必要去拿礼服。",
+      "vi": "Bạn không cần phải nhặt chiếc váy lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna014",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna014|",
+      "ja": "ど、ど、どういうこと……ですの……？",
+      "zh": "这、这、这是……什么意思……？",
+      "vi": "Cái này, cái này, cái này... cái này có nghĩa là gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro028",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro028|",
+      "ja": "あらかじめドレスを持ってきていれば、<br>わざわざアトリエに取りに行くような時間は<br>かからない。",
+      "zh": "只要提前把礼服拿过来，<br>\n就不必特地再花时间去画室取来了。<br>",
+      "vi": "Chỉ cần mang váy đến trước nhé Không cần phải tốn thời gian đến studio để lấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Alisa002",
+      "speaker_tag": "; > Alisa: |#0204Trial09_Alisa002|",
+      "ja": "……ちょっと待てよ、二階堂。<br>それならウチが見た衣装はなんだってんだよ。",
+      "zh": "……等等，二阶堂。<br>\n那我看到的那件衣服又是怎么回事？",
+      "vi": "...Đợi đã, Nikaido. Thế còn chiếc váy Tao nhìn thấy thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Alisa003",
+      "speaker_tag": "; > Alisa: |#0204Trial09_Alisa003|",
+      "ja": "あのとき、アトリエにはあの衣装が飾ってあった……！<br>ウチは見てんだぞ……！",
+      "zh": "那时，画室里确实挂着那件衣服……！<br>\n我亲眼看到了……！",
+      "vi": "Quả thực chiếc váy đó lúc đó đang được treo ở studio...! Chính mắt Tao đã nhìn thấy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro029",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro029|",
+      "ja": "死体発見の直前、<br>アリサがアトリエで見たドレス……それは。",
+      "zh": "发现尸体前，<br>\n亚里沙在画室看到的那件礼服是……",
+      "vi": "Trước khi thi thể được phát hiện, Chiếc váy Alisa nhìn thấy ở studio là...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Choice004",
+      "speaker_tag": "; > @choice |#0204Trial09_Choice004|",
+      "ja": "偽物",
+      "zh": "假的",
+      "vi": "giả mạo",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Choice005",
+      "speaker_tag": "; > @choice |#0204Trial09_Choice005|",
+      "ja": "２着目",
+      "zh": "另一件",
+      "vi": "mặt hàng khác",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Choice006",
+      "speaker_tag": "; > @choice |#0204Trial09_Choice006|",
+      "ja": "見た時間が違った",
+      "zh": "看到礼服的时间不对",
+      "vi": "Đó là sai thời điểm để xem chiếc váy",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro030",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro030|",
+      "ja": "偽物だよ。",
+      "zh": "是假的。",
+      "vi": "Nó là giả.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro031",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro031|",
+      "ja": "かかっていたシーツか何かを<br>ドレスと見間違えたんだ。",
+      "zh": "你把挂着的床单之类的东西<br>\n错看成了礼服。",
+      "vi": "Bạn đặt những thứ như tấm treo Hãy nhầm nó là một chiếc váy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Alisa004",
+      "speaker_tag": "; > Alisa: |#0204Trial09_Alisa004|",
+      "ja": "いや近くで見たっての。",
+      "zh": "不，我看到的时候离得很近。",
+      "vi": "Không, Tao đã ở rất gần khi nhìn thấy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro032",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro032|",
+      "ja": "（見間違えではなかったか……）",
+      "zh": "（看来，不是看错了……）",
+      "vi": "(Có vẻ như tôi đã không nhìn nhầm...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro033",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro033|",
+      "ja": "（……思い出すんだ。<br>　ハンナがアトリエで作業をしていた時――）",
+      "zh": "（……快回忆起来。<br>\n汉娜在画室缝纫的时候——）",
+      "vi": "(...Hãy nhớ nhanh lên. Trong khi Hanna đang may vá trong xưởng——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro034",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro034|",
+      "ja": "（【布は大量に余っている】と言っていた）",
+      "zh": "（亲口说过【布料还剩了很多】）",
+      "vi": "(Tôi đã tự nói rồi [còn rất nhiều vải])",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro035",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro035|",
+      "ja": "（ドレスが完成したにもかかわらず、<br>　裁縫を続けていたということは、もしかしたら――）",
+      "zh": "（即使礼服已经完成，<br>\n她仍然还在缝纫，这或许意味着——）",
+      "vi": "(Ngay cả khi chiếc váy đã hoàn thành, Cô ấy vẫn đang may vá, điều đó có thể có nghĩa là -)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro036",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro036|",
+      "ja": "見た時間が違った可能性がある。",
+      "zh": "可能是记错了看到礼服的时间。",
+      "vi": "Có lẽ tôi nhớ nhầm lúc nhìn thấy chiếc váy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro037",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro037|",
+      "ja": "アリサがドレスを見たのは死体発見時刻より<br>もっと前なんじゃないか？",
+      "zh": "亚莉莎看到礼服的时间，会不会比发现尸体的时间<br>\n更早一些？",
+      "vi": "Phải chăng thời gian Alyssa nhìn thấy chiếc váy dài hơn thời điểm cô tìm thấy thi thể? Sớm hơn?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Alisa005",
+      "speaker_tag": "; > Alisa: |#0204Trial09_Alisa005|",
+      "ja": "いや時間は確認してた……。",
+      "zh": "不是，我有看表……",
+      "vi": "Không, Tao nhìn đồng hồ...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Alisa006",
+      "speaker_tag": "; > Alisa: |#0204Trial09_Alisa006|",
+      "ja": "ドレス見て……そういやおめえら、<br>ずいぶん長い時間出かけてんなと思ってさ。",
+      "zh": "看到礼服，我当时在想……说起来，<br>\n你们几个出门的时间也太长了。",
+      "vi": "Khi nhìn thấy chiếc váy, Tao đã nghĩ... Nhắc mới nhớ, Các mày đã ra ngoài lâu quá rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Alisa007",
+      "speaker_tag": "; > Alisa: |#0204Trial09_Alisa007|",
+      "ja": "だから時間のズレはねーはずだ。",
+      "zh": "所以时间应该没有错。",
+      "vi": "Vì vậy thời gian phải chính xác.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro038",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro038|",
+      "ja": "（アリサは証言に自信があるようだな……）",
+      "zh": "（亚里沙似乎对自己的证词很有自信……）",
+      "vi": "(Alisa có vẻ rất tự tin vào lời khai của mình...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro039",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro039|",
+      "ja": "（……思い出すんだ。<br>　ハンナがアトリエで作業をしていた時――）",
+      "zh": "（……快回忆起来。<br>\n汉娜在画室缝纫的时候——）",
+      "vi": "(...Hãy nhớ nhanh lên. Trong khi Hanna đang may vá trong xưởng——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro040",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro040|",
+      "ja": "（【布は大量に余っている】と言っていた）",
+      "zh": "（亲口说过【布料还剩了很多】）",
+      "vi": "(Tôi đã tự nói rồi [còn rất nhiều vải])",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro041",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro041|",
+      "ja": "（ドレスが完成したにもかかわらず、<br>　裁縫を続けていたということは、もしかしたら――）",
+      "zh": "（即使礼服已经完成，<br>\n她仍然还在缝纫，这或许意味着——）",
+      "vi": "(Ngay cả khi chiếc váy đã hoàn thành, Cô ấy vẫn đang may vá, điều đó có thể có nghĩa là -)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro042",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro042|",
+      "ja": "……簡単な話だよ。",
+      "zh": "……很简单。",
+      "vi": "...rất đơn giản.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro043",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro043|",
+      "ja": "衣装は……【２着】あったんだ。",
+      "zh": "礼服……有【两件】。",
+      "vi": "Có [hai] chiếc váy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna015",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna015|",
+      "ja": "う……ぐ……！？",
+      "zh": "呜……这……！？",
+      "vi": "Ôi...cái này...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro044",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro044|",
+      "ja": "予備か何か知らないが、<br>ハンナはあらかじめ衣装を２着作っていた。",
+      "zh": "不知道是备用的还是别的什么，<br>\n总之汉娜事先做好了两件礼服。",
+      "vi": "Tôi không biết đó là đồ dự phòng hay thứ gì khác, Dù sao thì Hanna cũng đã may trước hai chiếc váy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro045",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro045|",
+      "ja": "そして今回の事件のあと、<br>アトリエにあった衣装の方を処分したんだ。",
+      "zh": "然后在这次凶杀案发生后，<br>\n处理掉了画室里的那件。",
+      "vi": "Rồi sau vụ giết người, Đã vứt bỏ cái trong studio.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro046",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro046|",
+      "ja": "それならわざわざ持ち込む必要はないよ。",
+      "zh": "只要这样做，就不需要特意把衣服带进来了。",
+      "vi": "Chỉ cần làm như vậy là bạn không cần phải mang quần áo vào.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna016",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna016|",
+      "ja": "そんな……そんな……そんなこと……。",
+      "zh": "怎么……怎么……怎么会……",
+      "vi": "Làm sao... làm sao... làm sao có thể...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro047",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro047|",
+      "ja": "ハンナ、君が２人を――。",
+      "zh": "汉娜，你将她们两人——",
+      "vi": "Hanna, em đã ghép hai người họ lại với nhau—",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Sherry009",
+      "speaker_tag": "; > Sherry: |#0204Trial09_Sherry009|",
+      "ja": "……たしかに、状況からハンナさんが怪しいかもしれません。",
+      "zh": "……确实，从这些情况来看，汉娜也许有些可疑。",
+      "vi": "...Quả thực, xét theo tình huống này, Hanna có thể hơi nghi ngờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Sherry010",
+      "speaker_tag": "; > Sherry: |#0204Trial09_Sherry010|",
+      "ja": "ですがもし証拠が処分されてしまったのだとしたら、<br>【証拠はもう存在しない】ということでしょうか？",
+      "zh": "但如果证据已经被处理掉了，<br>\n那是否意味着【证据已经不存在了】呢？",
+      "vi": "Nhưng nếu bằng chứng đã được xử lý, Điều đó có nghĩa là [bằng chứng không còn tồn tại]?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hiro048",
+      "speaker_tag": "; > Hiro: |#0204Trial09_Hiro048|",
+      "ja": "それは……<br>まだどこかに残っているかもしれないが……。",
+      "zh": "这……<br>\n或许还能找到吧……",
+      "vi": "Cái này... Có lẽ bạn vẫn có thể tìm thấy nó...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna017",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna017|",
+      "ja": "……そ、そうですわ！",
+      "zh": "……对、对哇！",
+      "vi": "...Vâng, vâng!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna018",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna018|",
+      "ja": "仮にわたくしが犯人だとしても<br>証拠はありません……！",
+      "zh": "就算我是凶手，<br>\n你也没有证据……！",
+      "vi": "Ngay cả khi Bổn tiểu thư là kẻ sát nhân, Bạn cũng không có bằng chứng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna019",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna019|",
+      "ja": "……だってそんなのは当然です！<br>わたくしは犯人ではないんですから！！",
+      "zh": "……那是理所当然的！<br>\n因为我根本就不是凶手！！",
+      "vi": "...đó là điều hiển nhiên! Bởi vì Bổn tiểu thư hoàn toàn không phải là kẻ sát nhân! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna020",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna020|",
+      "ja": "証拠なんてないの！<br>どこにも！",
+      "zh": "根本没有证据！<br>\n哪里都没有！",
+      "vi": "Không có bằng chứng nào cả! Không ở đâu cả!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna021",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna021|",
+      "ja": "それでも犯人だと言うのなら、<br>やっぱりヒロさんが犯人なんだわ！",
+      "zh": "即使如此你还要坚持说我是凶手，<br>\n那果然凶手就是希罗你！",
+      "vi": "Dù vậy, bạn vẫn nhất quyết cho rằng Bổn tiểu thư là kẻ sát nhân, Vậy thì kẻ sát nhân quả thực là anh, Anh hùng!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna022",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna022|",
+      "ja": "あなたが……<br>わたくしを犯人にしようとしているのっ！",
+      "zh": "是你……<br>\n想把罪名推到我头上！",
+      "vi": "Đó là bạn... Anh muốn đổ lỗi cho Bổn tiểu thư à!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna023",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna023|",
+      "ja": "あなたが……悪いの……！",
+      "zh": "全是……你的错……！",
+      "vi": "Tất cả là...lỗi của anh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial09_Hanna024",
+      "speaker_tag": "; > Hanna: |#0204Trial09_Hanna024|",
+      "ja": "あなたさえ――いなければっ！",
+      "zh": "只要——没有你这个人就好了！",
+      "vi": "Miễn là--sẽ ổn thôi nếu không có bạn!",
+      "objection_links": []
+    }
+  ]
+}

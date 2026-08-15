@@ -1,0 +1,344 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Adv05",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Adv05' Naninovel scenario script",
+  "total_entries": 42,
+  "entries": [
+    {
+      "id": "Toast_111",
+      "speaker_tag": "; > @toast |#Toast_111|",
+      "ja": "最終章",
+      "zh": "",
+      "vi": "chương cuối cùng",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative001",
+      "speaker_tag": "",
+      "ja": "私の心は<ruby=\"な\">凪</ruby>いでいた。<br><ruby=\"かか\">掲</ruby>げていた儀礼剣の<ruby=\"きっさき\">切先</ruby>を、裁判所中央に向ける。",
+      "zh": "如今的我心如止水。<br>\n我高举仪礼剑，用剑尖指向审判庭中央。",
+      "vi": "Bây giờ lòng tôi tĩnh lặng như nước. Tôi giơ cao thanh kiếm nghi lễ của mình và chĩa mũi kiếm về phía giữa sân.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Hiro001",
+      "speaker_tag": "; > Hiro: |#0205Adv05_Hiro001|",
+      "ja": "（大魔女を召喚し、彼女を断罪する）",
+      "zh": "（召唤出大魔女，并审判她）",
+      "vi": "(Triệu hồi Phù thủy vĩ đại và phán xét cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Adv05_Hiro002|",
+      "ja": "（そして、私たちを呪いから解放してもらう……）",
+      "zh": "（然后，让她把我们从诅咒中解放出来……）",
+      "vi": "(Vậy hãy để cô ấy giải thoát chúng ta khỏi lời nguyền...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Adv05_Hiro003|",
+      "ja": "（君はずっと私たちの近くにいた。<br>　来るだろう、ユキ……？）",
+      "zh": "（你一直都在我们身边。<br>\n你会来的，对吧，小雪……？）",
+      "vi": "(Bạn luôn ở bên cạnh chúng tôi. Bạn sẽ đến phải không, Xiaoxue...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative002",
+      "speaker_tag": "",
+      "ja": "張り詰めた空気の中で、数秒の<ruby=\"とき\">刻</ruby>が経過した。",
+      "zh": "在紧绷的空气中，几秒钟过去了。",
+      "vi": "Vài giây trôi qua trong không khí căng thẳng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Coco001",
+      "speaker_tag": "; > Coco: |#0205Adv05_Coco001|",
+      "ja": "……ちょっと待て。<br>なんか……見られてる。<br>なんかヤベぇのキテる。",
+      "zh": "……等等。<br>\n感觉……有什么在看着我。<br>\n有什么不妙的东西要来了。",
+      "vi": "... và vân vân. Cảm giác như...có thứ gì đó đang theo dõi Coco. Có điều gì đó tồi tệ đang đến.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative003",
+      "speaker_tag": "",
+      "ja": "地鳴りのように深く、<br>鈍い音が微かにあたりに鳴り続けた。",
+      "zh": "低沉如地鸣般的闷响，<br>\n隐约地在四周响起。",
+      "vi": "Âm thanh trầm, bị bóp nghẹt như mặt đất rung chuyển, Xung quanh vang lên một âm thanh yếu ớt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative004",
+      "speaker_tag": "",
+      "ja": "――じわり、と裁判所の中央、<br>処刑台に赤黒い液体がにじむ。",
+      "zh": "——慢慢地，审判庭中央的<br>\n处刑台上渗出了赤黑色的液体。",
+      "vi": "---Từ từ, ở giữa tòa sơ thẩm Chất lỏng màu đỏ đen rỉ ra từ bục hành hình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Sherry001",
+      "speaker_tag": "; > Sherry: |#0205Adv05_Sherry001|",
+      "ja": "むむ。<br>あれ……血じゃありませんか？",
+      "zh": "唔唔。<br>\n那不是……血吗？",
+      "vi": "Ờ-huh. Đó không phải là... máu sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative005",
+      "speaker_tag": "",
+      "ja": "シェリーが虫眼鏡越しに遠くの液体を見つめた。",
+      "zh": "雪莉透过放大镜凝视着远处的液体。",
+      "vi": "Sherry nhìn qua kính lúp vào chất lỏng ở phía xa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative006",
+      "speaker_tag": "",
+      "ja": "その瞬間。",
+      "zh": "就在那一瞬间。",
+      "vi": "Vào lúc đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative007",
+      "speaker_tag": "",
+      "ja": "裁判所の中央に大穴が空いたかのように<br>とめどなく赤黒い液体があふれ出す。",
+      "zh": "审判庭中央像是被撕开了一个大洞，<br>\n赤黑色的液体源源不断地涌出。",
+      "vi": "Có vẻ như một cái hố lớn đã bị xé toạc ở giữa sân, Chất lỏng màu đỏ đen đổ ra liên tục.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Alisa001",
+      "speaker_tag": "; > Alisa: |#0205Adv05_Alisa001|",
+      "ja": "おいおいおい……！<br>なんだこれ聞いてねえぞ。",
+      "zh": "喂喂喂……！<br>\n这是什么鬼，没听说过啊！",
+      "vi": "Này này này...! Cái quái gì thế này? Tao chưa bao giờ nghe nói về nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative008",
+      "speaker_tag": "",
+      "ja": "血の柱が噴き上がった。",
+      "zh": "血柱喷涌而上。",
+      "vi": "Những cột máu bắn lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative009",
+      "speaker_tag": "",
+      "ja": "やがて液体は、<br><ruby=\"こうずい\">洪水</ruby>のように裁判所を満たし始めた。",
+      "zh": "不久，液体如同洪水般<br>\n开始充斥整个审判庭。",
+      "vi": "Chẳng mấy chốc, chất lỏng như lũ lụt bắt đầu lấp đầy toàn bộ phiên tòa xét xử.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Hanna001",
+      "speaker_tag": "; > Hanna: |#0205Adv05_Hanna001|",
+      "ja": "ちょちょちょっとこれ<br>ヤバいんじゃありませんこと！？",
+      "zh": "等、等等，这、<br>\n这样下去不妙吧！？",
+      "vi": "Đợi đã, chờ đã, cái này, Cứ tiếp tục như thế này là không tốt đâu! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Leia001",
+      "speaker_tag": "; > Leia: |#0205Adv05_Leia001|",
+      "ja": "だ、大丈夫。みんなのことは私が守る……！",
+      "zh": "没、没事的。我会保护大家的……！",
+      "vi": "Không, không sao đâu. Tôi sẽ bảo vệ mọi người...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative010",
+      "speaker_tag": "",
+      "ja": "少女たちが<ruby=\"せんりつ\">戦慄</ruby>する中、<br>やがて血色の<ruby=\"ふんすい\">噴水</ruby>は勢いを弱める。",
+      "zh": "少女们还在战栗不已，<br>\n终于血色喷泉的势头开始有了减弱的迹象。",
+      "vi": "Các cô gái vẫn còn run rẩy, Cuối cùng, đà của Blood Fountain bắt đầu có dấu hiệu suy yếu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_AnAn001",
+      "speaker_tag": "; > AnAn: |#0205Adv05_AnAn001|",
+      "ja": "……中に、誰かいる。",
+      "zh": "……里面，有个人。",
+      "vi": "...Có một người ở bên trong.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative011",
+      "speaker_tag": "",
+      "ja": "少しずつ弱まっていく血柱の隙間に、<br>何かの【<ruby=\"りんかく\">輪郭</ruby>】が<ruby=\"かいまみ\">垣間見</ruby>えた。",
+      "zh": "在逐渐减弱的血柱缝隙中，<br>\n隐约可见某种【轮廓】。",
+      "vi": "Trong khoảng trống của cột máu đang dần yếu đi, Một số loại [phác thảo] có thể được nhìn thấy một cách mơ hồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative012",
+      "speaker_tag": "",
+      "ja": "てらてらとぬめり輝く、<br>人ひとり分の大きさをした肉の<ruby=\"かたまり\">塊</ruby>だ。",
+      "zh": "那是一团闪着粘稠光泽、<br>\n约一人大小的肉块。",
+      "vi": "Đó là một khối dính, sáng bóng, Một miếng thịt có kích thước bằng một người.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Meruru001",
+      "speaker_tag": "; > Meruru: |#0205Adv05_Meruru001|",
+      "ja": "ああ……大魔女様。<br>やっと……。",
+      "zh": "啊啊……大魔女大人。<br>\n终于……",
+      "vi": "À... mụ phù thủy vĩ đại. Cuối cùng...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Meruru002",
+      "speaker_tag": "; > Meruru: |#0205Adv05_Meruru002|",
+      "ja": "――やっと、お会いできました。",
+      "zh": "——终于，与您相会了……！",
+      "vi": "--Cuối cùng cũng gặp được bạn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative013",
+      "speaker_tag": "",
+      "ja": "その瞬間。",
+      "zh": "就在那一刻。",
+      "vi": "Đó là vào thời điểm đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative014",
+      "speaker_tag": "",
+      "ja": "銃声が鳴り響いた。",
+      "zh": "枪声骤然响起。",
+      "vi": "Tiếng súng chợt vang lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative015",
+      "speaker_tag": "",
+      "ja": "<ruby=\"にくかい\">肉塊</ruby>に弾丸が迫り<br>しかし空中で火花となって消える。",
+      "zh": "子弹射向肉块，<br>\n却在空中化作火花，凭空消失了。",
+      "vi": "Đạn bắn vào từng miếng thịt, Nhưng nó biến thành tia lửa trong không khí và biến mất trong không khí loãng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0205Adv05_Nanoka001|",
+      "ja": "……！<br>弾が、空中で燃えた？",
+      "zh": "……！<br>\n子弹在空中燃尽了？",
+      "vi": "...! Đạn cháy trong không khí?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Miria001",
+      "speaker_tag": "; > Miria: |#0205Adv05_Miria001|",
+      "ja": "ちょ、ちょっとやめなよ！<br>何されるかわからないから！<br>お、おじさん怖くてもう無理！！",
+      "zh": "等、等等，别乱来啊！<br>\n那东西不知道会对我们做什么！<br>\n大、大叔我受不了了，好可怕！！",
+      "vi": "Đợi đã, chờ đã, đừng lộn xộn! Không thể biết được thứ đó sẽ làm gì với chúng ta! Bác ơi, cháu không thể chịu đựng được nữa, đáng sợ quá! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Unknown001",
+      "speaker_tag": "; > Unknown: |#0205Adv05_Unknown001|",
+      "ja": "これは、魔女たちが流した血。",
+      "zh": "这是魔女们流的血。",
+      "vi": "Đây là máu của phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Unknown002",
+      "speaker_tag": "; > Unknown: |#0205Adv05_Unknown002|",
+      "ja": "これからも蒔き続ける<br>私たちの種子……魔女の因子です。",
+      "zh": "也是我们将继续播下的种子……<br>\n魔女的因子。",
+      "vi": "Đó cũng là hạt giống mà chúng ta sẽ tiếp tục gieo... Yếu tố Ma Nữ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Noah001",
+      "speaker_tag": "; > Noah: |#0205Adv05_Noah001|",
+      "ja": "なにか、しゃべってる？",
+      "zh": "有什么东西在说话？",
+      "vi": "Có cái gì đó đang nói chuyện?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative016",
+      "speaker_tag": "",
+      "ja": "ノアが尋ねるとともに……。",
+      "zh": "随着诺亚一句疑问……",
+      "vi": "Sau câu hỏi của Nô-ê...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative017",
+      "speaker_tag": "",
+      "ja": "肉塊がまとう血液が、<br>おびただしい量の紅い蝶となり剝がれていく。",
+      "zh": "包裹着肉块的血液，<br>\n忽地化作铺天盖地的红蝶剥落下来。",
+      "vi": "Máu dính đầy thịt, Đột nhiên nó biến thành một con bướm đỏ choáng ngợp lột xác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Margo001",
+      "speaker_tag": "; > Margo: |#0205Adv05_Margo001|",
+      "ja": "あれが大魔女……。<br>ずいぶん、かわいらしいのね。",
+      "zh": "那就是大魔女……<br>\n长得还挺可爱的嘛。",
+      "vi": "Đó là mụ phù thủy lớn... Cô ấy trông khá dễ thương.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative018",
+      "speaker_tag": "",
+      "ja": "私は横目でエマの顔を見る。",
+      "zh": "我偷偷瞥了眼身旁的艾玛。",
+      "vi": "Tôi lén liếc nhìn Ema bên cạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Ema001",
+      "speaker_tag": "; > Ema: |#0205Adv05_Ema001|",
+      "ja": "……ユキ……ちゃん。",
+      "zh": "……小……雪。",
+      "vi": "...nhỏ...tuyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative019",
+      "speaker_tag": "",
+      "ja": "再会できた……けれど信じたくない。<br>そんな<ruby=\"かっとう\">葛藤</ruby>の表情を顔に浮かべつつ、<br>エマは微かに旧友の名前を呼んでいた。",
+      "zh": "终于重逢……却又不愿相信。<br>\n艾玛脸上浮现出复杂纠葛的神情，<br>\n轻轻唤出旧友的名字。",
+      "vi": "Cuối cùng chúng ta cũng gặp lại nhau...nhưng tôi không muốn tin vào điều đó. Vẻ mặt phức tạp và vướng víu hiện lên trên khuôn mặt Ema, Nhẹ nhàng gọi tên người bạn cũ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Yuki001",
+      "speaker_tag": "; > Yuki: |#0205Adv05_Yuki001|",
+      "ja": "私の復活はすなわち絶望……<br>何を期待していたのですか？",
+      "zh": "我的复活，即意味着绝望……<br>\n你们到底在指望什么呢？",
+      "vi": "Sự hồi sinh của tôi đồng nghĩa với sự tuyệt vọng... Bạn đang trông cậy vào cái quái gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Yuki002",
+      "speaker_tag": "; > Yuki: |#0205Adv05_Yuki002|",
+      "ja": "良い結末などありえません。",
+      "zh": "不可能会有好结局的。",
+      "vi": "Nó không thể kết thúc tốt đẹp.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Narrative020",
+      "speaker_tag": "",
+      "ja": "大魔女――ユキが笑う。",
+      "zh": "大魔女——雪，嫣然一笑。",
+      "vi": "Đại Ma Nữ—Xue, mỉm cười ngọt ngào.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Adv05_Yuki003",
+      "speaker_tag": "; > Yuki: |#0205Adv05_Yuki003|",
+      "ja": "さあ、共犯者になりましょう。",
+      "zh": "来吧，成为我的共犯吧。",
+      "vi": "Hãy đến và trở thành đồng phạm của tôi.",
+      "objection_links": []
+    }
+  ]
+}

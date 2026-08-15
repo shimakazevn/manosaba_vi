@@ -1,0 +1,264 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Adv28",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Adv28' Naninovel scenario script",
+  "total_entries": 32,
+  "entries": [
+    {
+      "id": "0101Adv28_Narrative001",
+      "speaker_tag": "",
+      "ja": "ラウンジには、<br>エマにとって大きく気になっていることが１つあった。",
+      "zh": "会客厅里有一个地方，<br>\n令艾玛非常非常地在意。",
+      "vi": "Có một chỗ trong phòng khách, Ema rất, rất lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Ema001",
+      "speaker_tag": "; > Ema: |#0101Adv28_Ema001|",
+      "ja": "（壁にかけられていたボウガンが盗まれた……<br>　一体誰が、いつ……？）",
+      "zh": "（挂在墙壁上的弩枪被人偷走了……<br>\n究竟是谁，在什么时候偷走的……？）",
+      "vi": "(Cái Nỏ Săn treo trên tường đã bị đánh cắp... Ai đã lấy trộm nó và khi nào...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative002",
+      "speaker_tag": "",
+      "ja": "壁の前に立ち、<br>エマはうーんと<ruby=\"うな\">唸</ruby>る。",
+      "zh": "艾玛站在会客厅的墙壁前<br>\n思索着这个问题。",
+      "vi": "Ema đứng trước bức tường phòng khách Đang suy nghĩ về câu hỏi này.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative003",
+      "speaker_tag": "",
+      "ja": "すると、ラウンジにナノカが入ってきた。",
+      "zh": "这时，奈叶香进来了。",
+      "vi": "Lúc này, Nanoyexiang bước vào.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Sherry001",
+      "speaker_tag": "; > Sherry: |#0101Adv28_Sherry001|",
+      "ja": "あ、ナノカさん。<br>ナノカさんも調査中ですか？",
+      "zh": "啊，奈叶香你好。<br>\n你也在调查案件吗？",
+      "vi": "À, xin chào Nanoyaka. Bạn cũng đang điều tra vụ án à?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0101Adv28_Nanoka001|",
+      "ja": "……別に。",
+      "zh": "……你管我。",
+      "vi": "...Bạn chăm sóc tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative004",
+      "speaker_tag": "",
+      "ja": "その冷たい言い方に、<br>むっと<ruby=\"ほお\">頬</ruby>を膨らませたのはハンナだ。",
+      "zh": "听到奈叶香冷淡的回应，<br>\n汉娜有些生气地鼓起了嘴。",
+      "vi": "Nghe câu trả lời lạnh lùng của Nanoyaka, Hanna phồng miệng giận dữ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Hanna001",
+      "speaker_tag": "; > Hanna: |#0101Adv28_Hanna001|",
+      "ja": "別にってあなた、<br>人が１人死んでるのに、その態度はないんじゃないかしら。",
+      "zh": "什么叫“你管我”，<br>\n现在可是死了人欸？你这是什么态度。",
+      "vi": "\"Bạn quan tâm đến Bổn tiểu thư\" nghĩa là gì? Bây giờ anh ấy đã chết chưa? Thái độ của bạn là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0101Adv28_Nanoka002|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative005",
+      "speaker_tag": "",
+      "ja": "特に<ruby=\"にら\">睨</ruby>まれているわけでもない。<br>しかしハンナは、一歩後ずさっていた。",
+      "zh": "奈叶香并未投去冰冷的眼神，<br>\n可是汉娜却不禁后退了一步。",
+      "vi": "Nanoyaka không hề tỏ ra lạnh lùng, Nhưng Hanna không thể không lùi lại một bước.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative006",
+      "speaker_tag": "",
+      "ja": "彼女からは迫力も恐怖も感じないのに、<br>話しかけたことを後悔する何かを持っている。",
+      "zh": "明明没有她身上感受到压迫感，明明没有感觉她可怕，<br>\n可汉娜却感觉有些后悔跟她讲话。",
+      "vi": "Rõ ràng là tôi không cảm thấy áp lực với cô ấy, tôi không nghĩ cô ấy đáng sợ, Nhưng Hanna cảm thấy hơi hối hận khi nói chuyện với cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative007",
+      "speaker_tag": "",
+      "ja": "まるで、踏み入れたら戻れない闇に<br>引き込まれそうな何か――。",
+      "zh": "那是一种不可言说的感觉，<br>\n就好像一旦触碰，就会吸入其中无法挣脱的，深渊般的感觉——",
+      "vi": "Đó là một cảm giác khó tả, Như thể một khi chạm vào nó, bạn sẽ hít phải cảm giác như vực thẳm mà bạn không thể thoát ra——",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative008",
+      "speaker_tag": "",
+      "ja": "エマはナノカにそんな印象を抱きつつも、<br>覚悟を決めて質問を口にする。",
+      "zh": "尽管在奈叶香身上感受到了这种感觉，<br>\n可艾玛还是下定了决心，发起提问。",
+      "vi": "Mặc dù tôi cảm nhận được cảm giác này ở Nanoyaka, Nhưng Ema vẫn hạ quyết tâm và đặt câu hỏi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Ema002",
+      "speaker_tag": "; > Ema: |#0101Adv28_Ema002|",
+      "ja": "あ、あのさ、ナノカちゃん、<br>ラウンジからボウガンが盗まれたって言ってたよね。",
+      "zh": "奈叶香，我有事问你，<br>\n你之前说有人偷了会客厅的弩枪，对吗？",
+      "vi": "Nanoyaka, tôi có chuyện muốn hỏi bạn, Lúc trước cậu nói có người lấy trộm Nỏ Săn trong phòng khách phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0101Adv28_Nanoka003|",
+      "ja": "だからなに。",
+      "zh": "那又怎么了。",
+      "vi": "Vậy thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative009",
+      "speaker_tag": "",
+      "ja": "暗く<ruby=\"うろん\">胡乱</ruby>げな瞳で見つめられ、<br>エマはごくりと喉を鳴らす。",
+      "zh": "艾玛被她用充满疑心的阴暗眼神盯着，<br>\n不禁吞了吞口水。",
+      "vi": "Ema bị cô ấy nhìn chằm chằm với đôi mắt đen đầy nghi ngờ, Anh không khỏi nuốt nước miếng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Ema003",
+      "speaker_tag": "; > Ema: |#0101Adv28_Ema003|",
+      "ja": "ずっとボウガンのこと、気にしてたのかなって。",
+      "zh": "因为我看你一直很关心弩枪的问题。",
+      "vi": "Vì tôi thấy bạn luôn quan tâm đến vấn đề Nỏ Săn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0101Adv28_Nanoka004|",
+      "ja": "この牢屋敷で身を守るために、武器は必要。",
+      "zh": "为了在这座监牢保命，武器是必需的。",
+      "vi": "Để sống sót trong Ngục Dinh Thự này, vũ khí là cần thiết.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0101Adv28_Nanoka005|",
+      "ja": "あんなにわかりやすく飾ってあったら、<br>みんな気にしていたと思うけれど。",
+      "zh": "弩枪摆在那么明显的地方，<br>\n我想大家肯定都多少在意过这事。",
+      "vi": "Nỏ Săn được đặt ở nơi dễ thấy như vậy, Tôi nghĩ mọi người chắc hẳn đã quan tâm đến điều này ở một mức độ nào đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0101Adv28_Nanoka006|",
+      "ja": "話は終わり？",
+      "zh": "话讲完了？",
+      "vi": "Nói chuyện xong chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative010",
+      "speaker_tag": "",
+      "ja": "ナノカは既に去ろうとしていたが、<br>シェリーがその前に立ちはだかる。",
+      "zh": "奈叶香正打算离开，<br>\n而雪莉这时却拦住她的去路。",
+      "vi": "Nanoyaka sắp rời đi, Nhưng lúc này Sherry đã chặn đường cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Sherry002",
+      "speaker_tag": "; > Sherry: |#0101Adv28_Sherry002|",
+      "ja": "もうひとつ聞かせてください！<br>――ナノカさんの魔法ってなんでしょう？",
+      "zh": "还有一件事要问你！<br>\n——你的魔法是什么？",
+      "vi": "Còn một điều nữa muốn hỏi bạn! ---Phép thuật của bạn là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Nanoka007",
+      "speaker_tag": "; > Nanoka: |#0101Adv28_Nanoka007|",
+      "ja": "……言う必要はないわ。",
+      "zh": "……没必要告诉你。",
+      "vi": "...Không cần phải nói với bạn đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Sherry003",
+      "speaker_tag": "; > Sherry: |#0101Adv28_Sherry003|",
+      "ja": "そんなこと仰らず！<br>私、みんなの魔法が気になって仕方ないんです～！",
+      "zh": "别这样说嘛！<br>\n我超在意大家会用什么魔法的～！",
+      "vi": "Đừng nói thế! Tôi thực sự quan tâm đến phép thuật mà mọi người sử dụng~!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative011",
+      "speaker_tag": "",
+      "ja": "シェリーが拝むように言うも、ナノカは教える気がなさそうだ。<br>横をするりと通り抜けていった。",
+      "zh": "不管雪莉怎样恳求，奈叶香都不愿意回答，<br>\n打算径直离开。",
+      "vi": "Dù Sherry có cầu xin thế nào đi chăng nữa, Nanoyaka cũng không sẵn lòng trả lời, Lên kế hoạch rời đi trực tiếp.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Sherry004",
+      "speaker_tag": "; > Sherry: |#0101Adv28_Sherry004|",
+      "ja": "ナノカさんはいかにも怪しいですし、孤立もしています。<br>最悪【魔女】にされてしまいますよ？",
+      "zh": "奈叶香你也太可疑了，还一直当一匹孤狼。<br>\n最坏的情况下，你会被别人当作【魔女】哦？",
+      "vi": "Nanoyaka, anh quá đa nghi và hành động như một con sói đơn độc. Trong trường hợp xấu nhất, bạn sẽ bị người khác coi là [phù thủy] phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative012",
+      "speaker_tag": "",
+      "ja": "シェリーは笑顔のまま、<br>不穏なことを口にした。",
+      "zh": "雪莉脸上保持着微笑，<br>\n嘴上却说出了吓人的话。",
+      "vi": "Sherry vẫn giữ nụ cười trên môi, Nhưng những lời đáng sợ phát ra từ miệng anh ta.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Ema004",
+      "speaker_tag": "; > Ema: |#0101Adv28_Ema004|",
+      "ja": "シェ、シェリーちゃん！？",
+      "zh": "雪、雪莉！？",
+      "vi": "Yuki、Sherry！？",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative013",
+      "speaker_tag": "",
+      "ja": "ナノカの足がピタと止まった。",
+      "zh": "奈叶香止住了脚步。",
+      "vi": "Nanoyaka dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Nanoka008",
+      "speaker_tag": "; > Nanoka: |#0101Adv28_Nanoka008|",
+      "ja": "魔女にしたければ、すればいい。<br>――どうせみんな死ぬんだから。",
+      "zh": "当成魔女又怎样，随便你们。<br>\n——反正最后大家都会死。",
+      "vi": "Việc bạn có trở thành phù thủy hay không cũng không thành vấn đề, điều đó tùy thuộc vào bạn. ---Dù sao thì cuối cùng mọi người cũng sẽ chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Ema005",
+      "speaker_tag": "; > Ema: |#0101Adv28_Ema005|",
+      "ja": "（え……？<br>　それって、どういう意味……？）",
+      "zh": "（欸……？<br>\n那是什么意思……？）",
+      "vi": "(Ơ...? Điều đó có nghĩa là gì...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv28_Narrative014",
+      "speaker_tag": "",
+      "ja": "エマが振り返ると、ナノカの姿はもうなかった。<br><ruby=\"はくちゅうむ\">白昼夢</ruby>でも見たかのように。",
+      "zh": "艾玛转过头来，但已不见奈叶香的身影，<br>\n就好像刚刚的一切都是幻觉似的。",
+      "vi": "Ema quay đầu lại, nhưng Nanoyexiang không còn ở đó nữa, Cứ như thể mọi thứ vừa rồi chỉ là ảo ảnh.",
+      "objection_links": []
+    }
+  ]
+}

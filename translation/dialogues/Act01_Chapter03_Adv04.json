@@ -1,0 +1,576 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter03_Adv04",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter03/Act01_Chapter03_Adv04' Naninovel scenario script",
+  "total_entries": 71,
+  "entries": [
+    {
+      "id": "0103Adv04_Narrative001",
+      "speaker_tag": "",
+      "ja": "その日の朝、エマは久しぶりに気分よく目覚めた。",
+      "zh": "那天早晨，艾玛难得地感觉精神焕发。",
+      "vi": "Sáng hôm đó, Ema cảm thấy sảng khoái lạ thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema001",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema001|",
+      "ja": "（熱が下がったのかも……！<br>　いつもより体が軽い）",
+      "zh": "（好像退烧了……！<br>\n身体比平时轻松多了）",
+      "vi": "(Cơn sốt có vẻ đã giảm...! Cơ thể tôi cảm thấy thoải mái hơn nhiều so với bình thường)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative002",
+      "speaker_tag": "",
+      "ja": "エマはすぐにシェリー、ハンナ、メルルに<br>チャットを送った。",
+      "zh": "艾玛立刻给雪莉、汉娜和梅露露<br>\n发送消息。",
+      "vi": "Ema ngay lập tức đưa Sherry, Hanna và Meruru Gửi tin nhắn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative003",
+      "speaker_tag": "",
+      "ja": "『元気になったよ！』",
+      "zh": "『我病已经好了！』",
+      "vi": "\"Tôi đã khỏi bệnh rồi!\" 』",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative004",
+      "speaker_tag": "",
+      "ja": "『今日こそピクニックに行こう！』",
+      "zh": "『今天终于可以去野餐了！』",
+      "vi": "\"Cuối cùng thì hôm nay tôi cũng có thể đi dã ngoại!\" 』",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative005",
+      "speaker_tag": "",
+      "ja": "３人からはすぐにＯＫの返事が返ってきて、<br>エマは笑顔になって、通路の方へ出た。",
+      "zh": "三人很快就回复了同意，<br>\n艾玛带着笑容走向过道。",
+      "vi": "Ba người họ phản ứng nhanh chóng và đồng ý, Ema bước xuống lối đi với nụ cười trên môi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru001",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru001|",
+      "ja": "あ、エマさん。おはようございます。<br>元気になって良かったです……。",
+      "zh": "啊，艾玛小姐。早上好。<br>\n太好了，你终于康复了……",
+      "vi": "À, cô Ema. Chào buổi sáng. Tuyệt vời, cuối cùng bạn cũng đã hồi phục...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema002",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema002|",
+      "ja": "メルルちゃんおはよう！<br>たくさん心配かけちゃってごめんね。",
+      "zh": "梅露露早上好！<br>\n让大家这么担心真是对不起。",
+      "vi": "Chào buổi sáng Meruru! Tôi thực sự xin lỗi vì đã khiến mọi người phải lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema003",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema003|",
+      "ja": "これから朝食に行くの？",
+      "zh": "你这是要去吃早餐吗？",
+      "vi": "Bạn có định ăn sáng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru002",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru002|",
+      "ja": "あ、いえ。ピクニックを決行するとのことなので、<br>お弁当を作りに医務室へ……。",
+      "zh": "啊，不是的。既然决定要野餐了，<br>\n我正要去医务室准备便当……",
+      "vi": "À, không. Bây giờ chúng ta đã quyết định đi dã ngoại, Tôi đến bệnh xá chuẩn bị bữa trưa...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema004",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema004|",
+      "ja": "えっ、医務室でお弁当って作れるの？",
+      "zh": "欸？能在医务室做便当吗？",
+      "vi": "Hả? Tôi có thể nấu bữa trưa ở bệnh xá được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema005",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema005|",
+      "ja": "食堂のアレをバスケットに詰めるのかなって<br>思ってたんだけど。",
+      "zh": "我还以为是<br>\n要把食堂的那个装进篮子里呢。",
+      "vi": "Tôi tưởng đó là Tôi cần bỏ cái ở Nhà Ăn vào giỏ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru003",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru003|",
+      "ja": "えっと……牢屋敷の外には野草やハーブが<br>たくさんあります、よね……色々採取しておいたんです。",
+      "zh": "那个……监牢外面长着很多野草和香草……<br>\n我已经采集了一些。",
+      "vi": "Rằng... có rất nhiều cỏ dại và thảo dược mọc bên ngoài Ngục Dinh Thự... Tôi đã thu thập được một số.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru004",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru004|",
+      "ja": "森の方まで行けば、キノコや木の実もあるんですよ。<br>キノコは気をつけないといけませんけど……。",
+      "zh": "如果去森林那边，还能找到蘑菇和野果。<br>\n不过采蘑菇的时候要特别小心……",
+      "vi": "Nếu đi vào rừng còn có thể tìm thấy nấm và trái cây rừng. Nhưng hãy hết sức cẩn thận khi hái nấm...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema006",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema006|",
+      "ja": "へええ……！ 知らなかった……！",
+      "zh": "欸……！之前我都不知道……！",
+      "vi": "Hừ...! Trước đây tôi không biết điều đó...!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru005",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru005|",
+      "ja": "食堂でいつも食べているものじゃ、<br>寂しいかなと思ったんです。",
+      "zh": "我觉得<br>\n如果总是吃食堂的东西会很单调。",
+      "vi": "Tôi nghĩ Sẽ thật nhàm chán nếu bạn luôn ăn đồ ăn từ Nhà Ăn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru006",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru006|",
+      "ja": "少しでもみんなに、笑顔になってほしいんです。<br>私にできることなんて、これくらいで……。",
+      "zh": "我希望能让大家露出哪怕一点笑容。<br>\n这是我唯一能做到的事了……",
+      "vi": "Tôi hy vọng nó sẽ mang lại nụ cười trên khuôn mặt của mọi người. Đây là điều duy nhất tôi có thể làm...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema007",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema007|",
+      "ja": "メルルちゃんは優しいね……。",
+      "zh": "梅露露真是温柔啊……",
+      "vi": "Meruru thật dịu dàng...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative006",
+      "speaker_tag": "",
+      "ja": "エマに言われて照れくさそうに<ruby=\"ほほ\">頬</ruby>を染めたメルルだったが、<br>すぐに眉が下がっていた。",
+      "zh": "听到艾玛的夸奖，梅露露害羞地脸红了，<br>\n但很快又露出忧虑的神色。",
+      "vi": "Nghe lời khen của Ema, ​​Meruru ngượng ngùng đỏ mặt, Nhưng ngay sau đó anh lại tỏ ra lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru007",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru007|",
+      "ja": "きっと、ナノカさんもそういったもので<br>生活しているのじゃないでしょうか……。",
+      "zh": "奈叶香小姐应该也是靠这些食物<br>\n维持生活吧……",
+      "vi": "Cô Nanoyaka cũng nên dựa vào những thực phẩm này Cứ sống tiếp đi...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru008",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru008|",
+      "ja": "お腹を空かせているんじゃないかと、<br>とっても心配です……。",
+      "zh": "我很担心<br>\n她会不会挨饿……",
+      "vi": "Tôi lo lắng Liệu cô ấy có chết đói không...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema008",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema008|",
+      "ja": "（そうだよね……ナノカちゃんは行方不明のまま……。<br>　どうして見つからないんだろう？）",
+      "zh": "（是啊……奈叶香还是下落不明……<br>\n为什么一直找不到她呢？）",
+      "vi": "(Đúng vậy... Nanoyaka vẫn đang mất tích... Tại sao cô ấy không thể được tìm thấy? )",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru009",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru009|",
+      "ja": "外で生活していたら、辛いと思います……。",
+      "zh": "一直在外面生活，一定很辛苦吧……",
+      "vi": "Chắc hẳn cuộc sống bên ngoài sẽ rất khó khăn...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema009",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema009|",
+      "ja": "ナノカちゃんのことも探さないとね。<br>実はもう脱獄できてるとかならいいんだけど……。",
+      "zh": "我们也得继续寻找奈叶香。<br>\n要是她已经成功越狱就好了……",
+      "vi": "Chúng ta cũng phải tiếp tục tìm kiếm Nanoha. Giá như cô có thể trốn thoát khỏi Ngục Dinh Thự...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative007",
+      "speaker_tag": "",
+      "ja": "エマとメルルは話しながら、<br>医務室へと向かい始めた。",
+      "zh": "艾玛和梅露露一边交谈，<br>\n一边朝医务室走去。",
+      "vi": "Ema và Meruru đang nói chuyện, Khi đang đi về phía bệnh xá.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative008",
+      "speaker_tag": "",
+      "ja": "医務室に入ると――そこには、先客がいた。",
+      "zh": "走进医务室时——里面已经有人在了。",
+      "vi": "Khi tôi bước vào bệnh xá - đã có người ở đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative009",
+      "speaker_tag": "",
+      "ja": "アリサが薬品棚の前にうずくまり、ごそごそと荒らしていた。<br>その足元には、様々な薬品のビンが散らばっている。",
+      "zh": "亚里沙正蹲在药品柜前翻找着什么，<br>\n各种药瓶散落在她的脚边。",
+      "vi": "Alisa đang ngồi xổm trước tủ thuốc, lục lọi tìm thứ gì đó, Nhiều chai thuốc khác nhau nằm rải rác dưới chân cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Alisa001",
+      "speaker_tag": "; > Alisa: |#0103Adv04_Alisa001|",
+      "ja": "！",
+      "zh": "！",
+      "vi": "！",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative010",
+      "speaker_tag": "",
+      "ja": "エマとメルルが入ってきたことに気付き、<br>アリサは気まずそうに全身を強張らせる。",
+      "zh": "发现艾玛和梅露露进来，<br>\n亚里沙浑身僵硬，一脸尴尬。",
+      "vi": "Tôi thấy Ema và Meruru đang đi vào, Alisa cứng người và trông xấu hổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema010",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema010|",
+      "ja": "アリサちゃん……一体、何を……？",
+      "zh": "亚里沙……你这是在做什么……？",
+      "vi": "Alisa...cậu đang làm gì vậy...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Alisa002",
+      "speaker_tag": "; > Alisa: |#0103Adv04_Alisa002|",
+      "ja": "関係ねーだろ！！",
+      "zh": "关你什么事！！",
+      "vi": "Không phải việc của mày! !",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative011",
+      "speaker_tag": "",
+      "ja": "突っぱねながらも、<br>アリサはずかずかとメルルの方へと歩み寄ってくる。",
+      "zh": "虽然态度强硬，<br>\n但亚里沙还是大步朝梅露露走去。",
+      "vi": "Mặc dù thái độ của anh ấy rất cứng rắn, Nhưng Alisa vẫn sải bước về phía Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Alisa003",
+      "speaker_tag": "; > Alisa: |#0103Adv04_Alisa003|",
+      "ja": "氷上――例のブツはどこだよ？",
+      "zh": "冰上——那个东西在哪里？",
+      "vi": "Trên băng – thứ đó ở đâu?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema011",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema011|",
+      "ja": "（例のブツ……？）",
+      "zh": "（那个东西……？）",
+      "vi": "(Thứ đó...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru010",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru010|",
+      "ja": "……わ、渡せません……。",
+      "zh": "……不、不能给你……",
+      "vi": "...Không, tôi không thể đưa nó cho bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Alisa004",
+      "speaker_tag": "; > Alisa: |#0103Adv04_Alisa004|",
+      "ja": "ああん！？ おめえ、逆らうつもりかよ！！",
+      "zh": "啊啊？！你是想违抗我吗！！",
+      "vi": "À? ! Bạn đang cố gắng không vâng lời Tao? !",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative012",
+      "speaker_tag": "",
+      "ja": "アリサはメルルの胸倉を<ruby=\"つか\">掴</ruby>んですごむ。<br>その様子はどこか必死に見えた。",
+      "zh": "亚里沙抓住梅露露的衣领威胁道。<br>\n她的样子看起来异常急切。",
+      "vi": "Alisa nắm lấy cổ áo Meruru và đe dọa. Cô ấy trông vô cùng háo hức.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema012",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema012|",
+      "ja": "は、話が見えないんだけど、<br>乱暴なことはやめて！！",
+      "zh": "虽、虽然不知道发生了什么，<br>\n但请不要使用暴力！！",
+      "vi": "Mặc dù, mặc dù tôi không biết chuyện gì đã xảy ra, Nhưng xin đừng dùng bạo lực! !",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Alisa005",
+      "speaker_tag": "; > Alisa: |#0103Adv04_Alisa005|",
+      "ja": "チッ……。",
+      "zh": "啧……",
+      "vi": "Chậc…",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative013",
+      "speaker_tag": "",
+      "ja": "アリサはメルルをパッと離し、<br>逃げるように早足で、医務室を出ていった。",
+      "zh": "亚里沙猛地松开梅露露，<br>\n快步逃离了医务室。",
+      "vi": "Alisa đột nhiên buông Meluru ra, Anh nhanh chóng trốn khỏi bệnh xá.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru011",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru011|",
+      "ja": "けほ……けほけほっ",
+      "zh": "咳咳……咳咳咳……",
+      "vi": "Khụ khụ khụ khụ khụ khụ khụ khụ",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema013",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema013|",
+      "ja": "メルルちゃん、大丈夫！？",
+      "zh": "梅露露，你没事吧！？",
+      "vi": "Meruru, cậu ổn chứ? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative014",
+      "speaker_tag": "",
+      "ja": "その場に膝をついたメルルの背中をエマが<ruby=\"な\">撫</ruby>でる。<br>メルルは、哀しそうに眉を下げていた。",
+      "zh": "艾玛轻抚着跪倒在地上的梅露露的背。<br>\n梅露露的眉头紧锁，露出悲伤的表情。",
+      "vi": "Ema nhẹ nhàng vuốt ve lưng Meruru đang quỳ trên mặt đất. Meruru nhíu mày, lộ ra vẻ mặt buồn bã.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema014",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema014|",
+      "ja": "メルルちゃん、あの……<br>アリサちゃんと、何かあったの……？",
+      "zh": "梅露露，那个……<br>\n亚里沙是不是和你起了什么冲突……？",
+      "vi": "Meruru, cái đó... Alisa có mâu thuẫn gì với cậu không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative015",
+      "speaker_tag": "",
+      "ja": "メルルは<ruby=\"しゅんじゅん\">逡巡</ruby>していたが、<br>やがてぽつりぽつりと語りだした。",
+      "zh": "梅露露犹豫了一会，<br>\n终于缓缓开口。",
+      "vi": "Meruru do dự một lúc, Cuối cùng anh chậm rãi nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru012",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru012|",
+      "ja": "……ここに捕まってすぐ、<br>アリサさんが眠れないって訴えてきたんです。",
+      "zh": "……刚被关进来的时候，<br>\n亚里沙小姐说她睡不着觉。",
+      "vi": "…Khi tôi mới bị cầm tù, Alisa nói cô ấy không thể ngủ được.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru013",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru013|",
+      "ja": "薬品棚に精神安定剤や睡眠薬があったので、<br>いくつかお渡ししたのですが……<br>どうやらアリサさんは大量服用しているみたいで……。",
+      "zh": "因为药品柜里有镇定剂和安眠药，<br>\n我就给了她一些……<br>\n但是亚里沙小姐似乎有过量服药的情况……",
+      "vi": "Vì trong tủ thuốc có thuốc an thần và thuốc ngủ nên Tôi đã đưa cho cô ấy một ít... Nhưng Alisa-san có vẻ đã dùng quá liều…",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema015",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema015|",
+      "ja": "大量服用……それって良くないよね……。",
+      "zh": "过量用药……这样很危险呢……",
+      "vi": "Dùng quá liều rất nguy hiểm...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru014",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru014|",
+      "ja": "は、はい。すぐに薬を切らしてしまって、<br>次から次にほしいと……。<br>そんなの、体に良くない影響が出ます。",
+      "zh": "是、是的。她很快就把药吃完了，<br>\n然后不断索要更多……<br>\n这样对身体会造成很大伤害。",
+      "vi": "Vâng, vâng. Cô ấy uống thuốc nhanh chóng, Và sau đó tiếp tục yêu cầu thêm... Điều này sẽ gây ra tác hại lớn cho cơ thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru015",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru015|",
+      "ja": "とっても、とっても浅はかでした……！<br>辛そうなアリサさんを見てられなくて、私は……。",
+      "zh": "我真是太轻率了……！<br>\n看到亚里沙小姐那么痛苦，我就……",
+      "vi": "Tôi đã quá hấp tấp...! Nhìn thấy Alisa-san đau đớn như vậy, tôi chỉ...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative016",
+      "speaker_tag": "",
+      "ja": "くしゃりと泣きそうにメルルの顔が<ruby=\"ゆが\">歪</ruby>む。",
+      "zh": "梅露露的脸因悲伤而扭曲，似乎随时都要哭出来。",
+      "vi": "Khuôn mặt Meruru nhăn nhó vì buồn bã, như thể cô ấy có thể bật khóc bất cứ lúc nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru016",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru016|",
+      "ja": "言い訳なんてできません……。<br>私は加害者です……。",
+      "zh": "我无法辩解……<br>\n我就是个帮凶……",
+      "vi": "Tôi không thể tranh luận... Tôi là đồng phạm...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema016",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema016|",
+      "ja": "そ、そんなに気に病むことないよ！<br>メルルちゃんはアリサちゃんを心配しただけだし、<br>アリサちゃんは元気だし。",
+      "zh": "别、别那么自责啦！<br>\n你也只是出于关心亚里沙才给她药，<br>\n而且亚里沙现在不是还好好的吗。",
+      "vi": "Đừng, đừng tự trách mình quá nhiều! Bạn chỉ đưa thuốc cho Alisa vì quan tâm đến cô ấy, Và bây giờ Alisa không ổn sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru017",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru017|",
+      "ja": "はい……今のところ影響は出ていません……<br>でも、この先はわからないです……。",
+      "zh": "是的……目前还没有出现不良反应……<br>\n但是，以后会怎样谁也说不准……",
+      "vi": "Có...chưa có phản ứng bất lợi nào xảy ra... Tuy nhiên, không ai có thể nói trước điều gì sẽ xảy ra trong tương lai...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative017",
+      "speaker_tag": "",
+      "ja": "メルルはよろよろと立ち上がり、<br>ベッドの方へと歩いていく。",
+      "zh": "梅露露摇摇晃晃地站起身，<br>\n走向病床。",
+      "vi": "Meruru lảo đảo đứng dậy, Đi đến giường bệnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative018",
+      "speaker_tag": "",
+      "ja": "そしてシーツの隙間から、<br>１本の薬瓶を取り出した。",
+      "zh": "从床单的缝隙中，<br>\n小心翼翼地取出一瓶药。",
+      "vi": "Từ những khoảng trống trên tấm trải giường, Cẩn thận lấy ra một lọ thuốc.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru018",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru018|",
+      "ja": "これがアリサさんの探していた睡眠薬です。",
+      "zh": "这就是亚里沙小姐一直在找的安眠药。",
+      "vi": "Đây là viên thuốc ngủ mà Alisa-san đang tìm kiếm.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru019",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru019|",
+      "ja": "強いお薬でよく効くので、<br>アリサさんのお気に入りになってしまって。",
+      "zh": "因为效果特别好，<br>\n所以变成了亚里沙小姐最依赖的东西。",
+      "vi": "Bởi vì hiệu quả đặc biệt tốt, Vậy nên nó trở thành thứ Alisa-san dựa vào nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru020",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru020|",
+      "ja": "私、それで、この薬を隠したんです。<br>しばらくこの薬は渡せないって……。",
+      "zh": "所以我把这个药藏了起来，<br>\n告诉她暂时不能再给她这种药了……",
+      "vi": "Vì vậy tôi đã giấu loại thuốc này, Nói cho cô ấy biết, tạm thời cô ấy không thể cho cô ấy uống loại thuốc này được nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru021",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru021|",
+      "ja": "ずっと隠すつもりはなくて、<br>もう少ししたらまたお渡しするつもりでした……。",
+      "zh": "我本来没打算一直藏着的，<br>\n准备过段时间再给她……",
+      "vi": "Tôi không có ý định giấu nó mãi mãi, Chuẩn bị đưa nó cho cô ấy sau một thời gian...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema017",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema017|",
+      "ja": "（そんなことが……）",
+      "zh": "（原来是这样……）",
+      "vi": "(Hóa ra là vậy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema018",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema018|",
+      "ja": "……メルルちゃん、お弁当作ろうか！<br>何を手伝えばいい？",
+      "zh": "……梅露露，我们来准备野餐的便当吧！<br>\n需要我帮什么忙吗？",
+      "vi": "...Meruru, hãy chuẩn bị bữa trưa dã ngoại nào! Tôi có thể giúp gì cho bạn được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative019",
+      "speaker_tag": "",
+      "ja": "すっかりしょげかえっているメルルを見て、<br>エマは元気づけるように声をかけた。<br>するとメルルもようやく微笑みが戻ってきた。",
+      "zh": "看到梅露露一副自责的样子，<br>\n艾玛试图用开朗的语气给她打气。<br>\n梅露露这才终于露出一丝微笑。",
+      "vi": "Thấy Mei Lulu có vẻ hối hận, Ema cố gắng cổ vũ cô ấy bằng giọng điệu vui vẻ. Meruru cuối cùng cũng nở một nụ cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru022",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru022|",
+      "ja": "そうですよね……今日はピクニックですもんね。<br>みんなが笑顔になるお弁当、作りましょう……！",
+      "zh": "说得对呢……今天是野餐日呢。<br>\n让我们做一个能让大家开心的便当吧……！",
+      "vi": "Bạn nói đúng... hôm nay là ngày dã ngoại. Hãy cùng làm một hộp cơm bento để mọi người đều vui vẻ nhé...!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema019",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema019|",
+      "ja": "うん！",
+      "zh": "嗯！",
+      "vi": "Vâng!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru023",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru023|",
+      "ja": "私は材料を出してくるので、<br>そうですね……。",
+      "zh": "我去准备食材，<br>\n那个……",
+      "vi": "Tôi đang chuẩn bị nguyên liệu, Đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Meruru024",
+      "speaker_tag": "; > Meruru: |#0103Adv04_Meruru024|",
+      "ja": "エマさんは、<br>薬を片づけてもらってもいいでしょうか……？",
+      "zh": "艾玛小姐，<br>\n你能帮忙整理一下这些药品吗……？",
+      "vi": "Ema, Bạn có thể giúp sắp xếp những loại thuốc này...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema020",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema020|",
+      "ja": "もちろん！",
+      "zh": "当然可以！",
+      "vi": "Tất nhiên!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative020",
+      "speaker_tag": "",
+      "ja": "エマは薬品棚の前に散らばったビンを拾いはじめた。",
+      "zh": "艾玛开始捡起散落在药品柜前的药瓶。",
+      "vi": "Ema bắt đầu nhặt những lọ thuốc nằm rải rác trước tủ thuốc.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Ema021",
+      "speaker_tag": "; > Ema: |#0103Adv04_Ema021|",
+      "ja": "（ここはしっかり調べたことなかったけど、<br>　すごいたくさんの薬がある……）",
+      "zh": "（虽然之前没仔细看过这里，<br>\n但真是有好多药啊……）",
+      "vi": "(Mặc dù trước đây tôi chưa xem xét kỹ vấn đề này, Nhưng có rất nhiều loại thuốc...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv04_Narrative021",
+      "speaker_tag": "",
+      "ja": "想像のつく薬品もあったが、<br>何に使うものなのか用途不明の薬も多かった。",
+      "zh": "虽然有些药品的用途显而易见，<br>\n但也有许多药品的用途完全不明。",
+      "vi": "Mặc dù một số loại thuốc có công dụng rõ ràng nhưng Nhưng cũng có nhiều loại thuốc mà công dụng của nó hoàn toàn chưa được biết đến.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "bundle": "general-localization-zhhans-scripts-debug_assets_all.bundle",
+  "script_name": "Debug_Spawn",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Debug/Debug_Spawn' Naninovel scenario script",
+  "total_entries": 42,
+  "entries": [
+    {
+      "id": "~f7dafd9b",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # Emoticon",
+      "zh": "",
+      "vi": "Debug_Spawn # Emoticon",
+      "objection_links": []
+    },
+    {
+      "id": "~bd2095ba",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # Matte",
+      "zh": "",
+      "vi": "Debug_Spawn # Matte",
+      "objection_links": []
+    },
+    {
+      "id": "~4dd3245e",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # Text",
+      "zh": "",
+      "vi": "Debug_Spawn # Text",
+      "objection_links": []
+    },
+    {
+      "id": "~c9a64179",
+      "speaker_tag": "",
+      "ja": "BeginDebateText (1)",
+      "zh": "",
+      "vi": "BeginDebateText (1)",
+      "objection_links": []
+    },
+    {
+      "id": "~8bc470e4",
+      "speaker_tag": "",
+      "ja": "BeginDebateText (2)",
+      "zh": "",
+      "vi": "BeginDebateText (2)",
+      "objection_links": []
+    },
+    {
+      "id": "~591ad8c8",
+      "speaker_tag": "",
+      "ja": "EndDebateText (1)",
+      "zh": "",
+      "vi": "EndDebateText (1)",
+      "objection_links": []
+    },
+    {
+      "id": "~7b34957",
+      "speaker_tag": "",
+      "ja": "EndDebateText (2)",
+      "zh": "",
+      "vi": "EndDebateText (2)",
+      "objection_links": []
+    },
+    {
+      "id": "~dbafe420",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # BadEnd",
+      "zh": "",
+      "vi": "Debug_Spawn # BadEnd",
+      "objection_links": []
+    },
+    {
+      "id": "~b43a883d",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # BadEnd Ends.",
+      "zh": "",
+      "vi": "Debug_Spawn # BadEnd Ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~210e42b1",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # VFX",
+      "zh": "",
+      "vi": "Debug_Spawn # VFX",
+      "objection_links": []
+    },
+    {
+      "id": "~bd0c4ff4",
+      "speaker_tag": "",
+      "ja": "エフェクトオフ",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~b739aaa",
+      "speaker_tag": "",
+      "ja": "エフェクトオン",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~916e99d2",
+      "speaker_tag": "; > Hanna: |#~916e99d2|",
+      "ja": "「ちょっとあなた、神経どうにかしてるんじゃありません？<br>　よくスキップなんかできますわね」",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~8e0dd839",
+      "speaker_tag": "; > Sherry: |#~8e0dd839|",
+      "ja": "「ここが獄長の言ってた懲罰房でしょうね。<br>　規則を破った囚人はここに入れられる、と」",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~b4f0244f",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # Front",
+      "zh": "",
+      "vi": "Debug_Spawn # Front",
+      "objection_links": []
+    },
+    {
+      "id": "~8f9c2d82",
+      "speaker_tag": "",
+      "ja": "showMattes_Front",
+      "zh": "",
+      "vi": "showMattes_Front",
+      "objection_links": []
+    },
+    {
+      "id": "~1c92ab75",
+      "speaker_tag": "",
+      "ja": "hideMattes_Front",
+      "zh": "",
+      "vi": "hideMattes_Front",
+      "objection_links": []
+    },
+    {
+      "id": "~f93958f4",
+      "speaker_tag": "",
+      "ja": "showMattes_Forefront",
+      "zh": "",
+      "vi": "showMattes_Forefront",
+      "objection_links": []
+    },
+    {
+      "id": "~610af01e",
+      "speaker_tag": "",
+      "ja": "hideMattes_Forefront",
+      "zh": "",
+      "vi": "hideMattes_Forefront",
+      "objection_links": []
+    },
+    {
+      "id": "~65e4397",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # Cancellation",
+      "zh": "",
+      "vi": "Debug_Spawn # Cancellation",
+      "objection_links": []
+    },
+    {
+      "id": "~b7b40baf",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # Multipliable",
+      "zh": "",
+      "vi": "Debug_Spawn # Multipliable",
+      "objection_links": []
+    },
+    {
+      "id": "~cafae02c",
+      "speaker_tag": "",
+      "ja": "a",
+      "zh": "",
+      "vi": "a",
+      "objection_links": []
+    },
+    {
+      "id": "~d726795c",
+      "speaker_tag": "",
+      "ja": "b",
+      "zh": "",
+      "vi": "b",
+      "objection_links": []
+    },
+    {
+      "id": "~e74489bc",
+      "speaker_tag": "",
+      "ja": "c",
+      "zh": "",
+      "vi": "c",
+      "objection_links": []
+    },
+    {
+      "id": "~9cf79de",
+      "speaker_tag": "",
+      "ja": "d",
+      "zh": "",
+      "vi": "d",
+      "objection_links": []
+    },
+    {
+      "id": "~7779945a",
+      "speaker_tag": "",
+      "ja": "e",
+      "zh": "",
+      "vi": "e",
+      "objection_links": []
+    },
+    {
+      "id": "~6de7f3f5",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # MatchScreenWidth",
+      "zh": "",
+      "vi": "Debug_Spawn # MatchScreenWidth",
+      "objection_links": []
+    },
+    {
+      "id": "~b53b979f",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # Clue",
+      "zh": "",
+      "vi": "Debug_Spawn # Clue",
+      "objection_links": []
+    },
+    {
+      "id": "~741bb7b3",
+      "speaker_tag": "",
+      "ja": "1-13",
+      "zh": "",
+      "vi": "1-13",
+      "objection_links": []
+    },
+    {
+      "id": "~b5312538",
+      "speaker_tag": "",
+      "ja": "1-14",
+      "zh": "",
+      "vi": "1-14",
+      "objection_links": []
+    },
+    {
+      "id": "~c0bf9f8d",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # Clue end.",
+      "zh": "",
+      "vi": "Debug_Spawn # Clue end.",
+      "objection_links": []
+    },
+    {
+      "id": "~f98d8c92",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # CutIn",
+      "zh": "",
+      "vi": "Debug_Spawn # CutIn",
+      "objection_links": []
+    },
+    {
+      "id": "~194318fe",
+      "speaker_tag": "",
+      "ja": "ObjectionCutIn_Ema<br>index:0",
+      "zh": "",
+      "vi": "ObjectionCutIn_Ema index:0",
+      "objection_links": []
+    },
+    {
+      "id": "~a976a5ae",
+      "speaker_tag": "",
+      "ja": "ObjectionCutIn_Ema<br>index:1",
+      "zh": "",
+      "vi": "ObjectionCutIn_Ema index:1",
+      "objection_links": []
+    },
+    {
+      "id": "~339fea61",
+      "speaker_tag": "",
+      "ja": "ObjectionCutIn_Ema<br>index:2",
+      "zh": "",
+      "vi": "ObjectionCutIn_Ema index:2",
+      "objection_links": []
+    },
+    {
+      "id": "~ff3c5507",
+      "speaker_tag": "",
+      "ja": "ObjectionCutIn_Hiro<br>index:0",
+      "zh": "",
+      "vi": "ObjectionCutIn_Hiro index:0",
+      "objection_links": []
+    },
+    {
+      "id": "~7b2e9e45",
+      "speaker_tag": "",
+      "ja": "ObjectionCutIn_Hiro<br>index:1",
+      "zh": "",
+      "vi": "ObjectionCutIn_Hiro index:1",
+      "objection_links": []
+    },
+    {
+      "id": "~f0f2793a",
+      "speaker_tag": "",
+      "ja": "ObjectionCutIn_Hiro<br>index:2",
+      "zh": "",
+      "vi": "ObjectionCutIn_Hiro index:2",
+      "objection_links": []
+    },
+    {
+      "id": "~ee17f5c6",
+      "speaker_tag": "",
+      "ja": "ObjectionCutIn_CreatureHiro<br>index:0",
+      "zh": "",
+      "vi": "ObjectionCutIn_CreatureHiro index:0",
+      "objection_links": []
+    },
+    {
+      "id": "~bb4c8665",
+      "speaker_tag": "",
+      "ja": "ObjectionCutIn_CreatureHiro<br>index:1",
+      "zh": "",
+      "vi": "ObjectionCutIn_CreatureHiro index:1",
+      "objection_links": []
+    },
+    {
+      "id": "~3f6e6891",
+      "speaker_tag": "",
+      "ja": "ObjectionCutIn_CreatureHiro<br>index:2",
+      "zh": "",
+      "vi": "ObjectionCutIn_CreatureHiro index:2",
+      "objection_links": []
+    },
+    {
+      "id": "~1d2ab6e3",
+      "speaker_tag": "",
+      "ja": "Debug_Spawn # CutIn end.",
+      "zh": "",
+      "vi": "Debug_Spawn # CutIn end.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter03_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter03_Trial02",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter03/Act02_Chapter03_Trial02' Naninovel scenario script",
+  "total_entries": 69,
+  "entries": [
+    {
+      "id": "0203Trial02_Sherry001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial02_Sherry001|",
+      "ja": "ミリアさんの<br><link=\"Objection_02_03_02_01\">撮った写真</link>には<br>２人の<link=\"Objection_02_03_02_02\">人影</link>が<br>写っています。",
+      "zh": "米莉亚<br>\n<link=\"Objection_02_03_02_01\">拍下的照片</link>上<br>\n能看到<br>\n两个<link=\"Objection_02_03_02_02\">人影</link>。",
+      "vi": "Miria Ảnh được chụp bởi <link=\"Objection_02_03_02_01\"> vào </link> vào Có thể thấy Hai hình <link=\"Objection_02_03_02_02\"></link>.",
+      "objection_links": [
+        "Objection_02_03_02_01",
+        "Objection_02_03_02_02"
+      ]
+    },
+    {
+      "id": "0203Trial02_Sherry002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial02_Sherry002|",
+      "ja": "つまり現場には、<br>被害者である<br>アンアンさんに加えて<br>もう１人の人物が<br>存在したということ……。",
+      "zh": "那就是说<br>\n案发时除了被害人<br>\n安安以外，<br>\n还有另外一个人<br>\n出现在现场……",
+      "vi": "Điều đó có nghĩa là Vào thời điểm xảy ra vụ án, ngoại trừ nạn nhân Ngoài An'an, Còn có một người khác Có mặt tại hiện trường...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial02_Sherry003|",
+      "ja": "ならば犯人しか<br>ありえません！",
+      "zh": "那这个人<br>\n绝对就是凶手！",
+      "vi": "Vậy thì người này Anh ta chắc chắn là kẻ giết người!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial02_Sherry004|",
+      "ja": "犯人はアンアンさんを<br>ベランダに誘い出し、<br>そして突き落としたんです！",
+      "zh": "凶手把安安<br>\n引到阳台后<br>\n再把她给推了下去！",
+      "vi": "Kẻ sát nhân đã bắt An'an Sau khi dẫn ra ban công Đẩy cô ấy xuống lần nữa!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial02_Sherry005|",
+      "ja": "これは<br><link=\"Objection_02_03_02_03\">明確な殺人事件</link><br>ですよ！",
+      "zh": "所以这<br>\n<link=\"Objection_02_03_02_03\">明确就是凶杀案</link>！<br>",
+      "vi": "Vậy đây là <link=\"Objection_02_03_02_03\">Đó chắc chắn là một vụ giết người</link>!",
+      "objection_links": [
+        "Objection_02_03_02_03"
+      ]
+    },
+    {
+      "id": "0203Trial02_Sherry006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial02_Sherry006|",
+      "ja": "……そう<br>言いたかったんですよね！<br>ミリアさん！",
+      "zh": "……你想说的<br>\n是这个意思对不对！<br>\n米莉亚！",
+      "vi": "...điều bạn muốn nói Đó là ý nghĩa của nó, phải không? Miria!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Miria001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial02_Miria001|",
+      "ja": "い、いや……<br>そこまで断定するわけじゃ<br>ないけど……！",
+      "zh": "没、没有……<br>\n大叔我也不至于<br>\n这么肯定……！",
+      "vi": "Không, không... Bác ơi, cháu sẽ không Vậy chắc chắn rồi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro001",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro001|",
+      "ja": "（シェリーの推理は細部は間違っているが<br>　おおむね正しい……）",
+      "zh": "（雪莉的推理除了细节不太对，<br>\n基本上都是正确的……）",
+      "vi": "(Lý luận của Sherry sai ngoại trừ các chi tiết, Về cơ bản thì mọi thứ đều đúng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro002",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro002|",
+      "ja": "（しかし……<br>　全てが事実であるわけでもない）",
+      "zh": "（但是……<br>\n这并不代表她说的全都是事实）",
+      "vi": "(Nhưng... Điều này không có nghĩa là mọi điều cô ấy nói đều đúng)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro003",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro003|",
+      "ja": "（ならばそこに、推理を打ち崩す鍵がある）",
+      "zh": "（其中必定会有能颠覆推理的关键要点）",
+      "vi": "(Phải có điểm mấu chốt mới có thể lật đổ lý luận)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro004",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro004|",
+      "ja": "（議論の着地点を考えて、誘導してみようか）",
+      "zh": "（想好讨论的着眼点，试着往那个方向引导吧）",
+      "vi": "(Hãy suy nghĩ về trọng tâm của cuộc thảo luận và cố gắng hướng nó theo hướng đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Choice001",
+      "speaker_tag": "; > @choice |#0203Trial02_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "写真が加工されていた",
+      "zh": "照片是伪造的",
+      "vi": "Bức ảnh là giả",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Choice002",
+      "speaker_tag": "; > @choice |#0203Trial02_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "別の影だった",
+      "zh": "是其他物体的影子",
+      "vi": "là bóng của các vật thể khác",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Choice003",
+      "speaker_tag": "; > @choice |#0203Trial02_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "事故だった",
+      "zh": "是事故",
+      "vi": "Đó là một tai nạn",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro005",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro005|",
+      "ja": "ちょっと待ってくれ。<br>議論の前に確認しないといけないことがある。",
+      "zh": "先等一等。<br>\n在开始讨论前我有事想先确认清楚。",
+      "vi": "Đợi một lát. Có điều này tôi muốn xác nhận trước khi chúng ta bắt đầu cuộc thảo luận.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry007",
+      "speaker_tag": "; > Sherry: |#0203Trial02_Sherry007|",
+      "ja": "なんの確認でしょう？",
+      "zh": "要确认什么呢？",
+      "vi": "Bạn muốn xác nhận điều gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro006",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro006|",
+      "ja": "その写真が正しい証拠なのか、だ。",
+      "zh": "我想知道，这张照片作为证据，是否真实可信。",
+      "vi": "Tôi muốn biết liệu bức ảnh này có xác thực và đáng tin cậy làm bằng chứng hay không.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro007",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro007|",
+      "ja": "たとえば加工されたり編集されたりした、<br>偽の証拠の可能性はある……！",
+      "zh": "说不定，照片有可能是伪造的，<br>\n内容被人加工或者编辑过……！",
+      "vi": "Có thể bức ảnh đó là giả mạo, Nội dung đã được xử lý hoặc chỉnh sửa...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Miria002",
+      "speaker_tag": "; > Miria: |#0203Trial02_Miria002|",
+      "ja": "えっ！？ おじさんそんなことしないよ……！？",
+      "zh": "欸！？大叔我不会做这种事啦……！？",
+      "vi": "Hừ! ? Bác ơi, cháu sẽ không làm điều đó đâu...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro008",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro008|",
+      "ja": "口でならなんとでも言えるが……。",
+      "zh": "口说无凭……",
+      "vi": "Lời bạn nói không có cơ sở...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Alisa001",
+      "speaker_tag": "; > Alisa: |#0203Trial02_Alisa001|",
+      "ja": "……つーかよ。<br>いちゃもんつけんなら、その根拠を示すべきじゃねーか？",
+      "zh": "……话说回来啊。<br>\n你要是想挑刺那总得说说有什么证据才对吧？",
+      "vi": "...Nói về điều đó. Muốn tìm lỗi thì phải cho Tao biết mày có bằng chứng gì đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Miria003",
+      "speaker_tag": "; > Miria: |#0203Trial02_Miria003|",
+      "ja": "そ、そうだよ！",
+      "zh": "说、说得对！",
+      "vi": "Nói, nói đúng!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Miria004",
+      "speaker_tag": "; > Miria: |#0203Trial02_Miria004|",
+      "ja": "こんな明確な写真の証拠能力を疑うなら、<br>その立証責任は疑いを向けた側にあるんじゃないかな……！？",
+      "zh": "照片拍得这么清楚，你却怀疑它当不了证据，<br>\n那身为质疑一方，就应该负起举证责任才对吧……！？",
+      "vi": "Bức ảnh quá rõ ràng nhưng bạn nghi ngờ nó có thể được dùng làm bằng chứng, Với tư cách là bên thẩm vấn, bạn phải chịu trách nhiệm chứng minh...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Alisa002",
+      "speaker_tag": "; > Alisa: |#0203Trial02_Alisa002|",
+      "ja": "……難しいことはわかんねーけどよ。",
+      "zh": "……太复杂的事情我不懂啊。",
+      "vi": "...Tao không hiểu những thứ quá phức tạp.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Alisa003",
+      "speaker_tag": "; > Alisa: |#0203Trial02_Alisa003|",
+      "ja": "佐伯の言ってることの方が、<br>筋通ってると思うけどな。",
+      "zh": "可是我觉得佐伯说的话<br>\n更加有道理就是了。",
+      "vi": "Nhưng Tao nghĩ những gì Saeki đã nói Nó chỉ có ý nghĩa hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry008",
+      "speaker_tag": "; > Sherry: |#0203Trial02_Sherry008|",
+      "ja": "ヒロさんは、根拠を提示すべきですね！",
+      "zh": "希罗你才应该向我们出示证据呢！",
+      "vi": "Anh hùng, anh mới là người phải cho chúng tôi thấy bằng chứng!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro009",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro009|",
+      "ja": "（く……！ たしかに、これでは悪魔の証明か）",
+      "zh": "（唔……！这确实是恶魔的证明）",
+      "vi": "(Hmm...! Đây quả thực là bằng chứng của quỷ dữ)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro010",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro010|",
+      "ja": "（写真という明確な物証がある限り、<br>　そこに示されている事実は捻じ曲げられそうにない）",
+      "zh": "（只要存在照片这种确凿的物证，<br>\n就难以歪曲照片所展示出来的事实）",
+      "vi": "(Miễn là có bằng chứng vật lý thuyết phục như ảnh, Thật khó để bóp méo sự thật trong ảnh)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro011",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro011|",
+      "ja": "（……それなら、写真だけでは断定できない事実があれば、<br>　シェリーの推理を否定する材料になるか……？）",
+      "zh": "（……那如果存在单靠照片无法断定的事实，<br>\n是否就能用来推翻雪莉的推理了呢……？）",
+      "vi": "(…Vậy nếu có những sự thật không thể xác định được chỉ bằng ảnh, Nó có thể được sử dụng để lật ngược lý luận của Sherry không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro012",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro012|",
+      "ja": "果たして、それを人影と断定してしまっていいものかな。",
+      "zh": "直接认定照片上的是人影，会不会太草率了。",
+      "vi": "Sẽ không quá vội vàng nếu trực tiếp kết luận người trong ảnh là hình người sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry009",
+      "speaker_tag": "; > Sherry: |#0203Trial02_Sherry009|",
+      "ja": "……というと、どういうことですか？",
+      "zh": "……那你的意思是？",
+      "vi": "...Ý bạn là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro013",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro013|",
+      "ja": "実はこの写真に写っている影は人ではなく、<br>別のものの影が<br>たまたまそう見えただけなんじゃないかな。",
+      "zh": "有没有可能照片拍下的并不是人影，<br>\n而是其他东西的影子，<br>\n只是刚好看起来像人影而已。",
+      "vi": "Chẳng lẽ trong ảnh không phải là hình người? Nhưng cái bóng của cái gì khác, Nó chỉ tình cờ trông giống như một hình người.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Alisa004",
+      "speaker_tag": "; > Alisa: |#0203Trial02_Alisa004|",
+      "ja": "別の影って……<br>具体的になんの影だよ。",
+      "zh": "其他东西的影子……<br>\n那你说说看，是什么东西的影子。",
+      "vi": "Bóng của những thứ khác... Vậy thì hãy nói cho Tao biết đó là loại bóng gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry010",
+      "speaker_tag": "; > Sherry: |#0203Trial02_Sherry010|",
+      "ja": "人の形ですから、人形とか置いてあったんでしょうかね？",
+      "zh": "影子看起来是人形的，会不会是画室里放了一个人偶之类的东西？",
+      "vi": "Cái bóng trông giống hình người. Chẳng lẽ có một con rối hay thứ gì đó tương tự được đặt trong studio?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hanna001",
+      "speaker_tag": "; > Hanna: |#0203Trial02_Hanna001|",
+      "ja": "アトリエなら彫像とかもありそうですわね！",
+      "zh": "既然是画室，里面就算放了雕像也不出奇呢！",
+      "vi": "Vì là studio nên sẽ không có gì đáng ngạc nhiên nếu có tượng trong đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Noah001",
+      "speaker_tag": "; > Noah: |#0203Trial02_Noah001|",
+      "ja": "……のあは知らないよ？",
+      "zh": "……诺亚不知道有这种东西哦？",
+      "vi": "...Noah không biết có chuyện như vậy sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Miria005",
+      "speaker_tag": "; > Miria: |#0203Trial02_Miria005|",
+      "ja": "まあ、ベランダにそんなの置く意味もわからないしね……。",
+      "zh": "我也不懂阳台放雕像有什么意义……",
+      "vi": "Miria cũng không hiểu việc đặt tượng trên ban công có ý nghĩa gì…",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Leia001",
+      "speaker_tag": "; > Leia: |#0203Trial02_Leia001|",
+      "ja": "……影と見間違いそうなものは、周囲にはなさそうだね。",
+      "zh": "……那附近看来没有什么能错看成影子的物体呢。",
+      "vi": "...Dường như không có gì ở gần đó có thể bị nhầm lẫn với cái bóng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry011",
+      "speaker_tag": "; > Sherry: |#0203Trial02_Sherry011|",
+      "ja": "そうなるとやっぱり、あれは人で間違いありませんね！",
+      "zh": "既然如此，那照片上的果然是人影没错！",
+      "vi": "Trong trường hợp này, nhân vật trong ảnh quả thực là hình người!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro014",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro014|",
+      "ja": "（……影が人のものではないとするには、根拠が足りないか）",
+      "zh": "（……看来没有充分的依据能够证明那不是人影）",
+      "vi": "(…Có vẻ như không có đủ cơ sở để chứng minh rằng đó không phải là hình người)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro015",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro015|",
+      "ja": "（写真という明確な物証がある限り、<br>　そこに示されている事実は捻じ曲げられそうにない）",
+      "zh": "（只要存在照片这种确凿的物证，<br>\n就难以歪曲照片所展示出来的事实）",
+      "vi": "(Miễn là có bằng chứng vật lý thuyết phục như ảnh, Thật khó để bóp méo sự thật trong ảnh)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro016",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro016|",
+      "ja": "（……それなら、写真だけでは断定できない事実があれば、<br>　シェリーの推理を否定する材料になるか……？）",
+      "zh": "（……那如果存在单靠照片无法断定的事实，<br>\n是否就能用来推翻雪莉的推理了呢……？）",
+      "vi": "(…Vậy nếu có những sự thật không thể xác định được chỉ bằng ảnh, Nó có thể được sử dụng để lật ngược lý luận của Sherry không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro017",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro017|",
+      "ja": "……いや、そうとは限らないよ。",
+      "zh": "……不，这可说不准。",
+      "vi": "...Không, điều đó không chắc chắn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry012",
+      "speaker_tag": "; > Sherry: |#0203Trial02_Sherry012|",
+      "ja": "と、言いますと？",
+      "zh": "你的意思是？",
+      "vi": "Ý bạn là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro018",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro018|",
+      "ja": "ミリアの写真が示すことは、<br>当時現場近くに<br>２人の人間がいたということのみだ。",
+      "zh": "从米莉亚的照片上能看出来的，<br>\n就只有拍照当时<br>\n案发现场附近有两个人在场。",
+      "vi": "Như có thể thấy từ ảnh của Miria, Chỉ đến khi tôi chụp bức ảnh Hai người có mặt gần hiện trường vụ án.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro019",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro019|",
+      "ja": "べつに、<br>目撃された２人が犯人と被害者だったと<br>証明されたわけでもない。",
+      "zh": "但这并不能证明<br>\n被目击到的这两个人就是<br>\n凶手跟被害人。",
+      "vi": "Nhưng điều này không chứng minh Hai người chứng kiến là Kẻ giết người và nạn nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Alisa005",
+      "speaker_tag": "; > Alisa: |#0203Trial02_Alisa005|",
+      "ja": "……けど実際に夏目は死んでんだろ。",
+      "zh": "……可实际上夏目就是死了啊。",
+      "vi": "...Nhưng trên thực tế,Natsume đã chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Alisa006",
+      "speaker_tag": "; > Alisa: |#0203Trial02_Alisa006|",
+      "ja": "それについてはどう説明するんだよ。",
+      "zh": "这一点你要怎样解释。",
+      "vi": "Làm thế nào để mày giải thích điều này?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro020",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro020|",
+      "ja": "仮に突き落とした人物がいたとしても、<br>本当にそこに殺意はあったのかな？",
+      "zh": "假设安安是被人推下去的好了，<br>\n但这个人真的是为了杀死她，才把她推下去的吗？",
+      "vi": "Giả sử AnAn bị đẩy xuống, Nhưng người này thật sự đã đẩy cô xuống để giết cô sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Alisa007",
+      "speaker_tag": "; > Alisa: |#0203Trial02_Alisa007|",
+      "ja": "んだと……？",
+      "zh": "你说什么……？",
+      "vi": "Bạn đã nói gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro021",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro021|",
+      "ja": "べつにアンアンはビルの屋上や崖の上から<br>突き落とされたわけじゃない。",
+      "zh": "安安被人推下去的地方<br>\n又不是什么大楼的屋顶或者悬崖。",
+      "vi": "Nơi AnAn bị đẩy xuống Nó không phải là mái của một tòa nhà hay một vách đá.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro022",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro022|",
+      "ja": "たった２階の高さだ。<br>確実に殺せる高さではない。",
+      "zh": "高度也就一层楼高，<br>\n根本没法保证摔死人。",
+      "vi": "Chiều cao chỉ cao một tầng, Không có gì đảm bảo rằng ai đó sẽ bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro023",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro023|",
+      "ja": "それに、彼女の死因は【墜落死】ではなかった。",
+      "zh": "而且，她的死因并不是【坠落致死】。",
+      "vi": "Hơn nữa, nguyên nhân cái chết của cô ấy không phải là [ngã chết].",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Leia002",
+      "speaker_tag": "; > Leia: |#0203Trial02_Leia002|",
+      "ja": "……そうだね。<br>骨が折れていたりはしていなかったよ。",
+      "zh": "……说得对。<br>\n安安身上并没有骨折。",
+      "vi": "...Đúng vậy. AnAn không bị gãy xương.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Leia003",
+      "speaker_tag": "; > Leia: |#0203Trial02_Leia003|",
+      "ja": "あくまでも死因は、背中から刺さった鉄柵によるものだね。",
+      "zh": "不管怎样，死因都是铁栅从背后刺穿身体致死。",
+      "vi": "Dù sao thì nguyên nhân tử vong là do các thanh sắt đâm vào cơ thể từ phía sau.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro024",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro024|",
+      "ja": "そう、鉄柵が【たまたま刺さっただけ】なんだ。",
+      "zh": "没错，铁栅只是【凑巧刺穿了她的身体】而已。",
+      "vi": "Đúng vậy, hàng rào sắt vừa vặn xuyên qua người cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro025",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro025|",
+      "ja": "アンアンはたしかにベランダから落下したのかもしれない。",
+      "zh": "或许安安的确从阳台掉了下来。",
+      "vi": "Có lẽ AnAn đã rơi từ ban công xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro026",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro026|",
+      "ja": "だがそれはたまたま落ちただけかもしれないし、<br>同じ場所にいた人間が何かしたとも限らない……。",
+      "zh": "但她有可能只是意外失足，<br>\n不一定是当时在场的人做了什么事……",
+      "vi": "Nhưng có thể cô ấy chỉ vô tình trượt chân, Không nhất thiết người có mặt ở thời điểm đó đã làm điều gì đó…",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro027",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro027|",
+      "ja": "ただ偶然落ちた先にあった鉄柵が、<br>胸を貫通してしまっただけ。",
+      "zh": "安安只是碰巧掉落到铁栅栏上<br>\n被刺穿胸口而已。",
+      "vi": "AnAn vừa vô tình ngã vào hàng rào sắt Vừa đâm vào ngực.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro028",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro028|",
+      "ja": "つまり、不幸な事故だったんだ。<br>殺人とは言い切れないよ。",
+      "zh": "也就是说，这是一场不幸的事故。<br>\n我们不能断定这是凶杀案件。",
+      "vi": "Điều đó nói rằng, đó là một tai nạn đáng tiếc. Chúng tôi không thể kết luận rằng đây là một vụ giết người.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro029",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro029|",
+      "ja": "（……我ながら白々しいな。<br>　こんなことただの言い訳だ）",
+      "zh": "（……想不到我也能这样睁着眼睛说瞎话。<br>\n这全都不过是狡辩而已）",
+      "vi": "(...Mình chưa bao giờ nghĩ mình có thể nói dối khi mở mắt như thế này. Tất cả chỉ là ngụy biện)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro030",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro030|",
+      "ja": "（しかし……）",
+      "zh": "（不过……）",
+      "vi": "(Nhưng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Ema001",
+      "speaker_tag": "; > Ema: |#0203Trial02_Ema001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro031",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro031|",
+      "ja": "（エマが……私に【生きろ】というなら……）",
+      "zh": "（既然艾玛她……让我【活下去】，那……）",
+      "vi": "(Vì Ema...hãy để tôi [sống], nên...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Hiro032",
+      "speaker_tag": "; > Hiro: |#0203Trial02_Hiro032|",
+      "ja": "（ささやかな抵抗ぐらいは、してみようか）",
+      "zh": "（我就试着稍微挣扎几下吧）",
+      "vi": "(Tôi sẽ cố gắng vùng vẫy một chút)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry013",
+      "speaker_tag": "; > Sherry: |#0203Trial02_Sherry013|",
+      "ja": "うーん……たしかにその意見も一理ありますね。",
+      "zh": "嗯……这个想法确实也有道理。",
+      "vi": "Ừm...ý tưởng này có lý đấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry014",
+      "speaker_tag": "; > Sherry: |#0203Trial02_Sherry014|",
+      "ja": "ですが納得はできません！",
+      "zh": "但我无法认可！",
+      "vi": "Nhưng tôi không thể chấp nhận nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial02_Sherry015",
+      "speaker_tag": "; > Sherry: |#0203Trial02_Sherry015|",
+      "ja": "その点……あらためて整理しましょうか！",
+      "zh": "关于这一点……我们来重新梳理一下吧！",
+      "vi": "Về vấn đề này... hãy tổ chức lại nó!",
+      "objection_links": []
+    }
+  ]
+}

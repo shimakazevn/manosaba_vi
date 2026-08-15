@@ -1,0 +1,240 @@
+{
+  "bundle": "general-localization-zhhans-scripts-common_assets_all.bundle",
+  "script_name": "CommonBad02",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Common/CommonBad02' Naninovel scenario script",
+  "total_entries": 29,
+  "entries": [
+    {
+      "id": "CommonBad02_Narrative001",
+      "speaker_tag": "",
+      "ja": "――確たる結論が出ないまま、時間は流れた。",
+      "zh": "——大家至今一直没有得出明确的结论，时间徒然流逝。",
+      "vi": "——Cho đến nay mọi người vẫn chưa đạt được kết luận rõ ràng, thời gian trôi qua vô ích.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Warden001",
+      "speaker_tag": "; > Warden: |#CommonBad02_Warden001|",
+      "ja": "議論はここまでということで、<br>投票に移ってもらっていいですかね？",
+      "zh": "讨论到此为止，<br>\n可以请各位进入投票环节了吗？",
+      "vi": "Cuộc thảo luận kết thúc tại đây, Bạn có thể vui lòng tham gia phiên bỏ phiếu được không?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative002",
+      "speaker_tag": "",
+      "ja": "もしかしたら、自分に投票されるのではないか――",
+      "zh": "下一个被投票选中的，会不会就是自己——",
+      "vi": "Liệu anh ấy có phải là người tiếp theo được bầu chọn?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative003",
+      "speaker_tag": "",
+      "ja": "少女たちの間に漂う恐れや緊張といった空気が、<br>濃度を増していく。",
+      "zh": "萦绕在少女身边的恐惧和紧张的气氛<br>\n愈发浓重。",
+      "vi": "Bầu không khí sợ hãi và căng thẳng bao quanh cô gái Ngày càng mãnh liệt hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Hanna001",
+      "speaker_tag": "; > Hanna: |#CommonBad02_Hanna001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative004",
+      "speaker_tag": "",
+      "ja": "レイアに真正面から疑われたハンナは、<br>真っ青な顔で爪を<ruby=\"か\">噛</ruby>んでいる。",
+      "zh": "被蕾雅指名道姓怀疑的汉娜，<br>\n正脸色苍白的咬着手指甲。",
+      "vi": "Hanna bị Leia nêu tên và nghi ngờ, Anh ta đang cắn móng tay với khuôn mặt tái nhợt.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative005",
+      "speaker_tag": "",
+      "ja": "ハンナだけじゃない。<br>その場にいる誰もが震え、青ざめていた。",
+      "zh": "不只是汉娜，<br>\n在场的所有人都脸色苍白地颤抖着。",
+      "vi": "Không chỉ Hanna, Mọi người có mặt đều trông xanh xao và run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative006",
+      "speaker_tag": "",
+      "ja": "だが、容赦なく投票の時間はやってくる。",
+      "zh": "然而，投票时间无情地降临了。",
+      "vi": "Tuy nhiên, thời gian bỏ phiếu đã đến một cách không thể tránh khỏi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative007",
+      "speaker_tag": "",
+      "ja": "少女たちは自身のスマホを操作し、<br>投票をしていく。",
+      "zh": "少女们各自按着自己的手机，<br>\n进行投票。",
+      "vi": "Mỗi cô gái bấm điện thoại di động của mình, Hãy bỏ phiếu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative008",
+      "speaker_tag": "",
+      "ja": "そして。",
+      "zh": "然后。",
+      "vi": "Sau đó.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative009",
+      "speaker_tag": "",
+      "ja": "まるでそぐわない間抜けなファンファーレ音と共に、<br>スマホに映し出されたのは――",
+      "zh": "随着一声与现场气氛格格不入的滑稽庆祝音效响起，<br>\n手机上出现的——",
+      "vi": "Khi hiệu ứng âm thanh ăn mừng vui nhộn vang lên không phù hợp với không khí của hiện trường, Thứ xuất hiện trên điện thoại——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative010",
+      "speaker_tag": "",
+      "ja": "ハンナの画像だった。",
+      "zh": "是汉娜的照片。",
+      "vi": "Đó là hình ảnh của Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Warden002",
+      "speaker_tag": "; > Warden: |#CommonBad02_Warden002|",
+      "ja": "はい、遠野ハンナの処刑が決定～！",
+      "zh": "好了，决定执行对远野汉娜的刑罚～！",
+      "vi": "Được rồi, chúng tôi quyết định thực hiện hình phạt dành cho Tono Hanna~!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Hanna002",
+      "speaker_tag": "; > Hanna: |#CommonBad02_Hanna002|",
+      "ja": "じょ、冗談じゃねーですわ！<br>わたくしの他にも怪しい人はいたでしょう……！？",
+      "zh": "别、别开玩笑了！<br>\n明明还有比我更可疑的人吧……！？",
+      "vi": "Dừng lại, đừng đùa nữa! Chắc chắn phải có ai đó đáng ngờ hơn Bổn tiểu thư...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Warden003",
+      "speaker_tag": "; > Warden: |#CommonBad02_Warden003|",
+      "ja": "まあ、投票で決まったことですので。",
+      "zh": "唉，毕竟这事已经通过投票决定了。",
+      "vi": "Than ôi, vấn đề rốt cuộc đã được quyết định bằng phiếu bầu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Hanna003",
+      "speaker_tag": "; > Hanna: |#CommonBad02_Hanna003|",
+      "ja": "違う！ わたくしはやってない！<br>無実ですわ！！ やり直しを求めます！",
+      "zh": "不对！人不是我杀的！<br>\n我是无辜的！！我要求重新审判！",
+      "vi": "Không! Bổn tiểu thư không giết ngươi! Bổn tiểu thư vô tội! ! Bổn tiểu thư yêu cầu một thử nghiệm mới!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative011",
+      "speaker_tag": "",
+      "ja": "ハンナの訴えが聞き入れられることはなく、<br>処刑が執行された――",
+      "zh": "汉娜的诉求不被采纳，<br>\n她的死刑得到了执行——",
+      "vi": "Kháng nghị của Hanna không được chấp nhận, Cuộc hành quyết cô ấy đã được thực hiện——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative012",
+      "speaker_tag": "",
+      "ja": "魔女裁判の後。<br>エマは１人、ノアの殺害現場に立っていた。",
+      "zh": "魔女审判结束后，<br>\n艾玛独自站在诺亚的杀害现场前。",
+      "vi": "Sau phiên tòa xét xử phù thủy, Ema đứng một mình trước hiện trường vụ sát hại Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Ema001",
+      "speaker_tag": "; > Ema: |#CommonBad02_Ema001|",
+      "ja": "（本当に、ハンナちゃんが犯人だったのかな……？）",
+      "zh": "（汉娜她真的是凶手吗……？）",
+      "vi": "(Hanna, cô ấy có thực sự là kẻ sát nhân không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Ema002",
+      "speaker_tag": "; > Ema: |#CommonBad02_Ema002|",
+      "ja": "（……やっぱり、納得いかない。<br>　他に犯人がいる気がする）",
+      "zh": "（……我还是没法接受。<br>\n我感觉凶手另有其人）",
+      "vi": "(…Tôi vẫn không thể chấp nhận được. Tôi có cảm giác như kẻ sát nhân là người khác)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Ema003",
+      "speaker_tag": "; > Ema: |#CommonBad02_Ema003|",
+      "ja": "（もう遅いけど……でもボクは、<br>　今度こそハンナちゃんの無実を証明したい……！）",
+      "zh": "（虽然已经来不及了……但是我，<br>\n这次一定要证明汉娜的清白……！）",
+      "vi": "(Mặc dù đã quá muộn...nhưng tôi, Lần này Hanna phải được chứng minh là vô tội...! )",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative013",
+      "speaker_tag": "",
+      "ja": "不意に背後から衝撃を感じて、<br>エマはそのままうつ伏せに倒れ込んだ。",
+      "zh": "忽然艾玛感受到了来自身后的冲击，<br>\n直接以卧姿倒在了地上。",
+      "vi": "Đột nhiên Ema cảm thấy có lực tác động từ phía sau, Anh ta trực tiếp ngã xuống đất trong tư thế nằm sấp.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Ema004",
+      "speaker_tag": "; > Ema: |#CommonBad02_Ema004|",
+      "ja": "（あ、あれ……？ なに、が……？）",
+      "zh": "（哎、哎呀……？怎、么回事……？）",
+      "vi": "(Ồ, ồ...? Chuyện gì đang xảy ra vậy...?)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative014",
+      "speaker_tag": "",
+      "ja": "倒れ伏したエマの背には、<br>刃物が深々と刺さっていた。",
+      "zh": "卧倒在地上的艾玛，<br>\n背上深深地插着一把刀具。",
+      "vi": "Ema nằm trên mặt đất, Có một con dao cắm sâu vào lưng anh ta.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative015",
+      "speaker_tag": "",
+      "ja": "事態の把握と共にやってきた痛みを堪えながら、<br>エマはなんとか背後を振り返る。",
+      "zh": "艾玛总算反应过来她遇上了什么事。她强忍着痛苦，<br>\n拼尽力气往身后看去。",
+      "vi": "Ema cuối cùng cũng nhận ra chuyện gì đã xảy ra với mình. Cô ấy đã chịu đựng nỗi đau, Hãy cố gắng hết sức để nhìn về phía sau bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative016",
+      "speaker_tag": "",
+      "ja": "視線の先に立っていたのは――",
+      "zh": "只见在她眼前站着的是——",
+      "vi": "Thứ cô nhìn thấy đang đứng trước mặt mình là——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Ema005",
+      "speaker_tag": "; > Ema: |#CommonBad02_Ema005|",
+      "ja": "！？",
+      "zh": "！？",
+      "vi": "！？",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Ema006",
+      "speaker_tag": "; > Ema: |#CommonBad02_Ema006|",
+      "ja": "（なんで、この子が……<br>　もしかしてノアちゃんを殺したのも……？）",
+      "zh": "（为什么她会……<br>\n难道杀死诺亚的也是她……？）",
+      "vi": "(Tại sao cô ấy lại... Có lẽ nào cô ấy là người đã giết Noah...? )",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad02_Narrative017",
+      "speaker_tag": "",
+      "ja": "問いただす暇もなく、<br>【彼女】は凶器を手にエマを――",
+      "zh": "未等艾玛开口询问，<br>\n【她】再次向艾玛挥下了凶器——",
+      "vi": "Trước khi Ema kịp hỏi, [Cô ấy] lại vẫy vũ khí giết người với Ema——",
+      "objection_links": []
+    }
+  ]
+}

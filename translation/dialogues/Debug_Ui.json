@@ -1,0 +1,304 @@
+{
+  "bundle": "general-localization-zhhans-scripts-debug_assets_all.bundle",
+  "script_name": "Debug_Ui",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Debug/Debug_Ui' Naninovel scenario script",
+  "total_entries": 37,
+  "entries": [
+    {
+      "id": "~54c82df6",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # Options",
+      "zh": "",
+      "vi": "Debug_Ui # Options",
+      "objection_links": []
+    },
+    {
+      "id": "~c7d5aee0",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # Log",
+      "zh": "",
+      "vi": "Debug_Ui # Log",
+      "objection_links": []
+    },
+    {
+      "id": "~73174a9",
+      "speaker_tag": "; > @print |#~73174a9| !waitInput",
+      "ja": "エマたち一行は、<br>何より証拠を得られそうな殺害現場へと向かった。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~d42ae7d6",
+      "speaker_tag": "; > @print |#~d42ae7d6| !waitInput",
+      "ja": "足取りは重たい。<br>ノアの死体を直視したくない、という気持ちが大きい。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~3563838",
+      "speaker_tag": "; > @print |#~3563838| !waitInput",
+      "ja": "そんな中、シェリーはスキップしている。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~916e99d2",
+      "speaker_tag": "; > @print \"|#~916e99d2|\" author:Hanna !waitInput",
+      "ja": "「ちょっとあなた、神経どうにかしてるんじゃありません？<br>　よくスキップなんかできますわね」",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~9fd5abf2",
+      "speaker_tag": "; > @print \"|#~9fd5abf2|\" author:Sherry !waitInput",
+      "ja": "「ええっ、私気遣いの子ですよぉ？<br>　学校でも、みんなが避けてるの察知して距離あけてましたもん」",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~e0c9abb4",
+      "speaker_tag": "; > @print |#~e0c9abb4| author:Hanna !waitInput",
+      "ja": "「ナチュラルにハブられてません？」",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~5b121a55",
+      "speaker_tag": "; > @print \"|#~5b121a55|\" author:Sherry !waitInput",
+      "ja": "「そんなことないですって！<br>　みんな【妖精さん】って親しみを込めて呼んでくれてました！」",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~854aba99",
+      "speaker_tag": "; > @print |#~854aba99| author:Hanna !waitInput",
+      "ja": "「それ絶対良い意味じゃないですわ」",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~3cff067f",
+      "speaker_tag": "; > @print \"|#~3cff067f|\" author:Ema !waitInput",
+      "ja": "（こんな時だけど……<br>　ハンナちゃんが少し元気を取り戻してくれて良かった）",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~3510ea53",
+      "speaker_tag": "; > @print |#~3510ea53| !waitInput",
+      "ja": "２人のやり取りを横に、エマはホッとする。<br>とはいえ、ノアの房が近づけば近づくほど気が重くなる。",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~69884ff3",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # SaveLoad",
+      "zh": "",
+      "vi": "Debug_Ui # SaveLoad",
+      "objection_links": []
+    },
+    {
+      "id": "~e2151db6",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # Gallery",
+      "zh": "",
+      "vi": "Debug_Ui # Gallery",
+      "objection_links": []
+    },
+    {
+      "id": "~a0cf4b35",
+      "speaker_tag": "",
+      "ja": "ギャラリー画面表示",
+      "zh": "",
+      "vi": "màn hình hiển thị",
+      "objection_links": []
+    },
+    {
+      "id": "~c3dfc7e8",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # Gallery ends.",
+      "zh": "",
+      "vi": "Debug_Ui # Gallery ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~7713e3e6",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # Toast",
+      "zh": "",
+      "vi": "Debug_Ui # Toast",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "",
+      "vi": "Hướng dẫn phù thủy được cập nhật...",
+      "objection_links": []
+    },
+    {
+      "id": "~5a1cbe83",
+      "speaker_tag": "",
+      "ja": "トースト表示",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~e6326509",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # Toast ends.",
+      "zh": "",
+      "vi": "Debug_Ui # Toast ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~292e2552",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # Loading",
+      "zh": "",
+      "vi": "Debug_Ui # Loading",
+      "objection_links": []
+    },
+    {
+      "id": "~9d470ddb",
+      "speaker_tag": "",
+      "ja": "Now loading . (Long)",
+      "zh": "",
+      "vi": "Now loading . (Long)",
+      "objection_links": []
+    },
+    {
+      "id": "~8c210ba9",
+      "speaker_tag": "",
+      "ja": "Now loading .. (Long)",
+      "zh": "",
+      "vi": "Now loading .. (Long)",
+      "objection_links": []
+    },
+    {
+      "id": "~e7dcff1a",
+      "speaker_tag": "",
+      "ja": "Now loading ... (Long)",
+      "zh": "",
+      "vi": "Now loading ... (Long)",
+      "objection_links": []
+    },
+    {
+      "id": "~c22ab9a5",
+      "speaker_tag": "",
+      "ja": "Now loading . (Short)",
+      "zh": "",
+      "vi": "Now loading . (Short)",
+      "objection_links": []
+    },
+    {
+      "id": "~4a23720c",
+      "speaker_tag": "",
+      "ja": "Now loading .. (Short)",
+      "zh": "",
+      "vi": "Now loading .. (Short)",
+      "objection_links": []
+    },
+    {
+      "id": "~dbe3e1fb",
+      "speaker_tag": "",
+      "ja": "Now loading ... (Short)",
+      "zh": "",
+      "vi": "Now loading ... (Short)",
+      "objection_links": []
+    },
+    {
+      "id": "~9cb5049a",
+      "speaker_tag": "",
+      "ja": "Now loading . (Subtle)",
+      "zh": "",
+      "vi": "Now loading . (Subtle)",
+      "objection_links": []
+    },
+    {
+      "id": "~4a85e696",
+      "speaker_tag": "",
+      "ja": "Now loading .. (Subtle)",
+      "zh": "",
+      "vi": "Now loading .. (Subtle)",
+      "objection_links": []
+    },
+    {
+      "id": "~ba75c31d",
+      "speaker_tag": "",
+      "ja": "Now loading ... (Subtle)",
+      "zh": "",
+      "vi": "Now loading ... (Subtle)",
+      "objection_links": []
+    },
+    {
+      "id": "~fab8fd9f",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # Loading ends.",
+      "zh": "",
+      "vi": "Debug_Ui # Loading ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~32a488c",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # BlockInteraction",
+      "zh": "",
+      "vi": "Debug_Ui # BlockInteraction",
+      "objection_links": []
+    },
+    {
+      "id": "~4c2a774e",
+      "speaker_tag": "",
+      "ja": "Interaction blocked.",
+      "zh": "",
+      "vi": "Interaction blocked.",
+      "objection_links": []
+    },
+    {
+      "id": "~ae253f1",
+      "speaker_tag": "",
+      "ja": "Interaction blocked 2.",
+      "zh": "",
+      "vi": "Interaction blocked 2.",
+      "objection_links": []
+    },
+    {
+      "id": "~af495ba",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # BlockInteraction ends.",
+      "zh": "",
+      "vi": "Debug_Ui # BlockInteraction ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~47db1d3",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # ExecutionButton",
+      "zh": "",
+      "vi": "Debug_Ui # ExecutionButton",
+      "objection_links": []
+    },
+    {
+      "id": "~2a3e0091",
+      "speaker_tag": "",
+      "ja": "Debug_Ui # ExecutionButton ends.",
+      "zh": "",
+      "vi": "Debug_Ui # ExecutionButton ends.",
+      "objection_links": []
+    }
+  ]
+}

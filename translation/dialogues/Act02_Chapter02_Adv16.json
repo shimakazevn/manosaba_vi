@@ -1,0 +1,248 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Adv16",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Adv16' Naninovel scenario script",
+  "total_entries": 30,
+  "entries": [
+    {
+      "id": "0202Adv16_Narrative001",
+      "speaker_tag": "",
+      "ja": "ラウンジに集められた少女たちの前に、<br>ゴクチョーが姿を現す。",
+      "zh": "所有人已聚集在会客厅，<br>\n随后典狱长现身在众人面前。",
+      "vi": "Mọi người đã tập trung ở phòng khách, Sau đó quản giáo xuất hiện trước mặt mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Warden001",
+      "speaker_tag": "; > Warden: |#0202Adv16_Warden001|",
+      "ja": "さて、皆さんお揃いですね。<br>すでにお報せしましたが、<br>また殺人事件が起こってしまいました。",
+      "zh": "很好，大家都到齐了吧。<br>\n方才已经通知过各位，<br>\n又发生了一起凶杀案。",
+      "vi": "Tuyệt vời, mọi người đều ở đây. Tôi vừa thông báo cho bạn, Một vụ giết người khác xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Warden002",
+      "speaker_tag": "; > Warden: |#0202Adv16_Warden002|",
+      "ja": "前回と同じく、事前投票を行います。<br>怪しい方に証拠隠滅などされては困りますからね。",
+      "zh": "和上次一样，我们会举行先行投票。<br>\n要是让可疑人士销毁证据可就麻烦了。",
+      "vi": "Giống như lần trước, chúng tôi sẽ tổ chức bỏ phiếu trước. Sẽ rất rắc rối nếu những người khả nghi được phép tiêu hủy bằng chứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Adv16_Hiro001|",
+      "ja": "事前投票……いや、裁判すら開くまでもない。",
+      "zh": "其实并不需要先行投票……不，甚至连审判都不需要。",
+      "vi": "Thực ra không cần phải bỏ phiếu trước...không, thậm chí không cần phải xét xử.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Leia001",
+      "speaker_tag": "; > Leia: |#0202Adv16_Leia001|",
+      "ja": "ヒロくん、それはどういう意味だい？",
+      "zh": "希罗，你这是什么意思？",
+      "vi": "Anh hùng, ý anh là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Adv16_Hiro002|",
+      "ja": "犯人は明確だ。<br>銃を持って立っていたエマ以外にない！",
+      "zh": "凶手是谁很明显。<br>\n只能是拿着枪站在现场的艾玛！",
+      "vi": "Rõ ràng kẻ giết người là ai. Chỉ có thể là Ema cầm súng đứng tại hiện trường!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Ema001",
+      "speaker_tag": "; > Ema: |#0202Adv16_Ema001|",
+      "ja": "……怪しいのは、ヒロちゃんだよ。",
+      "zh": "……可疑的是你啊，希罗。",
+      "vi": "...Anh mới là người nghi ngờ đấy, Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative002",
+      "speaker_tag": "",
+      "ja": "黙っていたエマが、ぽつりと<ruby=\"つぶや\">呟</ruby>いた。",
+      "zh": "一直沉默不语的艾玛，低声喃喃道。",
+      "vi": "Ema, ​​người đã im lặng suốt thời gian qua, thì thầm với giọng trầm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Adv16_Hiro003|",
+      "ja": "何が言いたい？",
+      "zh": "你想说什么？",
+      "vi": "Bạn muốn nói gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Ema002",
+      "speaker_tag": "; > Ema: |#0202Adv16_Ema002|",
+      "ja": "ボクをあの時間に呼び出したのはヒロちゃんだ。",
+      "zh": "是你约我在那个时间点见面。",
+      "vi": "Chính bạn đã yêu cầu tôi gặp mặt vào thời điểm đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Ema003",
+      "speaker_tag": "; > Ema: |#0202Adv16_Ema003|",
+      "ja": "最初から、<br>ボクを陥れるつもりだったんじゃないかな。",
+      "zh": "你从一开始就想陷害我吧。<br>",
+      "vi": "Chắc chắn là anh đã cố gài bẫy tôi ngay từ đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative003",
+      "speaker_tag": "",
+      "ja": "少女たちの視線が私に集まった。",
+      "zh": "顿时少女们的视线都集中在我身上。",
+      "vi": "Đột nhiên, ánh mắt của tất cả các cô gái đều tập trung vào tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative004",
+      "speaker_tag": "",
+      "ja": "先ほどのエマとのやり取りから、<br>想定できていたことだ。",
+      "zh": "根据我和艾玛刚才的对话，<br>\n我已经预料到她会这么说了。",
+      "vi": "Theo cuộc trò chuyện giữa Ema và tôi vừa có, Tôi đã mong đợi cô ấy sẽ nói điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative005",
+      "speaker_tag": "",
+      "ja": "私は<ruby=\"きぜん\">毅然</ruby>とした態度で、それを受け止める。",
+      "zh": "我毅然决然地接住了她的话。",
+      "vi": "Tôi kiên quyết tiếp nhận lời nói của cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Adv16_Hiro004|",
+      "ja": "それで？ 私がココを殺し、<br>君に罪をなすりつけるつもりだと？",
+      "zh": "所以呢？你的意思是<br>\n我杀害了可可，再嫁祸给你？",
+      "vi": "Vì vậy? Ý bạn là Tôi giết Coco rồi đổ tội cho anh?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Ema004",
+      "speaker_tag": "; > Ema: |#0202Adv16_Ema004|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative006",
+      "speaker_tag": "",
+      "ja": "私とエマの、<ruby=\"にら\">睨</ruby>み合う視線が<ruby=\"こうさく\">交錯</ruby>した。",
+      "zh": "我们怒视彼此，视线交错。",
+      "vi": "Chúng tôi trừng mắt nhìn nhau, ánh mắt chạm nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Warden003",
+      "speaker_tag": "; > Warden: |#0202Adv16_Warden003|",
+      "ja": "あー、そういうのは裁判の時にやってもらえます？<br>とりあえず今は、ささっと投票しちゃってください。",
+      "zh": "啊——，可以请你们到审判时再争辩吗？<br>\n总之，现在请赶快开始投票。",
+      "vi": "À——, bạn có thể vui lòng đợi đến phiên tòa để tranh luận được không? Dù sao đi nữa, hãy nhanh chóng bắt đầu bỏ phiếu ngay bây giờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative007",
+      "speaker_tag": "",
+      "ja": "ゴクチョーに<ruby=\"うなが\">促</ruby>されて、<br>少女たちはスマホを操作して投票していく。",
+      "zh": "在典狱长的催促下，<br>\n少女们纷纷开始在手机上投票。",
+      "vi": "Theo sự thúc giục của quản giáo, Các cô gái bắt đầu bỏ phiếu trên điện thoại của họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative008",
+      "speaker_tag": "",
+      "ja": "何が起きたのかさっぱり<ruby=\"はあく\">把握</ruby>できない、<br>というのが正直なところだろう。",
+      "zh": "说实话，<br>\n我完全不清楚发生了什么事。",
+      "vi": "Thành thật mà nói, Tôi không biết chuyện gì đang xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative009",
+      "speaker_tag": "",
+      "ja": "ただ、私とエマが言い合いをしたことで、<br>少女たちが自然に投票先として選ぶのは――",
+      "zh": "但是我和艾玛的争吵<br>\n势必会导致一种投票结果——",
+      "vi": "Nhưng cuộc cãi vã của tôi với Ema Điều này chắc chắn sẽ dẫn đến kết quả bỏ phiếu——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative010",
+      "speaker_tag": "",
+      "ja": "ラウンジのモニターがついたかと思うと、<br>直後に間抜けなファンファーレ音が鳴り響いた。",
+      "zh": "会客厅的大屏幕亮起同时，<br>\n响起了滑稽的庆祝号角声。",
+      "vi": "Màn hình lớn trong phòng khách sáng lên cùng lúc, Một tiếng kèn ăn mừng hài hước vang lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative011",
+      "speaker_tag": "",
+      "ja": "そして、画面に映し出されていたのは……<br>私とエマの２人だった。",
+      "zh": "而后，画面上出现的是……<br>\n我和艾玛两人的相貌。",
+      "vi": "Sau đó, thứ xuất hiện trên màn hình là... Vẻ ngoài của Ema và tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Warden004",
+      "speaker_tag": "; > Warden: |#0202Adv16_Warden004|",
+      "ja": "おや、困りましたね。<br>ヒロさんとエマさん、同数トップですか。<br>では、とりあえず２人とも拘束ということで。",
+      "zh": "哎呀，这可麻烦了。<br>\n希罗小姐和艾玛小姐票数相同，并列第一呢。<br>\n那么，先将你们二位关起来吧。",
+      "vi": "Rất tiếc, điều này thật rắc rối. Cô Anh hùng và Ema có cùng số phiếu bầu và đứng ở vị trí đầu tiên. Vì vậy, hãy nhốt hai người lại trước đã.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Adv16_Hiro005|",
+      "ja": "２人とも拘束……？<br>納得いかないな。私は犯人ではない！",
+      "zh": "我们都要被关起来……？<br>\n这我不能接受。我不是凶手！",
+      "vi": "Tất cả chúng ta đều sẽ bị nhốt...? Tôi không thể chấp nhận điều này. Tôi không phải là kẻ giết người!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Warden005",
+      "speaker_tag": "; > Warden: |#0202Adv16_Warden005|",
+      "ja": "と、言われましても……ルールですので。<br>納得いかないのなら、裁判で証明してください。",
+      "zh": "可就算你这么说……规定就是规定。<br>\n如果你接受不了，就在审判中自证清白吧。",
+      "vi": "Nhưng ngay cả khi bạn nói vậy... quy tắc vẫn là quy tắc. Nếu bạn không thể chấp nhận nó, hãy chứng minh sự vô tội của bạn tại phiên tòa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Jailer001",
+      "speaker_tag": "; > Jailer: |#0202Adv16_Jailer001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative012",
+      "speaker_tag": "",
+      "ja": "看守の手が有無を言わさず、<br>私とエマを拘束する。",
+      "zh": "看守的手不由分说地<br>\n抓住我和艾玛。",
+      "vi": "Bàn tay của Cai Ngục vô tình Bắt tôi và Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative013",
+      "speaker_tag": "",
+      "ja": "その<ruby=\"すさ\">凄</ruby>まじい力に<ruby=\"あらが\">抗</ruby>えず、口を<ruby=\"ふさ\">塞</ruby>がれ、<br>私はただただエマを<ruby=\"にら\">睨</ruby>んでいた。",
+      "zh": "我无法抵抗它巨大的力气，再加上被它堵住嘴巴，<br>\n只能一个劲地瞪着艾玛。",
+      "vi": "Tôi không thể cưỡng lại được sức mạnh to lớn của nó, hơn nữa tôi còn bị nó bịt miệng, Anh chỉ có thể nhìn chằm chằm vào Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv16_Narrative014",
+      "speaker_tag": "",
+      "ja": "エマも、また私を。",
+      "zh": "而艾玛也是同样瞪着我。",
+      "vi": "Và Ema cũng nhìn tôi chằm chằm như vậy.",
+      "objection_links": []
+    }
+  ]
+}

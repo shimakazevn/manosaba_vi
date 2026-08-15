@@ -1,0 +1,584 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter03_Bad02",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter03/Act01_Chapter03_Bad02' Naninovel scenario script",
+  "total_entries": 72,
+  "entries": [
+    {
+      "id": "0103Bad02_Sherry001",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry001|",
+      "ja": "嫌です～！ 離れませ～ん！",
+      "zh": "不要～！我不放～！",
+      "vi": "Không~! Tôi sẽ không buông ra đâu~!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative001",
+      "speaker_tag": "",
+      "ja": "シェリーはよりハンナにくっつくように、<br>ぎゅっと抱きつく。",
+      "zh": "雪莉紧紧抱住汉娜，<br>\n贴得更紧了。",
+      "vi": "Sherry ôm chặt Hanna, Nó dính chặt hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna001",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna001|",
+      "ja": "ちょっ、そんなに抱きついたらっ……<br>苦しいですわ！ 馬鹿力！",
+      "zh": "呀，怎么这样抱过来……<br>\n喘不过气了！你抱太紧了！",
+      "vi": "Ừ, sao anh lại ôm em thế này... Hết hơi! Anh ôm em chặt quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry002",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry002|",
+      "ja": "わわっ！ そんな揺らさないでくださぁい。<br>怖いですよ～。",
+      "zh": "哇哇！请别晃得这么厉害。<br>\n好可怕啊～",
+      "vi": "Ôi! Làm ơn đừng lắc nhiều thế. Đáng sợ quá~",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna002",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna002|",
+      "ja": "これは、揺らしてるんじゃなくて……<br>あなたが重くて……っ",
+      "zh": "这不是我在晃……<br>\n是你太重了……",
+      "vi": "Đây không phải là Bổn tiểu thư chói sáng... Cậu nặng quá...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative002",
+      "speaker_tag": "",
+      "ja": "自力でシェリーを支えているハンナの腕は、<br>ぶるぶると震えていた。",
+      "zh": "汉娜独自支撑着雪莉的手臂<br>\n正在微微颤抖。",
+      "vi": "Một mình Hanna đỡ cánh tay của Sherry Đang hơi run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative003",
+      "speaker_tag": "",
+      "ja": "引き返そうにも、いつの間にか<br>エマとメルルのいる場所からは大分離れてしまっていた。",
+      "zh": "想要返回，却发现不知不觉间<br>\n已经离艾玛和梅露露所在的地方很远了。",
+      "vi": "Muốn quay lại nhưng vô tình thấy rằng Nó đã cách xa chỗ Ema và Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry003",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry003|",
+      "ja": "このまま、どこか丁度良さそうな場所に<br>降りましょう！",
+      "zh": "我们就这样，找个合适的地方<br>\n降落吧！",
+      "vi": "Hãy cùng tìm một nơi thích hợp Đất!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna003",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna003|",
+      "ja": "もう無理……っ！",
+      "zh": "我已经……撑不住了……！",
+      "vi": "Bổn tiểu thư không thể chịu đựng được nữa...!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry004",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry004|",
+      "ja": "へ？ うわっ……！",
+      "zh": "欸？哇啊……！",
+      "vi": "Hả? Ồ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative004",
+      "speaker_tag": "",
+      "ja": "突然、ハンナの魔法が解け、<br>２人は下の茂みに落ちてしまった。",
+      "zh": "突然，汉娜的魔法解除了，<br>\n两人掉进了下面的灌木丛中。",
+      "vi": "Đột nhiên, phép thuật của Hanna được dỡ bỏ, Cả hai rơi vào bụi cây phía dưới.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative005",
+      "speaker_tag": "",
+      "ja": "幸い、低空飛行だったこともあって<br>大きな怪我はしていないらしい。",
+      "zh": "幸运的是，由于飞行高度不高，<br>\n似乎没有受什么严重的伤。",
+      "vi": "May mắn thay, do độ cao bay thấp nên Có vẻ như không có vết thương nghiêm trọng nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative006",
+      "speaker_tag": "",
+      "ja": "シェリーの楽しげな笑い声が、青い空に響いた。",
+      "zh": "雪莉愉快的笑声在蓝天下回荡。",
+      "vi": "Tiếng cười vui vẻ của Sherry vang vọng dưới bầu trời xanh.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry005",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry005|",
+      "ja": "あははっ！ 楽しい～！",
+      "zh": "啊哈哈！真有趣～！",
+      "vi": "A ha ha! Thật thú vị~!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna004",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna004|",
+      "ja": "楽しいのは……ぜえ、ぜえ……<br>あなただけ……ぜえ、ぜえ……。",
+      "zh": "觉得有趣的……呼、呼……<br>\n只有你一个人……呼、呼……",
+      "vi": "Bổn tiểu thư thấy thú vị... Huh, Huh... Bạn là ngươi duy nhất... Huh, Huh...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative007",
+      "speaker_tag": "",
+      "ja": "寝転んだまま荒い呼吸を繰り返しながら、<br>ハンナは恨めしそうにシェリーを<ruby=\"にら\">睨</ruby>む。",
+      "zh": "汉娜躺在地上急促地喘着气，<br>\n不满地瞪着雪莉。",
+      "vi": "Hanna nằm trên mặt đất thở hổn hển, Nhìn Sherry không hài lòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry006",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry006|",
+      "ja": "ハンナさん、すぐには起き上がれなそうですね～。<br>少しここで休んでいきましょうか。",
+      "zh": "汉娜，看来你一时半会站不起来呢～<br>\n我们在这里休息一会吧。",
+      "vi": "Hanna, có vẻ như em sẽ không thể đứng dậy được trong một thời gian~ Chúng ta hãy nghỉ ngơi ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna005",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna005|",
+      "ja": "あなたは……先に戻っても、いいんですのよ！",
+      "zh": "你……可以先回去的！",
+      "vi": "Bạn... có thể quay lại trước!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry007",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry007|",
+      "ja": "そんなことできませんよ～。<br>ほうきに乗りたいって言ったのは私ですから。",
+      "zh": "那怎么行呢～<br>\n毕竟是我提议要骑扫帚的呀。",
+      "vi": "Làm sao nó có thể hoạt động được~ Suy cho cùng thì chính tôi là người đề nghị cưỡi chổi mà.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative008",
+      "speaker_tag": "",
+      "ja": "シェリーはハンナの隣に寝転がると、<br>１度大きく深呼吸をした。",
+      "zh": "雪莉躺在汉娜身边，<br>\n深深地吸了一口气。",
+      "vi": "Sherry nằm cạnh Hanna, Hãy hít một hơi thật sâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry008",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry008|",
+      "ja": "はぁ～……ここ気持ち良い場所ですね。",
+      "zh": "哈～……这里真是个舒服的地方呢。",
+      "vi": "Ha~...Đây quả là một nơi thoải mái.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna006",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna006|",
+      "ja": "まあ……悪くはないですわね。",
+      "zh": "嗯……确实不错呢。",
+      "vi": "Ừm...nó thực sự tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry009",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry009|",
+      "ja": "ハンナさんのおかげで、<br>良い場所を見つけちゃいました。",
+      "zh": "多亏了汉娜，<br>\n我们才能找到这么好的地方。",
+      "vi": "Cảm ơn Hanna, Chúng tôi vừa tìm thấy một nơi tuyệt vời như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna007",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna007|",
+      "ja": "べ、別に……わたくしは来たくて来たわけじゃ……。",
+      "zh": "我、我可不是……自己想来的……",
+      "vi": "Bổn tiểu thư, Bổn tiểu thư không... muốn đến đây...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry010",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry010|",
+      "ja": "まあまあ、細かいことはいいじゃないですか！<br>こんなに良い気分なんですから！",
+      "zh": "好啦好啦，别在意这些小事嘛！<br>\n毕竟现在心情这么好！",
+      "vi": "Được rồi, được rồi, đừng lo lắng về những điều nhỏ nhặt này! Rốt cuộc, bây giờ tôi đang có tâm trạng rất tốt!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna008",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna008|",
+      "ja": "……たしかに、悪い気分ではないですけど。",
+      "zh": "……确实，感觉还不错呢。",
+      "vi": "...Quả thực, nó có cảm giác khá tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative009",
+      "speaker_tag": "",
+      "ja": "牢屋敷とは思えない穏やかな時間が、<br>シェリーとハンナを包む。",
+      "zh": "雪莉和汉娜享受着宁静的时光，<br>\n仿佛忘了身处监牢之中。",
+      "vi": "Sherry và Hanna tận hưởng khoảng thời gian yên tĩnh, Dường như anh đã quên mất mình đang ở trong tù.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative010",
+      "speaker_tag": "",
+      "ja": "その時ふと、シェリーが何かを思いついたように<br>口を開いた。",
+      "zh": "这时，雪莉突然像是想到了什么，<br>\n开口说道。",
+      "vi": "Lúc này, Sherry chợt như nghĩ tới điều gì đó, Anh ấy đã nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry011",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry011|",
+      "ja": "このまま２人で、行けるところまで<br>行っちゃいましょうか。",
+      "zh": "我们就这样两个人<br>\n有多远跑多远怎么样？",
+      "vi": "Chỉ có hai chúng ta Còn việc chạy xa như bạn muốn thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna009",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna009|",
+      "ja": "何を言ってるんですの？<br>そんなの無理に決まってますわ。",
+      "zh": "你在说什么呀？<br>\n那怎么行呢。",
+      "vi": "Bạn đang nói về cái gì vậy? Làm sao nó có thể hoạt động được?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry012",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry012|",
+      "ja": "どうして無理なんですか？",
+      "zh": "为什么不行呢？",
+      "vi": "Tại sao không?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna010",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna010|",
+      "ja": "どうしてって……逃げても、<br>すぐに看守に捕まってしまうでしょう。",
+      "zh": "为什么……就算逃跑，<br>\n很快就会被看守抓住的吧。",
+      "vi": "Tại sao...ngay cả khi bạn bỏ chạy, Anh Bổn tiểu thư sẽ bị Cai Ngục bắt sớm thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry013",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry013|",
+      "ja": "なら、捕まらないところまで逃げれば良いんですよ。",
+      "zh": "那就逃到它们抓不到的地方去啊。",
+      "vi": "Sau đó trốn đến một nơi mà họ không thể bắt được bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna011",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna011|",
+      "ja": "捕まらない、ところまで……。",
+      "zh": "逃到，抓不到的地方……",
+      "vi": "Hãy trốn đến một nơi mà bạn không thể bị bắt...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry014",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry014|",
+      "ja": "世界はとーっても広いんです。<br>そんな場所も、あるかもしれないでしょう？",
+      "zh": "世界可是非～常广阔的。<br>\n说不定真的有那样的地方哦？",
+      "vi": "Thế giới rất rộng lớn. Chẳng lẽ thực sự có một nơi như thế?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative011",
+      "speaker_tag": "",
+      "ja": "シェリーの言葉に、ハンナは大きく目を見張った。<br>驚きと、少しの期待に瞳は揺れる。",
+      "zh": "听到雪莉的话，汉娜睁大了眼睛。<br>\n眼中闪烁着惊讶和一丝期待。",
+      "vi": "Đôi mắt Hanna mở to khi nghe những lời của Sherry. Đôi mắt anh ánh lên sự ngạc nhiên và có chút chờ đợi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry015",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry015|",
+      "ja": "ハンナさんと私なら、行けるかもしれない。",
+      "zh": "如果是汉娜和我的话，也许真的可以。",
+      "vi": "Nếu là Hanna và tôi thì có lẽ sẽ như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative012",
+      "speaker_tag": "",
+      "ja": "シェリーは、そっとハンナの手に触れた。",
+      "zh": "雪莉轻轻地触碰了汉娜的手。",
+      "vi": "Sherry chạm nhẹ vào tay Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna012",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna012|",
+      "ja": "……本当に、そう思ってますの？",
+      "zh": "……你真的，这么认为吗？",
+      "vi": "...Bạn có thực sự nghĩ vậy không?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry016",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry016|",
+      "ja": "何事も、やってみないとわからないじゃないですか。",
+      "zh": "凡事都要试试看才知道嘛。",
+      "vi": "Bạn phải thử mọi thứ trước khi biết.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative013",
+      "speaker_tag": "",
+      "ja": "柔らかく微笑むシェリーに、<br>ハンナはさらに瞳を揺らす。",
+      "zh": "面对温柔微笑的雪莉，<br>\n汉娜的眼神更加动摇了。",
+      "vi": "Đối mặt với Sherry đang mỉm cười dịu dàng, Ánh mắt của Hanna càng trở nên run rẩy hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry017",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry017|",
+      "ja": "もしかしたら、誰も知らないだけで<br>ここを抜け出す方法だってあるかも知れませんし。",
+      "zh": "说不定，其实有办法逃出这里，<br>\n只是大家都不知道而已。",
+      "vi": "Có lẽ, thực sự có một cách để thoát khỏi đây, Chỉ là mọi người không biết thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry018",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry018|",
+      "ja": "魔女にだって、ならなくて済むかもしれない。<br>……そんな未来を、探したいんです。",
+      "zh": "也许我们甚至不用成为魔女。<br>\n……我想去寻找那样的未来。",
+      "vi": "Có lẽ chúng ta thậm chí không cần phải là phù thủy. ...Tôi muốn tìm thấy loại tương lai đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna013",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna013|",
+      "ja": "そう、ですわね。",
+      "zh": "是啊。",
+      "vi": "Vâng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative014",
+      "speaker_tag": "",
+      "ja": "今にも泣き出しそうな顔で、<br>ハンナは微笑んだ。",
+      "zh": "汉娜露出一个<br>\n仿佛随时都会哭出来的微笑。",
+      "vi": "Hanna cho thấy Một nụ cười tưởng như có thể khóc bất cứ lúc nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna014",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna014|",
+      "ja": "あなただけでは心配ですし……<br>わたくしも、ついて行って差し上げます。",
+      "zh": "只有你一个人的话我会担心的……<br>\n我也跟你一起去。",
+      "vi": "Bổn tiểu thư sẽ lo lắng nếu bạn ở một Bổn tiểu thư... Bổn tiểu thư cũng sẽ đi với bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry019",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry019|",
+      "ja": "はい！<br>一緒に自由になりましょう！",
+      "zh": "好！<br>\n一起获得自由吧！",
+      "vi": "Được rồi! Hãy cùng nhau được tự do!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative015",
+      "speaker_tag": "",
+      "ja": "それが、どんなに絶望的な希望でも、<br>縋らずにはいられない。",
+      "zh": "不管那是多么渺茫的希望，<br>\n她们也无法不去追寻。",
+      "vi": "Cho dù hy vọng đó có mong manh đến đâu, Họ không thể không theo đuổi nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative016",
+      "speaker_tag": "",
+      "ja": "それくらい、この環境は２人を追い詰め、<br>疲弊させていた。",
+      "zh": "这个环境已经将两人逼到了绝境，<br>\n让她们疲惫不堪。",
+      "vi": "Môi trường này đã đẩy cả hai vào tình thế tuyệt vọng, Làm họ mệt mỏi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna015",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna015|",
+      "ja": "あ、でも……あの２人は……。",
+      "zh": "啊，但是……那两个人……",
+      "vi": "À, nhưng...hai ngươi đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative017",
+      "speaker_tag": "",
+      "ja": "エマとメルルのことを言っているとわかったのか、<br>シェリーはさらに優しく微笑んだ。",
+      "zh": "似乎明白汉娜指的是艾玛和梅露露，<br>\n雪莉露出了更加温柔的微笑。",
+      "vi": "Có vẻ như hiểu rằng Hanna đang ám chỉ Ema và Meruru, Sherry nở một nụ cười nhẹ nhàng hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry020",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry020|",
+      "ja": "私たちが自由になって、<br>ちゃんと居場所ができたら、迎えにきましょう。",
+      "zh": "等我们获得自由，<br>\n找到安身之处后，就来接她们吧。",
+      "vi": "Khi chúng ta rảnh rỗi, Một khi bạn tìm thấy một nơi để ở, hãy đến đón họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry021",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry021|",
+      "ja": "エマさんとメルルさんだけじゃなく、<br>生き残ってるみんなを！",
+      "zh": "不只是艾玛和梅露露，<br>\n还要接上所有幸存下来的人！",
+      "vi": "Không chỉ Ema và Meruru, Và đón tất cả những người sống sót!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry022",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry022|",
+      "ja": "それで、今度は全員でピクニックをするんです。",
+      "zh": "然后，我们大家一起去野餐。",
+      "vi": "Sau đó, tất cả chúng tôi cùng nhau đi dã ngoại.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Sherry023",
+      "speaker_tag": "; > Sherry: |#0103Bad02_Sherry023|",
+      "ja": "それぞれの好きな物がたくさん入ったお弁当を持って、<br>あったかくて天気の良い場所で。",
+      "zh": "每个人带上装满自己喜欢的食物的便当，<br>\n去温暖又阳光明媚的地方。",
+      "vi": "Mọi người đều mang theo hộp cơm trưa chứa đầy món ăn yêu thích của mình, Đi đâu đó ấm áp và đầy nắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna016",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna016|",
+      "ja": "……いい考えですわね。",
+      "zh": "……这主意真不错呢。",
+      "vi": "...Đây thực sự là một ý tưởng hay.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Hanna017",
+      "speaker_tag": "; > Hanna: |#0103Bad02_Hanna017|",
+      "ja": "それじゃあ、行きますわよ<br>一緒に……。",
+      "zh": "那，走吧。<br>\n我们一起……",
+      "vi": "Vậy thì đi thôi. Cùng nhau chúng Bổn tiểu thư...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative018",
+      "speaker_tag": "",
+      "ja": "夢物語が現実になることを信じて、<br>シェリーとハンナは立ち上がり、手を取り合う。",
+      "zh": "雪莉和汉娜站了起来，牵起彼此的手，<br>\n相信梦想终会成真。",
+      "vi": "Sherry và Hanna đứng dậy, nắm lấy tay nhau, Hãy tin rằng giấc mơ cuối cùng sẽ thành hiện thực.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative019",
+      "speaker_tag": "",
+      "ja": "その時、ハンナの<ruby=\"ほほ\">頬</ruby>を伝った一筋の涙が<br>柔らかな風に<ruby=\"さら\">攫</ruby>われていった。",
+      "zh": "此时，一滴泪水从汉娜的脸颊滑落，<br>\n被柔和的风带走了。",
+      "vi": "Lúc này, một giọt nước mắt rơi trên má Hanna, Mang đi theo làn gió nhẹ nhàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative020",
+      "speaker_tag": "",
+      "ja": "しばらくして――",
+      "zh": "过了一会——",
+      "vi": "Sau một lúc——",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Ema001",
+      "speaker_tag": "; > Ema: |#0103Bad02_Ema001|",
+      "ja": "シェリーちゃーん！ ハンナちゃーん！<br>どこにいるのー？",
+      "zh": "雪莉～！汉娜～！<br>\n你们在哪里啊～？",
+      "vi": "Sherry~! Hana~! Bạn đang ở đâu~?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Meruru001",
+      "speaker_tag": "; > Meruru: |#0103Bad02_Meruru001|",
+      "ja": "心配してますー。返事してくださーい。",
+      "zh": "我们很担心你们。请回答一下～",
+      "vi": "Chúng tôi lo lắng cho bạn. Hãy trả lời đi~",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative021",
+      "speaker_tag": "",
+      "ja": "エマとメルルが、シェリーとハンナを<br>探しにやって来た。",
+      "zh": "艾玛和梅露露来寻找<br>\n雪莉和汉娜。",
+      "vi": "Ema và Meruru đến tìm Sherry và Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Meruru002",
+      "speaker_tag": "; > Meruru: |#0103Bad02_Meruru002|",
+      "ja": "全然見つかりません……<br>私が空を飛べれば、こんなことには……。",
+      "zh": "完全找不到她们……<br>\n如果我能飞的话，就不会这样了……",
+      "vi": "Không thể tìm thấy chúng... Nếu tôi có thể bay thì chuyện này đã không xảy ra...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Ema002",
+      "speaker_tag": "; > Ema: |#0103Bad02_Ema002|",
+      "ja": "メルルちゃんのせいじゃないよ！",
+      "zh": "这不是梅露露的错！",
+      "vi": "Đó không phải lỗi của Meruru!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Ema003",
+      "speaker_tag": "; > Ema: |#0103Bad02_Ema003|",
+      "ja": "きっと、ほうきから降りて２人でどこかに<br>隠れてるんじゃないかな？",
+      "zh": "说不定，她们从扫帚上下来后<br>\n躲在哪里了吧？",
+      "vi": "Có lẽ, sau khi họ xuống chổi Cậu đang trốn ở đâu đó à?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Ema004",
+      "speaker_tag": "; > Ema: |#0103Bad02_Ema004|",
+      "ja": "ほら、シェリーちゃんとか<br>そういうの好きそうだし。",
+      "zh": "你想啊，雪莉感觉就<br>\n很喜欢玩这种游戏。",
+      "vi": "Nghĩ mà xem, Sherry cảm thấy như Tôi thực sự thích chơi loại trò chơi này.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Meruru003",
+      "speaker_tag": "; > Meruru: |#0103Bad02_Meruru003|",
+      "ja": "隠れて……？",
+      "zh": "躲起来……？",
+      "vi": "Đang trốn...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Ema005",
+      "speaker_tag": "; > Ema: |#0103Bad02_Ema005|",
+      "ja": "そう、だからもう少し探してみよう。",
+      "zh": "对啊，所以我们再多找找吧。",
+      "vi": "Đúng, vậy chúng ta hãy tìm kiếm thêm.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Meruru004",
+      "speaker_tag": "; > Meruru: |#0103Bad02_Meruru004|",
+      "ja": "はい！",
+      "zh": "好的！",
+      "vi": "Được rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative022",
+      "speaker_tag": "",
+      "ja": "しかし、いくら探してもシェリーとハンナが<br>見つかることはなく――",
+      "zh": "然而，无论她们怎么寻找，<br>\n都再也没有找到雪莉和汉娜——",
+      "vi": "Tuy nhiên, cho dù họ tìm kiếm bằng cách nào, Sherry và Hanna không bao giờ được tìm thấy nữa——",
+      "objection_links": []
+    },
+    {
+      "id": "0103Bad02_Narrative023",
+      "speaker_tag": "",
+      "ja": "このあと、エマたちが再び２人に会うことは<br>二度となかった。",
+      "zh": "从此以后，艾玛她们<br>\n再也没有见到过这两个人。",
+      "vi": "Từ giờ trở đi, Ema và những người khác Hai người đàn ông không bao giờ được nhìn thấy nữa.",
+      "objection_links": []
+    }
+  ]
+}

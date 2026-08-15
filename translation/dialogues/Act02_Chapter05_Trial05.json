@@ -1,0 +1,1326 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial05",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial05' Naninovel scenario script",
+  "total_entries": 164,
+  "entries": [
+    {
+      "id": "0205Trial05_Hiro001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial05_Hiro001|",
+      "ja": "君は人に見られる為に<br>活動を続けていた……。",
+      "zh": "你为了受人瞩目，<br>\n而持续进行着活动……",
+      "vi": "Để thu hút sự chú ý, bạn Và các hoạt động vẫn tiếp tục...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial05_Hiro002|",
+      "ja": "どんな手段を使ってでも、<br>常に自分が一番でないと<br>気が済まなかったんだ。",
+      "zh": "无论使出什么手段，<br>\n都必须永远争到第一<br>\n才甘心。",
+      "vi": "Cho dù sử dụng phương tiện nào, Chúng ta phải luôn chiến đấu để giành vị trí đầu tiên Chỉ cần sẵn lòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial05_Leia001|",
+      "ja": "ち、違う！<br>私は、そんなこと……！",
+      "zh": "不、不对！<br>\n我，才没有……！",
+      "vi": "Không, điều đó không đúng! Tôi không...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial05_Hiro003|",
+      "ja": "何が違うのかな。",
+      "zh": "哪里不对了？",
+      "vi": "Có chuyện gì thế?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial05_Hiro004|",
+      "ja": "それとも君は、<br>魔法の使用を否定するのかい？",
+      "zh": "还是说，<br>\n你要否认你用了魔法吗？",
+      "vi": "Hay tôi nên nói, Bạn có muốn phủ nhận rằng bạn đã sử dụng phép thuật?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial05_Leia002|",
+      "ja": "そ、それは……。",
+      "zh": "这、这个……",
+      "vi": "Cái này, cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial05_Leia003|",
+      "ja": "……でも、<br>べつに不正をしていた<br>わけじゃない！",
+      "zh": "……可是，<br>\n我并没有做什么<br>\n不正当的事！",
+      "vi": "...Nhưng, Tôi không làm gì cả Có gì đó không phù hợp!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial05_Leia004|",
+      "ja": "オーディションや人と競う場で<br>自分を有利に<br>していたわけじゃないし……。",
+      "zh": "在试镜或者和他人竞争的时候，<br>\n我并没有用魔法<br>\n争取有利地位……",
+      "vi": "Khi thử giọng hoặc cạnh tranh với người khác, Tôi không sử dụng phép thuật Phấn đấu giành được vị trí thuận lợi...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial05_Leia005|",
+      "ja": "ただ……<br><link=\"Objection_02_05_05_01\">本番の舞台</link>の<br>クオリティを上げる為に……<br>使っていただけで……。",
+      "zh": "只不过是……<br>\n为了提升<br>\n<link=\"Objection_02_05_05_01\">正式演出</link>的品质……<br>\n才用过……",
+      "vi": "Chỉ là... Để cải thiện <link=\"Objection_02_05_05_01\">Chất lượng của các buổi biểu diễn trang trọng</link>... Chỉ cần sử dụng nó ...",
+      "objection_links": [
+        "Objection_02_05_05_01"
+      ]
+    },
+    {
+      "id": "0205Trial05_Leia006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial05_Leia006|",
+      "ja": "け、決して<br>誰かを蹴落とす為に<br>使ったわけじゃない！",
+      "zh": "绝、绝不是<br>\n为了除掉别人<br>\n才用的魔法！",
+      "vi": "Chắc chắn là không Để loại bỏ người khác Vừa mới sử dụng phép thuật!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia007",
+      "speaker_tag": "; > @printDebate pos:35,50 roll:-4 |#0205Trial05_Leia007|",
+      "ja": "私は舞台を<br><link=\"Objection_02_05_05_02\">見てくれた人たち</link>の為に……<br>そして共に演じる仲間の為に<br>魔法を使ったんだ！",
+      "zh": "我是<br>\n为了<link=\"Objection_02_05_05_02\">来看我演出的观众</link>……<br>\n以及为了共同演出的同伴<br>\n才使用魔法的！",
+      "vi": "Tôi là Dành cho <link=\"Objection_02_05_05_02\"> khán giả đến xem chương trình của tôi </link>... Và dành cho các bạn diễn của tôi Chỉ cần sử dụng phép thuật!",
+      "objection_links": [
+        "Objection_02_05_05_02"
+      ]
+    },
+    {
+      "id": "0205Trial05_Leia008",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial05_Leia008|",
+      "ja": "信じてくれ……！<br>私は今も、昔も、<br><link=\"Objection_02_05_05_03\">これから</link>も……<br>そんな卑怯な<br>真似なんてしない！",
+      "zh": "请相信我……！<br>\n不论是现在、过去、还是<br>\n<link=\"Objection_02_05_05_03\">将来</link>……<br>\n我都不会做<br>\n那种卑鄙的事情！",
+      "vi": "Xin hãy tin tôi...! Cho dù đó là hiện tại, quá khứ hay <link=\"Objection_02_05_05_03\">Trong tương lai</link>____ Tôi thậm chí không thể làm Đó là loại điều đáng khinh bỉ!",
+      "objection_links": [
+        "Objection_02_05_05_03"
+      ]
+    },
+    {
+      "id": "0205Trial05_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro005|",
+      "ja": "（レイアの言葉には嘘が混じっている）",
+      "zh": "（蕾雅的话里掺杂着谎言）",
+      "vi": "(Lời nói của Lea xen lẫn lời nói dối)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro006|",
+      "ja": "（彼女の言葉の中にある淀みは、<br>　自信のなさや後ろめたさの現れだろう）",
+      "zh": "（她话语中的犹豫，<br>\n大概是缺乏自信和心虚的表现吧）",
+      "vi": "(Sự ngập ngừng trong lời nói của cô ấy, Có lẽ là dấu hiệu của sự thiếu tự tin và lương tâm cắn rứt)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro007|",
+      "ja": "（……とはいえ、今それを指摘してどうなるものでもない）",
+      "zh": "（……只不过，现在指出那一点也没什么大作用）",
+      "vi": "(…nhưng việc chỉ ra điều đó bây giờ sẽ không có ích gì nhiều)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro008|",
+      "ja": "（重要なのは、<br>　レイアの人格を支える根幹たる部分を崩すような<br>　【トラウマ】を見つけることだ）",
+      "zh": "（重要的是，<br>\n得找到能够震撼支撑蕾雅人格根基的<br>\n【心理创伤】）",
+      "vi": "(Quan trọng là, Chúng ta phải tìm ra thứ có thể lay chuyển và hỗ trợ nền tảng nhân cách của Leya. [Chấn thương tâm lý])",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro009|",
+      "ja": "（それを刺激すれば、彼女の心を砕けるかもしれない）",
+      "zh": "（只要对其作出刺激，说不定就能击碎她的内心）",
+      "vi": "(Chỉ cần bạn kích thích cô ấy, bạn có thể sẽ làm tan nát trái tim cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro010|",
+      "ja": "（……我ながら、悪趣味な話だ）",
+      "zh": "（……我还真够恶趣味的）",
+      "vi": "(…Mình thực sự độc ác)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial05_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "本番以外でも使用していた",
+      "zh": "你在正式演出之外也用过",
+      "vi": "Bạn cũng sử dụng nó ngoài các buổi biểu diễn chính thức",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial05_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "ファンは許さない",
+      "zh": "粉丝不会原谅你的做法",
+      "vi": "Người hâm mộ sẽ không tha thứ cho những gì bạn đã làm",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial05_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "二度と表舞台に立てない",
+      "zh": "你再也无法站在聚光灯下了",
+      "vi": "Bạn không còn có thể đứng dưới ánh đèn sân khấu",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro011|",
+      "ja": "本当にそうかな？",
+      "zh": "到底是不是真的呢？",
+      "vi": "Có đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro012|",
+      "ja": "君は普段から、<br>視線固定の魔法を使用していた……。",
+      "zh": "你平时就在使用，<br>\n固定视线的魔法……",
+      "vi": "Bạn thường sử dụng nó, Sự kỳ diệu của việc sửa chữa tầm nhìn...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro013|",
+      "ja": "誰もが目を奪われるトップスターだからこそ<br>できる芸当だ。",
+      "zh": "正因为你是能夺走所有人目光的顶尖明星，<br>\n才能做到这种事。",
+      "vi": "Chỉ vì bạn là ngôi sao hàng đầu có thể thu hút sự chú ý của mọi người, Để làm loại chuyện này.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia009",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia009|",
+      "ja": "そ、そんな証拠はないじゃないか……！",
+      "zh": "你、你说的根本没证据……！",
+      "vi": "Bạn, hoàn toàn không có bằng chứng nào cho những gì bạn nói cả...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia010",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia010|",
+      "ja": "たしかに私はスターだった！<br>一般人から見れば、<br>まるで魔法を使ってたと思うかもしれない！",
+      "zh": "我确实是明星！<br>\n说不定在普通人看来，<br>\n我简直就是用了魔法！",
+      "vi": "Tôi thực sự là một ngôi sao! Có lẽ trong mắt người bình thường, Tôi vừa sử dụng phép thuật!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia011",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia011|",
+      "ja": "だがそれは違う！",
+      "zh": "但是这并不对！",
+      "vi": "Nhưng điều này không đúng!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia012",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia012|",
+      "ja": "私は、めちゃくちゃモテてた！！",
+      "zh": "我，超级受欢迎！！",
+      "vi": "Tôi siêu nổi tiếng! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia013",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia013|",
+      "ja": "男女問わず……それはもうモテモテだったんだよ！",
+      "zh": "不论男女……受欢迎得不得了！",
+      "vi": "Cả nam và nữ... đều cực kỳ nổi tiếng!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia014",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia014|",
+      "ja": "だからヒロくん……キミの反論は、間違っているよ！",
+      "zh": "所以希罗……你的反驳，是错的！",
+      "vi": "Vậy Anh hùng...sự phản bác của bạn là sai!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro014|",
+      "ja": "（くっ……！<br>　……顔がいい……！）",
+      "zh": "（唔……！<br>\n……居然脸不红心不跳……！）",
+      "vi": "(Hừm...! ...mặt anh không đỏ và tim anh không đập...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro015|",
+      "ja": "（だがこのレイアの自己肯定感、<br>　私が何を言っても否定しきれないか）",
+      "zh": "（蕾雅这份自我肯定感，<br>\n无论我说什么都无法完全否定吗？）",
+      "vi": "(Cảm giác tự khẳng định của Lea, Dù tôi có nói gì đi chăng nữa, tôi cũng không thể phủ nhận hoàn toàn được? )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro016|",
+      "ja": "（彼女の心を責めるには、<br>　別の角度から攻撃する必要があるな……）",
+      "zh": "（看来要刺伤她的内心，<br>\n得从别的角度攻击才行……）",
+      "vi": "(Hình như tim cô ấy đau lắm, Bạn phải tấn công từ một góc độ khác...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro017|",
+      "ja": "だけど、そんなことをしてファンは許してくれるかな？",
+      "zh": "可是，你做出这种事，你觉得粉丝们会原谅你吗？",
+      "vi": "Nhưng nếu bạn làm như vậy, bạn có nghĩ người hâm mộ sẽ tha thứ cho bạn không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro018|",
+      "ja": "【ファンと仲間の為に魔法を使った】……だって？<br>誰が信じてくれるんだい。",
+      "zh": "什么【为了粉丝和同伴使用了魔法】……？<br>\n谁信啊。",
+      "vi": "Cái gì [sử dụng phép thuật cho người hâm mộ và bạn đồng hành]...? Ai tin điều đó?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia015",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia015|",
+      "ja": "き、きっとファンのみんななら、信じてくれるさ！",
+      "zh": "是、是我的粉丝的话，一定会相信我的！",
+      "vi": "Nếu bạn là fan của tôi thì chắc chắn bạn sẽ tin tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia016",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia016|",
+      "ja": "……たしかに、この魔法を単なる才能のひとつだと思って、<br>何も知らずに使っていた時もあった……。",
+      "zh": "……我承认，我曾经误以为魔法的能力纯粹只是我的才能之一，<br>\n在不知情的情况下使用过……",
+      "vi": "...Tôi thừa nhận rằng tôi đã từng lầm tưởng rằng khả năng phép thuật chỉ là một trong những tài năng của tôi, Vô tình sử dụng...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia017",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia017|",
+      "ja": "だけど誓って、<br>仲間の見せ場を奪ったりしたことはない……！",
+      "zh": "但我发誓，<br>\n我从未夺走过同伴们出彩的机会……！",
+      "vi": "Nhưng tôi thề, Tôi chưa bao giờ tước đi cơ hội để đồng đội tỏa sáng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia018",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia018|",
+      "ja": "……ただ、ファンの視線の自由を<br>私が奪っていたのは事実だ。",
+      "zh": "……不过，我剥夺了粉丝们视线的自由，<br>\n这是事实。",
+      "vi": "...Tuy nhiên, tôi đã tước đi quyền tự do nhìn thấy của người hâm mộ, Điều này là đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia019",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia019|",
+      "ja": "そのことで私の信用が地に落ちたとしたら――。",
+      "zh": "如果我的信誉因此扫地的话——",
+      "vi": "Nếu uy tín của tôi bị hủy hoại——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia020",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia020|",
+      "ja": "ゼロから<br>やり直してみようと思う……！",
+      "zh": "我打算从零开始，<br>\n重新来过……！",
+      "vi": "Tôi định bắt đầu lại từ đầu, Bắt đầu lại từ đầu...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia021",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia021|",
+      "ja": "ファンへの贖罪も兼ねて……！",
+      "zh": "这也算是向粉丝赎罪……！",
+      "vi": "Đây có thể coi là sự chuộc lỗi đối với người hâm mộ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia022",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia022|",
+      "ja": "きっとみんな、ついてきてくれるはずさ！",
+      "zh": "大家一定会选择支持我的！",
+      "vi": "Mọi người chắc chắn sẽ chọn ủng hộ tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia023",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia023|",
+      "ja": "どうだい！ それで何も問題はないだろう！",
+      "zh": "怎么样！这下就没任何问题了吧！",
+      "vi": "Thế thì sao! Bây giờ sẽ không có vấn đề gì nữa!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro019|",
+      "ja": "（くっ……！<br>　ファンを信頼しているな……！）",
+      "zh": "（唔……！<br>\n她很信任粉丝啊……！）",
+      "vi": "(Hừm...! Cô ấy rất tin tưởng người hâm mộ...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro020|",
+      "ja": "（だがこのレイアの自己肯定感、<br>　私が何を言っても否定しきれないか）",
+      "zh": "（蕾雅这份自我肯定感，<br>\n无论我说什么都无法完全否定吗？）",
+      "vi": "(Cảm giác tự khẳng định của Lea, Dù tôi có nói gì đi chăng nữa, tôi cũng không thể phủ nhận hoàn toàn được? )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro021|",
+      "ja": "（彼女の心を責めるには、<br>　別の角度から攻撃する必要があるな……）",
+      "zh": "（看来要刺伤她的内心，<br>\n得从别的角度攻击才行……）",
+      "vi": "(Hình như tim cô ấy đau lắm, Bạn phải tấn công từ một góc độ khác...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro022|",
+      "ja": "何か……勘違いしているんじゃないかな。",
+      "zh": "我说你……是不是搞错了什么？",
+      "vi": "Tôi nói bạn... bạn có làm gì sai không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia024",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia024|",
+      "ja": "な、何がだい……？",
+      "zh": "什、什么……？",
+      "vi": "C-cái gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro023|",
+      "ja": "【これからも】……？<br>まさか君に【未来】があるとでも<br>思っているのか？",
+      "zh": "【将来】……？<br>\n难道你以为自己<br>\n还有【未来】吗？",
+      "vi": "[Tương lai]...? Bạn có nghĩ rằng bạn Có [tương lai] không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia025",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia025|",
+      "ja": "……え？",
+      "zh": "……欸？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro024|",
+      "ja": "ここに囚われたということは<br>君は魔女候補の少女だと認定されたということだ。",
+      "zh": "既然你被囚禁在这里，<br>\n就意味着你已被认定为预备魔女。",
+      "vi": "Vì bạn bị giam ở đây nên Nó có nghĩa là bạn đã được công nhận là một phù thủy dự bị.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro025|",
+      "ja": "いわば人間を滅ぼしかねない<br>魔女の因子を持った【世界の敵】……。",
+      "zh": "换言之，就是携带着会毁灭人类的<br>\n魔女因子的【世界之敌】……",
+      "vi": "Nói cách khác, họ mang theo thứ sẽ hủy diệt loài người. [Kẻ thù của thế giới] của Nhân tố phù thủy...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro026|",
+      "ja": "たとえここから脱出できたとしても、<br>君が表舞台に立つことは二度とないんだ。",
+      "zh": "就算能从这里逃出去，<br>\n你也无法再次站在聚光灯之下了。",
+      "vi": "Ngay cả khi bạn có thể thoát khỏi đây, Bạn không thể đứng dưới ánh đèn sân khấu nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia026",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia026|",
+      "ja": "……はは。<br>……そんな……バカな……。",
+      "zh": "……哈哈。<br>\n……怎么……可能……",
+      "vi": "...Haha. ...làm sao...có thể...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro027|",
+      "ja": "本当だよ。",
+      "zh": "是真的。",
+      "vi": "Đó là sự thật.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro028|",
+      "ja": "テレビやネットはもちろん、<br>小規模な公演だってできやしない。",
+      "zh": "别说电视和网络了，<br>\n就连小规模的公演都办不了。",
+      "vi": "Hãy quên TV và Internet đi, Ngay cả những buổi biểu diễn quy mô nhỏ cũng không thể được tổ chức.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro029|",
+      "ja": "君は仮にここから逃げ出しても一生日陰者として……<br>一切誰の注目も浴びずに生きるしかないんだ。",
+      "zh": "就算你从这里逃出去，也只能一辈子活在暗处……<br>\n在完全不被任何人关注的情况下苟活着。",
+      "vi": "Dù có trốn thoát khỏi đây thì bạn cũng chỉ có thể sống trong bóng tối suốt quãng đời còn lại... Sống sót mà không ai nhận ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia027",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia027|",
+      "ja": "………！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro030|",
+      "ja": "そしてこの牢屋敷だってそうだ。<br>囚人を捕らえるだけの場所ではない……。",
+      "zh": "还有就是这座监牢。<br>\n这不只是个关押囚犯的地方……",
+      "vi": "Và có Ngục Dinh Thự này. Đây không chỉ là nơi giam giữ tù nhân...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro031|",
+      "ja": "魔女を生み出す為に<br>少女たちの不安を煽り<br>殺し合わせる施設……。",
+      "zh": "还是煽动少女们的不安，<br>\n让她们互相残杀，<br>\n只为制造出魔女的设施……",
+      "vi": "Vẫn khiến các cô gái bất an, Hãy để họ giết lẫn nhau, Một cơ sở chỉ để tạo ra phù thủy...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro032|",
+      "ja": "まるで虫を壺の中に入れて争わせる<ruby=\"こどく\">蠱毒</ruby>のような……。",
+      "zh": "简直就像把虫子放进罐子里，让它们互相争斗的蛊毒一般……",
+      "vi": "Nó giống như việc bỏ bọ vào lọ và để chúng đánh nhau vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro033|",
+      "ja": "そんな地獄のような場所だ。",
+      "zh": "这里根本就是地狱。",
+      "vi": "Đây là địa ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro034|",
+      "ja": "ここにいる以上、<br>君がたどり着くのは死の運命か――。",
+      "zh": "只要身在此处，<br>\n等待你的就只有死亡的命运——",
+      "vi": "Miễn là bạn còn ở đây, Tất cả những gì đang chờ đợi bạn là số phận của cái chết——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro035",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro035|",
+      "ja": "もしくは殺し合いの末、<br>ただ独り生き残ってしまうか。",
+      "zh": "或者是互相残杀到最后，<br>\n独自一人存活下来。",
+      "vi": "Hoặc giết nhau đến cùng, Sống sót một mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro036",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro036|",
+      "ja": "そのどちらかなんだよ。",
+      "zh": "只有这两种结局。",
+      "vi": "Chỉ có hai kết thúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia028",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia028|",
+      "ja": "そ、そんなのは……嘘だ……！",
+      "zh": "这、这……你骗我……！",
+      "vi": "Cái này, cái này... anh đã lừa dối tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro037",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro037|",
+      "ja": "嘘じゃないよ。",
+      "zh": "我没骗你。",
+      "vi": "Tôi không nói dối bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro038",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro038|",
+      "ja": "……メルル、ここから出られた子は今までいるのかい。",
+      "zh": "……梅露露，至今为止有人成功从这里逃出去过吗？",
+      "vi": "...Meruru, cho đến nay đã có ai trốn thoát khỏi đây thành công chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Meruru001",
+      "speaker_tag": "; > Meruru: |#0205Trial05_Meruru001|",
+      "ja": "い、いいえ……！",
+      "zh": "没、没有……！",
+      "vi": "Không, không...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Meruru002",
+      "speaker_tag": "; > Meruru: |#0205Trial05_Meruru002|",
+      "ja": "可哀想ですけど……<br>一度捕らえられた少女が<br>逃げられたことはないです……。",
+      "zh": "尽管她们很可怜……<br>\n但从未出现过被抓来的少女<br>\n成功逃脱的情况……",
+      "vi": "Dù họ đáng thương... Nhưng cô gái bị bắt chưa bao giờ xuất hiện Cuộc trốn thoát thành công...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Meruru003",
+      "speaker_tag": "; > Meruru: |#0205Trial05_Meruru003|",
+      "ja": "魔女となり、なれはてとして朽ちるまで……。",
+      "zh": "直到变成魔女，化作残骸，直到海枯石烂……",
+      "vi": "Cho đến khi cô biến thành phù thủy, biến thành xác tàu, cho đến khi biển khô héo...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Meruru004",
+      "speaker_tag": "; > Meruru: |#0205Trial05_Meruru004|",
+      "ja": "この牢屋敷からは出られないんです……。",
+      "zh": "少女们都无法离开这座监牢……",
+      "vi": "Không ai trong số các cô gái có thể rời khỏi Ngục Dinh Thự này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Meruru005",
+      "speaker_tag": "; > Meruru: |#0205Trial05_Meruru005|",
+      "ja": "私を含め……<br>昔から今まで……ずっとずっと。",
+      "zh": "包括我在内……<br>\n从古至今……永远如此。",
+      "vi": "Bao gồm cả tôi... Điều này luôn luôn như vậy...và mãi mãi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia029",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia029|",
+      "ja": "――嘘だっ！！！",
+      "zh": "——你骗人！！！",
+      "vi": "--Anh nói dối! ! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia030",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia030|",
+      "ja": "こんな……こんな狭い、閉じた社会で……一生……！？",
+      "zh": "竟然要我……在这种狭窄、封闭的社会里……过一辈子……！？",
+      "vi": "Bạn thực sự muốn tôi... sống trong xã hội chật hẹp, khép kín này... đến hết cuộc đời...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia031",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia031|",
+      "ja": "そんなことは……ありえない……！",
+      "zh": "这……我无法接受……！",
+      "vi": "Điều này...tôi không thể chấp nhận được...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia032",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia032|",
+      "ja": "私は……私は……！",
+      "zh": "我……我……！",
+      "vi": "Tôi...tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia033",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia033|",
+      "ja": "もっと見てもらわないと……！",
+      "zh": "必须更受瞩目才行……！",
+      "vi": "Nó phải thu hút nhiều sự chú ý hơn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia034",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia034|",
+      "ja": "そうでないと……<br>生きる意味なんてないんだっ！！",
+      "zh": "不然的话……<br>\n活着就没有任何意义了！！",
+      "vi": "Nếu không... Sống chẳng còn ý nghĩa gì nữa! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro039",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro039|",
+      "ja": "（【なった】か……！）",
+      "zh": "（【成了】吗……！）",
+      "vi": "([Xong rồi]...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Ema001",
+      "speaker_tag": "; > Ema: |#0205Trial05_Ema001|",
+      "ja": "ま、魔女化……！",
+      "zh": "魔、魔女化……！",
+      "vi": "Ma quỷ, phù thủy biến hình...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia035",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia035|",
+      "ja": "……そうだ。",
+      "zh": "……没错。",
+      "vi": "...đúng rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia036",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia036|",
+      "ja": "難しく考えることなんてない。",
+      "zh": "根本不用想得太复杂。",
+      "vi": "Không cần phải suy nghĩ quá phức tạp chút nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia037",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia037|",
+      "ja": "邪魔をするなら……殺してしまえばいいんだ。",
+      "zh": "如果有人碍事……只要把他杀掉就好了。",
+      "vi": "Nếu có ai cản đường... cứ giết hắn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia038",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia038|",
+      "ja": "それなら……せめて死にゆくその瞬間ぐらいは。",
+      "zh": "那样的话……至少在临死的那一瞬间——",
+      "vi": "Trong trường hợp đó... ít nhất là vào lúc chết——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia039",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia039|",
+      "ja": "私のこと……見てくれるよね。",
+      "zh": "那个人……会看着我吧。",
+      "vi": "Người đó...sẽ nhìn tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro040",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro040|",
+      "ja": "（まずい……！ 魔女化で殺意が暴走している……！<br>　取り押さえなくては……！）",
+      "zh": "（糟糕……！魔女化导致杀意失控了……！<br>\n必须得制服她……！）",
+      "vi": "(Ôi...! Bị biến thành phù thủy đã khiến ý định giết người vượt khỏi tầm kiểm soát...! Cô ấy phải bị khuất phục...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Meruru006",
+      "speaker_tag": "; > Meruru: |#0205Trial05_Meruru006|",
+      "ja": "……私に任せてください。",
+      "zh": "……请交给我吧。",
+      "vi": "...Xin hãy để nó cho tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro041",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro041|",
+      "ja": "メルル……！",
+      "zh": "梅露露……！",
+      "vi": "Meruru……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Meruru007",
+      "speaker_tag": "; > Meruru: |#0205Trial05_Meruru007|",
+      "ja": "さあ……レイアさん大丈夫ですよ。",
+      "zh": "来……蕾雅小姐没事的。",
+      "vi": "Thôi nào...cô Leia ổn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Meruru008",
+      "speaker_tag": "; > Meruru: |#0205Trial05_Meruru008|",
+      "ja": "……よーしよーし……。<br>落ち着いてください……。",
+      "zh": "……没事的，没事的……<br>\n请你冷静下来……",
+      "vi": "...Không sao, không sao... Xin hãy bình tĩnh...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia040",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia040|",
+      "ja": "……これ……は。",
+      "zh": "……这……是……",
+      "vi": "...đây...là...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia041",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia041|",
+      "ja": "……なんだか……。",
+      "zh": "……总觉得……",
+      "vi": "...Tôi luôn cảm thấy...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia042",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia042|",
+      "ja": "……気持ち悪いな……。",
+      "zh": "……感觉很不舒服……",
+      "vi": "...cảm giác rất khó chịu...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia043",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia043|",
+      "ja": "数秒前の自分が別人だったかのような……<br>自分が自分じゃない感覚だ。",
+      "zh": "感觉几秒前的自己像是另一个人……<br>\n一种自己不是自己的感觉。",
+      "vi": "Tôi cảm thấy như mình là một người khác vài giây trước... Một cảm giác rằng bạn không phải là chính mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia044",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia044|",
+      "ja": "生暖かいけれど……とても不快だ。",
+      "zh": "虽然暖乎乎的……但非常不舒服。",
+      "vi": "Mặc dù nó ấm áp...nhưng rất khó chịu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia045",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia045|",
+      "ja": "……もう落ち着いたから、放してくれないかな。",
+      "zh": "……我已经冷静下来了，你能放开我了吗？",
+      "vi": "...Tôi đã bình tĩnh lại rồi, bạn có thể để tôi đi được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Meruru009",
+      "speaker_tag": "; > Meruru: |#0205Trial05_Meruru009|",
+      "ja": "……はい。",
+      "zh": "……好的。",
+      "vi": "...Được rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro042",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro042|",
+      "ja": "（メルルの魔法……【治療】）",
+      "zh": "（这就是梅露露的魔法……【治疗】）",
+      "vi": "(Đây là phép thuật của Meruru...[Chữa lành])",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro043",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro043|",
+      "ja": "（一瞬でレイアが落ち着いた）",
+      "zh": "（她一瞬间就让蕾雅冷静下来了）",
+      "vi": "(Cô ấy giúp Leia bình tĩnh lại trong tích tắc)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro044",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro044|",
+      "ja": "（強力な向精神薬……いや、<br>　もっとタチの悪い薬のような魔法だな……）",
+      "zh": "（这魔法就像是强力的精神药物……不，<br>\n是性质更恶劣的药物……）",
+      "vi": "(Phép thuật này giống như một loại thuốc hướng thần cực mạnh... Không, Đó là một loại thuốc có đặc tính tệ hơn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro045",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro045|",
+      "ja": "（だが、安全な魔女化には使えそうだ）",
+      "zh": "（不过，正好能用来安全促进魔女化）",
+      "vi": "(Tuy nhiên, nó có thể được sử dụng để thúc đẩy quá trình biến đổi phù thủy một cách an toàn)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia046",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia046|",
+      "ja": "……どうやら私は【魔女】だったようだね。",
+      "zh": "……看来我还真是【魔女】呢。",
+      "vi": "...Có vẻ như tôi thực sự là một [Pháp sư].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia047",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia047|",
+      "ja": "それにふさわしい姿にもなってしまって……。",
+      "zh": "还变成了与之相称的外貌……",
+      "vi": "Nó cũng đã biến đổi thành một diện mạo phù hợp với nó...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia048",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia048|",
+      "ja": "……むっ",
+      "zh": "……唔。",
+      "vi": "...Hừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia049",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia049|",
+      "ja": "……ちょっと待ちたまえ。",
+      "zh": "……等一等。",
+      "vi": "...Đợi một chút.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia050",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia050|",
+      "ja": "これは……話が違う……！",
+      "zh": "这……和我之前想的不一样……！",
+      "vi": "Chuyện này...khác với những gì tôi nghĩ trước đây...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia051",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia051|",
+      "ja": "な、なんだこの姿は……！",
+      "zh": "这、这个外貌……！",
+      "vi": "Cái này, cái dáng vẻ này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia052",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia052|",
+      "ja": "……美しい……！",
+      "zh": "……太美了……！",
+      "vi": "...đẹp quá...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro046",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro046|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia053",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia053|",
+      "ja": "ふふ……化け物になるというから<br>どうなることかと思ったが<br>こんなに個性あふれる姿になるなんて……！",
+      "zh": "呵呵……还以为会变成丑陋的怪物，<br>\n结果竟然是变成<br>\n这么充满个性的样子……！",
+      "vi": "Haha... Tôi tưởng nó sẽ biến thành một con quái vật xấu xí, Kết quả hóa ra là Đầy cá tính...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro047",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro047|",
+      "ja": "（化け物じみた自己肯定感と、<br>　己の持つセンスへの絶対的自信……）",
+      "zh": "（怪物般的自我肯定感，<br>\n以及对自己品味的绝对自信……）",
+      "vi": "(cảm giác tự khẳng định khủng khiếp, Và sự tự tin tuyệt đối vào sở thích của chính bạn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro048",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro048|",
+      "ja": "（あらゆる意味でモンスターだ……<br>　蓮見レイア……）",
+      "zh": "（莲见蕾雅……<br>\n在各种意义上都是怪物啊……）",
+      "vi": "(Hasumi Leia...... Họ là những con quái vật theo mọi nghĩa...)",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia054",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia054|",
+      "ja": "……こうなった以上、後ろ向きになっていても仕方ないしね。",
+      "zh": "……事已至此，再消沉下去也无济于事。",
+      "vi": "…Sự việc đã đến nước này rồi, có chán nản cũng vô ích thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia055",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia055|",
+      "ja": "ヒロくんが言うには、<br>魔女化することがこの牢屋敷からの脱出に繋がるらしい。",
+      "zh": "按希罗的说法，<br>\n魔女化好像关系到能否逃离这座监牢。",
+      "vi": "Theo Anh hùng, Việc biến thành phù thủy dường như có liên quan đến việc bạn có thể thoát khỏi Ngục Dinh Thự này hay không.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia056",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia056|",
+      "ja": "なら、ヒロくんに賭けるのが<br>一番望みがあるということだろう！",
+      "zh": "那么我想，押宝希罗<br>\n大概是最有希望的吧！",
+      "vi": "Sau đó tôi nghĩ, hãy đặt cược vào Herro Có lẽ là hứa hẹn nhất!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hanna001",
+      "speaker_tag": "; > Hanna: |#0205Trial05_Hanna001|",
+      "ja": "魔女になったからって<br>開き直り過ぎですわー！？",
+      "zh": "虽说成了魔女，<br>\n你这是不是想得太开了啊！？",
+      "vi": "Mặc dù ngươi ấy đã trở thành phù thủy nhưng Bạn có đang suy nghĩ quá nhiều không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Leia057",
+      "speaker_tag": "; > Leia: |#0205Trial05_Leia057|",
+      "ja": "ふふ！<br>そう褒めないでくれたまえ！",
+      "zh": "呵呵！<br>\n请不要这么夸奖我！",
+      "vi": "Haha! Làm ơn đừng khen tôi như thế!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro049",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro049|",
+      "ja": "（魔女化した以上、<br>　なれはてとなるまでの時間が<br>　いくら残っているかはわからない……）",
+      "zh": "（她已经完成了魔女化，<br>\n离变成残骸还剩多少时间，<br>\n连她自己都不清楚……）",
+      "vi": "(Cô ấy đã hoàn thành quá trình biến đổi thành phù thủy, Còn bao nhiêu thời gian nữa cho đến khi nó trở thành một đống đổ nát, Ngay cả bản thân cô ấy cũng không biết...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro050",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro050|",
+      "ja": "（よってレイアの選択は正しい）",
+      "zh": "（所以蕾雅的选择是正确的）",
+      "vi": "(Vậy lựa chọn của Leya là chính xác)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro051",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro051|",
+      "ja": "（……まあ、その選択の退路を塞いだのは私だが）",
+      "zh": "（……虽然，堵死她退路的人是我）",
+      "vi": "(…Mặc dù, mình là người chặn đường rút lui của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro052",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro052|",
+      "ja": "（ともあれ、１人でも味方が増えるのは心強いか……）",
+      "zh": "（总之，多一个同伴总是让人安心的……）",
+      "vi": "(Tóm lại, có thêm một người bạn đồng hành luôn yên tâm hơn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro053",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro053|",
+      "ja": "（それにしても……）",
+      "zh": "（话说回来……）",
+      "vi": "(Rồi một lần nữa...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Alisa001",
+      "speaker_tag": "; > Alisa: |#0205Trial05_Alisa001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro054",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro054|",
+      "ja": "（【化け物が増えた】という顔をしているな）",
+      "zh": "（她脸上一副【怪物又增加了】的表情）",
+      "vi": "(Cô ấy có biểu cảm trên khuôn mặt như muốn nói \"có nhiều quái vật hơn\")",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro055",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro055|",
+      "ja": "（不信感が募って議論にならなくなる前に、<br>　みんなの魔女化を進める必要がある……）",
+      "zh": "（我必须在不信任感加剧到讨论不下去之前，<br>\n促进大家的魔女化……）",
+      "vi": "(Tôi phải làm điều này trước khi sự ngờ vực ngày càng tăng đến mức không thể tiếp tục thảo luận, Thúc đẩy sự biến đổi của mọi người thành phù thủy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro056",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro056|",
+      "ja": "（私が死に戻りの魔法を使ったことで得た<br>　経験、知識、情報……）",
+      "zh": "（我依靠死亡回溯魔法获得的那些<br>\n经验、知识、信息……）",
+      "vi": "(Những đó tôi có được nhờ vào phép thuật nhìn lại cái chết Kinh nghiệm, kiến thức, thông tin...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro057",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro057|",
+      "ja": "（思い出すんだ……）",
+      "zh": "（我必须回想起来这些情报……）",
+      "vi": "(Tôi phải nhớ lại thông tin này...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro058",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro058|",
+      "ja": "（そしてそれらを使って、<br>　新たな魔女を覚醒させることはできないか考えてみよう）",
+      "zh": "（然后利用它们，<br>\n思考能否让新的魔女觉醒吧）",
+      "vi": "(Sau đó hãy sử dụng chúng, Hãy suy nghĩ xem bạn có thể đánh thức một phù thủy mới hay không)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro059",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro059|",
+      "ja": "（私が遭遇した５つの殺人事件……）",
+      "zh": "（我所遭遇的五起凶杀案……）",
+      "vi": "(Năm vụ giết người tôi gặp phải...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro060",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro060|",
+      "ja": "（この中で、犯人のトラウマを<br>　明確にできそうな事件は……）",
+      "zh": "（在这些案件中，<br>\n能够明确凶手心理创伤的案件是……）",
+      "vi": "(Trong những trường hợp này, Trường hợp chấn thương tâm lý của kẻ sát nhân có thể được làm sáng tỏ là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro061",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro061|",
+      "ja": "（マーゴのトラウマは【優しくされること】……か？）",
+      "zh": "（玛格的心理创伤是【被温柔对待】吗……？）",
+      "vi": "(Có phải chấn thương tâm lý của Margo là do [được đối xử dịu dàng]...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro062",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro062|",
+      "ja": "（だが……条件が曖昧で範囲が広過ぎるな）",
+      "zh": "（但是……条件太模糊，范围太广了）",
+      "vi": "(Nhưng...điều kiện quá mơ hồ và phạm vi quá rộng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro063",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro063|",
+      "ja": "（それに彼女が真実を語った保証もない……か）",
+      "zh": "（而且，大概没人能保证她说了真话……）",
+      "vi": "(Ngoài ra, có lẽ không ai có thể đảm bảo rằng cô ấy đã nói sự thật...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro064",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro064|",
+      "ja": "（……一旦、べつの犯行動機を検証してみよう）",
+      "zh": "（……目前还是先验证一下其他人的作案动机吧）",
+      "vi": "(…Bây giờ, trước tiên hãy xác minh động cơ phạm tội của người khác)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro065",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro065|",
+      "ja": "（ナノカのトラウマは【姉】……か？）",
+      "zh": "（奈叶香的心理创伤是【姐姐】吗……？）",
+      "vi": "(Có phải chấn thương tâm lý của Nanoyaka là do [chị gái] của cô ấy gây ra...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro066",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro066|",
+      "ja": "（看守に危害を加えれば、<br>　なんとかなるかもしれないが……）",
+      "zh": "（如果去伤害看守，<br>\n或许能行……）",
+      "vi": "(Nếu bạn làm tổn thương Cai Ngục, Có lẽ nó sẽ thành công...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro067",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro067|",
+      "ja": "（魔女化したとはいえ、<br>　私の首を切断される方が速いだろうな）",
+      "zh": "（虽然她会变成魔女，<br>\n但恐怕我的脑袋会掉得更快）",
+      "vi": "(Mặc dù cô ấy sẽ trở thành phù thủy, Nhưng tôi sợ đầu tôi sẽ rụng nhanh hơn)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro068",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro068|",
+      "ja": "（それに……<br>　単純に姉がトラウマのトリガーというわけでは<br>　ないようにも思える)",
+      "zh": "（而且……<br>\n我感觉触发她心理创伤的原因<br>\n不仅仅是姐姐）",
+      "vi": "(Và... Điều tôi cảm thấy đã gây ra tổn thương tâm lý cho cô ấy Không chỉ là em gái)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro069",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro069|",
+      "ja": "（……一旦、べつの犯行動機を検証してみよう）",
+      "zh": "（……目前还是先验证一下其他人的作案动机吧）",
+      "vi": "(…Bây giờ, trước tiên hãy xác minh động cơ phạm tội của người khác)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro070",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro070|",
+      "ja": "（ハンナのトラウマは【金持ち】……か？）",
+      "zh": "（汉娜的心理创伤是【有钱人】吗……？）",
+      "vi": "(Có phải chấn thương tâm lý của Hanna là do [người giàu] gây ra...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro071",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro071|",
+      "ja": "（……お嬢様のフリをしているのが<br>　関係はしていそうだが……）",
+      "zh": "（……她假装大小姐的行为<br>\n似乎与此有关……）",
+      "vi": "(...Hành vi giả làm một cô gái trẻ Có vẻ như nó có liên quan đến việc này...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro072",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro072|",
+      "ja": "（しかしもしそうであれば、<br>　出会った瞬間にレイアは殺されているか）",
+      "zh": "（但如果真是这样，<br>\n蕾雅第一次遇到她的时候就会直接被她杀了才对吧）",
+      "vi": "(Nhưng nếu đúng như vậy, Leia chắc chắn đã bị cô ấy giết ngay lần đầu gặp cô ấy, phải không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro073",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro073|",
+      "ja": "（……一旦、べつの犯行動機を検証してみよう）",
+      "zh": "（……目前还是先验证一下其他人的作案动机吧）",
+      "vi": "(…Bây giờ, trước tiên hãy xác minh động cơ phạm tội của người khác)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro074",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro074|",
+      "ja": "（……これで犯行の動機やトラウマを<br>　探ることはできなさそうだ）",
+      "zh": "（……这个应该没办法<br>\n调查出作案动机和心理创伤）",
+      "vi": "(...Chúng ta không thể làm gì được về việc này Điều tra động cơ và chấn thương tâm lý)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro075",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro075|",
+      "ja": "（……ノアが犯行を決意した理由。それは――）",
+      "zh": "（……诺亚决心行凶的理由是——）",
+      "vi": "(…Lý do tại sao Noah quyết định giết người là——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Noah001",
+      "speaker_tag": "; > Noah: |#0205Trial05_Noah001|",
+      "ja": "アンアンちゃんが、<br>のあの絵を見たから……。",
+      "zh": "因为安安她……<br>\n看到了诺亚的画……",
+      "vi": "Bởi vì An'an... Noah đã nhìn thấy bức tranh của Nô-ê…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Noah002",
+      "speaker_tag": "; > Noah: |#0205Trial05_Noah002|",
+      "ja": "……あれね、本当はのあの絵じゃないの。",
+      "zh": "……那些啊，其实都不是诺亚画的。",
+      "vi": "...trên thực tế, những thứ đó không phải do Noah vẽ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Noah003",
+      "speaker_tag": "; > Noah: |#0205Trial05_Noah003|",
+      "ja": "みんなを騙しちゃってて、ごめんなさい。<br>でもね、本当ののあの絵はへたくそだったから。",
+      "zh": "对不起，诺亚骗了大家。<br>\n可是呢，那都是因为，诺亚画的画其实都很难看。",
+      "vi": "Xin lỗi, Noah đã nói dối mọi người. Nhưng, tất cả chỉ vì những bức tranh mà Noah vẽ thực ra rất xấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro076",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro076|",
+      "ja": "（自分が描いた絵を見られたこと……）",
+      "zh": "（被人看到了自己画的画……）",
+      "vi": "(Bức tranh tôi vẽ đã được nhìn thấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro077",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro077|",
+      "ja": "（その絵自体は私の記憶の中にしかない）",
+      "zh": "（那幅画本身只存在于我的记忆中）",
+      "vi": "(Bản thân bức tranh chỉ tồn tại trong ký ức của tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro078",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro078|",
+      "ja": "（だが……<br>　上手く使えばノアを追い詰めることができるかもしれない）",
+      "zh": "（只不过……<br>\n如果运用得当，或许能把诺亚逼入绝境）",
+      "vi": "(Chỉ là... Nếu sử dụng đúng cách, nó có thể đẩy Noah vào tình thế tuyệt vọng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro079",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro079|",
+      "ja": "……ノア。",
+      "zh": "……诺亚。",
+      "vi": "……Noah。",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Noah004",
+      "speaker_tag": "; > Noah: |#0205Trial05_Noah004|",
+      "ja": "わっ！？",
+      "zh": "哇！？",
+      "vi": "Ôi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Noah005",
+      "speaker_tag": "; > Noah: |#0205Trial05_Noah005|",
+      "ja": "……の、のあは悪い子じゃないよ……？",
+      "zh": "……诺、诺亚不是坏孩子哦……？",
+      "vi": "...Không, Noah không phải là cậu bé hư...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro080",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro080|",
+      "ja": "さて……それはどうかな。",
+      "zh": "是吗……那可不好说。",
+      "vi": "Thực sự...điều đó thật khó nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro081",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro081|",
+      "ja": "君には人に言えない秘密がある……そうだろう？",
+      "zh": "你有着不能告诉别人的秘密……对吧？",
+      "vi": "Bạn có một bí mật không thể nói cho người khác biết...phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Noah006",
+      "speaker_tag": "; > Noah: |#0205Trial05_Noah006|",
+      "ja": "！",
+      "zh": "！",
+      "vi": "！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Noah007",
+      "speaker_tag": "; > Noah: |#0205Trial05_Noah007|",
+      "ja": "な、なんのことかな～……。",
+      "zh": "你、你在说什么呀～……",
+      "vi": "Bạn, bạn đang nói về cái gì vậy~...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro082",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro082|",
+      "ja": "……私に嘘は通じない。",
+      "zh": "……对我撒谎是没用的。",
+      "vi": "...Nói dối tôi cũng chẳng ích gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial05_Hiro083",
+      "speaker_tag": "; > Hiro: |#0205Trial05_Hiro083|",
+      "ja": "正直に……話してもらおうか。",
+      "zh": "……老实坦白吧。",
+      "vi": "...Hãy trung thực và trung thực.",
+      "objection_links": []
+    }
+  ]
+}

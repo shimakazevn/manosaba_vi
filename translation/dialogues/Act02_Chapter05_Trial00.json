@@ -1,0 +1,392 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial00",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial00' Naninovel scenario script",
+  "total_entries": 48,
+  "entries": [
+    {
+      "id": "0205Trial00_Hiro001",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro001|",
+      "ja": "（……魔女裁判の開始だ）",
+      "zh": "（……魔女审判要开始了）",
+      "vi": "(…Thử thách phù thủy sắp bắt đầu)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro002|",
+      "ja": "（黒幕であるメルルが殺されても、<br>　牢屋敷への監禁は終わらなかった。<br>　そして――）",
+      "zh": "（就算幕后黑手梅露露被杀，<br>\n这座监牢对我们的囚禁也并未结束。<br>\n而且——）",
+      "vi": "(Ngay cả khi kẻ chủ mưu đằng sau hậu trường, Mei Lulu, bị giết, Việc giam giữ chúng tôi trong Ngục Dinh Thự này cũng chưa kết thúc. Và——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0205Trial00_Nanoka001|",
+      "ja": "私たちは本来、完全に魔女化する前に<br>国の管轄で殺処分されることが決まっていたの。",
+      "zh": "本来按规定，<br>\n国家机关会在我们完全变成魔女前把我们全部诛杀。",
+      "vi": "Ban đầu, theo quy định, Cơ quan nhà nước sẽ giết hết chúng ta trước khi chúng ta hoàn toàn trở thành phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0205Trial00_Nanoka002|",
+      "ja": "皮肉なことに、<br>私たちは氷上メルルが大魔女を見つけたいという目的で、<br>かろうじて生かされていたのよ。",
+      "zh": "可讽刺的是，<br>\n正因为冰上梅露露想利用我们找到大魔女，<br>\n我们才得以在夹缝中生存下来。",
+      "vi": "Trớ trêu thay, Chỉ vì Meluru on Ice muốn lợi dụng chúng ta để tìm mụ phù thủy lớn, Chúng tôi đã có thể sống sót trong các vết nứt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro003|",
+      "ja": "（以前のナノカの話からすると、<br>　メルルのやり方で、<br>　大魔女にたどり着くこともない――）",
+      "zh": "（结合之前奈叶香所说的，<br>\n靠梅露露的做法，<br>\n是不可能找出大魔女的——）",
+      "vi": "(Kết hợp với những gì Nanoyaka đã nói trước đây, Dựa vào cách tiếp cận của Meruru, Không thể tìm thấy phù thủy vĩ đại——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro004|",
+      "ja": "（よって私がメルルの代わりに、<br>　大魔女を呼び出す……！）",
+      "zh": "（所以，就由我来代替梅露露，<br>\n召唤大魔女……！）",
+      "vi": "(Vì vậy, hãy để tôi thay thế Meruru, Triệu hồi phù thủy vĩ đại...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro005|",
+      "ja": "（それによって何が起こるか未知数な部分はある……）",
+      "zh": "（虽然我不完全了解，召唤后会引发怎样的情况……）",
+      "vi": "(Mặc dù tôi không hoàn toàn hiểu chuyện gì sẽ xảy ra sau khi triệu hồi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro006|",
+      "ja": "（だが全ての元凶である大魔女をどうにかすれば、<br>　私たち魔女候補の持つ魔女因子を<br>　取り除くことができるかもしれない）",
+      "zh": "（但只要解决了万恶之源的大魔女，<br>\n或许就能消除我们这些<br>\n预备魔女身上的魔女因子）",
+      "vi": "(Nhưng miễn là mụ phù thủy vĩ đại, nguồn gốc của mọi tội ác được giải quyết, Có lẽ chúng ta có thể loại bỏ những này Chuẩn bị sẵn Yếu tố Ma Nữ trong phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro007|",
+      "ja": "（そうすれば私たちは魔女になることはなくなり、<br>　少女が監禁される理由はなくなる）",
+      "zh": "（这样一来，我们就不会变成魔女，<br>\n这群少女也没有理由再遭囚禁了）",
+      "vi": "(Bằng cách này, chúng ta sẽ không trở thành phù thủy, Không có lý do gì để những cô gái này phải ngồi tù nữa)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro008|",
+      "ja": "（ここにいる彼女たちを救えるのは<br>　――私だけだ！）",
+      "zh": "（能够拯救在场所有人的人<br>\n——只有我！）",
+      "vi": "(Người có thể cứu tất cả mọi người có mặt --Chỉ có tôi thôi! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Coco001",
+      "speaker_tag": "; > Coco: |#0205Trial00_Coco001|",
+      "ja": "……つーかこんなとこ集められてもさ。<br>あてぃしら何したらいいわけ？",
+      "zh": "……我说啊，你把我们召集来这种地方，<br>\n到底要我们干嘛？",
+      "vi": "...Coco đã nói, bạn đã triệu tập chúng Coco đến một nơi như thế này, Bạn muốn chúng Coco làm gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Leia001",
+      "speaker_tag": "; > Leia: |#0205Trial00_Leia001|",
+      "ja": "その通りだ！<br>私たちに何をさせるつもりだっ！",
+      "zh": "没错！<br>\n你到底打算让我们做什么！",
+      "vi": "Đúng vậy! Chính xác thì bạn định yêu cầu chúng tôi làm gì!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro009|",
+      "ja": "（……大魔女を呼び出す為には<br>　ここにいる全員の魔女化が必要だ）",
+      "zh": "（……要召唤大魔女，<br>\n就需要令在场所有人完成魔女化）",
+      "vi": "(...để triệu hồi phù thủy vĩ đại, Bạn cần biến mọi người có mặt thành phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro010|",
+      "ja": "（魔女化は過度のストレスをかけることで<br>　引き起こるもの……）",
+      "zh": "（魔女化是通过施加过度的心理压力<br>\n引发的……）",
+      "vi": "(Việc phù thủy đạt được bằng cách gây áp lực tâm lý quá mức gây ra...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro011|",
+      "ja": "（しかし……<br>　多大なストレスをかけさせる為に、<br>　暴力に訴えたりしても反発を招くだけだろう）",
+      "zh": "（但是……<br>\n如果为了施加巨大的心理压力而诉诸暴力，<br>\n恐怕只会招致反抗）",
+      "vi": "(Nhưng... Nếu dùng bạo lực để gây áp lực tâm lý lớn, Tôi sợ nó sẽ chỉ dẫn đến sự phản kháng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro012|",
+      "ja": "（何か使えそうな情報はなかったか……<br>　思い出してみよう）",
+      "zh": "（有没有什么可利用的情报呢……<br>\n试着回想一下吧）",
+      "vi": "(Có thông tin nào có thể sử dụng được không... Hãy thử suy nghĩ về nó)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Meruru001",
+      "speaker_tag": "; > Meruru: |#0205Trial00_Meruru001|",
+      "ja": "……さあ！ ヒロさん！<br>大魔女様を……呼び出しましょう！",
+      "zh": "……来吧！希罗小姐！<br>\n我们把大魔女大人……召唤出来吧！",
+      "vi": "... cố lên! Cô Hiro! Hãy triệu tập phù thủy vĩ đại...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro013|",
+      "ja": "……もちろんだ。",
+      "zh": "……好啊。",
+      "vi": "...Được rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro014|",
+      "ja": "だがそれには手順がある。",
+      "zh": "只不过，我们得按步骤来。",
+      "vi": "Tuy nhiên, chúng ta phải làm theo các bước.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro015|",
+      "ja": "……協力してくれるね？",
+      "zh": "……你会协助我的，对吧？",
+      "vi": "...Bạn sẽ giúp tôi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Meruru002",
+      "speaker_tag": "; > Meruru: |#0205Trial00_Meruru002|",
+      "ja": "は、はい！<br>なんでもお手伝いしますね……！",
+      "zh": "是、是的！<br>\n要做什么我都愿意帮忙……！",
+      "vi": "Vâng, vâng! Tôi sẵn sàng giúp đỡ bất cứ điều gì bạn cần...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Alisa001",
+      "speaker_tag": "; > Alisa: |#0205Trial00_Alisa001|",
+      "ja": "……魔女裁判――だったか？",
+      "zh": "……魔女审判——是叫这个吧？",
+      "vi": "...Thử thách phù thủy—nó được gọi như vậy phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Alisa002",
+      "speaker_tag": "; > Alisa: |#0205Trial00_Alisa002|",
+      "ja": "この中から魔女でも探そうってのかよ。",
+      "zh": "你是想从我们之中找出魔女吗？",
+      "vi": "Bạn đang cố gắng tìm kiếm phù thủy trong số chúng Tao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Margo001",
+      "speaker_tag": "; > Margo: |#0205Trial00_Margo001|",
+      "ja": "だとしたら、<br>とってもわかりやすい【魔女】が目の前にいるけどね？",
+      "zh": "如果真是这样，<br>\n那么大家眼前不就有一个非常显眼的【魔女】吗？",
+      "vi": "Nếu đúng như vậy, Vậy thì chẳng phải có một [Witch] rất dễ thấy trước mặt mọi người sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Noah001",
+      "speaker_tag": "; > Noah: |#0205Trial00_Noah001|",
+      "ja": "ヒロちゃんだね！",
+      "zh": "那就是希罗呢！",
+      "vi": "Đó là Anh hùng!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro016|",
+      "ja": "この際……そう思ってくれて構わない。",
+      "zh": "事到如今……你们要这么想也无妨。",
+      "vi": "Hiện tại...bạn nghĩ như vậy cũng không sao cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro017|",
+      "ja": "だが、私だけでなく君たちの中の魔女も<br>見つけさせてもらおうか。",
+      "zh": "但是，除了我之外，<br>\n我也要把你们之中的魔女找出来。",
+      "vi": "Nhưng ngoài tôi ra, Tôi cũng muốn tìm phù thủy trong số các bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Ema001",
+      "speaker_tag": "; > Ema: |#0205Trial00_Ema001|",
+      "ja": "………っ",
+      "zh": "………",
+      "vi": "………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro018|",
+      "ja": "（……私は【魔女】を見つけなくてはいけない）",
+      "zh": "（……我必须找出【魔女】）",
+      "vi": "(...Mình phải tìm [Witch])",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro019|",
+      "ja": "（彼女たちの心の中に潜む……【魔女の因子】）",
+      "zh": "（我要将潜藏在她们内心的……【魔女因子】——）",
+      "vi": "(Mình muốn đưa ra... [Nhân tố phù thủy] ẩn giấu trong trái tim họ——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro020|",
+      "ja": "（こんな牢屋敷に囚われた理由とも言える<br>　その【原罪】を白日のもとに晒すこと……）",
+      "zh": "（将那堪称遭囚禁原因的<br>\n【原罪】公之于众……）",
+      "vi": "(Lý do bị phạt tù là [Tội nguyên thủy] được công khai...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro021|",
+      "ja": "（それがこの【魔女裁判】で目指すもの――！）",
+      "zh": "（这正是我在这场【魔女审判】中要达成的目标——！）",
+      "vi": "(Đây chính xác là điều mình muốn đạt được trong [Thử thách phù thủy] này——!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro022|",
+      "ja": "告発しよう――。",
+      "zh": "我要揭发——",
+      "vi": "Tôi muốn vạch trần——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro023|",
+      "ja": "この中には、私以外にも魔女がいると！",
+      "zh": "在我们之中，除了我以外，还有别的魔女！",
+      "vi": "Trong số chúng ta, ngoài tôi ra, còn có những phù thủy khác!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0205Trial00_Nanoka003|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hanna001",
+      "speaker_tag": "; > Hanna: |#0205Trial00_Hanna001|",
+      "ja": "ま、魔女って……！<br>そんなのいったい誰ですの！？",
+      "zh": "魔、魔女……！<br>\n究竟谁是魔女！？",
+      "vi": "Ác quỷ, phù thủy...! Phù thủy là ai? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Coco002",
+      "speaker_tag": "; > Coco: |#0205Trial00_Coco002|",
+      "ja": "……つーかさっき<br>なんか化け物とごちゃごちゃ言ってたじゃん。",
+      "zh": "……话说刚才，<br>\n你不是跟什么怪物叽里咕噜说了一通吗。",
+      "vi": "...Nói đến vừa rồi, Không phải bạn đã nói chuyện với quái vật Jiligulu sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Coco003",
+      "speaker_tag": "; > Coco: |#0205Trial00_Coco003|",
+      "ja": "そこのメルっちが怪しいんじゃねーの！",
+      "zh": "那边的梅露亲才可疑吧！",
+      "vi": "Nụ hôn Melu ở đó chắc đáng nghi lắm!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Meruru003",
+      "speaker_tag": "; > Meruru: |#0205Trial00_Meruru003|",
+      "ja": "えっ！？ あ、そ、それは……！",
+      "zh": "欸！？啊、这、这个嘛……！",
+      "vi": "Hừ! ? A, cái này, cái này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Meruru004",
+      "speaker_tag": "; > Meruru: |#0205Trial00_Meruru004|",
+      "ja": "……その通りです。<br>もう隠す意味はなさそうですが……。",
+      "zh": "……你说得没错。<br>\n事到如今好像也没必要隐瞒了……",
+      "vi": "...Bạn nói đúng. Có vẻ như bây giờ không cần phải che giấu vấn đề nữa rồi...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Meruru005",
+      "speaker_tag": "; > Meruru: |#0205Trial00_Meruru005|",
+      "ja": "私は……魔女です。<br>この牢屋敷で皆さんを待っていました。",
+      "zh": "我……是魔女。<br>\n我一直在这座监牢里等待各位的到来。",
+      "vi": "Tôi... là một phù thủy. Tôi đã chờ đợi sự xuất hiện của bạn trong Ngục Dinh Thự này.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Meruru006",
+      "speaker_tag": "; > Meruru: |#0205Trial00_Meruru006|",
+      "ja": "言うなれば……<br>く、【黒幕】……でしょうか……？",
+      "zh": "简单来说……<br>\n算是，【幕后黑手】……吧……？",
+      "vi": "Nói một cách đơn giản... Vậy, [kẻ chủ mưu đằng sau hậu trường]... phải không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Ema002",
+      "speaker_tag": "; > Ema: |#0205Trial00_Ema002|",
+      "ja": "く、黒幕……！？",
+      "zh": "幕、幕后黑手……！？",
+      "vi": "Kẻ chủ mưu đằng sau hậu trường...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro024|",
+      "ja": "……しかし、１つ聞いてもいいかな。",
+      "zh": "……不好意思，我有一个问题想问你一下。",
+      "vi": "...Xin lỗi, tôi có một câu hỏi muốn hỏi bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro025|",
+      "ja": "君は魔女なのに姿形が通常の人間と変わりない。",
+      "zh": "你明明是魔女，外形却和普通人没什么两样。",
+      "vi": "Bạn rõ ràng là một phù thủy, nhưng vẻ ngoài của bạn không khác gì một người bình thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial00_Hiro026|",
+      "ja": "……私のように、【魔女化】はしていないのかな。",
+      "zh": "……难道你没有像我一样产生【魔女化】吗？",
+      "vi": "...Không phải bạn có [Biến đổi Phù thủy] giống tôi sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Meruru007",
+      "speaker_tag": "; > Meruru: |#0205Trial00_Meruru007|",
+      "ja": "……では少しだけ説明しますね。",
+      "zh": "……那就请允许我稍微说明一下……",
+      "vi": "...Vậy thì hãy để tôi giải thích một chút...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial00_Meruru008",
+      "speaker_tag": "; > Meruru: |#0205Trial00_Meruru008|",
+      "ja": "――魔女化について。",
+      "zh": "——有关魔女化的详情。",
+      "vi": "---Chi tiết về việc trở thành phù thủy.",
+      "objection_links": []
+    }
+  ]
+}

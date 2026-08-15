@@ -1,0 +1,294 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial27",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial27' Naninovel scenario script",
+  "total_entries": 35,
+  "entries": [
+    {
+      "id": "0205Trial27_Ema001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial27_Ema001|",
+      "ja": "ヒロちゃんとボクは……<br>幼馴染だった。",
+      "zh": "希罗和我……<br>\n从小就是好朋友。",
+      "vi": "Anh hùng và tôi... Họ là bạn tốt từ khi còn nhỏ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial27_Ema002|",
+      "ja": "それは中学に入ってからも<br>変わらなかった……。",
+      "zh": "这一点就算上了初中<br>\n也没有改变……",
+      "vi": "Điều này được tính là vào cấp trung học cơ sở Không có gì thay đổi...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial27_Ema003|",
+      "ja": "いつも<link=\"Objection_02_05_27_01\">２人</link>で<br>一緒にいて……。",
+      "zh": "一直都是<br>\n<link=\"Objection_02_05_27_01\">两个人</link>在一起……",
+      "vi": "Luôn <link=\"Objection_02_05_27_01\">Hai người </link> cùng nhau...",
+      "objection_links": [
+        "Objection_02_05_27_01"
+      ]
+    },
+    {
+      "id": "0205Trial27_Ema004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial27_Ema004|",
+      "ja": "けど、<br>ヒロちゃんは<br>留学で<link=\"Objection_02_05_27_02\">いなく</link><br>なっちゃって……。",
+      "zh": "可是，<br>\n希罗<br>\n因为留学<br>\n<link=\"Objection_02_05_27_02\">离开了</link>……",
+      "vi": "Tuy nhiên, Anh hùng Bởi vì du học <link=\"Objection_02_05_27_02\"> trái </link>…",
+      "objection_links": [
+        "Objection_02_05_27_02"
+      ]
+    },
+    {
+      "id": "0205Trial27_Ema005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial27_Ema005|",
+      "ja": "ボクは１人きりになった。",
+      "zh": "而我变成了孤单一人。",
+      "vi": "Và tôi trở nên cô đơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial27_Ema006|",
+      "ja": "だから……<br>苦しかったんだ。",
+      "zh": "所以……<br>\n我很痛苦。",
+      "vi": "Vậy... Tôi đang đau đớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial27_Ema007|",
+      "ja": "<link=\"Objection_02_05_27_03\">辛かった</link>んだよ、<br>ヒロちゃん……。",
+      "zh": "<link=\"Objection_02_05_27_03\">我很难受</link>呀，<br>\n希罗……",
+      "vi": "<link=\"Objection_02_05_27_03\">Tôi cảm thấy thật tệ</link>, Anh hùng...",
+      "objection_links": [
+        "Objection_02_05_27_03"
+      ]
+    },
+    {
+      "id": "0205Trial27_Hiro001",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro001|",
+      "ja": "（……………）",
+      "zh": "（……………）",
+      "vi": "（……………）",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro002|",
+      "ja": "（……断ち切ろう。<br>　この呪いを）",
+      "zh": "（……让我斩断<br>\n这个诅咒吧）",
+      "vi": "(...để tôi cắt bỏ Đây là một lời nguyền)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial27_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "３人いた",
+      "zh": "有第三个人",
+      "vi": "Có người thứ ba",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial27_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "私は戻ってきた",
+      "zh": "我回来了",
+      "vi": "tôi đã trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial27_Choice003| button:ChoiceButtons/Trial/Approval handler:TrialHiro",
+      "ja": "すまなかった",
+      "zh": "抱歉",
+      "vi": "xin lỗi",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro003|",
+      "ja": "だが私は留学から帰ってきた。",
+      "zh": "但是我留学完就回来了。",
+      "vi": "Nhưng tôi đã trở về sau khi đi du học.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro004|",
+      "ja": "……君はそれを覚えていないのか。",
+      "zh": "……你不记得了吗？",
+      "vi": "...bạn không nhớ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema008",
+      "speaker_tag": "; > Ema: |#0205Trial27_Ema008|",
+      "ja": "もちろん、覚えてるよ。",
+      "zh": "我当然记得啊。",
+      "vi": "Tất nhiên là tôi nhớ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema009",
+      "speaker_tag": "; > Ema: |#0205Trial27_Ema009|",
+      "ja": "……そのあと、ヒロちゃんはボクに冷たくなった……。",
+      "zh": "……从那之后，希罗对我的态度就变冷淡了……",
+      "vi": "...Kể từ đó, thái độ của Anh hùng đối với tôi trở nên lạnh lùng...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro005|",
+      "ja": "……そうだ。",
+      "zh": "……是的。",
+      "vi": "...vâng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro006|",
+      "ja": "（間違いはない）",
+      "zh": "（说得没错）",
+      "vi": "(Đúng vậy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro007|",
+      "ja": "辛かったろうな、エマ。",
+      "zh": "你很难受吧，艾玛。",
+      "vi": "Thật khó cho em, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro008|",
+      "ja": "すまなかった。",
+      "zh": "对不起。",
+      "vi": "Xin lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema010",
+      "speaker_tag": "; > Ema: |#0205Trial27_Ema010|",
+      "ja": "……ううん。",
+      "zh": "……没事的。",
+      "vi": "...Không sao đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema011",
+      "speaker_tag": "; > Ema: |#0205Trial27_Ema011|",
+      "ja": "こうしてわかってくれたなら……いいよ。",
+      "zh": "你能理解的话……就好了。",
+      "vi": "Nếu bạn có thể hiểu được...điều đó thật tuyệt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro009|",
+      "ja": "（……謝る機会ができたのは、よかったな……）",
+      "zh": "（……能有机会道歉，真是太好了……）",
+      "vi": "(…Thật tuyệt khi có cơ hội để xin lỗi…)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro010|",
+      "ja": "（だが……真実は突きつけなくてはいけない）",
+      "zh": "（但是……我必须揭露真相）",
+      "vi": "(Nhưng...tôi phải tiết lộ sự thật)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro011|",
+      "ja": "……違う。",
+      "zh": "……不对。",
+      "vi": "...sai.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro012|",
+      "ja": "私たちは……【３人】だった。",
+      "zh": "我们……是【三个人】。",
+      "vi": "Chúng tôi...là [ba người].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema012",
+      "speaker_tag": "; > Ema: |#0205Trial27_Ema012|",
+      "ja": "……っ！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro013|",
+      "ja": "私と君と彼女は……<br>ずっと３人でいた。",
+      "zh": "我和你和她……<br>\n一直是三个人在一起。",
+      "vi": "Tôi và bạn và cô ấy... Luôn có ba người ở cùng nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro014|",
+      "ja": "そのあと私がいなくなって……。",
+      "zh": "之后我离开了……",
+      "vi": "Sau đó tôi rời đi...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro015|",
+      "ja": "そして、帰ってきた時には。",
+      "zh": "然后，等我回来的时候。",
+      "vi": "Sau đó, khi tôi trở lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial27_Hiro016|",
+      "ja": "……すでに彼女は亡くなっていた。",
+      "zh": "……她已经过世了。",
+      "vi": "…Cô ấy đã qua đời.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema013",
+      "speaker_tag": "; > Ema: |#0205Trial27_Ema013|",
+      "ja": "そんな……そんな！",
+      "zh": "怎么会……怎么会！",
+      "vi": "Làm sao có thể... làm sao có thể!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema014",
+      "speaker_tag": "; > Ema: |#0205Trial27_Ema014|",
+      "ja": "そんなわけない、そんなわけないよヒロちゃん……！",
+      "zh": "不可能的，不可能的啊希罗……！",
+      "vi": "Không thể, không thể, Anh hùng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial27_Ema015",
+      "speaker_tag": "; > Ema: |#0205Trial27_Ema015|",
+      "ja": "ボク……は……！！",
+      "zh": "我……！！",
+      "vi": "Tôi...! !",
+      "objection_links": []
+    }
+  ]
+}

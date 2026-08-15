@@ -1,0 +1,32 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter01_Adv01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter01/Act02_Chapter01_Adv01' Naninovel scenario script",
+  "total_entries": 3,
+  "entries": [
+    {
+      "id": "0201Adv01_Unknown001",
+      "speaker_tag": "; > Unknown: |#0201Adv01_Unknown001|",
+      "ja": "うぅ……うぅう……！",
+      "zh": "呜呜……呜呜呜……！",
+      "vi": "Hức…… Hức hức……!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv01_Unknown002",
+      "speaker_tag": "; > Unknown: |#0201Adv01_Unknown002|",
+      "ja": "お願い……誰か……<br>誰か、助けて……。",
+      "zh": "拜托了……有没有人……<br>\n有人可以帮帮忙吗……",
+      "vi": "Xin hãy…… ai đó…… Làm ơn ai đó hãy cứu lấy……",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv01_Unknown003",
+      "speaker_tag": "; > Unknown: |#0201Adv01_Unknown003|",
+      "ja": "あの子を、助けてあげて――！",
+      "zh": "救救她吧——！",
+      "vi": "Làm ơn hãy cứu lấy đứa trẻ ấy――!",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Adv17",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Adv17' Naninovel scenario script",
+  "total_entries": 51,
+  "entries": [
+    {
+      "id": "0101Adv17_Narrative001",
+      "speaker_tag": "",
+      "ja": "夕食後、エマたちはシャワールームを利用した。",
+      "zh": "晚餐结束后，艾玛她们去了淋浴房洗澡。",
+      "vi": "Sau bữa tối, Ema và mọi người đến Phòng Tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative002",
+      "speaker_tag": "",
+      "ja": "昨日も利用したが、<br>シャワールームには各囚人番号が振られたロッカーがある。<br>その中には、下着や衣服の替えがきっちりと収められていた。",
+      "zh": "她们昨天也来洗过，所以她们都知道，<br>\n淋浴房里有标记了各个囚犯编号的存衣柜。<br>\n里面整齐地放着一整套的替换衣服，包括内衣裤在内。",
+      "vi": "Trong phòng tắm có các tủ khóa cá nhân được đánh số hiệu theo từng tù nhân, bên trong chứa sẵn quần áo sạch và đồ lót để thay thế.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative003",
+      "speaker_tag": "",
+      "ja": "規則によれば着ていた服は、<br>シャワールームに設置されている<br>ダストシュートに捨てなければいけない。",
+      "zh": "根据规定，穿过的衣服<br>\n要投进淋浴房内设置的<br>\n垃圾滑槽里丢掉。",
+      "vi": "Theo quy tắc, quần áo cũ đã mặc phải được vứt vào đường ống xả rác (Dust Chute) đặt trong phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Hanna001",
+      "speaker_tag": "; > Hanna: |#0101Adv17_Hanna001|",
+      "ja": "服を捨てるなんて……ぐぬぬ、もったいないですわ……。",
+      "zh": "竟然要丢掉衣服……咕唔唔，太浪费了……",
+      "vi": "Bắt vứt bỏ quần áo đi sao…… Hừ, lãng phí chết đi được……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Sherry001",
+      "speaker_tag": "; > Sherry: |#0101Adv17_Sherry001|",
+      "ja": "このダストシュート、地下の焼却炉に通じているんですよね。<br>焼却炉室を地下で見かけました。",
+      "zh": "这条垃圾滑槽，联通着地下的焚烧炉哦。<br>\n我在地下看到过焚烧炉室。",
+      "vi": "Đường ống xả rác này thông thẳng xuống Lò Thiêu dưới tầng hầm đó chị. Lúc nãy đi thám hiểm tầng hầm em có thấy phòng Lò Thiêu á.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Ema001",
+      "speaker_tag": "; > Ema: |#0101Adv17_Ema001|",
+      "ja": "ああ、そういえば……。",
+      "zh": "啊，听你这么一讲……",
+      "vi": "A, nhắc mới nhớ……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Ema002",
+      "speaker_tag": "; > Ema: |#0101Adv17_Ema002|",
+      "ja": "（地下を探索した時、焼却炉室があるのは見かけた）",
+      "zh": "（之前在探索地下的时候，确实见到过焚烧炉室）",
+      "vi": "（Lúc nãy đi thám hiểm tầng hầm mình cũng có thấy phòng Lò Thiêu thật）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Ema003",
+      "speaker_tag": "; > Ema: |#0101Adv17_Ema003|",
+      "ja": "（魔女図鑑の規則には【毎週月曜の１５時に稼働】<br>　とあったっけ）",
+      "zh": "（魔女图鉴的规定有写，<br>\n说是【每周一15时启动】）",
+      "vi": "（Trong Sổ Phù Thủy có ghi quy tắc: 【Lò Thiêu tự động vận hành đốt rác vào 15 giờ chiều thứ Hai hàng tuần】 thì phải）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Hanna002",
+      "speaker_tag": "; > Hanna: |#0101Adv17_Hanna002|",
+      "ja": "まだ全然着られますのに！",
+      "zh": "明明还能穿欸！",
+      "vi": "Rõ ràng là Bổn tiểu thư vẫn có thể mặc nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Sherry002",
+      "speaker_tag": "; > Sherry: |#0101Adv17_Sherry002|",
+      "ja": "私たちが魔女候補だからかもしれませんねー。<br>着てたものを全て焼却処分って、偏見のようなものを感じます。",
+      "zh": "说不定是因为我们是预备魔女才会这样。<br>\n穿过的东西都要烧掉，感觉像是某种偏见。",
+      "vi": "Đúng rồi đó! Cơ chế của Ngục Dinh Thự này tự động hóa hết trơn luôn á!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Ema004",
+      "speaker_tag": "; > Ema: |#0101Adv17_Ema004|",
+      "ja": "うん……。",
+      "zh": "嗯……",
+      "vi": "（Những thông tin này có thể sẽ rất quan trọng sau này……）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Sherry003",
+      "speaker_tag": "; > Sherry: |#0101Adv17_Sherry003|",
+      "ja": "単純に洗濯が面倒なのかもしれませんが！",
+      "zh": "也有可能只是因为洗衣服很麻烦！",
+      "vi": "Hoặc có thể việc giặt giũ là một việc rắc rối!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Sherry004",
+      "speaker_tag": "; > Sherry: |#0101Adv17_Sherry004|",
+      "ja": "でもそこまでチェックもされていない感じしますし、<br>嫌なら捨てなくても良いのでは。",
+      "zh": "不过我感觉这个查得不是很严，<br>\n不愿意的话不丢掉也可以吧。",
+      "vi": "Nhưng tôi cảm thấy cuộc điều tra này không nghiêm ngặt lắm, Bạn không nên vứt nó đi nếu không muốn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Hanna003",
+      "speaker_tag": "; > Hanna: |#0101Adv17_Hanna003|",
+      "ja": "うっ……嫌ですが、<br>規則違反がバレたら何をされるかわかりませんし……。",
+      "zh": "呜……虽然很不愿意，<br>\n但是要是被抓到违反了规定，不知道会遭怎样的处罚……",
+      "vi": "Ôi... Dù Bổn tiểu thư không muốn nhưng Nhưng nếu bị phát hiện vi phạm quy định thì không biết hình phạt sẽ như thế nào...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Hanna004",
+      "speaker_tag": "; > Hanna: |#0101Adv17_Hanna004|",
+      "ja": "仕方ないですわ、くそ～～！",
+      "zh": "真是没办法，该死～～！",
+      "vi": "Thực sự không có cách nào cả, chết tiệt~~!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Hanna005",
+      "speaker_tag": "; > Hanna: |#0101Adv17_Hanna005|",
+      "ja": "――しかも毎日同じ服着なきゃならないなんて！<br>せめて寝間着は用意してほしかったですわ。",
+      "zh": "——而且每天都要我们穿一模一样的衣服！<br>\n应该至少给我们准备一套睡衣才对。",
+      "vi": "---Và chúng Bổn tiểu thư bắt buộc phải mặc cùng một bộ quần áo mỗi ngày! Ít nhất chúng Bổn tiểu thư nên chuẩn bị một bộ đồ ngủ cho Bổn tiểu thư.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative004",
+      "speaker_tag": "",
+      "ja": "シャワーを浴びた後も、ハンナの<ruby=\"ぐち\">愚痴</ruby>は続いていた。<br>エマは苦笑を浮かべる。",
+      "zh": "冲完澡后，汉娜还继续吐着苦水。<br>\n艾玛只好露出苦笑。",
+      "vi": "Tắm xong, Hanna tiếp tục nôn ra nước đắng. Ema chỉ có thể cười khổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Ema005",
+      "speaker_tag": "; > Ema: |#0101Adv17_Ema005|",
+      "ja": "ま、まあまあ。<br>同じ服でも替えがあるのはありがたいよ。",
+      "zh": "算啦算啦。<br>\n虽说是一样的衣服，有得换就谢天谢地了。",
+      "vi": "Quên nó đi, quên nó đi. Mặc dù chúng là quần áo giống nhau nhưng cảm ơn Chúa nếu tôi có thể thay đổi chúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Sherry005",
+      "speaker_tag": "; > Sherry: |#0101Adv17_Sherry005|",
+      "ja": "ゴクチョーさんの趣味かもしれませんねぇ。",
+      "zh": "说不定这是典狱长的私人喜好哦。",
+      "vi": "Có lẽ đây là sở thích cá nhân của cai ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative005",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ほて\">火照</ruby>った体から<ruby=\"ゆげ\">湯気</ruby>を立てながら、<br>エマ、シェリー、ハンナの３人で通路を歩く。",
+      "zh": "艾玛、雪莉、汉娜她们三人正走在过道上，<br>\n热乎乎的身体还冒着白色的蒸气。",
+      "vi": "Ema, ​​Sherry và Hanna đang bước xuống lối đi, Hơi nước trắng bốc lên từ cơ thể ấm áp của anh.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Hanna006",
+      "speaker_tag": "; > Hanna: |#0101Adv17_Hanna006|",
+      "ja": "ふん、趣味は悪くないんじゃないかしら？",
+      "zh": "呵，看来它的喜好还不算太差……",
+      "vi": "Ha, xem ra sở thích của nó cũng không tệ lắm...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Sherry006",
+      "speaker_tag": "; > Sherry: |#0101Adv17_Sherry006|",
+      "ja": "気に入ってるんですね。",
+      "zh": "看来你还蛮喜欢的耶。",
+      "vi": "Có vẻ như bạn khá thích nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Hanna007",
+      "speaker_tag": "; > Hanna: |#0101Adv17_Hanna007|",
+      "ja": "べ、べべべべっつにぃ？ 気に入っていませんけどぉ？",
+      "zh": "才、才才才才没有吧？一点都不喜欢哦？",
+      "vi": "Tài năng, tài năng, tài năng, tài năng, tài năng, tài năng? Bạn không thích nó chút nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Ema006",
+      "speaker_tag": "; > Ema: |#0101Adv17_Ema006|",
+      "ja": "（なんか……こういうのいいなって思ったり）",
+      "zh": "（总感觉……这样的小打小闹也蛮不赖的）",
+      "vi": "(Tôi luôn cảm thấy... một cuộc chiến nhỏ như vậy cũng khá tốt)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative006",
+      "speaker_tag": "",
+      "ja": "歩くエマの口元は緩んでいる。",
+      "zh": "走在路上的艾玛微微弯起了嘴角。",
+      "vi": "Ema đang đi trên đường hơi cong khóe miệng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Ema007",
+      "speaker_tag": "; > Ema: |#0101Adv17_Ema007|",
+      "ja": "（こうやって友だち同士でおしゃべりしながら歩くのって<br>　憧れだった）",
+      "zh": "（我很向往像这样子<br>\n可以和朋友一起边走边聊天的时光）",
+      "vi": "(Tôi khao khát điều gì đó như thế này Thời gian để đi dạo và trò chuyện với bạn bè)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Ema008",
+      "speaker_tag": "; > Ema: |#0101Adv17_Ema008|",
+      "ja": "（もちろん、ボクらは囚人で、ここは牢獄なんだけど……<br>　なんか、忘れちゃいそうになるな）",
+      "zh": "（当然了，我们是囚犯，这里是监狱……<br>\n差点不知不觉，就把这件事忘了）",
+      "vi": "(Tất nhiên, chúng tôi là tù nhân, đây là Ngục Dinh Thự... Tôi gần như quên mất nó mà không nhận ra)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Sherry007",
+      "speaker_tag": "; > Sherry: |#0101Adv17_Sherry007|",
+      "ja": "あ、エマさん、ハンナさん、スマホ見てください。",
+      "zh": "啊，艾玛，汉娜，你们快看手机。",
+      "vi": "À, Ema, ​​Hanna, nhìn điện thoại của các bạn đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative007",
+      "speaker_tag": "",
+      "ja": "唐突にシェリーが切り出したことで、<br>エマとハンナはスマホを取り出す。",
+      "zh": "雪莉忽然打断了话题，<br>\n于是艾玛和汉娜拿出了手机。",
+      "vi": "Sherry đột nhiên cắt ngang chủ đề, Thế là Ema và Hanna lấy điện thoại ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative008",
+      "speaker_tag": "",
+      "ja": "すると、【蓮見レイア】の配信中ランプが点灯しており、<br>レイアの顔が画面に映った。",
+      "zh": "只见【莲见蕾雅】亮起了“正在直播”的灯，<br>\n屏幕上显示出蕾雅的脸。",
+      "vi": "Tôi thấy [Lea Hasumi] bật đèn \"Phát sóng trực tiếp\", Khuôn mặt của Leia hiện lên trên màn hình.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Leia001",
+      "speaker_tag": "; > Leia: |#0101Adv17_Leia001|",
+      "ja": "――団結するためにも<br>私も定期的に配信をしようと思う。",
+      "zh": "——也为了团结，<br>\n我觉得，我也应该定期开展直播。",
+      "vi": "---Cũng vì sự đoàn kết, Tôi nghĩ mình cũng nên tiến hành phát sóng trực tiếp thường xuyên.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Leia002",
+      "speaker_tag": "; > Leia: |#0101Adv17_Leia002|",
+      "ja": "みんな、気持ちをしっかり持ってほしいんだ。<br>どうか衝動的にならないでほしい。",
+      "zh": "希望各位可以保持积极的心态，<br>\n千万不要冲动行事。",
+      "vi": "Tôi hy vọng bạn có thể duy trì thái độ tích cực, Đừng bao giờ hành động bốc đồng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Leia003",
+      "speaker_tag": "; > Leia: |#0101Adv17_Leia003|",
+      "ja": "今は従うしか方法はない。<br>だが、私たちは決して屈しない。",
+      "zh": "目前我们别无办法，只能遵守规定。<br>\n但是，我们绝不屈服。",
+      "vi": "Hiện tại, chúng tôi không có lựa chọn nào khác ngoài việc tuân thủ các quy định. Nhưng chúng tôi sẽ không bao giờ nhượng bộ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Leia004",
+      "speaker_tag": "; > Leia: |#0101Adv17_Leia004|",
+      "ja": "全員で生き残って、必ずここを出るんだ。<br>大丈夫。私が必ず、なんとかしてみせる。",
+      "zh": "我们一定要做到，所有人能活着离开这里。<br>\n请放心，我一定会想办法实现。",
+      "vi": "Chúng ta phải làm sao để mọi người có thể sống sót rời khỏi đây. Đừng lo lắng, tôi chắc chắn sẽ tìm ra cách để biến điều đó thành hiện thực.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative009",
+      "speaker_tag": "",
+      "ja": "力強いレイアの言葉はエマの胸を打ち、<br>瞳が<ruby=\"うる\">潤</ruby>む。",
+      "zh": "艾玛的心被蕾雅充满力量的话语打动了。<br>\n她的眼角渗出了热泪。",
+      "vi": "Trái tim Ema cảm động trước những lời nói mạnh mẽ của Leia. Nước mắt trào ra nơi khóe mắt cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Ema009",
+      "speaker_tag": "; > Ema: |#0101Adv17_Ema009|",
+      "ja": "（さっき食堂でひりついて、みんなが怖がってたから<br>　安心させるために……レイアちゃんは偉いな……）",
+      "zh": "（刚刚食堂的事让大家都觉得很害怕。<br>\n为了安抚大家，蕾雅才开直播讲话的……她真的很了不起……）",
+      "vi": "(Chuyện vừa xảy ra ở Nhà Ăn khiến mọi người đều cảm thấy sợ hãi. Để xoa dịu mọi người, Leya đã có một bài phát biểu trực tiếp... Cô ấy thực sự tuyệt vời...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Ema010",
+      "speaker_tag": "; > Ema: |#0101Adv17_Ema010|",
+      "ja": "（ボクは自分のことしか考えられていない……）",
+      "zh": "（而我只会想着自己的事……）",
+      "vi": "(Và tôi sẽ chỉ nghĩ về những điều của riêng mình...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Hanna008",
+      "speaker_tag": "; > Hanna: |#0101Adv17_Hanna008|",
+      "ja": "ふんっ、こんなもの見る価値ありませんわね。",
+      "zh": "哼，这样的东西根本没有看的价值。",
+      "vi": "Hừm, thứ như vậy chẳng có giá trị gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative010",
+      "speaker_tag": "",
+      "ja": "捨て<ruby=\"ぜりふ\">台詞</ruby>を吐きながら、ハンナは食い入るように<br>スマホを見ている。",
+      "zh": "汉娜嘴上说着嫌弃，可视线还是<br>\n紧紧盯着手机不放。",
+      "vi": "Hanna nói rằng cô ấy rất ghê tởm nhưng đôi mắt của cô ấy vẫn Nhìn chằm chằm vào điện thoại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Sherry008",
+      "speaker_tag": "; > Sherry: |#0101Adv17_Sherry008|",
+      "ja": "ふむ。",
+      "zh": "哦～",
+      "vi": "Ồ~",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative011",
+      "speaker_tag": "",
+      "ja": "その様子が興味深かったのか、<br>シェリーがさっとハンナのスマホを取り上げた。",
+      "zh": "雪莉好像十分在意这个反应，<br>\n于是乎，她忽然间拿走了汉娜的手机。",
+      "vi": "Sherry có vẻ rất quan tâm đến phản ứng này, Sau đó, cô ấy bất ngờ lấy đi điện thoại di động của Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Hanna009",
+      "speaker_tag": "; > Hanna: |#0101Adv17_Hanna009|",
+      "ja": "！",
+      "zh": "！",
+      "vi": "！",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative012",
+      "speaker_tag": "",
+      "ja": "ハンナが慌てたように、<br>スマホに映ったレイアの姿を追い求める。",
+      "zh": "汉娜慌了神，<br>\n伸手就要取回映在手机上的蕾雅的身影。",
+      "vi": "Hanna hoảng sợ, Anh đưa tay ra để lấy lại hình bóng của Leya phản chiếu trên điện thoại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Hanna010",
+      "speaker_tag": "; > Hanna: |#0101Adv17_Hanna010|",
+      "ja": "何しますの！？ お返しなさい！",
+      "zh": "你在干什么！？把手机还给我！",
+      "vi": "Bạn đang làm gì vậy! ? Hãy trả lại điện thoại cho Bổn tiểu thư!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Sherry009",
+      "speaker_tag": "; > Sherry: |#0101Adv17_Sherry009|",
+      "ja": "ハンナさん、本当はレイアさんのこと<br>好きなんじゃないですか～？ そんな一生懸命になって。",
+      "zh": "汉娜，你这么拼命抢手机，<br>\n意思是你其实很喜欢蕾雅，对不对～？",
+      "vi": "Hanna, em đang muốn giật lấy chiếc điện thoại quá, Có nghĩa là bạn thực sự thích Leya rất nhiều phải không ~?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative013",
+      "speaker_tag": "",
+      "ja": "ぶんぶんスマホを振り回され、<br>ハンナが<ruby=\"ま\">真</ruby>っ<ruby=\"か\">赤</ruby>になって、<ruby=\"せわ\">忙</ruby>しなく視線を動かしている。",
+      "zh": "雪莉拿着手机左晃右晃，<br>\n汉娜的脸涨得通红，视线也跟着手机左来右去。",
+      "vi": "Sherry lắc điện thoại sang trái và phải, Mặt Hanna đỏ bừng, mắt cô dõi theo chiếc điện thoại từ trái sang phải.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Hanna011",
+      "speaker_tag": "; > Hanna: |#0101Adv17_Hanna011|",
+      "ja": "このゴリラ女！ 返せ！！",
+      "zh": "你个猩猩女！快还给我！！",
+      "vi": "Cô gái khỉ đột ơi! Trả lại cho Bổn tiểu thư nhanh lên! !",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Sherry010",
+      "speaker_tag": "; > Sherry: |#0101Adv17_Sherry010|",
+      "ja": "ふふふ、捕まえてごらんなさいな～。",
+      "zh": "呵呵呵，来抓我呀～",
+      "vi": "Hehehe, đến bắt tôi đi~",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative014",
+      "speaker_tag": "",
+      "ja": "追いかけっこを始めた２人に、<br>エマは<ruby=\"あき\">呆</ruby>れた表情になって、ため息を漏らした。",
+      "zh": "面对开始你追我赶的二人，<br>\n艾玛露出傻眼的表情，叹了一口气。",
+      "vi": "Đối mặt với hai người đang rượt đuổi nhau, Ema trông chết lặng và thở dài.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Narrative015",
+      "speaker_tag": "",
+      "ja": "その間、エマ自身も<br>レイアの映った画面から目が離せずにいる。",
+      "zh": "这期间，连艾玛自己也<br>\n目不转睛的望着屏幕上的蕾雅。",
+      "vi": "Trong khoảng thời gian này, ngay cả bản thân Ema cũng Anh chăm chú nhìn Leya trên màn hình.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv17_Ema011",
+      "speaker_tag": "; > Ema: |#0101Adv17_Ema011|",
+      "ja": "（レイアちゃんって、<br>　女の子を惚れさせる魔法を使えるのかな）",
+      "zh": "（蕾雅她是不是<br>\n会用迷住女孩子的魔法呢）",
+      "vi": "(Lea, cô ấy có phải Anh ấy có thể sử dụng phép thuật để quyến rũ các cô gái)",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Trial01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Trial01' Naninovel scenario script",
+  "total_entries": 64,
+  "entries": [
+    {
+      "id": "0202Trial01_Alisa001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial01_Alisa001|",
+      "ja": "犯人は黒部だろ。",
+      "zh": "凶手是黑部吧。",
+      "vi": "Kẻ sát nhân chắc chắn là Kurobe.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial01_Alisa002|",
+      "ja": "沢渡は脳天を<br>銃で吹っ飛ばされてんだ。",
+      "zh": "泽渡的头顶<br>\n都被枪给炸穿了。",
+      "vi": "Đầu của Zedu Tất cả đều bị bắn xuyên qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial01_Alisa003|",
+      "ja": "なら、犯人は<br><link=\"Objection_02_02_01_01\">銃を持ってる黒部</link><br>しかいねー。",
+      "zh": "那，凶手就是<br>\n<link=\"Objection_02_02_01_01\">拿着枪的黑部了</link>。<br>\n没别的可能。",
+      "vi": "Vậy thì kẻ sát nhân là <link=\"Objection_02_02_01_01\">Kurobe đang cầm súng</link>. Không có khả năng nào khác.",
+      "objection_links": [
+        "Objection_02_02_01_01"
+      ]
+    },
+    {
+      "id": "0202Trial01_Alisa004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial01_Alisa004|",
+      "ja": "何か反論あるかよ。",
+      "zh": "你有什么要反驳的吗。",
+      "vi": "Bạn có gì để phản bác không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Nanoka001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial01_Nanoka001|",
+      "ja": "……ないわね。",
+      "zh": "……没有。",
+      "vi": "…Không.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Nanoka002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial01_Nanoka002|",
+      "ja": "<link=\"Objection_02_02_01_02\">私だけ</link>が<br>銃を持っていたことは<br>否定できないわ。",
+      "zh": "手里有枪的<br>\n的确<link=\"Objection_02_02_01_02\">只有我</link>一个。<br>\n这点我无法否定。",
+      "vi": "với khẩu súng trên tay Quả thực <link=\"Objection_02_02_01_02\"> là người duy nhất tôi </link>. Tôi không thể phủ nhận điều này.",
+      "objection_links": [
+        "Objection_02_02_01_02"
+      ]
+    },
+    {
+      "id": "0202Trial01_Sherry001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial01_Sherry001|",
+      "ja": "<link=\"Objection_02_02_01_03\">謎は全て</link><br>解けちゃいましたね！<br>さすがアリサさんです！",
+      "zh": "<link=\"Objection_02_02_01_03\">谜题全都</link><br>\n解开了呢！<br>\n真不愧是亚里沙！",
+      "vi": "<link=\"Objection_02_02_01_03\">Tất cả câu đố</link>TAG_2__ Nó đã được mở khóa! Đúng như mong đợi từ Alisa!",
+      "objection_links": [
+        "Objection_02_02_01_03"
+      ]
+    },
+    {
+      "id": "0202Trial01_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro001|",
+      "ja": "（……どうやらアリサはナノカを疑っているらしい）",
+      "zh": "（……看样子亚里沙在怀疑奈叶香）",
+      "vi": "(...Có vẻ như Alisa đang nghi ngờ Nanoyaka)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro002|",
+      "ja": "（人は一度思考がロックされてしまうと、<br>　既存の考えに囚われてしまいがちだ……）",
+      "zh": "（人一旦陷入思维定式，<br>\n就会被禁锢在现有的思路里……）",
+      "vi": "(Khi một người rơi vào tư duy cố định, Bạn sẽ bị mắc kẹt trong dòng suy nghĩ hiện tại...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro003|",
+      "ja": "（間違った情報を指摘して、<br>　彼女の先入観を否定してみるとしよう）",
+      "zh": "（试着指出其中的错误信息，<br>\n反驳她先入为主的观点吧）",
+      "vi": "(Cố gắng chỉ ra thông báo lỗi, Bác bỏ quan điểm định sẵn của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Choice001",
+      "speaker_tag": "; > @choice |#0202Trial01_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "ナノカは現場にいなかった",
+      "zh": "奈叶香当时不在现场",
+      "vi": "Nanoyaka không có mặt vào thời điểm đó",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Choice002",
+      "speaker_tag": "; > @choice |#0202Trial01_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "他にも銃があった",
+      "zh": "还有其他枪",
+      "vi": "Có những khẩu súng khác",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Choice003",
+      "speaker_tag": "; > @choice |#0202Trial01_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "謎はまだある",
+      "zh": "还有其他谜题",
+      "vi": "Có những câu đố khác",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro004|",
+      "ja": "いや、ナノカが犯人だとは考えにくい。",
+      "zh": "不，凶手不太可能是奈叶香。",
+      "vi": "Không, kẻ sát nhân khó có thể là Nanoyaka.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro005|",
+      "ja": "死亡推定時刻が死体発見の直近なことから、<br>犯人は死体近くにいた人物から疑っていくべきだ。",
+      "zh": "推定死亡时间和发现尸体的时间离得很近，<br>\n更应当怀疑尸体边上的人才对。",
+      "vi": "Thời điểm được cho là tử vong và thời điểm thi thể được tìm thấy rất gần nhau, Bạn nên nghi ngờ những người bên cạnh xác chết hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa005",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa005|",
+      "ja": "でもよ、現場にいなくてもヤれんじゃねーのか？",
+      "zh": "可是，就算不在现场她也能下手吧？",
+      "vi": "Tuy nhiên, mày ấy vẫn có thể làm được ngay cả khi mày ấy không ở đó, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa006",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa006|",
+      "ja": "遠くから銃弾を撃ち込む方法だってあんだろ。",
+      "zh": "肯定有办法从远处射击的。",
+      "vi": "Phải có cách bắn từ xa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Sherry002",
+      "speaker_tag": "; > Sherry: |#0202Trial01_Sherry002|",
+      "ja": "ですね！ 狙撃とか！",
+      "zh": "对啊！比如说狙击！",
+      "vi": "Vâng! Ví dụ như bắn tỉa!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa007",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa007|",
+      "ja": "そんな芸当、<br>ドデカイ銃担いでる黒部ぐらいにしかできねーだろ。",
+      "zh": "这种绝招<br>\n只有天天扛着把大枪的黑部才能干得了吧。",
+      "vi": "Kiểu lừa này Chỉ có Kurobe, người hàng ngày mang theo một khẩu súng lớn mới có thể làm được điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa008",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa008|",
+      "ja": "いい加減なこと言ってんじゃねーぞ。",
+      "zh": "你可别胡说八道敷衍人啊。",
+      "vi": "Đừng nói những điều vô nghĩa và chiếu lệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro006|",
+      "ja": "（もっと直接的な証拠にもとづいた推理をしないと<br>　取り合ってはくれないか……）",
+      "zh": "（得根据更加直接的证据进行推理<br>\n才能讨论下去……）",
+      "vi": "(Bạn phải đưa ra suy luận dựa trên bằng chứng trực tiếp hơn Chỉ khi đó cuộc thảo luận mới có thể tiếp tục...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro007|",
+      "ja": "（……だが、凶器はナノカの銃とは限らない）",
+      "zh": "（……但凶器不一定是奈叶香的枪）",
+      "vi": "(…nhưng vũ khí giết người có thể không phải là súng của Nanoyaka)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro008|",
+      "ja": "（現場の状況を思い出そう。<br>　他にも凶器となりうるものはあったはずだ）",
+      "zh": "（回想一下案发现场的情况吧。<br>\n应该还有其他能当凶器的东西才对）",
+      "vi": "(Nhớ lại tình hình tại hiện trường vụ án. Chắc chắn phải có những thứ khác có thể dùng làm vũ khí giết người)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro009|",
+      "ja": "いいや、謎はまだある。",
+      "zh": "不，谜题还未完全解开。",
+      "vi": "Không, bí ẩn vẫn chưa được giải quyết hoàn toàn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro010|",
+      "ja": "ココがどこで殺されたのか……<br>彼女の配信についてなど――。",
+      "zh": "现阶段还有许多事情<br>\n未经验证。",
+      "vi": "Vẫn còn nhiều việc phải làm ở giai đoạn này Chưa được xác minh.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro011|",
+      "ja": "検証すべきことが残っている段階で<br>結論を出すのは早計じゃないか？",
+      "zh": "比如可可的死亡地点……还有她的直播等等，<br>\n现在就得出结论未免太早吧？",
+      "vi": "Ví dụ: nơi chết của Coco... và chương trình phát sóng trực tiếp của cô ấy, v.v., Bây giờ có phải là quá sớm để đưa ra kết luận?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa009",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa009|",
+      "ja": "んな細けーことはいいんだよ！",
+      "zh": "那些小事都无所谓！",
+      "vi": "Những điều nhỏ nhặt đó không quan trọng!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa010",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa010|",
+      "ja": "こんな裁判、早く終わるに越したことねーじゃねーか……！",
+      "zh": "最要紧的是赶紧搞完这破烂审判……！",
+      "vi": "Điều quan trọng nhất là phải nhanh chóng kết thúc cuộc thử nghiệm tồi tàn này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hanna001",
+      "speaker_tag": "; > Hanna: |#0202Trial01_Hanna001|",
+      "ja": "そ、それはそうですわね……。",
+      "zh": "那、那倒也是……",
+      "vi": "Điều đó, điều đó đúng...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa011",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa011|",
+      "ja": "探偵の真似事してーなら、あとで勝手にやれよ。",
+      "zh": "想扮侦探的话，待会随你怎么扮。",
+      "vi": "Nếu mày muốn chơi thám tử, mày có thể làm bất cứ điều gì mày muốn sau này.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Sherry003",
+      "speaker_tag": "; > Sherry: |#0202Trial01_Sherry003|",
+      "ja": "はい！ じゃあそうしますね！",
+      "zh": "好！那我就照做啦！",
+      "vi": "Được rồi! Thế thì tôi sẽ làm điều đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa012",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa012|",
+      "ja": "二階堂に言ってんだよ！",
+      "zh": "我在跟二阶堂说！",
+      "vi": "Tao đang nói chuyện với Nikaido!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro012|",
+      "ja": "（もっと直接的な証拠にもとづいた推理をしないと<br>　取り合ってはくれないか……）",
+      "zh": "（得根据更加直接的证据进行推理<br>\n才能讨论下去……）",
+      "vi": "(Bạn phải đưa ra suy luận dựa trên bằng chứng trực tiếp hơn Chỉ khi đó cuộc thảo luận mới có thể tiếp tục...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro013|",
+      "ja": "（……だが、凶器はナノカの銃とは限らない）",
+      "zh": "（……但凶器不一定是奈叶香的枪）",
+      "vi": "(…nhưng vũ khí giết người có thể không phải là súng của Nanoyaka)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro014",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro014|",
+      "ja": "（現場の状況を思い出そう。<br>　他にも凶器となりうるものはあったはずだ）",
+      "zh": "（回想一下案发现场的情况吧。<br>\n应该还有其他能当凶器的东西才对）",
+      "vi": "(Nhớ lại tình hình tại hiện trường vụ án. Chắc chắn phải có những thứ khác có thể dùng làm vũ khí giết người)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro015",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro015|",
+      "ja": "……どうやらアリサ、<br>君は知らないようだ。",
+      "zh": "……看来，<br>\n亚里沙你不知道啊。",
+      "vi": "...Có vẻ như, Alisa, em không biết đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa013",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa013|",
+      "ja": "……あ？<br>何がだ？",
+      "zh": "……啊？<br>\n不知道什么？",
+      "vi": "...Hả? Không biết cái gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro016",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro016|",
+      "ja": "もちろん、【もう１丁の銃】の存在だよ。",
+      "zh": "那当然就是，【另一把枪】。",
+      "vi": "Tất nhiên, đó là [một khẩu súng khác].",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa014",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa014|",
+      "ja": "もう１丁の銃だと……？",
+      "zh": "还有另一把枪……？",
+      "vi": "Và một khẩu súng khác...?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro017",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro017|",
+      "ja": "そう。<br>現場にはそれが残されていた。",
+      "zh": "没错。<br>\n有把枪留在了现场。",
+      "vi": "Đúng vậy. Một khẩu súng được để lại tại hiện trường.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro018",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro018|",
+      "ja": "もしくは……<br>発見者は、わざと君たちに伝えなかったのかな？",
+      "zh": "难道说……<br>\n发现人故意瞒着没告诉你们？",
+      "vi": "Có lẽ nào... Bạn có phát hiện ra người đó cố tình giấu bạn không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Ema001",
+      "speaker_tag": "; > Ema: |#0202Trial01_Ema001|",
+      "ja": "――そんなことないよ。",
+      "zh": "——我没有。",
+      "vi": "---Tôi không làm vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Ema002",
+      "speaker_tag": "; > Ema: |#0202Trial01_Ema002|",
+      "ja": "ボクは現場で拳銃を拾った……<br>ただそれだけだよ。",
+      "zh": "我只是在案发现场捡到了一把手枪……<br>\n仅此而已。",
+      "vi": "Tôi vừa nhặt được một khẩu súng lục ở hiện trường vụ án... Thế thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa015",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa015|",
+      "ja": "……拳銃だと？",
+      "zh": "……居然是手枪？",
+      "vi": "...Nó thực sự là một khẩu súng lục?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa016",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa016|",
+      "ja": "なら、銃は黒部の銃以外にもあったってことかよ……！",
+      "zh": "那就是说，除了黑部的枪以外还有别的枪吗……！",
+      "vi": "Điều đó có nghĩa là, ngoài súng của Kurobe còn có khẩu súng nào khác không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro019",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro019|",
+      "ja": "そういうことになるね。",
+      "zh": "正是如此。",
+      "vi": "Chính xác là vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro020",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro020|",
+      "ja": "つまり、死因が銃殺だからと言って<br>ナノカの銃によるものとは限らない。",
+      "zh": "换句话说，虽然死因是枪杀，<br>\n但凶器不一定是奈叶香的枪。",
+      "vi": "Nói cách khác, mặc dù nguyên nhân cái chết là do vết thương do đạn bắn, Nhưng vũ khí giết người có thể không phải là súng của Nanoyaka.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa017",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa017|",
+      "ja": "……チッ。",
+      "zh": "……啧。",
+      "vi": "...Chậc.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa018",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa018|",
+      "ja": "……わかったよ。ウチが間違ってた。",
+      "zh": "……行吧。是我搞错了。",
+      "vi": "...Được rồi. Tao đã sai.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa019",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa019|",
+      "ja": "今回もまた、話し合いは必要ってことだな。",
+      "zh": "就是说，这次还是逃不过啊。",
+      "vi": "Nói cách khác, lần này vẫn không có cách nào trốn thoát.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Alisa020",
+      "speaker_tag": "; > Alisa: |#0202Trial01_Alisa020|",
+      "ja": "……こんなクソみてーな話し合いがよ。",
+      "zh": "……又要开始这狗屁讨论了。",
+      "vi": "... Hãy bắt đầu lại cuộc thảo luận nhảm nhí này.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro021",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro021|",
+      "ja": "そうだ。",
+      "zh": "是啊。",
+      "vi": "Vâng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro022",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro022|",
+      "ja": "けれど安心していい。<br>今回は犯人がわかっているのだから。",
+      "zh": "不过你们大可以放心。<br>\n因为我已经知道这次的凶手是谁了。",
+      "vi": "Nhưng bạn có thể yên tâm. Bởi vì tôi đã biết kẻ sát nhân lần này là ai.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Ema003",
+      "speaker_tag": "; > Ema: |#0202Trial01_Ema003|",
+      "ja": "……っ！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro023",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro023|",
+      "ja": "現場で銃を手に取っていた犯人……。",
+      "zh": "凶手就是现场拿着手枪的……",
+      "vi": "Kẻ sát nhân là kẻ cầm súng ở hiện trường...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro024",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro024|",
+      "ja": "それはエマだ。",
+      "zh": "艾玛。",
+      "vi": "Ema。",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Ema004",
+      "speaker_tag": "; > Ema: |#0202Trial01_Ema004|",
+      "ja": "……そう、ヒロちゃん。<br>それがキミの意見なんだね。",
+      "zh": "……是吗，希罗。<br>\n这就是你的观点啊。",
+      "vi": "...Thật đấy, Hiro. Đây là quan điểm của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Ema005",
+      "speaker_tag": "; > Ema: |#0202Trial01_Ema005|",
+      "ja": "なら……<br>ボクとしてもヒロちゃんが犯人の可能性が高いと<br>言わざるを得ないかな。",
+      "zh": "那么……<br>\n站在我的角度，我只能说<br>\n你是凶手的可能性也很高。",
+      "vi": "Vậy... Theo quan điểm của tôi, tôi chỉ có thể nói Khả năng bạn là kẻ sát nhân cũng rất cao.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro025",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro025|",
+      "ja": "なら、私から説明させてもらおうか。",
+      "zh": "那我来解释一下吧。",
+      "vi": "Vậy hãy để tôi giải thích.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro026",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro026|",
+      "ja": "エマしか犯行ができない……<br>その理由を！",
+      "zh": "为什么……<br>\n凶手只能是你！",
+      "vi": "Tại sao... Kẻ giết người chỉ có thể là bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Ema006",
+      "speaker_tag": "; > Ema: |#0202Trial01_Ema006|",
+      "ja": "ボクだって……<br>反論させてもらうよ！",
+      "zh": "那我……<br>\n也会反驳你的！",
+      "vi": "Sau đó tôi... Tôi cũng sẽ bác bỏ bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro027",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro027|",
+      "ja": "（どちらの主張が正しいのか……）",
+      "zh": "（手握真相的究竟是谁……）",
+      "vi": "(Ai nắm giữ sự thật...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial01_Hiro028",
+      "speaker_tag": "; > Hiro: |#0202Trial01_Hiro028|",
+      "ja": "（勝負だ、エマ！）",
+      "zh": "（让我们一决高下吧，艾玛！）",
+      "vi": "(Hãy chiến đấu thôi, Ema!)",
+      "objection_links": []
+    }
+  ]
+}

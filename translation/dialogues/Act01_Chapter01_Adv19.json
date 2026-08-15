@@ -1,0 +1,376 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Adv19",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Adv19' Naninovel scenario script",
+  "total_entries": 46,
+  "entries": [
+    {
+      "id": "0101Adv19_Narrative001",
+      "speaker_tag": "",
+      "ja": "本日の大半を、<br>エマらは看守との鬼ごっこに<ruby=\"つい\">費</ruby>やしてしまった。",
+      "zh": "今天有一大半的时间<br>\n都消耗在和看守捉迷藏上面了。",
+      "vi": "Hôm nay tôi đã dành hơn một nửa thời gian của mình Tất cả họ đều dành thời gian chơi trốn tìm với Cai Ngục.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema001",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema001|",
+      "ja": "（捕まらなくて良かったけど、<br>　もうへっとへとだよ……）",
+      "zh": "（还好没被抓到，<br>\n累死了……）",
+      "vi": "(May mắn thay tôi đã không bị bắt, kiệt sức quá...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative002",
+      "speaker_tag": "",
+      "ja": "エマはよろよろと自分の房から出る。<br>すると、メルルが待ち構えるように立っていた。",
+      "zh": "艾玛晃悠悠地走出房门外。<br>\n然后，碰见了梅露露。她好像一直站在门外等艾玛。",
+      "vi": "Ema lang thang ra khỏi phòng. Sau đó, tôi gặp Meruru. Cô ấy dường như đã đứng ngoài cửa đợi Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Meruru001",
+      "speaker_tag": "; > Meruru: |#0101Adv19_Meruru001|",
+      "ja": "エマさん、大丈夫ですか？<br>か、看守さんに追いかけられたって聞いて……。",
+      "zh": "艾玛小姐，你没事吧？<br>\n我、我听说你刚刚被看守追赶……",
+      "vi": "Ema, cô ổn chứ? Tôi-tôi nghe nói cậu vừa bị Cai Ngục truy đuổi...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema002",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema002|",
+      "ja": "う、うん。何もされてないよ。<br>ちょっと疲れただけ。",
+      "zh": "嗯，没事。我还好啦。<br>\n就是有些累了。",
+      "vi": "Không sao đâu. Tôi ổn. Chỉ là hơi mệt thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Meruru002",
+      "speaker_tag": "; > Meruru: |#0101Adv19_Meruru002|",
+      "ja": "ほっぺた汚れちゃってます。",
+      "zh": "你的脸弄脏了。",
+      "vi": "Mặt bạn bị ố.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative003",
+      "speaker_tag": "",
+      "ja": "メルルは心配そうに眉を下げ、<br>エマの<ruby=\"ほお\">頬</ruby>をハンカチで拭いた。",
+      "zh": "梅露露满脸写着担心，<br>\n拿出手帕擦着艾玛的脸。",
+      "vi": "Vẻ mặt Meruru đầy lo lắng, Anh lấy khăn tay ra lau mặt Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema003",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema003|",
+      "ja": "（なんかお母さんみたい）",
+      "zh": "（感觉她好像妈妈一样）",
+      "vi": "(Tôi cảm thấy cô ấy giống mẹ tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative004",
+      "speaker_tag": "",
+      "ja": "エマは照れくさそうに、<br>はにかんで<ruby=\"うつむ\">俯</ruby>いた。",
+      "zh": "艾玛有点害羞地<br>\n低下了头。",
+      "vi": "Ema hơi nhút nhát Cúi đầu xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative005",
+      "speaker_tag": "",
+      "ja": "それからメルルは<br>通路脇に置いてあるバケツの方へと、歩いていった。",
+      "zh": "之后，梅露露走到<br>\n放在过道转弯处的水桶那边。",
+      "vi": "Sau đó, Meruru đi tới Đặt nó trên cái xô ở góc lối đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative006",
+      "speaker_tag": "",
+      "ja": "掃除のために置いてあるのかもしれないが、<br>今は囚人たちのごみ箱に利用されている。",
+      "zh": "那个桶应该是打扫的时候用的，<br>\n不过现在已经成了囚犯们的垃圾桶。",
+      "vi": "Cái xô đó nên được dùng để lau chùi, Nhưng bây giờ nó đã trở thành thùng rác của tù nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative007",
+      "speaker_tag": "",
+      "ja": "ハンカチを捨てようとしたところで、<br>メルルは首を傾げた。",
+      "zh": "梅露露准备把手帕丢掉。<br>\n可是在看到桶里的东西后，她感到有些奇怪。",
+      "vi": "Meruru định vứt chiếc khăn tay đi. Nhưng sau khi nhìn thấy thứ trong thùng, cô lại cảm thấy có chút kỳ lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Meruru003",
+      "speaker_tag": "; > Meruru: |#0101Adv19_Meruru003|",
+      "ja": "これ、なんでしょう？",
+      "zh": "这是什么？",
+      "vi": "Đây là cái gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative008",
+      "speaker_tag": "",
+      "ja": "エマも移動し、バケツの中を<ruby=\"のぞ\">覗</ruby>いてみた。",
+      "zh": "艾玛也走过来，看了一下桶里的东西。",
+      "vi": "Ema cũng đi tới và xem xét bên trong thùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative009",
+      "speaker_tag": "",
+      "ja": "バラバラに分解された機械のパーツのようなもので、<br>バケツの中はいっぱいになっている。",
+      "zh": "原来是一些拆得十分零碎的，像机械零件一样的东西<br>\n塞满了整个垃圾桶。",
+      "vi": "Hóa ra đó là một thứ gì đó đã được tháo dỡ rất nhiều, giống như các bộ phận cơ khí Đổ đầy toàn bộ thùng rác.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema004",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema004|",
+      "ja": "なんだろうね？",
+      "zh": "我也不知道欸？",
+      "vi": "Tôi cũng không biết?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative010",
+      "speaker_tag": "",
+      "ja": "通路は綺麗だとはいいがたく、<br>そのあたりのゴミを誰かが集めて入れたのかもしれない。",
+      "zh": "过道本来就不太干净。<br>\n可能是有人打扫了一下，把垃圾倒进这里面了。",
+      "vi": "Các lối đi chưa bao giờ được sạch sẽ cho lắm. Có lẽ ai đó đã dọn dẹp và đổ rác vào đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema005",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema005|",
+      "ja": "（考えても仕方ないか。<br>　ここは、おかしなことばっかりだから）",
+      "zh": "（多想也是白费力气。<br>\n这里到处都是怪事）",
+      "vi": "(Suy nghĩ quá nhiều là lãng phí công sức. Có những điều kỳ lạ ở khắp mọi nơi ở đây)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative011",
+      "speaker_tag": "",
+      "ja": "エマがため息を吐くと、<br>メルルの手がそっと触れた。",
+      "zh": "艾玛叹了一口气。<br>\n这时，梅露露轻轻牵起了她的手。",
+      "vi": "Ema thở dài. Lúc này, Meruru nhẹ nhàng nắm lấy tay cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Meruru004",
+      "speaker_tag": "; > Meruru: |#0101Adv19_Meruru004|",
+      "ja": "夕食に、行きましょうか。",
+      "zh": "我们去吃晚餐吧。",
+      "vi": "Chúng ta đi ăn tối nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema006",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema006|",
+      "ja": "そうだね。",
+      "zh": "嗯。",
+      "vi": "Ừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative012",
+      "speaker_tag": "",
+      "ja": "手を引いてくれるメルルに、<br>エマは<ruby=\"ほほえ\">微笑</ruby>む。",
+      "zh": "面对温柔相待的梅露露，<br>\n艾玛露出了微笑。",
+      "vi": "Đối mặt với Meruru, người đối xử dịu dàng với cô ấy, Ema mỉm cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema007",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema007|",
+      "ja": "あ、でもそうだ。<br>ちょっと待って。",
+      "zh": "啊，我想起一件事。<br>\n你等我一下哦。",
+      "vi": "À, tôi nhớ ra điều gì đó. Hãy đợi tôi nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative013",
+      "speaker_tag": "",
+      "ja": "エマは――",
+      "zh": "艾玛她——",
+      "vi": "Ema cô ấy——",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Choice001",
+      "speaker_tag": "; > @choice |#0101Adv19_Choice001|",
+      "ja": "ノアの房を覗いた",
+      "zh": "往诺亚的房间内探看",
+      "vi": "Nhìn vào phòng của Nô-ê",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Choice002",
+      "speaker_tag": "; > @choice |#0101Adv19_Choice002| button:ChoiceButtons/Adv/Bad",
+      "ja": "やっぱりなんでもないと首を振った",
+      "zh": "摇摇头说：算了没什么",
+      "vi": "Anh lắc đầu nói: Quên đi, không có gì đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative014",
+      "speaker_tag": "",
+      "ja": "いつものように、ノアの房の方を<ruby=\"のぞ\">覗</ruby>いてみた。",
+      "zh": "一如往常地，往诺亚的房间里看了看。",
+      "vi": "Như thường lệ, tôi nhìn vào phòng Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative015",
+      "speaker_tag": "",
+      "ja": "相変わらずノアの房は、<br>スプレーアートで埋め尽くされている。",
+      "zh": "诺亚的房间也是老样子，<br>\n满满当当涂满了喷漆画。",
+      "vi": "Phòng của Noah cũng vậy, Nó được bao phủ bởi sơn phun.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema008",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema008|",
+      "ja": "ノアちゃん、今日もごはん行かないの？",
+      "zh": "诺亚，今天你还是不去用餐吗？",
+      "vi": "Noah, hôm nay cậu vẫn không đi ăn tối à?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Noah001",
+      "speaker_tag": "; > Noah: |#0101Adv19_Noah001|",
+      "ja": "あ、エマちゃん、メルルちゃん。<br>のあはへーきだよ？ みんな優しいんだあ。",
+      "zh": "啊，艾玛，梅露露。<br>\n诺亚没事哦？大家都对诺亚很好。",
+      "vi": "À, Ema, ​​Meruru. Nô-ê có ổn không? Mọi người đều tốt với Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema009",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema009|",
+      "ja": "みんな？",
+      "zh": "大家？",
+      "vi": "Mọi người?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Noah002",
+      "speaker_tag": "; > Noah: |#0101Adv19_Noah002|",
+      "ja": "うん。差し入れもってきてくれたり、<br>声をかけてくれたりする。",
+      "zh": "嗯。她们有时会给诺亚送饭，<br>\n有时会陪诺亚聊天。",
+      "vi": "Ừm. Đôi khi họ mang thức ăn cho Nô-ê, Thỉnh thoảng Noah trò chuyện với Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Noah003",
+      "speaker_tag": "; > Noah: |#0101Adv19_Noah003|",
+      "ja": "のあの魔法を見て、みんな驚いてたけど……<br>でも、ここは不思議なことがたくさんで。",
+      "zh": "虽然看到诺亚的魔法，大家有点吃惊……<br>\n不过，这里神奇的事情太多了。",
+      "vi": "Mặc dù mọi người hơi ngạc nhiên khi thấy phép thuật của Noah... Tuy nhiên, ở đây có rất nhiều điều kỳ diệu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Noah004",
+      "speaker_tag": "; > Noah: |#0101Adv19_Noah004|",
+      "ja": "のあの魔法、怖がられたりしないんだ。<br>えへへ、嬉しいな。",
+      "zh": "大家也不害怕诺亚的魔法。<br>\n欸嘿嘿，好开心。",
+      "vi": "Cũng không ai sợ phép thuật của Nô-ê. Hihi, hạnh phúc quá.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema010",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema010|",
+      "ja": "（へえ……みんなけっこう、<br>　ノアちゃんのこと気にかけてあげてるんだな）",
+      "zh": "（哦……大家其实还<br>\n挺关心诺亚的情况的）",
+      "vi": "(Ồ... thực ra mọi người vẫn Tôi khá lo lắng về hoàn cảnh của Noah)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema011",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema011|",
+      "ja": "それなら良かった。",
+      "zh": "那就好。",
+      "vi": "Tốt đấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Noah005",
+      "speaker_tag": "; > Noah: |#0101Adv19_Noah005|",
+      "ja": "うん。お礼にみんなの喜んでくれる絵を<br>頑張って完成させるね。",
+      "zh": "嗯。为了报答大家，诺亚要加油画完这幅画。<br>\n大家看到一定会喜欢。",
+      "vi": "Ừm. Để báo đáp mọi người, Noah sẽ chăm chỉ hoàn thành bức tranh. Mọi người sẽ thích nó khi họ nhìn thấy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative016",
+      "speaker_tag": "",
+      "ja": "ノアは早速スプレーを<ruby=\"ま\">撒</ruby>き始めている。<br>刺激臭が立ち去るエマの鼻をついた。",
+      "zh": "诺亚转过身，继续喷着手上的喷漆。<br>\n刺鼻的气味传到了正要离开的艾玛的鼻子里。",
+      "vi": "Noah quay người tiếp tục phun sơn xịt lên tay. Mùi hăng xộc vào mũi Ema khi cô chuẩn bị rời đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema012",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema012|",
+      "ja": "……そういえば、アンアンちゃんは、<br>ノアちゃんとうまくやれてるのかな？",
+      "zh": "……对了，安安她<br>\n和诺亚相处得怎么样了？",
+      "vi": "...Nhân tiện, AnAn, cô ấy Bạn và Noah thế nào rồi?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative017",
+      "speaker_tag": "",
+      "ja": "上り階段の方へと向かいながら、<br>エマはメルルに問いかけた。",
+      "zh": "走上楼梯时，<br>\n艾玛向梅露露问道。",
+      "vi": "Khi đi lên cầu thang, Ema hỏi Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Meruru005",
+      "speaker_tag": "; > Meruru: |#0101Adv19_Meruru005|",
+      "ja": "どうでしょうか……昨日の夜は房に戻ったんですが、<br>今日また体調を崩してしまって、医務室で寝ています。",
+      "zh": "该怎么说呢……虽然昨晚安安回房了，<br>\n可是到了今天，身体情况又变差了，现在还在医务室里躺着。",
+      "vi": "Nói thế nào nhỉ... Mặc dù AnAn đã về phòng tối qua, Nhưng hôm nay sức khỏe của tôi lại sa sút, tôi vẫn đang nằm trong bệnh xá.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Meruru006",
+      "speaker_tag": "; > Meruru: |#0101Adv19_Meruru006|",
+      "ja": "どうしても、同室が辛いらしくて……。",
+      "zh": "好像待在同一间房里实在很难受……",
+      "vi": "Có vẻ như việc ở cùng phòng thực sự không thoải mái chút nào...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema013",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema013|",
+      "ja": "うーん、そっかあ……なんとかならないかな。<br>ほら、ボクと部屋を交換するとか！",
+      "zh": "唔，这样啊……有没有什么好方法呢。<br>\n有了，和我换一个房间，怎么样！",
+      "vi": "Thôi vậy thôi... có cách nào tốt không? Ừ, đổi phòng với tôi nhé?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Meruru007",
+      "speaker_tag": "; > Meruru: |#0101Adv19_Meruru007|",
+      "ja": "いいかもしれませんね！",
+      "zh": "是个好办法！",
+      "vi": "Thật là một ý tưởng hay!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Ema014",
+      "speaker_tag": "; > Ema: |#0101Adv19_Ema014|",
+      "ja": "（早速掛け合ってみよう……<br>　今度ゴクチョーに遭遇した時にでも……）",
+      "zh": "（马上去商量一下吧……<br>\n下次碰到典狱长也要说一下……）",
+      "vi": "(Hãy cùng thảo luận ngay... Tôi sẽ nói với quản giáo vào lần tới khi tôi gặp anh ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv19_Narrative018",
+      "speaker_tag": "",
+      "ja": "エマとメルルは階段を上がっていく。",
+      "zh": "艾玛和梅露露走上了楼梯。",
+      "vi": "Ema và Meruru bước lên cầu thang.",
+      "objection_links": []
+    }
+  ]
+}

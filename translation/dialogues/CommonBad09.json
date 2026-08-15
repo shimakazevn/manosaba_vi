@@ -1,0 +1,296 @@
+{
+  "bundle": "general-localization-zhhans-scripts-common_assets_all.bundle",
+  "script_name": "CommonBad09",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Common/CommonBad09' Naninovel scenario script",
+  "total_entries": 36,
+  "entries": [
+    {
+      "id": "CommonBad09_Narrative001",
+      "speaker_tag": "",
+      "ja": "――結論が出ないまま、時間は流れた。<br>処刑される魔女を選ぶための投票が行われる。",
+      "zh": "——少女们未能得出结论，时间徒然流逝。<br>\n为了选出应受处刑的魔女，投票开始了。",
+      "vi": "---Các cô gái không thể đưa ra kết luận, và thời gian trôi qua vô ích. Cuộc bỏ phiếu bắt đầu chọn ra mụ phù thủy đáng bị xử tử.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative002",
+      "speaker_tag": "",
+      "ja": "失敗だ。",
+      "zh": "失败了。",
+      "vi": "thất bại.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative003",
+      "speaker_tag": "",
+      "ja": "アンアンの死は事故だった。<br>それが答えだという方向に導きたかったのだが……",
+      "zh": "安安的死是事故。<br>\n尽管我想将答案引导至这个方向……",
+      "vi": "Cái chết của AnAn là một tai nạn. Mặc dù tôi muốn hướng câu trả lời theo hướng này ...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative004",
+      "speaker_tag": "",
+      "ja": "ここまでの議論で疑いをかけられた人間に、<br>票を入れるしかない。",
+      "zh": "但现在只能将票<br>\n投给在至今为止的议论中受到怀疑的人。",
+      "vi": "Nhưng bây giờ bạn chỉ có thể bỏ phiếu Hãy bỏ phiếu cho người vẫn còn bị nghi ngờ trong cuộc thảo luận cho đến nay.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Hiro001",
+      "speaker_tag": "; > Hiro: |#CommonBad09_Hiro001|",
+      "ja": "（すまない……）",
+      "zh": "（抱歉……）",
+      "vi": "(Xin lỗi...)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative005",
+      "speaker_tag": "",
+      "ja": "私は<ruby=\"はが\">歯噛</ruby>みしながら、ボタンを押す。",
+      "zh": "我咬紧牙关按下按钮。",
+      "vi": "Tôi nghiến răng và nhấn nút.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative006",
+      "speaker_tag": "",
+      "ja": "そうして選ばれたのは――",
+      "zh": "而被选出的人——",
+      "vi": "Và những người được chọn——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Alisa001",
+      "speaker_tag": "; > Alisa: |#CommonBad09_Alisa001|",
+      "ja": "あ？",
+      "zh": "啊？",
+      "vi": "Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative007",
+      "speaker_tag": "",
+      "ja": "アリサだった。",
+      "zh": "是亚里沙。",
+      "vi": "Đó là Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Alisa002",
+      "speaker_tag": "; > Alisa: |#CommonBad09_Alisa002|",
+      "ja": "おめぇらふざけんなよ……ウチはやってねえ！",
+      "zh": "你们开什么玩笑……我才没动手！",
+      "vi": "Bạn đang đùa Tao à... Tao không làm gì cả!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative008",
+      "speaker_tag": "",
+      "ja": "アリサは私たちを<ruby=\"にら\">睨</ruby>み付ける。<br>震える声には、憎悪と動揺が入り混じっていた。",
+      "zh": "亚里沙怒视着我们。<br>\n憎恨和慌乱混杂在她颤抖的声音中。",
+      "vi": "Alisa trừng mắt nhìn chúng tôi. Sự căm ghét và hoảng sợ trộn lẫn trong giọng nói run rẩy của cô.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Alisa003",
+      "speaker_tag": "; > Alisa: |#CommonBad09_Alisa003|",
+      "ja": "おかしいだろ！<br>二階堂が言ってたじゃねえか！<br>自分が殺したって……！",
+      "zh": "这很有问题吧！<br>\n二阶堂不是说了吗！<br>\n说是她杀的……！",
+      "vi": "Điều này rất có vấn đề! Không phải Nikaido đã nói thế sao! Nói rằng mày ấy đã giết nó...!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Hiro002",
+      "speaker_tag": "; > Hiro: |#CommonBad09_Hiro002|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Ema001",
+      "speaker_tag": "; > Ema: |#CommonBad09_Ema001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Warden001",
+      "speaker_tag": "; > Warden: |#CommonBad09_Warden001|",
+      "ja": "まあ、決定は決定なんで。<br>残念ですけど、諦めてもらうしかないかと。<br>さっさと閉廷したいですし……進行しちゃっていいですかね？",
+      "zh": "哎，这已经是最终决定了。<br>\n虽然很遗憾，但只能请你接受这个结果了。<br>\n我想早点闭庭……能让我继续下一个环节了吗？",
+      "vi": "Than ôi, đây là quyết định cuối cùng. Dù rất đáng tiếc nhưng tôi chỉ có thể cầu xin bạn chấp nhận kết quả này. Tôi muốn đóng cửa phiên tòa sớm...bạn có thể tiếp tục phiên tòa tiếp theo không?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative009",
+      "speaker_tag": "",
+      "ja": "ゴクチョーが合図を出し、<br>看守がアリサを拘束しようと動き出す。",
+      "zh": "典狱长下达了指示，<br>\n看守开始准备绑住亚里沙。",
+      "vi": "Người quản lý đã đưa ra chỉ dẫn, Cai Ngục bắt đầu chuẩn bị trói Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Alisa004",
+      "speaker_tag": "; > Alisa: |#CommonBad09_Alisa004|",
+      "ja": "おい！ ちょっと待てよ！",
+      "zh": "喂！给我等下！",
+      "vi": "Xin chào! Đợi một chút!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Alisa005",
+      "speaker_tag": "; > Alisa: |#CommonBad09_Alisa005|",
+      "ja": "ウチは納得してねえ……<br>理不尽に処刑なんてされてたまるかよ！",
+      "zh": "我不接受……<br>\n凭什么我要被无理处死！",
+      "vi": "Tao không chấp nhận... Tại sao Tao phải bị xử tử một cách bất công?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative010",
+      "speaker_tag": "",
+      "ja": "アリサの手に、魔法の火が灯る。",
+      "zh": "亚里沙的手上亮起魔法的火焰。",
+      "vi": "Tay Alisa sáng lên với ngọn lửa ma thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Alisa006",
+      "speaker_tag": "; > Alisa: |#CommonBad09_Alisa006|",
+      "ja": "近付くんじゃねえ！ 燃やすぞ！",
+      "zh": "别靠近我！再靠近就烧了你们！",
+      "vi": "Đừng đến gần Tao! Nếu mày đến gần hơn nữa, Tao sẽ đốt mày!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative011",
+      "speaker_tag": "",
+      "ja": "アリサの言葉は脅しじゃない。<br>声色でそれはわかる。",
+      "zh": "看她的声音和表情就知道，<br>\n亚里沙的话并非恐吓。",
+      "vi": "Bạn có thể nhận biết qua giọng nói và biểu cảm của cô ấy, Lời của Alisa không phải là lời đe dọa.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative012",
+      "speaker_tag": "",
+      "ja": "だが、看守にはまるで通じなかった。<br>火など恐れず、アリサに接近する。",
+      "zh": "但是，看守根本就不吃这套。<br>\n它不怕火焰，步步逼近亚里沙。",
+      "vi": "Tuy nhiên, các Cai Ngục hoàn toàn không chấp nhận thủ đoạn này. Nó không sợ lửa và tiếp cận Alisa từng bước một.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Alisa007",
+      "speaker_tag": "; > Alisa: |#CommonBad09_Alisa007|",
+      "ja": "来るな！ 来るんじゃねえ……！！",
+      "zh": "别过来！不许过来我这……！！",
+      "vi": "Đừng đến đây! Đừng đến đây...! !",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Warden002",
+      "speaker_tag": "; > Warden: |#CommonBad09_Warden002|",
+      "ja": "やれやれ……抵抗はいけませんよ。<br>まあ、無駄なんですけどね。",
+      "zh": "哎呀呀……不可以抵抗哦。<br>\n不过，抵抗也是白费力气。",
+      "vi": "Rất tiếc...Tôi không thể cưỡng lại được. Tuy nhiên, sự phản kháng là vô ích.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Alisa008",
+      "speaker_tag": "; > Alisa: |#CommonBad09_Alisa008|",
+      "ja": "！！",
+      "zh": "！！",
+      "vi": "！！",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative013",
+      "speaker_tag": "",
+      "ja": "少女たちが悲鳴を上げる。<br>看守が鎌を振るい、アリサを切り裂いたのだ。",
+      "zh": "少女们发出了惨叫。<br>\n看守挥动镰刀，将亚里沙劈开。",
+      "vi": "Các cô gái hét lên. Người Cai Ngục vung lưỡi hái và xẻ đôi Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative014",
+      "speaker_tag": "",
+      "ja": "２つに分かたれアリサの鮮血が、<br>裁判所を赤く染める。",
+      "zh": "亚里沙分成了两半，<br>\n她的鲜血染红了审判庭。",
+      "vi": "Alisa chia đôi, Máu của cô nhuộm đỏ Tòa án dị giáo.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Warden003",
+      "speaker_tag": "; > Warden: |#CommonBad09_Warden003|",
+      "ja": "あちゃ～……床と壁、掃除しないと……<br>余計な手間を増やさないでいただけると<br>ありがたいんですけどねぇ……。",
+      "zh": "唉呀～……地板和墙壁，都得打扫……<br>\n真希望不要再给我增加<br>\n无谓的工作了……",
+      "vi": "Rất tiếc~...sàn và tường cần được làm sạch... Tôi thực sự mong bạn đừng thêm vào tôi nữa Đó là việc làm vô ích...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative015",
+      "speaker_tag": "",
+      "ja": "魔女裁判の後。<br>私はアンアンが死亡した現場にいた。",
+      "zh": "魔女审判结束后，<br>\n我来到了安安死亡的现场。",
+      "vi": "Sau phiên tòa xét xử phù thủy, Tôi đã đến hiện trường cái chết của AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative016",
+      "speaker_tag": "",
+      "ja": "アリサが魔女として処刑され、<br>私もエマも難を逃れた。",
+      "zh": "亚里沙以魔女的身份被处死了。<br>\n我和艾玛都逃过了一劫。",
+      "vi": "Alisa bị xử tử như một phù thủy. Ema và tôi đều trốn thoát.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative017",
+      "speaker_tag": "",
+      "ja": "だが、本当にこれでよかったのだろうか……。",
+      "zh": "但是，这真的就好了吗……",
+      "vi": "Nhưng liệu điều này có thực sự tốt...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative018",
+      "speaker_tag": "",
+      "ja": "ふと、背後に誰かの気配を感じる。<br>そして、背中に焼けるような痛みが走った。",
+      "zh": "忽然，我感到背后有人靠近。<br>\n接着，背上传来一阵灼烧般的剧痛。",
+      "vi": "Đột nhiên, tôi cảm thấy có ai đó đang đến gần từ phía sau. Sau đó, lưng tôi đau rát.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative019",
+      "speaker_tag": "",
+      "ja": "私は地面に倒れ、空を見上げる。",
+      "zh": "我倒在了地上，仰望着天空。",
+      "vi": "Tôi ngã xuống đất và nhìn lên bầu trời.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative020",
+      "speaker_tag": "",
+      "ja": "それが【今回】の記憶の最後――",
+      "zh": "那就是【这次】记忆的最后一幕——",
+      "vi": "Đó là cảnh cuối cùng trong trí nhớ của tôi [lần này]——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative021",
+      "speaker_tag": "",
+      "ja": "私は何者かに殺害され、死に戻った。",
+      "zh": "我被某人杀害了，然后发动了死亡回溯。",
+      "vi": "Tôi đã bị ai đó giết và sau đó bắt đầu quá trình hồi quy cái chết.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad09_Narrative022",
+      "speaker_tag": "",
+      "ja": "ある意味、<ruby=\"ぎょうこう\">僥倖</ruby>だったかもしれない。<br>今度こそは、上手くやってみせる――",
+      "zh": "某种意义上，这也许算得上是幸运。<br>\n下一次，我一定能做得更好——",
+      "vi": "Ở một khía cạnh nào đó, điều này có thể được coi là may mắn. Lần sau chắc chắn tôi sẽ làm tốt hơn——",
+      "objection_links": []
+    }
+  ]
+}

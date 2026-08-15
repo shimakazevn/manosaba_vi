@@ -1,0 +1,776 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Trial00",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Trial00' Naninovel scenario script",
+  "total_entries": 96,
+  "entries": [
+    {
+      "id": "0204Trial00_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro001|",
+      "ja": "（……エマを殺した犯人を決める裁判……か）",
+      "zh": "（……这场审判要投出谁是杀害艾玛的凶手……是吗）",
+      "vi": "(...Phiên tòa này sẽ quyết định ai là kẻ giết Ema...đúng rồi)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro002|",
+      "ja": "（エマとレイアが死に……<br>　そして私は容疑者として疑われている）",
+      "zh": "（艾玛和蕾雅都死了……<br>\n而我却成了嫌疑人）",
+      "vi": "(Ema và Leia đều đã chết... Và tôi đã trở thành nghi phạm)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro003|",
+      "ja": "（絶望的……<br>　そう形容するにふさわしい状況だ）",
+      "zh": "（“绝望”两个字……<br>\n在这样的状况下真是再贴切不过了）",
+      "vi": "(Từ \"tuyệt vọng\"... Không thể phù hợp hơn trong tình huống này)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro004|",
+      "ja": "（……しかし）",
+      "zh": "（……但）",
+      "vi": "(…nhưng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro005|",
+      "ja": "（諦めるわけにはいかない）",
+      "zh": "（我不能放弃）",
+      "vi": "(Tôi không thể bỏ cuộc)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro006|",
+      "ja": "（必ずエマとレイアを殺した人物を<br>　見つけだしてやる……！）",
+      "zh": "（一定要揪出<br>\n杀害艾玛和蕾雅的凶手……！）",
+      "vi": "(Hãy chắc chắn tìm hiểu Kẻ sát hại Ema và Leia...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry001",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry001|",
+      "ja": "それでは……<br>話し合いを始めましょうか！",
+      "zh": "那好……<br>\n我们就开始讨论吧！",
+      "vi": "Chà... Hãy bắt đầu thảo luận!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa001",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa001|",
+      "ja": "……ちょっと待てよ。",
+      "zh": "……等等。",
+      "vi": "... và vân vân.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa002",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa002|",
+      "ja": "いったいなんについて話し合うってんだよ……。",
+      "zh": "到底是要讨论哪个啊……",
+      "vi": "Chúng ta sẽ thảo luận về vấn đề nào...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry002",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry002|",
+      "ja": "それはもちろん、起きた殺人事件についてですよ！",
+      "zh": "当然是刚刚发生的这起凶杀案啦！",
+      "vi": "Tất nhiên đó là vụ giết người vừa xảy ra!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry003",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry003|",
+      "ja": "おふたりの無念を晴らすためにも、<br>犯人を見つけないといけませんよね！",
+      "zh": "为了让两位死者冤屈得以昭雪，<br>\n我们必须找出凶手！",
+      "vi": "Để đền bù sự bất công cho hai người đã khuất, Chúng ta phải tìm ra kẻ giết người!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hanna001",
+      "speaker_tag": "; > Hanna: |#0204Trial00_Hanna001|",
+      "ja": "さ、殺人事件……！",
+      "zh": "凶、凶杀案……！",
+      "vi": "Giết ngươi, giết ngươi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria001",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria001|",
+      "ja": "ア、アリサちゃんが言いたいのはさ……。",
+      "zh": "呃，亚里沙的意思是……",
+      "vi": "Ừm, Alisa nghĩa là...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria002",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria002|",
+      "ja": "【どっちを議論するか】……<br>ってことじゃないかな？",
+      "zh": "我们应该先【讨论哪起案件】……<br>\n对吧？",
+      "vi": "Chúng ta có nên [thảo luận trường hợp nào] trước không... Đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria003",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria003|",
+      "ja": "死体は……２つあるからさ。",
+      "zh": "毕竟……有两具尸体呢。",
+      "vi": "Rốt cuộc... có hai cái xác.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry004",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry004|",
+      "ja": "ん～……そうですねー。",
+      "zh": "嗯～……说得也是呢！",
+      "vi": "Ừm~...Đúng vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry005",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry005|",
+      "ja": "まずは状況を整理しつつ、<br>わかりやすい方から議論していく形で<br>いいんじゃないでしょうか？",
+      "zh": "那我们先梳理一下案情，<br>\n从情况更容易理清的部分开始讨论，<br>\n怎么样？",
+      "vi": "Trước tiên hãy giải quyết vụ việc đã, Bắt đầu với phần dễ hiểu hơn của tình huống, Nó thế nào rồi?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry006",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry006|",
+      "ja": "もしかしたら推理の過程でどちらの犯人も<br>見つかるかもしれませんしね！",
+      "zh": "说不定在推理过程中，<br>\n两起案件的凶手都会被我们找到哦！",
+      "vi": "Có thể trong quá trình suy luận, Những kẻ sát nhân của cả hai vụ án sẽ được chúng tôi tìm ra!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry007",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry007|",
+      "ja": "もし見つからなかったら、<br>見つかるまで引き続き裁判を続けましょう！",
+      "zh": "如果找不到的话，<br>\n那就继续进行审判，直到找到为止！",
+      "vi": "Nếu không tìm thấy, Sau đó tiếp tục dùng thử cho đến khi bạn tìm thấy nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry008",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry008|",
+      "ja": "犯人を全て明らかにするまで……<br>議論を続けるんですよ！",
+      "zh": "在查明所有凶手之前……<br>\n不可以停止讨论哦！",
+      "vi": "Cho đến khi tất cả những kẻ sát nhân được tìm thấy... Đừng dừng cuộc thảo luận!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa003",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa003|",
+      "ja": "……つっても、何から話したらいいのか。",
+      "zh": "……就算你这么说，也不知道该从哪里讨论起啊。",
+      "vi": "...Ngay cả khi mày nói vậy, mày cũng không biết bắt đầu cuộc thảo luận từ đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria004",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria004|",
+      "ja": "……じゃあまず、おじさんが調べたことから言うよ。",
+      "zh": "……那就由大叔我先来说说调查到的内容吧。",
+      "vi": "…Vậy trước tiên hãy để Miria nói về nội dung cuộc điều tra.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria005",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria005|",
+      "ja": "まず……エマちゃんの死体の状況についてだよ。",
+      "zh": "首先是……小艾尸体的相关情况。",
+      "vi": "Trước hết... tình huống liên quan đến thi thể của Tiểu Ái.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria006",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria006|",
+      "ja": "エマちゃんの死体は、<br>エレベーターの中で発見された。",
+      "zh": "小艾的尸体，<br>\n是在电梯里被发现的。",
+      "vi": "Thi thể của Tiểu Ái, Nó được tìm thấy trong thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria007",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria007|",
+      "ja": "死因はおそらく、２つの刺し傷……。",
+      "zh": "死因很可能是，两处刺伤……",
+      "vi": "Nguyên nhân cái chết có lẽ là do hai vết đâm...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria008",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria008|",
+      "ja": "レイアちゃんの持つレイピアで刺されたものだと思う。",
+      "zh": "应该是被小蕾的刺剑所刺伤的。",
+      "vi": "Đáng lẽ nó đã bị đâm bởi thanh kiếm đâm của Xiaolei.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hanna002",
+      "speaker_tag": "; > Hanna: |#0204Trial00_Hanna002|",
+      "ja": "レ、レイアさんのレイピア……どうして……。",
+      "zh": "蕾、蕾雅的刺剑……为什么会……",
+      "vi": "Lôi, kiếm đâm của Lôi Nha... tại sao...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria009",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria009|",
+      "ja": "おじさんたちが乗ったときには気付かなかったんだけど……<br>エレベーターの床には、<br>少しだけ血痕を拭ったような形跡があったよ。",
+      "zh": "虽然大叔我们乘上电梯那时，并没有留意到……<br>\n电梯的地板上，<br>\n有一些擦拭过血迹的痕迹。",
+      "vi": "Mặc dù chú không để ý khi chúng Miria vào thang máy... Trên sàn thang máy, Có một số dấu vết máu lau.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry009",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry009|",
+      "ja": "いつ付いたのかはわかりませんねー。<br>エレベーターに乗った時、<br>注意して見ていたわけではないですし。",
+      "zh": "什么时候沾上的血迹就不知道了呢。<br>\n因为乘坐电梯的时候，<br>\n我也没有看得很仔细。",
+      "vi": "Tôi không biết máu đã vấy từ khi nào. Vì khi đi thang máy, Tôi cũng không xem kỹ lắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria010",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria010|",
+      "ja": "……妙な点としては、<br>エマちゃんが演劇で使う衣装を着ていたことかな。",
+      "zh": "……有一点比较奇怪，<br>\n那就是小艾穿着的是舞台剧的服装。",
+      "vi": "...Có điều gì đó kỳ lạ, Tức là Tiểu Ái đang mặc trang phục sân khấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria011",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria011|",
+      "ja": "死亡推定時刻は……<br>おそらく発見時から１時間以内。",
+      "zh": "推定死亡时间……<br>\n大概是发现时往前推1小时以内。",
+      "vi": "Thời điểm tử vong được cho là... Có lẽ trong vòng 1 giờ kể từ khi phát hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria012",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria012|",
+      "ja": "レイアちゃんから教えてもらった<br>聞きかじりの知識だから、自信はないんだけど……。",
+      "zh": "这是小蕾教我的<br>\n一点皮毛知识，所以大叔我也不是很确定……",
+      "vi": "Đây là điều Xiaolei đã dạy Miria Em có chút hiểu biết sơ sài nên không rõ lắm chú ạ...",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa004",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa004|",
+      "ja": "……そういや。",
+      "zh": "……这么说来。",
+      "vi": "...nói theo cách này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa005",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa005|",
+      "ja": "桜羽の着てたあの舞台衣装……<br>アトリエにあったもんだよな。",
+      "zh": "樱羽穿的那身舞台服……<br>\n就是之前放在画室里那件吧。",
+      "vi": "Bộ trang phục sân khấu Sakuraha mặc... Có lẽ đó là cái Tao đã giữ trong studio trước đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa006",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa006|",
+      "ja": "たしか……<br>ゴクチョーの死体発見の通知が来る<br>【１５分前】かそこらだったかな。",
+      "zh": "我记得……<br>\n大概是接到典狱长发现尸体的通知的<br>\n【15分钟前】左右吧。",
+      "vi": "Tao nhớ... Có lẽ mày ta đã được quản giáo thông báo rằng thi thể đã được tìm thấy 【15 phút trước】Giới thiệu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa007",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa007|",
+      "ja": "その時にはまだ、<br>アトリエにあの衣装があったはずだ。",
+      "zh": "那时舞台服装应该<br>\n还在画室里。",
+      "vi": "Lúc đó trang phục sân khấu nên Vẫn còn ở studio.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry010",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry010|",
+      "ja": "ならエマさんが殺されたのは、<br>その後かもしれませんねー。",
+      "zh": "那么艾玛被杀害的时间，<br>\n可能就是在那之后了呢。",
+      "vi": "Vì vậy khi Ema bị giết, Có lẽ đó là sau đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria013",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria013|",
+      "ja": "そして……次に、レイアちゃんの死体だけど。",
+      "zh": "然后……接下来是小蕾。",
+      "vi": "Sau đó... tiếp theo là Xiaolei.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria014",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria014|",
+      "ja": "レイアちゃんは、エレベーターの天井裏で発見されたよ。",
+      "zh": "小蕾的尸体是在电梯顶板上方的空间发现的。",
+      "vi": "Thi thể của Xiaolei được tìm thấy ở không gian phía trên mái thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria015",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria015|",
+      "ja": "後頭部には、硬いもので殴られたような痕跡があった……。",
+      "zh": "后脑勺有被硬物打击过的痕迹……",
+      "vi": "Có dấu vết bị vật cứng đập vào sau đầu...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria016",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria016|",
+      "ja": "おそらく死因はこれだね。",
+      "zh": "这很可能就是死因。",
+      "vi": "Đây rất có thể là nguyên nhân dẫn đến cái chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria017",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria017|",
+      "ja": "劇の衣装の王冠を被っていたんだけど……。",
+      "zh": "虽然她戴着舞台服装的王冠……",
+      "vi": "Mặc dù cô ấy đội vương miện trang phục sân khấu...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria018",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria018|",
+      "ja": "これを使って殴ったような形跡はなかったかな。",
+      "zh": "但并没有发现被用这个王冠殴打过的痕迹。",
+      "vi": "Nhưng không tìm thấy dấu vết bị đánh bằng chiếc vương miện này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria019",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria019|",
+      "ja": "レイアちゃんの死体も、死後１時間以内みたいだ……。",
+      "zh": "小蕾的尸体被发现时，好像也是死后1小时内……",
+      "vi": "Khi thi thể của Xiaolei được tìm thấy, dường như chỉ còn một giờ nữa là sau khi chết...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hanna003",
+      "speaker_tag": "; > Hanna: |#0204Trial00_Hanna003|",
+      "ja": "もう１つ……エレベーター前には怪しい証拠がありましたわ。",
+      "zh": "还有一点……电梯前有一个可疑的证据呢。",
+      "vi": "Còn một điều nữa... có bằng chứng khả nghi ở phía trước thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry011",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry011|",
+      "ja": "ああ！<br>アレですね！",
+      "zh": "啊对！<br>\n就是那个吧！",
+      "vi": "À vâng! Thế thôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa008",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa008|",
+      "ja": "怪しい……か。",
+      "zh": "可疑……吗。",
+      "vi": "Có đáng nghi không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa009",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa009|",
+      "ja": "こんな状況で顔色１つ変えねぇ<br>橘の方が怪しい気はするが……。",
+      "zh": "我觉得在这种情况下还能<br>\n面不改色的橘才更可疑吧……",
+      "vi": "Tao nghĩ trong trường hợp này, Vẻ mặt của Tachibana càng thêm nghi hoặc...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry012",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry012|",
+      "ja": "細かいことは気にしちゃダメですよっ！",
+      "zh": "不要在意那些细节啦！",
+      "vi": "Đừng lo lắng về các chi tiết!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hanna004",
+      "speaker_tag": "; > Hanna: |#0204Trial00_Hanna004|",
+      "ja": "いいから話を進めましょう。",
+      "zh": "别管这些有的没的，继续讨论吧。",
+      "vi": "Đừng lo lắng về sự hiện diện hay vắng mặt của những thứ này, hãy tiếp tục thảo luận.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hanna005",
+      "speaker_tag": "; > Hanna: |#0204Trial00_Hanna005|",
+      "ja": "私が見つけたのはこれですわ～！",
+      "zh": "我找到的是这个哇～！",
+      "vi": "Những gì Bổn tiểu thư tìm thấy là cái này!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry013",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry013|",
+      "ja": "それは……ハシゴですね！！",
+      "zh": "这是……梯子！！",
+      "vi": "Đây là... một cái thang! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria020",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria020|",
+      "ja": "え……？<br>それってハシゴじゃなくて、脚立じゃないかな……？",
+      "zh": "啊……？<br>\n这和那种不能自立的梯子不一样，应该叫人字梯才对……？",
+      "vi": "À...? Điều này khác với loại thang không thể tự đứng được. Có nên gọi là thang xương cá…?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry014",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry014|",
+      "ja": "高い所に登る物なのは一緒です！<br>本質を見ましょうよ、ミリアさん！",
+      "zh": "都是用来爬到高处的，没区别！<br>\n看事情要注重事物的本质哦，米莉亚！",
+      "vi": "Đều là quen leo lên chỗ cao, không có gì khác biệt! Khi nhìn sự vật, bạn phải chú ý đến bản chất của sự vật, Miria!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria021",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria021|",
+      "ja": "え、ええ……？",
+      "zh": "欸、欸欸……？",
+      "vi": "Này, này...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hanna006",
+      "speaker_tag": "; > Hanna: |#0204Trial00_Hanna006|",
+      "ja": "どっちでも構いませんわ～！",
+      "zh": "哪个都差不多啦～！",
+      "vi": "Cái nào cũng gần giống nhau~!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hanna007",
+      "speaker_tag": "; > Hanna: |#0204Trial00_Hanna007|",
+      "ja": "これには発見時、血痕もついていましたわ。",
+      "zh": "发现这东西的时候，上面已经沾有血迹了哦。",
+      "vi": "Khi Bổn tiểu thư tìm thấy thứ này, nó đã dính đầy máu.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry015",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry015|",
+      "ja": "つまりこの近くで何らかの犯行が行われていたということですね！",
+      "zh": "也就是说在这附近发生了某些犯罪行为呢！",
+      "vi": "Nói cách khác, một số tội ác đã xảy ra quanh đây!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry016",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry016|",
+      "ja": "死体が発見された現場はどちらもエレベーターの中……。",
+      "zh": "发现两具尸体的现场都在电梯里……",
+      "vi": "Hai thi thể được tìm thấy trong thang máy...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry017",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry017|",
+      "ja": "少なくとも、<br>この周辺で２人が殺されたことは<br>間違いなさそうですね！",
+      "zh": "至少，<br>\n可以肯定的是，<br>\n她们两人是在这附近被杀害的！",
+      "vi": "Ít nhất, Để chắc chắn, Cả hai người họ đều bị giết gần đây!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa010",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa010|",
+      "ja": "……ウチはその辺にはいなかった。<br>ずっと屋敷の中ブラついてたんだからな。",
+      "zh": "……我没有去那附近。<br>\n我一直都在监牢大宅里闲逛。",
+      "vi": "…Tao không hề đến gần chỗ đó. Tao lang thang trong biệt thự Ngục Dinh Thự mọi lúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa011",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa011|",
+      "ja": "死体を見つけたときの話は聞いたが……<br>そんなんおめえらの中で完結してる話だろ。",
+      "zh": "我是听说了你们发现尸体的事……<br>\n但那都是你们几个之间该解决的事吧。",
+      "vi": "Tao đã nghe nói về cái xác mà mày tìm thấy... Nhưng đó là những điều cần được giải quyết giữa hai mày.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa012",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa012|",
+      "ja": "ウチは関係ねぇ……<br>事件に関われねーんだからな。",
+      "zh": "与我无关……<br>\n因为我不可能跟案件扯上关系。",
+      "vi": "Chuyện đó không liên quan gì đến Tao... Bởi vì Tao không thể tham gia vào vụ án.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry018",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry018|",
+      "ja": "でもそれは逆に言えば、<br>【目撃証言がない】ということでもあります。",
+      "zh": "那换个角度来看，<br>\n这也意味着【不存在目击证词】。",
+      "vi": "Hãy nhìn nó từ một góc độ khác, Điều này cũng có nghĩa là [không có lời khai của nhân chứng nào tồn tại].",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry019",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry019|",
+      "ja": "もう一度各自の動きも<br>整理しておく必要がありますね！",
+      "zh": "看来有必要再整理一下<br>\n每个人的行动路线呢！",
+      "vi": "Có vẻ cần phải sắp xếp lại Mọi người sẽ hành động như thế nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria022",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria022|",
+      "ja": "……あらためて説明すると、<br>アリサちゃんが地上にいる間<br>おじさんたちはずっと地下にいたんだよ。",
+      "zh": "……整理一下就是，<br>\n小沙在地面上的时候，<br>\n大叔我们一直待在地下。",
+      "vi": "...Để sắp xếp nó, Khi Tiểu Sa nằm trên mặt đất, Bác ơi, chúng cháu đang ở dưới lòng đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria023",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria023|",
+      "ja": "でもその間、各自が思い思いに行動してたから<br>みんなにアリバイがあったとまでは言えない……。",
+      "zh": "但是在那期间，是各自随意行动的，<br>\n所以也不能说每个人都有不在场证明……",
+      "vi": "Nhưng trong khoảng thời gian đó, mọi người đều hành động theo ý muốn, Vì vậy không thể nói rằng mọi người đều có bằng chứng ngoại phạm...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hanna008",
+      "speaker_tag": "; > Hanna: |#0204Trial00_Hanna008|",
+      "ja": "残念ですが……<br>レイアさんもエマさんも、<br>いつから見ていないのかはわかりませんわ……。",
+      "zh": "很遗憾……<br>\n我们也不清楚，<br>\n蕾雅和艾玛到底是什么时候不见的……",
+      "vi": "Thật đáng tiếc... Chúng Bổn tiểu thư cũng không biết, Leia và Ema biến mất khi nào...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria024",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria024|",
+      "ja": "おじさんたち４人は集合時間になっても<br>２人が現れなかったから、<br>先に帰ったんだと思ってエレベーターに乗ったんだ。",
+      "zh": "大叔我们四个人，因为到了集合时间<br>\n也没见到她们两个，<br>\n就以为她们先回去了，才乘上了电梯。",
+      "vi": "Chú ơi, chúng con có bốn người vì đã đến giờ tập hợp Miria chưa thấy ai trong số họ, Miria tưởng họ đã quay lại trước và đi thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry020",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry020|",
+      "ja": "あのエレベーターは２人乗りの人数制限が<br>かけられています。",
+      "zh": "那部电梯有人数限制，<br>\n一次只能乘坐两个人。",
+      "vi": "Thang máy đó có giới hạn số người được phép, Chỉ có hai người có thể đi xe cùng một lúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry021",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry021|",
+      "ja": "でもあのときブザーが鳴って……。",
+      "zh": "但是那个时候警示音响了……",
+      "vi": "Nhưng rồi âm thanh cảnh báo đã tắt...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry022",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry022|",
+      "ja": "あれれ？ 動きませんね……？",
+      "zh": "咦？电梯不动……？",
+      "vi": "Hả? Thang máy không di chuyển...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hanna009",
+      "speaker_tag": "; > Hanna: |#0204Trial00_Hanna009|",
+      "ja": "もしかして故障ですの……？",
+      "zh": "难道是坏了……？",
+      "vi": "Nó có bị hỏng không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry023",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry023|",
+      "ja": "どうやらひとりずつ行くしかないみたいですね。<br>ハンナさんお先にどうぞ！",
+      "zh": "看来只能一次上去一个人了。<br>\n汉娜你先请吧！",
+      "vi": "Có vẻ như mỗi lần chỉ có một người có thể đi lên. Hanna, xin hãy đi trước!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Sherry024",
+      "speaker_tag": "; > Sherry: |#0204Trial00_Sherry024|",
+      "ja": "帰り道は１人ずつしか乗れなかったんですよね。",
+      "zh": "返程的时候只能一个一个乘坐了。",
+      "vi": "Trong chuyến trở về, chúng ta chỉ có thể đi từng chiếc một.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Miria025",
+      "speaker_tag": "; > Miria: |#0204Trial00_Miria025|",
+      "ja": "そしてヒロちゃん以外の<br>おじさんたちが昇ってから……<br>エレベーターは地下に戻った。",
+      "zh": "除了小希没上去以外，<br>\n大叔我们都上去了，<br>\n在那之后……电梯又回到了地下。",
+      "vi": "Ngoại trừ Tiểu Hi không lên, Bác ơi, chúng ta đều lên rồi, Sau đó...thang máy quay trở lại lòng đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro007|",
+      "ja": "……そして私の前でエレベーターの扉が開いたとき。",
+      "zh": "……这时在我面前，电梯门打开了。",
+      "vi": "…Vào lúc này, trước mặt tôi, cửa thang máy mở ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro008|",
+      "ja": "そこには、エマの死体があった。",
+      "zh": "里面是艾玛的尸体。",
+      "vi": "Bên trong là cơ thể của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa013",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa013|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro009",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro009|",
+      "ja": "だがエレベーターは１人乗り制限……。",
+      "zh": "但是，电梯只能乘坐一个人……",
+      "vi": "Tuy nhiên, thang máy chỉ có thể chở một người...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro010",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro010|",
+      "ja": "そのまま上に運ぶのは無理だ。",
+      "zh": "所以直接把她运上去是不可能的。",
+      "vi": "Vì vậy không thể trực tiếp chở cô ấy lên được.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro011",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro011|",
+      "ja": "だから私はそこで一旦現場の写真を撮り、<br>エマを下ろして上へと向かった。",
+      "zh": "所以我才先拍下了现场的照片，<br>\n把艾玛放下来，我再上去。",
+      "vi": "Đó là lý do tại sao tôi chụp ảnh hiện trường trước tiên, Đặt Ema xuống và tôi sẽ đứng dậy lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro012",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro012|",
+      "ja": "そこで待っていた３人に事情を説明したんだ。",
+      "zh": "向在那里等待的三人说明了情况。",
+      "vi": "Anh giải thích tình hình cho ba người đang đợi ở đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro013",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro013|",
+      "ja": "……本来、あのエレベーターは２人まで乗れるものだ。",
+      "zh": "……原本，那部电梯是可以乘坐2人的。",
+      "vi": "...Ban đầu, thang máy đó có thể chứa được 2 người.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro014",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro014|",
+      "ja": "よって犯人が天井裏に隠れているせいで<br>１人分の重量が加算されて乗れなくなった……<br>そう思って天井裏を確認した。",
+      "zh": "所以我推测是因为凶手藏在顶板上面，<br>\n增加了一个人的重量，所以才无法乘坐……<br>\n于是我就检查了一下电梯上方。",
+      "vi": "Vậy tôi đoán là do kẻ sát nhân đang trốn trên mái nhà, Nó làm tăng trọng lượng của một người và khiến một người không thể đi xe được... Vì thế tôi đã kiểm tra phía trên thang máy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro015",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro015|",
+      "ja": "するとそこに……レイアの死体があったんだ。",
+      "zh": "结果就在那里……发现了蕾雅的尸体。",
+      "vi": "Và đó là nơi... thi thể của Lea được tìm thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa014",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa014|",
+      "ja": "……なるほどな。",
+      "zh": "……原来如此。",
+      "vi": "...Chính là nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa015",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa015|",
+      "ja": "……だけどよ、単純に考えるなら……。",
+      "zh": "……这样的话，说得简单点……",
+      "vi": "...Trong trường hợp này, nói một cách đơn giản...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa016",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa016|",
+      "ja": "【犯人は最後に乗った二階堂】。",
+      "zh": "【凶手就是最后乘坐电梯的二阶堂】。",
+      "vi": "[Kẻ giết người là Nikaido, người đi thang máy cuối cùng].",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa017",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa017|",
+      "ja": "……この考えであってるか？",
+      "zh": "……这样对吗？",
+      "vi": "...Điều này có đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro016",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro016|",
+      "ja": "……もちろん、それは否定させてもらう。",
+      "zh": "……请允许我否定这样的假设。",
+      "vi": "… Xin hãy cho phép tôi bác bỏ giả định này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro017",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro017|",
+      "ja": "最も怪しい容疑者だということは、<br>理解しているつもりだが。",
+      "zh": "虽然我明白，<br>\n我自己就是最令人怀疑的嫌疑人。",
+      "vi": "Mặc dù tôi hiểu nhưng Bản thân tôi là nghi phạm đáng ngờ nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Hiro018",
+      "speaker_tag": "; > Hiro: |#0204Trial00_Hiro018|",
+      "ja": "だからこそ、私が拘束された……。",
+      "zh": "所以我才会被关押……",
+      "vi": "Đó là lý do tại sao tôi bị bỏ tù...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa018",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa018|",
+      "ja": "なら……それ前提で話させてもらおうか。",
+      "zh": "那么……就以此为前提展开讨论吧。",
+      "vi": "Vì vậy... hãy bắt đầu cuộc thảo luận dựa trên tiền đề này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Trial00_Alisa019",
+      "speaker_tag": "; > Alisa: |#0204Trial00_Alisa019|",
+      "ja": "誰が桜羽と蓮見の２人を殺したのか……な。",
+      "zh": "讨论到底是谁杀了樱羽和莲见……",
+      "vi": "Thảo luận xem ai đã giết Sakuraha và Hasumi...",
+      "objection_links": []
+    }
+  ]
+}

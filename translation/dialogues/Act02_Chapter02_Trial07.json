@@ -1,0 +1,1033 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Trial07",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Trial07' Naninovel scenario script",
+  "total_entries": 127,
+  "entries": [
+    {
+      "id": "0202Trial07_Sherry001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial07_Sherry001|",
+      "ja": "ハンナさんは焼却炉で<br>ココさんを撃ち殺したあと、<br>死体を運び出したんです！",
+      "zh": "汉娜在焚烧炉<br>\n枪杀可可以后<br>\n把她的尸体搬了出去！",
+      "vi": "Hanna trong lò đốt Sau khi chụp Coco Đưa xác cô ấy ra ngoài!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial07_Sherry002|",
+      "ja": "運良く<link=\"Objection_02_02_07_01\">誰にも見つからず</link><br>玄関から出たハンナさんは、<br>死体を担いで<br>中庭の上に<br>浮かんでいた……。",
+      "zh": "走运的是，<link=\"Objection_02_02_07_01\">没人看见她</link><br>\n接下来的行动。<br>\n她扛着尸体<br>\n从玄关离开，<br>\n飘到了中庭上空……",
+      "vi": "May mắn thay, <link=\"Objection_02_02_07_01\"> không ai nhìn thấy cô ấy </link>_TAG_2__ Phải làm gì tiếp theo. Cô ấy đang mang thi thể Rời khỏi lối vào, Bay lơ lửng trên tâm nhĩ...",
+      "objection_links": [
+        "Objection_02_02_07_01"
+      ]
+    },
+    {
+      "id": "0202Trial07_Sherry003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial07_Sherry003|",
+      "ja": "そしてヒロさんが<br>中庭の前を通りかかった<br>タイミングを見計らって、<br><link=\"Objection_02_02_07_02\">ドスン</link>！",
+      "zh": "然后她<br>\n等希罗路过中庭时<br>\n看准了时机，<br>\n<link=\"Objection_02_02_07_02\">扑通一声</link>！",
+      "vi": "Sau đó cô ấy Chờ Anh Hùng đi ngang qua sân thượng Hãy nắm bắt cơ hội, <link=\"Objection_02_02_07_02\">Pụp </link>!",
+      "objection_links": [
+        "Objection_02_02_07_02"
+      ]
+    },
+    {
+      "id": "0202Trial07_Sherry004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial07_Sherry004|",
+      "ja": "エマさんが通る直前、<br>空からココさんの死体を<br>落下させました！",
+      "zh": "就在艾玛即将路过的时候，<br>\n她把可可的尸体<br>\n从空中抛了下去！",
+      "vi": "Ngay khi Ema chuẩn bị đi ngang qua, Cô ta đã lấy xác của Coco Bị ném từ trên không xuống!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial07_Sherry005|",
+      "ja": "そうして一瞬で<br>現れた死体を、<br>エマさんが<br>発見したんです！",
+      "zh": "紧接着，<br>\n这瞬间现身的尸体<br>\n就被艾玛<br>\n发现了！",
+      "vi": "Ngay sau đó, Cái xác xuất hiện vào lúc này Chỉ bởi Ema Tìm thấy nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial07_Sherry006|",
+      "ja": "そのあとはまた<br>玄関から戻って、<br>何食わぬ顔で<br>合流したんですよ。",
+      "zh": "之后，<br>\n汉娜又从玄关回到中庭，<br>\n装作若无其事的样子<br>\n和大家汇合。",
+      "vi": "Sau đó, Hanna quay lại sảnh từ tiền sảnh, Giả vờ thờ ơ Tham gia cùng mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial07_Hanna001|",
+      "ja": "ま、待ちやがりなさいませ！",
+      "zh": "请、请等一下！",
+      "vi": "Xin vui lòng chờ đợi!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial07_Hanna002|",
+      "ja": "それは……<br>なんか無理じゃ<br>ありませんこと！？<br>わたくしには<br><link=\"Objection_02_02_07_03\">絶対無理</link>ですわ～！",
+      "zh": "你……<br>\n不觉得<br>\n很牵强吗！？<br>\n我<link=\"Objection_02_02_07_03\">绝对不可能做得到</link>～！<br>",
+      "vi": "Bạn... Đừng nghĩ Có phải là điều xa vời không? ? Bổn tiểu thư hoàn toàn không thể nào <link=\"Objection_02_02_07_03\"> có thể làm được </link>~!",
+      "objection_links": [
+        "Objection_02_02_07_03"
+      ]
+    },
+    {
+      "id": "0202Trial07_Sherry007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial07_Sherry007|",
+      "ja": "え～？<br>そうですかね～？",
+      "zh": "欸～？<br>\n真的吗～？",
+      "vi": "Hả~? Thật sao~?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial07_Sherry008|",
+      "ja": "ハンナさんがずっと<br><link=\"Objection_02_02_07_05\">中庭の空</link>で死体を持って<br>待っていたのだとしたら、<br>全然<link=\"Objection_02_02_07_04\">成立する</link>と<br>思いますけどね！",
+      "zh": "如果你一直<br>\n扛着尸体<br>\n等在<link=\"Objection_02_02_07_05\">中庭上空</link>，<br>\n那我觉得完全可以<br>\n<link=\"Objection_02_02_07_04\">做得到</link>啊！",
+      "vi": "Nếu bạn giữ Mang thi thể Đang chờ ở <link=\"Objection_02_02_07_05\"> sảnh </link>, Vậy thì tôi nghĩ điều đó hoàn toàn ổn <link=\"Objection_02_02_07_04\"> có thể làm được </link>!",
+      "objection_links": [
+        "Objection_02_02_07_05",
+        "Objection_02_02_07_04"
+      ]
+    },
+    {
+      "id": "0202Trial07_Hanna003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial07_Hanna003|",
+      "ja": "濡れ衣ですわー！<br>きっと<br>こいつが犯人ですわー！",
+      "zh": "根本就是冤枉呀！<br>\n凶手一定<br>\n就是这家伙——！",
+      "vi": "Đó đơn giản là một sự bất công! Kẻ sát nhân phải là Là anh chàng này——!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro001|",
+      "ja": "（シェリーの言っていることは<br>　たしかに成立するかもしれない。<br>　けれど……）",
+      "zh": "（雪莉的主张<br>\n说不定理论上成立。<br>\n只不过……）",
+      "vi": "(Tuyên bố của Sherry Có lẽ về mặt lý thuyết nó đúng. Chỉ là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema001",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema001|",
+      "ja": "……本当にハンナちゃんにできるのかな。",
+      "zh": "……汉娜真的能做得到吗。",
+      "vi": "... Hanna thực sự có thể làm được điều đó sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro002|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro003|",
+      "ja": "（現場の状況……<br>　もう一度確認してみよう）",
+      "zh": "（……重新检查一遍<br>\n现场的情况吧）",
+      "vi": "(…Kiểm tra lại Tình hình tại hiện trường)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Choice001",
+      "speaker_tag": "; > @choice |#0202Trial07_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "見つからないのは不可能",
+      "zh": "不可能没人看到",
+      "vi": "Không thể nào không có ai nhìn thấy nó",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Choice002",
+      "speaker_tag": "; > @choice |#0202Trial07_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "落下したような音は聞こえなかった",
+      "zh": "当时没听见落下的声音",
+      "vi": "Lúc đó tôi không nghe thấy tiếng rơi",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Choice003",
+      "speaker_tag": "; > @choice |#0202Trial07_Choice003| button:ChoiceButtons/Trial/Question handler:TrialHiro",
+      "ja": "ハンナにアリバイを聞く",
+      "zh": "向汉娜询问她的不在场证明",
+      "vi": "Hỏi Hanna về bằng chứng ngoại phạm của cô ấy",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Choice004",
+      "speaker_tag": "; > @choice |#0202Trial07_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "時系列が成立しない",
+      "zh": "时间顺序有矛盾",
+      "vi": "Có sự xung đột theo trình tự thời gian",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Choice005",
+      "speaker_tag": "; > @choice |#0202Trial07_Choice005| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "空にいたら誰かに見られる",
+      "zh": "在空中会被人看见",
+      "vi": "Sẽ được nhìn thấy trong không khí",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro004|",
+      "ja": "その状態の犯人が<br>誰にも見つからずに玄関を出るのは至難の業だ。",
+      "zh": "凶手在那个状态下<br>\n几乎不可能离开玄关还不被人发现。",
+      "vi": "Kẻ sát nhân đang ở trạng thái đó Gần như không thể rời khỏi sảnh vào mà không bị chú ý.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro005|",
+      "ja": "さらに死体を抱えていたとなると<br>明らかに目立ってしまう……。",
+      "zh": "再加上她抱着尸体，<br>\n这就更加引人注意了……",
+      "vi": "Hơn nữa, cô ấy đang ôm thi thể, Điều này càng đáng chú ý hơn...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro006|",
+      "ja": "その姿を誰も目撃していないのはおかしい。",
+      "zh": "凶手如此显眼却没有人看到，这不正常。",
+      "vi": "Thật không bình thường khi kẻ sát nhân lộ rõ như vậy và không ai nhìn thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry009",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry009|",
+      "ja": "でもできないことではないと思いますよ！",
+      "zh": "但我觉得并非完全不可能！",
+      "vi": "Nhưng tôi nghĩ điều đó không hoàn toàn là không thể!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry010",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry010|",
+      "ja": "特に死体発見前後は<br>ヒロさんがバタバタと１階を駆けていたと聞きます……。",
+      "zh": "尤其是希罗你，就在尸体被发现的那段时间<br>\n我听见你慌慌张张地跑到了一楼……",
+      "vi": "Đặc biệt là bạn, Anh hùng, trong thời điểm thi thể được tìm thấy Tôi nghe thấy bạn hoảng loạn chạy lên tầng một...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry011",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry011|",
+      "ja": "つまりヒロさんが目立ってしまっていたということです！",
+      "zh": "也就是说当时你非常引人注意！",
+      "vi": "Điều đó có nghĩa là bạn đã rất được chú ý vào thời điểm đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_AnAn001",
+      "speaker_tag": "; > AnAn: |#0202Trial07_AnAn001|",
+      "ja": "『たしかに騒がしかったな』",
+      "zh": "『那时确实很吵闹』",
+      "vi": "\"Lúc đó thực sự rất ồn ào\"",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry012",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry012|",
+      "ja": "その陰でこっそり外に出るくらい、<br>不可能ではないはずですよ！",
+      "zh": "也许凶手就是趁着当时的动静偷偷溜了出去，<br>\n这也是有可能的！",
+      "vi": "Có thể hung thủ đã lợi dụng lúc náo loạn và lẻn ra ngoài, Điều này cũng có thể!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro007|",
+      "ja": "（……犯人が誰にも見つからず<br>　屋敷内外を動くこと自体は可能か……？）",
+      "zh": "（……凶手有可能在不被人发现的前提下<br>\n进出宅邸吗……？）",
+      "vi": "(...Có thể kẻ sát nhân có thể mà không bị phát hiện Ra vào biệt thự...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro008|",
+      "ja": "（だが、まず確認すべきは……<br>　【ハンナに犯行が可能かどうか】だ）",
+      "zh": "（不过，目前更应该确认的是……<br>\n【汉娜是否有可能犯罪】）",
+      "vi": "(Tuy nhiên, điều cần được xác nhận bây giờ là... [Có thể nào Hanna đã phạm tội])",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro009|",
+      "ja": "（……ココの配信直後、<br>　ハンナがどこにいたか思い出そう）",
+      "zh": "（……回想一下在可可直播刚结束时<br>\n汉娜人在哪里吧）",
+      "vi": "(...Hãy nghĩ lại ngay sau buổi phát sóng trực tiếp của Coco Hana ở đâu?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro010|",
+      "ja": "死体発見直前……そんな音を聞いた覚えはないな。",
+      "zh": "我记得……在尸体被发现之前没听到那样的声音。",
+      "vi": "Tôi nhớ...không hề nghe thấy điều gì như thế trước khi thi thể được tìm thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro011|",
+      "ja": "もし屋根より高い位置から死体が落とされたのなら、<br>地面に叩きつけられる音がするはずだ。",
+      "zh": "如果尸体在比屋顶还高的位置被抛下，<br>\n应该会发出撞击地面的声音。",
+      "vi": "Nếu thi thể bị rơi từ độ cao cao hơn mái nhà, Nó sẽ tạo ra âm thanh khi chạm đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry013",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry013|",
+      "ja": "聞こえないのも無理はありません！<br>豪雨でしたし、雷も鳴っていましたから！",
+      "zh": "听不到声音也正常！<br>\n毕竟那时候下着倾盆大雨，还在打雷！",
+      "vi": "Sẽ là bình thường nếu bạn không thể nghe thấy âm thanh! Rốt cuộc, trời đổ mưa và sấm sét!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry014",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry014|",
+      "ja": "きっと犯人はその音に紛れさせるように<br>死体を落下させたんですねー！",
+      "zh": "凶手一定是想用雨声雷声掩盖掉撞击声，<br>\n才抛下了尸体吧！",
+      "vi": "Kẻ sát nhân chắc chắn đã cố che đậy âm thanh va chạm bằng tiếng mưa và sấm sét, Chỉ cần để lại cơ thể phía sau!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Noah001",
+      "speaker_tag": "; > Noah: |#0202Trial07_Noah001|",
+      "ja": "雷がゴロゴロゴロ～って鳴った瞬間なら、<br>音が聞こえなくてもおかしくないよねー。",
+      "zh": "如果恰好在轰隆隆的雷声响起的瞬间抛下去，<br>\n听不见声音也很正常啦。",
+      "vi": "Nếu bạn vô tình ném nó xuống vào lúc có tiếng sấm ầm ầm, Việc không thể nghe được âm thanh là điều bình thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro012|",
+      "ja": "（あの雷雨の中では、聞こえなくとも不思議はないか……）",
+      "zh": "（在如此震耳欲聋的雷雨中，听不到撞击声也难怪……）",
+      "vi": "(Trong cơn giông bão điếc tai như vậy, khó trách không thể nghe thấy tiếng va chạm...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro013|",
+      "ja": "（だが、まず確認すべきは……<br>　【ハンナに犯行が可能かどうか】だ）",
+      "zh": "（不过，目前更应该确认的是……<br>\n【汉娜是否有可能犯罪】）",
+      "vi": "(Tuy nhiên, điều cần được xác nhận bây giờ là... [Có thể nào Hanna đã phạm tội])",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro014",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro014|",
+      "ja": "（……ココの配信直後、<br>　ハンナがどこにいたか思い出そう）",
+      "zh": "（……回想一下在可可直播刚结束时<br>\n汉娜人在哪里吧）",
+      "vi": "(...Hãy nghĩ lại ngay sau buổi phát sóng trực tiếp của Coco Hana ở đâu?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro015",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro015|",
+      "ja": "いいや……中庭の空でずっと待っていたら<br>そのうち誰かに見られてしまうんじゃないか？",
+      "zh": "不对……如果凶手一直等在中庭的上空<br>\n过不了多久就会被人发现吧？",
+      "vi": "Không...nếu kẻ sát nhân đã đợi phía trên sảnh Sẽ không lâu nữa sẽ có người phát hiện ra, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Leia001",
+      "speaker_tag": "; > Leia: |#0202Trial07_Leia001|",
+      "ja": "たしかに、そうかもしれないね……。",
+      "zh": "确实有可能……",
+      "vi": "Quả thực là có thể...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Leia002",
+      "speaker_tag": "; > Leia: |#0202Trial07_Leia002|",
+      "ja": "犯人が死体を抱えて浮遊していたとしたら<br>明らかに目立つよ。",
+      "zh": "要是凶手抱着尸体飘浮在空中<br>\n实在是太明显了。",
+      "vi": "Điều gì sẽ xảy ra nếu kẻ sát nhân lơ lửng trên không cùng với thi thể Nó quá rõ ràng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Noah002",
+      "speaker_tag": "; > Noah: |#0202Trial07_Noah002|",
+      "ja": "でも外は雨が降ってたよねー？",
+      "zh": "可是外面在下雨吧？",
+      "vi": "Nhưng ngoài trời có mưa không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Noah003",
+      "speaker_tag": "; > Noah: |#0202Trial07_Noah003|",
+      "ja": "結構暗かったし……<br>誰かが空を飛んでても見ないんじゃないかな？",
+      "zh": "而且很昏暗……<br>\n就算有人飞在空中也看不见吧？",
+      "vi": "Và nó rất mờ... Ngay cả khi có ai đó đang bay trên không, bạn cũng không thể nhìn thấy phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry015",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry015|",
+      "ja": "そう！<br>だからこそ犯人は視界の悪い雨天に決行したんです！",
+      "zh": "没错！<br>\n所以凶手才选择在视线不好的雨天下手！",
+      "vi": "Đúng vậy! Đó là lý do tại sao kẻ sát nhân chọn tấn công vào ngày mưa khi tầm nhìn không tốt!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry016",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry016|",
+      "ja": "ね！？ ハンナさん！？",
+      "zh": "对吧！？汉娜！？",
+      "vi": "Đúng rồi! ? Hanna! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna004",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna004|",
+      "ja": "わ、わたくしは無実ですわー！？",
+      "zh": "我、我是清白的呀！？",
+      "vi": "Bổn tiểu thư, Bổn tiểu thư vô tội! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna005",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna005|",
+      "ja": "ヒロさん、もっとちゃんと反論してくださいまし！！",
+      "zh": "希罗，请你认真一点反驳！！",
+      "vi": "Anh hùng, xin hãy nghiêm túc hơn trong việc phản bác! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro016",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro016|",
+      "ja": "（なぜ私が怒られる……！）",
+      "zh": "（为什么要骂我……！）",
+      "vi": "(Tại sao bạn lại mắng tôi ...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro017",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro017|",
+      "ja": "（だがまず確認すべきは、<br>　【ハンナに犯行が可能かどうか】だ）",
+      "zh": "（不过，最先应该确认的是……<br>\n【汉娜是否有可能犯罪】）",
+      "vi": "(Tuy nhiên, điều đầu tiên bạn nên xác nhận là... [Có thể nào Hanna đã phạm tội])",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro018",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro018|",
+      "ja": "（……ココの配信直後、<br>　ハンナがどこにいたか思い出そう）",
+      "zh": "（……回想一下在可可直播刚结束时<br>\n汉娜人在哪里吧）",
+      "vi": "(...Hãy nghĩ lại ngay sau buổi phát sóng trực tiếp của Coco Hana ở đâu?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro019",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro019|",
+      "ja": "無理というけど、<br>君にアリバイでもあるのかな。",
+      "zh": "你说自己做不到，<br>\n那你是否有不在场证明呢？",
+      "vi": "Bạn đã nói rằng bạn không thể làm được, Vậy bạn có bằng chứng ngoại phạm không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna006",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna006|",
+      "ja": "えええと、あのときは外にいたら<br>雨が降りそうだったので戻ってきて、<br>それでしばらく……。",
+      "zh": "呃我想想，当时我在外面<br>\n看到快要下雨了就回到屋里，<br>\n然后过了一会……",
+      "vi": "Chà, để Bổn tiểu thư nghĩ về điều đó, lúc đó Bổn tiểu thư đang ở bên ngoài Khi thấy trời sắp mưa, Bổn tiểu thư quay vào nhà, Rồi sau một thời gian...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna007",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna007|",
+      "ja": "ああっ！ そうですわ！",
+      "zh": "啊——！我想起来了！",
+      "vi": "A——! Bổn tiểu thư đã nhớ ra!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna008",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna008|",
+      "ja": "玄関のホールで階段から降りてくるヒロさんと<br>すれ違いましたわ～！",
+      "zh": "我在玄关大厅和刚从楼上下来的希罗<br>\n擦肩而过～！",
+      "vi": "Bổn tiểu thư đang ở tiền sảnh với Hiro, ngươi vừa từ trên lầu đi xuống Đi ngang qua~!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna009",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna009|",
+      "ja": "きゃああ！？",
+      "zh": "呀啊啊！？",
+      "vi": "Vâng! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro020",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro020|",
+      "ja": "うぐっ！？",
+      "zh": "呃唔！？",
+      "vi": "Ờ-huh! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Narrative001",
+      "speaker_tag": "",
+      "ja": "階段の途中で誰かと衝突し、<br>転げ落ちることはなかったが、<br>私はその場に思い切り尻もちをついた。",
+      "zh": "下楼的时候我突然撞到了人，<br>\n虽然没摔下楼，<br>\n但也被撞得一屁股坐到了地上。",
+      "vi": "Khi tôi đang đi xuống cầu thang, tôi bất ngờ va phải ai đó, Mặc dù tôi không bị ngã xuống cầu thang, Nhưng anh ta đã bị đánh ngã và ngã xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro021",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro021|",
+      "ja": "っ……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna010",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna010|",
+      "ja": "もうなんなんですのー！！",
+      "zh": "到底在搞什么呀！！",
+      "vi": "Bạn đang làm gì vậy! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro022",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro022|",
+      "ja": "……そうか。<br>たしかにあのとき、ハンナはそこにいた……。",
+      "zh": "……是的。<br>\n那时汉娜确实在大厅……",
+      "vi": "...vâng. Thực ra lúc đó Hanna đang ở hành lang...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna011",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna011|",
+      "ja": "そこからわたくし、２階に上がりましたわ！",
+      "zh": "然后我就上了二楼！",
+      "vi": "Sau đó Bổn tiểu thư lên tầng hai!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna012",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna012|",
+      "ja": "そしてしばらくすると何やら１階の方が騒がしくなり……。",
+      "zh": "过了一会，我听见一楼那边吵吵闹闹的……",
+      "vi": "Một lúc sau, Bổn tiểu thư nghe thấy tiếng động ở tầng một...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna013",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna013|",
+      "ja": "中庭の方へ行ったら、<br>皆さんいらっしゃったんですわ～！",
+      "zh": "于是我来到中庭，<br>\n就看到大家都在那里～！",
+      "vi": "Vì vậy Bổn tiểu thư đã đến sảnh, Bổn tiểu thư đã thấy mọi ngươi ở đó~!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Miria001",
+      "speaker_tag": "; > Miria: |#0202Trial07_Miria001|",
+      "ja": "そういえばそのとき、<br>おじさんとノアちゃんが行くよりも前に<br>ハンナちゃんは現場にいたね。",
+      "zh": "说起来，<br>\n在大叔我和诺亚到之前，<br>\n汉娜就已经在现场了。",
+      "vi": "Nhắc mới nhớ, Trước khi chú Noah và Miria đến, Hanna đã ở đó rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Miria002",
+      "speaker_tag": "; > Miria: |#0202Trial07_Miria002|",
+      "ja": "もちろん血痕とかで濡れたりはしてなかったよ。",
+      "zh": "当然，她身上没有被血迹或者别的什么弄湿。",
+      "vi": "Tất nhiên, cô ấy không bị ướt đẫm máu hay bất cứ thứ gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro023",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro023|",
+      "ja": "（……なるほど）",
+      "zh": "（……原来如此）",
+      "vi": "(…chuyện là thế đấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro024",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro024|",
+      "ja": "（ハンナのアリバイ……<br>　思ったよりも強固かもしれないな）",
+      "zh": "（汉娜的不在场证明……<br>\n或许比我想像中还要牢固）",
+      "vi": "(Bằng chứng ngoại phạm của Hanna… Có lẽ nó mạnh hơn tôi nghĩ)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro025",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro025|",
+      "ja": "残念だけど、それは時系列が成立しないんだ。",
+      "zh": "很可惜，这个时间顺序是有问题的。",
+      "vi": "Thật không may, niên đại này có vấn đề.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry017",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry017|",
+      "ja": "えっ？<br>そうでしょうか……？",
+      "zh": "欸？<br>\n真的吗……？",
+      "vi": "Hả? Thật sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry018",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry018|",
+      "ja": "ハンナさんは地下の焼却炉でココさんを射殺したあと、<br>その死体を担いで中庭にまっすぐ向かった……。",
+      "zh": "汉娜在地下焚烧炉室射杀可可后，<br>\n就扛着尸体直接去了中庭……",
+      "vi": "Sau khi Hanna bắn Coco trong phòng đốt rác dưới lòng đất, Tôi đã mang cái xác thẳng tới tâm nhĩ...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry019",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry019|",
+      "ja": "そうして空中で待ち構えたあと、<br>タイミングを見計らって死体を投下したんです。",
+      "zh": "她在空中等了一会，<br>\n之后找准时机抛下尸体。",
+      "vi": "Cô ấy đợi trên không một lúc, Sau đó tìm thời điểm thích hợp để vứt xác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry020",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry020|",
+      "ja": "そして何食わぬ顔でみんなに合流した……。",
+      "zh": "然后装作若无其事的样子和大家汇合……",
+      "vi": "Sau đó, anh giả vờ thờ ơ và tham gia cùng mọi người...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry021",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry021|",
+      "ja": "この時系列に、どこかおかしいところがありますか？",
+      "zh": "这个时间顺序到底哪里有问题？",
+      "vi": "Có gì sai với niên đại này?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro026",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro026|",
+      "ja": "ああ、あるとも。",
+      "zh": "当然，是有的。",
+      "vi": "Tất nhiên là có.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro027",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro027|",
+      "ja": "私は中庭にいくとき<br>ラウンジに入る前にハンナと会っている。",
+      "zh": "去中庭的时候，<br>\n我在去到会客厅前，遇到了汉娜。",
+      "vi": "Khi đi tới giếng trời, Trước khi vào phòng khách, tôi gặp Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro028",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro028|",
+      "ja": "そこからハンナが外へ出て<br>中庭にココの死体を落としたなら<br>玄関から出て空を飛ぶ必要があるんだ。",
+      "zh": "如果后来汉娜去中庭<br>\n抛下了可可的尸体，<br>\n那她就必须从玄关出去再飞到中庭。",
+      "vi": "Nếu sau này Hanna đi tới sân trong Thi thể Coco bị bỏ rơi, Sau đó cô phải đi ra từ lối vào và bay đến tâm nhĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry022",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry022|",
+      "ja": "んー……。<br>でもそれなら、その瞬間だけそこにいた可能性はありますよね？",
+      "zh": "嗯……<br>\n但如果是这样的话，她也有可能只在那里停留了一小会吧？",
+      "vi": "Ừm... Nhưng nếu đúng như vậy thì có thể cô ấy chỉ ở đó một thời gian ngắn thôi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry023",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry023|",
+      "ja": "事前に殺して目撃証言を作り、<br>外に出た可能性はあると思います！",
+      "zh": "我觉得她可能先杀了可可，再拿到你的目击证词，<br>\n然后去了中庭！",
+      "vi": "Tôi nghĩ có thể cô ấy đã giết Coco trước rồi mới lấy được lời khai của nhân chứng, Sau đó đi đến tâm nhĩ!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro029",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro029|",
+      "ja": "だがあのとき、現場には激しい雨が降っていた。",
+      "zh": "可是当时的案发现场正在下倾盆大雨。",
+      "vi": "Nhưng tại hiện trường vụ án trời đang đổ mưa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema002",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema002|",
+      "ja": "……そっか！ そういえばそうだった……！",
+      "zh": "……对哦！这么一说确实是……！",
+      "vi": "...Vâng! Nói thế thì quả thực là...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema003",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema003|",
+      "ja": "たしかに死体発見直後に来てたハンナちゃんは、<br>【血痕や何かで濡れている様子はなかった】よ……！",
+      "zh": "我记得尸体被发现后，紧接着赶来的汉娜<br>\n【身上并没有被血迹或者别的什么弄湿】……！",
+      "vi": "Tôi nhớ Hanna đã đến ngay sau khi thi thể được tìm thấy [Cơ thể không ướt đẫm máu hay bất cứ thứ gì khác]...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro030",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro030|",
+      "ja": "……そう。<br>もしも短時間であろうと、<br>ハンナが中庭に浮かんでいたというなら……。",
+      "zh": "……是的。<br>\n只要汉娜飞到了中庭，<br>\n哪怕只是短暂停留……",
+      "vi": "...vâng. Chỉ cần Hanna bay tới sân trong, Dù chỉ là một thời gian ngắn ngủi…",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro031",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro031|",
+      "ja": "多少雨に濡れていたはずだ。<br>中庭で死体を見つけた、私やエマのようにね。",
+      "zh": "多少都会被雨淋湿。<br>\n就像在中庭发现尸体的我和艾玛一样。",
+      "vi": "Hầu hết chúng sẽ bị ướt do mưa. Giống như Ema và tôi khi chúng tôi tìm thấy cái xác ở sân trong.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna014",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna014|",
+      "ja": "……たしかにその通りですわー！？",
+      "zh": "……确实如你所说呢！？",
+      "vi": "...Đúng như những gì bạn nói! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry024",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry024|",
+      "ja": "うーん、なるほどなるほど～。",
+      "zh": "嗯——，这样啊我明白了～",
+      "vi": "Hmm——, vậy thôi, tôi hiểu rồi~",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry025",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry025|",
+      "ja": "でもでも、傘でも差していたなら<br>ギリギリ可能じゃないですか？",
+      "zh": "不过呢，要是撑把伞的话<br>\n也可以勉强挡住雨吧？",
+      "vi": "Tuy nhiên, nếu bạn cầm ô Bạn có thể che mưa được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Alisa001",
+      "speaker_tag": "; > Alisa: |#0202Trial07_Alisa001|",
+      "ja": "いや……あの雨と風だろ。",
+      "zh": "不……现场这么大风大雨。",
+      "vi": "Không... ở hiện trường trời rất gió và mưa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Alisa002",
+      "speaker_tag": "; > Alisa: |#0202Trial07_Alisa002|",
+      "ja": "遮蔽するものがなにもねー空じゃあ、<br>横殴りの雨にずぶ濡れになると思うけどな。",
+      "zh": "在没有任何遮挡物的空中<br>\n肯定会被侧面吹来的雨淋成落汤鸡吧。",
+      "vi": "Trên không mà không có bất kỳ vật cản nào Tao chắc chắn Tao sẽ bị ướt sũng bởi cơn mưa thổi từ bên cạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hanna015",
+      "speaker_tag": "; > Hanna: |#0202Trial07_Hanna015|",
+      "ja": "ですわですわー！",
+      "zh": "就是就是！",
+      "vi": "Thế thôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Sherry026",
+      "speaker_tag": "; > Sherry: |#0202Trial07_Sherry026|",
+      "ja": "そうなると、<br>やっぱり空から侵入することは<br>できなかったっていうことですかね？",
+      "zh": "那这么说，<br>\n结果还是不可能<br>\n从空中潜入咯？",
+      "vi": "Vì vậy, Kết quả vẫn là không thể Lẻn vào từ trên không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_AnAn002",
+      "speaker_tag": "; > AnAn: |#0202Trial07_AnAn002|",
+      "ja": "『ハンナができないなら、<br>　やはり犯人はヒロかエマのどちらかか』",
+      "zh": "『既然汉娜做不到，<br>\n那凶手还是希罗和艾玛当中的某一个』",
+      "vi": "\"Vì Hanna không thể làm được, Kẻ sát nhân là một trong số Anh hùng và Ema.』",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_AnAn003",
+      "speaker_tag": "; > AnAn: |#0202Trial07_AnAn003|",
+      "ja": "エマはそもそも中庭で死体を見つけた第一発見者だし、<br>容疑を完全にはぬぐえない。",
+      "zh": "艾玛本来就是尸体的第一目击者，<br>\n无法彻底洗清嫌疑。",
+      "vi": "Ema ban đầu là nhân chứng đầu tiên của xác chết, Sự nghi ngờ không thể được xóa bỏ hoàn toàn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_AnAn004",
+      "speaker_tag": "; > AnAn: |#0202Trial07_AnAn004|",
+      "ja": "ヒロも、最初から中庭に死体を用意しておけば可能だ。",
+      "zh": "而希罗也有可能从一开始就把尸体放置在中庭。",
+      "vi": "Cũng có thể ngay từ đầu Anh hùng đã đặt thi thể vào giếng trời.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro032",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro032|",
+      "ja": "……それは。",
+      "zh": "这……",
+      "vi": "Đây...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro033",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro033|",
+      "ja": "（たしかに理屈の上では私たち２人のどちらか……）",
+      "zh": "（的确，从理论上来说凶手应该在我们当中……）",
+      "vi": "(Quả thực, về mặt lý thuyết, kẻ sát nhân hẳn là nằm trong số chúng ta...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro034",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro034|",
+      "ja": "（ならやはり……エマが……魔女……？）",
+      "zh": "（那……魔女……真的是艾玛吗……？）",
+      "vi": "(Vậy...mụ phù thủy...cô ấy có thực sự là Ema không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema004",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema004|",
+      "ja": "まだ……他の可能性は残されていると思う……。",
+      "zh": "我觉得……还有其他可能性……",
+      "vi": "Tôi nghĩ... còn có những khả năng khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema005",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema005|",
+      "ja": "犯人が、ボクでも……<br>それにヒロちゃんでもない可能性が！",
+      "zh": "凶手既不是我……<br>\n也不是希罗的可能性！",
+      "vi": "Kẻ sát nhân không phải là tôi... Anh hùng cũng không thể!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro035",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro035|",
+      "ja": "（……エマ……）",
+      "zh": "（……艾玛……）",
+      "vi": "（……Ema……）",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema006",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema006|",
+      "ja": "ヒロちゃんはたしかに犯行が可能で、<br>容疑者のひとりではあるけど……。",
+      "zh": "虽然希罗确实有可能犯罪，<br>\n她也是嫌疑人之一……",
+      "vi": "Mặc dù chắc chắn có khả năng Anh hùng đã phạm tội, Cô cũng là một trong những nghi phạm...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema007",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema007|",
+      "ja": "でも……ココちゃんを殺すなんて思えなくて……。",
+      "zh": "但我……不觉得她会杀死可可……",
+      "vi": "Nhưng tôi... không nghĩ cô ấy sẽ giết Coco...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Leia003",
+      "speaker_tag": "; > Leia: |#0202Trial07_Leia003|",
+      "ja": "……どうしてそう思うんだい？",
+      "zh": "……你为什么这么想？",
+      "vi": "...Tại sao bạn nghĩ như vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_AnAn005",
+      "speaker_tag": "; > AnAn: |#0202Trial07_AnAn005|",
+      "ja": "『わがはいには<br>　ヒロはそんなに平和的な人物とも思えないが』",
+      "zh": "『吾辈并不觉得<br>\n她是这么平静温和的人』",
+      "vi": "\"Tôi không nghĩ Cô ấy quả là một người điềm tĩnh và dịu dàng.』",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema008",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema008|",
+      "ja": "た、たしかにヒロちゃんは……<br>気難しいところがあるんだけど……！",
+      "zh": "虽、虽说她……<br>\n确实是有点不好相处啦……！",
+      "vi": "Mặc dù, mặc dù cô ấy... Quả thực có chút khó khăn để hòa hợp...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro036",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro036|",
+      "ja": "（……晒し上げられている）",
+      "zh": "（……我正被人轮流揭短啊）",
+      "vi": "(…Tôi lần lượt bị lộ)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro037",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro037|",
+      "ja": "（べつに否定するつもりはないが）",
+      "zh": "（不过我也没打算否认就是了）",
+      "vi": "(Nhưng tôi cũng sẽ không phủ nhận điều đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema009",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema009|",
+      "ja": "で、でもボク思うんだ！",
+      "zh": "但、但我觉得！",
+      "vi": "Nhưng, nhưng tôi nghĩ!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema010",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema010|",
+      "ja": "ヒロちゃんが誰か殺すなら……。",
+      "zh": "要说她会杀谁的话……",
+      "vi": "Còn về việc cô ấy sẽ giết ai...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema011",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema011|",
+      "ja": "【ボクを殺した】って！",
+      "zh": "【那一定是我】！",
+      "vi": "[Chắc chắn là tôi]!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Alisa003",
+      "speaker_tag": "; > Alisa: |#0202Trial07_Alisa003|",
+      "ja": "……はぁ？",
+      "zh": "……哈？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema012",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema012|",
+      "ja": "ヒロちゃんが何を考えてるかわからないけど……<br>でも【敵意】を感じたんだ。",
+      "zh": "我不知道希罗在想什么……<br>\n但我感受到了【敌意】。",
+      "vi": "Tôi không biết Anh hùng đang nghĩ gì... Nhưng tôi cảm thấy [thù địch].",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema013",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema013|",
+      "ja": "それはボクの感覚でしかないけど……。",
+      "zh": "尽管只是我自己的感觉……",
+      "vi": "Mặc dù đó chỉ là cảm giác của riêng tôi…",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema014",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema014|",
+      "ja": "でも……殺すとしたら、<br>やっぱりココちゃんじゃなくて<br>ボクだったと思うんだ。",
+      "zh": "不过……要说她会杀谁的话，<br>\n那个人一定不是可可<br>\n而是我。",
+      "vi": "Nhưng... nếu bạn muốn nói về việc cô ấy sẽ giết ai, Người đó không được là Coco Nhưng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema015",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema015|",
+      "ja": "ヒロちゃんには<br>ココちゃんを殺す【動機】がないっていうか……。",
+      "zh": "我感觉<br>\n她没有杀害可可的【动机】……",
+      "vi": "Tôi cảm thấy Cô ấy không có động cơ giết Coco...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Noah004",
+      "speaker_tag": "; > Noah: |#0202Trial07_Noah004|",
+      "ja": "じゃあエマちゃんを殺す動機なら<br>あるってこと？",
+      "zh": "那就是说<br>\n她有杀害你的动机？",
+      "vi": "Điều đó có nghĩa là Cô ấy có động cơ giết anh không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema016",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema016|",
+      "ja": "そ、それは……その……。",
+      "zh": "这、这个嘛……呃……",
+      "vi": "Cái này, cái này... Ờ...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema017",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema017|",
+      "ja": "……とにかく。<br>ボクはヒロちゃんの言ってることを<br>信じてもいいと思っている……！",
+      "zh": "……总而言之。<br>\n我认为大家可以相信<br>\n希罗说的话……！",
+      "vi": "...nói tóm lại. Tôi nghĩ mọi người có thể tin tưởng Hiro đã nói gì vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema018",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema018|",
+      "ja": "……特に【この事件の犯人じゃない】って部分は。",
+      "zh": "……尤其是【她不是这起案件的凶手】这点。",
+      "vi": "...Đặc biệt [cô ấy không phải là kẻ giết người trong vụ án này].",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro038",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro038|",
+      "ja": "（……支離滅裂だ）",
+      "zh": "（……简直语无伦次）",
+      "vi": "(…đơn giản là không mạch lạc)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro039",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro039|",
+      "ja": "（なんの根拠にもなっていない）",
+      "zh": "（完全没有依据）",
+      "vi": "(hoàn toàn vô căn cứ)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro040",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro040|",
+      "ja": "（それに……<br>　自分に殺意を向けている相手を庇うなんて、<br>　損得勘定としても破綻している……）",
+      "zh": "（而且……<br>\n居然维护对自己有杀意的人，<br>\n根本得不偿失……）",
+      "vi": "(Và... Thực sự bảo vệ ai đó có ý định giết người đối với mình, Nó chẳng có giá trị gì cả…)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro041",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro041|",
+      "ja": "（……そういう愚かなところが大嫌いだよ、エマ）",
+      "zh": "（……我最讨厌你这种愚蠢的行事方式了，艾玛）",
+      "vi": "(...Tôi ghét cách làm việc ngu ngốc của cô nhất, Ema)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Hiro042",
+      "speaker_tag": "; > Hiro: |#0202Trial07_Hiro042|",
+      "ja": "（……本当に）",
+      "zh": "（……真的）",
+      "vi": "(…thực sự)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema019",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema019|",
+      "ja": "……ボクは、べつの犯人がいる可能性はあると思ってるよ。",
+      "zh": "……我觉得凶手可能另有其人。",
+      "vi": "...Tôi nghĩ kẻ sát nhân có thể là người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial07_Ema020",
+      "speaker_tag": "; > Ema: |#0202Trial07_Ema020|",
+      "ja": "だから話すね……！<br>……ボクの考えを！",
+      "zh": "所以……！<br>\n……我来说说自己的看法！",
+      "vi": "Vậy...! ... Hãy để tôi nói cho bạn biết ý kiến ​​của tôi!",
+      "objection_links": []
+    }
+  ]
+}

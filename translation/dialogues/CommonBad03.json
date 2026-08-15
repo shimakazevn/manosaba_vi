@@ -1,0 +1,272 @@
+{
+  "bundle": "general-localization-zhhans-scripts-common_assets_all.bundle",
+  "script_name": "CommonBad03",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Common/CommonBad03' Naninovel scenario script",
+  "total_entries": 33,
+  "entries": [
+    {
+      "id": "CommonBad03_Narrative001",
+      "speaker_tag": "",
+      "ja": "――確たる結論が出ないまま、時間は流れた。",
+      "zh": "——大家至今一直没有得出明确的结论，时间徒然流逝。",
+      "vi": "——Cho đến nay mọi người vẫn chưa đạt được kết luận rõ ràng, thời gian trôi qua vô ích.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Warden001",
+      "speaker_tag": "; > Warden: |#CommonBad03_Warden001|",
+      "ja": "議論はここまでということで、<br>投票に移ってもらっていいですかね？",
+      "zh": "讨论到此为止，<br>\n可以请各位进入投票环节了吗？",
+      "vi": "Cuộc thảo luận kết thúc tại đây, Bạn có thể vui lòng tham gia phiên bỏ phiếu được không?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Ema001",
+      "speaker_tag": "; > Ema: |#CommonBad03_Ema001|",
+      "ja": "（また、誰を処刑するか決めなくちゃいけないんだ……）",
+      "zh": "（又得决定去处刑谁了……）",
+      "vi": "(Chúng ta phải quyết định xem ai sẽ xử tử một lần nữa...)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative002",
+      "speaker_tag": "",
+      "ja": "もしかしたら、自分に投票されるのではないか――",
+      "zh": "下一个被投票选中的，会不会就是自己——",
+      "vi": "Liệu anh ấy có phải là người tiếp theo được bầu chọn?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative003",
+      "speaker_tag": "",
+      "ja": "少女たちの間に漂う恐れや緊張といった空気が、<br>濃度を増していく。",
+      "zh": "萦绕在少女身边的恐惧和紧张的气氛<br>\n愈发浓重。",
+      "vi": "Bầu không khí sợ hãi và căng thẳng bao quanh cô gái Ngày càng mãnh liệt hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative004",
+      "speaker_tag": "",
+      "ja": "誰もが震え、青ざめているように思えた。<br>凄惨な処刑の光景を思い出しているのだろう。",
+      "zh": "每个人都面色铁青，颤抖不已。<br>\n也许，她们想起了凄惨的处刑场面。",
+      "vi": "Mọi người đều tái nhợt và run rẩy. Có lẽ họ đã được nhắc nhở về những cảnh hành quyết khốn khổ.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative005",
+      "speaker_tag": "",
+      "ja": "だが、容赦なく投票の時間はやってくる。",
+      "zh": "然而，投票时间无情地降临了。",
+      "vi": "Tuy nhiên, thời gian bỏ phiếu đã đến một cách không thể tránh khỏi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative006",
+      "speaker_tag": "",
+      "ja": "少女たちは自身のスマホを操作し、<br>投票をしていく。",
+      "zh": "少女们各自按着自己的手机，<br>\n进行投票。",
+      "vi": "Mỗi cô gái bấm điện thoại di động của mình, Hãy bỏ phiếu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative007",
+      "speaker_tag": "",
+      "ja": "そして。",
+      "zh": "然后。",
+      "vi": "Sau đó.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative008",
+      "speaker_tag": "",
+      "ja": "ファンファーレ音と共に、<br>スマホに映し出されたのは――",
+      "zh": "随着庆祝的号角声响起，<br>\n手机屏幕上出现的——",
+      "vi": "Khi tiếng còi ăn mừng vang lên, Thứ xuất hiện trên màn hình điện thoại——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative009",
+      "speaker_tag": "",
+      "ja": "ナノカの画像だった。",
+      "zh": "是奈叶香的照片。",
+      "vi": "Đó là ảnh của Nanoyaka.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Warden002",
+      "speaker_tag": "; > Warden: |#CommonBad03_Warden002|",
+      "ja": "はい、黒部ナノカの処刑が決定～！",
+      "zh": "好了，决定执行对黑部奈叶香的刑罚～！",
+      "vi": "Được rồi, hãy quyết định thực hiện hình phạt của Kurobe Nanoyaka nào~!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#CommonBad03_Nanoka001|",
+      "ja": "あなたたちの結論は間違ってる……！<br>私は殺してなんかない……！",
+      "zh": "你们的结论错了……！<br>\n我根本没杀她……！",
+      "vi": "Kết luận của bạn sai rồi...! Tôi không hề giết cô ấy...!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Warden003",
+      "speaker_tag": "; > Warden: |#CommonBad03_Warden003|",
+      "ja": "間違いでも投票で決まったことなので、<br>諦めていただけると……。",
+      "zh": "就算错了那也是投票得出的结果，<br>\n请你放弃……",
+      "vi": "Dù có sai thì đó vẫn là kết quả của việc bỏ phiếu, Xin hãy từ bỏ...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#CommonBad03_Nanoka002|",
+      "ja": "こんなのバカげてるわ……！<br>私は大人しく処刑されるつもりはない！",
+      "zh": "这太胡闹了……！<br>\n我可不想老老实实地被处刑！",
+      "vi": "Chuyện này thật vớ vẩn...! Tôi không muốn bị xử tử!",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative010",
+      "speaker_tag": "",
+      "ja": "抵抗を試みたナノカだったが<br>結局は看守によって取り押さえられ、<br>処刑が執行された――",
+      "zh": "奈叶香尝试反抗，<br>\n但最终还是被看守制服，<br>\n接受了处刑——",
+      "vi": "Nanoyaka cố gắng chống cự, Nhưng cuối cùng anh ta đã bị Cai Ngục khuất phục, Chấp nhận việc hành quyết——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative011",
+      "speaker_tag": "",
+      "ja": "魔女裁判の後。<br>エマは１人、監房で物思いに<ruby=\"ふけ\">耽</ruby>っていた。",
+      "zh": "魔女审判之后。<br>\n艾玛一个人在牢房里静静沉思。",
+      "vi": "Sau phiên tòa xét xử phù thủy. Ema ở một mình trong phòng giam, lặng lẽ suy ngẫm.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Ema002",
+      "speaker_tag": "; > Ema: |#CommonBad03_Ema002|",
+      "ja": "（また、殺人事件が起こるのかな……）",
+      "zh": "（凶杀案还会发生的吧……）",
+      "vi": "(Những vụ giết người sẽ lại xảy ra...)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Ema003",
+      "speaker_tag": "; > Ema: |#CommonBad03_Ema003|",
+      "ja": "（そのたびに誰かが殺されて……<br>　誰かが魔女として処刑されて……）",
+      "zh": "（到时候又会有人被杀……<br>\n又会有人被当作魔女处刑……）",
+      "vi": "(Rồi sẽ có người bị giết lần nữa... Ai đó sẽ lại bị xử tử như một phù thủy...)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Ema004",
+      "speaker_tag": "; > Ema: |#CommonBad03_Ema004|",
+      "ja": "もしかしたら次はボクが……。",
+      "zh": "说不定下次就轮到我……",
+      "vi": "Có lẽ lần sau sẽ đến lượt tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Ema005",
+      "speaker_tag": "; > Ema: |#CommonBad03_Ema005|",
+      "ja": "あれ、この音って……？",
+      "zh": "哎呀，这个声音是……？",
+      "vi": "Ối, âm thanh này là...?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative012",
+      "speaker_tag": "",
+      "ja": "不意に響いてきた音が、<br>どんどんこちらに近付いてくる。",
+      "zh": "不经意间响起的声音，<br>\n离她越来越近。",
+      "vi": "Âm thanh vang lên bất ngờ, Tiến lại gần cô ấy hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Ema006",
+      "speaker_tag": "; > Ema: |#CommonBad03_Ema006|",
+      "ja": "なんだろう……？",
+      "zh": "怎么回事呢……？",
+      "vi": "Chuyện gì đang xảy ra vậy...?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative013",
+      "speaker_tag": "",
+      "ja": "エマは格子から通路の様子をうかがって――",
+      "zh": "艾玛从铁栅栏内往过道方向探望——",
+      "vi": "Ema nhìn qua hàng rào sắt về phía lối đi——",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative014",
+      "speaker_tag": "",
+      "ja": "何者かによって致命傷を負わされたエマが、<br>床に倒れ伏す。",
+      "zh": "被某人袭击的艾玛受了致命伤，<br>\n趴倒在地上。",
+      "vi": "Ema bị thương nặng sau khi bị ai đó tấn công, Quỳ xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative015",
+      "speaker_tag": "",
+      "ja": "格子の向こうに見えた人影に、エマは目を見開いた。",
+      "zh": "看见铁栅栏对面的人影，艾玛瞪大了双眼。",
+      "vi": "Đôi mắt Ema mở to khi cô nhìn thấy bóng người ở phía bên kia hàng rào sắt.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Ema007",
+      "speaker_tag": "; > Ema: |#CommonBad03_Ema007|",
+      "ja": "（そんな……どうして……？）",
+      "zh": "（怎么会，为什么……？）",
+      "vi": "(Làm thế nào, tại sao...?)",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Ema008",
+      "speaker_tag": "; > Ema: |#CommonBad03_Ema008|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative016",
+      "speaker_tag": "",
+      "ja": "問いかけようとした言葉は声にならず――<br>エマは息絶えた。",
+      "zh": "疑问未能成声——<br>\n艾玛便断了气。",
+      "vi": "Không thể trả lời câu hỏi—— Ema đã chết.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative017",
+      "speaker_tag": "",
+      "ja": "エマの命が奪われた。<br>次の犠牲者となった彼女を殺した犯人は誰なのか。",
+      "zh": "艾玛被人杀死了。<br>\n她成了下一位牺牲者，而杀死她的又会是谁。",
+      "vi": "Ema đã bị giết. Cô trở thành nạn nhân tiếp theo và ai sẽ giết cô.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative018",
+      "speaker_tag": "",
+      "ja": "新たな殺人者か。<br>あるいはミリアを殺した犯人が他にいたのか――",
+      "zh": "是出现了新的凶手？<br>\n还是杀死米莉亚的真凶另有其人——",
+      "vi": "Có kẻ giết người mới? Hay có ai khác đã giết Miria?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative019",
+      "speaker_tag": "",
+      "ja": "また、魔女裁判が開かれる。",
+      "zh": "魔女审判又将再次开庭。",
+      "vi": "Phiên tòa xét xử phù thủy sẽ lại bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad03_Narrative020",
+      "speaker_tag": "",
+      "ja": "真実が明らかになる保証はどこにもない――",
+      "zh": "而真相是否能水落石出，谁也无法保证——",
+      "vi": "Và không ai có thể đảm bảo liệu sự thật có được đưa ra ánh sáng hay không——",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Adv14",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Adv14' Naninovel scenario script",
+  "total_entries": 62,
+  "entries": [
+    {
+      "id": "0101Adv14_Narrative001",
+      "speaker_tag": "",
+      "ja": "エマとシェリーはマップを頼りに、<br>１階にある医務室へと向かった。",
+      "zh": "艾玛和雪莉跟着地图，<br>\n前往一楼的医务室。",
+      "vi": "Theo bản đồ chỉ dẫn, Ema và Sherry đi xuống tầng một để tìm đến Phòng Y Tế.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative002",
+      "speaker_tag": "",
+      "ja": "医務室に入ると薬品のにおいはなく、<br>代わりに優しい香りが漂う。",
+      "zh": "走进医务室，迎面飘来的不是药品的气味，<br>\n而是一股沁人的香气。",
+      "vi": "Bước vào Phòng Y Tế, không hề có mùi thuốc khử trùng nồng nặc mà thay vào đó là một hương thơm thảo mộc dịu nhẹ dễ chịu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative003",
+      "speaker_tag": "",
+      "ja": "室内には<ruby=\"ひ\">陽</ruby>ざしがたっぷりと差し込み、<br><ruby=\"え\">得</ruby>がたい安らぎをもたらしていた。",
+      "zh": "室内洒满了阳光，<br>\n让人感受到难得的心神安宁。",
+      "vi": "Căn phòng ngập tràn ánh nắng ấm áp chiếu qua khung cửa sổ, mang lại cảm giác bình yên hiếm hoi giữa chốn ngục tù.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Ema001",
+      "speaker_tag": "; > Ema: |#0101Adv14_Ema001|",
+      "ja": "（こういう場所もあるんだ……<br>　良かった、全部がひどい場所じゃなくて）",
+      "zh": "（还有这样的好地方……<br>\n不是所有地方都那么糟糕，真是太好了）",
+      "vi": "（Hóa ra cũng có những nơi ấm áp thế này…… May quá, không phải mọi ngóc ngách đều u ám rùng rợn）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative004",
+      "speaker_tag": "",
+      "ja": "アンアンがベッドで眠っていた。<br>メルルと、レイアもいる。",
+      "zh": "安安躺在床上睡着了。<br>\n梅露露和蕾雅也在。",
+      "vi": "Natsume AnAn đang nằm ngủ thiếp đi trên giường bệnh. Bên cạnh giường có cả Meruru và Leia đang túc trực.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Meruru001",
+      "speaker_tag": "; > Meruru: |#0101Adv14_Meruru001|",
+      "ja": "あ、エマさん、シェリーさん……！",
+      "zh": "啊，艾玛小姐，雪莉小姐……！",
+      "vi": "A, bạn Ema, bạn Sherry……!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Sherry001",
+      "speaker_tag": "; > Sherry: |#0101Adv14_Sherry001|",
+      "ja": "メルルさん、見かけないと思ったら<br>こんなところにいたんですね。",
+      "zh": "还想着怎么不见梅露露你，<br>\n原来你在这里啊。",
+      "vi": "Meruru ơi, nãy giờ không thấy bạn đâu, hóa ra là ở đây chăm sóc người ốm à.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Meruru002",
+      "speaker_tag": "; > Meruru: |#0101Adv14_Meruru002|",
+      "ja": "は、はい……。アンアンさんの具合が悪いって聞いて、<br>放っておけなくて……ごめんなさい。",
+      "zh": "嗯……听说安安小姐情况不太好，<br>\n我安不下心来，就……对不起。",
+      "vi": "D-Dạ vâng…… Nghe tin bạn AnAn bị sốt mệt nên mình không thể bỏ mặc được…… Xin lỗi vì đã không báo trước cho mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative005",
+      "speaker_tag": "",
+      "ja": "メルルはか細い声で言って、頭を下げる。",
+      "zh": "梅露露小声说道，把头低了下来。",
+      "vi": "Meruru lí nhí cúi đầu xin lỗi đầy bẽn lẽn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Sherry002",
+      "speaker_tag": "; > Sherry: |#0101Adv14_Sherry002|",
+      "ja": "謝らなくてもいいですよぉ！<br>えらいです、メルルさん！",
+      "zh": "你不用道歉啦！<br>\n梅露露你很棒哦！",
+      "vi": "Có gì đâu mà phải xin lỗi chứ! Bạn tốt bụng và đáng khen lắm đó, Meruru!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Meruru003",
+      "speaker_tag": "; > Meruru: |#0101Adv14_Meruru003|",
+      "ja": "そ、そんなそんなそんな……。",
+      "zh": "讲、讲讲讲讲太过了……",
+      "vi": "Nói, nói, nói nhiều, nói nhiều...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Ema002",
+      "speaker_tag": "; > Ema: |#0101Adv14_Ema002|",
+      "ja": "アンアンちゃん、ずっとここにいたんだ？<br>具合はどうなんだろう。",
+      "zh": "安安她一直都待在这里吗？<br>\n情况怎么样了。",
+      "vi": "（Ma pháp của Meruru thật là tuyệt vời và ấm áp……）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Meruru004",
+      "speaker_tag": "; > Meruru: |#0101Adv14_Meruru004|",
+      "ja": "高熱が出ていて……ゴクチョーさんをお見かけしたので<br>聞いてみたら、さすがに、自室じゃなくて医務室で<br>過ごしても良いとのことでした。",
+      "zh": "她发了高烧……我们遇到典狱长大人，<br>\n它听了我们的情况就说，与其留她在自己房间，<br>\n不如带来医务室这边休息还比较好。",
+      "vi": "Cô ấy bị sốt cao... Chúng tôi đã gặp quản giáo, Sau khi nghe hoàn cảnh của chúng tôi, cô ấy nói rằng thay vì để cô ấy trong phòng, Sẽ tốt hơn nếu đưa anh ấy đến bệnh xá để nghỉ ngơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Ema003",
+      "speaker_tag": "; > Ema: |#0101Adv14_Ema003|",
+      "ja": "そうなんだ……わりと緩いんだね。",
+      "zh": "这样啊……它还蛮心善的。",
+      "vi": "Vì vậy... nó khá tốt bụng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative006",
+      "speaker_tag": "",
+      "ja": "エマとシェリーは、<br>アンアンのベッドに近付いていった。",
+      "zh": "艾玛和雪莉走到了<br>\n安安的床边。",
+      "vi": "Ema và Sherry đi bộ tới Bên giường bệnh AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Leia001",
+      "speaker_tag": "; > Leia: |#0101Adv14_Leia001|",
+      "ja": "キミたちか。",
+      "zh": "是你们啊。",
+      "vi": "Nhờ có ma pháp trị liệu của Meruru-kun mà cơn sốt của AnAn-kun đã hạ bớt rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Ema004",
+      "speaker_tag": "; > Ema: |#0101Adv14_Ema004|",
+      "ja": "あの、アンアンちゃん、大丈夫？",
+      "zh": "请问，安安她没事吧？",
+      "vi": "Xin lỗi, AnAn có ổn không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Leia002",
+      "speaker_tag": "; > Leia: |#0101Adv14_Leia002|",
+      "ja": "あまり良い状態とは言えないな……。<br>ああ、でもメルルくんにずいぶん助けられたよ。",
+      "zh": "说不上情况很好……<br>\n不过，梅露露她真的出了很多力。",
+      "vi": "Tôi không thể nói tình hình là tốt... Tuy nhiên, Meruru thực sự đã nỗ lực rất nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Leia003",
+      "speaker_tag": "; > Leia: |#0101Adv14_Leia003|",
+      "ja": "中庭に植物がたくさん茂っているんだが、<br>ハーブを摘んで、お茶を淹れてくれたんだ。<br>ずいぶん気持ちが落ち着いたんじゃないかな。",
+      "zh": "中庭那边植物长得很茂盛，<br>\n她就跑去那边摘香草，给我们泡茶。<br>\n多亏有她，现在大家感觉很安心。",
+      "vi": "Cây cối trong giếng trời rất tươi tốt, Cô chạy qua đó hái thuốc và pha trà cho chúng tôi. Nhờ có cô mà giờ đây mọi người đều cảm thấy thoải mái.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Sherry003",
+      "speaker_tag": "; > Sherry: |#0101Adv14_Sherry003|",
+      "ja": "へええ、メルルさんすごいですね！",
+      "zh": "欸，梅露露好厉害耶！",
+      "vi": "Này, Meruru thật tuyệt vời!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Ema005",
+      "speaker_tag": "; > Ema: |#0101Adv14_Ema005|",
+      "ja": "（それでこの空間は、<br>　すごく優しいにおいがするんだ）",
+      "zh": "（所以这里才飘着一股<br>\n柔和的香气啊）",
+      "vi": "(Đó là lý do tại sao có ở đây hương thơm nhẹ nhàng)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Sherry004",
+      "speaker_tag": "; > Sherry: |#0101Adv14_Sherry004|",
+      "ja": "中庭……そういえば通路の途中に<br>出られるところありましたね。",
+      "zh": "中庭……说来，我记得过道中间<br>\n有一个地方是可以走出去的。",
+      "vi": "Atrium... Nghĩ lại tôi nhớ ở giữa lối đi Có một nơi để đi ra ngoài.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Leia004",
+      "speaker_tag": "; > Leia: |#0101Adv14_Leia004|",
+      "ja": "ああ、とても雰囲気が良いところでね。<br>よければ案内するよ。",
+      "zh": "嗯，那里是个气氛很好的地方。<br>\n想去的话我可以带路。",
+      "vi": "Chà, đó là một nơi có bầu không khí tuyệt vời. Nếu cậu muốn đi thì tôi có thể dẫn đường.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative007",
+      "speaker_tag": "",
+      "ja": "レイアに案内され、<br>エマとシェリーは中庭にやってきた。",
+      "zh": "艾玛和雪莉跟着蕾雅<br>\n来到了中庭。",
+      "vi": "Ema và Sherry theo dõi Leia Đã đến tâm nhĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative008",
+      "speaker_tag": "",
+      "ja": "四方を壁に囲まれているが、<br>吹き抜けになっていて空が見える。",
+      "zh": "虽然四周被墙壁包围，<br>\n但是没有天花板的遮挡，可以看得见天空。",
+      "vi": "Mặc dù được bao quanh bởi những bức tường, Nhưng không có sự cản trở của trần nhà, bạn có thể nhìn thấy bầu trời.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative009",
+      "speaker_tag": "",
+      "ja": "換気のためか、<br>２階の各所からベランダが張り出しているのも見えた。",
+      "zh": "也能看到这里的二楼各处都设置了阳台，<br>\n便于呼吸新鲜空气。",
+      "vi": "Bạn cũng có thể thấy rằng khắp nơi trên tầng hai đều có ban công, Dễ dàng hít thở không khí trong lành.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Ema006",
+      "speaker_tag": "; > Ema: |#0101Adv14_Ema006|",
+      "ja": "（外の空気……！）",
+      "zh": "（是外面的空气……！）",
+      "vi": "(Đó là không khí bên ngoài...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative010",
+      "speaker_tag": "",
+      "ja": "ずっと閉鎖的な場所にいたエマは、<br>緑豊かな庭園の空気を胸いっぱいに吸い込んだ。",
+      "zh": "见到这座绿意满盈的庭院，<br>\n一直待在密闭空间里的艾玛，不禁深深吸了一口这里的空气。",
+      "vi": "Nhìn thấy khoảng sân xanh này, Ema, ​​người đã ở trong một không gian hạn chế, không thể không hít một hơi thật sâu không khí ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Leia005",
+      "speaker_tag": "; > Leia: |#0101Adv14_Leia005|",
+      "ja": "ここは囲まれているけれど、<br>正面玄関から外に出てみると良いよ。",
+      "zh": "虽然这边是封闭空间，<br>\n但是也可以走正门去到外面。",
+      "vi": "Mặc dù đây là không gian kín nhưng Nhưng bạn cũng có thể đi ra ngoài qua cổng chính.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Leia006",
+      "speaker_tag": "; > Leia: |#0101Adv14_Leia006|",
+      "ja": "自然が溢れていて、良い景観なんだ。<br>もっと解放的になれると思う。",
+      "zh": "那是个充满自然气息的美景。<br>\n我觉得那边的开放感会更好哦。",
+      "vi": "Đó là một nơi tuyệt đẹp với bầu không khí tự nhiên. Tôi nghĩ ở đó cảm giác cởi mở sẽ tốt hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative011",
+      "speaker_tag": "",
+      "ja": "にこにこと提案してきたレイアに、<br>エマとシェリーは、顔を見合わせる。",
+      "zh": "面对蕾雅笑容满面给出的建议，<br>\n艾玛和雪莉对视了一眼。",
+      "vi": "Đối mặt với lời khuyên của Leya với nụ cười trên môi, Ema và Sherry nhìn nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Ema007",
+      "speaker_tag": "; > Ema: |#0101Adv14_Ema007|",
+      "ja": "ボクら、てっきり正面玄関は<br>鍵がかけられているのかと思ってた。",
+      "zh": "我们还以为<br>\n正门肯定是锁着的呢。",
+      "vi": "Chúng tôi đã nghĩ Cửa trước phải được khóa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Leia007",
+      "speaker_tag": "; > Leia: |#0101Adv14_Leia007|",
+      "ja": "自由時間は、<br>本当に自由に歩き回らせてくれるみたいなんだ。",
+      "zh": "好像在放风时间里<br>\n是真的允许我们自由地四处转转的。",
+      "vi": "Có vẻ như trong thời gian phát sóng Chúng tôi thực sự được phép di chuyển tự do.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Leia008",
+      "speaker_tag": "; > Leia: |#0101Adv14_Leia008|",
+      "ja": "ただ、さすがに外出禁止時間は<br>鍵がかけられるみたいだけどね。",
+      "zh": "只不过，在禁止外出时间内<br>\n玄关还是会上锁的。",
+      "vi": "Tuy nhiên, trong những giờ đi chơi bị cấm Sảnh vào vẫn sẽ bị khóa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative012",
+      "speaker_tag": "",
+      "ja": "話し込んでいたら、上空から羽音が聞こえて<br>エマたちは顔を上げる。<br>予感はあったが、ゴクチョーだった。",
+      "zh": "在她们聊得正火热时，上空传来了翅膀拍动的声音。<br>\n于是艾玛她们抬头往上看。<br>\n和心里想的一样，是典狱长来了。",
+      "vi": "Trong khi họ đang trò chuyện sôi nổi thì có tiếng vỗ cánh từ phía trên truyền đến. Vì vậy Ema và những người khác đã nhìn lên. Đúng như tôi nghĩ, quản giáo đã đến.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Warden001",
+      "speaker_tag": "; > Warden: |#0101Adv14_Warden001|",
+      "ja": "おや、桜羽エマさん、橘シェリーさん、<br>蓮見レイアさんじゃないですか。",
+      "zh": "哎呀，这不是樱羽艾玛小姐，<br>\n橘雪莉小姐，还有莲见蕾雅小姐吗。",
+      "vi": "Rất tiếc, đây không phải là cô Sakuraba Ema, bé Sherry Tachibana và cô Rea Hasumi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Ema008",
+      "speaker_tag": "; > Ema: |#0101Adv14_Ema008|",
+      "ja": "ゴクチョー……。",
+      "zh": "典狱长……",
+      "vi": "Quản giáo...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative013",
+      "speaker_tag": "",
+      "ja": "レイアはゴクチョーの出現に警戒し、<br>険しい顔になってエマとシェリーを守るように前に立つ。",
+      "zh": "看到典狱长出现，蕾雅警戒起来，<br>\n露出恶狠狠的表情站在二人面前，摆出要保护她们两个的样子。",
+      "vi": "Nhìn thấy quản giáo xuất hiện, Leya trở nên cảnh giác, Anh ta đứng trước mặt hai người với vẻ mặt dữ tợn, giả vờ bảo vệ cả hai.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Leia009",
+      "speaker_tag": "; > Leia: |#0101Adv14_Leia009|",
+      "ja": "私たちは規則に従って生活をしている。<br>何も悪いことはしていないよ。",
+      "zh": "我们有老实遵守规定生活。<br>\n没有做任何坏事。",
+      "vi": "Chúng ta phải sống theo các quy tắc một cách trung thực. Không làm điều gì xấu cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Warden002",
+      "speaker_tag": "; > Warden: |#0101Adv14_Warden002|",
+      "ja": "ええ、その調子で頑張ってください。<br>ここはとてもいいところですから、<br>楽しんで暮らしていただけますと。",
+      "zh": "嗯，希望你们继续保持下去。<br>\n这里可是个好地方，<br>\n希望你们可以好好享受这里的生活。",
+      "vi": "Vâng, tôi mong các bạn hãy tiếp tục. Đây là một nơi tuyệt vời, Tôi hy vọng bạn có thể tận hưởng cuộc sống của bạn ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative014",
+      "speaker_tag": "",
+      "ja": "唐突にゴクチョーが現れたことで<br>エマとレイアは表情を<ruby=\"こわば\">強張</ruby>らせていたが、<br>シェリーだけは目を輝かせている。",
+      "zh": "典狱长忽然出现，<br>\n艾玛和蕾雅二人的表情都十分紧张，<br>\n但雪莉此时却是两眼放光。",
+      "vi": "Người cai ngục bất ngờ xuất hiện, Cả Ema và Leia đều trông rất lo lắng, Nhưng lúc này đôi mắt của Sherry đang sáng ngời.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Sherry005",
+      "speaker_tag": "; > Sherry: |#0101Adv14_Sherry005|",
+      "ja": "遭遇できるなんてラッキーです！<br>ちょーっといいですか、ゴクチョーさん！",
+      "zh": "遇到你真的好幸运耶！<br>\n典狱长，我可以问你几个问题吗！",
+      "vi": "Tôi thật may mắn khi được gặp bạn! Giám đốc, tôi có thể hỏi anh vài câu được không!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Sherry006",
+      "speaker_tag": "; > Sherry: |#0101Adv14_Sherry006|",
+      "ja": "ここ、ずいぶん古い建物ですよね。<br>ゴクチョーさんは長い間、<br>何度も囚人を迎え入れているんでしょうか？",
+      "zh": "这座建筑物相当古老呢。<br>\n典狱长，时间这么久了，<br>\n你应该见过好几批关进这里的囚犯吧？",
+      "vi": "Tòa nhà này khá cũ. Giám đốc, đã lâu quá rồi, Chắc hẳn bạn đã từng thấy nhiều đợt tù nhân bị giam ở đây phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Sherry007",
+      "speaker_tag": "; > Sherry: |#0101Adv14_Sherry007|",
+      "ja": "過去に捕まった囚人はどうなったんでしょう！？",
+      "zh": "曾经被关在这里的囚犯，最后都变成怎样了！？",
+      "vi": "Điều gì đã xảy ra với những tù nhân từng bị giam giữ ở đây? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Sherry008",
+      "speaker_tag": "; > Sherry: |#0101Adv14_Sherry008|",
+      "ja": "この牢屋敷ってなんなんですか！？<br>ぜひ教えてください～！",
+      "zh": "这座监牢又是为了什么目的建成的！？<br>\n请你告诉我～！",
+      "vi": "Ngục Dinh Thự này được xây dựng nhằm mục đích gì? ? Hãy kể cho tôi nghe đi~!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Warden003",
+      "speaker_tag": "; > Warden: |#0101Adv14_Warden003|",
+      "ja": "……やれやれ。<br>まあ、わからないことばかりなのもかわいそうですよね。",
+      "zh": "……哎呀呀。<br>\n唉，看你们什么都不知道，也是蛮可怜的。",
+      "vi": "...Rất tiếc. Haiz, thật đáng tiếc khi thấy bạn không biết gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Warden004",
+      "speaker_tag": "; > Warden: |#0101Adv14_Warden004|",
+      "ja": "あまり時間は取れませんが……<br>ほんの少しだけ教えてあげましょう。",
+      "zh": "虽然我现在没什么时间……<br>\n不过，我就告诉你们一点点吧。",
+      "vi": "Mặc dù bây giờ tôi không còn nhiều thời gian... Nhưng hãy để tôi kể cho bạn nghe một chút.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Warden005",
+      "speaker_tag": "; > Warden: |#0101Adv14_Warden005|",
+      "ja": "この牢屋敷はですね、５００年前からあるんですよ。",
+      "zh": "这座监牢呢，已经有500年的历史了。",
+      "vi": "Ngục Dinh Thự này có lịch sử 500 năm.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Sherry009",
+      "speaker_tag": "; > Sherry: |#0101Adv14_Sherry009|",
+      "ja": "５００年！？",
+      "zh": "500年！？",
+      "vi": "500 năm! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Leia010",
+      "speaker_tag": "; > Leia: |#0101Adv14_Leia010|",
+      "ja": "どうりで老朽化が激しいわけだね……。",
+      "zh": "怪不得破旧成这样……",
+      "vi": "Không ngờ nó lại xuống cấp đến thế...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Warden006",
+      "speaker_tag": "; > Warden: |#0101Adv14_Warden006|",
+      "ja": "その当時は魔女を捕らえる場所ではなく、<br>魔女が普通に暮らしているお屋敷でした。",
+      "zh": "当时这里还不是囚禁魔女的地方，<br>\n而是魔女们正常生活的一间大宅子。",
+      "vi": "Vào thời điểm đó, đây không phải là nơi giam giữ phù thủy, Đó là một ngôi nhà lớn nơi các phù thủy sinh sống bình thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Warden007",
+      "speaker_tag": "; > Warden: |#0101Adv14_Warden007|",
+      "ja": "大魔女を中心に、<br>たくさんの魔女が仲良く暮らす良いところだったんですよ。",
+      "zh": "以大魔女为中心，<br>\n许许多多的魔女曾经在这里幸福地生活着。",
+      "vi": "Tập trung vào mụ phù thủy vĩ đại, Nhiều phù thủy từng sống hạnh phúc ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative015",
+      "speaker_tag": "",
+      "ja": "感情がまるでわからない存在ではあるが、<br>穏やかに語るトーンから、昔を懐かしんでいる印象を受けた。",
+      "zh": "虽然摸不透它究竟有没有情感，<br>\n但从它平和的语气来看，它似乎也相当怀念过去的事情。",
+      "vi": "Mặc dù tôi không thể biết liệu nó có cảm xúc hay không, Nhưng xét từ giọng điệu yên bình của nó, nó có vẻ cũng khá hoài niệm về quá khứ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Warden008",
+      "speaker_tag": "; > Warden: |#0101Adv14_Warden008|",
+      "ja": "あるとき、魔女とは違う種族――<br>人間がこの島にやってきた時も、この中庭でお茶会を催して、<br>魔女たちは人間を歓迎したんです。",
+      "zh": "某天，有一个和魔女不一样的种族——<br>\n也就是人类，来到这座岛上时，魔女们也是<br>\n在这个中庭里开展茶会，欢迎他们的到来。",
+      "vi": "Một ngày nọ, có một chủng tộc khác với phù thủy—— Nói cách khác, khi con người đến hòn đảo này, các phù thủy cũng Một bữa tiệc trà được tổ chức tại giếng trời này để chào đón họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Sherry010",
+      "speaker_tag": "; > Sherry: |#0101Adv14_Sherry010|",
+      "ja": "それがなんで囚人を捕らえる牢獄なんかに？",
+      "zh": "那为什么这里就变成了关押囚犯的监牢呢？",
+      "vi": "Vậy tại sao nơi này lại trở thành Ngục Dinh Thự dành cho tù nhân?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Warden009",
+      "speaker_tag": "; > Warden: |#0101Adv14_Warden009|",
+      "ja": "ええと、それは大魔女が――おっと、<br>おしゃべりのしすぎは良くありませんね。私はこれで。",
+      "zh": "呃，那是因为大魔女她——哎呀，<br>\n说太多了也不好呢。我就告辞了。",
+      "vi": "Uh, đó là vì mụ phù thủy to lớn—ồ, Thật không tốt khi nói quá nhiều. Tôi đã nghỉ phép.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Narrative016",
+      "speaker_tag": "",
+      "ja": "ゴクチョーは逃げるように、<br>さっさと飛び去っていった。",
+      "zh": "典狱长逃也似的飞走了。<br>",
+      "vi": "Người cai ngục bay đi như thể trốn thoát.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Ema009",
+      "speaker_tag": "; > Ema: |#0101Adv14_Ema009|",
+      "ja": "（牢屋敷……大魔女……大切な情報な気がする。<br>　【魔女図鑑】にメモしておこう）",
+      "zh": "（监牢……大魔女……总觉得是很重要的情报。<br>\n把它记到【魔女图鉴】里面吧）",
+      "vi": "(Ngục Dinh Thự...bà phù thủy lớn...Tôi luôn nghĩ đây là thông tin rất quan trọng. Hãy viết nó vào [Sách hướng dẫn phù thủy])",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Sherry011",
+      "speaker_tag": "; > Sherry: |#0101Adv14_Sherry011|",
+      "ja": "もっとゴクチョーさんのお話聞きたかったですね！<br>でも大収穫だった気がします！",
+      "zh": "好想听典狱长说更多的事耶！<br>\n不过我感觉已经大丰收了！",
+      "vi": "Tôi thực sự muốn nghe nhiều hơn từ quản giáo! Nhưng tôi cảm thấy như mình vừa có một vụ thu hoạch bội thu!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Ema010",
+      "speaker_tag": "; > Ema: |#0101Adv14_Ema010|",
+      "ja": "う、うん。",
+      "zh": "嗯、嗯。",
+      "vi": "Ừm, ừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv14_Ema011",
+      "speaker_tag": "; > Ema: |#0101Adv14_Ema011|",
+      "ja": "（シェリーちゃんみたいに素直には喜べないけど……）",
+      "zh": "（我没法像雪莉那样子，随便就高兴得起来啦……）",
+      "vi": "(Mình không thể giống Sherry và vui vẻ một cách tùy tiện được...)",
+      "objection_links": []
+    }
+  ]
+}

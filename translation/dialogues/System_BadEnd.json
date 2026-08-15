@@ -1,0 +1,24 @@
+{
+  "bundle": "general-localization-zhhans-scripts-system_assets_all.bundle",
+  "script_name": "System_BadEnd",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'System/System_BadEnd' Naninovel scenario script",
+  "total_entries": 2,
+  "entries": [
+    {
+      "id": "Common_BadEnd001",
+      "speaker_tag": "; > @choice |#Common_BadEnd001|",
+      "ja": "ロード画面を開く",
+      "zh": "读取存档",
+      "vi": "Đọc kho lưu trữ",
+      "objection_links": []
+    },
+    {
+      "id": "Common_BadEnd002",
+      "speaker_tag": "; > @choice |#Common_BadEnd002|",
+      "ja": "タイトル画面へ戻る",
+      "zh": "返回标题画面",
+      "vi": "Quay lại màn hình tiêu đề",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "bundle": "general-localization-zhhans-scripts-common_assets_all.bundle",
+  "script_name": "CommonBad13",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Common/CommonBad13' Naninovel scenario script",
+  "total_entries": 12,
+  "entries": [
+    {
+      "id": "CommonBad13_Yuki001",
+      "speaker_tag": "; > Yuki: |#CommonBad13_Yuki001|",
+      "ja": "――言いたいことは、それで終わりですか？",
+      "zh": "——想说的话，就这些了吗？",
+      "vi": "---Đó là tất cả những gì bạn muốn nói à?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad13_Hiro001",
+      "speaker_tag": "; > Hiro: |#CommonBad13_Hiro001|",
+      "ja": "何……？",
+      "zh": "什么……？",
+      "vi": "Cái gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad13_Narrative001",
+      "speaker_tag": "",
+      "ja": "ゆるやかに、ユキは頭を振る。",
+      "zh": "小雪缓缓地摇了摇头。",
+      "vi": "Tiểu Tuyết chậm rãi lắc đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad13_Yuki002",
+      "speaker_tag": "; > Yuki: |#CommonBad13_Yuki002|",
+      "ja": "どのような言葉を並べられても、<br>忌まわしい記憶は消せません。",
+      "zh": "无论堆砌怎样的辞藻，<br>\n那些可憎的记忆也不会消失。",
+      "vi": "Bất kể những lời hùng biện nào được chồng chất lên nhau, Những ký ức đáng ghét đó cũng sẽ không biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad13_Yuki003",
+      "speaker_tag": "; > Yuki: |#CommonBad13_Yuki003|",
+      "ja": "もう、うんざりです。",
+      "zh": "我已经受够了。",
+      "vi": "Tôi đã có đủ.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad13_Yuki004",
+      "speaker_tag": "; > Yuki: |#CommonBad13_Yuki004|",
+      "ja": "でもね……ヒロ、エマ。<br>あなたたちには感謝しているんですよ。",
+      "zh": "但是呢……希罗，艾玛。<br>\n我很感谢你们。",
+      "vi": "Nhưng...Hiro, Ema. Tôi rất biết ơn bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad13_Narrative002",
+      "speaker_tag": "",
+      "ja": "ユキは微笑む。",
+      "zh": "小雪微微一笑。",
+      "vi": "Hiểu Tuyết khẽ mỉm cười.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad13_Narrative003",
+      "speaker_tag": "",
+      "ja": "美しい笑顔。<br>だが、<ruby=\"にじ\">滲</ruby>み出る怒りと憎悪が、背筋を凍らせる。",
+      "zh": "笑容很美。<br>\n但那溢出的愤怒与憎恶，却让我脊背发凉。",
+      "vi": "Nụ cười thật đẹp. Nhưng sự giận dữ và hận thù tràn ngập khiến tôi rùng mình.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad13_Yuki005",
+      "speaker_tag": "; > Yuki: |#CommonBad13_Yuki005|",
+      "ja": "あなたたちの魔力が、<br>以前はできなかったことを可能にしてくれました。",
+      "zh": "是你们的魔力，<br>\n让我有办法做到，以前无法做到的事情。",
+      "vi": "Đó là phép thuật của bạn, Hãy cho tôi một cách để làm những điều mà trước đây tôi không thể làm được.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad13_Narrative004",
+      "speaker_tag": "",
+      "ja": "ユキはゆっくりと両腕を広げ、天を仰いだ。<br>まるで神の言葉でも告げるように、超然と言葉を紡ぐ。",
+      "zh": "小雪缓缓张开双臂，仰望天空。<br>\n仿佛在宣告神谕一般，超然地编织着话语。",
+      "vi": "Xiaoxue từ từ mở rộng cánh tay của mình và nhìn lên bầu trời. Như thể đang phán một lời sấm truyền, lời nói được thêu dệt một cách siêu việt.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad13_Yuki006",
+      "speaker_tag": "; > Yuki: |#CommonBad13_Yuki006|",
+      "ja": "ふふふ……すべての人類に<br>私の声を届けましょう。",
+      "zh": "呵呵呵……就让所有人类，<br>\n都听到我的声音吧。",
+      "vi": "Hehehe... Hãy để toàn nhân loại, Mọi người đều nghe thấy giọng nói của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "CommonBad13_Yuki007",
+      "speaker_tag": "; > Yuki: |#CommonBad13_Yuki007|",
+      "ja": "み ん な し ね。",
+      "zh": "全・都・去・死・吧。",
+      "vi": "Tất cả chúng ta hãy đi và chết đi.",
+      "objection_links": []
+    }
+  ]
+}

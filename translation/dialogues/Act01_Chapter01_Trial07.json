@@ -1,0 +1,1712 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Trial07",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Trial07' Naninovel scenario script",
+  "total_entries": 212,
+  "entries": [
+    {
+      "id": "0101Trial07_Coco001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0101Trial07_Coco001|",
+      "ja": "あてぃしたちは寝る前に<br>ノアの部屋の前を通ってるわけ。<br>そこに死体があったら、<br>気付かないわけないじゃん？",
+      "zh": "我们睡前的时候<br>\n经过了诺亚的房门口啦。<br>\n如果那里有一具尸体，<br>\n不可能会没发现吧？",
+      "vi": "Lúc tụi mình chuẩn bị đi ngủ thì có đi ngang qua trước cửa phòng của Noah mà. Nếu lúc đó có thi thể ở đấy thì làm sao mà không thấy được chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0101Trial07_Coco002|",
+      "ja": "だからあの時さぁ、<br>ノアは<br>【生きてた】んじゃねーの？",
+      "zh": "所以那时<br>\n诺亚她<br>\n不是应该【还活着】吗？",
+      "vi": "Thế nên lúc đó chắc chắn Noah vẫn còn 【sống nhăn răng】 đúng không nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco003",
+      "speaker_tag": "; > @printDebate |#0101Trial07_Coco003|",
+      "ja": "<link=\"Objection_01_01_07_01\">絵でも描いてた</link>とかさ。<br>そういや<link=\"Objection_01_01_07_02\">足音も聞こえた</link><br>気がするし！<br><link=\"Objection_01_01_07_03\">ピンピンしてた</link>はずだって！",
+      "zh": "说不定她<link=\"Objection_01_01_07_01\">还在画画</link>呢。<br>\n说来我好像<br>\n<link=\"Objection_01_01_07_02\">听到过脚步声</link>呢！<br>\n肯定还<link=\"Objection_01_01_07_03\">活蹦乱跳</link>的！",
+      "vi": "Chắc lúc đó con bé vẫn đang <link=\"Objection_01_01_07_01\">mải mê vẽ tranh</link> ấy chứ. Nhớ lại thì hình như Coco còn <link=\"Objection_01_01_07_02\">nghe thấy tiếng bước chân</link> nữa kìa! Rõ ràng là lúc đó con bé vẫn <link=\"Objection_01_01_07_03\">khỏe re</link> mà!",
+      "objection_links": [
+        "Objection_01_01_07_01",
+        "Objection_01_01_07_02",
+        "Objection_01_01_07_03"
+      ]
+    },
+    {
+      "id": "0101Trial07_Miria001",
+      "speaker_tag": "; > @printDebate pos:35,44 roll:-4 |#0101Trial07_Miria001|",
+      "ja": "そ、そうだったっけ……？<br>うーん……<br>言われてみれば、<br>そうかもしれないけど……。",
+      "zh": "是、是这样吗……？<br>\n唔……<br>\n听你这么说，<br>\n好像确实是这样……",
+      "vi": "Ủ-Ủa, có chuyện đó thật hả ta……? Ừm…… nghe Coco-chan nói vậy thì cũng có lý á……",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0101Trial07_Coco004|",
+      "ja": "だからノアが殺されたのは<br>その後！<br>【就寝時間から朝まで】の間<br>しかねーの！",
+      "zh": "所以诺亚的遇害时间<br>\n就是那之后！<br>\n只可能是【就寝时间到第二天早上】<br>\n之间的事！",
+      "vi": "Thế nên Noah bị giết sau đó! Chỉ có thể là trong khoảng thời gian 【từ lúc giới nghiêm ban đêm đến sáng hôm sau】 thôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia001",
+      "speaker_tag": "; > @printDebate pos:34,50 roll:-4 |#0101Trial07_Leia001|",
+      "ja": "……しかし就寝時間は<br>鍵がかけられるはずだよ。<br>外に出る事ができても、<br>入る事は<br>できないんじゃないかな？",
+      "zh": "……可是，就寝时间的房门<br>\n应该是锁着的。<br>\n就算有办法出去，<br>\n也应该没办法<br>\n回来吧？",
+      "vi": "……Thế nhưng vào giờ giới nghiêm thì các phòng đều bị khóa tự động. Cho dù có thể lén ra ngoài, cũng đâu thể vào được phòng người khác?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Margo001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0101Trial07_Margo001|",
+      "ja": "あら、<br>それなら就寝時間前に<br>ノアちゃんの部屋に<br>忍び込んでおけば<br>問題ないんじゃないかしら。",
+      "zh": "哎呀，<br>\n那只要在就寝时间之前<br>\n偷偷藏在<br>\n诺亚的房间里，<br>\n应该就没问题了吧。",
+      "vi": "Rất tiếc, Sau đó, ngay trước khi đi ngủ Ẩn bí mật trong Trong phòng của Nô-ê, Điều đó sẽ không có vấn đề gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco005",
+      "speaker_tag": "; > @printDebate pos:35,50 roll:-4 |#0101Trial07_Coco005|",
+      "ja": "それだ！<br>そしてそれができるのは、<br>就寝時間にルームメイトと<br>一緒にいなかったヤツだけ……！",
+      "zh": "就是这样！<br>\n能做到这件事的，<br>\n只有在就寝时间时<br>\n和室友不在一块的人……！",
+      "vi": "Thế thôi! Những người có thể làm được điều này, Chỉ khi đi ngủ Một người không ở cùng phòng với mình...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco006",
+      "speaker_tag": "; > @printDebate |#0101Trial07_Coco006|",
+      "ja": "メルちゃんが<br>隣の部屋にいたのは<br>あてぃし見てるし……。",
+      "zh": "我当时有看到<br>\n小梅她<br>\n就待在隔壁的房间里……",
+      "vi": "Coco đã thấy Tiểu Mỹ Cứ ở phòng bên cạnh...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco007",
+      "speaker_tag": "; > @printDebate pos:37,52 roll:-4 |#0101Trial07_Coco007|",
+      "ja": "つまりノアを殺せるのは<br>就寝時間に<link=\"Objection_01_01_07_04\">アリバイがない</link>……<br><link=\"Objection_01_01_07_05\">医務室のアンアン</link>か、<br><link=\"Objection_01_01_07_06\">１人部屋のエマっち</link>の<br>どっちかなんだよ！",
+      "zh": "也就是说，能杀害诺亚的，<br>\n只有在就寝时间时<br>\n<link=\"Objection_01_01_07_04\">没有不在场证明</link>的……<br>\n<link=\"Objection_01_01_07_05\">在医务室的安安</link>，<br>\n<link=\"Objection_01_01_07_06\">还有单人间的艾玛亲</link>，<br>\n你们其中的一个！",
+      "vi": "Nói cách khác, người có thể giết Noah, Chỉ khi đi ngủ <link=\"Objection_01_01_07_04\">Không có bằng chứng ngoại phạm nào cho </link>... <link=\"Objection_01_01_07_05\">An'an ở bệnh xá</link>, <link=\"Objection_01_01_07_06\"> và phòng đơn của Ema </link>, Một trong số các bạn!",
+      "objection_links": [
+        "Objection_01_01_07_04",
+        "Objection_01_01_07_05",
+        "Objection_01_01_07_06"
+      ]
+    },
+    {
+      "id": "0101Trial07_Coco008",
+      "speaker_tag": "; > @printDebate pos:35,50 roll:-4 |#0101Trial07_Coco008|",
+      "ja": "違うってんなら……<br>証拠見せてよ、<br>証拠！！",
+      "zh": "要说我哪里不对……<br>\n就拿证据出来！！<br>",
+      "vi": "Nếu bạn muốn nói rằng có điều gì đó không ổn xảy ra với Coco... Chỉ cần đưa ra bằng chứng! !",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema001",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema001|",
+      "ja": "（ココちゃんの言ってることが本当なら、<br>　たしかにボクかアンアンちゃんのどっちかが<br>　犯人になっちゃうかも……！）",
+      "zh": "（如果可可说的是事实，<br>\n那的确只有我和安安两个人<br>\n有嫌疑……！）",
+      "vi": "（Ý kiến của Coco bị mâu thuẫn với thời gian khô của sơn tường!）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Meruru001",
+      "speaker_tag": "; > Meruru: |#0101Trial07_Meruru001|",
+      "ja": "……なんだかミリアさん、<br>少し自信なさげのように見えますね……。",
+      "zh": "……总感觉米莉亚小姐她<br>\n有些不太自信呢……",
+      "vi": "...Tôi luôn cảm thấy rằng cô Miria Tôi có chút không chắc chắn...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Meruru002",
+      "speaker_tag": "; > Meruru: |#0101Trial07_Meruru002|",
+      "ja": "もしかしたら……<br>そこに何か、ココさんの推理の穴があるのかも……。",
+      "zh": "说不定……<br>\n可可的推理漏洞就在其中……",
+      "vi": "Có lẽ... Lỗ hổng trong lý luận của Coco nằm ở...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema002",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema002|",
+      "ja": "（ココちゃんの推理が間違ってる事を証明する<br>　証拠品……何かなかったかな？）",
+      "zh": "（有没有证物可以证明<br>\n可可的推理不对呢……？）",
+      "vi": "(Có bằng chứng nào chứng minh Lý luận của Coco có sai không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice001",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "ノアは絵を描いてない",
+      "zh": "诺亚没在画画",
+      "vi": "Nô-ê không vẽ",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice002",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "ノアは足音を立てていない",
+      "zh": "诺亚没有发出脚步声",
+      "vi": "Nô-ê không tạo ra tiếng bước chân",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice003",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "ノアは元気ではなかった",
+      "zh": "诺亚当时精神不好",
+      "vi": "Lúc đó Nô-ê không có tinh thần tốt",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice004",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "就寝時間は全員アリバイがない",
+      "zh": "所有人都没有当时的不在场证明",
+      "vi": "Không ai có bằng chứng ngoại phạm vào thời điểm đó",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice005",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice005| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "アンアンのアリバイを証明する",
+      "zh": "可以证明安安不在场",
+      "vi": "Có thể chứng minh AnAn không có mặt",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice006",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice006| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "エマのアリバイを証明する",
+      "zh": "可以证明艾玛不在场",
+      "vi": "Có thể chứng minh rằng Ema không có mặt.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema003",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema003|",
+      "ja": "……ちょっと待って。それはおかしいよ。",
+      "zh": "……等一下，这里很不对劲。",
+      "vi": "…Đợi đã, có gì đó không ổn ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema004",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema004|",
+      "ja": "ノアちゃんはその時、絵を描いてないはずだよ……！",
+      "zh": "诺亚当时应该没在画画才对……！",
+      "vi": "Lúc đó chắc Nô-ê chưa vẽ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco009",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco009|",
+      "ja": "ああん！？<br>まだ言い訳するってーの！？<br>ならそれを証明する証拠品でも出してみろよ！",
+      "zh": "哈！？<br>\n还在死鸭子嘴硬！？<br>\n那就把证明这件事的证物拿出来看看啊！",
+      "vi": "Hà! ? Vẫn bướng bỉnh! ? Sau đó lấy ra bằng chứng chứng minh điều này và xem xét!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema005",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema005|",
+      "ja": "それはきっと、この【証拠品】で証明できると思うよ！",
+      "zh": "这件【证物】肯定可以证明这件事！",
+      "vi": "[Bằng chứng] này chắc chắn có thể chứng minh điều này!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco010",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco010|",
+      "ja": "それのどこが<br>絵を描いてないって証拠になるんだっての！",
+      "zh": "哪个部分<br>\n可以证明她没画画啊！",
+      "vi": "Phần nào Nó chứng tỏ rằng cô ấy không vẽ!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco011",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco011|",
+      "ja": "そんなわけわかんない反論するなんて……<br>怪しすぎんだろ！",
+      "zh": "莫名其妙地在那里反驳……<br>\n你也太可疑了！",
+      "vi": "Không thể giải thích được sự phản bác ở đó... Bạn nghi ngờ quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema006",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema006|",
+      "ja": "（ダメだ……！<br>　証明できなかったみたい……！<br>　もう一度考え直してみよう……！）",
+      "zh": "（不行……！<br>\n好像没法证明……！<br>\n重新再思考一下吧……！）",
+      "vi": "(Không...! Có vẻ như không thể chứng minh được...! Hãy suy nghĩ lại nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema007",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema007|",
+      "ja": "（ココちゃんの言葉とは<br>　明らかに矛盾した証拠があるはずだ……！<br>　それを突きつけてみよう！）",
+      "zh": "（应该有证据跟可可的话<br>\n有明显的矛盾才对……！<br>\n把它指出来吧！）",
+      "vi": "(Cần có bằng chứng để nói với Coco Rõ ràng là có sự mâu thuẫn...! Hãy chỉ ra nó! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema008",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema008|",
+      "ja": "……ちょっと待って。それはおかしいよ。",
+      "zh": "……等一下，这里很不对劲。",
+      "vi": "…Đợi đã, có gì đó không ổn ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema009",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema009|",
+      "ja": "ノアちゃんはその時、元気がなかったはず……。",
+      "zh": "诺亚当时应该没什么精神才对……",
+      "vi": "Lúc đó chắc hẳn Nô-ê đang có tâm trạng chán nản...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco012",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco012|",
+      "ja": "ああん！？<br>まだ言い訳するってーの！？<br>ならそれを証明する証拠品でも出してみろよ！",
+      "zh": "哈！？<br>\n还在死鸭子嘴硬！？<br>\n那就把证明这件事的证物拿出来看看啊！",
+      "vi": "Hà! ? Vẫn bướng bỉnh! ? Sau đó lấy ra bằng chứng chứng minh điều này và xem xét!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema010",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema010|",
+      "ja": "それはきっと、この【証拠品】で証明できると思うよ！",
+      "zh": "这件【证物】肯定可以证明这件事！",
+      "vi": "[Bằng chứng] này chắc chắn có thể chứng minh điều này!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco013",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco013|",
+      "ja": "それのどこが元気がないって証拠になるんだっての！",
+      "zh": "哪个部分可以证明她没精神啊！",
+      "vi": "Phần nào có thể chứng minh rằng cô ấy không có năng lượng!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Meruru003",
+      "speaker_tag": "; > Meruru: |#0101Trial07_Meruru003|",
+      "ja": "体調が悪そうな様子はありませんでしたし……<br>それを証明するのは難しいかもしれませんね……。",
+      "zh": "我们当时也看不出她哪里不舒服……<br>\n我想这件事应该很难证明了……",
+      "vi": "Chúng tôi không thể biết được chuyện gì đã xảy ra với cô ấy vào thời điểm đó... Tôi nghĩ vấn đề này khó có thể chứng minh được...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco014",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco014|",
+      "ja": "そんなわけわかんない反論するなんて……<br>怪しすぎんだろ！",
+      "zh": "莫名其妙地在那里反驳……<br>\n你也太可疑了！",
+      "vi": "Không thể giải thích được sự phản bác ở đó... Bạn nghi ngờ quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema011",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema011|",
+      "ja": "（ダメだ……！<br>　証明できなかったみたい……！<br>　もう一度考え直してみよう……！）",
+      "zh": "（不行……！<br>\n好像没法证明……！<br>\n重新再思考一下吧……！）",
+      "vi": "(Không...! Có vẻ như không thể chứng minh được...! Hãy suy nghĩ lại nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema012",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema012|",
+      "ja": "（ココちゃんの言葉とは<br>　明らかに矛盾した証拠があるはずだ……！<br>　それを突きつけてみよう！）",
+      "zh": "（应该有证据跟可可的话<br>\n有明显的矛盾才对……！<br>\n把它指出来吧！）",
+      "vi": "(Cần có bằng chứng để nói với Coco Rõ ràng là có sự mâu thuẫn...! Hãy chỉ ra nó! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema013",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema013|",
+      "ja": "……ちょっと待って。<br>就寝時間のアリバイって成立するのかな？",
+      "zh": "……等一下。<br>\n就寝时间的不在场证明真的能成立吗？",
+      "vi": "...chờ một chút. Bằng chứng ngoại phạm trước khi đi ngủ có thực sự hiệu quả không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema014",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema014|",
+      "ja": "だって全員が全員、監視しあってたわけじゃないでしょ？<br>もしかしたら誰かが抜け出した可能性だって……。",
+      "zh": "你想想看，不可能所有人都在互相监视吧？<br>\n说不定可能有人偷偷走开了……",
+      "vi": "Hãy nghĩ mà xem, mọi người không thể theo dõi nhau được phải không? Có lẽ ai đó đã lẻn đi...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco015",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco015|",
+      "ja": "だから夜は鍵がかけられるって言ってんだろ！",
+      "zh": "不是说了晚上门会上锁吗！",
+      "vi": "Không phải Coco đã nói buổi tối cửa sẽ khóa sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia002",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia002|",
+      "ja": "それにさすがに同室の者が一晩中いなかったら<br>気付くだろうしね。<br>誰か怪しい人はいるのかい？",
+      "zh": "而且，如果室友一晚上都不见人，<br>\n另一个人肯定会发现吧。<br>\n有人发现哪个人不对劲吗？",
+      "vi": "Hơn nữa, nếu bạn cùng phòng của bạn không gặp ai cả đêm, Người kia chắc chắn sẽ phát hiện ra. Có ai nhận thấy điều gì sai trái với ai không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Margo002",
+      "speaker_tag": "; > Margo: |#0101Trial07_Margo002|",
+      "ja": "私たちは大丈夫だったけど……<br>特に他にも怪しい人はいなそうね？",
+      "zh": "我们没发现有什么不对劲……<br>\n其他人也应该没发现有异常吧？",
+      "vi": "Chúng Chị không thấy có gì sai cả... Những người khác không nên nhận thấy điều gì bất thường, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco016",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco016|",
+      "ja": "だからそれがアリバイになるんだっての！<br>……頭ちゃんとついてんのか！？",
+      "zh": "所以我说构成不在场证明啊！<br>\n……你头里面到底有没有脑子的！？",
+      "vi": "Vì thế Coco đã nói nó là bằng chứng ngoại phạm! ...Đầu bạn có não không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema015",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema015|",
+      "ja": "（ダメだ……！<br>　たしかにそこに隙はないみたい……！）",
+      "zh": "（不行……！<br>\n这里好像确实没漏洞……！）",
+      "vi": "(Không...! Dường như không có sơ hở nào ở đây cả...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema016",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema016|",
+      "ja": "（ココちゃんの言葉とは明らかに矛盾した証拠があるはずだ……！<br>　それを突きつけてみよう！）",
+      "zh": "（应该有证据跟可可的话有明显的矛盾才对……！<br>\n把它指出来吧！）",
+      "vi": "(Cần phải có bằng chứng mâu thuẫn rõ ràng với lời nói của Coco...! Hãy chỉ ra nó! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema017",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema017|",
+      "ja": "……ちょっと待って。それはおかしいよ。",
+      "zh": "……等一下，这里很不对劲。",
+      "vi": "…Đợi đã, có gì đó không ổn ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema018",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema018|",
+      "ja": "少なくともアンアンちゃんはその時間、<br>間違いなく医務室にいたはず……。",
+      "zh": "至少安安在那时，<br>\n肯定就在医务室里面……",
+      "vi": "Ít nhất lúc đó AnAn đã ở đó, Chắc là đang ở bệnh viện...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco017",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco017|",
+      "ja": "ああん！？<br>まだ言い訳するってーの！？<br>ならそれを証明する証拠品でも出してみろよ！",
+      "zh": "哈！？<br>\n还在死鸭子嘴硬！？<br>\n那就把证明这件事的证物拿出来看看啊！",
+      "vi": "Hà! ? Vẫn bướng bỉnh! ? Sau đó lấy ra bằng chứng chứng minh điều này và xem xét!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema019",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema019|",
+      "ja": "それはきっと、この【証拠品】で証明できると思うよ！",
+      "zh": "这件【证物】肯定可以证明这件事！",
+      "vi": "[Bằng chứng] này chắc chắn có thể chứng minh điều này!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco018",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco018|",
+      "ja": "それのどこがアリバイを証明する証拠になるんだっての！",
+      "zh": "哪个部分可以证明不在场啊！",
+      "vi": "Phần nào có thể chứng minh bằng chứng ngoại phạm!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_AnAn001",
+      "speaker_tag": "; > AnAn: |#0101Trial07_AnAn001|",
+      "ja": "『少なくともわがはい自身、アリバイは証明できない』",
+      "zh": "『至少吾辈自身的不在场无法证明』",
+      "vi": "\"Ít nhất sự vắng mặt của tôi không thể được chứng minh\"",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema020",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema020|",
+      "ja": "あ、あれ……！？<br>そうだっけ……！？",
+      "zh": "欸、欸……！？<br>\n是这样吗……！？",
+      "vi": "Này, này...! ? Có phải vậy không...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco019",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco019|",
+      "ja": "もしかしてかばってるとか！？<br>なんにせよエマっち……<br>ドチャクソ怪しいじゃん！",
+      "zh": "难道是在包庇吗！？<br>\n毕竟艾玛亲你……<br>\n真是可疑到冒烟啊！",
+      "vi": "Bạn đang cố gắng che đậy? ? Sau cùng, Ema đã hôn bạn... Nó nghi hoặc đến mức bốc khói!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema021",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema021|",
+      "ja": "（ダメだ……！<br>　ボクの勘違いだったみたい……！<br>　もう一度考え直してみよう……！）",
+      "zh": "（不行……！<br>\n我好像判断错误了……！<br>\n重新再思考一下吧……！）",
+      "vi": "(Không...! Có vẻ như tôi đã phạm sai lầm...! Hãy suy nghĩ lại nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema022",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema022|",
+      "ja": "（ココちゃんの言葉とは明らかに矛盾した証拠があるはずだ……！<br>　それを突きつけてみよう！）",
+      "zh": "（应该有证据跟可可的话有明显的矛盾才对……！<br>\n把它指出来吧！）",
+      "vi": "(Cần phải có bằng chứng mâu thuẫn rõ ràng với lời nói của Coco...! Hãy chỉ ra nó! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema023",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema023|",
+      "ja": "……ちょっと待って。それはおかしいよ。",
+      "zh": "……等一下，这里很不对劲。",
+      "vi": "…Đợi đã, có gì đó không ổn ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema024",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema024|",
+      "ja": "ボクが自分の部屋にいたことは、証明できるはず……！",
+      "zh": "我应该有办法证明我在自己的房间里……！",
+      "vi": "Tôi phải có cách nào đó để chứng minh tôi đang ở trong phòng mình...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco020",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco020|",
+      "ja": "ああん！？<br>まだ言い訳するってーの！？<br>ならそれを証明する証拠品でも出してみろよ！",
+      "zh": "哈！？<br>\n还在死鸭子嘴硬！？<br>\n那就把证明这件事的证物拿出来看看啊！",
+      "vi": "Hà! ? Vẫn bướng bỉnh! ? Sau đó lấy ra bằng chứng chứng minh điều này và xem xét!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema025",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema025|",
+      "ja": "それはきっと、この【証拠品】で証明できると思うよ！",
+      "zh": "这件【证物】肯定可以证明这件事！",
+      "vi": "[Bằng chứng] này chắc chắn có thể chứng minh điều này!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco021",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco021|",
+      "ja": "それのどこがアリバイを証明する証拠になるんだっての！",
+      "zh": "哪个部分可以证明不在场啊！",
+      "vi": "Phần nào có thể chứng minh bằng chứng ngoại phạm!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema026",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema026|",
+      "ja": "あ、あれ……！？<br>できない……かな……？",
+      "zh": "哎、哎呀……！？<br>\n证明不了……吗……？",
+      "vi": "Ối, ôi...! ? Bạn không thể chứng minh...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco022",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco022|",
+      "ja": "そんなわけわかんない反論するなんて……<br>怪しすぎんだろ！",
+      "zh": "莫名其妙地在那里反驳……<br>\n你也太可疑了！",
+      "vi": "Không thể giải thích được sự phản bác ở đó... Bạn nghi ngờ quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema027",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema027|",
+      "ja": "（ダメだ……！<br>　怪しまれちゃったみたい……！<br>　もう一度考え直してみよう……！）",
+      "zh": "（不行……！<br>\n惹她怀疑了……！<br>\n重新再思考一下吧……！）",
+      "vi": "(Không...! Nó khiến cô nghi ngờ...! Hãy suy nghĩ lại nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema028",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema028|",
+      "ja": "（ココちゃんの言葉とは明らかに矛盾した証拠があるはずだ……！<br>　それを突きつけてみよう！）",
+      "zh": "（应该有证据跟可可的话有明显的矛盾才对……！<br>\n把它指出来吧！）",
+      "vi": "(Cần phải có bằng chứng mâu thuẫn rõ ràng với lời nói của Coco...! Hãy chỉ ra nó! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema029",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema029|",
+      "ja": "……ちょっと待って。それはおかしいよ。",
+      "zh": "……等一下，这里很不对劲。",
+      "vi": "…Đợi đã, có gì đó không ổn ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema030",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema030|",
+      "ja": "ノアちゃんはその時、足音を立てていないはず……。",
+      "zh": "诺亚她当时应该没发出脚步声才对……",
+      "vi": "Có lẽ lúc đó Nô-ê không hề có tiếng bước chân nào cả...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco023",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco023|",
+      "ja": "ああん！？<br>まだ言い訳するってーの！？<br>ならそれを証明する証拠品でも出してみろよ！",
+      "zh": "哈！？<br>\n还在死鸭子嘴硬！？<br>\n那就把证明这件事的证物拿出来看看啊！",
+      "vi": "Hà! ? Vẫn bướng bỉnh! ? Sau đó lấy ra bằng chứng chứng minh điều này và xem xét!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema031",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema031|",
+      "ja": "それはきっと、この【証拠品】で証明できると思うよ！",
+      "zh": "这件【证物】肯定可以证明这件事！",
+      "vi": "[Bằng chứng] này chắc chắn có thể chứng minh điều này!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco024",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco024|",
+      "ja": "それのどこが足音がしてない証拠になるんだっての！",
+      "zh": "哪个部分可以证明她没发出脚步声啊！",
+      "vi": "Phần nào có thể chứng minh cô ấy không hề tạo ra bước chân nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco025",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco025|",
+      "ja": "そんなわけわかんない反論するなんて……<br>怪しすぎんだろ！",
+      "zh": "莫名其妙地在那里反驳……<br>\n你也太可疑了！",
+      "vi": "Không thể giải thích được sự phản bác ở đó... Bạn nghi ngờ quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema032",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema032|",
+      "ja": "（ダメだ……！<br>　証明できなかったみたい……！<br>　もう一度考え直してみよう……！）",
+      "zh": "（不行……！<br>\n好像没法证明……！<br>\n重新再思考一下吧……！）",
+      "vi": "(Không...! Có vẻ như không thể chứng minh được...! Hãy suy nghĩ lại nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema033",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema033|",
+      "ja": "（でも……ココちゃんの言葉は何か部屋の状況と比べて、<br>　違和感があるような……）",
+      "zh": "（可是……可可的发言和房间内的状况，<br>\n好像有哪里有些矛盾……）",
+      "vi": "(Nhưng... bài phát biểu của Coco và tình hình trong phòng, Hình như có gì đó mâu thuẫn ở đâu đó...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema034",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema034|",
+      "ja": "（ココちゃんの言葉とは明らかに矛盾した証拠があるはずだ……！<br>　それを突きつけてみよう！）",
+      "zh": "（应该有证据跟可可的话有明显的矛盾才对……！<br>\n把它指出来吧！）",
+      "vi": "(Cần phải có bằng chứng mâu thuẫn rõ ràng với lời nói của Coco...! Hãy chỉ ra nó! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco026",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco026|",
+      "ja": "……んん？<br>それのどこが足音がしてない証拠になんの？",
+      "zh": "……嗯？<br>\n哪个部分可以证明她没发出脚步声？",
+      "vi": "...hả? Phần nào chứng tỏ cô ấy không hề tạo ra bước chân nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema035",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema035|",
+      "ja": "（ダメだ……！<br>　この証拠品じゃあちゃんとわからないみたい……！<br>　もっと直接、足音がしなかった証拠をつきつけないと……！）",
+      "zh": "（不行……！<br>\n靠这个证物没法清楚地说明……！<br>\n我要拿出可以直接证明没有脚步声的证据……！）",
+      "vi": "(Không...! Bằng chứng này không thể giải thích rõ ràng...! Tôi muốn đưa ra bằng chứng có thể trực tiếp chứng minh rằng không có tiếng bước chân…! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema036",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema036|",
+      "ja": "（ノアちゃんの部屋から足音がしなかった証拠<br>　……それを示す証拠品は、これだ！）",
+      "zh": "（诺亚没有在房间内发出脚步声……<br>\n能证明这件事的证物，就是这个！）",
+      "vi": "(Noah không bước chân vào phòng... Bằng chứng có thể chứng minh điều này là đây! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco027",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco027|",
+      "ja": "それって……現場の写真……？",
+      "zh": "这是……现场的照片……？",
+      "vi": "Đây là... ảnh chụp hiện trường...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema037",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema037|",
+      "ja": "そう……もし足音がしたなら、<br>当然あるはずのものが現場にないんだよ。",
+      "zh": "没错……如果发出了脚步声，<br>\n那么现场就缺了一样应该出现的东西。",
+      "vi": "Đúng vậy... nếu nghe thấy tiếng bước chân, Sau đó, cảnh tượng thiếu một cái gì đó đáng lẽ phải có.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco028",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco028|",
+      "ja": "あ～ん……？",
+      "zh": "啊～嗯……？",
+      "vi": "À~ ừm...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco029",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco029|",
+      "ja": "……あっ！<br>ま、まさか……！",
+      "zh": "……啊！<br>\n难、难道说……！",
+      "vi": "...À! Khó nói lắm...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema038",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema038|",
+      "ja": "そう……。",
+      "zh": "是的……",
+      "vi": "Vâng…",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema039",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema039|",
+      "ja": "【足跡】がないんだ。",
+      "zh": "【足迹】不见了。",
+      "vi": "[Dấu chân] biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco030",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco030|",
+      "ja": "ぎゃあっ！？",
+      "zh": "嘎！？",
+      "vi": "Ga! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Miria002",
+      "speaker_tag": "; > Miria: |#0101Trial07_Miria002|",
+      "ja": "……あ～、そっか～！<br>そうだよね～！<br>なんかおかしいと思ってたんだ～。",
+      "zh": "……啊～这样啊～！<br>\n原来如此～！<br>\n我就说哪里不对劲～",
+      "vi": "...A~ Vậy đó~! Thế thôi! Miria vừa nói có gì đó không ổn~",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Miria003",
+      "speaker_tag": "; > Miria: |#0101Trial07_Miria003|",
+      "ja": "やっぱり足音なんてしてなかったんだよ、ココちゃん。",
+      "zh": "小可，我就说没脚步声了。",
+      "vi": "Tiểu Khả, ta vừa mới nói không có tiếng bước chân.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco031",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco031|",
+      "ja": "……あ、あああ、あれ！？<br>そ、そんな！？<br>た、たしかに聞こえた……よう……な……？",
+      "zh": "……啊、啊啊啊、啊呀！？<br>\n怎、怎么会！？<br>\n我、我确实听到了……才……对……？",
+      "vi": "...À, à à, à à! ? Làm sao, làm sao có thể như vậy được! ? Coco-Coco có nghe thấy...đúng vậy...đúng không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Miria004",
+      "speaker_tag": "; > Miria: |#0101Trial07_Miria004|",
+      "ja": "いやあ……聞いてないと思うけどなぁ～……。<br>配信終わりの帰り道、けっこう盛り上がって<br>おしゃべりしてたと思うし……。",
+      "zh": "呃……我觉得是没听到啦～……<br>\n我记得昨天下播回房的路上，<br>\n我们聊得可火热了……",
+      "vi": "Ờ...Miria nghĩ là Miria chưa nghe thấy~... Miria nhớ trên đường trở về phòng sau buổi phát sóng ngày hôm qua, Chúng Miria đã có một cuộc trò chuyện sôi nổi...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco032",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco032|",
+      "ja": "あうっ！？<br>……そ、そういえば……。",
+      "zh": "啊呜！？<br>\n……说、说来是这样……",
+      "vi": "Ờ! ? ...Đ-Đó là nó...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco033",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco033|",
+      "ja": "で、でもさぁ！<br>さすがにあんだけ血流してたら、<br>においとかで気付くっしょ！？",
+      "zh": "可、可是啊！<br>\n她流了那么多血，<br>\n再怎么说也闻得到血腥味吧！？",
+      "vi": "Nhưng, nhưng! Cô ấy mất quá nhiều máu, Dù thế nào đi nữa, bạn vẫn có thể ngửi thấy mùi máu! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco034",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco034|",
+      "ja": "それで見逃してたら……<br>あてぃしらバカみたいじゃん！<br>そんなの……信じられないって！！",
+      "zh": "如果连这都能没发现……<br>\n那我们几个岂不是傻瓜！<br>\n实在是……难以置信！！",
+      "vi": "Nếu bạn thậm chí không thể tìm thấy cái này... Thế thì chúng ta không phải là những kẻ ngốc! Thật là... không thể tin được! !",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema040",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema040|",
+      "ja": "（たぶんココちゃんは、部屋の中まで見てないんだ……！<br>　ミリアちゃんの話を信じるなら、音も聞いてない……！）",
+      "zh": "（我猜可可她当时并没有往房间里面看……！<br>\n如果米莉亚的话可信，那么连声音也没听到……！）",
+      "vi": "(Tôi đoán lúc đó Coco đã không nhìn vào phòng...! Nếu lời nói của Miria được tin tưởng thì anh ấy thậm chí còn không nghe thấy âm thanh đó...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema041",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema041|",
+      "ja": "（なら、においは？<br>　当時においがしたかどうかがわかる物は……！）",
+      "zh": "（只不过，气味又如何呢？<br>\n能推测当时能否闻到气味的东西是……！）",
+      "vi": "(Nhưng còn mùi thì sao? Thứ có thể đoán được lúc đó bạn có ngửi được mùi hay không chính là...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema042",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema042|",
+      "ja": "（……いや、これはにおいがしたかどうか<br>　わかる証拠にはならないんじゃないかな……）",
+      "zh": "（……不行，这件东西没法证明<br>\n当时能不能闻到气味吧……）",
+      "vi": "(...Không, thứ này không thể chứng minh Bạn có ngửi thấy nó vào lúc đó không...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema043",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema043|",
+      "ja": "（もう一度考えなおそう……！<br>　当時においがしたかわかる証拠品は……！）",
+      "zh": "（重新再思考一下吧……！<br>\n能推测当时能否闻到气味的证物是……！）",
+      "vi": "(Hãy suy nghĩ lại...! Bằng chứng cho phép bạn đoán xem lúc đó mình có ngửi được mùi hay không là...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema044",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema044|",
+      "ja": "……この塗料は、部屋に塗られてたものだよ。",
+      "zh": "……这个就是涂遍整个房间的颜料。",
+      "vi": "…Đây là vết sơn loang khắp phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema045",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema045|",
+      "ja": "そしてこの塗料……<br>すごく、においが強いんだ。",
+      "zh": "而这个颜料……<br>\n气味十分浓烈。",
+      "vi": "Và sắc tố này... Mùi rất mạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco035",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco035|",
+      "ja": "そ、そうじゃん！<br>そうだよ、覚えてる！ そのにおいだ！",
+      "zh": "对、对哦！<br>\n是这样，我想起来了！就是这股气味！",
+      "vi": "Vâng, vâng! Thế đấy, Coco đã nhớ ra rồi! Đó là mùi!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco036",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco036|",
+      "ja": "夜に通った時、そのキツイにおいがしてたんだ！<br>鼻を塞ぎたくなるぐらいに強烈でさ！<br>ほら、あてぃしちゃんと覚えて――。",
+      "zh": "晚上路过的时候，就有那股刺鼻的气味！<br>\n浓烈到我想把鼻子都塞住！<br>\n你看，我记得很清楚——",
+      "vi": "Khi Coco đi ngang qua vào ban đêm, có mùi hăng đó! Nó mạnh đến mức Coco muốn bịt mũi lại! Bạn thấy đấy, Coco nhớ nó rất rõ ràng—",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco037",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco037|",
+      "ja": "――うぐぅっ！？",
+      "zh": "——咕！？",
+      "vi": "--Gu! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia003",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia003|",
+      "ja": "……どうやら指摘するまでもなく<br>キミも気付いたようだね。",
+      "zh": "……看来不用我们说<br>\n你也发现了。",
+      "vi": "...Có vẻ như chúng ta không cần phải nói Bạn cũng đã phát hiện ra nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco038",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco038|",
+      "ja": "う、ううう……！<br>そ、そうじゃん……！<br>【キツイにおいがしてた】ってことは――！",
+      "zh": "呜、呜呜呜……！<br>\n是、是这样啊……！<br>\n散发着【刺鼻的气味】就意味着——！",
+      "vi": "Chao ôi, ôi ôi...! Vâng, thế đấy...! Tỏ ra [mùi hăng] có nghĩa là——!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco039",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco039|",
+      "ja": "――そのときもう死んでたとしても、<br>【血のにおいに気付けなかった】ってことじゃん……！",
+      "zh": "——就算那时已经死了，<br>\n也【无法察觉血液的气味】啊……！",
+      "vi": "---Ngay cả khi lúc đó anh ấy đã chết, Ngoài ra [không thể ngửi thấy mùi máu] Ah...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia004",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia004|",
+      "ja": "……そうだね。<br>私たちは、部屋の中を確認せずに素通りした。<br>中も見ていないし、音も聞いていない――。",
+      "zh": "……是啊。<br>\n我们当时没有确认房内情况，就径直走过了。<br>\n没有看房间里面，也没有听见声音——",
+      "vi": "...Phải. Chúng tôi đi ngang qua căn phòng mà không xác nhận tình hình bên trong căn phòng. Không nhìn vào trong phòng, không nghe thấy tiếng động——",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia005",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia005|",
+      "ja": "――そしてたとえ<br>部屋の中で血を流して倒れている者がいても、<br>その匂いは塗料の匂いにかき消され、何もわからなかった……。",
+      "zh": "——而且，就算房间里面<br>\n有人流着血倒在地上，<br>\n血液的气味也被颜料覆盖，什么都闻不到……",
+      "vi": "---Hơn nữa, ngay cả khi có trong phòng Có người ngã xuống đất chảy máu, Mùi máu cũng bị sơn bao phủ, không ngửi thấy mùi gì cả...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia006",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia006|",
+      "ja": "つまり……<br>私たちは見逃していた可能性があるという事だね。<br>彼女の死体を。",
+      "zh": "也就是说……<br>\n我们有可能错过了<br>\n目击她尸体的机会。",
+      "vi": "Nói cách khác... Có thể chúng tôi đã bỏ lỡ Cơ hội được chứng kiến cơ thể của cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco040",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco040|",
+      "ja": "うぐっ！？<br>……ぐ、ぐぐ……！",
+      "zh": "呜咕！？<br>\n……咕、咕咕……！",
+      "vi": "Tuyệt vời! ? ...Gu, Gu Gu...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_AnAn002",
+      "speaker_tag": "; > AnAn: |#0101Trial07_AnAn002|",
+      "ja": "『そもそも、今の推理には穴があるだろう』",
+      "zh": "『说到底，刚刚的推理也有漏洞吧』",
+      "vi": "“Rốt cuộc, lý luận vừa rồi có sơ hở.”",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_AnAn003",
+      "speaker_tag": "; > AnAn: |#0101Trial07_AnAn003|",
+      "ja": "『今朝のわがはいは、扉のロックが開いてすぐに<br>　自分の部屋へと向かった』",
+      "zh": "『今天早上门锁打开后不久，<br>\n吾辈就动身回自己房间了』",
+      "vi": "\"Ngay sau khi cửa được mở khóa sáng nay, Tôi sẽ rời đi và trở về phòng của mình.』",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_AnAn004",
+      "speaker_tag": "; > AnAn: |#0101Trial07_AnAn004|",
+      "ja": "『そしてそこに、ちょうどエマが現れて同時に死体を発見した』",
+      "zh": "『而艾玛也刚好在那时出现，同时又发现了尸体』",
+      "vi": "“Và Ema vừa tình cờ xuất hiện vào thời điểm đó và tìm thấy thi thể cùng lúc đó.”",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema046",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema046|",
+      "ja": "あっ……そういえばそうだったね。<br>ということは……。",
+      "zh": "啊……听你一说好像是这样。<br>\n那就是说……",
+      "vi": "À...có vẻ như thế này từ những gì bạn nói. Điều đó có nghĩa là...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema047",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema047|",
+      "ja": "ボクから、アンアンちゃんが隣の部屋に<br>潜んでなかったって証言できるかも……。",
+      "zh": "我应该可以作证，<br>\n安安没有藏在隔壁的房间里……",
+      "vi": "Tôi có thể làm chứng, AnAn không trốn ở phòng bên cạnh...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0101Trial07_Nanoka001|",
+      "ja": "……それを言うなら私も証言できるわ。",
+      "zh": "……你这么说，我应该也可以作证。",
+      "vi": "...Nếu bạn nói vậy, tôi có thể làm chứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Margo003",
+      "speaker_tag": "; > Margo: |#0101Trial07_Margo003|",
+      "ja": "朝は静かだものね。",
+      "zh": "因为今天早上非常安静。",
+      "vi": "Bởi vì sáng nay rất yên tĩnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Margo004",
+      "speaker_tag": "; > Margo: |#0101Trial07_Margo004|",
+      "ja": "今日は朝から私たち２人とも起きていたし、<br>音でわかると思うわ。",
+      "zh": "今天我们两个一早就都起来了，<br>\n我想，只要听声音就知道了。",
+      "vi": "Hôm nay cả hai chúng Chị đều dậy sớm, Chị nghĩ em sẽ biết chỉ bằng cách nghe âm thanh.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Margo005",
+      "speaker_tag": "; > Margo: |#0101Trial07_Margo005|",
+      "ja": "……まあ、死んでたのには気付かなかったんだけどね？",
+      "zh": "……不过，我们倒是没发现死了人哦？",
+      "vi": "…Tuy nhiên, chúng ta không tìm thấy ai chết cả, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0101Trial07_Nanoka002|",
+      "ja": "…………そうね。",
+      "zh": "…………是啊。",
+      "vi": "........Ừ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_AnAn005",
+      "speaker_tag": "; > AnAn: |#0101Trial07_AnAn005|",
+      "ja": "『２人の証言と、わがはいとエマ双方の目撃証言を組み合わせれば<br>　わがはいたちが部屋から出ていない事を証明できるのでは？』",
+      "zh": "『结合她们两个的证词，以及吾辈和艾玛双方的目击证词，<br>\n应该能证明我们未走出过房间吧？』",
+      "vi": "\"Kết hợp lời khai của cả hai người, cũng như lời khai của nhân chứng của cả tôi và Ema, Nó phải chứng minh rằng chúng ta chưa bao giờ rời khỏi phòng, phải không? 』",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema048",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema048|",
+      "ja": "そう……かもしれない。",
+      "zh": "应该……可以吧。",
+      "vi": "Nó sẽ...được thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema049",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema049|",
+      "ja": "ボクとアンアンちゃん、<br>それにナノカちゃんとマーゴちゃんの<br>４人の証言を合わせて証明できるのは……。",
+      "zh": "结合我和安安，<br>\n以及奈叶香和玛格<br>\n四个人的证词，可以证明的事是……",
+      "vi": "Kết hợp AnAn và tôi, Và Nanoyaka và Mag Lời khai của 4 người có thể chứng minh điều đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice007",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice007|",
+      "ja": "朝まで誰でも犯行可能だった",
+      "zh": "到早上为止谁都有可能作案",
+      "vi": "Đến sáng, bất cứ ai cũng có thể phạm tội.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice008",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice008|",
+      "ja": "ノアは早朝に殺された",
+      "zh": "诺亚是在清晨遇害的",
+      "vi": "Nô-ê bị giết vào sáng sớm",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice009",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice009|",
+      "ja": "深夜にノアの部屋に入れた者はいない",
+      "zh": "深夜时没人能进诺亚的房间",
+      "vi": "Không ai có thể vào phòng Nô-ê vào đêm khuya",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema050",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema050|",
+      "ja": "それってつまり、朝まで誰でも犯行可能だった……<br>ってことだよね？",
+      "zh": "就是说，到早上为止谁都有可能作案……<br>\n对吧？",
+      "vi": "Nói cách khác, bất kỳ ai cũng có thể phạm tội vào buổi sáng... Đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0101Trial07_Nanoka003|",
+      "ja": "いいえ、全然違うわ。",
+      "zh": "不，完全不对。",
+      "vi": "Không, điều đó không đúng chút nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Margo006",
+      "speaker_tag": "; > Margo: |#0101Trial07_Margo006|",
+      "ja": "夜間の扉には鍵がかかっているのよ、エマちゃん。",
+      "zh": "艾玛，晚上的房门可是上锁的哦。",
+      "vi": "Ema, cửa bị khóa vào ban đêm.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_AnAn006",
+      "speaker_tag": "; > AnAn: |#0101Trial07_AnAn006|",
+      "ja": "『いちからか？ いちから説明しないとダメか？』",
+      "zh": "『要从头讲吗？不从头讲你就搞不明白吗？』",
+      "vi": "\"Bạn có muốn bắt đầu lại từ đầu không?\" Bạn không thể hiểu được nó nếu không bắt đầu lại từ đầu sao? 』",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema051",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema051|",
+      "ja": "（まずい……！ 呆れられてるみたい……！）",
+      "zh": "（不好……！被人当傻瓜看了……！）",
+      "vi": "(Không ổn rồi...! Bị coi như một kẻ ngốc...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema052",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema052|",
+      "ja": "（もう一度考えてみよう……！）",
+      "zh": "（重新思考一下吧……！）",
+      "vi": "(Hãy suy nghĩ lại...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema053",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema053|",
+      "ja": "（朝にノアちゃんの部屋から誰も出て来てないってことは、<br>　【誰もそこに潜むことができなかった】って事だから……）",
+      "zh": "（早上没人从诺亚的房间里走出来，<br>\n意味着【没有人可以藏身在那里】……）",
+      "vi": "(Không ai ra khỏi phòng Noah vào buổi sáng, Nó có nghĩa là [không ai có thể trốn ở đó]...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema054",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema054|",
+      "ja": "ノアちゃんが殺されたのって……<br>もしかして早朝だったんじゃないかな……！？",
+      "zh": "难道说诺亚遇害的时间……<br>\n就是一大清早……！？",
+      "vi": "Phải chăng đó là lúc Noah bị giết... Mới sáng sớm mà...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0101Trial07_Nanoka004|",
+      "ja": "……どうしてそう思ったの。",
+      "zh": "……为什么你会这么想。",
+      "vi": "...tại sao bạn lại nghĩ vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Margo007",
+      "speaker_tag": "; > Margo: |#0101Trial07_Margo007|",
+      "ja": "そんな話、誰かしてたかしら？",
+      "zh": "有人这么说过吗？",
+      "vi": "Có ai đã nói vậy chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_AnAn007",
+      "speaker_tag": "; > AnAn: |#0101Trial07_AnAn007|",
+      "ja": "『わがはいには理解できない』",
+      "zh": "『吾辈无法理解』",
+      "vi": "“Chúng tôi không thể hiểu được”",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema055",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema055|",
+      "ja": "（呆れられちゃった……！）",
+      "zh": "（让大家傻眼了……！）",
+      "vi": "(Mọi người đều chết lặng...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema056",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema056|",
+      "ja": "（もう一度考えてみよう……！）",
+      "zh": "（重新思考一下吧……！）",
+      "vi": "(Hãy suy nghĩ lại...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema057",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema057|",
+      "ja": "（朝にノアちゃんの部屋から誰も出て来てないってことは、<br>　【誰もそこに潜むことができなかった】って事だから……）",
+      "zh": "（早上没人从诺亚的房间里走出来，<br>\n意味着【没有人可以藏身在那里】……）",
+      "vi": "(Không ai ra khỏi phòng Noah vào buổi sáng, Nó có nghĩa là [không ai có thể trốn ở đó]...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema058",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema058|",
+      "ja": "夜時間の間は、<br>【誰もノアちゃんの部屋に入れなかった】って事だよね。",
+      "zh": "就是说在夜晚<br>\n【没人能进诺亚的房间】才对。",
+      "vi": "Tức là vào ban đêm [Không ai được vào phòng Noah] Đúng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema059",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema059|",
+      "ja": "もし夜時間の間に誰かがいたのだとしたら、<br>朝まで閉じ込められていたはずだし……。",
+      "zh": "如果晚上有人在诺亚的房间里，<br>\n这个人应该会被关到第二天早上……",
+      "vi": "Nếu ai đó ở trong phòng của Noah vào ban đêm, Người này phải bị giam giữ cho đến sáng hôm sau...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Margo008",
+      "speaker_tag": "; > Margo: |#0101Trial07_Margo008|",
+      "ja": "あらあら、それじゃあ結局<br>就寝時間の間に殺すことは<br>最初からできなかったのね？",
+      "zh": "哎呀呀，就是说到头来<br>\n根本不可能有人<br>\n在就寝时间内下手，对吧？",
+      "vi": "Rất tiếc, cuối cùng thì Không thể nào có ai Làm việc đó vào lúc đi ngủ phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Hanna001",
+      "speaker_tag": "; > Hanna: |#0101Trial07_Hanna001|",
+      "ja": "えーと……ということはつまり、<br>どういうことなんですの？",
+      "zh": "呃……那究竟<br>\n说明了什么呢？",
+      "vi": "Ờ... vậy chính xác thì sao Nó có nghĩa là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Sherry001",
+      "speaker_tag": "; > Sherry: |#0101Trial07_Sherry001|",
+      "ja": "ノアさんの部屋には朝まで誰も侵入できず、<br>死体は朝に発見された……。",
+      "zh": "到早上为止没人能侵入诺亚的房间，<br>\n而尸体是早上被发现的……",
+      "vi": "Không ai có thể xâm chiếm phòng của Nô-ê cho đến sáng, Thi thể được phát hiện vào buổi sáng...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Sherry002",
+      "speaker_tag": "; > Sherry: |#0101Trial07_Sherry002|",
+      "ja": "つまりノアさんは、<br>【昨夜の時点で死んでいた】という<br>ことですね～！",
+      "zh": "也就是说，<br>\n诺亚她<br>\n【在昨晚就已经死掉了】～！",
+      "vi": "Tức là Nô-ê cô [Anh ấy đã chết đêm qua]~!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0101Trial07_Nanoka005|",
+      "ja": "……昨晩、配信していた３人が部屋の前を通ったときは、<br>やはり彼女の部屋に死体があったみたいね。",
+      "zh": "……看来昨晚直播的三人组路过房间的时候，<br>\n她其实已经死了。",
+      "vi": "...Có vẻ như khi bộ ba trong buổi phát sóng trực tiếp tối qua đi ngang qua phòng, Cô ấy thực sự đã chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco041",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco041|",
+      "ja": "……マジぃ？<br>じゃああてぃし、死体あったの見逃してたってこと……？",
+      "zh": "……真的假的？<br>\n那我就是看漏了尸体咯……？",
+      "vi": "...Thật hay giả? Vậy thì Coco vừa bỏ lỡ cơ thể...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia007",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia007|",
+      "ja": "……どうやらそのようだね。",
+      "zh": "……看来的确如此。",
+      "vi": "...Có vẻ như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Miria005",
+      "speaker_tag": "; > Miria: |#0101Trial07_Miria005|",
+      "ja": "本当にノアちゃんのご遺体……<br>スルーしちゃってたんだね……。",
+      "zh": "我们真的漏发现……<br>\n诺亚的遗体了啊……",
+      "vi": "Chúng Miria thực sự đã bỏ lỡ khám phá này... Cơ thể của Nô-ê ở đây...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco042",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco042|",
+      "ja": "うええ……そんなことある……？",
+      "zh": "欸欸……这真的合理吗……？",
+      "vi": "Ơ...điều này có thực sự hợp lý không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Miria006",
+      "speaker_tag": "; > Miria: |#0101Trial07_Miria006|",
+      "ja": "……ま、まあまあ。<br>３人ともが見逃してたんだし…！<br>ココちゃんが責任を感じることないよ……。",
+      "zh": "……唉，别想太多，<br>\n毕竟我们三个人都漏掉了……！<br>\n这不全是你一个人的责任啦……",
+      "vi": "...Ồ, đừng nghĩ nhiều quá, Rốt cuộc thì cả ba chúng ta đều đã bỏ lỡ...! Đây không hoàn toàn là trách nhiệm của riêng bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco043",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco043|",
+      "ja": "……んなこと当たり前だろ！<br>あてぃしだけの責任にしたら<br>許さねーぞザコスケ！",
+      "zh": "……那不然呢！<br>\n要是把责任都推我头上，<br>\n我可饶不了你，你个龙套女！",
+      "vi": "...không phải vậy đâu! Nếu bạn đổ hết trách nhiệm lên Coco, Coco không thể tha thứ cho cô, đồ khốn kiếp!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Miria007",
+      "speaker_tag": "; > Miria: |#0101Trial07_Miria007|",
+      "ja": "はう……！？<br>足音がしたとか勘違いしてたのは<br>ココちゃんなのに……！",
+      "zh": "呀……！？<br>\n明明误以为有脚步声的<br>\n是你才对……！",
+      "vi": "Ừ...! ? Miria rõ ràng đã nhầm tiếng bước chân Chính bạn mới là người đúng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Sherry003",
+      "speaker_tag": "; > Sherry: |#0101Trial07_Sherry003|",
+      "ja": "しかしそうなると、死亡推定時刻がだいぶ絞られて<br>来るんじゃないですか？",
+      "zh": "不过，这么一来我们就能<br>\n大概排查出可能的推定死亡时间了吧？",
+      "vi": "Tuy nhiên, bằng cách này chúng ta có thể Có lẽ bạn đã đoán được thời gian có thể xảy ra của cái chết?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Sherry004",
+      "speaker_tag": "; > Sherry: |#0101Trial07_Sherry004|",
+      "ja": "みなさんの夕飯の終了時間はだいたい２０時。<br>そして就寝時間は２２時ですね。",
+      "zh": "大家晚餐的结束时间都在晚上8点左右。<br>\n然后就寝时间是在晚上10点，对吧。",
+      "vi": "Bữa tối của mọi người kết thúc vào khoảng 8 giờ tối. Và giờ đi ngủ là lúc 10 giờ tối, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Sherry005",
+      "speaker_tag": "; > Sherry: |#0101Trial07_Sherry005|",
+      "ja": "なので、この２時間の間に犯行が行われたことになります。",
+      "zh": "那么，可以判断凶案就是在这2小时内发生的。",
+      "vi": "Khi đó, có thể phán đoán rằng vụ án mạng xảy ra trong vòng 2 giờ này.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Miria008",
+      "speaker_tag": "; > Miria: |#0101Trial07_Miria008|",
+      "ja": "……あっ。でもそれなら、配信してた３人は<br>２１時から２２時までのほとんどの時間<br>【アリバイがある】って言えるかな……？",
+      "zh": "……啊。可是这样一来，<br>\n我们直播的三人算是<br>\n在晚上9到10点都【有不在场证明】吗……？",
+      "vi": "...à. Nhưng trong trường hợp này, Ba người chúng Miria phát sóng trực tiếp là Bạn có bằng chứng ngoại phạm trong khoảng thời gian từ 9 đến 10 giờ tối...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Hanna002",
+      "speaker_tag": "; > Hanna: |#0101Trial07_Hanna002|",
+      "ja": "わたくしとメルルさんも、部屋で配信を見ていましたわー！",
+      "zh": "我和梅露露一起在房间里看了直播！",
+      "vi": "Meruru và Bổn tiểu thư cùng nhau xem buổi phát sóng trực tiếp trong phòng!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Alisa001",
+      "speaker_tag": "; > Alisa: |#0101Trial07_Alisa001|",
+      "ja": "……ウチは配信なんて見てねーけど。",
+      "zh": "……我那时没看直播。",
+      "vi": "…Lúc đó Tao chưa xem buổi phát sóng trực tiếp.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Sherry006",
+      "speaker_tag": "; > Sherry: |#0101Trial07_Sherry006|",
+      "ja": "でもアリサさんがその時間部屋にいたのは<br>私が証言できますね～！<br>私も部屋で配信を見ていたので！",
+      "zh": "不过我可以作证<br>\n亚里沙那时在房间里～！<br>\n因为我也在房间里看了直播！",
+      "vi": "Nhưng tôi có thể làm chứng Lúc đó Alisa đang ở trong phòng~! Bởi vì tôi cũng đã xem truyền hình trực tiếp trong phòng!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Margo009",
+      "speaker_tag": "; > Margo: |#0101Trial07_Margo009|",
+      "ja": "あら、それを言うなら私も配信を見ながらだけど、<br>部屋にナノカちゃんがいるのを見てるわ。",
+      "zh": "哎呀，这么说的话，虽然我也是在看直播，<br>\n不过我有看到奈叶香在房间里。",
+      "vi": "Rất tiếc, nếu em nói vậy, mặc dù Chị cũng đang xem chương trình phát sóng trực tiếp, Nhưng Chị đã nhìn thấy Nanoyaka trong phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0101Trial07_Nanoka006|",
+      "ja": "……そうね。<br>その間あなたは、トイレにすら立たなかった。",
+      "zh": "……是啊。<br>\n那时你全程连洗手间都没去。",
+      "vi": "...Phải. Khi đó, bạn thậm chí còn không đi vệ sinh suốt thời gian đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema060",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema060|",
+      "ja": "ボクはそのとき……えっと。",
+      "zh": "我在那时……呃。",
+      "vi": "Tôi đã... à.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_AnAn008",
+      "speaker_tag": "; > AnAn: |#0101Trial07_AnAn008|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_AnAn009",
+      "speaker_tag": "; > AnAn: |#0101Trial07_AnAn009|",
+      "ja": "『配信の間、医務室にエマがいた事はわがはいが証明できる』",
+      "zh": "『吾辈可以证明，直播的时候艾玛在医务室内』",
+      "vi": "\"Tôi có thể chứng minh rằng Ema đã ở bệnh xá trong buổi phát sóng trực tiếp.\"",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema061",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema061|",
+      "ja": "……うん。<br>ボクらあのとき、医務室で一緒に配信を見てたんだ。",
+      "zh": "……嗯。<br>\n那时我们在医务室里一起看了直播。",
+      "vi": "...Hừm. Khi đó, chúng tôi cùng nhau xem buổi phát sóng trực tiếp trong Phòng Y Tế.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco044",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco044|",
+      "ja": "じゃあほとんど全員見てたってこと！？<br>いや～、やっぱあてぃしの配信人気過ぎるな～！<br>超人気コンテンツじゃん！",
+      "zh": "那就是几乎所有人都在看咯！？<br>\n哎呀～看来我的直播人气真的太火爆了～！<br>\n简直就是超人气节目！",
+      "vi": "Điều đó có nghĩa là hầu hết mọi người đều đang xem! ? Rất tiếc~ Có vẻ như buổi phát sóng trực tiếp của Coco rất nổi tiếng~! Nó chỉ đơn giản là một chương trình siêu nổi tiếng!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema062",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema062|",
+      "ja": "……はは。",
+      "zh": "……哈哈。",
+      "vi": "...Haha.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco045",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco045|",
+      "ja": "鼻で笑うなし！",
+      "zh": "不许嘲笑我！",
+      "vi": "Đừng cười Coco!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema063",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema063|",
+      "ja": "そ、そんなつもりじゃ……！",
+      "zh": "我、我才没有嘲笑……！",
+      "vi": "Tôi-tôi không cười...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Sherry007",
+      "speaker_tag": "; > Sherry: |#0101Trial07_Sherry007|",
+      "ja": "まとめると、<br>ノアさんが生きているのが確認された１９時以降、<br>２０時～２１時以外は全員にアリバイがあるという事ですね！",
+      "zh": "整理一下，<br>\n诺亚确认还活着的时间是晚上7点以后，<br>\n而除了晚上8～9点之外所有人都有不在场证明，对吧！",
+      "vi": "Để sắp xếp nó, Thời điểm Noah được xác nhận còn sống là sau 7 giờ tối, Và tất cả mọi người ngoại trừ 8 đến 9 giờ tối đều có bằng chứng ngoại phạm, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco046",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco046|",
+      "ja": "……あ！<br>っていうかあてぃし、２０時から２１時だったら<br>そこのザコと配信準備してたけど？",
+      "zh": "……啊！<br>\n我想起来，晚上8到9点<br>\n我在跟那边的龙套女一起做直播的准备欸？",
+      "vi": "...À! Coco nhớ, 8 đến 9 giờ tối Coco đang chuẩn bị phát sóng trực tiếp với cô gái hỗ trợ đằng kia à?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Miria009",
+      "speaker_tag": "; > Miria: |#0101Trial07_Miria009|",
+      "ja": "ああ、そうだね。<br>夕飯の後はずっとココちゃんに手伝わされ<br>てたから、お互いにアリバイを証明できると思うよ。",
+      "zh": "嗯，是啊。<br>\n晚餐后我就一直被她使唤，<br>\n我想我们两个的不在场应该能互相证明。",
+      "vi": "Vâng, vâng. Miria đã bị cô ấy thao túng kể từ bữa tối, Miria cho rằng sự vắng mặt của chúng ta sẽ chứng tỏ sự có mặt của nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco047",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco047|",
+      "ja": "だからあてぃしたちが共犯でもない限り、<br>ここの２人は 絶対犯人じゃねーってこと！<br>犯人はご愁傷さま～♪",
+      "zh": "所以只要我们两个不是共犯，<br>\n我们两个就绝不可能是凶手！<br>\n可惜我们不是凶手～♪",
+      "vi": "Vì vậy, miễn là hai chúng ta không phải là đồng phạm, Không thể nào hai chúng ta lại là kẻ sát nhân được! Thật tiếc khi chúng Coco không phải là kẻ sát nhân~♪",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Sherry008",
+      "speaker_tag": "; > Sherry: |#0101Trial07_Sherry008|",
+      "ja": "では他のみなさんのその時間帯は……。",
+      "zh": "那其他人在这个时间段里面的行动是……",
+      "vi": "Vậy thì hành động của người khác trong khoảng thời gian này là...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema064",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema064|",
+      "ja": "夕飯直後から配信にかけて……？<br>たしかその時って……。",
+      "zh": "晚餐之后到直播开始前吗……？<br>\n记得我那时好像……",
+      "vi": "Sau bữa tối và trước khi buổi phát sóng trực tiếp bắt đầu...? Tôi nhớ nó có vẻ như...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Margo010",
+      "speaker_tag": "; > Margo: |#0101Trial07_Margo010|",
+      "ja": "そのときは娯楽室にいたわね。<br>エマちゃんとも会ってるわ。<br>時計を見ていたから時間も間違いないと思うけど。",
+      "zh": "那时在娱乐室里<br>\n我跟艾玛碰了面。<br>\n我当时看了时钟，应该没搞错时间。",
+      "vi": "Nó ở trong Phòng Giải Trí Chị đã gặp Ema. Chị nhìn đồng hồ và Chị đoán là đã đúng giờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema065",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema065|",
+      "ja": "マーゴちゃんと……？<br>あっ、それってあの時の……！",
+      "zh": "那时我和你在一起……？<br>\n啊，那时好像是……！",
+      "vi": "Lúc đó tôi đã ở bên anh...? À, có vẻ như...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Nanoka007",
+      "speaker_tag": "; > Nanoka: |#0101Trial07_Nanoka007|",
+      "ja": "……リボンを探していたときね。",
+      "zh": "……那时在找我的发带。",
+      "vi": "...Tôi đang tìm chiếc băng đô của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema066",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema066|",
+      "ja": "そうだ……。<br>ナノカちゃんが無くしたリボンを探してて、<br>娯楽室でアリサちゃんと……。",
+      "zh": "对……<br>\n那时我们在找奈叶香不见了的发带，<br>\n在娱乐室碰见了亚里沙……",
+      "vi": "Có... Lúc đó chúng tôi đang tìm kiếm chiếc băng đô bị mất tích của Nanoyaka, Tôi gặp Alisa ở Phòng Giải Trí...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Sherry009",
+      "speaker_tag": "; > Sherry: |#0101Trial07_Sherry009|",
+      "ja": "当時の時間については私も確認していますね～！<br>２０時から２１時頃までかかったと思いますよ！",
+      "zh": "当时我也有确认时间哦～！<br>\n晚上8点到9点之间我们应该还在那里！",
+      "vi": "Tôi cũng đã có thời gian xác nhận vào thời điểm đó~! Chúng ta vẫn nên ở đó từ 8 giờ tối đến 9 giờ tối!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Hanna003",
+      "speaker_tag": "; > Hanna: |#0101Trial07_Hanna003|",
+      "ja": "……あのとき、ひとりになった人はいなかったと思いますわ。<br>わたくし、なんとか止めたくて皆さんの様子を見ていましたし。",
+      "zh": "……我觉得那时应该没有人落单。<br>\n那时我也想劝架，在旁边观察着大家的情况。",
+      "vi": "...Bổn tiểu thư nghĩ không ai nên ở một Bổn tiểu thư vào thời điểm đó. Lúc đó Bổn tiểu thư cũng muốn giải tán cuộc chiến và quan sát tình hình của mọi ngươi từ một bên.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Sherry010",
+      "speaker_tag": "; > Sherry: |#0101Trial07_Sherry010|",
+      "ja": "あのとき見たのは、エマさんと、ハンナさんと<br>メルルさんと……。",
+      "zh": "当时我们见到的人有艾玛、汉娜、<br>\n梅露露……",
+      "vi": "Những người chúng tôi gặp lúc đó là Ema, Hanna, Meruru...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Margo011",
+      "speaker_tag": "; > Margo: |#0101Trial07_Margo011|",
+      "ja": "私と、アリサちゃんは娯楽室にいて、<br>そこにナノカちゃんが来たわね。",
+      "zh": "在娱乐室的还有我和亚里沙，<br>\n之后奈叶香也来了。",
+      "vi": "Trong Phòng Giải Trí còn có Alisa và Chị, Sau đó Nanoyaka cũng đến.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Hanna004",
+      "speaker_tag": "; > Hanna: |#0101Trial07_Hanna004|",
+      "ja": "……あ、あら？ ならそのときも、<br>大半の人にアリバイがあるということですわね……？<br>なら誰が……。",
+      "zh": "……啊、啊呀？这么说，当时有<br>\n一大半的人都有不在场证明欸……？<br>\n究竟还有谁可以行凶……",
+      "vi": "...À, à? Vì vậy, đã có vào thời điểm đó Hầu hết mọi ngươi đều có bằng chứng ngoại phạm...? Còn ai có thể phạm tội giết ngươi...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Alisa002",
+      "speaker_tag": "; > Alisa: |#0101Trial07_Alisa002|",
+      "ja": "……おいおい、ふざけてんのか？<br>長い時間アリバイがない奴、<br>そこにひとりいるじゃねーか。",
+      "zh": "……喂，你开什么玩笑？<br>\n不是有那么一个人<br>\n很长时间都没有不在场证明吗。",
+      "vi": "...Này, mày đang đùa Tao à? Không có người như vậy Đã lâu rồi không có bằng chứng ngoại phạm?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema067",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema067|",
+      "ja": "長い時間アリバイのない人……それって。",
+      "zh": "有一个人长时间没有不在场证明……那就是。",
+      "vi": "Có một người đã lâu không có bằng chứng ngoại phạm…chính là như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice010",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice010|",
+      "ja": "桜羽エマ",
+      "zh": "樱羽艾玛",
+      "vi": "Ema",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice011",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice011|",
+      "ja": "蓮見レイア",
+      "zh": "莲见蕾雅",
+      "vi": "Hasumi Leia",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Choice012",
+      "speaker_tag": "; > @choice |#0101Trial07_Choice012|",
+      "ja": "夏目アンアン",
+      "zh": "夏目安安",
+      "vi": "AnAn",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema068",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema068|",
+      "ja": "……ボクのこと？ でもボクは……。",
+      "zh": "……是我吗？可是我……",
+      "vi": "...là tôi phải không? Nhưng tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Alisa003",
+      "speaker_tag": "; > Alisa: |#0101Trial07_Alisa003|",
+      "ja": "ちげぇよ。<br>……おめえ、人の話を整理するの苦手なのか？",
+      "zh": "才不对。<br>\n……我说你，连整理别人说过的话都不会吗？",
+      "vi": "Điều đó không đúng. ...Tao đã nói rồi, mày thậm chí không thể hiểu được những gì người khác đã nói sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema069",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema069|",
+      "ja": "（あう……。怒らせちゃったみたい……）",
+      "zh": "（呜……惹她生气了……）",
+      "vi": "(Ugh...làm cô ấy tức giận...)",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema070",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema070|",
+      "ja": "（もう一度……考えてみよう……！<br>　時系列を整理するんだ……！）",
+      "zh": "（重新……再想想……！<br>\n我要按时间顺序整理一下……！）",
+      "vi": "(Nghĩ lại... nghĩ lại...! Tôi sẽ sắp xếp điều này theo trình tự thời gian...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema071",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema071|",
+      "ja": "……それって、アンアンちゃんのこと？<br>でもアンアンちゃんはボクが医務室で……。",
+      "zh": "……是安安？<br>\n可是安安和我都在医务室里……",
+      "vi": "...Có phải AnAn không? Nhưng tôi và AnAn đều đang ở bệnh xá…",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Alisa004",
+      "speaker_tag": "; > Alisa: |#0101Trial07_Alisa004|",
+      "ja": "べつに病人を疑ってるわけじゃねーよ。<br>もう１人いるだろ。<br>アリバイのないヤツが。",
+      "zh": "我没打算怀疑病人啦。<br>\n没有不在场证明的<br>\n不是还有一个人吗。",
+      "vi": "Tao không có ý nghi ngờ bệnh nhân. không có bằng chứng ngoại phạm Không có người khác sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema072",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema072|",
+      "ja": "……それって……。",
+      "zh": "……这个人就是……",
+      "vi": "...Người này là...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema073",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema073|",
+      "ja": "レイアちゃんのこと……だよね？",
+      "zh": "蕾雅……是你没错吧？",
+      "vi": "Leya...là bạn phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia008",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia008|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Meruru004",
+      "speaker_tag": "; > Meruru: |#0101Trial07_Meruru004|",
+      "ja": "……そういえば、あの出来事があったあと、<br>レイアさんとお会いしましたね……。",
+      "zh": "……说起来，出了那件事之后，<br>\n你好像碰见过蕾雅……",
+      "vi": "...Nói mới nhớ, sau sự việc đó, Có vẻ như bạn đã gặp Leia...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema074",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema074|",
+      "ja": "……レイアちゃん。<br>あのときキミは……<br>いったいどこで、何をしていたの……？",
+      "zh": "……蕾雅。<br>\n那时……<br>\n你到底待在什么地方，做了什么事……？",
+      "vi": "...Lea. Lúc đó... Bạn đã ở đâu và làm gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia009",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia009|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia010",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia010|",
+      "ja": "……さて、なんだったかな。",
+      "zh": "……唔，我做了什么呢。",
+      "vi": "...Chà, tôi đã làm gì thế này?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Ema075",
+      "speaker_tag": "; > Ema: |#0101Trial07_Ema075|",
+      "ja": "え……？",
+      "zh": "欸……？",
+      "vi": "Ủa...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia011",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia011|",
+      "ja": "申し訳ないけれど、あまり覚えていないよ。",
+      "zh": "真不好意思，我记不太清楚了。",
+      "vi": "Tôi xin lỗi, tôi không thể nhớ rõ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Alisa005",
+      "speaker_tag": "; > Alisa: |#0101Trial07_Alisa005|",
+      "ja": "……んな言い訳、通ると思ってんのか？",
+      "zh": "……你觉得你这个借口说得通吗？",
+      "vi": "...Bạn có nghĩ lý do của Tao có lý không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia012",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia012|",
+      "ja": "そんなことを言われても……困ったな。<br>本当に覚えていないんだし……。",
+      "zh": "你要这样怀疑我也没办法……真头疼，<br>\n我真的不记得了……",
+      "vi": "Bạn chẳng thể làm gì được nếu bạn nghi ngờ tôi như thế này... Đau đầu quá, Tôi thực sự không nhớ...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia013",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia013|",
+      "ja": "人の記憶は信用できないものだ。<br>さっきのココくんの話を思い返してみなよ。",
+      "zh": "人的记忆是不可信的。<br>\n回想一下刚刚可可说的话吧。",
+      "vi": "Trí nhớ của con người không thể tin cậy được. Hãy nghĩ lại những gì Coco vừa nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia014",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia014|",
+      "ja": "私たちが部屋を通ったとき、<br>ココくんはノアくんが<br>【まだ生きていた】と言っていた……。",
+      "zh": "她说，<br>\n我们经过房间的时候<br>\n诺亚【还活着】……",
+      "vi": "Cô ấy nói, Khi chúng tôi đi ngang qua phòng Nô-ê [vẫn còn sống]…",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia015",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia015|",
+      "ja": "けど、実際は勘違いだった。<br>……このように人の記憶というものは<br>なかなか信用できないものなのさ。",
+      "zh": "可结果是她搞错了。<br>\n……也证明了人的记忆<br>\n实在不可置信。",
+      "vi": "Nhưng hóa ra cô đã sai. …Nó cũng chứng tỏ trí nhớ của con người Thật không thể tin được.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Coco048",
+      "speaker_tag": "; > Coco: |#0101Trial07_Coco048|",
+      "ja": "うぐ……！<br>たしかにさっきは……そうだったけど……。",
+      "zh": "呜……！<br>\n刚刚确实……是我搞错了……",
+      "vi": "Ôi...! Đúng là...vừa rồi Coco đã phạm sai lầm...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia016",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia016|",
+      "ja": "……まあ、疑われたままでも気持ちが悪いし、<br>少しだけ自己弁護をさせてもらおうかな。",
+      "zh": "……不过，被人怀疑总归是难受的。<br>\n可不可以让我自辩一下清白呢？",
+      "vi": "…Tuy nhiên, việc bị nghi ngờ luôn là điều khó chịu. Bạn có thể vui lòng cho tôi bào chữa sự vô tội của mình được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Trial07_Leia017",
+      "speaker_tag": "; > Leia: |#0101Trial07_Leia017|",
+      "ja": "その時私が何をしていたか……をね。",
+      "zh": "说明一下我当时究竟做了什么……",
+      "vi": "Hãy để tôi giải thích chính xác những gì tôi đã làm sau đó ...",
+      "objection_links": []
+    }
+  ]
+}

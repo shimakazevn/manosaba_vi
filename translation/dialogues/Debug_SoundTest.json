@@ -1,0 +1,24 @@
+{
+  "bundle": "general-localization-zhhans-scripts-debug_assets_all.bundle",
+  "script_name": "Debug_SoundTest",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Debug/Debug_SoundTest' Naninovel scenario script",
+  "total_entries": 2,
+  "entries": [
+    {
+      "id": "~6ba56969",
+      "speaker_tag": "; > @choice \"|#~6ba56969|\" button:ChoiceButtons/Debug/Default handler:Debug",
+      "ja": "BGM 停止",
+      "zh": "",
+      "vi": "Dừng nhạc nền",
+      "objection_links": []
+    },
+    {
+      "id": "~88ca4b0b",
+      "speaker_tag": "; > @choice |#~88ca4b0b| button:ChoiceButtons/Debug/Cancel handler:Debug",
+      "ja": "タイトルへ戻る",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    }
+  ]
+}

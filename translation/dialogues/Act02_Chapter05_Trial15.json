@@ -1,0 +1,1128 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial15",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial15' Naninovel scenario script",
+  "total_entries": 139,
+  "entries": [
+    {
+      "id": "0205Trial15_AnAn001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial15_AnAn001|",
+      "ja": "たしかにここは<br>ロクでもない場所にも見える。",
+      "zh": "的确，这里看上去<br>\n也不是什么正经的地方。",
+      "vi": "Quả thực, có vẻ như ở đây Đó cũng không phải là một nơi nghiêm túc.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial15_AnAn002|",
+      "ja": "だが……<br>だからといって<br>本当に<link=\"Objection_02_05_15_01\">帰る</link>必要は<br>あるのか……？",
+      "zh": "但是……<br>\n尽管如此，<br>\n我们真的有必要<br>\n<link=\"Objection_02_05_15_01\">回去</link>吗……？",
+      "vi": "Nhưng... Tuy nhiên, Chúng tôi thực sự cần <link=\"Objection_02_05_15_01\">Quay lại </link>...?",
+      "objection_links": [
+        "Objection_02_05_15_01"
+      ]
+    },
+    {
+      "id": "0205Trial15_AnAn003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial15_AnAn003|",
+      "ja": "魔法を使えるからと言って<br>奇異の目で見られることもなく、<br>わずらわしい<br><link=\"Objection_02_05_15_02\">人間関係</link>もない……。",
+      "zh": "在这里，就算能使用魔法<br>\n也不会引来异样的目光，<br>\n另外也没有麻烦的<br>\n<link=\"Objection_02_05_15_02\">人际关系</link>……",
+      "vi": "Ở đây, ngay cả khi bạn có thể sử dụng phép thuật Nó sẽ không thu hút bất kỳ ánh nhìn lạ nào, Ngoài ra, không có vấn đề gì đâu <link=\"Objection_02_05_15_02\">Mối quan hệ giữa các cá nhân</link>……",
+      "objection_links": [
+        "Objection_02_05_15_02"
+      ]
+    },
+    {
+      "id": "0205Trial15_AnAn004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial15_AnAn004|",
+      "ja": "……案外、<br>ここで暮らす方が<br><link=\"Objection_02_05_15_03\">楽</link>かもしれない。",
+      "zh": "……说不定，<br>\n在这里生活<br>\n反而更<link=\"Objection_02_05_15_03\">轻松</link>。",
+      "vi": "...Có lẽ, Sống ở đây Ngược lại, nó <link=\"Objection_02_05_15_03\"> thoải mái hơn</link>.",
+      "objection_links": [
+        "Objection_02_05_15_03"
+      ]
+    },
+    {
+      "id": "0205Trial15_AnAn005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial15_AnAn005|",
+      "ja": "だからわがはいは<br>べつにここから出ることを<br><link=\"Objection_02_05_15_04\">望んではいない</link>。",
+      "zh": "所以吾辈<br>\n并<link=\"Objection_02_05_15_04\">没有意愿</link><br>\n离开这里。",
+      "vi": "Vì vậy chúng tôi Và <link=\"Objection_02_05_15_04\"> không có di chúc </link>TAG_3__ Hãy ra khỏi đây.",
+      "objection_links": [
+        "Objection_02_05_15_04"
+      ]
+    },
+    {
+      "id": "0205Trial15_AnAn006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial15_AnAn006|",
+      "ja": "【わがはいたちを救う】だと？",
+      "zh": "你说要【拯救我们】？",
+      "vi": "Bạn nói bạn muốn [cứu chúng tôi]?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial15_AnAn007|",
+      "ja": "勝手に助けてやるなどと<br>言われても……<br>迷惑だ！",
+      "zh": "你自作主张地<br>\n想帮吾辈……<br>\n只会让吾辈感到困扰！",
+      "vi": "Bạn tự mình hành động Muốn giúp chúng tôi... Nó sẽ chỉ gây rắc rối cho chúng ta mà thôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro001",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro001|",
+      "ja": "（アンアンは外の世界への未練がなさそうだ）",
+      "zh": "（安安似乎对外部世界没有留恋）",
+      "vi": "(AnAn dường như không còn chút luyến tiếc nào với thế giới bên ngoài)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro002|",
+      "ja": "（なら私に協力する動機がないのも頷ける）",
+      "zh": "（那么我也能理解，她没有协助我的动机）",
+      "vi": "(Vậy thì tôi có thể hiểu rằng cô ấy không có động cơ để giúp đỡ tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro003|",
+      "ja": "（……しかし、このまま破滅するのを<br>　黙って見ているわけにはいかない）",
+      "zh": "（……但是，也不能就这样<br>\n不做挣扎地等待毁灭）",
+      "vi": "(…Nhưng, chúng ta không thể chỉ Chờ đợi sự hủy diệt mà không vùng vẫy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro004|",
+      "ja": "（彼女に突きつけよう。<br>　彼女の楽観が、実際に起こる現実とは<br>　異なるということを……）",
+      "zh": "（我要向她指出，<br>\n她个人的乐观，跟实际发生的现实<br>\n是不同的……）",
+      "vi": "(Tôi muốn chỉ ra cho cô ấy rằng Sự lạc quan của cá nhân cô ấy khác với thực tế thực tế thì khác...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial15_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "こんな環境にいてはいけない",
+      "zh": "不能待在这种环境里",
+      "vi": "Không thể ở trong môi trường này",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial15_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "社会から逃げてはいけない",
+      "zh": "不能逃离社会",
+      "vi": "Không thể thoát khỏi xã hội",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial15_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "殺人が起こる",
+      "zh": "会出杀人案",
+      "vi": "Sẽ có án mạng",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Choice004",
+      "speaker_tag": "; > @choice |#0205Trial15_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "本心ではない",
+      "zh": "这不是你的真心",
+      "vi": "Đây không phải là sự chân thành của bạn",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro005|",
+      "ja": "いいや、ダメだ。",
+      "zh": "不，不行。",
+      "vi": "Không, điều đó không thể thực hiện được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro006|",
+      "ja": "こんな環境にいてはいけない。",
+      "zh": "不能待在这样的环境里。",
+      "vi": "Không thể ở trong môi trường như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro007|",
+      "ja": "ここではまともな食事も出ないし、<br>精神は病んでいくばかりだ。",
+      "zh": "这里连像样的饭菜都吃不到，<br>\n精神只会越来越差。",
+      "vi": "Bạn thậm chí không thể có được đồ ăn ngon ở đây, Tinh thần sẽ chỉ trở nên tồi tệ hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro008|",
+      "ja": "私と一緒に、家に帰るんだ！",
+      "zh": "跟我一起，回家吧！",
+      "vi": "Hãy đi với tôi và về nhà!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn008",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn008|",
+      "ja": "わがはいは帰りたくないと言っているのが<br>わからないのか！",
+      "zh": "吾辈都说了不想回去，<br>\n你听不懂吗！",
+      "vi": "Tất cả chúng tôi đều nói rằng chúng tôi không muốn quay lại, Bạn không hiểu sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn009",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn009|",
+      "ja": "わがはいは貴様らと違って<br>自分の家になどなんの未練もない！",
+      "zh": "吾辈和你们不同，<br>\n吾辈对自己的家毫无留恋！",
+      "vi": "Chúng tôi khác với bạn, Chúng tôi không còn nỗi nhớ quê hương của mình!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn010",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn010|",
+      "ja": "……不愉快だ！<br>貴様の話など、これ以上聞きたくない！",
+      "zh": "……令人不快！<br>\n你的话，吾辈不想再听了！",
+      "vi": "...kinh tởm! Tôi không muốn nghe lời nói của bạn nữa!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro009|",
+      "ja": "（くっ……！<br>　聞く耳を持たないか……！）",
+      "zh": "（唔……！<br>\n看来她不肯听……！）",
+      "vi": "(Hừm...! Có vẻ như cô ấy không muốn nghe...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro010|",
+      "ja": "（……彼女はここを勘違いしている）",
+      "zh": "（……她误解了这个地方）",
+      "vi": "(...Cô ấy đã hiểu lầm nơi này)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro011|",
+      "ja": "（ここにいたらどうなってしまうのか……<br>　私は経験しているはずだ！）",
+      "zh": "（在这里待下去会变成什么样……<br>\n我应该都经历过了！）",
+      "vi": "(Điều gì sẽ xảy ra nếu bạn ở lại đây... Đáng lẽ tôi phải trải nghiệm tất cả! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro012|",
+      "ja": "（アンアンに教えるんだ……<br>　この牢屋敷の現実を！）",
+      "zh": "（我得告诉安安……<br>\n这座监牢的现实！）",
+      "vi": "(Tôi phải nói với AnAn... Thực tế của Ngục Dinh Thự này! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro013|",
+      "ja": "君は他人との関わりをわずらわしいと思っているかもしれない。",
+      "zh": "你或许觉得与他人来往很麻烦。",
+      "vi": "Bạn có thể gặp khó khăn khi tương tác với người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro014|",
+      "ja": "だが人は１人では生きていけない。<br>誰かに頼らなくてはいけないんだ！",
+      "zh": "但人是无法独自生存的。<br>\n必须依赖他人！",
+      "vi": "Nhưng con người không thể tồn tại một mình. Phải dựa vào người khác!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn011",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn011|",
+      "ja": "そんなことは知っている！",
+      "zh": "这吾辈早就知道了！",
+      "vi": "Tôi đã biết điều này rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn012",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn012|",
+      "ja": "人は生きているだけで人に頼る……<br>頼って【しまう】……！",
+      "zh": "人只要活着就会依赖他人……<br>\n会【不由自主地】依赖……！",
+      "vi": "Chừng nào con người còn sống thì còn phụ thuộc vào người khác... Sẽ [vô tình] lệ thuộc vào...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn013",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn013|",
+      "ja": "……だからこそわがはいは<br>このような監獄に閉じ込められるべきなのだ！",
+      "zh": "……正因如此，吾辈<br>\n才应该被关在这种监狱里！",
+      "vi": "...Vì điều này, chúng tôi Đó mới là người đáng bị nhốt trong loại Ngục Dinh Thự này!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn014",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn014|",
+      "ja": "他の人間のためにも……【邪魔をするな】！",
+      "zh": "为了其他人类……【别妨碍吾辈】！",
+      "vi": "Vì lợi ích của người khác... [Đừng cản trở chúng tôi]!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro015|",
+      "ja": "（くっ……！<br>　アンアンの意思は固いか……！）",
+      "zh": "（唔……！<br>\n看来安安的意志很坚定……！）",
+      "vi": "(Hừm...! Xem ra ý chí của AnAn rất mạnh mẽ...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro016|",
+      "ja": "（……彼女はここを勘違いしている）",
+      "zh": "（……她误解了这个地方）",
+      "vi": "(...Cô ấy đã hiểu lầm nơi này)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro017|",
+      "ja": "（ここにいたらどうなってしまうのか……<br>　私は経験しているはずだ！）",
+      "zh": "（在这里待下去会变成什么样……<br>\n我应该都经历过了！）",
+      "vi": "(Điều gì sẽ xảy ra nếu bạn ở lại đây... Đáng lẽ tôi phải trải nghiệm tất cả! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro018|",
+      "ja": "（アンアンに教えるんだ……<br>　この牢屋敷の現実を！）",
+      "zh": "（我得告诉安安……<br>\n这座监牢的现实！）",
+      "vi": "(Tôi phải nói với AnAn... Thực tế của Ngục Dinh Thự này! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro019|",
+      "ja": "そんなのは本心ではない！",
+      "zh": "那不是你的真心话！",
+      "vi": "Đó không phải là ý bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro020|",
+      "ja": "誰だって自分の生まれ故郷に帰りたいはずだ！",
+      "zh": "任何人都应该会想回到自己的故乡才对！",
+      "vi": "Mọi người đều muốn trở về quê hương của mình!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn015",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn015|",
+      "ja": "ふざけるな！<br>わがはいはそんなことは思っていない！<br>本心からの発言だ！",
+      "zh": "开什么玩笑！<br>\n吾辈才没那么想！<br>\n那是吾辈的真心话！",
+      "vi": "Thật là một trò đùa! Tôi không nghĩ vậy! Đó là lời chân thành của tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn016",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn016|",
+      "ja": "勝手に決めつけるんじゃない！<br>この痴れ者め！！",
+      "zh": "别自作主张替人作主了！<br>\n你这无礼之徒！！",
+      "vi": "Hãy ngừng đưa ra quyết định của riêng bạn cho người khác! Bạn là người thô lỗ! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro021|",
+      "ja": "（……不届き者扱いされてしまった……）",
+      "zh": "（……被她当作无礼之徒了……）",
+      "vi": "(...Cô ấy bị coi là một người thô lỗ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro022|",
+      "ja": "（……彼女はここを勘違いしている）",
+      "zh": "（……她误解了这个地方）",
+      "vi": "(...Cô ấy đã hiểu lầm nơi này)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro023|",
+      "ja": "（ここにいたらどうなってしまうのか……<br>　私は経験しているはずだ！）",
+      "zh": "（在这里待下去会变成什么样……<br>\n我应该都经历过了！）",
+      "vi": "(Điều gì sẽ xảy ra nếu bạn ở lại đây... Đáng lẽ tôi phải trải nghiệm tất cả! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro024|",
+      "ja": "（アンアンに教えるんだ……<br>　この牢屋敷の現実を！）",
+      "zh": "（我得告诉安安……<br>\n这座监牢的现实！）",
+      "vi": "(Tôi phải nói với AnAn... Thực tế của Ngục Dinh Thự này! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro025|",
+      "ja": "……そう簡単な問題じゃない。",
+      "zh": "……问题并没那么简单。",
+      "vi": "...Vấn đề không đơn giản như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro026|",
+      "ja": "この牢屋敷に長くいれば、<br>殺人は必ず起こる……。",
+      "zh": "只要在这座监牢待久了，<br>\n凶杀案就必定会发生……",
+      "vi": "Chỉ cần tôi ở trong Ngục Dinh Thự này lâu, Chắc chắn sẽ xảy ra án mạng...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro027|",
+      "ja": "現に君は<br>私の知る過去の中で殺されていた。",
+      "zh": "事实上，<br>\n在我所知的过去中，你就被杀了。",
+      "vi": "Trên thực tế, Trong quá khứ mà tôi biết, bạn đã bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn017",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn017|",
+      "ja": "………っ",
+      "zh": "………",
+      "vi": "………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn018",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn018|",
+      "ja": "し、しかし……<br>その言葉が真実だと保証することはできまい。",
+      "zh": "可、可是……<br>\n你也无法保证你的话是真实的。",
+      "vi": "Nhưng, nhưng... Bạn cũng không có gì đảm bảo rằng lời nói của bạn là đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn019",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn019|",
+      "ja": "貴様が嘘をついている可能性はある！",
+      "zh": "你有可能在撒谎！",
+      "vi": "Có thể bạn đang nói dối!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro028|",
+      "ja": "……私が嘘をついていないことは、<br>たしかに証明できない。",
+      "zh": "……我没有撒谎这件事，<br>\n的确无法证明。",
+      "vi": "…Tôi không hề nói dối về điều này, Nó thực sự không thể được chứng minh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro029|",
+      "ja": "――だが、証人はいる。",
+      "zh": "——但是，我有证人。",
+      "vi": "---Nhưng tôi có nhân chứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn020",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn020|",
+      "ja": "なに……？",
+      "zh": "什么……？",
+      "vi": "Cái gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro030|",
+      "ja": "私が体験した過去が、<br>真実だと証言できる可能性のある人物……<br>それは――。",
+      "zh": "有人能够作证，<br>\n我经历的过去是真实的……<br>\n这个人就是——",
+      "vi": "Ai đó có thể làm chứng, Quá khứ tôi trải qua là có thật... Người này là——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro031|",
+      "ja": "メルルだ。",
+      "zh": "梅露露。",
+      "vi": "Meruru。",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro032|",
+      "ja": "君なら私が言っていることが<br>正しいとわかるだろう。",
+      "zh": "你应该能明白<br>\n我说的话是正确的吧。",
+      "vi": "Bạn có thể hiểu Những gì tôi nói là đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Meruru001",
+      "speaker_tag": "; > Meruru: |#0205Trial15_Meruru001|",
+      "ja": "そ、そうですね。<br>たしかに言っていることに信憑性はあります……！",
+      "zh": "是、是的。<br>\n的确希罗小姐说的话具有可信度……！",
+      "vi": "Vâng, vâng. Quả thực những gì Cô Anh hùng nói đều đáng tin cậy…!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Meruru002",
+      "speaker_tag": "; > Meruru: |#0205Trial15_Meruru002|",
+      "ja": "でもそれはこの牢屋敷のことなどの<br>知識についてであって……。",
+      "zh": "不过那只是<br>\n有关这座监牢的知识……",
+      "vi": "Nhưng đó chỉ là Kiến thức về Ngục Dinh Thự này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Meruru003",
+      "speaker_tag": "; > Meruru: |#0205Trial15_Meruru003|",
+      "ja": "本当にヒロさんが別の世界を経験したかどうかは……<br>ちょっと私にはわかりません……。",
+      "zh": "至于希罗小姐是否真的经历了另一个世界……<br>\n我有些不太清楚……",
+      "vi": "Về việc liệu Cô Anh Hùng có thực sự trải qua một thế giới khác hay không... Tôi có chút không rõ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn021",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn021|",
+      "ja": "……ほら見ろ！<br>嘘ではないか！",
+      "zh": "……看啊！<br>\n你这不是在撒谎吗！",
+      "vi": "…Nhìn này! Bạn không nói dối à?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro033|",
+      "ja": "（くっ……！<br>　彼女では証人にならないか……）",
+      "zh": "（唔……！<br>\n她当不了证人吗……）",
+      "vi": "(Hừm...! Cô ấy không thể làm nhân chứng được sao...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro034|",
+      "ja": "（しかし……できる人物はいるはずだ）",
+      "zh": "（但是……应该有人能够作证）",
+      "vi": "(Nhưng... ai đó sẽ có thể làm chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro035",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro035|",
+      "ja": "……エマなら私が正しいと証言してくれるはずだ。",
+      "zh": "……艾玛应该能证明我是对的。",
+      "vi": "...Ema nên chứng minh tôi đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Ema001",
+      "speaker_tag": "; > Ema: |#0205Trial15_Ema001|",
+      "ja": "そ、それは……。",
+      "zh": "这、这个……",
+      "vi": "Cái này, cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Ema002",
+      "speaker_tag": "; > Ema: |#0205Trial15_Ema002|",
+      "ja": "たしかにヒロちゃんは、<br>理由なく嘘をついたりしないと思うけど……。",
+      "zh": "我确实觉得希罗她，<br>\n不会无缘无故撒谎……",
+      "vi": "Tôi thực sự nghĩ Hiro, Tôi sẽ không nói dối mà không có lý do...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Ema003",
+      "speaker_tag": "; > Ema: |#0205Trial15_Ema003|",
+      "ja": "でも別の世界を経験してきたなんて言われても……。",
+      "zh": "但是她这时候自称经历了另一个世界……",
+      "vi": "Nhưng lúc này cô tuyên bố đã trải qua một thế giới khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Ema004",
+      "speaker_tag": "; > Ema: |#0205Trial15_Ema004|",
+      "ja": "正直ボクも、半信半疑だよ……。",
+      "zh": "说真的，我也有些半信半疑……",
+      "vi": "Thành thật mà nói, tôi cũng có chút nghi ngờ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn022",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn022|",
+      "ja": "……ほら見ろ！<br>嘘ではないか！",
+      "zh": "……看啊！<br>\n你这不是在撒谎吗！",
+      "vi": "…Nhìn này! Bạn không nói dối à?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro036",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro036|",
+      "ja": "（くっ……！<br>　彼女では証人にならないか……）",
+      "zh": "（唔……！<br>\n她当不了证人吗……）",
+      "vi": "(Hừm...! Cô ấy không thể làm nhân chứng được sao...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro037",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro037|",
+      "ja": "（しかし……できる人物はいるはずだ）",
+      "zh": "（但是……应该有人能够作证）",
+      "vi": "(Nhưng... ai đó sẽ có thể làm chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn023",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn023|",
+      "ja": "……その人物がどうやったら証言できると言うのだ！",
+      "zh": "……你说这个人要怎样替你作证！",
+      "vi": "...Bạn nghĩ người này sẽ làm chứng cho bạn như thế nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn024",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn024|",
+      "ja": "何も知らぬ他人に<br>自分の言葉の信憑性を保証させるなど……<br>恥を知るがいい！",
+      "zh": "让一无所知的他人<br>\n来给自己话语的可信度作担保……<br>\n真是恬不知耻！",
+      "vi": "Hãy để những người không biết gì Để chứng minh độ tin cậy cho lời nói của bạn... Thật không biết xấu hổ!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro038",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro038|",
+      "ja": "（この人物では証人にはならないか）",
+      "zh": "（看来这个人当不了证人）",
+      "vi": "(Có vẻ như người này không thể là nhân chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro039",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro039|",
+      "ja": "（しかし……できる人物はいるはずだ）",
+      "zh": "（但是……应该有人能够作证）",
+      "vi": "(Nhưng... ai đó sẽ có thể làm chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro040",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro040|",
+      "ja": "沢渡ココ……<br>彼女なら証言できるはずだ。",
+      "zh": "泽渡可可……<br>\n她应该能替我作证。",
+      "vi": "Sawatari Coco... Cô ấy có thể bảo đảm cho tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco001",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco001|",
+      "ja": "は……！？ あてぃし……！？",
+      "zh": "哈……！？我吗……！？",
+      "vi": "Hà...! ? Coco...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro041",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro041|",
+      "ja": "そうだ。",
+      "zh": "没错。",
+      "vi": "Đúng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco002",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco002|",
+      "ja": "あてぃしを配信に映すことで、<br>あっちのあてぃしとアンテナが繋がったの。",
+      "zh": "我只要在直播中露脸，<br>\n就能和那边的我自己连接在一起。",
+      "vi": "Miễn là Coco xuất hiện trong buổi phát sóng trực tiếp, Coco có thể kết nối với chính mình ở đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco003",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco003|",
+      "ja": "つっても、魔女化が進んだあてぃししか<br>使えねー能力みたいだから。",
+      "zh": "不过，这好像是只有在我魔女化进行到一定程度<br>\n才能使用的能力。",
+      "vi": "Tuy nhiên, điều này dường như chỉ xảy ra khi quá trình biến đổi thành phù thủy của Coco đạt đến một mức độ nhất định khả năng sử dụng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco004",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco004|",
+      "ja": "今のあてぃしはあっちのあてぃしから<br>限定的な情報を得るくらいしかできんけど。",
+      "zh": "现在的我只能从那边的我那里<br>\n获得有限的信息。",
+      "vi": "Bây giờ Coco chỉ có thể từ cái Coco đằng kia Thông tin hạn chế có sẵn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro042",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro042|",
+      "ja": "魔女化した少女の魔法は強化される……。",
+      "zh": "魔女化的少女，其魔法会得到强化……",
+      "vi": "Một cô gái trở thành phù thủy sẽ được tăng cường phép thuật...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro043",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro043|",
+      "ja": "以前の君は、<br>べつの時間軸の【魔女化した沢渡ココ】の情報を<br>配信を通じて取得していた。",
+      "zh": "之前的你，<br>\n利用直播获取了<br>\n另一个时间轴上【魔女化的泽渡可可】的情报。",
+      "vi": "Bạn trước đây, Nhận được qua chương trình phát sóng trực tiếp Thông tin về [Witch-turn-Coco Sawatari] trên dòng thời gian khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro044",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro044|",
+      "ja": "ならば少なくとも今の君は、<br>それと同等以上の情報を得ることができるはずだ。",
+      "zh": "那么现在的你，<br>\n至少应该能获得同等或以上的情报才对。",
+      "vi": "Vậy bây giờ bạn, Ít nhất chúng ta có thể thu được thông tin tương đương hoặc tốt hơn thế.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco005",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco005|",
+      "ja": "【べつの世界のあてぃし】……？",
+      "zh": "【另一个世界的我】……？",
+      "vi": "[Coco ở thế giới khác]...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco006",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco006|",
+      "ja": "……わけわかんないけど、<br>でも一生こんな格好ってのもやだし――。",
+      "zh": "……虽然搞不太懂，<br>\n但我也不想一辈子当窝囊废啦——",
+      "vi": "...Mặc dù Coco không hiểu lắm, Nhưng Coco không muốn trở thành kẻ thua cuộc trong suốt quãng đời còn lại——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco007",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco007|",
+      "ja": "――やりゃあいいんでしょ、やりゃあ！",
+      "zh": "——试试看就好了吧，试试就试试！",
+      "vi": "--Cứ thử đi, thử đi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco008",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco008|",
+      "ja": "ほら、インカメで配信始――。",
+      "zh": "好，用前置镜头开始直——",
+      "vi": "Được rồi, hãy bắt đầu với camera trước——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco009",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco009|",
+      "ja": "――うっ……！<br>おええぇ……！！",
+      "zh": "——呜呕……！<br>\n呕欸欸欸……！！",
+      "vi": "--Ưư...! Ờ-huh-huh...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Meruru004",
+      "speaker_tag": "; > Meruru: |#0205Trial15_Meruru004|",
+      "ja": "だ、大丈夫ですかココさん……！？",
+      "zh": "没、没事吧，可可小姐……！？",
+      "vi": "Không, không sao đâu, cô Coco...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco010",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco010|",
+      "ja": "うぷ……！<br>ちょっ……待って……<br>そんなん頭の中にいっきに入りきらん……って……。",
+      "zh": "呜噗……！<br>\n等……等等……<br>\n那些玩意可没法一下子全塞进脑子里……啦……",
+      "vi": "Woohoo...! Đợi...đợi đã... Bạn không thể nhét tất cả những thứ đó vào đầu cùng một lúc được... la...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco011",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco011|",
+      "ja": "うぇっ……ぐぉぅ……！",
+      "zh": "呜呃……咕呕……！",
+      "vi": "Ờ... ugh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Meruru005",
+      "speaker_tag": "; > Meruru: |#0205Trial15_Meruru005|",
+      "ja": "ココさん！",
+      "zh": "可可小姐！",
+      "vi": "Cô Coco!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro045",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro045|",
+      "ja": "（……前にココが魔法を使ったのを見たときよりも、<br>　明らかに様子がおかしい）",
+      "zh": "（……跟之前我看见可可使用魔法时相比，<br>\n她现在的样子明显不对劲）",
+      "vi": "(...So với lần tôi thấy Coco sử dụng phép thuật trước đây, Rõ ràng có điều gì đó không ổn với ngoại hình hiện tại của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro046",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro046|",
+      "ja": "（【千里眼】の仕組みまではわからないが……<br>　おそらくココの肉体へかかる魔法の負荷が増えているんだ）",
+      "zh": "（虽然我不清楚【千里眼】的原理……<br>\n但恐怕是可可肉体需承受的魔法负担增加了）",
+      "vi": "(Mặc dù tôi không biết nguyên lý của [thần thông]... Nhưng tôi e rằng gánh nặng ma thuật mà cơ thể Cocoa phải gánh chịu đã tăng lên.)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro047",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro047|",
+      "ja": "（仮にパラレルワールドのように、<br>　何本も枝分かれした並行世界があるとすると……）",
+      "zh": "（假设真的存在<br>\n分支无数的平行世界……）",
+      "vi": "(Giả sử thực sự tồn tại Một thế giới song song với vô số nhánh...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro048",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro048|",
+      "ja": "（その分岐を増やした分、<br>　脳が処理しなければならない情報が増えるのは<br>　想像に難くない）",
+      "zh": "（那么很显然，<br>\n分支数量越多，<br>\n大脑必须处理的情报也会随之增长）",
+      "vi": "(Rõ ràng là Số lượng nhánh càng lớn, Lượng thông tin mà não phải xử lý cũng sẽ tăng lên.)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro049",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro049|",
+      "ja": "……ココ、無理をさせてすまない。<br>休んでいてくれ。",
+      "zh": "……可可，抱歉勉强你了。<br>\n你去休息吧。",
+      "vi": "...Coco, tôi xin lỗi vì đã ép buộc cậu. Bạn đi và nghỉ ngơi đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco012",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco012|",
+      "ja": "……ははっ、はははは……。",
+      "zh": "……哈哈，哈哈哈哈……",
+      "vi": "...Haha, hahaha...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco013",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco013|",
+      "ja": "……はぁ？<br>こんなん……なんでもねーし。",
+      "zh": "……哈啊？<br>\n这种程度……根本不算什么。",
+      "vi": "...Hả? Cấp độ này... chẳng là gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco014",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco014|",
+      "ja": "だから……<br>あてぃしだけ仲間外れにすんなよなっ！",
+      "zh": "我都说了……<br>\n别光把人家排除在外啊！",
+      "vi": "Coco đã nói hết rồi... Đừng chỉ loại trừ mọi người!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro050",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro050|",
+      "ja": "……ココ。",
+      "zh": "……可可。",
+      "vi": "……Coco。",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco015",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco015|",
+      "ja": "……たしかにヒロっちの言う通り、<br>ここはやべーとこみたい……。",
+      "zh": "……确实像希罗亲说的那样，<br>\n这里好像是个鬼地方……",
+      "vi": "…Đúng như những gì Hiro đã nói, Hình như đây là nơi ma quái...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco016",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco016|",
+      "ja": "ここの空気が悪いのかなんか知らないけどさ。<br>そこのヒッキーなんて<br>別の世界じゃ殺す方も殺される方もやってんじゃん。",
+      "zh": "不知道是这里的气氛不好还是怎样。<br>\n那边的家里蹲<br>\n在别的世界里又是杀人又是被人杀的欸。",
+      "vi": "Coco không biết bầu không khí ở đây có tệ hay gì không. Đang ngồi xổm ở nhà đằng kia Ở những thế giới khác, người ta giết và bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn025",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn025|",
+      "ja": "………っ！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco017",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco017|",
+      "ja": "お前さ……！<br>ここにいたら、絶対すぐに死ぬ運命なんだよ……！",
+      "zh": "你啊……！<br>\n待在这里的话，绝对马上就会丢掉小命……！",
+      "vi": "Bạn...! Nếu còn ở lại đây, chắc chắn bạn sẽ mất mạng sớm thôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco018",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco018|",
+      "ja": "勝手に恨まれて殺されて、<br>勝手に恨んで殺して……！",
+      "zh": "随便被人怨恨然后被杀，<br>\n随便怨恨别人然后杀人……！",
+      "vi": "Bị người ngẫu nhiên phẫn nộ rồi bị giết, Hãy thoải mái oán giận người khác và sau đó giết ai đó...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco019",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco019|",
+      "ja": "あてぃしはたった今それを見てきた！",
+      "zh": "我刚刚可是全都看见了！",
+      "vi": "Coco vừa nhìn thấy tất cả!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco020",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco020|",
+      "ja": "ヒロっちの証人にでもなんでも……<br>なってやんよ！",
+      "zh": "不管是希罗亲的证人也好还是什么都好……<br>\n我来当就是！",
+      "vi": "Không thành vấn đề nếu đó là nhân chứng cho cuộc hôn nhân của Anh hùng hay bất cứ điều gì khác... Coco sẽ làm điều đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn026",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn026|",
+      "ja": "うぐっ……！",
+      "zh": "呜呜……！",
+      "vi": "Woohoo...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn027",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn027|",
+      "ja": "そんなの……<br>次は長生きするかもしれない……！",
+      "zh": "这……<br>\n说不定下次吾辈就能活得久一点……！",
+      "vi": "Cái này... Có lẽ lần sau chúng ta có thể sống lâu hơn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco021",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco021|",
+      "ja": "ムリムリ！ 絶対無理！",
+      "zh": "不行不行！绝对不行！",
+      "vi": "Không, không! Tuyệt đối không!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco022",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco022|",
+      "ja": "お前みたいな触ったら折れるメンヘラモヤシ地雷、<br>物理的にも精神的にも扱いきれねーわ！<br>ミリアのおっさんみたいな爆弾処理班でも無理だっての！",
+      "zh": "像你这种一碰就碎的郁娇豆芽菜地雷女，<br>\n不管是物理上还是精神上都搞不定啦！<br>\n像米莉亚大叔那种拆弹专家也都搞不定！",
+      "vi": "Một cô gái bom mìn mầm đậu Yujiao như bạn, chỉ cần chạm nhẹ một cái là vỡ thành từng mảnh, Coco không thể xử lý nó cả về thể chất lẫn tinh thần! Ngay cả những chuyên gia xử lý bom như chú Miria cũng không thể làm được!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn028",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn028|",
+      "ja": "ぐぅ……！？",
+      "zh": "呜……！？",
+      "vi": "Ôi...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Miria001",
+      "speaker_tag": "; > Miria: |#0205Trial15_Miria001|",
+      "ja": "お、おじさん爆弾とかべつに詳しくないけど……！",
+      "zh": "大、大叔我对炸弹什么的也不是很懂……！",
+      "vi": "Bác ơi, cháu không biết nhiều về bom hay những thứ tương tự...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco023",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco023|",
+      "ja": "比喩だっての！ わかれそんぐらい！",
+      "zh": "是比喻啦！能不能机灵一点！",
+      "vi": "Đó là một phép ẩn dụ! Bạn có thể thông minh hơn!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro051",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro051|",
+      "ja": "（……言葉の攻撃力が高い……）",
+      "zh": "（……她的嘴炮攻击力真高……）",
+      "vi": "(...Sức tấn công của khẩu pháo miệng của cô ấy thực sự rất cao...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn029",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn029|",
+      "ja": "う、うるさい……！<br>貴様にわがはいの何がわかる……！",
+      "zh": "吵、吵死了……！<br>\n你又懂吾辈的什么了……！",
+      "vi": "Ồn ào quá...! Bạn biết gì về thế hệ của chúng tôi nữa...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn030",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn030|",
+      "ja": "黙れ、黙れ……黙れ黙れ黙れ……！！",
+      "zh": "闭嘴、闭嘴……闭嘴闭嘴闭嘴……！！",
+      "vi": "Im đi, im đi...im đi, im đi, im đi...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn031",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn031|",
+      "ja": "わがはいの命令を……<color=#9c8eff><b>【聞け】</b></color>！",
+      "zh": "吾辈的命令……<color=#9c8eff><b>【听好了】</b></color>！",
+      "vi": "Đơn đặt hàng của tôi...<color=#9c8eff><b>[Nghe kỹ]</b></color>!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Coco024",
+      "speaker_tag": "; > Coco: |#0205Trial15_Coco024|",
+      "ja": "うっ……！？",
+      "zh": "呜……！？",
+      "vi": "Ôi...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro052",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro052|",
+      "ja": "マズい、彼女の魔法は【洗脳】……！<br>言葉による暗示だ！ みんな、耳を――！",
+      "zh": "糟糕，她的魔法是【洗脑】……！<br>\n是语言暗示！大家快把耳朵——！",
+      "vi": "Rất tiếc, phép thuật của cô ấy là [tẩy não]...! Đó là một gợi ý bằng lời nói! Mọi người hãy mở tai ra——!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn032",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn032|",
+      "ja": "<color=#9c8eff><b>【黙れ】</b></color>！",
+      "zh": "<color=#9c8eff><b>【闭嘴】</b></color>！",
+      "vi": "<color=#9c8eff><b>[Im đi]</b></color>!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro053",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro053|",
+      "ja": "ぐっ……！？",
+      "zh": "唔……！？",
+      "vi": "Ờ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro054",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro054|",
+      "ja": "（このままでは、議論が……！）",
+      "zh": "（这样下去，讨论会……！）",
+      "vi": "(Nếu việc này tiếp tục, cuộc thảo luận sẽ...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Unknown001",
+      "speaker_tag": "; > Unknown: |#0205Trial15_Unknown001|",
+      "ja": "黙らずとも良い。<br>言葉を発せよ皆の衆。<br>自由に話すがいい。",
+      "zh": "不必沉默。<br>\n诸位尽管发言。<br>\n畅所欲言便好。",
+      "vi": "Không cần phải im lặng. Hãy thoải mái nói chuyện. Cứ thoải mái nói chuyện.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro055",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro055|",
+      "ja": "……！<br>これは……。",
+      "zh": "……！<br>\n这是……",
+      "vi": "...! Đây là...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn033",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn033|",
+      "ja": "貴様っ……！",
+      "zh": "你这家伙……！",
+      "vi": "Anh bạn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Margo001",
+      "speaker_tag": "; > Margo: |#0205Trial15_Margo001|",
+      "ja": "他人の言葉に行動を支配される必要などない！<br>思うがままに議論せよっ！",
+      "zh": "没必要被他人的话语左右行动！<br>\n随心所欲地讨论吧！",
+      "vi": "Không cần thiết phải bị ảnh hưởng bởi lời nói của người khác! Thảo luận bất cứ điều gì em muốn!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn034",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn034|",
+      "ja": "宝生マーゴ……！",
+      "zh": "宝生玛格……！",
+      "vi": "Baoshengmag...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Hiro056",
+      "speaker_tag": "; > Hiro: |#0205Trial15_Hiro056|",
+      "ja": "【モノマネ】か……！",
+      "zh": "是【模仿】吗……！",
+      "vi": "Có phải [bắt chước]...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Margo002",
+      "speaker_tag": "; > Margo: |#0205Trial15_Margo002|",
+      "ja": "さすがに私の魔法で<br>アンアンちゃんの魔法までは再現できないと思うけど……。",
+      "zh": "我想，我的魔法<br>\n当然无法重现安安的魔法本身……",
+      "vi": "Chị nghĩ, phép thuật của Chị Tất nhiên, bản thân phép thuật của AnAn không thể tái tạo được…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Margo003",
+      "speaker_tag": "; > Margo: |#0205Trial15_Margo003|",
+      "ja": "でも、同じ【声】だものね。<br>暗示を【打ち消すこと】ぐらいはできるんじゃないかしら？",
+      "zh": "但毕竟是同样的【声音】嘛。<br>\n应该能够【抵消】暗示吧？",
+      "vi": "Nhưng rốt cuộc thì đó cũng là [giọng nói] đó. Nó có thể [bù đắp] gợi ý, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Margo004",
+      "speaker_tag": "; > Margo: |#0205Trial15_Margo004|",
+      "ja": "悪いけど私、<br>暗示とか催眠とか洗脳とか心理学とか……。",
+      "zh": "抱歉啦，<br>\n什么暗示啦催眠啦洗脑啦心理学啦……",
+      "vi": "Xin lỗi, Còn chuyện gợi ý, thôi miên, tẩy não, tâm lý học...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Margo005",
+      "speaker_tag": "; > Margo: |#0205Trial15_Margo005|",
+      "ja": "そういうこと、ちょっとだけ詳しいの♡",
+      "zh": "我对那些东西，稍微有些了解哦♡",
+      "vi": "Mình biết một chút về những điều đó♡",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Margo006",
+      "speaker_tag": "; > Margo: |#0205Trial15_Margo006|",
+      "ja": "……どうしたの？<br>アンアンちゃん。議論を続けたら？<br>それとも……。",
+      "zh": "……怎么了？<br>\n安安。我们继续讨论吧？<br>\n还是说……",
+      "vi": "...có chuyện gì thế? An'an. Chúng ta hãy tiếp tục thảo luận nhé? Hay Chị nên nói...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_Margo007",
+      "speaker_tag": "; > Margo: |#0205Trial15_Margo007|",
+      "ja": "魔法がなかったら、<br>他の人とお喋りすることもできないのかしら？",
+      "zh": "如果没有魔法，<br>\n就连和别人说话都做不到吗？",
+      "vi": "Không có phép thuật, Bạn thậm chí không thể nói chuyện với người khác?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn035",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn035|",
+      "ja": "くっ……！<br>……貴様らの事情など<br>わがはいには関係ない……！",
+      "zh": "唔……！<br>\n……你们的所谓处境，<br>\n和吾辈无关……！",
+      "vi": "Ờ...! ...cái gọi là tình huống của bạn, Chuyện đó không liên quan gì đến tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial15_AnAn036",
+      "speaker_tag": "; > AnAn: |#0205Trial15_AnAn036|",
+      "ja": "わがはいを……<color=#9c8eff><b>【巻き込むな】</b></color>！！",
+      "zh": "……<color=#9c8eff><b>【不许牵扯】</b></color>吾辈进来！！",
+      "vi": "...<color=#9c8eff><b> 【Không liên quan】</b></color>Để tôi vào! !",
+      "objection_links": []
+    }
+  ]
+}

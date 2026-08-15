@@ -1,0 +1,759 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter02_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter02_Trial05",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter02/Act01_Chapter02_Trial05' Naninovel scenario script",
+  "total_entries": 93,
+  "entries": [
+    {
+      "id": "0102Trial05_Nanoka001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_Nanoka001|",
+      "ja": "もう一度<br>お互いの言い分を<br>確認することに<br>しましょうか。",
+      "zh": "我们再<br>\n核对一遍<br>\n彼此的<br>\n证词吧。",
+      "vi": "Hãy lần nữa Kiểm tra lại của nhau Lời khai.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Nanoka002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_Nanoka002|",
+      "ja": "私は<br>【遠野ハンナと<br>夏目アンアンが<br>出ていくのを見て】、<br>懲罰房へ向かった。",
+      "zh": "我是<br>\n【看到远野汉娜<br>\n和夏目安安<br>\n离开以后】，<br>\n去了惩罚室。",
+      "vi": "Tôi là 【Gặp Hanna Tono Với Natsme AnAn Sau khi rời đi], Đi đến Phòng Kỷ Luật Biệt Giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Nanoka003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_Nanoka003|",
+      "ja": "そうしたら<br>中では佐伯ミリアが<br>【死んでいた】。",
+      "zh": "然后就看见<br>\n房间里的佐伯米莉亚<br>\n【死了】。",
+      "vi": "Sau đó tôi nhìn thấy Miria Saeki trong phòng [Chết].",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Nanoka004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_Nanoka004|",
+      "ja": "扉の鍵は開いていて、<br>鍵は部屋の中に<br>落ちていたわ。",
+      "zh": "门没有上锁，<br>\n钥匙丢在<br>\n房间里。",
+      "vi": "Cửa không khóa, Chìa khóa bị mất lúc trong phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Hanna001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Hanna001|",
+      "ja": "そ、そんなの<br>嘘ですわ！？<br>だって……！",
+      "zh": "那、<br>\n那不可能呀！？<br>\n因为……！",
+      "vi": "Sau đó, Điều đó là không thể! ? Bởi vì...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Hanna002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Hanna002|",
+      "ja": "わたくしと<br>アンアンさんは、<br>２人でミリアさんの声を<br>聞きましたもの！",
+      "zh": "我和安安<br>\n两个人都听到了<br>\n米莉亚的声音！<br>",
+      "vi": "AnAn và Bổn tiểu thư Cả hai ngươi đều nghe thấy Giọng nói của Miria!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Hanna003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Hanna003|",
+      "ja": "あの時、<br>ミリアさんは<br>【生きていた】んですの！",
+      "zh": "那时候，<br>\n米莉亚还<br>\n【活着】呢！",
+      "vi": "Vào lúc đó, Miria cũng [Còn sống]!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_AnAn001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_AnAn001|",
+      "ja": "『異論はない』",
+      "zh": "『没有异议』",
+      "vi": "\"Không phản đối\"",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Meruru001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Meruru001|",
+      "ja": "けれど<br>懲罰房の前の廊下は<br>一本道です……。<br>もしナノカさんの<br>言ってる事が<br>本当なら……。",
+      "zh": "可是<br>\n惩罚室前面<br>\n只有走廊这一条路，<br>\n如果<br>\n奈叶香小姐<br>\n说的是真的……",
+      "vi": "Nhưng Trước Phòng Kỷ Luật Biệt Giam Cách duy nhất là hành lang, nếu Cô Nanoyaka Đó là sự thật...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Sherry001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_Sherry001|",
+      "ja": "ミリアさんは<br>悲鳴をあげてすぐに<br>殺された……。",
+      "zh": "那她就是<br>\n发出惨叫后<br>\n立即遇害了……",
+      "vi": "Vậy thì cô ấy là Sau khi hét lên Bị giết ngay lập tức...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Margo001|",
+      "ja": "むしろその悲鳴こそが<br>【断末魔】だったのかも<br>しれないわね？",
+      "zh": "那声惨叫<br>\n说不定就是<br>\n【临终前的惨叫】呢？",
+      "vi": "Tiếng hét đó Có lẽ đó là [Tiếng hét trước khi chết] ở đâu?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Nanoka005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_Nanoka005|",
+      "ja": "……だとしても<br>おかしいわ。<br>中には誰も<br>いなかったもの。",
+      "zh": "……就算是<br>\n也很奇怪，<br>\n因为房间里<br>\n没有人。",
+      "vi": "…ngay cả khi đó là Lạ lùng quá, Bởi vì trong phòng Không có ai.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Alisa001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Alisa001|",
+      "ja": "ならやっぱり<br>お前が嘘ついてんじゃ<br>ねーのか……！？",
+      "zh": "那说到底<br>\n还是你在<br>\n说谎吧……！？",
+      "vi": "Vì vậy, trong phân tích cuối cùng Hay mày đang ở Nói dối thôi...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Nanoka006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_Nanoka006|",
+      "ja": "……私としては<br>その意見を<br>否定するしかないわね。",
+      "zh": "……从我个人的<br>\n角度出发，<br>\n只能否定你的判断。",
+      "vi": "…từ cá nhân của tôi Bắt đầu từ góc, Tôi chỉ có thể phủ nhận sự phán xét của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Sherry002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Sherry002|",
+      "ja": "なら、<br>犯人はまだ部屋に<br>隠れていたんじゃ<br>ないんですか？",
+      "zh": "那，<br>\n凶手会不会<br>\n还藏在房间里？<br>",
+      "vi": "Sau đó, Liệu kẻ sát nhân Còn trốn trong phòng à?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Sherry003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Sherry003|",
+      "ja": "<link=\"Objection_01_02_05_01\">廊下</link>とか、<br><link=\"Objection_01_02_05_02\">部屋の中</link>とか！<br><link=\"Objection_01_02_05_03\">秘密の抜け道</link>とか<br>あったりして！",
+      "zh": "可能在<link=\"Objection_01_02_05_01\">走廊</link>，<br>\n可能在<link=\"Objection_01_02_05_02\">房间里</link>！<br>\n说不定还有<br>\n<link=\"Objection_01_02_05_03\">秘密通道</link>呢！",
+      "vi": "Có thể ở <link=\"Objection_01_02_05_01\"> hành lang </link>, Có lẽ ở <link=\"Objection_01_02_05_02\"> phòng </link>! Có lẽ có <link=\"Objection_01_02_05_03\">Lối đi bí mật </link> ở đó!",
+      "objection_links": [
+        "Objection_01_02_05_01",
+        "Objection_01_02_05_02",
+        "Objection_01_02_05_03"
+      ]
+    },
+    {
+      "id": "0102Trial05_Nanoka007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_Nanoka007|",
+      "ja": "仮にそうだったとしても、<br>犯人はタイミングよく<br>隠れた事になるわね。",
+      "zh": "就算真是这样，<br>\n凶手藏身的时机<br>\n未免把握得太好了。",
+      "vi": "Ngay cả trong trường hợp này, Thời điểm kẻ sát nhân lẩn trốn Đó là một nắm bắt quá tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Nanoka008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_Nanoka008|",
+      "ja": "……何かを<br>私たちが勘違いしている<br>可能性もあると思うわ。",
+      "zh": "……我觉得<br>\n我们可能<br>\n误会了什么。",
+      "vi": "…Tôi nghĩ Chúng tôi có thể Hiểu lầm điều gì đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Sherry004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Sherry004|",
+      "ja": "そうですね～……。",
+      "zh": "是啊～……",
+      "vi": "Vâng~……",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Sherry005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Sherry005|",
+      "ja": "実は<link=\"Objection_01_02_05_04\">勘違い</link>だったとか、<br>それとも<br>３人のうちの誰かが<br><link=\"Objection_01_02_05_05\">嘘をついている</link><br>とか……。",
+      "zh": "要么是<link=\"Objection_01_02_05_04\">误会</link>，<br>\n要么是<br>\n三个人当中<br>\n有人在<link=\"Objection_01_02_05_05\">说谎</link>……<br>",
+      "vi": "Hoặc <link=\"Objection_01_02_05_04\"> hiểu nhầm </link>, Hoặc trong số ba người Ai đó đang nói dối<link=\"Objection_01_02_05_05\"></link>…",
+      "objection_links": [
+        "Objection_01_02_05_04",
+        "Objection_01_02_05_05"
+      ]
+    },
+    {
+      "id": "0102Trial05_Sherry006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial05_Sherry006|",
+      "ja": "いろんな可能性が<br>考えられて<br>ワクワクしますね！",
+      "zh": "有好多的<br>\n可能性，<br>\n真是让人激动！",
+      "vi": "Có rất nhiều Có thể, Thật thú vị làm sao!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial05_Margo002|",
+      "ja": "あらあら、<br>考えすぎもよくない事よ。<br>……真相なんて、<br>案外シンプルだったり<br>するんだから。",
+      "zh": "哎呀呀，<br>\n想太多也不好哦。<br>\n……真相这种东西，<br>\n有时候其实<br>\n很简单。",
+      "vi": "Rất tiếc, Thật không tốt khi suy nghĩ quá nhiều. ...sự thật, Thực ra đôi khi Rất đơn giản.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema001",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema001|",
+      "ja": "（いったいその時、何が起こってたんだろう……）",
+      "zh": "（那时究竟发生了什么事……）",
+      "vi": "(Chính xác thì chuyện gì đã xảy ra vậy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema002",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema002|",
+      "ja": "（みんなの声に耳を傾けてみよう……。<br>　検証するんだ……可能性の１つ１つを！）",
+      "zh": "（我要仔细倾听大家的发言……<br>\n去检验每一种可能性……！）",
+      "vi": "(Tôi muốn lắng nghe cẩn thận những gì mọi người nói... Hãy đi kiểm tra mọi khả năng...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Choice001",
+      "speaker_tag": "; > @choice |#0102Trial05_Choice001| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "犯人は廊下にいた",
+      "zh": "凶手在走廊上",
+      "vi": "Kẻ sát nhân đang ở hành lang",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Choice002",
+      "speaker_tag": "; > @choice |#0102Trial05_Choice002| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "犯人は懲罰房にいた",
+      "zh": "凶手在惩罚室里",
+      "vi": "Kẻ giết người đang ở trong Phòng Kỷ Luật Biệt Giam",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Choice003",
+      "speaker_tag": "; > @choice |#0102Trial05_Choice003| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "犯人は抜け道を使った",
+      "zh": "凶手从秘密通道逃走了",
+      "vi": "Kẻ sát nhân trốn thoát bằng lối đi bí mật",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Choice004",
+      "speaker_tag": "; > @choice |#0102Trial05_Choice004| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "２人の勘違い",
+      "zh": "是她们两个误会了",
+      "vi": "Chính là hai người họ đã hiểu lầm.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Choice005",
+      "speaker_tag": "; > @choice |#0102Trial05_Choice005| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "２人が嘘をついている",
+      "zh": "是她们两个都在说谎",
+      "vi": "Đó là cả hai người đang nói dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Choice006",
+      "speaker_tag": "; > @choice |#0102Trial05_Choice006| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "ナノカが嘘をついている",
+      "zh": "是奈叶香在说谎",
+      "vi": "Nanoyaka đang nói dối",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema003",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema003|",
+      "ja": "ナノカちゃんがミリアちゃんを見つけた時<br>犯人がまだ懲罰房にいた可能性はないかな？",
+      "zh": "奈叶香，你发现米莉亚的时候<br>\n凶手有可能还留在惩罚室里吗？",
+      "vi": "Nanoyaka, khi bạn tìm thấy Miria Chẳng lẽ hung thủ vẫn còn ở trong Phòng Kỷ Luật Biệt Giam?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Nanoka009",
+      "speaker_tag": "; > Nanoka: |#0102Trial05_Nanoka009|",
+      "ja": "……ありえない、<br>とは言い切れないわね。",
+      "zh": "……我也没法一口咬定<br>\n说不可能。",
+      "vi": "…Tôi không thể nói chắc chắn Nói rằng điều đó là không thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Nanoka010",
+      "speaker_tag": "; > Nanoka: |#0102Trial05_Nanoka010|",
+      "ja": "あの時……死体を見た自分が、<br>完全に冷静だったとは言い難いし……<br>視野が狭まっていた可能性もあるわ。",
+      "zh": "那时候……我目击了尸体，<br>\n很难说没有一丝慌乱……<br>\n有可能没顾上看其他地方。",
+      "vi": "Lúc đó... tôi đã chứng kiến thi thể, Khó có thể nói là không có dấu hiệu hoảng loạn... Có lẽ tôi đã không nhìn đi chỗ khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Coco001",
+      "speaker_tag": "; > Coco: |#0102Trial05_Coco001|",
+      "ja": "でも、ナノカは死体を確認した後、<br>【懲罰房の鍵を閉めて】出て行ったんっしょ？",
+      "zh": "但你在检查完尸体以后，<br>\n【锁上惩罚室的门】就走了，不是吗？",
+      "vi": "Nhưng sau khi bạn khám nghiệm thi thể, [Khóa cửa Phòng Kỷ Luật Biệt Giam] và rời đi, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Coco002",
+      "speaker_tag": "; > Coco: |#0102Trial05_Coco002|",
+      "ja": "そうなると……<br>犯人は閉じ込められているはずじゃね？",
+      "zh": "这么一来……<br>\n凶手不就被关在里面了吗？",
+      "vi": "Vậy... Không phải hung thủ đang bị nhốt bên trong sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Hanna004",
+      "speaker_tag": "; > Hanna: |#0102Trial05_Hanna004|",
+      "ja": "……ですが、わたくしたちが懲罰房についた時には<br>犯人の姿はなかったですわ……？",
+      "zh": "……可是，我们到惩罚室的时候<br>\n并没有看见凶手啊……？",
+      "vi": "...Nhưng khi chúng Bổn tiểu thư đến Phòng Kỷ Luật Biệt Giam Bạn không nhìn thấy kẻ sát nhân...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo003",
+      "speaker_tag": "; > Margo: |#0102Trial05_Margo003|",
+      "ja": "懲罰房の闇に紛れ、みんなの視野に入らず、<br>脱出できる犯人……。",
+      "zh": "能躲在惩罚室的暗处，<br>\n并且在众目睽睽之下逃脱的凶手……",
+      "vi": "Có thể trốn trong bóng tối của Phòng Kỷ Luật Biệt Giam, Và kẻ sát nhân đã trốn thoát trước sự chứng kiến của công chúng...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo004",
+      "speaker_tag": "; > Margo: |#0102Trial05_Margo004|",
+      "ja": "犯人は忍者かカメレオンだったりするのかしらね？",
+      "zh": "难道凶手是忍者，或者是变色龙？",
+      "vi": "Kẻ sát nhân có thể là ninja hay tắc kè hoa?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Alisa002",
+      "speaker_tag": "; > Alisa: |#0102Trial05_Alisa002|",
+      "ja": "何言ってんだ桜羽。<br>んなわけねえだろ。",
+      "zh": "你在说什么樱羽。<br>\n这怎么可能啊。",
+      "vi": "Cậu đang nói gì vậy Sakuraba? Làm thế nào điều này có thể xảy ra?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema004",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema004|",
+      "ja": "（ボクが怒られるの……！？）",
+      "zh": "（我被骂了……！？）",
+      "vi": "(Mình bị mắng...!?)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema005",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema005|",
+      "ja": "（みんなの言い分を真実と考えると、<br>　やっぱり矛盾が生まれちゃうみたいだ……）",
+      "zh": "（如果大家的证词都是真的，<br>\n好像就必定会产生矛盾之处……）",
+      "vi": "(Nếu lời chứng của mọi người là đúng, Có vẻ như chắc chắn sẽ có mâu thuẫn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema006",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema006|",
+      "ja": "（もう一度みんなの言葉を検証してみよう……！）",
+      "zh": "（再检验一遍大家的发言吧……！）",
+      "vi": "(Hãy kiểm tra lại lời nói của mọi người nào...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema007",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema007|",
+      "ja": "（誰かが嘘を言ってるのかな……？<br>　それとも――）",
+      "zh": "（是有人在说谎吗……？<br>\n还是说——）",
+      "vi": "(Có ai đó đang nói dối...? Hay tôi nên nói——)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema008",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema008|",
+      "ja": "シェリーちゃんが言うように、<br>犯人は廊下に隠れていたのかも……！",
+      "zh": "也许正如雪莉所说的那样，<br>\n凶手躲在走廊里……！",
+      "vi": "Có lẽ như Sherry đã nói, Kẻ sát nhân đang trốn ở hành lang...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Hanna005",
+      "speaker_tag": "; > Hanna: |#0102Trial05_Hanna005|",
+      "ja": "わ、わたくしたちが帰って、<br>ナノカさんが懲罰房につく間に……？",
+      "zh": "就、就从我们回去<br>\n到奈叶香抵达惩罚室的这短短时间里……？",
+      "vi": "Chỉ cần quay lại từ chúng Bổn tiểu thư Trong thời gian ngắn nữa Nanoyaka sẽ đến Phòng Kỷ Luật Biệt Giam...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo005",
+      "speaker_tag": "; > Margo: |#0102Trial05_Margo005|",
+      "ja": "犯人は、その１分足らずで<br>懲罰房から出て、廊下のどこかに隠れた……？",
+      "zh": "凶手在这不足一分钟的时间里<br>\n离开惩罚室躲到了走廊里……？",
+      "vi": "Chưa đầy một phút, kẻ sát nhân Rời khỏi Phòng Kỷ Luật Biệt Giam và trốn ở hành lang...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo006",
+      "speaker_tag": "; > Margo: |#0102Trial05_Margo006|",
+      "ja": "廊下に隠れる場所なんてないわ。",
+      "zh": "但走廊里没有藏身之处。",
+      "vi": "Nhưng không có nơi ẩn náu trong hành lang.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo007",
+      "speaker_tag": "; > Margo: |#0102Trial05_Margo007|",
+      "ja": "他の懲罰房も鍵がかかっているし、<br>やり過ごすなんてできないんじゃないかしら？",
+      "zh": "其他惩罚室都上了锁，<br>\n凶手也不可能暂时躲在其他房间里吧？",
+      "vi": "Các Phòng Kỷ Luật Biệt Giam khác đã bị khóa, Kẻ sát nhân không thể tạm thời trốn ở phòng khác được phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Coco003",
+      "speaker_tag": "; > Coco: |#0102Trial05_Coco003|",
+      "ja": "さすがにあてぃしらの目は節穴じゃねーっての！<br>エマっちと違って！",
+      "zh": "我们的眼睛可不是白长的啊！<br>\n和艾玛亲你不一样！",
+      "vi": "Đôi mắt của chúng ta không phải là vô ích! Nó khác với việc Ema hôn bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema009",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema009|",
+      "ja": "（怒らせちゃった……！）",
+      "zh": "（惹她生气了……！）",
+      "vi": "(Nó làm cô ấy tức giận...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema010",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema010|",
+      "ja": "（みんなの言い分を真実と考えると、<br>　やっぱり矛盾が生まれちゃうみたいだ……）",
+      "zh": "（如果大家的证词都是真的，<br>\n好像就必定会产生矛盾之处……）",
+      "vi": "(Nếu lời chứng của mọi người là đúng, Có vẻ như chắc chắn sẽ có mâu thuẫn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema011",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema011|",
+      "ja": "（もう一度みんなの言葉を検証してみよう……！）",
+      "zh": "（再检验一遍大家的发言吧……！）",
+      "vi": "(Hãy kiểm tra lại lời nói của mọi người nào...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema012",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema012|",
+      "ja": "（誰かが嘘を言ってるのかな……？<br>　それとも――）",
+      "zh": "（是有人在说谎吗……？<br>\n还是说——）",
+      "vi": "(Có ai đó đang nói dối...? Hay tôi nên nói——)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema013",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema013|",
+      "ja": "そっか……！<br>きっと懲罰房には秘密の抜け道があって――。",
+      "zh": "对哦……！<br>\n惩罚室里肯定有秘密通道——",
+      "vi": "Vâng...! Chắc chắn phải có một lối đi bí mật trong Phòng Kỷ Luật Biệt Giam——",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Coco004",
+      "speaker_tag": "; > Coco: |#0102Trial05_Coco004|",
+      "ja": "拷問する部屋に抜け道作る必要ある？",
+      "zh": "有必要在用来拷问的房间里造秘密通道吗？",
+      "vi": "Có cần thiết phải tạo một lối đi bí mật trong phòng tra tấn không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Alisa003",
+      "speaker_tag": "; > Alisa: |#0102Trial05_Alisa003|",
+      "ja": "むしろ作っちゃダメだろ。<br>脱出されたら困るし。",
+      "zh": "应该说根本不能造吧。<br>\n要是把人放跑就麻烦了。",
+      "vi": "Phải nói là không thể làm được điều đó chút nào. Sẽ thật rắc rối nếu chúng ta để mọi người chạy trốn.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo008",
+      "speaker_tag": "; > Margo: |#0102Trial05_Margo008|",
+      "ja": "閉鎖的な空間だからこそイイのよねえ♡",
+      "zh": "就是封闭空间才好呢♡",
+      "vi": "Sẽ tốt hơn nếu có một không gian khép kín♡",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Alisa004",
+      "speaker_tag": "; > Alisa: |#0102Trial05_Alisa004|",
+      "ja": "意味わかんねーよ。",
+      "zh": "搞不懂你在说什么。",
+      "vi": "Tao không hiểu mày đang nói về điều gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Sherry007",
+      "speaker_tag": "; > Sherry: |#0102Trial05_Sherry007|",
+      "ja": "やっぱりそれは違うみたいですね！<br>エマさん！",
+      "zh": "这个好像不太对呀！<br>\n艾玛！",
+      "vi": "Điều này có vẻ không đúng! Ema!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema014",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema014|",
+      "ja": "（シェリーちゃんが言ったことなのに……！？）",
+      "zh": "（不是你自己提出来的吗……！？）",
+      "vi": "(Không phải cậu tự nghĩ ra à...!?)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema015",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema015|",
+      "ja": "（……現場に抜け道は見当たらなかった。<br>　他の可能性を考えるべきかも……）",
+      "zh": "（……现场没有发现秘密通道。<br>\n也许该考虑下其他的可能性……）",
+      "vi": "(…Không tìm thấy lối đi bí mật nào tại hiện trường. Có lẽ chúng ta nên xem xét những khả năng khác...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema016",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema016|",
+      "ja": "（もう一度みんなの言葉を検証してみよう……！）",
+      "zh": "（再检验一遍大家的发言吧……！）",
+      "vi": "(Hãy kiểm tra lại lời nói của mọi người nào...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema017",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema017|",
+      "ja": "（誰かが嘘を言ってるのかな……？<br>　それとも――）",
+      "zh": "（是有人在说谎吗……？<br>\n还是说——）",
+      "vi": "(Có ai đó đang nói dối...? Hay tôi nên nói——)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema018",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema018|",
+      "ja": "ハンナちゃんとナノカちゃん、<br>２人とも嘘をついてる……とか？",
+      "zh": "汉娜和奈叶香，<br>\n也许……你们都在说谎？",
+      "vi": "Hanna và Nanoyaka, Có lẽ... tất cả các bạn đang nói dối?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Hanna006",
+      "speaker_tag": "; > Hanna: |#0102Trial05_Hanna006|",
+      "ja": "わ、わたくしがどんな嘘をついてるっていうんですの！？！",
+      "zh": "那、那你倒说说看我说了什么谎！？！",
+      "vi": "Vậy hãy nói cho Bổn tiểu thư biết Bổn tiểu thư đã nói dối điều gì với bạn! ? !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema019",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema019|",
+      "ja": "それは……全部嘘だったらナノカちゃんの言葉と<br>矛盾しないんじゃないかな……？",
+      "zh": "这个嘛……如果你说的都是谎话，<br>\n就不会和奈叶香的话有矛盾了吧……？",
+      "vi": "Chà...nếu mọi điều bạn nói đều là dối trá, Chẳng phải nó sẽ mâu thuẫn với lời của Nanoyaka sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo009",
+      "speaker_tag": "; > Margo: |#0102Trial05_Margo009|",
+      "ja": "その場合、ハンナちゃんとアンアンちゃんが共犯になるわね。",
+      "zh": "如果是这样，汉娜和安安就成了共犯呢。",
+      "vi": "Nếu vậy thì Hanna và AnAn đã trở thành đồng phạm.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_AnAn002",
+      "speaker_tag": "; > AnAn: |#0102Trial05_AnAn002|",
+      "ja": "『証拠もないのに共犯扱いとは』",
+      "zh": "『竟敢没有证据就污蔑别人是共犯』",
+      "vi": "“Sao dám vu khống người khác là đồng phạm mà không có bằng chứng”",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_AnAn003",
+      "speaker_tag": "; > AnAn: |#0102Trial05_AnAn003|",
+      "ja": "『万死に値する』",
+      "zh": "『罪该万死』",
+      "vi": "“Tội đáng chết”",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Meruru002",
+      "speaker_tag": "; > Meruru: |#0102Trial05_Meruru002|",
+      "ja": "エ、エマさん……！<br>それは言いがかりと呼ばれるものかもしれません……！",
+      "zh": "艾、艾玛小姐……！<br>\n你这样做可能有点无理取闹……！",
+      "vi": "A-Ema...! Có thể bạn hơi vô lý khi làm điều này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema020",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema020|",
+      "ja": "（メルルちゃんにまでたしなめられちゃった……）",
+      "zh": "（连梅露露都来责备我了……）",
+      "vi": "(Ngay cả Meruru cũng đổ lỗi cho mình...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema021",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema021|",
+      "ja": "（……２人の共犯を裏付けられるような材料はないのかも……）",
+      "zh": "（……我好像没有能证明她们是共犯的材料……）",
+      "vi": "(…Tôi dường như không có tài liệu nào để chứng minh họ là đồng phạm…)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema022",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema022|",
+      "ja": "（他の可能性を検証してみよう……！）",
+      "zh": "（检验一下其他的可能性吧……！）",
+      "vi": "(Thử nghiệm các khả năng khác...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema023",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema023|",
+      "ja": "……ナノカちゃんが嘘をついてるんじゃないかな？<br>ナノカちゃんが嘘を言ってるとしたら全部説明がつくよ！",
+      "zh": "……是奈叶香你在说谎吧？<br>\n如果是这样那一切都能说得通了！",
+      "vi": "...Là Nanoyaka, cậu đang nói dối à? Nếu vậy thì tất cả đều có ý nghĩa!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Nanoka011",
+      "speaker_tag": "; > Nanoka: |#0102Trial05_Nanoka011|",
+      "ja": "……そうね。",
+      "zh": "……是啊。",
+      "vi": "...Phải.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Nanoka012",
+      "speaker_tag": "; > Nanoka: |#0102Trial05_Nanoka012|",
+      "ja": "でも、だとしたらどうして私は自分から<br>懲罰房の鍵なんて提出したのかしら？",
+      "zh": "但如果是这样，为什么我要主动出示<br>\n惩罚室的钥匙？",
+      "vi": "Nhưng nếu đúng như vậy thì tại sao tôi lại phải chủ động thể hiện Chìa khóa Phòng Kỷ Luật Biệt Giam?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Nanoka013",
+      "speaker_tag": "; > Nanoka: |#0102Trial05_Nanoka013|",
+      "ja": "自分からわざわざ死体現場にいたのだと<br>証言する必要はないでしょう。",
+      "zh": "按理说我没有必要主动提出<br>\n自己在案发现场的证词吧。",
+      "vi": "Nói một cách hợp lý, tôi không cần phải đưa ra Lời khai của chính tôi tại hiện trường vụ án.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo010",
+      "speaker_tag": "; > Margo: |#0102Trial05_Margo010|",
+      "ja": "たしかに一理あると思うわ。<br>嘘と決めつけるのは早計かもね？",
+      "zh": "她说得倒也在理。<br>\n现在就断定她在说谎未免太早吧？",
+      "vi": "Những gì cô ấy nói có lý. Có quá sớm để kết luận rằng cô ấy đang nói dối?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema024",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema024|",
+      "ja": "（ナノカちゃんが嘘をついているとしたら<br>　たしかに筋は通るけど……）",
+      "zh": "（要是奈叶香在说谎的话<br>\n的确就能说得通了，但是……）",
+      "vi": "(Nếu Nanoyaka nói dối Nó có ý nghĩa, nhưng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema025",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema025|",
+      "ja": "（他に考えられる可能性はないか……<br>　もう一度検討してみよう……！）",
+      "zh": "（会不会有其他可能性呢……<br>\n再探讨一下吧……！）",
+      "vi": "(Có khả năng nào khác không... Hãy thảo luận thêm về vấn đề này…! )",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema026",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema026|",
+      "ja": "……ボクもそう思うよ、シェリーちゃん。",
+      "zh": "……我也这么认为，雪莉。",
+      "vi": "…Tôi cũng nghĩ vậy, Sherry.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Sherry008",
+      "speaker_tag": "; > Sherry: |#0102Trial05_Sherry008|",
+      "ja": "え？ 何がですか？",
+      "zh": "欸？认为什么？",
+      "vi": "Hả? Bạn nghĩ gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema027",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema027|",
+      "ja": "３人の話が本当だとしたら……<br>【声を聞いた】という状況が<br>間違いだったんだと思う。",
+      "zh": "如果她们三人都说的是实话……<br>\n那就不可能出现<br>\n【听见叫声】的情况。",
+      "vi": "Nếu cả ba người họ đều nói sự thật... Vậy thì không có khả năng [Nghe tiếng kêu] tình hình.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Hanna007",
+      "speaker_tag": "; > Hanna: |#0102Trial05_Hanna007|",
+      "ja": "そ、そんなことありませんわ！？<br>だってわたくしたち、聞きましたもの！",
+      "zh": "怎、怎么不可能！？<br>\n我们可是听得一清二楚！",
+      "vi": "Làm sao, làm sao có thể! ? Chúng Bổn tiểu thư đã nghe rõ ràng!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Hanna008",
+      "speaker_tag": "; > Hanna: |#0102Trial05_Hanna008|",
+      "ja": "ここに録音したデータだってありますわ！",
+      "zh": "录音文件都在这里！",
+      "vi": "Các tập tin ghi âm đều ở đây!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema028",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema028|",
+      "ja": "それは……。",
+      "zh": "这是……",
+      "vi": "Đây là...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Sherry009",
+      "speaker_tag": "; > Sherry: |#0102Trial05_Sherry009|",
+      "ja": "なるほど！<br>わかりましたよエマさん！",
+      "zh": "原来如此！<br>\n我明白了艾玛！",
+      "vi": "Thế thôi! Tôi hiểu rồi Ema!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Ema029",
+      "speaker_tag": "; > Ema: |#0102Trial05_Ema029|",
+      "ja": "……え？",
+      "zh": "……欸？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Sherry010",
+      "speaker_tag": "; > Sherry: |#0102Trial05_Sherry010|",
+      "ja": "犯人は……<br>宝生マーゴさん、<br>あなただったんです！！",
+      "zh": "凶手是……<br>\n宝生玛格，<br>\n就是你！！",
+      "vi": "Kẻ sát nhân là... Baoshengmag, Đó là bạn! !",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo011",
+      "speaker_tag": "; > Margo: |#0102Trial05_Margo011|",
+      "ja": "……あら？ 私が犯人なの？",
+      "zh": "……哦？我是凶手？",
+      "vi": "...Ồ? Chị có phải là kẻ giết người không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Margo012",
+      "speaker_tag": "; > Margo: |#0102Trial05_Margo012|",
+      "ja": "どういう推理なのかしら？<br>ぜひ聞かせて欲しいわ♪",
+      "zh": "你是如何推理出来的？<br>\n请说来听听♪",
+      "vi": "Bạn lý giải điều đó như thế nào? Hãy nói cho Chị biết và lắng nghe♪",
+      "objection_links": []
+    },
+    {
+      "id": "0102Trial05_Sherry011",
+      "speaker_tag": "; > Sherry: |#0102Trial05_Sherry011|",
+      "ja": "ええ！ もちろん！",
+      "zh": "当然！没问题！",
+      "vi": "Tất nhiên! Không vấn đề!",
+      "objection_links": []
+    }
+  ]
+}

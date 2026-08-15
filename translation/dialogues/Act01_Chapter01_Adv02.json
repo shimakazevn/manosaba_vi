@@ -1,0 +1,640 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter01_Adv02",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter01/Act01_Chapter01_Adv02' Naninovel scenario script",
+  "total_entries": 79,
+  "entries": [
+    {
+      "id": "0101Adv02_Ema001",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema001|",
+      "ja": "――ちがう！",
+      "zh": "——不对！",
+      "vi": "――Không phải!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative001",
+      "speaker_tag": "",
+      "ja": "桜羽エマは叫び、起き上がった。",
+      "zh": "樱羽艾玛大喊着，爬起身来。",
+      "vi": "Sakuraba Ema hét lên rồi bật dậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative002",
+      "speaker_tag": "",
+      "ja": "彼女の呼吸はひどく乱れ、全身はじっとりと汗ばんでいた。<br>悪夢を見たせいだろう。",
+      "zh": "大概是因为做了噩梦，她的呼吸相当紊乱，<br>\n而且满身都是汗水。",
+      "vi": "Hơi thở của cô vô cùng gấp gáp, toàn thân ướt đẫm mồ hôi lạnh. Có lẽ là do vừa trải qua một cơn ác mộng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative003",
+      "speaker_tag": "",
+      "ja": "夢だったのだと<ruby=\"あんど\">安堵</ruby>したのも<ruby=\"つか\">束</ruby>の<ruby=\"ま\">間</ruby>――<br>その眼がみるみる見開かれていく。",
+      "zh": "原来是做梦。她才刚安下心来——<br>\n眼前的光景就逐渐清晰了起来。",
+      "vi": "Vừa mới thở phào nhẹ nhõm vì nhận ra đó chỉ là giấc mơ―― Đôi mắt cô bỗng mở to trừng trừng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema002",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema002|",
+      "ja": "え、な、なに、ここ……？",
+      "zh": "咦，怎么回事，这里是……？",
+      "vi": "Hả, g-gì thế này, nơi này là...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative004",
+      "speaker_tag": "",
+      "ja": "エマが起き上がったのは、自分の部屋ではなかった。<br>粗悪な造りの、２段ベッドの下段にいる。",
+      "zh": "醒来的艾玛发现，这里不是她自己的房间。<br>\n这是张做工粗糙的双层床，她睡在了这里的下铺。",
+      "vi": "Nơi Ema vừa thức dậy không phải là căn phòng quen thuộc của mình. Cô đang nằm ở tầng dưới của một chiếc giường tầng thô sơ xập xệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative005",
+      "speaker_tag": "",
+      "ja": "古びた石壁が真横にあり、<br>それは見る者にぞくりとした冷たさを感じさせた。",
+      "zh": "床紧贴着老旧的石墙，<br>\n而石墙似乎透着一股寒气，总令人不禁为之一颤。",
+      "vi": "Ngay sát bên cạnh là bức tường đá cổ kính, toát ra một luồng khí lạnh lẽo khiến người ta không khỏi rùng mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative006",
+      "speaker_tag": "",
+      "ja": "室内は薄暗く、空気が<ruby=\"よど\">澱</ruby>んでいる。<br>そして――<ruby=\"てつごうし\">鉄格子</ruby>に閉ざされていた。",
+      "zh": "室内光线昏暗，空气也并不畅通。<br>\n并且——有一道铁栅栏限制了自由。",
+      "vi": "Căn phòng mờ tối, không khí ngột ngạt tù túng. Và phía trước――bị phong tỏa bởi những thanh song sắt Ngục Dinh Thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema003",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema003|",
+      "ja": "ろ、牢屋……！？ なんで！？",
+      "zh": "牢、牢房……！？为什么！？",
+      "vi": "N-Ngục Dinh Thự...!? Tại sao chứ!?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative007",
+      "speaker_tag": "",
+      "ja": "エマはパニックに<ruby=\"おちい\">陥</ruby>りながらも、<br>眠る前の記憶を懸命に<ruby=\"たぐ\">手繰</ruby>り寄せる。",
+      "zh": "艾玛陷入了恐慌，<br>\n拼命回想着睡前的记忆。",
+      "vi": "Ema rơi vào hoảng loạn tột độ, cố gắng lục tìm lại những ký ức trước khi thiếp đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema004",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema004|",
+      "ja": "（明日から高校生だって……<br>　ワクワクしながら眠ったはず）",
+      "zh": "（昨天是想到明天我就要上高中了……<br>\n很开心地睡着了才对）",
+      "vi": "（Hôm qua mình còn háo hức nghĩ về ngày mai sẽ chính thức trở thành học sinh cấp ba mà...）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative008",
+      "speaker_tag": "",
+      "ja": "春休みの最終日。",
+      "zh": "昨天是春假的最后一天。",
+      "vi": "Hôm qua là ngày cuối cùng của kỳ nghỉ xuân.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative009",
+      "speaker_tag": "",
+      "ja": "エマは入浴して、パジャマに着替えて、<br>早めにベッドに入った。",
+      "zh": "艾玛早早地洗了澡，换了睡衣，<br>\n早早地钻进了被窝里。",
+      "vi": "Ema đã đi tắm, thay đồ ngủ, rồi chui vào chăn ấm từ rất sớm.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema005",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema005|",
+      "ja": "（眠る前に覚えてるのは……壁にかけてあった<br>　ピカピカの高校の制服）",
+      "zh": "（记得睡觉前……我还看着挂在墙上的<br>\n全新的高中制服）",
+      "vi": "（Điều mình nhớ trước khi ngủ là... bộ đồng phục cấp ba mới tinh được treo ngay ngắn trên tường）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative010",
+      "speaker_tag": "",
+      "ja": "明日から<ruby=\"そで\">袖</ruby>を通すはずだったそれを眺め、<br>エマは至福の笑みを浮かべていた。",
+      "zh": "望着那件明天就要穿上的制服，<br>\n艾玛露出了十分幸福的笑容。",
+      "vi": "Ngắm nhìn bộ đồng phục mà ngày mai mình sẽ được khoác lên người, Ema đã nở một nụ cười ngập tràn hạnh phúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema006",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema006|",
+      "ja": "（いちからぜんぶやりなおすんだって、決めて……）",
+      "zh": "（还下了决心，一切要重新开始……）",
+      "vi": "（Mình đã hạ quyết tâm sẽ bắt đầu lại mọi thứ từ con số không...）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative011",
+      "speaker_tag": "",
+      "ja": "それからふかふかのシーツにくるまれ、目を閉じた。",
+      "zh": "然后在温暖的被窝包裹下，闭上了双眼。",
+      "vi": "Sau đó, cô vùi mình trong tấm chăn êm ái và nhắm mắt lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative012",
+      "speaker_tag": "",
+      "ja": "しかし今は、牢屋に閉じ込められている。<br>服も見たこともないものを着せられている。",
+      "zh": "可是现在，她正被关在牢房里。<br>\n身上还穿着自己从没见过的衣服。",
+      "vi": "Thế nhưng hiện tại, cô lại đang bị giam cầm trong chốn ngục tù. Trên người còn mặc bộ trang phục kỳ lạ chưa từng thấy bao giờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema007",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema007|",
+      "ja": "（これって悪夢の続き……？）",
+      "zh": "（这是噩梦的后续……？）",
+      "vi": "（Đây là phần tiếp theo của cơn ác mộng sao...?）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative013",
+      "speaker_tag": "",
+      "ja": "それにしては、触れる空気があまりにも生々しい。",
+      "zh": "但，四周的一切却如此真实。",
+      "vi": "Thế nhưng, luồng không khí cô đang cảm nhận lại quá đỗi chân thực.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative014",
+      "speaker_tag": "",
+      "ja": "室内をざっと観察すると、通路側の<ruby=\"てつごうし\">鉄格子</ruby>以外は<br>四方をがっしりとした石壁で囲まれている。",
+      "zh": "她大致观察了下室内。四周被结实的石墙包围，<br>\n只有铁栅栏一面联通着过道。",
+      "vi": "Quan sát sơ qua căn phòng, ngoài dãy song sắt hướng ra hành lang, ba phía xung quanh đều là những bức tường đá kiên cố.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative015",
+      "speaker_tag": "",
+      "ja": "壁にはテレビモニターが設置されている。",
+      "zh": "墙上安装有电视屏幕。",
+      "vi": "Trên tường có gắn một màn hình tivi.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative016",
+      "speaker_tag": "",
+      "ja": "中世めいた<ruby=\"ころう\">古牢</ruby>の中で、現代でよく見るモニターは<br>妙に浮いて見えた。",
+      "zh": "在透着中世纪气息的古牢里面，<br>\n这块现代随处可见的显示屏幕实在是格格不入。",
+      "vi": "Trong căn ngục cổ kính mang hơi hướng thời trung cổ này, chiếc màn hình hiện đại lại trông vô cùng lạc lõng dị thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema008",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema008|",
+      "ja": "ねえ、ここどこなのかな！？",
+      "zh": "我说，这里究竟是什么地方！？",
+      "vi": "Này, rốt cuộc nơi này là đâu vậy chứ!?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative017",
+      "speaker_tag": "",
+      "ja": "エマは<ruby=\"てつごうし\">鉄格子</ruby>に<ruby=\"すが\">縋</ruby>りついて叫んだ。",
+      "zh": "艾玛抓着铁栅栏，喊出声来。",
+      "vi": "Ema bám chặt lấy song sắt và gào thét.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative018",
+      "speaker_tag": "",
+      "ja": "するとすぐに他の場所から、<br>別の少女たちの悲鳴が遠く聞こえてくる。",
+      "zh": "紧接着，远远地从其他地方传来了<br>\n其他少女们的叫喊声。",
+      "vi": "Ngay lập tức từ những nơi khác, vẳng lại tiếng la hét của các thiếu nữ khác từ đằng xa.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Unknown001",
+      "speaker_tag": "; > Unknown: |#0101Adv02_Unknown001|",
+      "ja": "何を考えていますの！？<br>わたくしをこんなところに閉じ込めるなんて！",
+      "zh": "竟把本小姐关在这种地方！<br>\n究竟是什么意思啊！？",
+      "vi": "Các người tính làm cái trò gì vậy hả!? Dám nhốt bổn tiểu thư vào một nơi như thế này sao!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Unknown002",
+      "speaker_tag": "; > Unknown: |#0101Adv02_Unknown002|",
+      "ja": "少女監禁とか、犯罪だよこれ！<br>誰だか知らないけど、人生終わるよ！？",
+      "zh": "监禁少女可是犯罪欸！虽然不知是谁，<br>\n可干出来这种事，这辈子就到头了欸！？",
+      "vi": "Bắt cóc giam cầm thiếu nữ là phạm tội đấy! Dù không biết là ai, nhưng làm chuyện này là coi như xong đời rồi đấy biết chưa!?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Unknown003",
+      "speaker_tag": "; > Unknown: |#0101Adv02_Unknown003|",
+      "ja": "ざけんなぶっ殺すぞおらぁ！ 出せぇ！！",
+      "zh": "喂，开什么玩笑，我要杀了你！放我出去！！",
+      "vi": "Đừng có giỡn mặt, bà giết cả lũ bây giờ! Thả tao ra mau!!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema009",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema009|",
+      "ja": "（……よかった、閉じ込められているのは<br>　ボクだけじゃない）",
+      "zh": "（……太好了，被关进来的<br>\n不止我一个人）",
+      "vi": "（...May quá, người bị giam không phải chỉ có một mình mình）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative019",
+      "speaker_tag": "",
+      "ja": "にわかに騒がしくなった場に、<br>エマがホッとした表情を見せた、直後。",
+      "zh": "现场忽然吵闹起来，<br>\n艾玛的脸上露出了安心。紧接着——",
+      "vi": "Nghe thấy những tiếng động ồn ào bỗng vang lên, trên gương mặt Ema vừa thoáng nét an tâm thì ngay sau đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Unknown004",
+      "speaker_tag": "; > Unknown: |#0101Adv02_Unknown004|",
+      "ja": "――静かにしてくれないか？",
+      "zh": "——能不能给我安静一下？",
+      "vi": "――Có thể trật tự một chút được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative020",
+      "speaker_tag": "",
+      "ja": "不意に、エマの背後から<ruby=\"りん\">凛</ruby>とした声が届いた。",
+      "zh": "从艾玛身后冷不防传来一道清冽的声音。",
+      "vi": "Bất chợt, một giọng nói lạnh lùng trong trẻo vang lên từ phía sau lưng Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative021",
+      "speaker_tag": "",
+      "ja": "その声にエマが振り返ると、<br>２段ベッドの上段で、起き上がった人物がいた。",
+      "zh": "艾玛顺着声音望去，<br>\n发现双层床的上铺有个刚起身的人。",
+      "vi": "Ema giật mình quay lại nhìn theo tiếng nói, thấy ở tầng trên của chiếc giường tầng có một người vừa mới ngồi dậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Unknown005",
+      "speaker_tag": "; > Unknown: |#0101Adv02_Unknown005|",
+      "ja": "騒がしいのは正しくない。",
+      "zh": "大吵大闹是不对的。",
+      "vi": "Làm ầm ĩ lên như vậy là không đúng đắn đâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema010",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema010|",
+      "ja": "――！！",
+      "zh": "——！！",
+      "vi": "――!!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative022",
+      "speaker_tag": "",
+      "ja": "エマは衝撃で立ち尽くし、息を<ruby=\"の\">呑</ruby>んだ。<br>起き上がって発言したその少女を知っていたからだ。",
+      "zh": "艾玛十分吃惊，瞬间忘记了呼吸。<br>\n因为，她认识这位说话的少女。",
+      "vi": "Ema sững sờ chết lặng, nín thở vì kinh ngạc. Bởi vì, cô nhận ra thiếu nữ vừa cất lời ấy là ai.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema011",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema011|",
+      "ja": "（ウソでしょ……<br>　<ruby=\"にかいどう\">二階堂</ruby>ヒロ……ちゃん？）",
+      "zh": "（真的假的……<br>\n是二阶堂希罗……？）",
+      "vi": "（Không thể nào... Nikaidou Hiro... sao?）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative023",
+      "speaker_tag": "",
+      "ja": "エマの中学時代を暗黒に<ruby=\"おとし\">貶</ruby>めた、幼なじみ。",
+      "zh": "二阶堂希罗——",
+      "vi": "Nikaidou Hiro――người bạn thuở nhỏ đã từng đẩy những năm tháng cấp hai của Ema vào hố sâu tăm tối.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative024",
+      "speaker_tag": "",
+      "ja": "みんなの憧れで、常に中心で<ruby=\"かれん\">可憐</ruby>に<ruby=\"ほほえ\">微笑</ruby>んでいた少女――<br>それが、二階堂ヒロだった。",
+      "zh": "是在艾玛的初中时代，令她深陷黑暗的同窗，<br>\n也是广受众人仰慕，常在人群中心可爱地微笑着的少女……",
+      "vi": "Là hình mẫu được mọi người ngưỡng mộ, luôn đứng ở vị trí trung tâm với nụ cười khả ái trên môi―― Đó chính là Nikaidou Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative025",
+      "speaker_tag": "",
+      "ja": "目が合ったヒロの方も、<br>今までエマが見たことないほど大きく目を見開いていた。",
+      "zh": "和她对上眼的希罗，也大大的瞪圆了眼睛。<br>\n艾玛还是第一次见有人把眼睛瞪得那么大。",
+      "vi": "Bắt gặp ánh mắt của Ema, Hiro cũng mở to hai mắt kinh ngạc đến mức Ema chưa từng thấy cô ấy trừng mắt lớn đến vậy bao giờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Hiro001",
+      "speaker_tag": "; > Hiro: |#0101Adv02_Hiro001|",
+      "ja": "何故、君がここに？",
+      "zh": "为什么你会在这里？",
+      "vi": "Tại sao cậu lại ở đây?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative026",
+      "speaker_tag": "",
+      "ja": "ヒロはベッドからひらりと降りて、エマに問いかける。",
+      "zh": "希罗轻快地爬下了床，向艾玛问道。",
+      "vi": "Hiro nhẹ nhàng nhảy xuống khỏi giường rồi cất tiếng hỏi Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative027",
+      "speaker_tag": "",
+      "ja": "かつての幼なじみが目の前に現れたことで、<br>エマはひどく<ruby=\"ろうばい\">狼狽</ruby>し、言葉を失っていた。",
+      "zh": "往日同窗竟出现在眼前，<br>\n惊慌失措的艾玛哑口无言。",
+      "vi": "Người bạn thuở nhỏ năm xưa bất ngờ xuất hiện ngay trước mắt, khiến Ema vô cùng bối rối và nghẹn lời.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema012",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema012|",
+      "ja": "あ……。",
+      "zh": "啊……",
+      "vi": "A...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Hiro002",
+      "speaker_tag": "; > Hiro: |#0101Adv02_Hiro002|",
+      "ja": "ここはどこだ？",
+      "zh": "这是哪里？",
+      "vi": "Đây là đâu vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative028",
+      "speaker_tag": "",
+      "ja": "ヒロがきょろきょろと視線を巡らし、<br>うわずった声を出す。",
+      "zh": "希罗四下张望着，<br>\n紧张地尖声问道。",
+      "vi": "Hiro đưa mắt nhìn quanh quất bốn phía, cất giọng the thé đầy căng thẳng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema013",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema013|",
+      "ja": "あ、あのね、ヒロちゃ……。",
+      "zh": "我、我说，希罗……",
+      "vi": "À, ừm thì, Hiro à...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative029",
+      "speaker_tag": "",
+      "ja": "エマはかつて呼んできたように、<br>懐かしい呼称で彼女に声をかけようとする。",
+      "zh": "艾玛鼓起勇气，<br>\n尝试向往日旧识搭话。",
+      "vi": "Ema toan cất tiếng gọi cô ấy bằng cách gọi thân mật quen thuộc năm nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative030",
+      "speaker_tag": "",
+      "ja": "その時――",
+      "zh": "这时——",
+      "vi": "Đúng lúc đó――",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative031",
+      "speaker_tag": "",
+      "ja": "壁のモニターの方から、音が聞こえた。<br>エマ、ヒロはハッとし、モニターに注目する。",
+      "zh": "声音从墙壁上的显示屏幕传来。<br>\n艾玛和希罗吓了一跳，然后望向屏幕。",
+      "vi": "Từ phía màn hình trên tường phát ra âm thanh rè rè. Cả Ema và Hiro đều giật mình, dồn sự chú ý vào màn hình.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema014",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema014|",
+      "ja": "（え、何！？ フ、フクロウの化け物……！？）",
+      "zh": "（欸，怎么回事！？猫、猫头鹰怪物……！？）",
+      "vi": "（Hả, cái gì thế kia!? Qu-Quái vật cú mèo sao...!?）",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Warden001",
+      "speaker_tag": "; > Warden: |#0101Adv02_Warden001|",
+      "ja": "あ……もしもし……映像って見えてます……？<br>何せ古くて故障が多いので……やれやれ。",
+      "zh": "啊……喂喂……看得见画面吗……？<br>\n毕竟机器有好些年头了，故障特别多……唉呀呀。",
+      "vi": "A... alo alo... mọi người có nhìn thấy hình ảnh không ạ...？ Dù sao máy móc cũng cổ lỗ sĩ quá rồi nên hỏng hóc suốt... chà chà.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Warden002",
+      "speaker_tag": "; > Warden: |#0101Adv02_Warden002|",
+      "ja": "私、ゴクチョーと申します。",
+      "zh": "大家好，我是典狱长。",
+      "vi": "Tôi tên là Cai Ngục Trưởng.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Warden003",
+      "speaker_tag": "; > Warden: |#0101Adv02_Warden003|",
+      "ja": "詳しい説明がしたいので、<br>ラウンジに集合してください。",
+      "zh": "我想给大家作详细说明，<br>\n请各位到会客厅来集合。",
+      "vi": "Vì cần giải thích chi tiết mọi chuyện cho các vị, nên xin mời tất cả tập trung tại Phòng Chờ nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Warden004",
+      "speaker_tag": "; > Warden: |#0101Adv02_Warden004|",
+      "ja": "監房の鍵を開けますので、<br>看守の後についてきてください。",
+      "zh": "我会给大家打开牢房的锁，<br>\n之后请大家跟着带路的看守。",
+      "vi": "Tôi sẽ mở khóa các phòng giam ngay bây giờ, xin vui lòng đi theo sau người cai ngục dẫn đường.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Warden005",
+      "speaker_tag": "; > Warden: |#0101Adv02_Warden005|",
+      "ja": "抵抗とかは自由なんですが……<br>命とかなくなっちゃうので……はい……。",
+      "zh": "想反抗也没问题……<br>\n只不过小命不保罢了……嗯……",
+      "vi": "Các vị muốn chống đối thì cứ tự nhiên... chỉ là sẽ mất mạng đấy ạ... vâng...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative032",
+      "speaker_tag": "",
+      "ja": "モニターは再び真っ暗になった。",
+      "zh": "显示屏幕再次回归一片漆黑。",
+      "vi": "Chiếc màn hình lại tối đen trở lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema015",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema015|",
+      "ja": "ゴクチョー……？ 看守……？",
+      "zh": "典狱长……？看守……？",
+      "vi": "Cai Ngục Trưởng...? Người cai ngục...?",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative033",
+      "speaker_tag": "",
+      "ja": "エマは理解が追いつかないのか、しばらく立ち尽くしていた。<br>ヒロも同様だ。すると、",
+      "zh": "艾玛似乎思考不太跟得上状况的变化，呆站在原地一动不动——<br>\n而她身边的希罗也一样。紧接着——",
+      "vi": "Ema dường như chưa kịp tiếp thu hết những gì vừa xảy ra, ngơ ngác đứng chết trân tại chỗ. Hiro cũng tương tự như vậy. Bỗng nhiên,",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative034",
+      "speaker_tag": "",
+      "ja": "<ruby=\"てつごうし\">鉄格子</ruby>の向こう、通路の方から。<br>引きずるような重々しい音が近付いてきている。",
+      "zh": "从铁栅栏的另一侧——过道处，<br>\n传来了某样沉重物体的移动声，且愈来愈接近。",
+      "vi": "Từ phía bên kia song sắt, nơi hành lang ngoài kia. Có tiếng bước chân nặng nề lê bước đang tiến lại gần.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative035",
+      "speaker_tag": "",
+      "ja": "その音はどこかおぞましく、<br>不穏なものが接近していることをエマたちに感じさせた。",
+      "zh": "那声音透着一股令人汗毛直竖的感觉，<br>\n令艾玛她们本能地察觉到了危险。",
+      "vi": "Âm thanh ấy mang một cảm giác rợn tóc gáy, khiến Ema và mọi người linh cảm được một thứ nguy hiểm đang đến gần.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative036",
+      "speaker_tag": "",
+      "ja": "エマもヒロも身を<ruby=\"こわば\">強張</ruby>らせ、<br>――その視線が、ゆるゆると、通路に向けられる。",
+      "zh": "艾玛和希罗绷紧了身子，<br>\n——然后缓慢地将视线挪动到过道上。",
+      "vi": "Cả Ema và Hiro đều căng cứng toàn thân, ――ánh mắt từ từ, chầm chậm hướng về phía hành lang.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema016",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema016|",
+      "ja": "ひっ……。",
+      "zh": "噫……",
+      "vi": "Híttt...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative037",
+      "speaker_tag": "",
+      "ja": "悲鳴をあげかけたエマが、両手で自身の口を<ruby=\"ふさ\">塞</ruby>いだ。",
+      "zh": "差点惊声大喊的艾玛，用双手捂住了自己的嘴。",
+      "vi": "Ema suýt chút nữa thét lên, vội vàng lấy hai tay bịt chặt miệng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative038",
+      "speaker_tag": "",
+      "ja": "２、３メートルはあるだろうか。<br>ぼろぼろの黒衣をまとった大きな何かが立っていた。",
+      "zh": "面前出现了披着破烂黑衣的不明物体。<br>\n那东西大概有两三米高。",
+      "vi": "Sinh vật đó cao chừng hai đến ba mét. Một sinh thể khổng lồ khoác tấm áo choàng đen rách rưới đang đứng sừng sững.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative039",
+      "speaker_tag": "",
+      "ja": "仮面をつけていて顔はわからないが、<br>明らかに人間ではない、何か。",
+      "zh": "虽然戴着面具，看不见面孔，<br>\n但从外形看，明显不是人类。",
+      "vi": "Gương mặt đeo mặt nạ nên không thể thấy rõ diện mạo, nhưng chắc chắn đó tuyệt đối không phải là con người.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema017",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema017|",
+      "ja": "ヒ、ヒロちゃ……。",
+      "zh": "希、希罗……",
+      "vi": "H-Hiro à...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative040",
+      "speaker_tag": "",
+      "ja": "エマは恐怖のあまり、ヒロの腕にしがみつく。<br>ヒロもさすがに、<ruby=\"ぼうぜん\">呆然</ruby>と通路の異形を見ている。",
+      "zh": "艾玛在恐惧的驱使下，不禁抓紧了希罗的手臂。<br>\n就连刚才还很冷静的希罗也望着过道上的异形，呆站着一动不动。",
+      "vi": "Vì quá sợ hãi, Ema bất giác ôm chặt lấy cánh tay của Hiro. Đến cả Hiro vốn điềm tĩnh cũng chỉ biết ngơ ngác nhìn quái vật dị hình ngoài hành lang.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Unknown006",
+      "speaker_tag": "; > Unknown: |#0101Adv02_Unknown006|",
+      "ja": "ぎゃああぁ！ 触んな化け物ぉ！ キモいから！<br>わかった、わかりました、行くから！！",
+      "zh": "呀啊啊啊！怪物别碰我！好恶心！<br>\n好了，好了啦，我走就是！！",
+      "vi": "Á á á! Đừng có chạm vào tôi, đồ quái vật! Kinh tởm quá! Biết rồi, tôi biết rồi, tôi đi là được chứ gì!!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative041",
+      "speaker_tag": "",
+      "ja": "他の牢屋にいた誰かが、<br>化け物に連行されている様子がエマたちの耳に届いた。",
+      "zh": "艾玛她们听见，其他牢房里<br>\n有人被怪物强行带走了。",
+      "vi": "Tiếng ai đó ở phòng giam khác đang bị quái vật lôi đi áp giải truyền vào tai Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative042",
+      "speaker_tag": "",
+      "ja": "２人はますますゾッとする。",
+      "zh": "这让她们两个感到越来越害怕了。",
+      "vi": "Cả hai người càng cảm thấy rợn ngợp hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Hiro003",
+      "speaker_tag": "; > Hiro: |#0101Adv02_Hiro003|",
+      "ja": "正しい説明がなされるのかな。<br>それなら早く向かわないと……。",
+      "zh": "所谓的说明，会解释清楚情况吗。<br>\n那我得快点过去……",
+      "vi": "Không biết họ có giải thích thỏa đáng mọi chuyện không. Nếu vậy thì phải nhanh chóng tới đó thôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative043",
+      "speaker_tag": "",
+      "ja": "ヒロは言いかけてから、横にいるエマに目を向けた。",
+      "zh": "希罗自言自语着，然后望向身旁的艾玛。",
+      "vi": "Hiro lẩm bẩm một mình rồi quay sang nhìn Ema bên cạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative044",
+      "speaker_tag": "",
+      "ja": "その時になってようやく、<br>エマが腕にしがみついていることに気付き。",
+      "zh": "这时她终于发现，<br>\n艾玛紧紧抓住了她的手臂。",
+      "vi": "Đến lúc này cô ấy mới nhận ra Ema đang bám chặt lấy cánh tay của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative045",
+      "speaker_tag": "",
+      "ja": "――バッと、<br>強く、手を振り払った。",
+      "zh": "——唰。<br>\n她用力地甩开了艾玛的手。",
+      "vi": "――Xoẹt, Hiro dùng sức hất mạnh tay Ema ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Ema018",
+      "speaker_tag": "; > Ema: |#0101Adv02_Ema018|",
+      "ja": "っ……！",
+      "zh": "……！",
+      "vi": "...!",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Hiro004",
+      "speaker_tag": "; > Hiro: |#0101Adv02_Hiro004|",
+      "ja": "気安く触れないでほしい。<br>忘れてもらっては困る。私は君が嫌いなんだ。",
+      "zh": "不要随便碰我。<br>\n你可别忘了，我讨厌你。",
+      "vi": "Đừng có tùy tiện chạm vào tôi. Cậu quên rồi thì phiền phức lắm đấy. Tôi ghét cậu.",
+      "objection_links": []
+    },
+    {
+      "id": "0101Adv02_Narrative046",
+      "speaker_tag": "",
+      "ja": "吐き捨てるヒロの瞳は、<br>根深い嫌悪の色を宿していた。",
+      "zh": "希罗的眼神中<br>\n透着一股深深的厌弃。",
+      "vi": "Ánh mắt của Hiro khi thốt ra những lời cay đắng ấy chứa chan một sự chán ghét sâu sắc tận đáy lòng.",
+      "objection_links": []
+    }
+  ]
+}

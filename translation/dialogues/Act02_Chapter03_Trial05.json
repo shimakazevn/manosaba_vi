@@ -1,0 +1,566 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter03_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter03_Trial05",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter03/Act02_Chapter03_Trial05' Naninovel scenario script",
+  "total_entries": 69,
+  "entries": [
+    {
+      "id": "0203Trial05_Sherry001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial05_Sherry001|",
+      "ja": "当然ですが、<br>スマホは液晶画面が光ります。<br>それにこの機種は<br>ライト機能もあります。",
+      "zh": "不用我说大家也知道，<br>\n手机的屏幕会发光。<br>\n而且我们手上这款手机<br>\n还有手电筒功能。",
+      "vi": "Không cần tôi nói cũng biết, Màn hình điện thoại sẽ phát sáng. Và chúng tôi có chiếc điện thoại này Ngoài ra còn có chức năng đèn pin.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial05_Sherry002|",
+      "ja": "犯人はあらかじめ、<br>現場に光らせたスマホを<br>置いておいたんですよ。",
+      "zh": "凶手事先在预定地点<br>\n放置一部手机，<br>\n并让手机一直发光。",
+      "vi": "Kẻ sát nhân đang ở địa điểm được xác định trước Đặt điện thoại di động, Và giữ cho điện thoại của bạn luôn sáng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial05_Sherry003|",
+      "ja": "現場は犯行当時<br>暗かった……。",
+      "zh": "而案发当时<br>\n中庭一片漆黑……",
+      "vi": "Vào thời điểm xảy ra sự việc, Tâm nhĩ tối om...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial05_Sherry004|",
+      "ja": "それなら、<br>スマホのほのかな光であっても<br><link=\"Objection_02_03_05_01\">目印</link>として<br>わかりやすかった<br>はずです！",
+      "zh": "那么<br>\n就算手机的光很微弱，<br>\n作为<link=\"Objection_02_03_05_01\">标记</link>也应该<br>\n很显眼<br>\n才对！",
+      "vi": "Sau đó Ngay cả khi ánh sáng từ điện thoại di động rất yếu, Vì thẻ <link=\"Objection_02_03_05_01\"> </link> cũng phải là Rất dễ thấy Đúng vậy!",
+      "objection_links": [
+        "Objection_02_03_05_01"
+      ]
+    },
+    {
+      "id": "0203Trial05_Sherry005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial05_Sherry005|",
+      "ja": "そこに目掛けて突き落とせば、<br>グッサリ串刺しにして<br><link=\"Objection_02_03_05_02\">殺せます</link>よね！",
+      "zh": "只要朝着发光位置一推，<br>\n铁栅就会把人一下刺穿，<br>\n凶手就能<link=\"Objection_02_03_05_02\">达到杀人目的</link>了呢！",
+      "vi": "Chỉ cần đẩy về phía vị trí phát sáng, Hàng rào sắt sẽ xuyên qua người ngay lập tức, Kẻ sát nhân có thể <link=\"Objection_02_03_05_02\"> đạt được mục đích giết người của mình </link>!",
+      "objection_links": [
+        "Objection_02_03_05_02"
+      ]
+    },
+    {
+      "id": "0203Trial05_Miria001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial05_Miria001|",
+      "ja": "たしかに<br><link=\"Objection_02_03_05_03\">スマホぐらいの光</link><br>だったら、<br>おじさんも見逃してて<br>おかしくないかも……。",
+      "zh": "的确，<br>\n<link=\"Objection_02_03_05_03\">手机的光那么暗</link>，<br>\n大叔我没发现<br>\n也很正常……<br>",
+      "vi": "Quả thực, <link=\"Objection_02_03_05_03\">Ánh sáng của điện thoại di động quá mờ</link>, Bác ơi em không tìm thấy Cũng bình thường mà...",
+      "objection_links": [
+        "Objection_02_03_05_03"
+      ]
+    },
+    {
+      "id": "0203Trial05_Sherry006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial05_Sherry006|",
+      "ja": "どうですか、<br>この推理は！",
+      "zh": "怎么样，<br>\n我这次推理得不错吧！",
+      "vi": "Thế nào rồi, Lần này tôi đã lý luận tốt!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial05_Sherry007|",
+      "ja": "このトリックを使えば、<br>アンアンさんを<br>鉄柵で殺害するのは<br>簡単なはずです！",
+      "zh": "只要使用这个诡计，<br>\n就能轻易做到<br>\n利用铁栅栏<br>\n杀死安安！",
+      "vi": "Chỉ cần sử dụng thủ thuật này, Việc đó có thể được thực hiện dễ dàng Sử dụng hàng rào sắt Giết AnAn!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro001",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro001|",
+      "ja": "（シェリーは他殺だと信じている）",
+      "zh": "（雪莉坚信安安是他杀）",
+      "vi": "(Sherry tin chắc rằng AnAn đã tự sát)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro002",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro002|",
+      "ja": "（しかし運が良いのか悪いのか、<br>　今の推理には説明しきれない矛盾が残っているな）",
+      "zh": "（可不知道算是幸运还是不幸，<br>\n她刚才的推理里有着无法自圆其说的矛盾）",
+      "vi": "(Không biết là may mắn hay xui xẻo, Có một sự mâu thuẫn không thể giải thích được trong lý luận của cô ấy vừa rồi)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro003",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro003|",
+      "ja": "（その隙……利用させてもらおう）",
+      "zh": "（我要……好好利用这个破绽）",
+      "vi": "(Tôi muốn...tận dụng khuyết điểm này)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Choice001",
+      "speaker_tag": "; > @choice |#0203Trial05_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "他に光があった",
+      "zh": "有其他光源",
+      "vi": "Có những nguồn ánh sáng khác",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Choice002",
+      "speaker_tag": "; > @choice |#0203Trial05_Choice002| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "他殺ではなく自殺だった",
+      "zh": "不是他杀而是自杀",
+      "vi": "Không phải giết người mà là tự sát",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Choice003",
+      "speaker_tag": "; > @choice |#0203Trial05_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "スマホの光は目立つ",
+      "zh": "手机的光很显眼",
+      "vi": "Ánh sáng từ điện thoại di động rất dễ thấy",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro004",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro004|",
+      "ja": "……他にもいくつか光があったとしたら、どうかな？",
+      "zh": "……有没有可能现场还出现了一些其他的光源呢？",
+      "vi": "...Có thể có một số nguồn sáng khác ở hiện trường?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry008",
+      "speaker_tag": "; > Sherry: |#0203Trial05_Sherry008|",
+      "ja": "他の光ですか？",
+      "zh": "其他光源吗？",
+      "vi": "Các nguồn sáng khác?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro005",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro005|",
+      "ja": "現場に複数の光があったのなら、<br>スマホのほのかな光じゃ周りに埋もれてしまって<br>目印として機能しないと思うよ。",
+      "zh": "如果现场存在多个光源，<br>\n手机那点微弱的亮光就会被周围的光芒遮盖，<br>\n失去了标记的意义。",
+      "vi": "Nếu có nhiều nguồn sáng tại chỗ, Ánh sáng yếu của điện thoại di động sẽ bị ánh sáng xung quanh che khuất, Ý nghĩa của nhãn hiệu bị mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Noah001",
+      "speaker_tag": "; > Noah: |#0203Trial05_Noah001|",
+      "ja": "他の光って、例えばどんなのー？",
+      "zh": "举例说说看，其他的光源是～？",
+      "vi": "Ví dụ, các nguồn ánh sáng khác là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro006",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro006|",
+      "ja": "……廊下の照明が点いていたとか、<br>様々な可能性があるよ。",
+      "zh": "……比如走廊的灯光之类，<br>\n可能性太多了。",
+      "vi": "...chẳng hạn như đèn hành lang, Có rất nhiều khả năng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Miria002",
+      "speaker_tag": "; > Miria: |#0203Trial05_Miria002|",
+      "ja": "でもおじさんが中庭を見たときは、<br>特に目立った明かりはなかったと思うけどなぁ。",
+      "zh": "可是大叔我记得，当时看向中庭的时候<br>\n没看到什么特别显眼的亮光哦。",
+      "vi": "Nhưng chú ơi, con nhớ khi nhìn về phía giếng trời Miria không nhìn thấy bất kỳ ánh sáng đặc biệt nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Alisa001",
+      "speaker_tag": "; > Alisa: |#0203Trial05_Alisa001|",
+      "ja": "……ていうか、そもそもおめえが<br>中庭は暗かったって言ったんだろ。",
+      "zh": "……话说回来，<br>\n说案发时中庭一片漆黑的人不就是你吗。",
+      "vi": "...Nói đến đây, Không phải mày là người đã nói rằng sảnh tối khi tội ác xảy ra sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Alisa002",
+      "speaker_tag": "; > Alisa: |#0203Trial05_Alisa002|",
+      "ja": "なかったことにしてんじゃねーぞ。",
+      "zh": "说出口的话别给我忘了。",
+      "vi": "Đừng quên những gì mày đã nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro007",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro007|",
+      "ja": "（もっともだな……）",
+      "zh": "（无可辩驳啊……）",
+      "vi": "(Không thể chối cãi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro008",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro008|",
+      "ja": "（シェリーの推理の根拠は、<br>　【現場にスマホが残されていたから】）",
+      "zh": "（雪莉是以【现场发现了一部手机】为由<br>\n作出了推理）",
+      "vi": "(Sherry lấy [chiếc điện thoại di động được tìm thấy ở hiện trường] làm lý do đưa ra suy luận)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro009",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro009|",
+      "ja": "（……しかしその推理自体が間違いなのは、<br>　私自らが知っている）",
+      "zh": "（……可是我比谁都要清楚，<br>\n这个推理本身就有错）",
+      "vi": "(...nhưng tôi biết rõ điều đó hơn bất kỳ ai khác, Bản thân lý luận này đã sai)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro010",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro010|",
+      "ja": "（なら、そのシェリーの推理を利用して、<br>　みんなが納得できるストーリーを語ってみせよう）",
+      "zh": "（既然如此，看我将计就计，<br>\n利用雪莉的推理来编造一个能让所有人信服的故事）",
+      "vi": "(Trong trường hợp này, hãy để tôi tận dụng tình huống này, Sử dụng lý luận của Sherry để tạo ra một câu chuyện thuyết phục được mọi người)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro011",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro011|",
+      "ja": "（……たとえそれが捏造であったとしても）",
+      "zh": "（……就算内容全都是凭空捏造，我也要办到）",
+      "vi": "(...Ngay cả khi toàn bộ nội dung là bịa đặt, mình vẫn sẽ làm điều đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro012",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro012|",
+      "ja": "忘れているかもしれないが、<br>中庭は光の少ない暗闇だったんだ。",
+      "zh": "以防大家忘记，我重复一遍，<br>\n中庭内光线黯淡，一片漆黑。",
+      "vi": "Trong trường hợp bạn quên, tôi nhắc lại, Ánh sáng trong tâm nhĩ mờ và tối đen.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro013",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro013|",
+      "ja": "いくら【スマホぐらいの光】といっても、<br>流石にその中では目立つんじゃないかな？",
+      "zh": "就算只是【手机那点光】，<br>\n在一片黑暗中也会显得显眼，不是吗？",
+      "vi": "Ngay cả khi đó chỉ là [ánh sáng từ điện thoại di động của bạn], Nó sẽ nổi bật trong bóng tối phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry009",
+      "speaker_tag": "; > Sherry: |#0203Trial05_Sherry009|",
+      "ja": "ですが、液晶画面の光量なら調節が出来ます！",
+      "zh": "可是液晶屏幕的亮度是可以调整的！",
+      "vi": "Nhưng độ sáng của màn hình LCD có thể được điều chỉnh!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry010",
+      "speaker_tag": "; > Sherry: |#0203Trial05_Sherry010|",
+      "ja": "きっと光の設定をいじって弱くしてたんですよ！",
+      "zh": "凶手肯定是把屏幕亮度给调暗了！",
+      "vi": "Chắc chắn hung thủ đã giảm độ sáng màn hình!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry011",
+      "speaker_tag": "; > Sherry: |#0203Trial05_Sherry011|",
+      "ja": "犯人にさえ光が見えていればいいわけですからね！",
+      "zh": "毕竟只要凶手自己能看到那点亮光就足够了！",
+      "vi": "Suy cho cùng, chỉ cần bản thân hung thủ có thể nhìn ra ánh sáng là đủ!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Noah002",
+      "speaker_tag": "; > Noah: |#0203Trial05_Noah002|",
+      "ja": "ならスマホがそこにあってもおかしくはなさそうだねー。",
+      "zh": "那知道手机在哪里也不奇怪了呢～。",
+      "vi": "Vậy thì không có gì ngạc nhiên khi biết điện thoại ở đâu~.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry012",
+      "speaker_tag": "; > Sherry: |#0203Trial05_Sherry012|",
+      "ja": "そうです！<br>おかしいのはヒロさんの推理の方ですね！",
+      "zh": "没错！<br>\n奇怪的是希罗的推理！",
+      "vi": "Đúng vậy! Điều kỳ lạ là lý luận của Anh hùng!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro014",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro014|",
+      "ja": "（たしかに光量を調整すれば不可能ではないか……）",
+      "zh": "（确实，只要调节一下亮度也不是完全不可能……）",
+      "vi": "(Thật vậy, không phải là không thể thực hiện được miễn là bạn điều chỉnh độ sáng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro015",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro015|",
+      "ja": "（シェリーの推理の根拠は、<br>　【現場にスマホが残されていたから】）",
+      "zh": "（雪莉是以【现场发现了一部手机】为由<br>\n作出了推理）",
+      "vi": "(Sherry lấy [chiếc điện thoại di động được tìm thấy ở hiện trường] làm lý do đưa ra suy luận)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro016",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro016|",
+      "ja": "（……しかしその推理自体が間違いなのは、<br>　私自らが知っている）",
+      "zh": "（……可是我比谁都要清楚，<br>\n这个推理本身就有错）",
+      "vi": "(...nhưng tôi biết rõ điều đó hơn bất kỳ ai khác, Bản thân lý luận này đã sai)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro017",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro017|",
+      "ja": "（なら、そのシェリーの推理を利用して、<br>　みんなが納得できるストーリーを語ってみせよう）",
+      "zh": "（既然如此，看我将计就计，<br>\n利用雪莉的推理来编造一个能让所有人信服的故事）",
+      "vi": "(Trong trường hợp này, hãy để tôi tận dụng tình huống này, Sử dụng lý luận của Sherry để tạo ra một câu chuyện thuyết phục được mọi người)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro018",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro018|",
+      "ja": "（……たとえそれが捏造であったとしても）",
+      "zh": "（……就算内容全都是凭空捏造，我也要办到）",
+      "vi": "(...Ngay cả khi toàn bộ nội dung là bịa đặt, mình vẫn sẽ làm điều đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro019",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro019|",
+      "ja": "……なるほど。<br>たしかにその通りかもしれないね。",
+      "zh": "……原来是这样。<br>\n你说的的确有可能是事实。",
+      "vi": "...Vậy là xong. Những điều bạn nói có thể đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro020",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro020|",
+      "ja": "その推理なら全ての辻褄が合う……完璧にね。",
+      "zh": "这样来推理的话一切都很合理……完全没有反驳的余地。",
+      "vi": "Nếu lý luận như vậy thì mọi việc đều có lý... Hoàn toàn không có chỗ để bác bỏ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry013",
+      "speaker_tag": "; > Sherry: |#0203Trial05_Sherry013|",
+      "ja": "そうですよね！",
+      "zh": "就是吧！",
+      "vi": "Thế thôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro021",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro021|",
+      "ja": "ああ。<br>……ただし、１つだけ条件があるけれど。",
+      "zh": "没错。<br>\n……只是这个推理有一个必要的前提条件。",
+      "vi": "Đúng vậy. ...nhưng lý do này có một điều kiện tiên quyết cần thiết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry014",
+      "speaker_tag": "; > Sherry: |#0203Trial05_Sherry014|",
+      "ja": "条件……ですか？",
+      "zh": "前提条件……吗？",
+      "vi": "Điều kiện tiên quyết...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro022",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro022|",
+      "ja": "【中庭に置かれたスマホを目掛けて落下した】<br>という推理に異論はないよ。",
+      "zh": "【人对准放在中庭的手机掉了下去】，<br>\n关于这一点我没有异议。",
+      "vi": "[Người nhắm vào chiếc điện thoại di động đặt ở sảnh và đánh rơi], Tôi không phản đối điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro023",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro023|",
+      "ja": "でもそれは……【アンアン自ら】でないとおかしいんだ。",
+      "zh": "可是……除非是【安安自己跳下去】，不然就说不通了。",
+      "vi": "Nhưng...trừ khi [AnAn tự mình nhảy xuống], điều đó chẳng có ý nghĩa gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro024",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro024|",
+      "ja": "なぜなら、スマホはアンアンのものだったんだからね。",
+      "zh": "要说为什么，因为用来做标记的手机是属于安安的。",
+      "vi": "Giải thích lý do là vì chiếc điện thoại di động dùng để đánh dấu là của AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry015",
+      "speaker_tag": "; > Sherry: |#0203Trial05_Sherry015|",
+      "ja": "……あっ！",
+      "zh": "……啊！",
+      "vi": "...À!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro025",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro025|",
+      "ja": "【現場にあったスマホは犯人が事前に置いた】<br>【アンアンはベランダから落下した】。",
+      "zh": "【在现场找到的手机是凶手事先安放的】。<br>\n【安安从阳台坠落】。",
+      "vi": "[Chiếc điện thoại di động được tìm thấy tại hiện trường là do hung thủ đã gài từ trước]. [AnAn ngã từ ban công]",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro026",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro026|",
+      "ja": "その２つの条件を満たす一番簡単な解答……<br>それは１つしかない。",
+      "zh": "以最简单的方式同时满足这两个条件……<br>\n答案就只有一个。",
+      "vi": "Thỏa mãn cả hai điều kiện theo cách đơn giản nhất... Chỉ có một câu trả lời.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro027",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro027|",
+      "ja": "【アンアン自身が犯人だった】……<br>ということだよ。",
+      "zh": "【被害人安安就是策划这一切的凶手】……<br>\n就是这么一回事。",
+      "vi": "[Nạn nhân AnAn chính là kẻ sát nhân đã lên kế hoạch cho tất cả những chuyện này]... Thế thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro028",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro028|",
+      "ja": "でなければ、犯人はどうにかして<br>アンアンのスマホを手に入れる必要があった。",
+      "zh": "如果凶手不是安安，<br>\n那真正的凶手就得想尽办法拿到安安的手机才行。",
+      "vi": "Nếu kẻ sát nhân không phải là AnAn, Sau đó, kẻ sát nhân thực sự phải tìm cách lấy được điện thoại di động của AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro029",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro029|",
+      "ja": "わざわざ犯行の前にアンアンのスマホを盗んだりするかな？<br>警戒されるだけなのに。",
+      "zh": "难不成在作案前特意去偷安安的手机？<br>\n这样做只会让安安警戒起来。",
+      "vi": "Phải chăng anh ta đã cố tình lấy trộm điện thoại di động của AnAn trước khi gây án? Làm như vậy chỉ khiến AnAn cảnh giác mà thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Alisa003",
+      "speaker_tag": "; > Alisa: |#0203Trial05_Alisa003|",
+      "ja": "……でもよ。<br>その推理はおかしいだろ……！",
+      "zh": "……可是啊。<br>\n这个推理也太怪异了……！",
+      "vi": "...nhưng à. Lý do này lạ quá...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Alisa004",
+      "speaker_tag": "; > Alisa: |#0203Trial05_Alisa004|",
+      "ja": "夏目が自分から落ちたってことは、<br>【自殺】だったってことだ。",
+      "zh": "如果说夏目是自己跳下去的话，<br>\n那她就是【自杀】。",
+      "vi": "Nếu Tsume tự nhảy, Sau đó mày ấy đã tự sát.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Alisa005",
+      "speaker_tag": "; > Alisa: |#0203Trial05_Alisa005|",
+      "ja": "夏目が自殺する動機も予兆もなかったってのに、<br>突然んなことするわけねーと思うけどな……！",
+      "zh": "夏目既没有自杀的动机，也没有想要自杀的倾向，<br>\n我觉得她没理由会突然间做出这种事情来……！",
+      "vi": "Tsume không có động cơ hay xu hướng tự tử, Tao nghĩ không có lý do gì để mày ấy đột ngột làm điều đó cả...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro030",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro030|",
+      "ja": "もちろん私だってアンアンが自殺したと<br>決めつけているわけじゃない。",
+      "zh": "当然，<br>\n我也不是一口咬定安安是自杀。",
+      "vi": "Tất nhiên, Tôi không khẳng định rằng AnAn đã tự sát.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro031",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro031|",
+      "ja": "でもシェリーの推理が正しいとするなら、<br>そうなってしまうと言ってるんだ。",
+      "zh": "我想说的是，如果认同雪莉的推理是正确的话，<br>\n结论就会变成安安是自杀。",
+      "vi": "Điều tôi muốn nói là, nếu bạn đồng ý với lý luận của Sherry, Kết luận sẽ là AnAn tự sát.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Alisa006",
+      "speaker_tag": "; > Alisa: |#0203Trial05_Alisa006|",
+      "ja": "ぐっ……！",
+      "zh": "呃……！？",
+      "vi": "Ờ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro032",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro032|",
+      "ja": "もしくは……<br>現場にあったスマホなんて、<br>ただ単に落下したときの衝撃で落ちただけかもしれないよ。",
+      "zh": "不然的话……<br>\n现场找到的手机说不定<br>\n纯粹只是因为坠落的冲击而掉落在地上。",
+      "vi": "Nếu không... Chiếc điện thoại di động tìm thấy ở hiện trường có thể là Nó rơi xuống đất hoàn toàn do tác động của cú ngã.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro033",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro033|",
+      "ja": "どちらにせよ、<br>シェリーの推理は納得できるものではない……。",
+      "zh": "不管事实怎样，<br>\n雪莉的推理都站不住脚……",
+      "vi": "Bất chấp sự thật, Lý luận của Sherry là không thể chấp nhận được...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro034",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro034|",
+      "ja": "違うかな？",
+      "zh": "我没说错吧？",
+      "vi": "Tôi có đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry016",
+      "speaker_tag": "; > Sherry: |#0203Trial05_Sherry016|",
+      "ja": "なるほど……。<br>たしかに現場にあったのはアンアンさんのスマホでしたね。",
+      "zh": "原来是这样……<br>\n在现场找到的手机确实是属于安安的呢。",
+      "vi": "Vậy là xong... Chiếc điện thoại di động được tìm thấy tại hiện trường quả thực là của AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry017",
+      "speaker_tag": "; > Sherry: |#0203Trial05_Sherry017|",
+      "ja": "でもヒロさんが指摘した部分を修正しちゃえば、<br>話は通じるはずだと思います。",
+      "zh": "可是只要把希罗指出的矛盾点稍加修正，<br>\n我的推理就能说得过去了。",
+      "vi": "Nhưng miễn là những mâu thuẫn mà Anh hùng chỉ ra được sửa chữa một chút, Lý luận của tôi có lý.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Sherry018",
+      "speaker_tag": "; > Sherry: |#0203Trial05_Sherry018|",
+      "ja": "もう一度、この殺人事件を検証してみます！",
+      "zh": "让我来重新分析一下这起凶杀案件！",
+      "vi": "Hãy để tôi phân tích lại vụ án giết người này!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro035",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro035|",
+      "ja": "（シェリーは何があっても<br>　殺人事件ということにしたいようだ）",
+      "zh": "（看来雪莉是不管怎样<br>\n也要把安安的死亡办成凶杀案了）",
+      "vi": "(Có vẻ như Sherry vẫn dù thế nào đi nữa Cái chết của AnAn cũng phải được coi là một vụ giết người)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro036",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro036|",
+      "ja": "（けれど……<br>　間違った理屈の上にさらに仮説を重ねても、<br>　再び矛盾が生まれるだけ……）",
+      "zh": "（只不过……<br>\n以错误的理论为依据反复进行假设<br>\n只会催生新的矛盾……）",
+      "vi": "(Chỉ là... Liên tục đưa ra các giả định dựa trên những lý thuyết sai lầm Nó sẽ chỉ tạo ra xung đột mới...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial05_Hiro037",
+      "speaker_tag": "; > Hiro: |#0203Trial05_Hiro037|",
+      "ja": "（崩してみせよう……<br>　シェリーの紡ぐ間違ったストーリーを！）",
+      "zh": "（我会把雪莉编造的错误故事……<br>\n全部推翻！）",
+      "vi": "(Tôi sẽ kể lại câu chuyện sai sự thật của Sherry… Lật đổ tất cả! )",
+      "objection_links": []
+    }
+  ]
+}

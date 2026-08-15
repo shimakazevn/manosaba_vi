@@ -1,0 +1,302 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial26",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial26' Naninovel scenario script",
+  "total_entries": 36,
+  "entries": [
+    {
+      "id": "0205Trial26_Hiro001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial26_Hiro001|",
+      "ja": "……君の過去を、<br>教えてくれ。",
+      "zh": "……告诉我<br>\n你的过去吧。",
+      "vi": "…Hãy cho tôi biết Hãy vượt qua nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial26_Ema001|",
+      "ja": "うん……。",
+      "zh": "嗯……",
+      "vi": "Ừm...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial26_Ema002|",
+      "ja": "ボクは……<br>学校でいじめられていた。",
+      "zh": "我……<br>\n在学校被霸凌了。",
+      "vi": "Tôi... Bị bắt nạt ở trường.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial26_Ema003|",
+      "ja": "どうして<br>そんなことを<br>されていたのか……<br>どうして<br>嫌われていたのか……。",
+      "zh": "为什么会<br>\n遭欺负……<br>\n为什么会<br>\n被讨厌……<br>",
+      "vi": "Tại sao Bị bắt nạt... Tại sao Bị ghét...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial26_Ema004|",
+      "ja": "そんなの……<br><link=\"Objection_02_05_26_01\">わからなかった</link>。",
+      "zh": "原因……<br>\n<link=\"Objection_02_05_26_01\">我不知道</link>。",
+      "vi": "Lý do... <link=\"Objection_02_05_26_01\">Tôi không biết </link>.",
+      "objection_links": [
+        "Objection_02_05_26_01"
+      ]
+    },
+    {
+      "id": "0205Trial26_Ema005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial26_Ema005|",
+      "ja": "だから……<br>思ったんだ。",
+      "zh": "所以……<br>\n我曾经想过。",
+      "vi": "Vậy... Tôi đã nghĩ về nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial26_Ema006|",
+      "ja": "――みんな、<br><link=\"Objection_02_05_26_02\">死ねばいいのに</link>。",
+      "zh": "——只要大家<br>\n都<link=\"Objection_02_05_26_02\">去死就好</link>了。",
+      "vi": "---Chỉ cần mọi người Chỉ cần <link=\"Objection_02_05_26_02\"> mọi người </link> và chết.",
+      "objection_links": [
+        "Objection_02_05_26_02"
+      ]
+    },
+    {
+      "id": "0205Trial26_Ema007",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial26_Ema007|",
+      "ja": "みんなを……<br><link=\"Objection_02_05_26_03\">恨んでいた</link>。",
+      "zh": "我……<br>\n<link=\"Objection_02_05_26_03\">怨恨着</link>大家。",
+      "vi": "Tôi... <link=\"Objection_02_05_26_03\"> bực bội </link> mọi người.",
+      "objection_links": [
+        "Objection_02_05_26_03"
+      ]
+    },
+    {
+      "id": "0205Trial26_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro002|",
+      "ja": "（……エマ）",
+      "zh": "（……艾玛）",
+      "vi": "（……Ema）",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro003|",
+      "ja": "（どうして……）",
+      "zh": "（为什么……）",
+      "vi": "(Tại sao…)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial26_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "君は知っている",
+      "zh": "你是知道的",
+      "vi": "bạn biết đấy",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial26_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "そんなことを思ってはいけない",
+      "zh": "不可以有这种想法",
+      "vi": "Đừng có những suy nghĩ như vậy",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial26_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "恨む必要なんてない",
+      "zh": "没有必要去怨恨",
+      "vi": "Không cần phải bực bội",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro004|",
+      "ja": "……そんなことは、思ってはいけないよ。",
+      "zh": "……不可以有这种想法。",
+      "vi": "...Bạn không thể có kiểu suy nghĩ này.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema008",
+      "speaker_tag": "; > Ema: |#0205Trial26_Ema008|",
+      "ja": "わかってるけど……止められなかったんだ。",
+      "zh": "我知道……可是我止不住这么想。",
+      "vi": "Tôi biết...nhưng tôi không thể ngừng nghĩ về nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema009",
+      "speaker_tag": "; > Ema: |#0205Trial26_Ema009|",
+      "ja": "どうしてみんな……ボクをいじめるの……？",
+      "zh": "为什么大家……都要欺负我……？",
+      "vi": "Tại sao mọi người... bắt nạt tôi...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro005|",
+      "ja": "（エマの【殺意】が<br>　【魔女を殺す魔法】を起動させる可能性はある……）",
+      "zh": "（艾玛的【杀意】<br>\n有可能会触发【杀死魔女的魔法】……）",
+      "vi": "([Ý định giết người] của Ema Nó có thể kích hoạt [ma thuật giết phù thủy]...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro006|",
+      "ja": "（……慎重に、話を進めよう）",
+      "zh": "（……我要慎重地推进对话）",
+      "vi": "(...Tôi muốn tiếp tục cuộc đối thoại một cách thận trọng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro007|",
+      "ja": "君が恨む必要なんてない……。",
+      "zh": "你没必要恨……",
+      "vi": "Bạn không cần phải ghét...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro008|",
+      "ja": "全ては……大魔女の悪意によるものだ。",
+      "zh": "一切……都是大魔女的恶意造成的。",
+      "vi": "Mọi chuyện... đều do linh hồn tà ác của mụ phù thủy vĩ đại gây ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema010",
+      "speaker_tag": "; > Ema: |#0205Trial26_Ema010|",
+      "ja": "そんなこと……言われても。",
+      "zh": "你说这个……也没意义。",
+      "vi": "Thật vô nghĩa khi bạn nói điều này ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema011",
+      "speaker_tag": "; > Ema: |#0205Trial26_Ema011|",
+      "ja": "難しいよ……ボクには。",
+      "zh": "我……很难理解。",
+      "vi": "Thật là... khó hiểu đối với tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro009|",
+      "ja": "（エマの【殺意】が<br>　【魔女を殺す魔法】を起動させる可能性はある……）",
+      "zh": "（艾玛的【杀意】<br>\n有可能会触发【杀死魔女的魔法】……）",
+      "vi": "([Ý định giết người] của Ema Nó có thể kích hoạt [ma thuật giết phù thủy]...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro010|",
+      "ja": "（……慎重に、話を進めよう）",
+      "zh": "（……我要慎重地推进对话）",
+      "vi": "(...Tôi muốn tiếp tục cuộc đối thoại một cách thận trọng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro011|",
+      "ja": "そんなわけはない。",
+      "zh": "不可能不知道。",
+      "vi": "Không thể không biết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro012|",
+      "ja": "君は知っている。",
+      "zh": "你是知道的。",
+      "vi": "Bạn biết điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro013|",
+      "ja": "どうして君が、<br>ターゲットになったのかを。",
+      "zh": "为什么你，<br>\n会成为目标。",
+      "vi": "Tại sao vậy bạn, sẽ trở thành mục tiêu.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema012",
+      "speaker_tag": "; > Ema: |#0205Trial26_Ema012|",
+      "ja": "そんなこと言われても……わからないよ。",
+      "zh": "不管你再怎么说……我也搞不明白啊。",
+      "vi": "Dù bạn có nói gì đi chăng nữa...tôi vẫn không thể hiểu được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema013",
+      "speaker_tag": "; > Ema: |#0205Trial26_Ema013|",
+      "ja": "本当に……わからないんだ……。",
+      "zh": "我真的……不知道……",
+      "vi": "Tôi thực sự...không biết...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro014|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro015|",
+      "ja": "……なら、次は私のことを話してくれないか。",
+      "zh": "……那么，接下来能请你谈谈我的事吗？",
+      "vi": "...Vậy, bạn có thể vui lòng nói về tôi tiếp theo được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema014",
+      "speaker_tag": "; > Ema: |#0205Trial26_Ema014|",
+      "ja": "えっ……。",
+      "zh": "欸……",
+      "vi": "Hừ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial26_Hiro016|",
+      "ja": "たのむ、エマ。",
+      "zh": "拜托你了，艾玛。",
+      "vi": "Làm ơn đi, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema015",
+      "speaker_tag": "; > Ema: |#0205Trial26_Ema015|",
+      "ja": "う、うん……。",
+      "zh": "嗯、嗯……",
+      "vi": "Ừm, ừm...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial26_Ema016",
+      "speaker_tag": "; > Ema: |#0205Trial26_Ema016|",
+      "ja": "……わかった。",
+      "zh": "……我明白了。",
+      "vi": "...Tôi hiểu.",
+      "objection_links": []
+    }
+  ]
+}

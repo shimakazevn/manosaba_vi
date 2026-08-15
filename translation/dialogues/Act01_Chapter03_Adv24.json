@@ -1,0 +1,272 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter03_Adv24",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter03/Act01_Chapter03_Adv24' Naninovel scenario script",
+  "total_entries": 33,
+  "entries": [
+    {
+      "id": "0103Adv24_Narrative001",
+      "speaker_tag": "",
+      "ja": "牢屋敷裏手にある倉庫にエマが行ってみると、<br>日中にも関わらず、中に入ることができた。",
+      "zh": "艾玛来到监牢后方的仓库，<br>\n发现就算是白天也能进去。",
+      "vi": "Ema đến nhà kho phía sau Ngục Dinh Thự, Tôi thấy rằng tôi có thể đi vào ngay cả trong ngày.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative002",
+      "speaker_tag": "",
+      "ja": "――鍵が壊されていたのだ。",
+      "zh": "——因为锁被破坏了。",
+      "vi": "- Vì ổ khóa bị hỏng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative003",
+      "speaker_tag": "",
+      "ja": "エマは薄暗い倉庫内へと立ち入り、<br>室内を調べはじめる。",
+      "zh": "艾玛走进昏暗的仓库，<br>\n开始调查室内。",
+      "vi": "Ema bước vào nhà kho tối mờ, Bắt đầu khám phá bên trong.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Ema001",
+      "speaker_tag": "; > Ema: |#0103Adv24_Ema001|",
+      "ja": "（こんなところに来ても、<br>　何もないかもしれないけど）",
+      "zh": "（来这种地方，<br>\n可能什么都找不到）",
+      "vi": "(Hãy đến một nơi như thế này, Bạn có thể không tìm thấy gì)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Ema002",
+      "speaker_tag": "; > Ema: |#0103Adv24_Ema002|",
+      "ja": "（でも、少しでも手がかりを見つけないと――）",
+      "zh": "（但是，必须找到哪怕一点线索——）",
+      "vi": "(Tuy nhiên, chúng ta phải tìm ra dù chỉ một chút manh mối——)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative004",
+      "speaker_tag": "",
+      "ja": "倉庫内にはエマしかいないと思っていたが、<br>物陰から音が聞こえ、<br>エマは弾かれたようにそちらを見る。",
+      "zh": "原本以为仓库里只有她自己一个人，<br>\n却突然听到昏暗处传来了声响，<br>\n艾玛惊讶地望向声源。",
+      "vi": "Ban đầu cô ấy nghĩ mình là người duy nhất ở trong nhà kho, Nhưng đột nhiên tôi nghe thấy một âm thanh phát ra từ nơi tối tăm, Ema ngạc nhiên nhìn nguồn phát ra âm thanh.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Ema003",
+      "speaker_tag": "; > Ema: |#0103Adv24_Ema003|",
+      "ja": "誰！？",
+      "zh": "谁！？",
+      "vi": "Ai! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0103Adv24_Nanoka001|",
+      "ja": "……私よ。",
+      "zh": "……是我。",
+      "vi": "...là tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative005",
+      "speaker_tag": "",
+      "ja": "現れたのは、ナノカだった。<br>少し苦しげに表情を<ruby=\"ゆが\">歪</ruby>めている。",
+      "zh": "奈叶香现身了。<br>\n她的表情看起来有些痛苦。",
+      "vi": "Nanoyaka xuất hiện. Vẻ mặt cô ấy trông có vẻ đau khổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Ema004",
+      "speaker_tag": "; > Ema: |#0103Adv24_Ema004|",
+      "ja": "ナノカちゃん！？<br>ずっと探してたんだよ！",
+      "zh": "奈叶香！？<br>\n我一直在找你！",
+      "vi": "Nanoha! ? Tôi đã tìm kiếm bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0103Adv24_Nanoka002|",
+      "ja": "――近寄らないで。",
+      "zh": "——别靠近。",
+      "vi": "--Đừng đến gần.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Ema005",
+      "speaker_tag": "; > Ema: |#0103Adv24_Ema005|",
+      "ja": "……ッ。",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative006",
+      "speaker_tag": "",
+      "ja": "ナノカが銃を向けてきたことで、<br>エマはびくりと体を強張らせる。",
+      "zh": "看到奈叶香举起枪，<br>\n艾玛的身体僵住了。",
+      "vi": "Nhìn thấy Nanoyaka giơ súng lên, Cơ thể Ema đông cứng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0103Adv24_Nanoka003|",
+      "ja": "私はこの牢屋敷の誰も信じていない。<br>誰ひとりとしてよ。",
+      "zh": "我不相信这座监牢里的任何人。<br>\n一个都不信。",
+      "vi": "Tôi không tin bất cứ ai trong Ngục Dinh Thự này. Đừng tin bất kỳ ai trong số họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative007",
+      "speaker_tag": "",
+      "ja": "前にも増して、<br>ナノカの瞳はほの暗さを帯びていた。",
+      "zh": "奈叶香的眼神比之前更加阴暗。<br>",
+      "vi": "Đôi mắt của Nanoyaka tối hơn trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Ema006",
+      "speaker_tag": "; > Ema: |#0103Adv24_Ema006|",
+      "ja": "（ナノカちゃん、これまできっと、<br>　ここに隠れてたんだ……）",
+      "zh": "（奈叶香一定是<br>\n躲在这里很久了……）",
+      "vi": "(Nayoka phải là Mình đã trốn ở đây lâu rồi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative008",
+      "speaker_tag": "",
+      "ja": "ナノカが牢屋敷から姿を消して、<br>ずいぶん日数が経過している。",
+      "zh": "奈叶香已经从监牢里<br>\n消失了好多天了。",
+      "vi": "Nanoyaka đã được ra tù Biến mất trong nhiều ngày.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative009",
+      "speaker_tag": "",
+      "ja": "それまで身を隠して生活するには、<br>食糧もあるこの広い倉庫はうってつけだった。",
+      "zh": "这个仓库不仅宽敞，而且还有食物，<br>\n很适合躲藏生活。",
+      "vi": "Nhà kho này không chỉ rộng rãi mà còn có đồ ăn, Rất thích hợp để che giấu sự sống.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0103Adv24_Nanoka004|",
+      "ja": "真相を明らかにするため、裁判には出る。",
+      "zh": "为了揭露真相，我会出席审判。",
+      "vi": "Để khám phá sự thật, tôi sẽ tham dự phiên tòa.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative010",
+      "speaker_tag": "",
+      "ja": "ナノカは<ruby=\"きびす\">踵</ruby>を返し、<br>倉庫から出ていった。",
+      "zh": "奈叶香转身离开了仓库。<br>",
+      "vi": "Nanoyaka quay người rời khỏi nhà kho.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative011",
+      "speaker_tag": "",
+      "ja": "エマは詰めていた息を吐き出し、<br>それから倉庫の捜査に戻ることにした。",
+      "zh": "艾玛松了一口气，<br>\n然后继续调查仓库。",
+      "vi": "Ema thở phào nhẹ nhõm, Sau đó tiếp tục điều tra nhà kho.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative012",
+      "speaker_tag": "",
+      "ja": "しばらく歩き回ってみると、<br>床に気になる痕跡を見つけた。",
+      "zh": "走了一会，<br>\n她在地板上发现了可疑的痕迹。",
+      "vi": "Sau khi đi bộ được một lúc, Cô tìm thấy những dấu vết khả nghi trên sàn nhà.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Ema007",
+      "speaker_tag": "; > Ema: |#0103Adv24_Ema007|",
+      "ja": "（これって、弾痕……？）",
+      "zh": "（这是，弹痕……？）",
+      "vi": "(Đây là dấu đầu dòng...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative013",
+      "speaker_tag": "",
+      "ja": "エマは、先ほどナノカに向けられた銃を思い出す。<br>その際ナノカは発砲していない。",
+      "zh": "艾玛想起刚才奈叶香拿枪指着她的事。<br>\n那时奈叶香并没有开枪。",
+      "vi": "Ema nhớ lại chuyện vừa xảy ra khi Nanoyoshi chĩa súng vào cô. Nanoyaka không bắn vào thời điểm đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Ema008",
+      "speaker_tag": "; > Ema: |#0103Adv24_Ema008|",
+      "ja": "（いつこれを撃ったんだろう……）",
+      "zh": "（这是什么时候留下的呢……）",
+      "vi": "(Cái này bị bỏ lại từ khi nào...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative014",
+      "speaker_tag": "",
+      "ja": "首を傾げつつ、他にも何かないか探してみるエマ。",
+      "zh": "艾玛感到疑惑，同时继续寻找其他线索。",
+      "vi": "Ema bối rối và tiếp tục tìm kiếm những manh mối khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative015",
+      "speaker_tag": "",
+      "ja": "すると、棚の中に開けられた箱を見つけた。",
+      "zh": "这时，她发现架子上有一个被打开的箱子。",
+      "vi": "Lúc này, cô tìm thấy một chiếc hộp đã mở trên kệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Ema009",
+      "speaker_tag": "; > Ema: |#0103Adv24_Ema009|",
+      "ja": "これって……。",
+      "zh": "这是……",
+      "vi": "Đây là...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Ema010",
+      "speaker_tag": "; > Ema: |#0103Adv24_Ema010|",
+      "ja": "ロウソクにマッチに爆竹……。<br>これがあれば、火をつけることができるかも……。",
+      "zh": "蜡烛、火柴、鞭炮……<br>\n有这些的话，就能放火了吧……",
+      "vi": "Nến, diêm, pháo... Nếu bạn có những thứ này, bạn có thể đốt nó...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative016",
+      "speaker_tag": "",
+      "ja": "燃えたゲストハウスの光景を思い出す。",
+      "zh": "艾玛回想起了招待所燃烧着的景象。",
+      "vi": "Ema nhớ lại cảnh cháy ở Nhà Khách.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative017",
+      "speaker_tag": "",
+      "ja": "エマはハンナの死体がぶら下がる光景を思い出し、<br>首を振った。",
+      "zh": "然后，回想起汉娜的尸体悬挂的景象……<br>\n她摇了摇头。",
+      "vi": "Sau đó, nhớ lại cảnh thi thể của Hanna bị treo cổ... Cô ấy lắc đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative018",
+      "speaker_tag": "",
+      "ja": "その光景を忘れようとするように歩き、<br>エマは倉庫の中の探索を続ける。",
+      "zh": "为了忘掉那幅景象，艾玛走动起来，<br>\n继续探索着仓库。",
+      "vi": "Để quên đi cảnh tượng đó, Ema đi loanh quanh, Tiếp tục khám phá nhà kho.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv24_Narrative019",
+      "speaker_tag": "",
+      "ja": "しかしそこから特に手がかりらしいものは見つけられず、<br>エマは諦めて倉庫を出た。",
+      "zh": "但是之后并未发现什么特别的线索，<br>\n艾玛只好放弃，离开了仓库。",
+      "vi": "Nhưng sau đó không tìm thấy manh mối đặc biệt nào, Ema đành bỏ cuộc và rời khỏi nhà kho.",
+      "objection_links": []
+    }
+  ]
+}

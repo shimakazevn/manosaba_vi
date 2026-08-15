@@ -1,0 +1,528 @@
+{
+  "bundle": "general-localization-zhhans-scripts-debug_assets_all.bundle",
+  "script_name": "Debug_Actors",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Debug/Debug_Actors' Naninovel scenario script",
+  "total_entries": 65,
+  "entries": [
+    {
+      "id": "~953a1fc1",
+      "speaker_tag": "",
+      "ja": "Debug_Actors # Characters",
+      "zh": "",
+      "vi": "Debug_Actors # Characters",
+      "objection_links": []
+    },
+    {
+      "id": "~dfdaf7fa",
+      "speaker_tag": "",
+      "ja": "Yuki.1",
+      "zh": "",
+      "vi": "Yuki.1",
+      "objection_links": []
+    },
+    {
+      "id": "~8e6166",
+      "speaker_tag": "",
+      "ja": "Yuki.2",
+      "zh": "",
+      "vi": "Yuki.2",
+      "objection_links": []
+    },
+    {
+      "id": "~d8af7466",
+      "speaker_tag": "",
+      "ja": "Yuki.3",
+      "zh": "",
+      "vi": "Yuki.3",
+      "objection_links": []
+    },
+    {
+      "id": "~b00b8e60",
+      "speaker_tag": "",
+      "ja": "Yuki.4",
+      "zh": "",
+      "vi": "Yuki.4",
+      "objection_links": []
+    },
+    {
+      "id": "~a9ef9fe9",
+      "speaker_tag": "",
+      "ja": "Yuki.5",
+      "zh": "",
+      "vi": "Yuki.5",
+      "objection_links": []
+    },
+    {
+      "id": "~11932301",
+      "speaker_tag": "",
+      "ja": "Yuki.6",
+      "zh": "",
+      "vi": "Yuki.6",
+      "objection_links": []
+    },
+    {
+      "id": "~58a33b82",
+      "speaker_tag": "",
+      "ja": "Yuki.7",
+      "zh": "",
+      "vi": "Yuki.7",
+      "objection_links": []
+    },
+    {
+      "id": "~e4c78aae",
+      "speaker_tag": "",
+      "ja": "Yuki.8",
+      "zh": "",
+      "vi": "Yuki.8",
+      "objection_links": []
+    },
+    {
+      "id": "~de2cf568",
+      "speaker_tag": "",
+      "ja": "Yuki.9",
+      "zh": "",
+      "vi": "Yuki.9",
+      "objection_links": []
+    },
+    {
+      "id": "~1367d943",
+      "speaker_tag": "",
+      "ja": "Yuki.10",
+      "zh": "",
+      "vi": "Yuki.10",
+      "objection_links": []
+    },
+    {
+      "id": "~831b2071",
+      "speaker_tag": "",
+      "ja": "Yuki.11",
+      "zh": "",
+      "vi": "Yuki.11",
+      "objection_links": []
+    },
+    {
+      "id": "~30e6a6a",
+      "speaker_tag": "",
+      "ja": "Yuki.12",
+      "zh": "",
+      "vi": "Yuki.12",
+      "objection_links": []
+    },
+    {
+      "id": "~d52b7793",
+      "speaker_tag": "",
+      "ja": "Yuki.13",
+      "zh": "",
+      "vi": "Yuki.13",
+      "objection_links": []
+    },
+    {
+      "id": "~38c77a73",
+      "speaker_tag": "",
+      "ja": "Yuki.14",
+      "zh": "",
+      "vi": "Yuki.14",
+      "objection_links": []
+    },
+    {
+      "id": "~c2ebff7c",
+      "speaker_tag": "",
+      "ja": "Yuki.15",
+      "zh": "",
+      "vi": "Yuki.15",
+      "objection_links": []
+    },
+    {
+      "id": "~4426f40",
+      "speaker_tag": "",
+      "ja": "Yuki.16",
+      "zh": "",
+      "vi": "Yuki.16",
+      "objection_links": []
+    },
+    {
+      "id": "~902fdbc9",
+      "speaker_tag": "",
+      "ja": "Yuki.17",
+      "zh": "",
+      "vi": "Yuki.17",
+      "objection_links": []
+    },
+    {
+      "id": "~ffdfdf5c",
+      "speaker_tag": "",
+      "ja": "Yuki.18",
+      "zh": "",
+      "vi": "Yuki.18",
+      "objection_links": []
+    },
+    {
+      "id": "~ffee8b24",
+      "speaker_tag": "",
+      "ja": "Yuki.19",
+      "zh": "",
+      "vi": "Yuki.19",
+      "objection_links": []
+    },
+    {
+      "id": "~3b537943",
+      "speaker_tag": "",
+      "ja": "Yuki.20",
+      "zh": "",
+      "vi": "Yuki.20",
+      "objection_links": []
+    },
+    {
+      "id": "~226d4efd",
+      "speaker_tag": "",
+      "ja": "Ema",
+      "zh": "",
+      "vi": "Ema",
+      "objection_links": []
+    },
+    {
+      "id": "~fdb56f1e",
+      "speaker_tag": "",
+      "ja": "Hiro",
+      "zh": "",
+      "vi": "Hiro",
+      "objection_links": []
+    },
+    {
+      "id": "~8792ae4d",
+      "speaker_tag": "",
+      "ja": "Meruru",
+      "zh": "",
+      "vi": "Meruru",
+      "objection_links": []
+    },
+    {
+      "id": "~dbc9b953",
+      "speaker_tag": "",
+      "ja": "Hanna",
+      "zh": "",
+      "vi": "Hanna",
+      "objection_links": []
+    },
+    {
+      "id": "~98d75150",
+      "speaker_tag": "",
+      "ja": "Sherry",
+      "zh": "",
+      "vi": "Sherry",
+      "objection_links": []
+    },
+    {
+      "id": "~c89c4add",
+      "speaker_tag": "",
+      "ja": "AnAn",
+      "zh": "",
+      "vi": "AnAn",
+      "objection_links": []
+    },
+    {
+      "id": "~5ec7677f",
+      "speaker_tag": "",
+      "ja": "Leia",
+      "zh": "",
+      "vi": "Leia",
+      "objection_links": []
+    },
+    {
+      "id": "~a89fd35b",
+      "speaker_tag": "",
+      "ja": "Coco",
+      "zh": "",
+      "vi": "Coco",
+      "objection_links": []
+    },
+    {
+      "id": "~fbd84ffe",
+      "speaker_tag": "",
+      "ja": "Miria",
+      "zh": "",
+      "vi": "Miria",
+      "objection_links": []
+    },
+    {
+      "id": "~d6d1836b",
+      "speaker_tag": "",
+      "ja": "Margo",
+      "zh": "",
+      "vi": "Margo",
+      "objection_links": []
+    },
+    {
+      "id": "~98cc9e99",
+      "speaker_tag": "",
+      "ja": "Noah",
+      "zh": "",
+      "vi": "Noah",
+      "objection_links": []
+    },
+    {
+      "id": "~9b709c84",
+      "speaker_tag": "",
+      "ja": "Nanoka",
+      "zh": "",
+      "vi": "Nanoka",
+      "objection_links": []
+    },
+    {
+      "id": "~b51e45eb",
+      "speaker_tag": "",
+      "ja": "Alisa",
+      "zh": "",
+      "vi": "Alisa",
+      "objection_links": []
+    },
+    {
+      "id": "~4409f513",
+      "speaker_tag": "",
+      "ja": "Debug_Actors # LayeredCharacters",
+      "zh": "",
+      "vi": "Debug_Actors # LayeredCharacters",
+      "objection_links": []
+    },
+    {
+      "id": "~f3e4186d",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL1,ArmR1,Normal1",
+      "zh": "",
+      "vi": "Hiro.ArmL1,ArmR1,Normal1",
+      "objection_links": []
+    },
+    {
+      "id": "~970d8c10",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL2,ArmR2,Smile1",
+      "zh": "",
+      "vi": "Hiro.ArmL2,ArmR2,Smile1",
+      "objection_links": []
+    },
+    {
+      "id": "~128d1068",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL3,ArmR3,Angry1",
+      "zh": "",
+      "vi": "Hiro.ArmL3,ArmR3,Angry1",
+      "objection_links": []
+    },
+    {
+      "id": "~cb413984",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL4,ArmR4,Pensive1",
+      "zh": "",
+      "vi": "Hiro.ArmL4,ArmR4,Pensive1",
+      "objection_links": []
+    },
+    {
+      "id": "~d415a204",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL5,ArmR5,Cry1",
+      "zh": "",
+      "vi": "Hiro.ArmL5,ArmR5,Cry1",
+      "objection_links": []
+    },
+    {
+      "id": "~ff45623f",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL6,ArmR6,Surprised1",
+      "zh": "",
+      "vi": "Hiro.ArmL6,ArmR6,Surprised1",
+      "objection_links": []
+    },
+    {
+      "id": "~fe397935",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL7,ArmR7,Flushed1",
+      "zh": "",
+      "vi": "Hiro.ArmL7,ArmR7,Flushed1",
+      "objection_links": []
+    },
+    {
+      "id": "~9dad957c",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL8,ArmR8,Fearful1",
+      "zh": "",
+      "vi": "Hiro.ArmL8,ArmR8,Fearful1",
+      "objection_links": []
+    },
+    {
+      "id": "~fcd9119d",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL9,ArmR9,Normal2",
+      "zh": "",
+      "vi": "Hiro.ArmL9,ArmR9,Normal2",
+      "objection_links": []
+    },
+    {
+      "id": "~3a25f585",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL10,ArmR10,Smile2",
+      "zh": "",
+      "vi": "Hiro.ArmL10,ArmR10,Smile2",
+      "objection_links": []
+    },
+    {
+      "id": "~baf0d14",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL11,ArmR11,Angry2",
+      "zh": "",
+      "vi": "Hiro.ArmL11,ArmR11,Angry2",
+      "objection_links": []
+    },
+    {
+      "id": "~76c8431f",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL12,ArmR12,Pensive2",
+      "zh": "",
+      "vi": "Hiro.ArmL12,ArmR12,Pensive2",
+      "objection_links": []
+    },
+    {
+      "id": "~5b9a2606",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL13,ArmR13,Cry2",
+      "zh": "",
+      "vi": "Hiro.ArmL13,ArmR13,Cry2",
+      "objection_links": []
+    },
+    {
+      "id": "~2d8b3fdf",
+      "speaker_tag": "",
+      "ja": "Hiro.Arms3,Surprised2",
+      "zh": "",
+      "vi": "Hiro.Arms3,Surprised2",
+      "objection_links": []
+    },
+    {
+      "id": "~d63b7abb",
+      "speaker_tag": "",
+      "ja": "Hiro.Arms4,Flushed2",
+      "zh": "",
+      "vi": "Hiro.Arms4,Flushed2",
+      "objection_links": []
+    },
+    {
+      "id": "~8bad7da4",
+      "speaker_tag": "",
+      "ja": "Hiro.ArmL1,ArmR1,Fearful2",
+      "zh": "",
+      "vi": "Hiro.ArmL1,ArmR1,Fearful2",
+      "objection_links": []
+    },
+    {
+      "id": "~37027097",
+      "speaker_tag": "",
+      "ja": "Debug_Actors # TextPrinter",
+      "zh": "",
+      "vi": "Debug_Actors # TextPrinter",
+      "objection_links": []
+    },
+    {
+      "id": "~7dffa318",
+      "speaker_tag": "; > Sherry: |#~7dffa318|",
+      "ja": "「ああそれは、良い情報ですね！<br>　１分しか浮けないなら、<br>　足跡残さず殺すのは無理だって言えるかも！」",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~ffd685b7",
+      "speaker_tag": "",
+      "ja": "-+<sprite name=\"DashLeft\">+<sprite name=\"DashMiddle\">+<sprite name=\"DashRight\">+-",
+      "zh": "",
+      "vi": "-+<sprite name=\"DashLeft\">+<sprite name=\"DashMiddle\">+<sprite name=\"DashRight\">+-",
+      "objection_links": []
+    },
+    {
+      "id": "~db048835",
+      "speaker_tag": "",
+      "ja": "戻る<sprite name=\"Return\">",
+      "zh": "",
+      "vi": "Kiểm tra hệ thống kịch bản.",
+      "objection_links": []
+    },
+    {
+      "id": "~1a7661d5",
+      "speaker_tag": "",
+      "ja": "第一話<sprite name=\"Sparkles\">",
+      "zh": "",
+      "vi": "Chương 1<sprite name=\"Sparkles\">",
+      "objection_links": []
+    },
+    {
+      "id": "~bfd7fa4f",
+      "speaker_tag": "",
+      "ja": "PRESS <sprite name=\"GamePadButton_A\"> Button",
+      "zh": "",
+      "vi": "PRESS <sprite name=\"GamePadButton_A\"> Button",
+      "objection_links": []
+    },
+    {
+      "id": "~aafe042a",
+      "speaker_tag": "",
+      "ja": "aaa",
+      "zh": "",
+      "vi": "aaa",
+      "objection_links": []
+    },
+    {
+      "id": "~46999340",
+      "speaker_tag": "",
+      "ja": "bbb",
+      "zh": "",
+      "vi": "bbb",
+      "objection_links": []
+    },
+    {
+      "id": "~8f6546da",
+      "speaker_tag": "",
+      "ja": "ccc",
+      "zh": "",
+      "vi": "ccc",
+      "objection_links": []
+    },
+    {
+      "id": "~7c4417b1",
+      "speaker_tag": "",
+      "ja": "ddd",
+      "zh": "",
+      "vi": "ddd",
+      "objection_links": []
+    },
+    {
+      "id": "~1849764",
+      "speaker_tag": "",
+      "ja": "eee",
+      "zh": "",
+      "vi": "eee",
+      "objection_links": []
+    },
+    {
+      "id": "~3a1eb973",
+      "speaker_tag": "",
+      "ja": "Debug_Actors # Backgrounds",
+      "zh": "",
+      "vi": "Debug_Actors # Backgrounds",
+      "objection_links": []
+    },
+    {
+      "id": "~e9bfa10e",
+      "speaker_tag": "",
+      "ja": "Ends.",
+      "zh": "",
+      "vi": "Ends.",
+      "objection_links": []
+    },
+    {
+      "id": "~499c868",
+      "speaker_tag": "",
+      "ja": "Debug_Actors # Tricks",
+      "zh": "",
+      "vi": "Debug_Actors # Tricks",
+      "objection_links": []
+    }
+  ]
+}

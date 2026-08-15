@@ -1,0 +1,858 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial21",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial21' Naninovel scenario script",
+  "total_entries": 105,
+  "entries": [
+    {
+      "id": "0205Trial21_Alisa001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial21_Alisa001|",
+      "ja": "うっせぇな！<br>死ね死ね死ね！",
+      "zh": "吵死了！<br>\n去死去死去死！",
+      "vi": "Ồn ào quá! Đi, chết, chết, chết!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial21_Alisa002|",
+      "ja": "ウチらは存在することが<br>罪なんだ……。",
+      "zh": "我们的存在本身<br>\n就是罪恶……",
+      "vi": "Sự tồn tại của chúng ta Đó là tội lỗi...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial21_Alisa003|",
+      "ja": "お前らだって<br>人に言えないことの<br>１つや２つ<br><link=\"Objection_02_05_21_01\">やってきた</link>んだろ……！？",
+      "zh": "你们也肯定<br>\n<link=\"Objection_02_05_21_01\">有做过</link>一两件<br>\n不可告人的事吧……！？<br>",
+      "vi": "Bạn cũng phải <link=\"Objection_02_05_21_01\">Đã hoàn thành </link>Một hoặc hai Có điều thầm kín muốn nói...! ?",
+      "objection_links": [
+        "Objection_02_05_21_01"
+      ]
+    },
+    {
+      "id": "0205Trial21_Alisa004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial21_Alisa004|",
+      "ja": "周りに知られたら<br>ドン引きされて、<br>ぜってーに<br><link=\"Objection_02_05_21_02\">許されねぇ</link>ぐらいの<br>ことをよ！",
+      "zh": "就是那种<br>\n让周围人知道<br>\n会被嫌弃，<br>\n绝对<link=\"Objection_02_05_21_02\">不会被原谅</link>的事！<br>",
+      "vi": "Đó là kiểu Hãy để mọi người xung quanh mày biết Sẽ không thích, Tuyệt đối <link=\"Objection_02_05_21_02\"> sẽ không được tha thứ cho </link>!",
+      "objection_links": [
+        "Objection_02_05_21_02"
+      ]
+    },
+    {
+      "id": "0205Trial21_Alisa005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial21_Alisa005|",
+      "ja": "だったらここで<br>死んだって<link=\"Objection_02_05_21_03\">いい</link>だろ……。",
+      "zh": "既然如此，<br>\n都死在这里不就<link=\"Objection_02_05_21_03\">好</link>了……",
+      "vi": "Trong trường hợp này, Chẳng phải sẽ tốt hơn nếu tất cả họ đều chết ở đây sao? <link=\"Objection_02_05_21_03\"> </link>...",
+      "objection_links": [
+        "Objection_02_05_21_03"
+      ]
+    },
+    {
+      "id": "0205Trial21_Alisa006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial21_Alisa006|",
+      "ja": "文句があんなら<br><link=\"Objection_02_05_21_04\">かかってこい</link>よ！",
+      "zh": "有意见的话<br>\n就<link=\"Objection_02_05_21_04\">放马过来</link>啊！",
+      "vi": "Nếu mày có bất kỳ nhận xét nào Chỉ cần <link=\"Objection_02_05_21_04\"> ghé qua </link>!",
+      "objection_links": [
+        "Objection_02_05_21_04"
+      ]
+    },
+    {
+      "id": "0205Trial21_Alisa007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial21_Alisa007|",
+      "ja": "骨すら残さねーぐらい、<br>ウチが燃やし尽くしてやる！",
+      "zh": "我会把你们<br>\n烧得连骨头都不剩！",
+      "vi": "Tao sẽ mày Bị đốt cháy đến không còn xương!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial21_Alisa008|",
+      "ja": "安心しな……<br>ウチだっててめーらと同じ<br><link=\"Objection_02_05_21_05\">罪人</link>の１人だ。",
+      "zh": "放心吧……<br>\n我跟你们一样，<br>\n我也是个<link=\"Objection_02_05_21_05\">罪人</link>。",
+      "vi": "Đừng lo lắng... Tao cũng giống như mày, Tao cũng là một <link=\"Objection_02_05_21_05\"> tội nhân</link>.",
+      "objection_links": [
+        "Objection_02_05_21_05"
+      ]
+    },
+    {
+      "id": "0205Trial21_Alisa009",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial21_Alisa009|",
+      "ja": "おめえらの後は、<br>すぐに追いかけてやるよ！",
+      "zh": "等你们都上路了，<br>\n我马上就会跟上来！",
+      "vi": "Khi tất cả các mày đang trên đường, Tao sẽ theo sau ngay!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro001",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro001|",
+      "ja": "（私たちを巻き込んでの無理心中か……）",
+      "zh": "（是打算拉着我们一起去死吗……）",
+      "vi": "(Ngươi định kéo chúng ta vào chỗ chết cùng nhau à...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro002|",
+      "ja": "（悪いがそれに付き合うことはできない）",
+      "zh": "（抱歉，恕难奉陪了）",
+      "vi": "(Xin lỗi, tôi không thể đi cùng bạn nữa)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro003|",
+      "ja": "（失うわけにはいかないんだ。<br>　私たちの命も……そして、君の命も！）",
+      "zh": "（不管是我们，还是你……<br>\n都绝不能丢掉生命！）",
+      "vi": "(Cho dù đó là chúng tôi hay bạn... Bạn không được mất mạng! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial21_Choice001| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "誰も罪を犯していない",
+      "zh": "谁都没犯过罪",
+      "vi": "Chưa có ai phạm tội",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial21_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "私は許す",
+      "zh": "我原谅你",
+      "vi": "tôi tha thứ cho bạn",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial21_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "いいわけない",
+      "zh": "一点都不好",
+      "vi": "Không tốt chút nào",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Choice004",
+      "speaker_tag": "; > @choice |#0205Trial21_Choice004| button:ChoiceButtons/Trial/Approval handler:TrialHiro",
+      "ja": "力づくで止めてやる",
+      "zh": "动手阻止你",
+      "vi": "Dừng lại bạn",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Choice005",
+      "speaker_tag": "; > @choice |#0205Trial21_Choice005| button:ChoiceButtons/Trial/MagicNanoka handler:TrialHiro",
+      "ja": "【幻視】",
+      "zh": "【幻视】",
+      "vi": "[Tầm nhìn]",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro004|",
+      "ja": "……ナノカ！ アリサについて教えてくれ！",
+      "zh": "……奈叶香！把亚里沙的情况告诉我吧！",
+      "vi": "...Nayoka! Hãy kể cho tôi nghe về Alisa!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0205Trial21_Nanoka001|",
+      "ja": "彼女の罪……それは放火ね。",
+      "zh": "她的罪……是纵火。",
+      "vi": "Tội của cô ấy... là đốt phá.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0205Trial21_Nanoka002|",
+      "ja": "偶然が重なって、<br>彼女の悪戯が<ruby=\"おおごと\">大事</ruby>になってしまった……。",
+      "zh": "偶然叠加偶然，<br>\n于是她的恶作剧酿成了大祸……",
+      "vi": "Cơ hội chồng lên cơ hội, Vậy là trò đùa của cô đã dẫn tới thảm họa...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0205Trial21_Nanoka003|",
+      "ja": "でも彼女が罰せられることはなかったわ。",
+      "zh": "只不过，她并没有受到惩罚。",
+      "vi": "Tuy nhiên, cô không bị trừng phạt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro005|",
+      "ja": "……どうしてそんなことが。",
+      "zh": "……为什么？",
+      "vi": "...Tại sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0205Trial21_Nanoka004|",
+      "ja": "……親に事実を隠蔽されたのよ。<br>おそらく世間体が悪かったのでしょうね。",
+      "zh": "……他的父母对外隐瞒了事实。<br>\n或许是觉得影响不好吧。",
+      "vi": "…Cha mẹ anh ấy đã giấu sự thật với thế giới bên ngoài. Có lẽ cảm giác tác động không tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0205Trial21_Nanoka005|",
+      "ja": "だから――。",
+      "zh": "所以——",
+      "vi": "Vậy——",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0205Trial21_Nanoka006|",
+      "ja": "――うくっ！",
+      "zh": "——呃！",
+      "vi": "--- Ờ!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Nanoka007",
+      "speaker_tag": "; > Nanoka: |#0205Trial21_Nanoka007|",
+      "ja": "……ごめんなさい。<br>このぐらいで……大丈夫かしら……。",
+      "zh": "……抱歉。<br>\n这些情报……足够吗……",
+      "vi": "...Xin lỗi. Thông tin này...đủ chưa...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Nanoka008",
+      "speaker_tag": "; > Nanoka: |#0205Trial21_Nanoka008|",
+      "ja": "連続で使うには……<br>この姿だと、少し負担が大きいみたい……。",
+      "zh": "以我目前的姿态……<br>\n如果连续使用，负荷好像有些重……",
+      "vi": "Ở vị trí hiện tại của tôi... Nếu sử dụng liên tục thì tải có vẻ hơi nặng...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro006|",
+      "ja": "……すまない。<br>休んでいてくれ、ナノカ。",
+      "zh": "……抱歉。<br>\n你好好休息吧，奈叶香。",
+      "vi": "...Xin lỗi. Cậu nên nghỉ ngơi thật tốt nhé, Nanoha.",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_002",
+      "speaker_tag": "; > @toast |#Toast_002|",
+      "ja": "議論発展…",
+      "zh": "讨论前进…",
+      "vi": "Cuộc thảo luận đang tiến triển…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro007|",
+      "ja": "いいや！<br>誰も罪を犯してなんていない！",
+      "zh": "不！<br>\n谁都没有犯过罪！",
+      "vi": "Không! Không có ai phạm tội cả!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro008|",
+      "ja": "みんな潔白だ！",
+      "zh": "大家都是清白的！",
+      "vi": "Mọi người đều vô tội!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa010",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa010|",
+      "ja": "すぐバレる嘘つくんじゃねぇ！",
+      "zh": "别说这种一秒就戳破的谎话了！",
+      "vi": "Đừng nói những lời dối trá có thể bị vạch trần trong giây lát!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa011",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa011|",
+      "ja": "この中にはウチみたく<br>過去に罪を犯したやつらもいる……！",
+      "zh": "我们之中有人跟我一样<br>\n过去曾犯过罪……！",
+      "vi": "Một số người trong chúng ta giống Tao Đã từng phạm tội trong quá khứ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa012",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa012|",
+      "ja": "遅かれ早かれ<br>全員罪を犯すんだよ！",
+      "zh": "而且迟早<br>\n所有人都会犯罪的！",
+      "vi": "Và sớm hay muộn Mọi người đều phạm tội!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro009|",
+      "ja": "（嘘で言いくるめられるような相手じゃないか……！）",
+      "zh": "（看来撒谎没法骗过她……！）",
+      "vi": "(Có vẻ như nói dối không thể lừa được cô ấy...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro010|",
+      "ja": "（……アリサも、過去に犯した罪がある）",
+      "zh": "（……亚里沙，过去曾犯过罪）",
+      "vi": "(...Alisa, đã từng phạm tội trong quá khứ)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro011|",
+      "ja": "（罪に対する想いが、<br>　暴走の一因であることは間違いない）",
+      "zh": "（她的负罪感<br>\n无疑是她失控的原因之一）",
+      "vi": "(Tội lỗi của cô ấy Chắc chắn là một trong những lý do khiến cô ấy mất kiểm soát)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro012|",
+      "ja": "（その過去に、<br>　何か心残りがあったとしたら――）",
+      "zh": "（很可能她对于过去，<br>\n有什么未了的心愿——）",
+      "vi": "(Có thể cô ấy có nhiều suy nghĩ về quá khứ, Bạn có điều ước nào chưa thực hiện được không——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro013|",
+      "ja": "違うぞ、アリサ……！",
+      "zh": "不对，亚里沙……！",
+      "vi": "Không, Alisa...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro014|",
+      "ja": "死んでいい人間なんていない！",
+      "zh": "没有谁是该死的！",
+      "vi": "Không ai đáng phải chết!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa013",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa013|",
+      "ja": "キレイごと言ってんじゃねぇ！",
+      "zh": "别扯你的大道理了！",
+      "vi": "Đừng nói nhảm nữa!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa014",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa014|",
+      "ja": "じゃあ生きる価値もないほど<br>償い切れねぇ罪を犯したヤツはどうすんだよ……！？",
+      "zh": "那犯下了严重到丧失生存价值，<br>\n严重到无法清偿的罪孽的家伙又该怎么办……！？",
+      "vi": "Tội ác đó nghiêm trọng đến mức mất đi giá trị sinh tồn, Có người phạm tội nặng đến mức không thể chuộc được thì phải làm sao...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa015",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa015|",
+      "ja": "死ぬべきだろ……！？ なあ！？",
+      "zh": "这家伙就应该去死才对吧……！？没错吧！？",
+      "vi": "Tên này đáng chết...! ? Đúng vậy! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro015|",
+      "ja": "（アリサの主張を否定したところで、<br>　反発されるだけか……！）",
+      "zh": "（否定亚里沙的主张，<br>\n只会招致反抗吗……！）",
+      "vi": "(Bác bỏ yêu cầu của Alisa, Nó sẽ chỉ dẫn đến sự phản kháng...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro016|",
+      "ja": "（……アリサも、過去に犯した罪がある）",
+      "zh": "（……亚里沙，过去曾犯过罪）",
+      "vi": "(...Alisa, đã từng phạm tội trong quá khứ)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro017|",
+      "ja": "（罪に対する想いが、<br>　暴走の一因であることは間違いない）",
+      "zh": "（她的负罪感<br>\n无疑是她失控的原因之一）",
+      "vi": "(Tội lỗi của cô ấy Chắc chắn là một trong những lý do khiến cô ấy mất kiểm soát)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro018|",
+      "ja": "（その過去に、<br>　何か心残りがあったとしたら――）",
+      "zh": "（很可能她对于过去，<br>\n有什么未了的心愿——）",
+      "vi": "(Có thể cô ấy có nhiều suy nghĩ về quá khứ, Bạn có điều ước nào chưa thực hiện được không——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro019|",
+      "ja": "（そうだな……こうなれば、力づくで止めるしかない）",
+      "zh": "（是啊……事已至此，只能动手阻止她了）",
+      "vi": "(Ừ... giờ chuyện đã đến nước này, tất cả những gì chúng ta có thể làm là ngăn cô ấy lại)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro020|",
+      "ja": "（頭数はこちらのほうが上だ。<br>　一斉にかかればアリサだって――）",
+      "zh": "（我们这边人数占优。<br>\n只要一起上，区区亚里沙——）",
+      "vi": "(Ở đây chúng tôi có lợi thế về số lượng. Chỉ cần đến với nhau thôi, chỉ Alisa——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro021|",
+      "ja": "（……いや）",
+      "zh": "（……不）",
+      "vi": "(…không)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro022|",
+      "ja": "（暴力に訴えれば犠牲が出る……<br>　それはダメだ）",
+      "zh": "（诉诸暴力的话就会出现牺牲……<br>\n这可不行）",
+      "vi": "(Khi dùng đến bạo lực thì phải có hy sinh... Điều này không ổn)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro023|",
+      "ja": "（……誰ひとり欠けることなく<br>　この牢屋敷を脱出するんだ……！）",
+      "zh": "（……我们要所有人齐齐整整地<br>\n逃离这座监牢……！）",
+      "vi": "(...chúng tôi muốn mọi người Thoát khỏi Ngục Dinh Thự này...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro024|",
+      "ja": "（だから、今は他の方法を考えよう……！）",
+      "zh": "（所以，现在得想想其他方法……！）",
+      "vi": "(Vì vậy, bây giờ mình phải nghĩ ra những phương pháp khác…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro025|",
+      "ja": "（……アリサも、過去に犯した罪がある）",
+      "zh": "（……亚里沙，过去曾犯过罪）",
+      "vi": "(...Alisa, đã từng phạm tội trong quá khứ)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro026|",
+      "ja": "（罪に対する想いが、<br>　暴走の一因であることは間違いない）",
+      "zh": "（她的负罪感<br>\n无疑是她失控的原因之一）",
+      "vi": "(Tội lỗi của cô ấy Chắc chắn là một trong những lý do khiến cô ấy mất kiểm soát)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro027|",
+      "ja": "（その過去に、<br>　何か心残りがあったとしたら――）",
+      "zh": "（很可能她对于过去，<br>\n有什么未了的心愿——）",
+      "vi": "(Có thể cô ấy có nhiều suy nghĩ về quá khứ, Bạn có điều ước nào chưa thực hiện được không——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro028|",
+      "ja": "私は……許すよ、アリサ。",
+      "zh": "我……原谅你，亚里沙。",
+      "vi": "Tôi... tha thứ cho bạn, Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa016",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa016|",
+      "ja": "ああ！？",
+      "zh": "啊啊！？",
+      "vi": "À! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro029|",
+      "ja": "君が過去にしたことも、全て。",
+      "zh": "原谅你，过去所做的一切。",
+      "vi": "Hãy tha thứ cho bạn vì tất cả những gì bạn đã làm trong quá khứ.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa017",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa017|",
+      "ja": "おめえに……何がわかるってんだ！",
+      "zh": "你……懂什么啊！",
+      "vi": "Bạn...mày biết gì không!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro030|",
+      "ja": "わからない。<br>……それでも、許すんだ。",
+      "zh": "我不懂。<br>\n……可就算如此，我也原谅你。",
+      "vi": "Tôi không hiểu. ...Nhưng dù vậy, tôi vẫn tha thứ cho bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa018",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa018|",
+      "ja": "人が死んだんだ……！<br>ウチは……許されちゃいけないんだよ！！",
+      "zh": "我害死人了啊……！<br>\n我……是不能被原谅的！！",
+      "vi": "Tao đã giết ai đó...! Tao...không thể được tha thứ! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro031|",
+      "ja": "――それでも！",
+      "zh": "——即便如此！",
+      "vi": "--Kể cả thế đi nữa!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa019",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa019|",
+      "ja": "……っ……！",
+      "zh": "…………！",
+      "vi": "…………！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro032|",
+      "ja": "……誰かが君を、許さなくちゃいけないんだ。",
+      "zh": "……也必须，有人来原谅你。",
+      "vi": "...và ai đó phải tha thứ cho bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro033|",
+      "ja": "人を殺し、周りを殺し……<br>そして最後には自分も殺すか？",
+      "zh": "你要杀人，杀身边的人……<br>\n到最后要把自己也杀了？",
+      "vi": "Muốn giết người thì giết những người xung quanh... Cuối cùng bạn sẽ tự sát?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro034|",
+      "ja": "まるで泣きわめく赤ん坊を見ているかのようだ。",
+      "zh": "我看你就跟只会一个劲哭的婴孩一样。",
+      "vi": "Tôi nghĩ bạn giống như một đứa trẻ đang khóc vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa020",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa020|",
+      "ja": "なっ……！？<br>んだとおめえ……！",
+      "zh": "什……！？<br>\n你这家伙在说什么……！",
+      "vi": "Cái gì...! ? Bạn đang nói về cái gì vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro035",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro035|",
+      "ja": "君がやっていることは、<br>そんな子どもの癇癪と<br>変わらないと言っているんだ。",
+      "zh": "我说你正在做的事情，<br>\n和小孩子发脾气<br>\n没什么两样。",
+      "vi": "Tôi đã nói điều bạn đang làm, Mất bình tĩnh với trẻ con Không có gì khác biệt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro036",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro036|",
+      "ja": "……君の行動で人死にが出たと言ったな。<br>だが君が後ろ向きに自罰を続ければ、<br>被害者が生き返るのか？",
+      "zh": "……你说你的行为害死了人。<br>\n但你一直消极地自罚下去，<br>\n受害者就会复活吗？",
+      "vi": "…Anh nói hành động của mình đã giết người. Nhưng bạn cứ trừng phạt bản thân một cách thụ động, Liệu nạn nhân có được hồi sinh?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa021",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa021|",
+      "ja": "……それは……。",
+      "zh": "……这……",
+      "vi": "...cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro037",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro037|",
+      "ja": "何があったかは知らない。<br>君の過去を知る気もない。",
+      "zh": "我不知道发生了什么。<br>\n也不打算了解你的过去。",
+      "vi": "Tôi không biết chuyện gì đã xảy ra. Tôi cũng không muốn biết về quá khứ của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro038",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro038|",
+      "ja": "だが君がしている自傷や自罰は、償いではない。",
+      "zh": "但你的自残和自罚，并非赎罪。",
+      "vi": "Nhưng việc bạn tự cắt xén và tự trừng phạt mình không phải là sự chuộc tội.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro039",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro039|",
+      "ja": "ただの自己満足で、君が楽になるための現実逃避だ！",
+      "zh": "只是自我满足，是让自己落得轻松的逃避现实罢了！",
+      "vi": "Chỉ cần sự tự thỏa mãn và trốn chạy khỏi hiện thực là bạn đã cảm thấy thư giãn rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa022",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa022|",
+      "ja": "ぐっ……！？",
+      "zh": "咕……！？",
+      "vi": "Gu...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro040",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro040|",
+      "ja": "……だから、私は君を許すんだ。",
+      "zh": "……所以，我才要原谅你。",
+      "vi": "...Đó là lý do tại sao tôi phải tha thứ cho bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro041",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro041|",
+      "ja": "無関係だからこそ、君を受け入れる。",
+      "zh": "正因为非亲非故，我才要接纳你。",
+      "vi": "Chính vì chúng ta không phải họ hàng nên tôi mới muốn chấp nhận em.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro042",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro042|",
+      "ja": "友人として君を支えよう。",
+      "zh": "我会以朋友的身份支持你。",
+      "vi": "Tôi sẽ hỗ trợ bạn như một người bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro043",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro043|",
+      "ja": "だから……そうやって罪から逃げるんじゃない。",
+      "zh": "所以……别再继续逃避罪责了。",
+      "vi": "Vì vậy... đừng chạy trốn tội lỗi nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa023",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa023|",
+      "ja": "ウ……ウチ、は……。",
+      "zh": "我……我……",
+      "vi": "Tao...Tao...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro044",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro044|",
+      "ja": "……生きるんだよ、アリサ。",
+      "zh": "……你要活下去，亚里沙。",
+      "vi": "…Em phải sống, Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro045",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro045|",
+      "ja": "そして悔いて、罪に向き合い続けるんだ。<br>それが君の――。",
+      "zh": "然后去后悔，去背负起罪孽。<br>\n那才是你的——",
+      "vi": "Sau đó hối hận và gánh lấy tội lỗi. Đó là của bạn -",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro046",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro046|",
+      "ja": "――私たちの、贖罪だ！",
+      "zh": "——还有我们的，赎罪！",
+      "vi": "---Và của chúng ta, sự chuộc tội!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa024",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa024|",
+      "ja": "う……う、う……！",
+      "zh": "呜……呜、呜……！",
+      "vi": "Woo...woo,woo...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa025",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa025|",
+      "ja": "ぐ、うぅ……う……！",
+      "zh": "咕、呜……呜……！",
+      "vi": "Gu, wu... wu...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa026",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa026|",
+      "ja": "そう……だ。",
+      "zh": "是……啊。",
+      "vi": "Vâng... à.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa027",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa027|",
+      "ja": "ウチ……は……怖かった……。",
+      "zh": "我……很……害怕……",
+      "vi": "Tao...rất...sợ hãi...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa028",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa028|",
+      "ja": "誰も責めないのが……<br>誰も……叱ってくれないのが……！",
+      "zh": "没有人责备我……<br>\n没有人……斥责我……！",
+      "vi": "Không ai trách Tao cả... Không ai... quở trách Tao...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa029",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa029|",
+      "ja": "ウチ……は……！",
+      "zh": "我……！",
+      "vi": "Tao...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Alisa030",
+      "speaker_tag": "; > Alisa: |#0205Trial21_Alisa030|",
+      "ja": "ごめんなさい……<br>ごめん……なさい……！！",
+      "zh": "对不起……<br>\n对……不起……！！",
+      "vi": "Xin lỗi... Xin lỗi...Tao xin lỗi...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro047",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro047|",
+      "ja": "（……炎の勢いは収まった）",
+      "zh": "（……火势平息了）",
+      "vi": "(…ngọn lửa đã dịu bớt)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro048",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro048|",
+      "ja": "（アリサの戦意は喪失したか）",
+      "zh": "（看来亚里沙的战意消失了）",
+      "vi": "(Có vẻ như tinh thần chiến đấu của Alisa đã biến mất)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro049",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro049|",
+      "ja": "（危ないところだったが、なんとかなっ――）",
+      "zh": "（虽然很危险，但总算——）",
+      "vi": "(Mặc dù rất nguy hiểm, nhưng cuối cùng——)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Coco001",
+      "speaker_tag": "; > Coco: |#0205Trial21_Coco001|",
+      "ja": "なにこれっ！？",
+      "zh": "怎么回事！？",
+      "vi": "Chuyện gì đang xảy ra vậy! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro050",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro050|",
+      "ja": "……今度はなんだっ！",
+      "zh": "……这回又怎么了！",
+      "vi": "...Lần này chuyện gì đã xảy ra vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Warden001",
+      "speaker_tag": "; > Warden: |#0205Trial21_Warden001|",
+      "ja": "いやーこれは大変ですねぇ……。",
+      "zh": "哎呀～这下情况严重了……",
+      "vi": "Rất tiếc~ Tình hình bây giờ đang trở nên nghiêm trọng rồi...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro051",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro051|",
+      "ja": "全然大変そうじゃない前置きはいい！<br>何があったか簡潔に教えろ！",
+      "zh": "少说你那些无足轻重的开场白！<br>\n有事你直接说重点！",
+      "vi": "Cắt bỏ những nhận xét mở đầu không quan trọng của bạn! Nếu bạn có điều gì muốn nói, chỉ cần nói điểm quan trọng!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Warden002",
+      "speaker_tag": "; > Warden: |#0205Trial21_Warden002|",
+      "ja": "それがこの島、浮いちゃってます。<br>ザパーって海を離れて、空へ向かってふわふわと。",
+      "zh": "我说这座岛，飞起来了。<br>\n“哗”地一声离开海面，轻飘飘地朝着天空飞起来了。",
+      "vi": "Tôi nói hòn đảo này đã bay lên. Nó rời biển với tiếng “ồ” và bay nhẹ lên trời.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro052",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro052|",
+      "ja": "空へ……【浮く】！？",
+      "zh": "朝天空……【飞起来了】！？",
+      "vi": "Hướng về bầu trời... [Bay]! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hiro053",
+      "speaker_tag": "; > Hiro: |#0205Trial21_Hiro053|",
+      "ja": "……まさか！",
+      "zh": "……难道说！",
+      "vi": "...Đừng nói với tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hanna001",
+      "speaker_tag": "; > Hanna: |#0205Trial21_Hanna001|",
+      "ja": "わたくしが……わたくしが……わたくしが……！<br>そんなの嘘……嘘……！",
+      "zh": "本小姐我……竟然……竟然……！<br>\n那是骗人的……骗人的……！",
+      "vi": "Quý ngươi này, Bổn tiểu thư... thực ra... thực ra...! Đó là lời nói dối... lời nói dối...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hanna002",
+      "speaker_tag": "; > Hanna: |#0205Trial21_Hanna002|",
+      "ja": "嘘よ……ねぇ！",
+      "zh": "是骗人的……对吧！",
+      "vi": "Đó là một lời nói dối... phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial21_Hanna003",
+      "speaker_tag": "; > Hanna: |#0205Trial21_Hanna003|",
+      "ja": "……嘘でしょう！！",
+      "zh": "……是骗人的吧！！",
+      "vi": "...Đó là một lời nói dối! !",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter05_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter05_Trial00",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter05/Act01_Chapter05_Trial00' Naninovel scenario script",
+  "total_entries": 11,
+  "entries": [
+    {
+      "id": "0105Trial00_Ema001",
+      "speaker_tag": "; > Ema: |#0105Trial00_Ema001|",
+      "ja": "（ボクがアリサちゃんを殺したっていう<br>　投票結果は今もそのままだ……）",
+      "zh": "（指控我杀害亚里沙的投票结果<br>\n至今仍未改变……）",
+      "vi": "(Kết quả cuộc bỏ phiếu cáo buộc tôi giết Alisa Nó vẫn chưa thay đổi…)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial00_Ema002",
+      "speaker_tag": "; > Ema: |#0105Trial00_Ema002|",
+      "ja": "（ナノカちゃんの事件の議論を通して<br>　アリサちゃんの死の状況を覆さないと<br>　ボクは処刑されちゃう……）",
+      "zh": "（如果不能通过奈叶香这起案件的讨论<br>\n来推翻亚里沙死亡的情况，<br>\n我就会被处决……）",
+      "vi": "(Nếu bạn không thể vượt qua cuộc thảo luận về trường hợp của Nanoyaka Để lật ngược tình thế về cái chết của Alisa, Tôi sẽ bị xử tử...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial00_Ema003",
+      "speaker_tag": "; > Ema: |#0105Trial00_Ema003|",
+      "ja": "（……そんなこと本当にできるかはわからないけど）",
+      "zh": "（……虽然我不确定我能不能成功）",
+      "vi": "(...mặc dù tôi không chắc mình có thể thành công)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial00_Ema004",
+      "speaker_tag": "; > Ema: |#0105Trial00_Ema004|",
+      "ja": "（でも……ボクを信じてくれたナノカちゃんの為にも<br>　情報を集めるんだ！）",
+      "zh": "（不过……至少为了信任我的奈叶香，<br>\n我也要做好情报收集才行！）",
+      "vi": "(Nhưng...ít nhất là đối với Nanoyaka, người tin tưởng tôi, Tôi cũng cần thu thập thông tin! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial00_Coco001",
+      "speaker_tag": "; > Coco: |#0105Trial00_Coco001|",
+      "ja": "……つーか、どうせ今回もエマっちが犯人なんじゃねーの？",
+      "zh": "……话说，这次的凶手不会又是艾玛亲吧？",
+      "vi": "...Nhân tiện, kẻ sát nhân lần này sẽ không phải là nụ hôn của Ema nữa phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial00_Ema005",
+      "speaker_tag": "; > Ema: |#0105Trial00_Ema005|",
+      "ja": "……ボクは、<br>やってないよ。",
+      "zh": "……凶手，<br>\n不是我。",
+      "vi": "...Kẻ sát nhân, Không phải tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial00_Ema006",
+      "speaker_tag": "; > Ema: |#0105Trial00_Ema006|",
+      "ja": "ボクが犯人だっていうなら……<br>証明してみてよ、ココちゃん！",
+      "zh": "如果要说我是凶手……<br>\n可可，麻烦你作出证明！",
+      "vi": "Nếu bạn muốn nói tôi là kẻ giết người... Coco, hãy chứng minh điều đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial00_Coco002",
+      "speaker_tag": "; > Coco: |#0105Trial00_Coco002|",
+      "ja": "そ、それは……！",
+      "zh": "这、这……！",
+      "vi": "Cái này, cái này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial00_Margo001",
+      "speaker_tag": "; > Margo: |#0105Trial00_Margo001|",
+      "ja": "……たしかに、エマちゃんとは別の犯人の可能性だってあるわ。",
+      "zh": "……凶手的确有可能不是艾玛。",
+      "vi": "...Quả thực có khả năng kẻ sát nhân không phải là Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial00_Margo002",
+      "speaker_tag": "; > Margo: |#0105Trial00_Margo002|",
+      "ja": "だからまずは話し合いましょう……<br>今まで通りね！",
+      "zh": "所以我们来讨论吧……<br>\n就跟以往一样！",
+      "vi": "Vậy hãy cùng thảo luận… Giống như mọi khi!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial00_Meruru001",
+      "speaker_tag": "; > Meruru: |#0105Trial00_Meruru001|",
+      "ja": "エマさん……。",
+      "zh": "艾玛小姐……",
+      "vi": "Ema...",
+      "objection_links": []
+    }
+  ]
+}

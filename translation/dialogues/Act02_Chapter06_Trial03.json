@@ -1,0 +1,825 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter06_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter06_Trial03",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter06/Act02_Chapter06_Trial03' Naninovel scenario script",
+  "total_entries": 101,
+  "entries": [
+    {
+      "id": "0206Trial03_Yuki001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki001|",
+      "ja": "さきほどあなたたちは、<br>【私の裁定には<br>正当性があるのか】<br>……と尋ねられましたね。",
+      "zh": "刚才你们问，<br>\n【我的裁决<br>\n是否有正当性】<br>\n……对吧。",
+      "vi": "Bạn vừa hỏi, 【Phán quyết của tôi Liệu điều đó có hợp lý không 】 ...đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki002|",
+      "ja": "それについても<br>説明してあげましょうか。",
+      "zh": "关于这点<br>\n我也解释一下吧。",
+      "vi": "Về điều này Hãy để tôi giải thích nó quá.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki003|",
+      "ja": "実は私たち魔女は、<br>無惨にも人間に<br>この世から<br>駆逐されてしまったんです。",
+      "zh": "实际上我们魔女<br>\n是被人类残忍地<br>\n驱逐出了<br>\n这个世界。",
+      "vi": "Trên thực tế, chúng tôi là phù thủy Đó là sự tàn nhẫn của con người Bị đuổi học thế giới này.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki004|",
+      "ja": "<link=\"Objection_02_06_03_01\">一方的</link>な惨殺です。<br>平和主義の私たちは、<br>ほとんど反撃らしい反撃も<br>しませんでした……。",
+      "zh": "那是<link=\"Objection_02_06_03_01\">单方面</link>的屠杀。<br>\n爱好和平的我们，<br>\n几乎没能进行<br>\n像样的反击……",
+      "vi": "Đó là một vụ thảm sát <link=\"Objection_02_06_03_01\">đơn phương </link>. Chúng tôi yêu hòa bình, Hầu như không thể tiếp tục Một pha phản công đúng nghĩa...",
+      "objection_links": [
+        "Objection_02_06_03_01"
+      ]
+    },
+    {
+      "id": "0206Trial03_Yuki005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki005|",
+      "ja": "その結果、<br>人間のせいで私たち魔女は<br>この世界から<br>いなくなってしまいました。",
+      "zh": "由于人类的暴行，<br>\n导致我们魔女<br>\n从这个世界上<br>\n消失了。",
+      "vi": "Do sự tàn bạo của con người, Vì phù thủy của chúng ta Từ thế giới này Đi rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki006|",
+      "ja": "……ならば、<br>逆に私が人間を<br><link=\"Objection_02_06_03_02\">滅ぼし返した</link>ところで<br>何の問題があるのでしょう？",
+      "zh": "……那么，<br>\n我<link=\"Objection_02_06_03_02\">反过来灭绝</link>人类<br>\n又有什么问题呢？<br>",
+      "vi": "...thì, Đến lượt tôi<link=\"Objection_02_06_03_02\"> đã tuyệt chủng</link>nhân loại Vấn đề là gì?",
+      "objection_links": [
+        "Objection_02_06_03_02"
+      ]
+    },
+    {
+      "id": "0206Trial03_Yuki007",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki007|",
+      "ja": "これは正当性のある<br>復讐であると同時に……。",
+      "zh": "这既是<br>\n具有正当性的复仇……",
+      "vi": "Đây là cả Trả thù chính đáng...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki008",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki008|",
+      "ja": "魔女と人間が、<br>平等に同じ権利を<br>有するということ<br>でもあります。",
+      "zh": "也意味着<br>\n魔女和人类，<br>\n平等拥有着<br>\n相同的权利。",
+      "vi": "Cũng có nghĩa là Phù thủy và con người, Được sở hữu như nhau Quyền như nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki009",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki009|",
+      "ja": "――【他者を<link=\"Objection_02_06_03_03\">絶滅</link>させる】<br>という<link=\"Objection_02_06_03_04\">権利</link>を。",
+      "zh": "——那就是<br>\n【<link=\"Objection_02_06_03_03\">灭绝</link>其他种族】的<link=\"Objection_02_06_03_04\">权利</link>。",
+      "vi": "――Đó chính là 【<link=\"Objection_02_06_03_03\">tiêu diệt tận diệt</link> giống loài khác】, <link=\"Objection_02_06_03_04\">quyền hạn</link> tối thượng ấy.",
+      "objection_links": [
+        "Objection_02_06_03_03",
+        "Objection_02_06_03_04"
+      ]
+    },
+    {
+      "id": "0206Trial03_Yuki010",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki010|",
+      "ja": "魔女因子とは、<br>元々私そのもの……。<br>私は世界中のどこにいても、<br>魔女因子を<br>操ることができます。",
+      "zh": "所谓魔女因子，<br>\n原本就是我自身……<br>\n无论我身在何处，<br>\n都能操纵<br>\n魔女因子。",
+      "vi": "Cái gọi là Yếu tố Ma Nữ, Ban đầu là tôi... Dù tôi ở đâu, Tất cả đều có thể kiểm soát Yếu tố Ma Nữ.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki011",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki011|",
+      "ja": "ですから魔女因子を暴走させ<br>人間たちを空想上の化け物、<br>【<link=\"Objection_02_06_03_05\">魔女</link>】へ変化させて<br>殺すのです。",
+      "zh": "因此我会让魔女因子失控，<br>\n令全人类变作架空的怪物——<br>\n【<link=\"Objection_02_06_03_05\">魔女</link>】，<br>\n再将人类杀死。",
+      "vi": "Vì thế tôi sẽ để Yếu tố Ma Nữ vượt quá tầm kiểm soát, Biến toàn bộ loài người thành những con quái vật tưởng tượng—— 【<link=\"Objection_02_06_03_05\">Phù thủy</link>】, Sau đó giết người.",
+      "objection_links": [
+        "Objection_02_06_03_05"
+      ]
+    },
+    {
+      "id": "0206Trial03_Yuki012",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki012|",
+      "ja": "それにしても<br>【平等な権利】……<br>とても良い言葉ですね。",
+      "zh": "不过话说回来，<br>\n【平等的权利】……<br>\n真是个好词。",
+      "vi": "Nhưng một lần nữa, 【Quyền bình đẳng】…… Thật là một từ tuyệt vời.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki013",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial03_Yuki013|",
+      "ja": "恣意的に<br>運用することが可能で……<br>人間の本質を表す、<br>粗雑な言葉です。",
+      "zh": "不但可以<br>\n随心所欲使用……<br>\n还体现出了人类的本质，<br>\n一个简单粗暴的词语。",
+      "vi": "Không chỉ có thể Sử dụng theo ý muốn của bạn... Nó cũng phản ánh bản chất của con người, Một từ đơn giản và thô thiển.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro001",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro001|",
+      "ja": "（大魔女による人類を絶滅させる計画か……）",
+      "zh": "（这就是大魔女策划的人类灭绝计划……）",
+      "vi": "(Đây là kế hoạch tuyệt chủng loài người do mụ phù thủy lớn lên kế hoạch...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro002",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro002|",
+      "ja": "（彼女の隙を探るには、<br>　まずは彼女の存在について詳細を把握しなくてはいけない）",
+      "zh": "（要找出她的破绽，<br>\n得先掌握关于大魔女这个存在的更多详情才行）",
+      "vi": "(Để tìm ra khuyết điểm của cô ấy, Trước tiên bạn cần biết thêm chi tiết về sự tồn tại của Phù thủy vĩ đại)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro003",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro003|",
+      "ja": "（細かな部分まで追求し、<br>　話を聞いてみるとしよう）",
+      "zh": "（为了问出更多细节，<br>\n先听听她怎么说）",
+      "vi": "(Để hỏi thêm chi tiết, Hãy nghe những gì cô ấy nói trước)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Choice001",
+      "speaker_tag": "; > @choice |#0206Trial03_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "自業自得だ",
+      "zh": "这是自作自受",
+      "vi": "Cái này là tự mình gây ra",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Choice002",
+      "speaker_tag": "; > @choice |#0206Trial03_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "復讐なんて間違っている",
+      "zh": "复仇是不对的",
+      "vi": "Trả thù là sai",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Choice003",
+      "speaker_tag": "; > @choice |#0206Trial03_Choice003| button:ChoiceButtons/Trial/Question handler:TrialHiro",
+      "ja": "どうやって絶滅させる？",
+      "zh": "你要如何灭绝？",
+      "vi": "Bạn làm thế nào để bị tuyệt chủng?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Choice004",
+      "speaker_tag": "; > @choice |#0206Trial03_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "そんな権利はない",
+      "zh": "没有这种权利",
+      "vi": "không có quyền đó",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Choice005",
+      "speaker_tag": "; > @choice |#0206Trial03_Choice005| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "陳腐な方法だ",
+      "zh": "真是老掉牙的方法",
+      "vi": "Thật là một phương pháp lỗi thời",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Choice006",
+      "speaker_tag": "; > @choice |#0206Trial03_Choice006| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "魔女は死なない",
+      "zh": "魔女不会死",
+      "vi": "Phù thủy sẽ không bao giờ chết",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro004",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro004|",
+      "ja": "【人間の絶滅】……。",
+      "zh": "【灭绝人类】……",
+      "vi": "[Sự hủy diệt của loài người]……",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro005",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro005|",
+      "ja": "それはどうやって行うつもりなのかな。",
+      "zh": "你要怎么做才能完成这个目标呢？",
+      "vi": "Bạn cần làm gì để hoàn thành mục tiêu này?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro006",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro006|",
+      "ja": "方法はいろいろ考えられるが、<br>まさか１人ずつ殺すわけではないだろう。",
+      "zh": "虽然能想到各种各样的方法，<br>\n但总不会是逐个逐个地杀吧。",
+      "vi": "Mặc dù tôi có thể nghĩ ra nhiều phương pháp khác nhau, Nhưng nó sẽ không chỉ giết từng người một.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki014",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki014|",
+      "ja": "ええ。<br>それではさすがに時間がかかりすぎてしまいますね。",
+      "zh": "当然。<br>\n那也太费时间了。",
+      "vi": "Tất nhiên. Điều đó sẽ tốn quá nhiều thời gian.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki015",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki015|",
+      "ja": "なので私は、すでに世界に蔓延させているのです――<br>【魔女因子】を。",
+      "zh": "所以我，已经提前在全世界播撒了武器——<br>\n那就是【魔女因子】。",
+      "vi": "Vì vậy, tôi đã phổ biến vũ khí trên toàn thế giới từ trước—— Đó là [Nhân tố phù thủy].",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro007",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro007|",
+      "ja": "………！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki016",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki016|",
+      "ja": "まるでそれは疫病のように――。",
+      "zh": "那就像瘟疫一样——",
+      "vi": "Nó giống như bệnh dịch hạch -",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki017",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki017|",
+      "ja": "人間たちの中にはもう、<br>私が振りまいた魔女因子が浸透しきっています。",
+      "zh": "人类群体<br>\n早已被我播撒的魔女因子深深浸透。",
+      "vi": "Nhóm Con Người Nó đã bị thấm sâu bởi Yếu tố Ma Nữ mà tôi gieo rắc rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki018",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki018|",
+      "ja": "長い時間をかけて、ゆっくりと……<br>そして確実に、気付かれることのないように……。",
+      "zh": "这是我耗费漫长岁月，逐步取得的成果……<br>\n不但要保证散播的效果，还要小心不被人类察觉……",
+      "vi": "Đây là kết quả mà tôi đã bỏ ra rất lâu và dần dần đạt được... Không những phải đảm bảo hiệu quả phổ biến mà còn phải cẩn thận để không bị con người chú ý...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki019",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki019|",
+      "ja": "私は人の世の各地へと溶け込んで、<br>魔女因子を振りまいてきました。",
+      "zh": "我曾融入世界各地的人类社会，<br>\n四处散播魔女因子。",
+      "vi": "Tôi đã hòa nhập vào xã hội loài người trên khắp thế giới, Truyền bá Yếu tố Ma Nữ khắp nơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki020",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki020|",
+      "ja": "それは私から人へ……<br>そして人から人へ……<br>親から子へ……。",
+      "zh": "从我传给人类……<br>\n人类又传给其他人类……<br>\n再从父母传给孩子……",
+      "vi": "Từ tôi đến nhân loại... Con người truyền nó cho con người khác... Sau đó truyền từ cha mẹ sang con cái...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki021",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki021|",
+      "ja": "今では全人類、ほとんど全ての人に<br>必要な量が行き渡っています。",
+      "zh": "如今几乎所有的人类，<br>\n体内都携带了所需的魔女因子数量。",
+      "vi": "Hầu hết tất cả con người ngày nay, Tất cả họ đều mang trong mình lượng Yếu tố Ma Nữ cần thiết.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki022",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki022|",
+      "ja": "今なら、世界中の人間に潜む魔女因子を暴走させ<br>魔女化させることも可能です。",
+      "zh": "现在我立刻就可以让潜藏在全世界人类体内的魔女因子失控，<br>\n还可以令人类变为魔女。",
+      "vi": "Bây giờ tôi có thể ngay lập tức kiểm soát được Yếu tố Ma Nữ ẩn giấu trong cơ thể con người trên toàn thế giới, Nó cũng có thể biến con người thành phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki023",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki023|",
+      "ja": "人間たちは何が起こったかもわからぬまま、<br>突然自らの肉体が異形へと変質する<br>悪夢に襲われることでしょうね。",
+      "zh": "人类们会被噩梦笼罩：<br>\n在一无所知的情况下，<br>\n忽然眼睁睁看着自己的肉体化作异形的怪物。",
+      "vi": "Con người sẽ bị bao phủ bởi những cơn ác mộng: Không biết gì cả, Đột nhiên, anh chứng kiến cơ thể mình biến thành một con quái vật ngoài hành tinh.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki024",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki024|",
+      "ja": "かくして人類は、<br>かつて自分たちが妄想の中に作り上げた<br>醜悪なる存在――。",
+      "zh": "于是人类就这样，<br>\n变成过去自己妄想中捏造出来的<br>\n丑恶化身——",
+      "vi": "Vậy ra con người là như thế này, Trở thành một bịa đặt bởi những ảo tưởng của chính bạn trong quá khứ. Hiện thân của sự xấu xí——",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki025",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki025|",
+      "ja": "――不老不死の化け物、【魔女】へとなりはて<br>絶望するのです。",
+      "zh": "——变成长生不死的怪物【魔女】，<br>\n陷入无尽绝望。",
+      "vi": "---Trở thành quái vật bất tử [Phù thủy], Rơi vào tuyệt vọng vô tận.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki026",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki026|",
+      "ja": "……とっても素敵な終末を、<br>みなさんにお届けしますね。",
+      "zh": "……我会为大家带来非常美妙的末日哦。<br>",
+      "vi": "...Tôi sẽ mang đến cho bạn một ngày tận thế vô cùng tuyệt vời.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro008",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro008|",
+      "ja": "（不老不死の化け物……か）",
+      "zh": "（长生不死的怪物……吗）",
+      "vi": "(Quái vật bất tử...)",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_002",
+      "speaker_tag": "; > @toast |#Toast_002|",
+      "ja": "議論発展…",
+      "zh": "讨论前进…",
+      "vi": "Cuộc thảo luận đang tiến triển…",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro009",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro009|",
+      "ja": "【魔女は反撃をしなかった】……<br>つまり征服を受け入れたということだ。",
+      "zh": "【魔女没有反击】……<br>\n也就是说接受了人类的征服。",
+      "vi": "[Mụ phù thủy không đánh trả]...... Nói cách khác, họ chấp nhận sự chinh phục của con người.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro010",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro010|",
+      "ja": "ならばそれは自業自得！<br>自己責任だ！",
+      "zh": "那你们就是自作自受！<br>\n后果自负！",
+      "vi": "Thế thì bạn đang làm việc của riêng bạn! Làm điều đó có nguy cơ của riêng bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki027",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki027|",
+      "ja": "では、人間もまた自己責任で滅んでください。",
+      "zh": "那么，请人类也自负起灭亡的后果吧。",
+      "vi": "Vậy thì hãy tự gánh chịu hậu quả do sự hủy diệt của chính mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki028",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki028|",
+      "ja": "文句はありませんよね？",
+      "zh": "没有怨言吧？",
+      "vi": "Không có khiếu nại?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro011",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro011|",
+      "ja": "（くっ……！<br>　魔女を悪者にするには無理があるか……！）",
+      "zh": "（可恶……！<br>\n要把魔女说成是恶人，有点牵强了……！）",
+      "vi": "(Chết tiệt...! Gọi mụ phù thủy là kẻ ác thì có hơi xa vời...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro012",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro012|",
+      "ja": "（彼女の主張を否定するのは難しいな……）",
+      "zh": "（目前很难否定她的主张……）",
+      "vi": "(Thật khó để phủ nhận lời khẳng định của cô ấy vào lúc này…)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro013",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro013|",
+      "ja": "（何か単純な【誤り】……<br>　もしくは相手に話を続けさせる【疑問】）",
+      "zh": "（会不会有什么单纯的【错误】……<br>\n或者提出能让对方继续说下去的【疑问】呢）",
+      "vi": "(Có [lỗi] đơn giản nào... Hoặc hỏi [những câu hỏi] có thể khiến đối phương tiếp tục nói)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro014",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro014|",
+      "ja": "（そんな指摘をして、<br>　彼女の情報を探ろう……！）",
+      "zh": "（通过指出这些，<br>\n来打探她的情报吧……！）",
+      "vi": "(Bằng cách chỉ ra những điều này, Hãy cùng tìm hiểu thông tin về cô ấy nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro015",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro015|",
+      "ja": "……待つんだ！<br>復讐なんて、間違っている……！",
+      "zh": "……等等！<br>\n复仇这种想法，是错误的……！",
+      "vi": "...đợi đã! Ý tưởng trả thù là sai lầm...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro016",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro016|",
+      "ja": "君が受けた非道を<br>そのままやり返してしまえば、<br>憎しみの連鎖は止まらない！",
+      "zh": "如果你将自己受到的非人待遇<br>\n原样奉还回去，<br>\n这样永远无法斩断仇恨的连锁！",
+      "vi": "Nếu bạn mô tả sự đối xử vô nhân đạo mà bạn nhận được Hãy trả lại nguyên trạng, Điều này sẽ không bao giờ phá vỡ được chuỗi hận thù!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro017",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro017|",
+      "ja": "辛いだろうが……我慢すべきだ！",
+      "zh": "虽然很痛苦……但应该忍耐！",
+      "vi": "Dù rất đau đớn...nhưng bạn phải chịu đựng nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki029",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki029|",
+      "ja": "大丈夫ですよ。",
+      "zh": "不用担心。",
+      "vi": "Đừng lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki030",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki030|",
+      "ja": "ここで人間は終わり。<br>私も終わり。",
+      "zh": "人类的历史会在这里画上句号，<br>\n而我也会迎来灭亡。",
+      "vi": "Lịch sử loài người sẽ kết thúc tại đây, Và tôi cũng sẽ gặp cái chết của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki031",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki031|",
+      "ja": "連鎖する【次】はありません。",
+      "zh": "仇恨的连锁不会再有【下次】。",
+      "vi": "Chuỗi hận thù sẽ không xảy ra nữa [lần sau].",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki032",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki032|",
+      "ja": "だから……安心して死んでくださいね。",
+      "zh": "所以……请放心地接受死亡吧。",
+      "vi": "Vì vậy... xin hãy yên tâm chấp nhận cái chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro018",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro018|",
+      "ja": "（くっ……！<br>　話している次元が違い過ぎる……！）",
+      "zh": "（可恶……！<br>\n双方的话题完全对不上……！）",
+      "vi": "(Chết tiệt...! Chủ đề của cả hai bên hoàn toàn không nhất quán với nhau...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro019",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro019|",
+      "ja": "（彼女の主張を否定するのは難しいな……）",
+      "zh": "（目前很难否定她的主张……）",
+      "vi": "(Thật khó để phủ nhận lời khẳng định của cô ấy vào lúc này…)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro020",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro020|",
+      "ja": "（何か単純な【誤り】……<br>　もしくは相手に話を続けさせる【疑問】）",
+      "zh": "（会不会有什么单纯的【错误】……<br>\n或者提出能让对方继续说下去的【疑问】呢）",
+      "vi": "(Có [lỗi] đơn giản nào... Hoặc hỏi [những câu hỏi] có thể khiến đối phương tiếp tục nói)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro021",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro021|",
+      "ja": "（そんな指摘をして、<br>　彼女の情報を探ろう……！）",
+      "zh": "（通过指出这些，<br>\n来打探她的情报吧……！）",
+      "vi": "(Bằng cách chỉ ra những điều này, Hãy cùng tìm hiểu thông tin về cô ấy nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro022",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro022|",
+      "ja": "【他者を絶滅させる権利】……？<br>そんなものはない。",
+      "zh": "【灭绝其他种族的权利】……？<br>\n没有这种东西。",
+      "vi": "[Quyền tiêu diệt các chủng tộc khác]...? Không có điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro023",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro023|",
+      "ja": "そんな権利、いったい誰が保証すると言うんだ！",
+      "zh": "我倒想知道，究竟谁能为这种权利作担保！",
+      "vi": "Tôi muốn biết ai có thể đảm bảo quyền này!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki033",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki033|",
+      "ja": "私です。",
+      "zh": "我。",
+      "vi": "Tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki034",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki034|",
+      "ja": "権利とは力によって守られるもの……。",
+      "zh": "权利是由力量保障的……",
+      "vi": "Quyền lợi được đảm bảo bằng vũ lực…",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki035",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki035|",
+      "ja": "私がそれを保証し、実行するのです。",
+      "zh": "我会作出担保，并行使这份权利。",
+      "vi": "Tôi sẽ đảm bảo và thực hiện quyền này.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro024",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro024|",
+      "ja": "（くっ……！<br>　こんな言葉遊びでは、止めることはできないか……！）",
+      "zh": "（可恶……！<br>\n靠这种文字游戏，是无法阻止她的……！）",
+      "vi": "(Chết tiệt...! Không có cách nào có thể ngăn cản cô ấy bằng trò chơi chữ này...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro025",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro025|",
+      "ja": "（彼女の主張を否定するのは難しいな……）",
+      "zh": "（目前很难否定她的主张……）",
+      "vi": "(Thật khó để phủ nhận lời khẳng định của cô ấy vào lúc này…)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro026",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro026|",
+      "ja": "（何か単純な【誤り】……<br>　もしくは相手に話を続けさせる【疑問】）",
+      "zh": "（会不会有什么单纯的【错误】……<br>\n或者提出能让对方继续说下去的【疑问】呢）",
+      "vi": "(Có [lỗi] đơn giản nào... Hoặc hỏi [những câu hỏi] có thể khiến đối phương tiếp tục nói)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro027",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro027|",
+      "ja": "（そんな指摘をして、<br>　彼女の情報を探ろう……！）",
+      "zh": "（通过指出这些，<br>\n来打探她的情报吧……！）",
+      "vi": "(Bằng cách chỉ ra những điều này, Hãy cùng tìm hiểu thông tin về cô ấy nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro028",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro028|",
+      "ja": "【人を変身させてから殺す】……？",
+      "zh": "【让人类变成异形再杀死他们】……？",
+      "vi": "[Để con người biến thành người ngoài hành tinh rồi giết họ]...?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro029",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro029|",
+      "ja": "まるでおとぎ話の【悪い魔女】そのものだ。",
+      "zh": "简直就像童话故事里的【邪恶魔女】一样。",
+      "vi": "Giống như [phù thủy độc ác] trong truyện cổ tích.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro030",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro030|",
+      "ja": "そんな陳腐な方法を取るなんて、<br>君自身が悪だと言っているようなもの……。",
+      "zh": "竟然还用这种老掉牙的方法，<br>\n就像自投罗网，宣称自己就是邪恶一方……",
+      "vi": "Vẫn sử dụng phương pháp lỗi thời này, Giống như tự ném mình vào bẫy, tự cho mình là tà đảng…",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro031",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro031|",
+      "ja": "それは【正しく】ない！！",
+      "zh": "这是不【正确】的！！",
+      "vi": "Điều này không [đúng]! !",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki036",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki036|",
+      "ja": "そうです、私は悪の魔女……。",
+      "zh": "没错，我就是邪恶的魔女……",
+      "vi": "Đúng, tôi là mụ phù thủy độc ác...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki037",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki037|",
+      "ja": "そして、私をそのようにしたのは人間です。",
+      "zh": "并且，将我逼入邪道的正是人类。",
+      "vi": "Hơn nữa, chính con người đã đẩy tôi vào con đường tà ác.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki038",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki038|",
+      "ja": "なので人間は、その報いを受けなくてはいけないのですよ。",
+      "zh": "所以，人类必须接受自己的报应。",
+      "vi": "Vì thế con người phải chấp nhận quả báo của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki039",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki039|",
+      "ja": "……【正しくない】方法で。",
+      "zh": "……用【不正确】的方法。",
+      "vi": "...sử dụng phương pháp [không chính xác].",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro032",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro032|",
+      "ja": "（くっ……！<br>　彼女を糾弾しても無意味か……）",
+      "zh": "（可恶……！<br>\n谴责她没有意义……）",
+      "vi": "(Chết tiệt...! Chẳng có ích gì khi lên án cô ấy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro033",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro033|",
+      "ja": "（彼女の主張を否定するのは難しいな……）",
+      "zh": "（目前很难否定她的主张……）",
+      "vi": "(Thật khó để phủ nhận lời khẳng định của cô ấy vào lúc này…)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro034",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro034|",
+      "ja": "（何か単純な【誤り】……<br>　もしくは相手に話を続けさせる【疑問】）",
+      "zh": "（会不会有什么单纯的【错误】……<br>\n或者提出能让对方继续说下去的【疑问】呢）",
+      "vi": "(Có [lỗi] đơn giản nào... Hoặc hỏi [những câu hỏi] có thể khiến đối phương tiếp tục nói)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro035",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro035|",
+      "ja": "（そんな指摘をして、<br>　彼女の情報を探ろう……！）",
+      "zh": "（通过指出这些，<br>\n来打探她的情报吧……！）",
+      "vi": "(Bằng cách chỉ ra những điều này, Hãy cùng tìm hiểu thông tin về cô ấy nhé...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro036",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro036|",
+      "ja": "……待った。<br>それはおかしい。",
+      "zh": "……等等。<br>\n你的话有矛盾。",
+      "vi": "... và vân vân. Có sự mâu thuẫn trong lời nói của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro037",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro037|",
+      "ja": "【魔女】とは死なないものだ。",
+      "zh": "【魔女】是不会死的。",
+      "vi": "[Phù thủy] sẽ không chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro038",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro038|",
+      "ja": "不老不死なのに死ぬというのは、<br>どういうことなのかな。",
+      "zh": "长生不死的魔女会死，<br>\n这是怎么回事呢。",
+      "vi": "Phù thủy bất tử sẽ chết, Chuyện gì đang xảy ra vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki040",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki040|",
+      "ja": "……説明が漏れていましたね。",
+      "zh": "……看来我的解释有遗漏。",
+      "vi": "...có vẻ như có điều gì đó còn thiếu trong lời giải thích của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki041",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki041|",
+      "ja": "魔女の不死性とは、<br>大魔女である私の因子を埋め込んだことによる<br>副作用なんです。",
+      "zh": "魔女不死的性质是一种副作用。<br>\n是因为被植入了大魔女——也就是我——的因子<br>\n而产生的。",
+      "vi": "Bản chất bất tử của phù thủy là một tác dụng phụ. Là do yếu tố của Đại Ma Nữ - tôi - đã được cấy vào Và được sản xuất.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki042",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki042|",
+      "ja": "それは魔女化が進んで初めて発現するもの……。",
+      "zh": "这种副作用在魔女化程度加深后才会显现……",
+      "vi": "Tác dụng phụ này sẽ chỉ xuất hiện sau khi mức độ biến đổi phù thủy ngày càng sâu sắc...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki043",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki043|",
+      "ja": "……ただし、魔女因子は凶悪だからこそ<br>脆弱性があります。",
+      "zh": "……不过，正因为魔女因子足够险恶，<br>\n它也有高危漏洞。",
+      "vi": "...Tuy nhiên, chính vì Yếu tố Ma Nữ đủ nham hiểm nên Nó cũng có lỗ hổng rủi ro cao.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki044",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki044|",
+      "ja": "それは――【魔女を殺す魔法】。",
+      "zh": "那就是——【杀死魔女的魔法】。",
+      "vi": "Đó là - [Phép thuật giết chết phù thủy].",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Ema001",
+      "speaker_tag": "; > Ema: |#0206Trial03_Ema001|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki045",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki045|",
+      "ja": "魔女因子によってもたらされる不死性を逆転させ、<br>肉体を<ruby=\"アポトーシス\">自死</ruby>に誘導する魔法です。",
+      "zh": "这种魔法能逆转魔女因子带来的不死性质，<br>\n引导肉体步向<ruby=\"apoptosis\">自灭</ruby>。",
+      "vi": "Loại phép thuật này có thể đảo ngược sự bất tử do Yếu tố Ma Nữ gây ra, Hướng cơ thể vật chất tới <ruby=\"apoptosis\"> và tự hủy diệt</ruby>.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki046",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki046|",
+      "ja": "【魔女】になる・ならないに関わらず、<br>全ての人間は魔女因子を暴走させられ<br>【魔女を殺す魔法】で殺処分されるのです。",
+      "zh": "不管有没有化为【魔女】，<br>\n只要让全人类的魔女因子失控，<br>\n再用【杀死魔女的魔法】扑灭他们就行了。",
+      "vi": "Bất kể cô ấy có biến thành [phù thủy] hay không, Chừng nào Yếu tố Ma Nữ của toàn nhân loại còn bị kiểm soát ngoài tầm kiểm soát, Chỉ cần sử dụng [Ma thuật giết phù thủy] để tiêu diệt chúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro039",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro039|",
+      "ja": "（魔女を殺す魔法……）",
+      "zh": "（杀死魔女的魔法……）",
+      "vi": "(Phép thuật giết chết phù thủy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro040",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro040|",
+      "ja": "（別の世界のエマの記憶では、<br>　エマの魔法がそうだった）",
+      "zh": "（在另一个世界的艾玛的记忆里，<br>\n她的魔法就是这个）",
+      "vi": "(Trong ký ức của Ema ở một thế giới khác, Đây là phép thuật của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Hiro041",
+      "speaker_tag": "; > Hiro: |#0206Trial03_Hiro041|",
+      "ja": "（エマはユキによって、<br>　人類滅亡の片棒を担がされたわけか）",
+      "zh": "（原来艾玛是被小雪利用，<br>\n成为了灭绝人类计划的帮凶）",
+      "vi": "(Hóa ra Ema đã bị Xiaoxue lợi dụng, Trở thành đồng phạm trong kế hoạch tiêu diệt loài người)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki047",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki047|",
+      "ja": "……この国の政府は【魔女】を殺すため、<br>同じ作用を持つ薬も開発していたようですが……。",
+      "zh": "……这个国家的政府为了杀死【魔女】，<br>\n似乎也开发了具有相同作用的药物……",
+      "vi": "...Để tiêu diệt [Phù thủy], chính phủ của đất nước này, Có vẻ như các loại thuốc có tác dụng tương tự cũng đã được phát triển...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki048",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki048|",
+      "ja": "しかし彼らはまだ<br>魔女因子の対策までには至っていません。",
+      "zh": "但他们仍未找到<br>\n对付魔女因子的办法。",
+      "vi": "Nhưng họ vẫn chưa tìm thấy Cách để đối phó với Yếu tố Ma Nữ.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki049",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki049|",
+      "ja": "しかしこのまま放っておいて<br>対策をされないとも限りませんからね。",
+      "zh": "只不过，继续坐视不管的话，<br>\n也有可能被人类研发出对策。",
+      "vi": "Tuy nhiên, nếu bạn tiếp tục ngồi yên và không làm gì, Các biện pháp đối phó cũng có thể được phát triển bởi con người.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki050",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki050|",
+      "ja": "やはり人間は、<br>そろそろ滅ぼさないといけないんです。",
+      "zh": "果然人类还是差不多该灭绝了。<br>",
+      "vi": "Chắc chắn rồi, con người gần như đã tuyệt chủng.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial03_Yuki051",
+      "speaker_tag": "; > Yuki: |#0206Trial03_Yuki051|",
+      "ja": "だからどうか……理解してくださいね。",
+      "zh": "所以……还请各位理解。",
+      "vi": "Vì vậy... xin hãy hiểu.",
+      "objection_links": []
+    }
+  ]
+}

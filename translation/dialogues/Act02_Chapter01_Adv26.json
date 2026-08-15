@@ -1,0 +1,1152 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter01_Adv26",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter01/Act02_Chapter01_Adv26' Naninovel scenario script",
+  "total_entries": 143,
+  "entries": [
+    {
+      "id": "0201Adv26_Narrative001",
+      "speaker_tag": "",
+      "ja": "メルル殺害の犯人は、宝生マーゴだった。",
+      "zh": "杀害冰上梅露露的凶手，是宝生玛格。",
+      "vi": "Kẻ sát hại Meruru trên băng là Baosheng Mag.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative002",
+      "speaker_tag": "",
+      "ja": "当然彼女が投票で【魔女】に選ばれ――",
+      "zh": "理所当然，她被票选为【魔女】——",
+      "vi": "Tất nhiên, cô ấy được bình chọn là [Witch]——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative003",
+      "speaker_tag": "",
+      "ja": "それでも裁判所に集った全員が、<br>とても信じられないといった風にマーゴを見ている。",
+      "zh": "即便如此，聚集在审判庭上的所有人，<br>\n看向玛格的眼神中依然带着难以置信。",
+      "vi": "Dù vậy, mọi người đều tập trung tại phòng xử án, Trong mắt cô vẫn còn vẻ hoài nghi khi nhìn Mag.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative004",
+      "speaker_tag": "",
+      "ja": "長い沈黙の末、<br>口を開いたのはマーゴ本人だった。",
+      "zh": "长久的沉默之后，<br>\n率先开口说话的是玛格本人。",
+      "vi": "Sau một thời gian dài im lặng, Người đầu tiên lên tiếng là Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo001",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo001|",
+      "ja": "……私らしくないわね。<br>どうしてか、熱くなってしまったの。",
+      "zh": "……真不像我呢。<br>\n不知怎么的，头脑发热了。",
+      "vi": "...Nó thực sự không giống Chị chút nào. Bằng cách nào đó đầu Chị nóng lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo002",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo002|",
+      "ja": "あんなに気持ちが昂ることってあまりないのよ？<br>殺さないと気が済まなかったの。<br>酷い話よね……本当にごめんなさい。",
+      "zh": "我很少那样情绪高涨哦。<br>\n不杀掉她就无法平息下来。<br>\n很过分吧……真的非常抱歉。",
+      "vi": "Chị hiếm khi cảm thấy cao như vậy. Nó không thể dịu đi nếu không giết cô ấy. Quá nhiều... Chị thực sự xin lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Ema001",
+      "speaker_tag": "; > Ema: |#0201Adv26_Ema001|",
+      "ja": "っ、なんで？ メルルちゃんはマーゴちゃんを<br>助けてくれたじゃないか！",
+      "zh": "为、为什么？梅露露不是<br>\n帮助过玛格吗！",
+      "vi": "T-tại sao? Meruru không phải Bạn đã giúp Mag chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Ema002",
+      "speaker_tag": "; > Ema: |#0201Adv26_Ema002|",
+      "ja": "大怪我を負ったマーゴちゃんを必死に看護して、<br>ずっと気にかけて、あんなにも尽くしてくれて……。",
+      "zh": "她一直照顾重伤的玛格，<br>\n那么关心你，那么尽心尽力……",
+      "vi": "Cô ấy đang chăm sóc Mag bị thương nặng, Tôi quan tâm đến bạn rất nhiều và cố gắng hết sức mình...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo003",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo003|",
+      "ja": "ええ……メルルちゃんはね、<br>とても、とても優しくしてくれたわ。",
+      "zh": "是啊……梅露露她啊，<br>\n对我非常非常好。",
+      "vi": "Vâng...Meruru, Rất, rất tốt với Chị.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo004",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo004|",
+      "ja": "高熱が出てうなされた時も、<br>ずっと傍に寄り添って手を握ったり、<br>頭をたくさん撫でてくれたり……。",
+      "zh": "我发高烧神志不清的时候，<br>\n她一直陪在身边握着我的手，<br>\n还不停地抚摸我的头……",
+      "vi": "Khi Chị bị sốt cao và mê sảng, Cô ấy đã ở bên cạnh nắm tay Chị, Anh ấy liên tục xoa đầu Chị...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo005",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo005|",
+      "ja": "死なないでくださいってぽろぽろと泣きながら、<br>たくさんの愛と慈しみを与えてくれたの。",
+      "zh": "哭着说请我不要死，<br>\n给予了我许多爱和怜惜。",
+      "vi": "Khóc và cầu xin Chị đừng chết, Đã cho Chị thấy rất nhiều tình yêu và lòng trắc ẩn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo006",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo006|",
+      "ja": "私、感動してしまったわ。<br>まだ知り合って間もないのに、<br>こんなに献身的に尽くしてくれるなんて……。",
+      "zh": "我被感动了。<br>\n明明才刚认识不久，<br>\n却如此无私地为我付出……",
+      "vi": "Chị đã rất xúc động. Rõ ràng là chúng ta mới gặp nhau cách đây không lâu, Nhưng anh đã hy sinh vì Chị một cách quá vị tha...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative005",
+      "speaker_tag": "",
+      "ja": "マーゴは瞳の端に<ruby=\"にじ\">滲</ruby>ませた涙を、そっと<ruby=\"ぬぐ\">拭</ruby>った。<br>私はその<ruby=\"しぐさ\">仕草</ruby>に違和感しか抱けない。",
+      "zh": "玛格轻轻擦去眼角渗出的泪水。<br>\n但她的动作只会令我觉得很违和。",
+      "vi": "Margo nhẹ nhàng lau nước mắt trên khóe mắt. Nhưng hành động của cô ấy chỉ khiến tôi cảm thấy rất mâu thuẫn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo007",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo007|",
+      "ja": "彼女は真心に満ちていて、<br>たしかな愛を感じたの。<br>そう、私たちは愛し合っていたのよ。",
+      "zh": "她充满了真心，<br>\n我确实感受到了爱。<br>\n没错，我们是相爱的。",
+      "vi": "Cô ấy đầy sự chân thành, Chị đã cảm nhận được tình yêu. Vâng, chúng Chị đang yêu nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Miria001",
+      "speaker_tag": "; > Miria: |#0201Adv26_Miria001|",
+      "ja": "愛し合ってた、って……。<br>じゃあなんで殺したのか余計にわからないよ……。",
+      "zh": "相爱……？<br>\n那就更不明白为什么要杀她了……",
+      "vi": "Đang yêu...? Vậy thì Miria không hiểu tại sao anh ta lại muốn giết cô ấy...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Coco001",
+      "speaker_tag": "; > Coco: |#0201Adv26_Coco001|",
+      "ja": "変態の趣味嗜好なんじゃね？ ほらあるじゃん、<br>好きだから殺すってヤツ。",
+      "zh": "是不是那种什么变态的癖好？不是有那种吗，<br>\n喜欢你就要杀掉你的那种人。",
+      "vi": "Đó có phải là một loại sở thích biến thái? Không có loại chuyện đó sao? Loại người sẽ giết bạn nếu anh ta thích bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo008",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo008|",
+      "ja": "ふふっ、そういうこと。<br>私はね、愛していたから殺したのよ。",
+      "zh": "呵呵，就是这样。<br>\n我啊，就是因为深爱着她才杀了她的。",
+      "vi": "Haha, thế thôi. Chị giết cô ấy chỉ vì Chị yêu cô ấy sâu sắc.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo009",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo009|",
+      "ja": "あなたたちもきっといずれわかると思うの。<br>愛に応える方法は、究極的に死なのよ。",
+      "zh": "你们迟早也会明白的。<br>\n对爱最终极的回应，就是死亡呀。",
+      "vi": "Sớm hay muộn em sẽ hiểu. Phản ứng cuối cùng đối với tình yêu là cái chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative006",
+      "speaker_tag": "",
+      "ja": "<ruby=\"こうこつ\">恍惚</ruby>とした表情で口にするマーゴに、<br>嫌悪感しかなかった。",
+      "zh": "玛格带着陶醉的表情说出这些话，<br>\n我对她只感到厌恶。",
+      "vi": "Margo nói những lời này với vẻ mặt say sưa, Tôi chẳng cảm thấy gì ngoài sự ghê tởm cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro001",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro001|",
+      "ja": "……歪んでいる。本来そういった思いやりは、<br>感謝すべきものであって、危害を加えるものじゃない。",
+      "zh": "……太扭曲了。本来这种关怀<br>\n应该是值得感恩的，而不是去加害他人。",
+      "vi": "... vặn vẹo quá. Ban đầu là kiểu chăm sóc này Đó nên là điều đáng để biết ơn thay vì làm hại người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro002",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro002|",
+      "ja": "君は正しくない……！",
+      "zh": "你是错误的……！",
+      "vi": "Bạn sai rồi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo010",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo010|",
+      "ja": "あなたたちにはわからないかもしれないわね。<br>それが私にとって、愛のカタチなのよ。",
+      "zh": "你们可能无法理解吧。<br>\n这就是我爱的形式。",
+      "vi": "Bạn có thể không hiểu nó. Đây là hình thức tình yêu của Chị.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Warden001",
+      "speaker_tag": "; > Warden: |#0201Adv26_Warden001|",
+      "ja": "あっ、お話終わりました？<br>時間も押してますし、<br>そろそろ進行したいんですが……。",
+      "zh": "啊，你们讲完了吗？<br>\n时间也拖很久了，<br>\n是时候该继续了……",
+      "vi": "À, bạn nói xong chưa? Thời gian trôi qua thật lâu, Đã đến lúc phải tiếp tục…",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Warden002",
+      "speaker_tag": "; > Warden: |#0201Adv26_Warden002|",
+      "ja": "各自のスマホにボタンが表示されていると思うので、<br>全員がそれを押したら処刑執行スタートします。",
+      "zh": "现在大家的手机上应该都出现了一颗按钮，<br>\n只要所有人按下它，就会开始执行处刑了。",
+      "vi": "Bây giờ mọi người đều phải có một nút trên điện thoại di động của mình, Chỉ cần mọi người nhấn vào, cuộc hành quyết sẽ bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro003",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro003|",
+      "ja": "（処刑ボタン……なるほど、<br>　とことん追い詰めにかかっているな）",
+      "zh": "（处刑按钮……原来如此，<br>\n是要把我们逼到无路可退啊）",
+      "vi": "(Nút thực thi...thế là xong, Họ muốn ép chúng ta đến mức không thể quay lại)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Warden003",
+      "speaker_tag": "; > Warden: |#0201Adv26_Warden003|",
+      "ja": "ぐーっと長く押していただけますと……。",
+      "zh": "只要长按这个按钮……",
+      "vi": "Chỉ cần nhấn và giữ nút này...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro004",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro004|",
+      "ja": "（動機がどうあれ、メルルが黒幕であれ、<br>　宝生マーゴが氷上メルルを<br>　殺害した罪人であるのは事実）",
+      "zh": "（不管动机如何，即使梅露露是幕后黑手，<br>\n宝生玛格杀害冰上梅露露的罪行<br>\n也是事实）",
+      "vi": "(Bất kể động cơ là gì, ngay cả khi Meruru là kẻ chủ mưu, Tội ác giết Meruru trên băng của Baosheng Mag Điều này cũng đúng)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro005",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro005|",
+      "ja": "（私が彼女を――断罪する）",
+      "zh": "（我要——制裁她！）",
+      "vi": "(Tôi muốn trừng phạt cô ấy!)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Warden004",
+      "speaker_tag": "; > Warden: |#0201Adv26_Warden004|",
+      "ja": "はい！ ではこれより、<br>魔女の処刑を執行します～。",
+      "zh": "好了！那么，<br>\n现在开始执行对魔女的刑罚～",
+      "vi": "Được rồi! Sau đó, Bây giờ việc thi hành hình phạt phù thủy bắt đầu~",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative007",
+      "speaker_tag": "",
+      "ja": "宣言と共に、<br>何かの仕掛けが作動しはじめた。",
+      "zh": "话音刚落，<br>\n某道机关就启动了。",
+      "vi": "Ngay khi tôi nói xong, Một cơ chế nhất định đã được kích hoạt.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative008",
+      "speaker_tag": "",
+      "ja": "大仕掛けな歯車の回転音が聞こえたかと思うと、<br>中央の台座がゆっくりと下降していく。",
+      "zh": "随着大型齿轮的转动声传来，<br>\n中央的底座缓缓下降。",
+      "vi": "Khi âm thanh bánh răng lớn quay lại, Căn cứ trung tâm từ từ đi xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative009",
+      "speaker_tag": "",
+      "ja": "そして、もとあった台座と入れ替わる形で、<br>私たちの前には新たな台座が現れていた。",
+      "zh": "然后，我们面前出现了一个新的底座，<br>\n取代了原来底座的位置。",
+      "vi": "Sau đó, một căn cứ mới xuất hiện trước mặt chúng tôi, Thay thế vị trí cơ sở ban đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative010",
+      "speaker_tag": "",
+      "ja": "照らされたステージには<br>大きなターゲットボードがあった。",
+      "zh": "舞台被灯光照亮，<br>\n上有一个巨大的靶子。",
+      "vi": "Sân khấu được chiếu sáng, Có một mục tiêu rất lớn trên đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative011",
+      "speaker_tag": "",
+      "ja": "それはどこか悪趣味なショーを予感させ、<br>少女たちはごくりと喉を鳴らした。",
+      "zh": "少女们预感到一场恶趣味的表演即将在眼前展开，<br>\n不禁吞了一口口水。",
+      "vi": "Các cô gái có linh cảm rằng một màn trình diễn độc ác sắp diễn ra trước mắt họ, Tôi không khỏi nuốt một ngụm nước miếng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Alisa001",
+      "speaker_tag": "; > Alisa: |#0201Adv26_Alisa001|",
+      "ja": "……サーカスでも始める気かよ？",
+      "zh": "……是要搞什么马戏表演？",
+      "vi": "...mày định tổ chức một buổi biểu diễn xiếc nào đó phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Sherry001",
+      "speaker_tag": "; > Sherry: |#0201Adv26_Sherry001|",
+      "ja": "ナイフ投げでもやるんでしょうかね……？",
+      "zh": "难道是扔飞刀……？",
+      "vi": "Chẳng lẽ là ném dao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Leia001",
+      "speaker_tag": "; > Leia: |#0201Adv26_Leia001|",
+      "ja": "……ずいぶんと派手な処刑台だね。",
+      "zh": "……相当华丽的处刑台呢。",
+      "vi": "...Đó là một nền tảng thực thi khá tuyệt vời.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative012",
+      "speaker_tag": "",
+      "ja": "彼女は何を思っているのだろうか。",
+      "zh": "她到底在想什么呢。",
+      "vi": "Cô ấy đang nghĩ cái quái gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative013",
+      "speaker_tag": "",
+      "ja": "木製のターゲットボードの元へと<br>連行されていくマーゴの表情からは、何も読み取れない。",
+      "zh": "玛格正在被押送到木制靶子的面前。<br>\n从她的表情读不出任何感情。",
+      "vi": "Margo đang được hộ tống đến mục tiêu bằng gỗ. Không có cảm xúc nào có thể được đọc từ biểu hiện của cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative014",
+      "speaker_tag": "",
+      "ja": "私たちが<ruby=\"かたず\">固唾</ruby>を<ruby=\"の\">呑</ruby>んで見守る中――",
+      "zh": "在我们屏息注视下——",
+      "vi": "Khi chúng tôi nín thở quan sát——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative015",
+      "speaker_tag": "",
+      "ja": "マーゴは両手両足を革のベルトでしっかりと固定されて、<br>体を動かせない状態にされた。",
+      "zh": "玛格双手双脚被用皮带固定住，<br>\n身体无法动弹。",
+      "vi": "Tay và chân của Mag được cố định bằng thắt lưng, Cơ thể không thể di chuyển.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative016",
+      "speaker_tag": "",
+      "ja": "つまり、ターゲットボードに<br>はりつけ状態にされていた。",
+      "zh": "也就是被束缚在靶子上的状态。<br>",
+      "vi": "Đó là trạng thái bị ràng buộc với một mục tiêu.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo011",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo011|",
+      "ja": "あらあ♡ 悪趣味全開でとてもいいわあ♡<br>ゾクゾクしちゃう♡",
+      "zh": "哎呀呀♡品味这么低俗，真是太棒啦♡<br>\n让人兴奋不已呢♡",
+      "vi": "Ôi ♡ Thật tuyệt khi có hương vị thô tục như vậy ♡ Thật là thú vị♡",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative017",
+      "speaker_tag": "",
+      "ja": "殺人を犯しても、拘束されても尚――<br>彼女は<ruby=\"ようえん\">妖艶</ruby>な<ruby=\"ほほえ\">微笑</ruby>みを崩さない。",
+      "zh": "即使犯下杀人罪，即使被束缚——<br>\n她依然保持着妖艳的微笑。",
+      "vi": "Cho dù bạn có phạm tội giết người, cho dù bạn có bị khống chế—— Cô vẫn giữ nụ cười duyên dáng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro006",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro006|",
+      "ja": "（通常のナイフ投げなら、<br>　対象には刺さないパフォーマンスだ）",
+      "zh": "（正常的飞刀表演，<br>\n是不会刺中目标的）",
+      "vi": "(Màn trình diễn ném dao bình thường, Nó sẽ không bắn trúng mục tiêu)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro007",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro007|",
+      "ja": "（しかし処刑というからには、<br>　きっとナイフが彼女に……）",
+      "zh": "（但既然是处刑，<br>\n那么刀子一定会……）",
+      "vi": "(Nhưng vì nó đang được thực thi nên Vậy thì con dao chắc chắn sẽ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative018",
+      "speaker_tag": "",
+      "ja": "<ruby=\"きょうじ\">凶事</ruby>の予感からか、<br>多くの少女たちはすでに目を<ruby=\"おお\">覆</ruby>ったり<ruby=\"そむ\">背</ruby>けたりしている。",
+      "zh": "也许是因为恐怖的预感，<br>\n许多少女忍不住捂住眼睛或转过头去。",
+      "vi": "Có lẽ là do linh cảm đáng sợ, Nhiều cô gái không khỏi che mắt hoặc quay đầu lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative019",
+      "speaker_tag": "",
+      "ja": "<ruby=\"くう\">空</ruby>を<ruby=\"き\">切</ruby>り<ruby=\"さ\">裂</ruby>く音と共に、<br>どこかからその凶器が飛んできた。",
+      "zh": "划破空气的声音响起的同时，<br>\n不知从哪里飞来了凶器。",
+      "vi": "Cùng lúc với âm thanh cắt xuyên không khí vang lên, Vũ khí giết người từ đâu bay ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative020",
+      "speaker_tag": "",
+      "ja": "鋭い<ruby=\"せんたん\">尖端</ruby>が光を受けて光る。",
+      "zh": "锐利的尖端闪着寒光。",
+      "vi": "Đầu nhọn tỏa sáng lạnh lùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo012",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo012|",
+      "ja": "……ッ。",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative021",
+      "speaker_tag": "",
+      "ja": "ターゲットボードに刺さったのは、<br>ナイフではなく――悪趣味な形の矢だった。",
+      "zh": "插在靶子上的<br>\n不是飞刀——而是形状恶俗的箭矢。",
+      "vi": "đã được chèn vào mục tiêu Không phải một con dao bay—mà là một mũi tên có hình dạng thô tục.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative022",
+      "speaker_tag": "",
+      "ja": "その矢はマーゴの<ruby=\"ほお\">頬</ruby>のすぐ隣、<br>ほんの数センチ離れたところに深々と突き刺さっていた。",
+      "zh": "箭矢深深地刺入了距离玛格脸颊<br>\n仅几厘米的地方。",
+      "vi": "Mũi tên đâm sâu vào má Lima Ge Chỉ cách nhau vài centimet.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative023",
+      "speaker_tag": "",
+      "ja": "<ruby=\"すさ\">凄</ruby>まじい<ruby=\"しゃしゅつ\">射出</ruby>のスピードから想像するに、<br>もし刺さっていたら<ruby=\"ようしゃ\">容赦</ruby>なく彼女の<ruby=\"ほお\">頬</ruby>を<ruby=\"つらぬ\">貫</ruby>いていただろう。",
+      "zh": "从射出箭矢的速度来看，<br>\n如果射中了的话，一定已经贯穿了她的脸颊。",
+      "vi": "Xét theo tốc độ của mũi tên, Nếu nó trúng thì chắc chắn nó đã xuyên qua má cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative024",
+      "speaker_tag": "",
+      "ja": "続けざまに何本もの矢が飛んできて、<br>それらもまた、マーゴに当たらずぎりぎりの<ruby=\"かしょ\">箇所</ruby>に刺さる。",
+      "zh": "接着又飞来许多箭矢，<br>\n它们同样没有射中玛格，而是插在几乎就要射中的边沿。",
+      "vi": "Rồi nhiều mũi tên bay tới, Họ cũng không đánh trúng Margo mà mắc kẹt ở rìa nơi họ sắp đánh.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative025",
+      "speaker_tag": "",
+      "ja": "自身に刺さらない凶器に逆に追い詰められているのか、<br>さすがにマーゴの表情も<ruby=\"こわば\">強張</ruby>りはじめている。",
+      "zh": "也许是因为凶器没有刺中自己，反而造成了更大的心理压迫，<br>\n刚才还在妖艳微笑的玛格，表情已经开始绷紧了。",
+      "vi": "Có lẽ là do hung khí giết người không đâm anh ta mà ngược lại gây ra áp bức tâm lý lớn hơn, Mag, người vừa nãy vẫn đang mỉm cười quyến rũ, bắt đầu căng thẳng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo013",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo013|",
+      "ja": "……メルルちゃんは、<br>本当に優しくて、いい子だったの。",
+      "zh": "……梅露露，<br>\n真的是个善良的好孩子。",
+      "vi": "...Meruru, Anh ấy thực sự là một chàng trai tốt bụng và tốt bụng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative026",
+      "speaker_tag": "",
+      "ja": "<ruby=\"まと\">的</ruby>に突き刺さる無数の矢の合間合間に、<br>マーゴが<ruby=\"つぶや\">呟</ruby>きをこぼす。",
+      "zh": "在无数箭矢射中标靶的间隙中，<br>\n玛格低声呢喃着。",
+      "vi": "Trong khoảng trống giữa vô số mũi tên trúng mục tiêu, Margo thì thầm nhẹ nhàng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo014",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo014|",
+      "ja": "魔女だったなんて信じられないくらい、<br>可愛らしくて、あまりにいじらしくて……。",
+      "zh": "简直难以相信她是魔女，<br>\n她那么可爱，那么惹人怜爱……",
+      "vi": "Thật khó tin cô ấy là phù thủy, Cô ấy thật dễ thương, thật đáng yêu...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo015",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo015|",
+      "ja": "全部私のものにしたくなっちゃったのよ。<br>私を見ている驚いた瞳も、<br>清らかな服も愛らしい声も。",
+      "zh": "我想把她的一切都占为己有。<br>\n那惊讶地看着我的眼神、<br>\n那圣洁的服装、那可爱的声音。",
+      "vi": "Chị muốn chiếm lấy mọi thứ của cô ấy cho riêng mình. Đôi mắt ngạc nhiên nhìn Chị, Bộ quần áo thiêng liêng đó, giọng nói đáng yêu đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo016",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo016|",
+      "ja": "美しい銀白の髪も、<br>飛び散った赤い血も、心臓も、全部、全部全部。",
+      "zh": "那美丽的银发、<br>\n那飞溅的鲜血，还有心脏，全部、全部全部。",
+      "vi": "Mái tóc bạc tuyệt đẹp đó, Máu bắn tung tóe và trái tim, tất cả, tất cả, tất cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo017",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo017|",
+      "ja": "本当に愛しくて愛しくて、<br>私のものにしたのよ……！",
+      "zh": "真的太爱太爱了，<br>\n就把她变成了我的东西……！",
+      "vi": "Chị thực sự rất thích nó, Vừa biến cô ấy thành đồ của Chị...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative027",
+      "speaker_tag": "",
+      "ja": "<ruby=\"こわば\">強張</ruby>った笑みは、どこまでも<ruby=\"ゆが\">歪</ruby>んでいた。",
+      "zh": "僵硬的笑容扭曲至极。",
+      "vi": "Nụ cười cứng ngắc vô cùng méo mó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Ema003",
+      "speaker_tag": "; > Ema: |#0201Adv26_Ema003|",
+      "ja": "っ、やめてよ、聞きたくないよ……！",
+      "zh": "够了，不想再听了……！",
+      "vi": "Đủ rồi, tôi không muốn nghe nữa...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative028",
+      "speaker_tag": "",
+      "ja": "涙ながらに首を振っているエマを横目に、<br>私はマーゴを真っすぐに<ruby=\"みす\">見据</ruby>えた。",
+      "zh": "我用余光扫过泪流满面地摇头的艾玛，<br>\n直视玛格。",
+      "vi": "Với tầm nhìn ngoại vi của mình, tôi liếc nhìn Ema đang lắc đầu với những giọt nước mắt chảy dài trên khuôn mặt, Nhìn thẳng vào Mag.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro008",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro008|",
+      "ja": "嘘だ。",
+      "zh": "你在说谎。",
+      "vi": "Bạn đang nói dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative029",
+      "speaker_tag": "",
+      "ja": "もはや黙っていられず言い放つと、<br>マーゴの瞳が私を見つめる。",
+      "zh": "我再也无法保持沉默，脱口而出，<br>\n随后玛格看向了我。",
+      "vi": "Tôi không thể im lặng được nữa và buột miệng, Rồi Mag nhìn tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo018",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo018|",
+      "ja": "残念ながら嘘じゃない。<br>これが私の真実の愛――。",
+      "zh": "很遗憾，这不是谎言。<br>\n这就是我真实的爱——",
+      "vi": "Thật không may, đây không phải là một lời nói dối. Đây là tình yêu đích thực của Chị——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro009",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro009|",
+      "ja": "嘘だ！！",
+      "zh": "你在说谎！！",
+      "vi": "Bạn đang nói dối! !",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative030",
+      "speaker_tag": "",
+      "ja": "もう一度強く言い放つと、<br>マーゴの瞳がはじめて揺れた。",
+      "zh": "我再次斩钉截铁地说道。<br>\n玛格的眼神第一次动摇了。",
+      "vi": "Tôi nói lại một cách kiên quyết. Lần đầu tiên mắt Mag dao động.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro010",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro010|",
+      "ja": "君はメルルを愛してなどいなかった！！",
+      "zh": "你根本就不爱梅露露！！",
+      "vi": "Bạn không yêu Meruru chút nào! !",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro011",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro011|",
+      "ja": "これが真実の愛？ へどが出る。<br>お前の愛は【嘘】だ！！",
+      "zh": "这就是真实的爱？令人作呕。<br>\n你的爱是【谎言】！！",
+      "vi": "Đây có phải là tình yêu đích thực? Kinh tởm. Tình yêu của bạn là một [lời nói dối]! !",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative031",
+      "speaker_tag": "",
+      "ja": "私の<ruby=\"のうり\">脳裏</ruby>に、彼女の姿が<ruby=\"よぎ\">過</ruby>る。",
+      "zh": "我的脑海中浮现出她的身影。",
+      "vi": "Tôi hình dung ra cô ấy trong tâm trí.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative032",
+      "speaker_tag": "",
+      "ja": "失ったことへの胸の痛みは<br>どれだけ長い時間を<ruby=\"へ\">経</ruby>ても消えることがない。",
+      "zh": "失去她的痛苦<br>\n无论经过多么漫长的时间也不会消失。",
+      "vi": "Nỗi đau mất cô ấy Dù thời gian có trôi qua bao lâu đi chăng nữa, nó cũng sẽ không biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative033",
+      "speaker_tag": "",
+      "ja": "殺すことが愛なわけがない。",
+      "zh": "杀戮怎么可能是爱。",
+      "vi": "Làm sao giết chóc có thể là tình yêu?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative034",
+      "speaker_tag": "",
+      "ja": "私はずっと、ずっと――<br>彼女と一緒にいたかった。",
+      "zh": "我只想一直、永远——<br>\n和她在一起。",
+      "vi": "Tôi chỉ muốn luôn luôn và mãi mãi—— Hãy ở bên cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro012",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro012|",
+      "ja": "そんなものは愛じゃない！！<br>お前は愛を知らない！！",
+      "zh": "那根本不是爱！！<br>\n你根本不懂什么是爱！！",
+      "vi": "Đó hoàn toàn không phải là tình yêu! ! Bạn hoàn toàn không biết tình yêu là gì! !",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative035",
+      "speaker_tag": "",
+      "ja": "私の心からの叫びは、<br>マーゴの表情を大きく<ruby=\"ゆが\">歪</ruby>めた。",
+      "zh": "我发自内心的呐喊，<br>\n让玛格的表情大为扭曲。",
+      "vi": "Tôi hét lên từ tận đáy lòng, Vẻ mặt của Mag đã bị bóp méo rất nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo019",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo019|",
+      "ja": "ちがう、ちが……<br>私は愛を知っているの、<br>これは、愛なのよ……。",
+      "zh": "不是的，不是……<br>\n我懂得爱，<br>\n这就是爱啊……",
+      "vi": "Không, không... Chị biết tình yêu, Đây là tình yêu...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Sherry002",
+      "speaker_tag": "; > Sherry: |#0201Adv26_Sherry002|",
+      "ja": "んー……私は愛についてはよくわかりませんが、<br>ヒロさんの主張の方がしっくりきますね！",
+      "zh": "嗯——我虽然也不太了解什么是爱，<br>\n但我更认同希罗的主张！",
+      "vi": "Hmm - mặc dù tôi không hiểu rõ tình yêu là gì, Nhưng tôi đồng ý hơn với đề xuất của Hiro!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Sherry003",
+      "speaker_tag": "; > Sherry: |#0201Adv26_Sherry003|",
+      "ja": "マーゴさん、<br>あなたは愛しているから殺したのではなく、<br>消えてほしいから殺したんじゃないでしょうか。",
+      "zh": "玛格，<br>\n你不是因为爱才杀人，<br>\n而是因为想让她消失才杀人的，对吧。",
+      "vi": "Mag, Bạn không giết người vì tình yêu, Anh ta giết cô ấy vì muốn cô ấy biến mất, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo020",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo020|",
+      "ja": "――！",
+      "zh": "——！",
+      "vi": "——！",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Coco002",
+      "speaker_tag": "; > Coco: |#0201Adv26_Coco002|",
+      "ja": "だよなー。<br>嫌いだったって認めた方が楽になれんじゃね？",
+      "zh": "就是啊。<br>\n承认自己讨厌她不是会轻松点吗？",
+      "vi": "Đúng vậy. Chẳng phải sẽ dễ dàng hơn khi thừa nhận rằng bạn ghét cô ấy sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo021",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo021|",
+      "ja": "違う！<br>違う違う違う違う！！",
+      "zh": "不对！<br>\n不对不对不对不对！！",
+      "vi": "Không! Không, không, không, không! !",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo022",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo022|",
+      "ja": "私は愛を知っているのよ！！<br>これが愛なのよ！！",
+      "zh": "我懂得爱！！<br>\n这就是爱！！",
+      "vi": "Chị biết tình yêu! ! Đây là tình yêu! !",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo023",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo023|",
+      "ja": "もうやめて！！<br>私の愛を否定しないで！！",
+      "zh": "够了！！<br>\n不要否定我的爱！！",
+      "vi": "Đủ rồi! ! Đừng phủ nhận tình yêu của Chị! !",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo024",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo024|",
+      "ja": "私を【愛さないで】――！",
+      "zh": "【不要爱我】——！",
+      "vi": "[Đừng yêu Chị]——!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative036",
+      "speaker_tag": "",
+      "ja": "絶叫した直後、<br>マーゴ自身がハッと表情を<ruby=\"こわば\">強張</ruby>らせた。",
+      "zh": "尖叫过后，<br>\n玛格自己也惊讶地绷紧了表情。",
+      "vi": "Sau khi hét lên, Bản thân Margo cũng căng thẳng vì ngạc nhiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo025",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo025|",
+      "ja": "わた、私、今、何を……。",
+      "zh": "我、我刚才、说了什么……",
+      "vi": "Chị, Chị vừa nói gì vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative037",
+      "speaker_tag": "",
+      "ja": "きっとその時。<br>ようやく本音をこぼした唇が震える。",
+      "zh": "大概就在那时。<br>\n终于吐露出真心的双唇开始颤抖。",
+      "vi": "Vào khoảng thời gian đó. Đôi môi cuối cùng cũng bộc lộ cảm xúc thật của họ bắt đầu run rẩy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative038",
+      "speaker_tag": "",
+      "ja": "拘束されたマーゴの体が、<br>変化しはじめていた。",
+      "zh": "玛格被束缚着的身体，<br>\n开始发生变化。",
+      "vi": "Cơ thể bị trói của Mag, Mọi thứ bắt đầu thay đổi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative039",
+      "speaker_tag": "",
+      "ja": "顔に<ruby=\"きれつ\">亀裂</ruby>が入っていき、<br>手の爪がみるみると伸びていく。",
+      "zh": "脸上出现裂纹，<br>\n指甲肉眼可见地伸长。",
+      "vi": "Những vết nứt xuất hiện trên mặt, Móng tay dài ra trông thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative040",
+      "speaker_tag": "",
+      "ja": "ターゲットボードには<br>もはや<ruby=\"すんぶん\">寸分</ruby>の<ruby=\"すきま\">隙間</ruby>なく、<br>矢が刺さっている。",
+      "zh": "靶子上<br>\n已经密密麻麻地插满了箭矢，<br>\n几乎不见一丝间隙。",
+      "vi": "Vào mục tiêu Đã dày đặc mũi tên, Hầu như không có khoảng cách.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative041",
+      "speaker_tag": "",
+      "ja": "大量の矢が雨のように、<br>いよいよマーゴの全身めがけて飛んでくる。",
+      "zh": "终于，大量的箭矢如雨点般，<br>\n朝着玛格全身飞去。",
+      "vi": "Cuối cùng, một lượng lớn mũi tên trút xuống, Bay về phía toàn bộ cơ thể của Mag.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo026",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo026|",
+      "ja": "ああ――私、",
+      "zh": "啊——原来我，",
+      "vi": "À - hóa ra là Chị,",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Margo027",
+      "speaker_tag": "; > Margo: |#0201Adv26_Margo027|",
+      "ja": "愛なんて、知らなかったのね。",
+      "zh": "不懂什么是爱啊。",
+      "vi": "Chị không biết tình yêu là gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative042",
+      "speaker_tag": "",
+      "ja": "寂しそうにぽつりと<ruby=\"つむ\">紡</ruby>がれた声は、<br>マーゴの閉じ込めていた【禁忌】の扉を<br>開いてしまっていた――……",
+      "zh": "轻声吐露出的寂寞话语，<br>\n打开了玛格<br>\n封锁在内心的【禁忌】之门——",
+      "vi": "Lời nói cô đơn nhẹ nhàng, Đã mở tạp chí Cánh cửa [cấm kỵ] bị phong ấn trong trái tim——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative043",
+      "speaker_tag": "",
+      "ja": "――愛しているよ、と殴られた。",
+      "zh": "——一边听着“我爱你”，一边挨打。",
+      "vi": "---Nghe câu \"Anh yêu em\" khi bị đánh.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative044",
+      "speaker_tag": "",
+      "ja": "そんな日々は、いつから始まったのだろうか。<br>もはや数えることもやめてしまった。",
+      "zh": "这样的日子，是从什么时候开始的呢？<br>\n早就算不清了，也不想再算了。",
+      "vi": "Những ngày này bắt đầu từ khi nào? Tôi đã mất dấu nó từ lâu và tôi không muốn làm điều đó nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative045",
+      "speaker_tag": "",
+      "ja": "ゴミのたまり場となった、<ruby=\"ふしゅう\">腐臭</ruby>の<ruby=\"ただよ\">漂</ruby>う部屋の中。",
+      "zh": "在充满腐臭、堆满垃圾的房间里。",
+      "vi": "Trong một căn phòng tràn ngập mùi hôi thối và rác thải.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative046",
+      "speaker_tag": "",
+      "ja": "同じくゴミ同然に放置されたマーゴは、<br>いつしか考えることをやめていた。",
+      "zh": "和垃圾一同被扔在房间的玛格，<br>\n不知从何时起，已经放弃了思考。",
+      "vi": "Mag bị ném vào phòng cùng với rác, Tôi không biết mình bắt đầu từ bỏ suy nghĩ từ khi nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative047",
+      "speaker_tag": "",
+      "ja": "母親は、元からロクな人ではなかった。<br>時折家に帰ってマーゴの様子を見ては、<br>食事と金だけ置いて去っていく。",
+      "zh": "母亲本就不是个像样的人。<br>\n偶尔回家看一眼玛格的情况，<br>\n留下食物和一点钱后便匆匆离开。",
+      "vi": "Mẹ tôi không phải là người đàng hoàng. Thỉnh thoảng về nhà và kiểm tra Marge, Anh ta để lại thức ăn và một ít tiền rồi vội vã rời đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative048",
+      "speaker_tag": "",
+      "ja": "ある日、母が男を連れてきた。<br>母は彼も【愛してる】とのことだった。",
+      "zh": "某天，母亲带了一个男人回家。<br>\n母亲说，她也【爱】那个男人。",
+      "vi": "Một ngày nọ, mẹ tôi đưa một người đàn ông về nhà. Người mẹ nói rằng bà cũng [yêu] người đàn ông đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative049",
+      "speaker_tag": "",
+      "ja": "四畳半のふすまの向こうで、<br>母は男に毎日、【愛してる】と告げていた。",
+      "zh": "在四张半榻榻米大的狭窄房间门后，<br>\n母亲每天都对那个男人说【我爱你】。",
+      "vi": "Đằng sau cánh cửa của một căn phòng hẹp có bốn tấm chiếu tatami rưỡi, Mẹ tôi nói “Mẹ yêu con” với người đàn ông đó mỗi ngày.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative050",
+      "speaker_tag": "",
+      "ja": "その代わり、<br>マーゴに【愛してる】とは言わなくなった。",
+      "zh": "取而代之的，<br>\n是她不再对玛格说【我爱你】了。",
+      "vi": "Thay vào đó, Chính cô ấy là người đã không còn nói \"Anh yêu em\" với Margo nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative051",
+      "speaker_tag": "",
+      "ja": "男は母の愛に、見返りをくれた。",
+      "zh": "男人回应了母亲的爱。",
+      "vi": "Người đàn ông đáp lại tình yêu của mẹ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative052",
+      "speaker_tag": "",
+      "ja": "それは部屋にたまっていくゴミであったり。<br>怒号であったり。<br>母への暴力でもあった。",
+      "zh": "回应是不断堆积的垃圾。<br>\n是充斥耳膜的怒吼。<br>\n是对母亲施暴。",
+      "vi": "Câu trả lời là một đống rác ổn định. Đó là một tiếng gầm tràn ngập màng nhĩ. Đó là sự bạo hành đối với người mẹ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative053",
+      "speaker_tag": "",
+      "ja": "やがてある日の男は、<br>マーゴが隠れ住む四畳半のふすまを開いた。",
+      "zh": "终于有一天，<br>\n那男人来到玛格藏身的小房间，拉开隔扇。",
+      "vi": "Cuối cùng cũng có một ngày, Người đàn ông đến căn phòng nhỏ nơi Mag đang ẩn náu và mở vách ngăn ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative054",
+      "speaker_tag": "",
+      "ja": "男はマーゴを殴った。",
+      "zh": "他对玛格施暴了。",
+      "vi": "Anh ta bạo lực với Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative055",
+      "speaker_tag": "",
+      "ja": "殴られた、怒鳴られた、踏まれた。",
+      "zh": "被打、被骂、被踩。",
+      "vi": "Bị đánh, mắng, giẫm đạp.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative056",
+      "speaker_tag": "",
+      "ja": "叩かれた、<ruby=\"ばとう\">罵倒</ruby>された。<br>髪をつかまれた、物を投げつけられた。",
+      "zh": "被揍、被辱骂、<br>\n被揪住头发、被扔东西到身上。",
+      "vi": "Bị đánh, bị xúc phạm, Tóc anh ta bị kéo và mọi thứ bị ném vào anh ta.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative057",
+      "speaker_tag": "",
+      "ja": "殴られた、殴られた、殴られた。<br>叩かれた、叩かれた、叩かれた。<br>傷つけられた、傷つけられた、傷つけられた。",
+      "zh": "被打、被打、被打。<br>\n被揍、被揍、被揍。<br>\n被伤害、被伤害、被伤害。",
+      "vi": "Bị đánh, bị đánh, bị đánh. Bị đánh, bị đánh, bị đánh. Bị tổn thương, bị tổn thương, bị tổn thương.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative058",
+      "speaker_tag": "",
+      "ja": "ある日、あざだらけのマーゴは<br>切れ切れになった意識の中で、母の視線に気がついた。<br>母はただ、マーゴを見下ろしていた。",
+      "zh": "某天，满身瘀青的玛格，<br>\n在断断续续的意识中，注意到了母亲的目光。<br>\n母亲只是冷冷地俯视着她。",
+      "vi": "Một ngày nọ, Marge, người đầy vết bầm tím, Trong ý thức chập chờn, tôi nhận ra ánh mắt của mẹ. Mẹ cô chỉ lạnh lùng nhìn cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative059",
+      "speaker_tag": "",
+      "ja": "マーゴは助けてと、視線を送った。<br>母の表情にこもっていたのは……。",
+      "zh": "玛格用目光请求着，救救我。<br>\n可母亲表情中流露出的却是——",
+      "vi": "Margo cầu xin bằng ánh mắt, xin hãy giúp tôi. Nhưng điều thể hiện trên nét mặt của người mẹ là——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative060",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ぶべつ\">侮蔑</ruby>。",
+      "zh": "轻蔑。",
+      "vi": "Khinh thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative061",
+      "speaker_tag": "",
+      "ja": "<ruby=\"さと\">聡</ruby>いマーゴは理解した。<br>私が男の愛を奪ってしまったから。",
+      "zh": "聪明的玛格明白了。<br>\n因为我夺走了那男人的爱。",
+      "vi": "Margo thông minh đã hiểu. Bởi vì tôi đã lấy đi tình yêu của người đàn ông đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative062",
+      "speaker_tag": "",
+      "ja": "母は私を憎んでいるんだ。",
+      "zh": "母亲恨我。",
+      "vi": "Mẹ ghét tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative063",
+      "speaker_tag": "",
+      "ja": "愛を得た私は<ruby=\"しっと\">嫉妬</ruby>されている。<br>若く、美しく、見向きされている。",
+      "zh": "我得到了爱，所以她嫉妒。<br>\n我年轻，我美丽，我得到了注视。",
+      "vi": "Tôi có được tình yêu nên cô ấy ghen tị. Tôi trẻ, tôi đẹp, tôi được ngắm nhìn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative064",
+      "speaker_tag": "",
+      "ja": "マーゴは、涙を流しながら、<br>愛のカタチを知ってしまった。",
+      "zh": "玛格流着泪，<br>\n领悟了爱的模样。",
+      "vi": "Margo đã rơi nước mắt, Hiểu tình yêu trông như thế nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative065",
+      "speaker_tag": "",
+      "ja": "けれど……。",
+      "zh": "但是……",
+      "vi": "Nhưng...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative066",
+      "speaker_tag": "",
+      "ja": "母も去り、男も去り、<br>ひとり取り残された布団の上で<br>マーゴは静かに、誰にも聞こえないほど小さく<ruby=\"つぶや\">呟</ruby>いた。",
+      "zh": "母亲离开了，男人也离开了，<br>\n只留下玛格独自一人，在被褥上。<br>\n玛格用轻得几乎听不见的声音，喃喃着。",
+      "vi": "Mẹ bỏ đi, người đàn ông cũng bỏ đi, Margo bị bỏ lại một mình trên chăn. Margo thì thầm bằng một giọng nhẹ nhàng đến mức gần như không thể nghe được.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative067",
+      "speaker_tag": "",
+      "ja": "……私は……<br>とてもとても、いやだったのに。",
+      "zh": "……明明……<br>\n我真的、真的，很讨厌这一切啊。",
+      "vi": "...Rõ ràng... Tôi thực sự, thực sự ghét tất cả những điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative068",
+      "speaker_tag": "",
+      "ja": "マーゴの体には、<br>無数の矢が突き刺さっていた。",
+      "zh": "玛格的身体<br>\n被无数箭矢刺穿。",
+      "vi": "Cơ thể của Mag Bị vô số mũi tên xuyên thủng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_AnAn001",
+      "speaker_tag": "; > AnAn: |#0201Adv26_AnAn001|",
+      "ja": "ぐっ……。",
+      "zh": "呃……",
+      "vi": "Ờ...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hanna001",
+      "speaker_tag": "; > Hanna: |#0201Adv26_Hanna001|",
+      "ja": "ううぅ！",
+      "zh": "呜呜！",
+      "vi": "Tuyệt vời!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative069",
+      "speaker_tag": "",
+      "ja": "何本も何本も突き立てられた矢に、<br>マーゴは<ruby=\"けもの\">獣</ruby>のように<ruby=\"うめ\">呻</ruby>き苦しみ――",
+      "zh": "数不清的箭矢一根一根刺入玛格体内，<br>\n她如野兽般低吼、痛苦挣扎——",
+      "vi": "Vô số mũi tên lần lượt đâm vào cơ thể Mag, Cô gầm lên như một con thú hoang và vùng vẫy trong đau đớn——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative070",
+      "speaker_tag": "",
+      "ja": "<ruby=\"ほうこう\">咆哮</ruby>をあげ、<ruby=\"いぎょう\">異形</ruby>と化していく。",
+      "zh": "咆哮着，化作了异形。",
+      "vi": "Gầm lên, nó biến thành một hình dạng xa lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Warden005",
+      "speaker_tag": "; > Warden: |#0201Adv26_Warden005|",
+      "ja": "無事に魔女のなれはてとなりましたので、<br>彼女は永遠の牢獄へと閉じ込めます。",
+      "zh": "由于她已顺利变成魔女的残骸，<br>\n接下来她会被关进永恒的囚牢之中。",
+      "vi": "Vì cô ấy đã biến thành công thành hài cốt của một phù thủy, Tiếp theo cô sẽ bị giam trong Ngục Dinh Thự vĩnh cửu.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative071",
+      "speaker_tag": "",
+      "ja": "淡々とゴクチョーが口にし、<br>直後に機械の作動音が聞こえてきた。",
+      "zh": "典狱长平静地说道。<br>\n紧接着是一阵机械运转声。",
+      "vi": "Người quản lý bình tĩnh nói. Sau đó là âm thanh vận hành máy móc.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative072",
+      "speaker_tag": "",
+      "ja": "仕掛けが作動し、<br>処刑台が地下へと片付けられていく。",
+      "zh": "这时机关开始运作，<br>\n将处刑台降至地下，移出了现场。",
+      "vi": "Lúc này, cơ chế bắt đầu hoạt động, Đài hành hình được hạ xuống đất và di chuyển ra khỏi hiện trường.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative073",
+      "speaker_tag": "",
+      "ja": "おぞましい叫びがしばらく後を引いていたが、<br>床が閉じられたことで、完全に無音となった。",
+      "zh": "异形的咆哮声仍持续回荡了一阵子，<br>\n直到地板关闭，一切恢复沉寂。",
+      "vi": "Tiếng gầm của người ngoài hành tinh tiếp tục vang vọng một lúc, Cho đến khi sàn đóng lại và mọi thứ trở lại im lặng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative074",
+      "speaker_tag": "",
+      "ja": "中央は、もともとの台座に戻っており、<br>ただ、残り香のように――<br>赤い蝶がひらりと舞った。",
+      "zh": "中央恢复成了原来的底座，<br>\n只有如同残香般的——<br>\n一只赤红的蝴蝶在轻盈飞舞。",
+      "vi": "Trung tâm đã được khôi phục về cơ sở ban đầu, Chỉ còn hương thơm đọng lại—— Một con bướm đỏ đang bay nhẹ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro013",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro013|",
+      "ja": "（これが……魔女の処刑……）",
+      "zh": "（这就是……魔女的处刑……）",
+      "vi": "(Đây là...cuộc hành quyết của mụ phù thủy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative075",
+      "speaker_tag": "",
+      "ja": "<ruby=\"そうぜつ\">壮絶</ruby>な処刑を目の当たりにし、<br>私たちは言葉を失うほかなかった。",
+      "zh": "亲眼目睹了如此惨烈的处刑，<br>\n我们失去了言语。",
+      "vi": "Chứng kiến cuộc hành quyết dã man như vậy, Chúng tôi không nói nên lời.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative076",
+      "speaker_tag": "",
+      "ja": "おそろしくも哀しいものを見せられ、<br>さぞかし泣いているだろうと<br>自然とエマの方へ視線が移る。",
+      "zh": "目睹了如此可怕又悲伤的场面，<br>\n想必艾玛一定在哭泣吧，<br>\n我不由自主地看向她。",
+      "vi": "Chứng kiến cảnh tượng kinh hoàng và đau buồn như vậy, Ema chắc đang khóc, Tôi bất giác nhìn cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative077",
+      "speaker_tag": "",
+      "ja": "私の視界に映ったエマは――<br>……笑っていた。",
+      "zh": "但映入我眼帘的艾玛，竟然——<br>\n……在笑。",
+      "vi": "Nhưng Ema khiến tôi chú ý là—— ... đang cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Hiro014",
+      "speaker_tag": "; > Hiro: |#0201Adv26_Hiro014|",
+      "ja": "（エマ……君はやはり……）",
+      "zh": "（艾玛……你果然……）",
+      "vi": "(Ema...bạn thực sự là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative078",
+      "speaker_tag": "",
+      "ja": "私は声もなく、拳を震わせた。",
+      "zh": "我无言地握紧了颤抖的拳头。",
+      "vi": "Tôi siết chặt bàn tay run rẩy của mình không nói nên lời.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative079",
+      "speaker_tag": "",
+      "ja": "静寂が裁判所内を支配している。<br>しばらく、誰も何も言わない。",
+      "zh": "审判庭陷入死寂。<br>\n一时间，没有任何人说话。",
+      "vi": "Tòa án dị giáo rơi vào im lặng chết chóc. Trong một lúc, không ai lên tiếng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative080",
+      "speaker_tag": "",
+      "ja": "痛いほどの沈黙を破ったのは、<br>やはりゴクチョーだった。",
+      "zh": "打破这令人窒息的沉默的<br>\n是典狱长。",
+      "vi": "phá vỡ sự im lặng ngột ngạt này Đó là quản giáo.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Warden006",
+      "speaker_tag": "; > Warden: |#0201Adv26_Warden006|",
+      "ja": "無事に終わって良かったですね。<br>また殺人事件が起きたら<br>魔女裁判を開きます。",
+      "zh": "能顺利结束真是太好了呢。<br>\n如果之后再发生凶杀案的话，<br>\n就会开展魔女审判。",
+      "vi": "Thật tuyệt vời khi nó đã kết thúc thành công. Nếu một vụ giết người khác xảy ra trong tương lai, Sẽ có một phiên tòa xét xử phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Warden007",
+      "speaker_tag": "; > Warden: |#0201Adv26_Warden007|",
+      "ja": "それまでは、今までどおりに<br>囚人として慎ましく生活をしてください。",
+      "zh": "在下次审判到来之前，请大家跟往常一样，<br>\n老实规矩地作为囚犯生活下去吧。",
+      "vi": "Cho đến lần dùng thử tiếp theo, vui lòng làm như bình thường, Hãy sống cuộc đời tù nhân của mình một cách lương thiện và đáng kính trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Warden008",
+      "speaker_tag": "; > Warden: |#0201Adv26_Warden008|",
+      "ja": "これにて、閉廷とします。<br>やれやれ、おつかれさまでした……。",
+      "zh": "魔女审判，就此闭庭。<br>\n哎呀呀，真是辛苦大家了……",
+      "vi": "Phiên tòa xét xử phù thủy hiện đã đóng cửa. Ôi, cảm ơn mọi người đã làm việc chăm chỉ...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv26_Narrative081",
+      "speaker_tag": "",
+      "ja": "私たちの中に消せない深い傷を残し――<br>裁判は終わったのだ。",
+      "zh": "在我们心中留下无法抹去的深深伤痕后——<br>\n审判结束了。",
+      "vi": "Sau khi để lại những vết sẹo sâu không thể xóa nhòa trong lòng—— Phiên tòa kết thúc.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter05_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter05_Trial04",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter05/Act01_Chapter05_Trial04' Naninovel scenario script",
+  "total_entries": 97,
+  "entries": [
+    {
+      "id": "0105Trial04_Margo001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial04_Margo001|",
+      "ja": "ナノカちゃんが<br>見つかった処刑台。<br>そこへの唯一の入口である<br>裁判所には<br>１０時から<br>ずっと誰かしら<br>２人以上がいたわ。",
+      "zh": "奈叶香是在处刑台上<br>\n被发现的。<br>\n而通往处刑台的唯一入口，<br>\n审判庭，<br>\n从10点开始一直<br>\n有至少两个人<br>\n在场。",
+      "vi": "Nanoyaka đang ở trên nền tảng thực thi được phát hiện. Lối vào duy nhất của nền tảng thực thi là Điều tra, Từ 10 giờ cho đến Có ít nhất hai người Hãy có mặt.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial04_Margo002|",
+      "ja": "けれどエマちゃんは<br>その前に<br>ナノカちゃんが<br>地下に入るのを<br>見たと言っている……。",
+      "zh": "但是艾玛说<br>\n她看着奈叶香<br>\n在更早时候<br>\n进入了地下……<br>",
+      "vi": "Nhưng Ema đã nói Cô ấy nhìn Nanoyaka Trước đó Đã tiến vào lòng đất...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial04_Margo003|",
+      "ja": "エマちゃんの話が<br>真実だったとき……<br>そもそもナノカちゃんは<br>処刑台に入ることも、<br>そこで死ぬことも<br><link=\"Objection_01_05_04_01\">できない</link>のよ。",
+      "zh": "如果艾玛说的<br>\n是真的……<br>\n那么奈叶香根本就<br>\n不可能进入处刑台，<br>\n更<link=\"Objection_01_05_04_01\">不可能</link><br>\n死在那里。",
+      "vi": "Nếu Ema nói Đó là sự thật... Vậy thì Nanoha chỉ đơn giản là Không thể vào được nền tảng thực thi, Thêm <link=\"Objection_01_05_04_01\"> không thể </link> Chết ở đó.",
+      "objection_links": [
+        "Objection_01_05_04_01"
+      ]
+    },
+    {
+      "id": "0105Trial04_Ema001",
+      "speaker_tag": "; > @printDebate pos:35,50 roll:-4 |#0105Trial04_Ema001|",
+      "ja": "……で、でも、<br>ナノカちゃんのいた処刑台は<br>朝から地下に<br>あったはずだよね？<br>地上には<br>アリサちゃんのいた<br>処刑台が<br>あったんだし……。",
+      "zh": "……但、但是，<br>\n奈叶香所在的处刑台<br>\n从早上开始就应该<br>\n停在地下吧？<br>\n因为亚里沙<br>\n所在的处刑台<br>\n在地上……<br>",
+      "vi": "...Nhưng, nhưng, Nền tảng thực thi nơi đặt Nanoyaka Bạn nên từ sáng Đậu xe dưới lòng đất phải không? Bởi vì Alisa Nền tảng thực thi nơi nó được đặt Trên mặt đất...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial04_Margo004|",
+      "ja": "そうね。",
+      "zh": "没错。",
+      "vi": "Đúng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial04_Ema002|",
+      "ja": "なら、<br>地下から処刑台に<br>移動した可能性は<br>考えられるんじゃ<br>ないかな……！",
+      "zh": "那么，<br>\n从地下移动到<br>\n处刑台的可能性<br>\n是存在的吧……！<br>",
+      "vi": "Sau đó, Di chuyển từ dưới lòng đất tới Khả năng thực thi bảng Nó tồn tại...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial04_Margo005|",
+      "ja": "地下には処刑台を覗ける<br>【覗き窓】が<br>あるんだったわね？<br>それがあるぐらいだから<br>物理的な距離で言うなら<br>地下と処刑台の距離は<br>短かったと思うわ。",
+      "zh": "地下不是有<br>\n能看到处刑台的<br>\n【小窗】吗？<br>\n既然有窗户，<br>\n从物理距离来说，<br>\n地下和处刑台之间的距离<br>\n应该很短。",
+      "vi": "Không có dưới lòng đất sao? với góc nhìn về nền tảng thực thi [Cửa sổ nhỏ]? Vì có cửa sổ nên Xét về khoảng cách vật lý, Khoảng cách giữa tầng hầm và sàn thi hành án Nó phải ngắn gọn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial04_Margo006|",
+      "ja": "でも……<br>その間を通ることは<br>できたのかしら？<br>ねえ、ココちゃん。",
+      "zh": "但是……<br>\n我们真的<br>\n有路过去吗？<br>\n可可，你怎么看？",
+      "vi": "Nhưng... Chúng Chị thực sự Có đường đến đó không? Coco, em nghĩ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial04_Coco001|",
+      "ja": "無理むり！<br>通路なんて<br>なかったって！<br>もちろん、<br>隠し通路とかも！",
+      "zh": "绝对不可能！<br>\n根本就没有路！<br>\n当然，<br>\n也没有什么暗道！<br>",
+      "vi": "Tuyệt đối không thể được! Chẳng có con đường nào cả! Tất nhiên, Không có lối đi bí mật!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial04_Coco002|",
+      "ja": "覗き窓だって<br>絶対通れないし！<br>あんなちっちゃい通路、<br><link=\"Objection_01_05_04_02\">猫でもなきゃ</link><br>通れないって！",
+      "zh": "小窗绝对<br>\n过不去！<br>\n那么小的口子，<br>\n<link=\"Objection_01_05_04_02\">除非是猫</link><br>\n才能过去！",
+      "vi": "Cửa sổ nhỏ chắc chắn là Không thể làm được! Mở đầu nhỏ thế, <link=\"Objection_01_05_04_02\">Trừ khi đó là mèo</link> Chỉ khi đó chúng ta mới có thể vượt qua!",
+      "objection_links": [
+        "Objection_01_05_04_02"
+      ]
+    },
+    {
+      "id": "0105Trial04_Coco003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial04_Coco003|",
+      "ja": "なのに<br>どうやってナノカが<br>通ったってんだよ！？",
+      "zh": "那奈叶香<br>\n到底是<br>\n怎么过去的啊！？",
+      "vi": "Nana Yexiang là gì Nó đã trôi qua như thế nào? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Meruru001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial04_Meruru001|",
+      "ja": "やっぱりエマさんの<br>推理には<br>無理があるような……。",
+      "zh": "看来艾玛小姐的推理<br>\n确实有些勉强呢……<br>",
+      "vi": "Có vẻ như lý do của cô Ema Thật sự có chút bất đắc dĩ...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema003",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema003|",
+      "ja": "（……そんなわけない。<br>　ナノカちゃんが地上に出ていないことは、<br>　ボクが見ている……）",
+      "zh": "（……不可能是这样。<br>\n奈叶香没有到地上来，<br>\n这是我亲眼所见的……）",
+      "vi": "(…Không thể như vậy được. Nanoyaka chưa chạm đất, Đây là điều tôi đã tận mắt chứng kiến...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema004",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema004|",
+      "ja": "（だとしたらナノカちゃんは<br>　どうやって移動したんだろう……？）",
+      "zh": "（那么奈叶香<br>\n是怎么移动过去的呢……？）",
+      "vi": "(Rồi Nanoha Làm thế nào bạn di chuyển đến đó...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema005",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema005|",
+      "ja": "（ナノカちゃんが移動できる方法を証明しないと<br>　犯人はボクしかいなくなっちゃう……！<br>　可能性を考えないと……！）",
+      "zh": "（如果不能证明奈叶香有移动的方法，<br>\n那凶手就只可能是我了……！<br>\n必须找出其他可能性……！）",
+      "vi": "(Nếu không chứng minh được Nanoyaka có cách di chuyển thì Vậy thì kẻ sát nhân chỉ có thể là tôi...! Những khả năng khác phải được tìm thấy...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Choice001",
+      "speaker_tag": "; > @choice |#0105Trial04_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "入れる時間帯はある",
+      "zh": "有可以进去的时间段",
+      "vi": "Có một khoảng thời gian có sẵn để vào",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Choice002",
+      "speaker_tag": "; > @choice |#0105Trial04_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "ナノカは猫になった",
+      "zh": "奈叶香变成了猫",
+      "vi": "Nanoyaka biến thành mèo",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Choice003",
+      "speaker_tag": "; > @choice |#0105Trial04_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "ナノカは小さくなった",
+      "zh": "奈叶香变小了",
+      "vi": "Nanoyaka đã trở nên nhỏ bé hơn",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Choice004",
+      "speaker_tag": "; > @choice |#0105Trial04_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "ゴクチョーなら通れた",
+      "zh": "典狱长能通过",
+      "vi": "Người quản lý có thể vượt qua",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema006",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema006|",
+      "ja": "ナノカちゃんが<br>地下の処刑台に入れる時間帯は<br>あったんじゃないかな……？",
+      "zh": "会不会有一个时间段<br>\n能让奈叶香<br>\n前往地下的处刑台呢……？",
+      "vi": "Sẽ có một khoảng thời gian Làm Nanoha thơm Thế còn việc hướng tới sàn hành quyết dưới lòng đất thì sao…?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo007",
+      "speaker_tag": "; > Margo: |#0105Trial04_Margo007|",
+      "ja": "でもエマちゃんの話によれば、<br>今朝までナノカちゃんは生きてたのよね？",
+      "zh": "可是根据艾玛的说法，<br>\n奈叶香今天早上还活着对吧？",
+      "vi": "Nhưng theo Ema, Sáng nay Nanoyaka vẫn còn sống phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema007",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema007|",
+      "ja": "そ、そうだけど……。",
+      "zh": "是、是这样没错……",
+      "vi": "Vâng, đúng vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo008",
+      "speaker_tag": "; > Margo: |#0105Trial04_Margo008|",
+      "ja": "けれどそもそも、<br>処刑台は昨夜の２１時と<br>朝の９時にしか動いていない……。",
+      "zh": "但是<br>\n处刑台只在昨晚9点<br>\n和今早9点移动过……",
+      "vi": "Nhưng Sàn hành quyết chỉ diễn ra lúc 9 giờ tối hôm qua Và chuyển đi lúc 9 giờ sáng nay...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo009",
+      "speaker_tag": "; > Margo: |#0105Trial04_Margo009|",
+      "ja": "なら、エマちゃんの証言と<br>ゴクチョーが持ってる処刑台の動作履歴は<br>矛盾するんじゃないかしら？",
+      "zh": "那么，艾玛的证词<br>\n和典狱长手中的处刑台操作记录<br>\n不是有矛盾吗？",
+      "vi": "Vì vậy, lời khai của Ema và biên bản thao tác trên bàn hành hình trong tay quản giáo Có mâu thuẫn không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema008",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema008|",
+      "ja": "うぐっ……！？",
+      "zh": "唔唔……！？",
+      "vi": "Ờ-huh...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco004",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco004|",
+      "ja": "……まー、ゴクチョーと喧嘩したいなら<br>べつに止めねーけど。",
+      "zh": "……哎，想找典狱长吵架<br>\n那随便你。",
+      "vi": "...Này, Coco muốn cãi nhau với quản giáo Điều đó tùy thuộc vào bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco005",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco005|",
+      "ja": "べつにゴクチョーが<br>嘘ついてる証拠もないと思うけど？",
+      "zh": "不过我看你也没有证据<br>\n证明典狱长在撒谎吧？",
+      "vi": "Nhưng Coco không nghĩ bạn có bất kỳ bằng chứng nào Chứng tỏ cai ngục đang nói dối, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema009",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema009|",
+      "ja": "それは……そうかも。",
+      "zh": "这个……确实是。",
+      "vi": "Đây... thực sự là như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo010",
+      "speaker_tag": "; > Margo: |#0105Trial04_Margo010|",
+      "ja": "じゃあエマちゃんが嘘をついてる犯人でいいのね？",
+      "zh": "那么我们就认定艾玛是说谎的凶手了，可以吗？",
+      "vi": "Vậy nên chúng ta cho rằng Ema là kẻ nói dối, được chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema010",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema010|",
+      "ja": "それはダメかも……！",
+      "zh": "那可不行……！",
+      "vi": "Điều đó không ổn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema011",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema011|",
+      "ja": "（処刑台の動作記録はボクとナノカちゃんが<br>　操作盤を押したタイミングなんだろうし、<br>　間違ってない気がするけど……）",
+      "zh": "（处刑台的操作记录应该是我和奈叶香<br>\n按下控制面板的时间，<br>\n这个应该没错……）",
+      "vi": "(Bản ghi thực thi phải là Nanoyaka và I Thời gian bảng điều khiển được nhấn, Điều này phải đúng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema012",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema012|",
+      "ja": "（……【ナノカちゃんは今朝まで生きていた】<br>　そして【地下の冷凍室に入っていった】<br>　それは間違いない）",
+      "zh": "（……不过【奈叶香今早还活着】<br>\n而且【进入了地下的冷冻室】<br>\n这是毋庸置疑的）",
+      "vi": "(...nhưng [Nayoka sáng nay vẫn còn sống] Và [đã bước vào tủ đông ngầm] Điều này là không thể nghi ngờ)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema013",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema013|",
+      "ja": "（じゃあナノカちゃんはどうやって<br>　【地下の冷凍室から進入不能な処刑台に入り、殺された】のか。<br>　証拠の矛盾と照らし合わせて考えるんだ……！）",
+      "zh": "（那么奈叶香是如何<br>\n【从地下的冷冻室进入无法进入的处刑台，并且遇害的】呢。<br>\n必须结合证据的矛盾来思考……！）",
+      "vi": "(Vậy Nanoha đã làm thế nào [Anh ta bước vào bục hành quyết không thể tiếp cận từ tủ đông ngầm và bị giết]. Phải xem xét những mâu thuẫn trong bằng chứng...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema014",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema014|",
+      "ja": "なら……ナノカちゃんは猫になったとか<br>考えられないかな？<br>魔女の使い魔といえば猫なところあるし……。",
+      "zh": "那么……奈叶香有没有可能是<br>\n变成了猫呢？<br>\n说到魔女的使魔，猫不是很常见吗……",
+      "vi": "Vậy... có thể nào Nanoyaka là Còn việc trở thành một con mèo thì sao? Khi nói đến thú cưng của phù thủy, không phải mèo rất phổ biến sao...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco006",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco006|",
+      "ja": "なんでそうなるんだよ！",
+      "zh": "为什么你会想到这个啊！",
+      "vi": "Tại sao bạn lại nghĩ về điều này?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema015",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema015|",
+      "ja": "だ、だって小動物に変身でもしないと<br>成立できないなら、<br>したとしか思えないよ！",
+      "zh": "因、因为如果不变身成小动物的话<br>\n就说不通啊，<br>\n所以我只能这么想了！",
+      "vi": "Bởi vì, vì nếu bạn không biến thành một con vật nhỏ Điều đó thật vô nghĩa, Vì vậy, đó là tất cả những gì tôi có thể nghĩ đến!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema016",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema016|",
+      "ja": "もしかしたらそんな魔法や薬があったのかも……！",
+      "zh": "说不定真的有这种魔法或者药物呢……！",
+      "vi": "Có lẽ thực sự có phép thuật hay thuốc như vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo011",
+      "speaker_tag": "; > Margo: |#0105Trial04_Margo011|",
+      "ja": "【見苦しいわね、桜羽エマ】。",
+      "zh": "【真是够丢人的，樱羽艾玛】。",
+      "vi": "[Thật xấu hổ, Ema Sakuraba].",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo012",
+      "speaker_tag": "; > Margo: |#0105Trial04_Margo012|",
+      "ja": "……きっとナノカちゃんなら、<br>そう言って呆れてるわよ♡",
+      "zh": "……如果是奈叶香的话，<br>\n一定会这样说，然后露出傻眼的表情吧♡",
+      "vi": "...Nếu là Nanoyaka, Cậu chắc chắn sẽ nói điều này và sau đó làm vẻ mặt chết lặng♡",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema017",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema017|",
+      "ja": "（ナノカちゃんの声マネまでして<br>　呆れられちゃった……！）",
+      "zh": "（甚至模仿出奈叶香的声音<br>\n对我翻白眼……！）",
+      "vi": "(Thậm chí còn bắt chước giọng của Nanoyaka Hãy trợn mắt nhìn tôi...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema018",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema018|",
+      "ja": "（……【ナノカちゃんは今朝まで生きていた】<br>　そして【地下の冷凍室に入っていった】<br>　それは間違いない）",
+      "zh": "（……不过【奈叶香今早还活着】<br>\n而且【进入了地下的冷冻室】<br>\n这是毋庸置疑的）",
+      "vi": "(...nhưng [Nayoka sáng nay vẫn còn sống] Và [đã bước vào tủ đông ngầm] Điều này là không thể nghi ngờ)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema019",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema019|",
+      "ja": "（じゃあナノカちゃんはどうやって<br>　【地下の冷凍室から進入不能な処刑台に入り、殺された】のか。<br>　証拠の矛盾と照らし合わせて考えるんだ……！）",
+      "zh": "（那么奈叶香是如何<br>\n【从地下的冷冻室进入无法进入的处刑台，并且遇害的】呢。<br>\n必须结合证据的矛盾来思考……！）",
+      "vi": "(Vậy Nanoha đã làm thế nào [Anh ta bước vào bục hành quyết không thể tiếp cận từ tủ đông ngầm và bị giết]. Phải xem xét những mâu thuẫn trong bằng chứng...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema020",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema020|",
+      "ja": "ゴクチョーなら通れたんじゃないかな……！？",
+      "zh": "典狱长的话应该能过去吧……！？",
+      "vi": "Người quản lý sẽ có thể vượt qua nó ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo013",
+      "speaker_tag": "; > Margo: |#0105Trial04_Margo013|",
+      "ja": "エマちゃん、今はナノカちゃんがそこを通れたかどうかを<br>話してるのよ？",
+      "zh": "艾玛，我们现在讨论的是<br>\n奈叶香能不能通过那里哦？",
+      "vi": "Ema, chúng ta đang thảo luận về Nanoyaka có thể vượt qua đó không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco007",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco007|",
+      "ja": "ゴクチョーが通れたからって<br>どうなるんだよ！<br>バカ！",
+      "zh": "就算典狱长能通过<br>\n那又怎样！<br>\n笨蛋！",
+      "vi": "Ngay cả khi quản giáo có thể vượt qua Vậy thì sao! Đồ ngốc!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema021",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema021|",
+      "ja": "（シンプルに罵倒されちゃった……！）",
+      "zh": "（被直接骂了……！）",
+      "vi": "(Mình đã bị mắng trực tiếp…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema022",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema022|",
+      "ja": "（……【ナノカちゃんは今朝まで生きていた】<br>　そして【地下の冷凍室に入っていった】<br>　それは間違いない）",
+      "zh": "（……不过【奈叶香今早还活着】<br>\n而且【进入了地下的冷冻室】<br>\n这是毋庸置疑的）",
+      "vi": "(...nhưng [Nayoka sáng nay vẫn còn sống] Và [đã bước vào tủ đông ngầm] Điều này là không thể nghi ngờ)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema023",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema023|",
+      "ja": "（じゃあどうやって<br>　【地下の冷凍室から進入不能な処刑台に入り、殺された】のか。<br>　証拠の矛盾と照らし合わせて考えるんだ……！）",
+      "zh": "（那么她是如何<br>\n【从地下的冷冻室进入无法进入的处刑台，并且遇害的】呢。<br>\n必须结合证据的矛盾来思考……！）",
+      "vi": "(Vậy làm sao cô ấy [Anh ta bước vào bục hành quyết không thể tiếp cận từ tủ đông ngầm và bị giết]. Phải xem xét những mâu thuẫn trong bằng chứng...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema024",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema024|",
+      "ja": "ナノカちゃんが小さくならなきゃ<br>そこを通れないなら……。",
+      "zh": "如果奈叶香必须变小<br>\n才能通过那里的话……",
+      "vi": "Nếu Nanoha phải trở nên nhỏ hơn Nếu cậu có thể qua đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema025",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema025|",
+      "ja": "……ナノカちゃんは小さくなったんだよ！",
+      "zh": "……奈叶香一定是变小了！",
+      "vi": "...Nayoka hẳn đã trở nên nhỏ bé hơn rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco008",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco008|",
+      "ja": "はぁ！？ どうやってだよ！<br>ナノカの魔法は、<br>過去を見るとかなんとかの魔法だろ！",
+      "zh": "啊！？怎么可能！<br>\n奈叶香的魔法<br>\n不是那什么看到过去吗！",
+      "vi": "À! ? Làm sao điều đó có thể được! Phép thuật của Nanoyaka Đó không phải là những gì bạn thấy trong quá khứ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco009",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco009|",
+      "ja": "ナノカが小さくなったって……<br>どうやって小さくなったってんだよ！！",
+      "zh": "奈叶香变小了……<br>\n你说她到底是怎么变小的！！",
+      "vi": "Nanoyaka đã trở nên nhỏ bé hơn... Hãy kể cho Coco biết cô ấy đã nhỏ đi như thế nào! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema026",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema026|",
+      "ja": "そ、それは……！",
+      "zh": "这、这……！",
+      "vi": "Cái này, cái này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema027",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema027|",
+      "ja": "（考えるんだ……！）",
+      "zh": "（得好好思考……！）",
+      "vi": "(Phải suy nghĩ cẩn thận...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema028",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema028|",
+      "ja": "（他に道がないっていうなら……<br>　【その道を通れるようにする方法】を<br>　考えるしかない……！）",
+      "zh": "（如果说没有其他路的话……<br>\n就只能考虑<br>\n【能够通过那条路的方法】了……！）",
+      "vi": "(Nếu không còn cách nào khác... Bạn chỉ có thể xem xét [Làm thế nào để vượt qua con đường đó]...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema029",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema029|",
+      "ja": "（これまでの調べたことや議論の中で<br>　あったことを思い出すんだ……）",
+      "zh": "（回想一下我们至今<br>\n调查过和讨论过的内容……）",
+      "vi": "(Nhớ lại những gì chúng ta đã làm cho đến nay Những gì đã được điều tra và thảo luận...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo014",
+      "speaker_tag": "; > Margo: |#0105Trial04_Margo014|",
+      "ja": "ナノカちゃんは殺されたのかしら……。<br>パッと見じゃわからないわね。",
+      "zh": "奈叶香到底是不是被人杀害的呢……<br>\n光看外表看不出来呢。",
+      "vi": "Nanoyaka có bị ai đó giết không... Bạn không thể nói chỉ bằng cách nhìn vào nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema030",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema030|",
+      "ja": "（マーゴちゃんの言ったとおり、<br>　目立った外傷もないし、死因がわからない……）",
+      "zh": "（和玛格说的一样，<br>\n没有明显外伤，死因不明……）",
+      "vi": "(Giống như Margo đã nói, Không có vết thương rõ ràng, nguyên nhân cái chết không rõ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema031",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema031|",
+      "ja": "だから冷凍室にナノカちゃんの銃を運んだのは<br>【黒幕】の方……。",
+      "zh": "所以把奈叶香的枪带到冷冻室的<br>\n就是【幕后黑手】……",
+      "vi": "Vậy ai đã mang súng của Nanoyaka vào tủ đông Đó là [Chủ mưu]...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema032",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema032|",
+      "ja": "たぶん、その人が冷凍室の氷に残された弾丸と、<br>どこかに撃たれた３発目の弾丸……<br>その２発を撃ったんだよ。",
+      "zh": "大概，是那个人射出了留在冷冻室冰块上的子弹，<br>\n和不知道打到哪里去的第三颗子弹……<br>\n总共两颗。",
+      "vi": "Có lẽ chính người đó đã bắn viên đạn còn sót lại trên tảng băng trong tủ đông, Và viên đạn thứ ba không biết trúng vào đâu... Tổng cộng là hai.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema033",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema033|",
+      "ja": "（……だとしたら、最後の１発が<br>　撃ちこまれた場所は……）",
+      "zh": "（……如果是这样的话，最后一颗子弹<br>\n打中的地方会是……）",
+      "vi": "(…nếu đúng như vậy thì viên đạn cuối cùng Nơi bị tấn công sẽ là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema034",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema034|",
+      "ja": "（……も、もしかしてナノカちゃんは……！）",
+      "zh": "（……难、难道奈叶香她……！）",
+      "vi": "(…Có lẽ nào Nanoha yêu cô ấy…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco010",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco010|",
+      "ja": "なんだよ黙り込んで！<br>やっぱナノカが小さくなることなんて……。",
+      "zh": "怎么突然不说话了！<br>\n就说奈叶香根本不可能变小……",
+      "vi": "Tại sao đột nhiên không nói? Cứ cho là Nanoyaka không thể trở nên nhỏ hơn được...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema035",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema035|",
+      "ja": "いいや。<br>ナノカちゃんは……<br>小さくされたんだ。",
+      "zh": "不。<br>\n奈叶香……<br>\n是被人变小了。",
+      "vi": "Không. Nanoha... Nó đã được làm nhỏ hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco011",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco011|",
+      "ja": "……あ？",
+      "zh": "……啊？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema036",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema036|",
+      "ja": "犯人がナノカちゃんを小さくした方法……<br>それは……。",
+      "zh": "凶手让奈叶香变小的方法……<br>\n那就是……",
+      "vi": "Phương pháp làm Nanoyaka nhỏ hơn của kẻ sát nhân... Đó là...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Choice005",
+      "speaker_tag": "; > @choice |#0105Trial04_Choice005|",
+      "ja": "他人の魔法",
+      "zh": "其他人的魔法",
+      "vi": "phép thuật của người khác",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Choice006",
+      "speaker_tag": "; > @choice |#0105Trial04_Choice006|",
+      "ja": "分割した",
+      "zh": "切碎了",
+      "vi": "cắt nhỏ",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Choice007",
+      "speaker_tag": "; > @choice |#0105Trial04_Choice007|",
+      "ja": "特殊なアイテム",
+      "zh": "特殊的物品",
+      "vi": "mặt hàng đặc biệt",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema037",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema037|",
+      "ja": "他の人の魔法で小さくなったんだと思う……！",
+      "zh": "我觉得是通过其他人的魔法变小的……！",
+      "vi": "Tôi nghĩ nó đã trở nên nhỏ hơn nhờ phép thuật của người khác…!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema038",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema038|",
+      "ja": "他の人に小さくされたなら、<br>何も問題はなくなるはずだよ！",
+      "zh": "如果是被其他人变小的话，<br>\n就不会有任何问题了！",
+      "vi": "Nếu bị người khác giảm bớt, Sẽ không có vấn đề gì đâu!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Meruru002",
+      "speaker_tag": "; > Meruru: |#0105Trial04_Meruru002|",
+      "ja": "……あの、今のところ<br>魔法の正体がわかっていない人は、<br>エマさんだけなので……。",
+      "zh": "……呃，到目前为止<br>\n具体魔法能力还不明确的人，<br>\n只有艾玛小姐你一个……",
+      "vi": "…à, cho đến nay Những người có khả năng phép thuật cụ thể chưa rõ ràng, Chỉ có em thôi, cô Ema...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco012",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco012|",
+      "ja": "エマっちがその魔法を使えるっつーなら、<br>まー納得すっけどさ。",
+      "zh": "如果说艾玛亲能使用那种魔法的话，<br>\n那我就没疑问了。",
+      "vi": "Nếu Ema có thể sử dụng loại phép thuật đó, Thế thì Coco không còn nghi ngờ gì nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo015",
+      "speaker_tag": "; > Margo: |#0105Trial04_Margo015|",
+      "ja": "その場合、やっぱりエマちゃんが<br>犯人ということでいいのかしら？",
+      "zh": "既然如此，<br>\n我可以认定艾玛是凶手吗？",
+      "vi": "Trong trường hợp này, Chị có thể cho rằng Ema là kẻ giết người không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema039",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema039|",
+      "ja": "（よ、よくない……！！）",
+      "zh": "（不、不可以……！！）",
+      "vi": "(Không, điều đó không thể được...!!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema040",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema040|",
+      "ja": "（……もう一度、考えてみよう）",
+      "zh": "（……重新思考一下吧）",
+      "vi": "(…nghĩ lại đi)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema041",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema041|",
+      "ja": "（ナノカちゃんの死体に外傷はない……）",
+      "zh": "（奈叶香的尸体没有外伤……）",
+      "vi": "(Cơ thể Nayoka không có vết thương bên ngoài...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema042",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema042|",
+      "ja": "（けど……１発の弾丸の行方がわかっていない……）",
+      "zh": "（但是……有一颗子弹去向不明……）",
+      "vi": "(Nhưng... còn thiếu một viên đạn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema043",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema043|",
+      "ja": "（もしもそれをナノカちゃんがまだ持っているのだとしたら……<br>　その体には、致命的な矛盾が残っている……！）",
+      "zh": "（如果那颗子弹还在奈叶香身上的话……<br>\n那么她的身体就存在致命的矛盾……！）",
+      "vi": "(Nếu viên đạn vẫn còn trong Nanoyaka... Sau đó trong cơ thể cô ấy xuất hiện một mâu thuẫn chết người...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema044",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema044|",
+      "ja": "人を小さくする特殊な物があるんじゃないかな……！<br>ここは牢屋敷だし、いわくありげなものが<br>あってもおかしくないと思う……！",
+      "zh": "我想可能存在能让人变小的特殊物品……！<br>\n这里毕竟是监牢，存放着些神秘物品<br>\n也不出奇……！",
+      "vi": "Tôi nghĩ có thể có những vật phẩm đặc biệt có thể khiến con người trở nên nhỏ bé hơn...! Rốt cuộc đây là một Ngục Dinh Thự và một số vật phẩm bí ẩn được cất giữ Không có gì đáng ngạc nhiên...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo016",
+      "speaker_tag": "; > Margo: |#0105Trial04_Margo016|",
+      "ja": "それで、そのアイテムっていうのはどれ？",
+      "zh": "那么，你说的物品具体是哪样？",
+      "vi": "Vậy em đang nói đến mục cụ thể nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema045",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema045|",
+      "ja": "えっと……金庫にいろいろ入ってたし……<br>そのどれかとか……。",
+      "zh": "呃……保险箱里有很多东西……<br>\n可能是其中之一……",
+      "vi": "Ờ...có rất nhiều thứ trong két... Có thể là một trong số họ…",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Margo017",
+      "speaker_tag": "; > Margo: |#0105Trial04_Margo017|",
+      "ja": "それは薬で小さくなった名探偵の話？<br>それとも不思議の国に迷い込んだ<br>女の子のお話かしら？",
+      "zh": "你想说这是那个吃药变小的名侦探的故事吗？<br>\n还是迷路到奇妙国度的<br>\n女孩的故事？",
+      "vi": "Chẳng lẽ đây là câu chuyện về vị thám tử nổi tiếng uống thuốc và trở nên nhỏ bé hơn? Vẫn lạc vào một đất nước tuyệt vời Chuyện của một cô gái?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco013",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco013|",
+      "ja": "今は現実の事件の話を<br>してるんだっつーの！",
+      "zh": "我们可是在讨论<br>\n现实中的案件好不好！",
+      "vi": "Chúng ta đang thảo luận về Trường hợp thực tế có tốt không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema046",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema046|",
+      "ja": "（物語のことかと思われちゃった……！）",
+      "zh": "（被当成虚构故事了……！）",
+      "vi": "(Được coi là một câu chuyện hư cấu...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema047",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema047|",
+      "ja": "（……もう一度、考えてみよう）",
+      "zh": "（……重新思考一下吧）",
+      "vi": "(…nghĩ lại đi)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema048",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema048|",
+      "ja": "（ナノカちゃんの死体に外傷はない……）",
+      "zh": "（奈叶香的尸体没有外伤……）",
+      "vi": "(Cơ thể Nayoka không có vết thương bên ngoài...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema049",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema049|",
+      "ja": "（けど……１発の弾丸の行方がわかっていない……）",
+      "zh": "（但是……有一颗子弹去向不明……）",
+      "vi": "(Nhưng... còn thiếu một viên đạn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema050",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema050|",
+      "ja": "（もしもそれをナノカちゃんがまだ持っているのだとしたら……<br>　その体には、致命的な矛盾が残っている……！）",
+      "zh": "（如果那颗子弹还在奈叶香身上的话……<br>\n那么她的身体就存在致命的矛盾……！）",
+      "vi": "(Nếu viên đạn vẫn còn trong Nanoyaka... Sau đó trong cơ thể cô ấy xuất hiện một mâu thuẫn chết người...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema051",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema051|",
+      "ja": "それ……は……。",
+      "zh": "那个……她……",
+      "vi": "Đó...cô ấy...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema052",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema052|",
+      "ja": "……………分割……したんだ。",
+      "zh": "……………被人……碎尸了。",
+      "vi": "………đã…bị chia cắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco014",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco014|",
+      "ja": "は……！？<br>どういう意味……！？",
+      "zh": "哈……！？<br>\n什么意思……！？",
+      "vi": "Hà...! ? Ý bạn là gì...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema053",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema053|",
+      "ja": "ナノカちゃんは……<br>少しずつ……移動させられた……。",
+      "zh": "奈叶香……<br>\n是被一点一点地……移走的……",
+      "vi": "Nanoha... Nó bị loại bỏ từng chút một...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Ema054",
+      "speaker_tag": "; > Ema: |#0105Trial04_Ema054|",
+      "ja": "……体が……【細切れ】にされていたなら……<br>あの覗き窓だって越えられるはずだよ。",
+      "zh": "……如果……身体被【切成碎片】的话……<br>\n就算是那个小窗也能通过了。",
+      "vi": "...nếu...thi thể bị [cắt thành từng mảnh]... Ngay cả cửa sổ nhỏ đó cũng có thể bị xuyên qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco015",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco015|",
+      "ja": "ちょ……ちょっと……<br>ま、待ってよっ！？",
+      "zh": "等……等等……<br>\n等、等一下！？",
+      "vi": "Đợi...đợi đã... Đợi đã, đợi một chút! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Trial04_Coco016",
+      "speaker_tag": "; > Coco: |#0105Trial04_Coco016|",
+      "ja": "そんなの……何もかも、【通らない】だろ！",
+      "zh": "这种事……怎么想都【不可能】吧！",
+      "vi": "Chuyện như thế này... là [không thể] dù bạn có nghĩ thế nào đi nữa!",
+      "objection_links": []
+    }
+  ]
+}

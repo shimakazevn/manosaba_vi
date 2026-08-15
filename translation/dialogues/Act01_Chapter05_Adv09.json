@@ -1,0 +1,2440 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter05_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter05_Adv09",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter05/Act01_Chapter05_Adv09' Naninovel scenario script",
+  "total_entries": 304,
+  "entries": [
+    {
+      "id": "0105Adv09_Narrative001",
+      "speaker_tag": "",
+      "ja": "エマはふらふらした足取りで、<br>裁判所に戻ってきていた。",
+      "zh": "艾玛摇摇晃晃地<br>\n回到了审判庭。",
+      "vi": "Với những bước chân lảo đảo không còn vững, Ema quay trở lại Tòa Án đổ nát.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru001",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru001|",
+      "ja": "エマさーん、エマさーん……。",
+      "zh": "艾玛小姐——艾玛小姐——",
+      "vi": "Chị Ema ơi…… Chị Ema ơi……",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative002",
+      "speaker_tag": "",
+      "ja": "遠くから、エマを呼ぶ声が聞こえて、<br>エマはハッと顔をあげる。",
+      "zh": "远处传来呼唤艾玛的声音，<br>\n艾玛猛地抬起头。",
+      "vi": "Từ đằng xa vang lên tiếng gọi tên mình, Ema giật mình ngẩng đầu lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative003",
+      "speaker_tag": "",
+      "ja": "裁判所の隅にうずくまって、<br>疲れ果ててわずかに意識を失っていたようだ。",
+      "zh": "她蜷缩在审判庭的角落里，<br>\n似乎因疲惫而短暂失去了意识。",
+      "vi": "Ngồi co ro nơi góc tường tòa án, cô dường như đã kiệt sức đến mức suýt lịm đi trong bóng tối.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative004",
+      "speaker_tag": "",
+      "ja": "通路をメルルが歩いている。<br>エマのことを未だ探している。",
+      "zh": "梅露露正走在过道上。<br>\n她还在寻找艾玛。",
+      "vi": "Meruru đang bước đi trên hành lang, vẫn mải miết cất tiếng tìm kiếm tung tích của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru002",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru002|",
+      "ja": "エマさーん、だ、大丈夫ですか……？<br>け、怪我とかしてないですか……？",
+      "zh": "艾玛小姐，你、你没事吗……？<br>\n有、有受伤吗……？",
+      "vi": "Ema, ​​​​cô ổn chứ...? Cậu, cậu có bị thương không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative005",
+      "speaker_tag": "",
+      "ja": "うろうろと歩き回っているメルルの声は、<br>思いやりに満ちていた。",
+      "zh": "梅露露焦急地来回踱步，<br>\n声音中充满了关切。",
+      "vi": "Meruru đi đi lại lại lo lắng, Giọng nói chứa đầy sự lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative006",
+      "speaker_tag": "",
+      "ja": "エマは足音を立てないように忍ばせ、<br>出入口の方へと歩み寄っていく。",
+      "zh": "艾玛尽量不发出脚步声，<br>\n小心翼翼地向出口靠近。",
+      "vi": "Ema cố gắng không phát ra bất kỳ tiếng bước chân nào, Cẩn thận tiếp cận lối ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative007",
+      "speaker_tag": "",
+      "ja": "わずかに開いた扉の隙間から、<br>通路を<ruby=\"のぞ\">覗</ruby>いた。",
+      "zh": "透过微开的门缝，<br>\n窥视着过道。",
+      "vi": "Qua cánh cửa hé mở, Nhìn vào các lối đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative008",
+      "speaker_tag": "",
+      "ja": "メルルはゴクチョーと看守を引き連れていた。<br>それに――",
+      "zh": "梅露露带着典狱长和看守。<br>\n还有——",
+      "vi": "Meruru dẫn theo quản giáo và Cai Ngục. Và——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema001",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema001|",
+      "ja": "（あれは……ココちゃん！？）",
+      "zh": "（那是……可可？！）",
+      "vi": "(Đó là...Coco?!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative009",
+      "speaker_tag": "",
+      "ja": "看守が【なれはて】となったココを抱えている。<br>ココは氷漬けにされておらず、<br>じたばたともがき、<ruby=\"うな\">唸</ruby>り声をあげていた。",
+      "zh": "看守扛着已经化为【残骸】的可可。<br>\n可可没有被冰冻，<br>\n正在挣扎扭动，发出呻吟声。",
+      "vi": "Cai Ngục đang bế Coco, người đã biến thành [xác tàu]. Ca cao không bị đông lạnh, Nó vùng vẫy và vặn vẹo, phát ra những âm thanh rên rỉ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru003",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru003|",
+      "ja": "森で【なれはて】になっているココさんを見つけて、<br>マーゴさんの死体も見つけて……。",
+      "zh": "在森林里发现了变成【残骸】的可可小姐，<br>\n还找到了玛格小姐的尸体……",
+      "vi": "Cô Coco được tìm thấy trong rừng như một [xác tàu], Thi thể của cô Margo cũng được tìm thấy...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru004",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru004|",
+      "ja": "あとはエマさんだけなんです。",
+      "zh": "现在只剩下艾玛小姐了。",
+      "vi": "Bây giờ chỉ còn lại cô Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru005",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru005|",
+      "ja": "お腹空いてないですか？ ココさんに襲われて、<br>怪我しちゃってないですか？<br>とっても、とっても心配しています……。",
+      "zh": "你饿了吗？<br>\n有没有因为可可小姐袭击而受伤？<br>\n我真的、真的很担心你……",
+      "vi": "Bạn có đói không? Có vết thương nào sau cuộc tấn công của cô Coco không? Tôi thực sự, thực sự lo lắng cho bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema002",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema002|",
+      "ja": "――ッ。",
+      "zh": "——",
+      "vi": "——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema003",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema003|",
+      "ja": "（メルルちゃんの声を聞くな！<br>　もう、ボクに味方なんていないんだ！）",
+      "zh": "（不要被梅露露的声音迷惑！<br>\n我现在已经没有同伴了！）",
+      "vi": "(Đừng để bị giọng nói của Meruru đánh lừa! Bây giờ tôi không có bạn đồng hành! )",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru006",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru006|",
+      "ja": "エマさんのことも、処分しなくちゃいけなくて……<br>でも本当は、そんなことしたくないんです。",
+      "zh": "虽然不得不把艾玛小姐也处理掉……<br>\n但其实，我真的不想这么做。",
+      "vi": "Mặc dù tôi cũng phải đối phó với cô Ema... Nhưng thực sự, tôi thực sự không muốn làm điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru007",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru007|",
+      "ja": "私が機関からこの牢屋敷の管理を任された時、<br>魔女因子が高くて魔女になる危険性のある子は、<br>全員処分するように言われました……。",
+      "zh": "当机关把管理这座监牢的任务交给我时，<br>\n他们要求我处理掉所有魔女因子含量高、<br>\n有可能成为魔女的危险分子……",
+      "vi": "Khi cơ quan giao cho tôi nhiệm vụ quản lý Ngục Dinh Thự này, Họ yêu cầu tôi loại bỏ tất cả những thứ giàu Yếu tố Ma Nữ, Một người nguy hiểm có thể trở thành phù thủy...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru008",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru008|",
+      "ja": "でも、そんなのあまりにかわいそうです。<br>だから私、みなさんのことを救済したくて……。",
+      "zh": "但是，那样实在太可怜了。<br>\n所以我，想要拯救大家……",
+      "vi": "Nhưng điều đó sẽ quá đáng thương. Vì vậy tôi muốn cứu tất cả mọi người...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative010",
+      "speaker_tag": "",
+      "ja": "いっそ最初に殺されていたら。",
+      "zh": "还不如一开始就被杀死。",
+      "vi": "Có lẽ ngay từ đầu cũng có thể bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative011",
+      "speaker_tag": "",
+      "ja": "何も知らないままで、処分されていたら。",
+      "zh": "还不如一无所知地被处理掉。",
+      "vi": "Cũng có thể bị vứt bỏ mà không biết gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative012",
+      "speaker_tag": "",
+      "ja": "メルルの優しさや甘さは、<br>真綿で首を締めるように、<br>ただただ少女たちを苦しめる拷問行為でしかなかった。",
+      "zh": "梅露露的善意和温柔<br>\n就像用丝绸勒住脖子，<br>\n越是温柔就越是成为折磨少女们的酷刑。",
+      "vi": "Sự tốt bụng và dịu dàng của Meruru Giống như bóp cổ bạn bằng lụa, Càng nhẹ nhàng thì con gái lại càng bị tra tấn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru009",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru009|",
+      "ja": "それに、大魔女様をどうしても見つけたかったんです。<br>そのためには魔女になってもらわないといけなくて。",
+      "zh": "而且，我无论如何都想找到大魔女大人。<br>\n为此，必须要让大家变成魔女。",
+      "vi": "Hơn nữa, tôi muốn tìm thấy phù thủy vĩ đại bằng mọi giá. Để làm được điều này, mọi người phải trở thành phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru010",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru010|",
+      "ja": "牢屋敷の中でのことは私に全任されていたので、<br>それで【魔女裁判】のシステムを、思いついたんです。",
+      "zh": "由于监牢内由我全权负责，<br>\n我就想出了【魔女审判】的系统。",
+      "vi": "Vì tôi hoàn toàn chịu trách nhiệm về Ngục Dinh Thự, Tôi đã nghĩ ra hệ thống [Thử thách phù thủy].",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru011",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru011|",
+      "ja": "でも、何回やってもうまくいかなくて。<br>囚人たちは【なれはて】になってしまいます……。",
+      "zh": "但是，无论审判了多少次都没有成功。<br>\n囚犯们只会变成【残骸】……",
+      "vi": "Tuy nhiên, dù cố gắng bao nhiêu lần, anh vẫn chưa bao giờ thành công. Các tù nhân sẽ chỉ trở thành [xác tàu]...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative013",
+      "speaker_tag": "",
+      "ja": "メルルが透明な液体を持っていることに気付く。<br>――魔女を殺す薬、【トレデキム】だ。",
+      "zh": "艾玛突然发现梅露露手里拿着一瓶透明液体。<br>\n——那是杀死魔女的药，【特雷德基姆】。",
+      "vi": "Ema đột nhiên nhận thấy Meruru đang cầm trên tay một chai chất lỏng trong suốt. ---Đó là loại thuốc giết chết phù thủy, [Tredkim].",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru012",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru012|",
+      "ja": "私の持っている【魔女殺し】の魔法があれば、<br>【なれはて】になった魔女でも殺せます。<br>でもそんなのかわいそうでしょう……？",
+      "zh": "只要有了我的【魔女杀手】魔法，<br>\n即使魔女变成了【残骸】，我也可以杀死。<br>\n但那样不就太可怜了吗……？",
+      "vi": "Miễn là tôi có phép thuật [Sát phù thủy], Ngay cả khi phù thủy biến thành [xác tàu], tôi vẫn có thể giết cô ấy. Nhưng như vậy chẳng phải là quá đáng thương sao…?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru013",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru013|",
+      "ja": "だから私は、みなさんを<br>凍結保存してあげているんです……。",
+      "zh": "所以我才把大家<br>\n冰冻并保存起来……",
+      "vi": "Đó là lý do tại sao tôi mọi người Làm đông lạnh và bảo quản…",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative014",
+      "speaker_tag": "",
+      "ja": "そう口にしながらも、<br>メルルはその薬のビンのフタをおもむろに開いた。",
+      "zh": "虽然这么说着，<br>\n梅露露还是慢慢打开了那瓶药的盖子。",
+      "vi": "Dù vậy, Meruru chậm rãi mở nắp lọ thuốc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative015",
+      "speaker_tag": "",
+      "ja": "そして、暴れるココの口を看守の手で強引に開かせ、<br>とくとくとく、と液体を注いでいく。",
+      "zh": "然后，让看守强行掰开挣扎的可可的嘴，<br>\n滴答滴答地往里倒入液体。",
+      "vi": "Sau đó, để Cai Ngục mạnh mẽ mở miệng Coco đang vùng vẫy, Đổ chất lỏng vào từ từ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema004",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema004|",
+      "ja": "あっ！！",
+      "zh": "啊！！",
+      "vi": "À! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative016",
+      "speaker_tag": "",
+      "ja": "エマは驚きで思わず声をあげてしまい、<br><ruby=\"とっさ\">咄嗟</ruby>に口を塞ぐ。",
+      "zh": "艾玛惊讶得不由自主地叫出声来，<br>\n立刻捂住了自己的嘴。",
+      "vi": "Ema ngạc nhiên đến mức không khỏi hét lên, Anh lập tức che miệng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative017",
+      "speaker_tag": "",
+      "ja": "手遅れだった。<br>メルルの表情が心底<ruby=\"うれ\">嬉</ruby>しそうに、パッと輝く。",
+      "zh": "为时已晚。<br>\n梅露露的表情瞬间充满光彩，变得无比欣喜。",
+      "vi": "Đã quá muộn rồi. Vẻ mặt của Meruru lập tức trở nên rạng rỡ và cô ấy trở nên vô cùng hạnh phúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru014",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru014|",
+      "ja": "ああ、そこにいたんですね、エマさん！<br>ずっと探していたんです……っ",
+      "zh": "啊啊，原来你在这里啊，艾玛小姐！<br>\n我一直在找你……",
+      "vi": "À, vậy là cô ở đây, cô Ema! Tôi đã tìm kiếm bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema005",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema005|",
+      "ja": "来ないで！！",
+      "zh": "别过来！！",
+      "vi": "Đừng đến đây! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative018",
+      "speaker_tag": "",
+      "ja": "抵抗する術を一切もたないエマは、<br>裁判所に入ってきたメルルに対し、<br>ただ叫ぶことしかできなかった。",
+      "zh": "毫无抵抗之力的艾玛，<br>\n面对走进审判庭的梅露露，<br>\n只能大声喊叫。",
+      "vi": "Ema bất lực, Đối mặt với Meruru đang bước vào sân, Tất cả những gì bạn có thể làm là hét lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru015",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru015|",
+      "ja": "エマさんは私のこと、嫌いですか……？",
+      "zh": "艾玛小姐讨厌我吗……？",
+      "vi": "Ema có ghét tôi không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative019",
+      "speaker_tag": "",
+      "ja": "メルルがエマを見つめる瞳は哀しそうだった。",
+      "zh": "梅露露注视艾玛的眼神充满悲伤。",
+      "vi": "Meruru nhìn Ema với ánh mắt buồn bã.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru016",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru016|",
+      "ja": "私、ずっとひとりで……<br>寂しいんです……見捨てないでください……。",
+      "zh": "我一直都是孤身一人……<br>\n很寂寞……请不要抛弃我……",
+      "vi": "Tôi luôn cô đơn... Cô đơn lắm...xin đừng bỏ rơi em...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema006",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema006|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative020",
+      "speaker_tag": "",
+      "ja": "しばらくの間、<br>２人は見つめあい、沈黙が流れた。",
+      "zh": "两人对视了一会。<br>\n沉默充满了整个审判庭。",
+      "vi": "Hai người nhìn nhau một lúc. Sự im lặng bao trùm toàn bộ Tòa án dị giáo.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative021",
+      "speaker_tag": "",
+      "ja": "これまで育んできた思い出や絆が、<br>エマの心をどうしようもなく揺さぶる。",
+      "zh": "至今为止积累的回忆和牵绊，<br>\n不可抑制地动摇着艾玛的内心。",
+      "vi": "Những kỷ niệm và mối ràng buộc đã tích lũy cho đến nay, Nó làm rung động trái tim Ema không thể cưỡng lại được.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative022",
+      "speaker_tag": "",
+      "ja": "そしてエマは――",
+      "zh": "然后艾玛——",
+      "vi": "Sau đó Ema——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Choice001",
+      "speaker_tag": "; > @choice |#0105Adv09_Choice001| button:ChoiceButtons/Adv/Bad",
+      "ja": "メルルに歩み寄った",
+      "zh": "向梅露露走近",
+      "vi": "Đến gần Meruru",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Choice002",
+      "speaker_tag": "; > @choice |#0105Adv09_Choice002|",
+      "ja": "メルルから離れた",
+      "zh": "远离了梅露露",
+      "vi": "Rời xa Meruru",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative023",
+      "speaker_tag": "",
+      "ja": "ぎりぎりのところで、一歩距離を置く。",
+      "zh": "在最后关头，退后了一步。",
+      "vi": "Vào phút cuối, tôi lùi lại một bước.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative024",
+      "speaker_tag": "",
+      "ja": "そうして葛藤し、数十秒、数分が経ったかもしれない。",
+      "zh": "就这样内心纠结着，可能过了几十秒，也可能过了几分钟。",
+      "vi": "Cứ như vậy, trong lòng tôi đang giằng co. Có thể là hàng chục giây, hoặc có thể là vài phút.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative025",
+      "speaker_tag": "",
+      "ja": "視界の端でココがどさりと崩れ落ちた。<br>ぴくりとも動かない。殺されたのだ。",
+      "zh": "艾玛在视野边缘看到，可可重重地倒下了。<br>\n然后一动不动。她被杀死了。",
+      "vi": "Ema nhìn thấy ở rìa tầm nhìn của mình rằng Coco đang ngã nặng. Sau đó bất động. Cô ấy đã bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative026",
+      "speaker_tag": "",
+      "ja": "それを機にエマの葛藤はかき消え、正気に戻る。",
+      "zh": "这一幕让艾玛内心的纠结消失殆尽，恢复了理智。",
+      "vi": "Cảnh tượng này khiến sự rối ren trong nội tâm của Ema biến mất và cô lấy lại được sự tỉnh táo.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema007",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema007|",
+      "ja": "（……っ、惑わされちゃだめだ……！）",
+      "zh": "（……不行，不能被迷惑……！）",
+      "vi": "(…Không, bạn không thể bị lừa được…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema008",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema008|",
+      "ja": "なんでココちゃんを殺したの！？",
+      "zh": "为什么要杀死可可？！",
+      "vi": "Tại sao lại giết Coco? !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema009",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema009|",
+      "ja": "メルルちゃんはめちゃくちゃだよ！<br>助けたいとか守りたいとか心配だとか言って。",
+      "zh": "梅露露，你完全是胡搅蛮缠！<br>\n口口声声说什么想救人啊想保护大家啊很担心什么的。",
+      "vi": "Meruru, cậu đang làm loạn đấy! Anh ấy liên tục nói rằng anh ấy muốn cứu người, rằng anh ấy muốn bảo vệ mọi người, rằng anh ấy lo lắng, v.v.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema010",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema010|",
+      "ja": "都合が悪くなったら、結局は殺してる！",
+      "zh": "一旦对自己不利，最后还是会杀人！",
+      "vi": "Một khi có điều gì đó chống lại bạn, cuối cùng bạn sẽ giết chết ai đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema011",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema011|",
+      "ja": "かわいそうだからって、<br>じわじわと苦しめるようなことばかりして……<br>そんなのは優しさじゃない！",
+      "zh": "嘴上说什么太可怜了，<br>\n却只是在慢慢折磨人……<br>\n那根本不是什么善意！",
+      "vi": "Những gì bạn nói thật đáng thương, Nhưng nó chỉ đang dần hành hạ con người... Đó không phải là một ý định tốt chút nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru017",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru017|",
+      "ja": "……そうかもしれません……。",
+      "zh": "……也许你说得对……",
+      "vi": "...có lẽ bạn đúng...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative027",
+      "speaker_tag": "",
+      "ja": "メルルは哀しげに眉を下げた。",
+      "zh": "梅露露悲伤地垂下眼睛。",
+      "vi": "Meruru buồn bã cụp mắt xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru018",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru018|",
+      "ja": "でも、私、みなさんのことが好きなんです……。<br>友だちだって言ってくれて、仲良くしてくれて、<br>嬉しかったんです……。",
+      "zh": "但是，我很喜欢大家……<br>\n大家愿意把我当朋友，和我友好相处，<br>\n这让我很开心……",
+      "vi": "Nhưng tôi rất thích các bạn... Mọi người đều sẵn sàng coi tôi như một người bạn và hòa hợp với tôi, Điều này làm tôi hạnh phúc...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative028",
+      "speaker_tag": "",
+      "ja": "看守がエマの方へと近付いてくる。<br>その鎌を振り下ろされたら、おしまいだった。",
+      "zh": "看守朝艾玛靠近。<br>\n如果那把镰刀挥下来，就完蛋了。",
+      "vi": "Cai Ngục tiến lại gần Ema. Nếu lưỡi hái đó rơi xuống thì mọi chuyện sẽ kết thúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative029",
+      "speaker_tag": "",
+      "ja": "それでも言わずにはいられなかった。",
+      "zh": "即便如此，艾玛还是忍不住说道。",
+      "vi": "Dù vậy, Ema vẫn không khỏi nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema012",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema012|",
+      "ja": "友だちなんかじゃない！",
+      "zh": "谁跟你是朋友！",
+      "vi": "Bạn của bạn là ai?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema013",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema013|",
+      "ja": "メルルちゃんは、ボクの友だちなんかじゃない！",
+      "zh": "梅露露，你根本不是我的朋友！",
+      "vi": "Meruru, cậu không phải là bạn tôi chút nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative030",
+      "speaker_tag": "",
+      "ja": "メルルは心底傷ついた風に、顔を<ruby=\"ゆが\">歪</ruby>めた。",
+      "zh": "梅露露的脸扭曲了起来，仿佛内心受到了深深的伤害。",
+      "vi": "Mặt Meruru nhăn lại, như thể cô ấy đang bị tổn thương sâu sắc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru019",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru019|",
+      "ja": "そんな……エマさんまで……ひどい。<br>やっぱり私は、ひとりぼっちなんですね……。",
+      "zh": "怎么会……连艾玛小姐也……太过分了。<br>\n果然我还是孤身一人啊……",
+      "vi": "Làm sao có thể...ngay cả cô Ema cũng...quá đáng. Chắc chắn rồi, tôi vẫn một mình...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru020",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru020|",
+      "ja": "私のことをわかってくれるのは、<br>大魔女様しかいないんですね……。",
+      "zh": "只有大魔女大人<br>\n能理解我……",
+      "vi": "Chỉ có Phù thủy vĩ đại Có thể hiểu được tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru021",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru021|",
+      "ja": "大魔女様に会いたい……。",
+      "zh": "好想见到大魔女大人啊……",
+      "vi": "Tôi thực sự muốn nhìn thấy mụ phù thủy vĩ đại...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema014",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema014|",
+      "ja": "大魔女……大魔女が人間の中に混ざってるって、<br>そんなのメルルちゃんの思い込みじゃないの……？",
+      "zh": "大魔女……你说什么大魔女混在人类中间，<br>\n这只是你的臆想吧……？",
+      "vi": "Phù thủy lớn...bạn nói rằng phù thủy lớn ở giữa con người, Đây có phải chỉ là sự tưởng tượng của bạn...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative031",
+      "speaker_tag": "",
+      "ja": "エマもこれまで牢屋敷を何度も捜索し、<br>調査し、大魔女にまつわる情報を得てきている。",
+      "zh": "艾玛此前也多次搜索和调查过监牢，<br>\n获得了不少关于大魔女的信息。",
+      "vi": "Ema đã khám xét và điều tra Ngục Dinh Thự nhiều lần trước đây, Có rất nhiều thông tin về mụ phù thủy vĩ đại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative032",
+      "speaker_tag": "",
+      "ja": "それでも大魔女の存在は、<br>エマにとって実感が伴わなかった。",
+      "zh": "尽管如此，大魔女的存在<br>\n对艾玛来说仍然缺乏真实感。",
+      "vi": "Mặc dù vậy, sự tồn tại của phù thủy vĩ đại Vẫn còn thiếu thực tế đối với Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema015",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema015|",
+      "ja": "大魔女なんて、本当にいるの……？<br>ずっと昔にいなくなった人なんでしょ！？",
+      "zh": "大魔女什么的，真的存在吗……？<br>\n其实很久以前就不在了吧！？",
+      "vi": "Liệu một phù thủy vĩ đại có thực sự tồn tại...? Thực ra nó đã biến mất từ lâu rồi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative033",
+      "speaker_tag": "",
+      "ja": "ずっとエマの傍にいたのに。<br>一緒にここへとたどり着いたのに。",
+      "zh": "明明一直都在艾玛身边。<br>\n明明一起来到了这里。",
+      "vi": "Rõ ràng cô ấy luôn ở bên cạnh Ema. Rõ ràng là chúng ta đã đến đây cùng nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative034",
+      "speaker_tag": "",
+      "ja": "それを認めてしまうことは、<br>エマの――禁忌に触れる行為だから。",
+      "zh": "因为承认这一点，对艾玛来说——<br>\n是触碰禁忌的行为。",
+      "vi": "Bởi vì thừa nhận điều này, đối với Ema - Đó là một hành động chạm vào một điều cấm kỵ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru022",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru022|",
+      "ja": "います！ だって、大魔女様自身が消える前に言ったんです！<br>人間社会に潜むって！",
+      "zh": "存在的！因为大魔女大人自己在消失前说过！<br>\n说要潜伏在人类社会中！",
+      "vi": "Nó tồn tại! Bởi vì chính mụ phù thủy vĩ đại đã nói điều đó trước khi biến mất! Nói về việc ẩn nấp trong xã hội loài người!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative035",
+      "speaker_tag": "",
+      "ja": "唐突に語調が強くなり、<br>メルルにとって大魔女の存在を疑うことはありえないことだと<br>ひしひし伝わってくる。",
+      "zh": "梅露露的语气突然变得强烈，<br>\n让人深切感受到对她而言，<br>\n大魔女的存在绝不容质疑。",
+      "vi": "Giọng điệu của Meruru đột nhiên trở nên mạnh mẽ, Điều đó khiến mọi người có cảm tình sâu sắc với cô ấy, Không thể nghi ngờ về sự tồn tại của Great Witch.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru023",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru023|",
+      "ja": "いるんです！ 絶対に、いるんです！<br>いるんです！ いるんですっ！ いるんですっ！",
+      "zh": "存在的！绝对存在的！<br>\n存在的！存在的！存在的！",
+      "vi": "Nó tồn tại! Nó tuyệt đối tồn tại! Nó tồn tại! Nó tồn tại! Nó tồn tại!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema016",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema016|",
+      "ja": "メルルちゃん……。",
+      "zh": "梅露露……",
+      "vi": "Meruru……",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru024",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru024|",
+      "ja": "あ、そ、そうだ。これを見てください。",
+      "zh": "啊，对、对了。请看这个。",
+      "vi": "À, vâng, vâng. Xin hãy nhìn vào cái này.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative036",
+      "speaker_tag": "",
+      "ja": "ふと思い出したのか、<br>メルルが懐から１枚の写真を取り出した。",
+      "zh": "仿佛突然想起什么，<br>\n梅露露从怀中取出一张照片。",
+      "vi": "Như thể tôi chợt nhớ ra điều gì đó, Meruru lấy ra một bức ảnh từ tay mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative037",
+      "speaker_tag": "",
+      "ja": "先ほど激高していたのが<ruby=\"うそ\">嘘</ruby>だったかのように、<br>穏やかな表情で、照れくさそうに<ruby=\"ほほ\">頬</ruby>を染めている。",
+      "zh": "梅露露刚才的激昂消失得无影无踪，<br>\n表情一转温和，脸颊泛起害羞似的微红。",
+      "vi": "Sự phấn khích vừa rồi của Meruru đã biến mất không một dấu vết, Vẻ mặt anh trở nên dịu dàng, và đôi má anh ửng hồng ngượng ngùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru025",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru025|",
+      "ja": "これ、前に囚人として捕まっていた子にもらったんです。<br>その子は念写の魔法を持っていて。",
+      "zh": "这是之前被关在这里的一个囚犯给我的。<br>\n她拥有念写魔法。",
+      "vi": "Cái này được một cựu tù nhân ở đây đưa cho tôi. Cô ấy có phép thuật đọc và viết.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru026",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru026|",
+      "ja": "私に触れたら、過去の思い出を<br>写真にすることができたんです。",
+      "zh": "只要触碰到我，就能把过去的回忆<br>\n变成照片。",
+      "vi": "Chỉ cần bạn chạm vào tôi, bạn có thể gợi lại những kỷ niệm trong quá khứ Trở thành một bức ảnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru027",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru027|",
+      "ja": "すごく、すごく嬉しかったです。<br>大魔女様との思い出を写真にしてくれて……。",
+      "zh": "我真的，真的很高兴。<br>\n她把我和大魔女大人的回忆变成了照片……",
+      "vi": "Tôi thực sự, thực sự hạnh phúc. Cô ấy đã biến những ký ức của tôi và Phù thủy vĩ đại thành những bức ảnh...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru028",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru028|",
+      "ja": "その子は死んじゃいました、けど……<br>もっと念写してもらいたかった、です……。",
+      "zh": "虽然，她已经死了……<br>\n我真希望她能，多念写一些照片啊……",
+      "vi": "Mặc dù cô ấy đã chết rồi... Tôi thực sự hy vọng cô ấy có thể đọc và viết nhiều ảnh hơn...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative038",
+      "speaker_tag": "",
+      "ja": "メルルはエマに向けて、<br>その写真を見せてきた。",
+      "zh": "梅露露把那张照片<br>\n展示给艾玛看。",
+      "vi": "Meruru đã chụp bức ảnh đó Đưa nó cho Ema xem.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative039",
+      "speaker_tag": "",
+      "ja": "その写真には、<br>少女が２人映っていた。",
+      "zh": "照片上<br>\n是两名少女。",
+      "vi": "trên ảnh Đó là hai cô gái.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative040",
+      "speaker_tag": "",
+      "ja": "ソファーに腰かけ、穏やかな表情で本を読んでいる少女と、<br>至福の表情で膝枕されているメルル。",
+      "zh": "一名少女坐在沙发上，表情安详地读着书，<br>\n另一名少女是梅露露，一脸幸福地枕在她的大腿上。",
+      "vi": "Một cô gái đang ngồi trên ghế sofa đọc sách với vẻ mặt yên bình, Cô gái còn lại là Meruru, đang ngồi trên đùi cô ấy với vẻ mặt hạnh phúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru029",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru029|",
+      "ja": "この方が大魔女様です。",
+      "zh": "这位就是大魔女大人。",
+      "vi": "Đây là mụ phù thủy vĩ đại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru030",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru030|",
+      "ja": "私たち魔女は大魔女様と一緒に暮らしていて、<br>本当に毎日が幸せでした。",
+      "zh": "我们魔女和大魔女大人一起生活，<br>\n每天都非常幸福。",
+      "vi": "Phù thủy chúng tôi và phù thủy vĩ đại cùng chung sống, Rất hạnh phúc mỗi ngày.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru031",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru031|",
+      "ja": "何も悪いことなんてしてません。",
+      "zh": "我们没有做任何坏事。",
+      "vi": "Chúng tôi không làm điều gì xấu cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru032",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru032|",
+      "ja": "それなのに、人間が私たちのことを見つけて……<br>たくさんの仲間の魔女が迫害され、差別され――<br>殺されてしまいました。",
+      "zh": "但是，人类发现了我们……<br>\n许多魔女遭到迫害、歧视——<br>\n最终都被杀害了。",
+      "vi": "Tuy nhiên, con người đã phát hiện ra chúng tôi... Nhiều phù thủy bị bức hại và phân biệt đối xử—— Cuối cùng họ đã bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru033",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru033|",
+      "ja": "大魔女様は怒りました。<br>とっても、とっても怒りました。<br>人間を許さないと言いました。",
+      "zh": "大魔女大人非常生气。<br>\n非常、非常生气。<br>\n她说，绝不原谅人类。",
+      "vi": "Đại Ma Nữ rất tức giận. Rất, rất tức giận. Cô ấy nói rằng cô ấy sẽ không bao giờ tha thứ cho con người.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru034",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru034|",
+      "ja": "それで、呪いをばらまいたんです。<br>人間が魔女になる【魔女因子】を――。",
+      "zh": "于是，她散布了诅咒——<br>\n能让人类变成魔女的【魔女因子】。",
+      "vi": "Vì vậy, cô ấy đã gieo rắc lời nguyền—— [Yếu tố Ma Nữ] có thể biến con người thành phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru035",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru035|",
+      "ja": "自分の持っている魔法のほぼ全てを<br>魔女因子に仕込んでしまって、<br>大きな力を失った大魔女様は姿を消しました。",
+      "zh": "她把自己几乎所有的魔法<br>\n都注入了魔女因子中，<br>\n失去了强大的力量后，大魔女大人就消失了。",
+      "vi": "Cô ấy sử dụng gần như toàn bộ phép thuật của mình Tất cả đều có Yếu tố Ma Nữ, Sau khi mất đi sức mạnh mạnh mẽ của mình, Great Witch biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru036",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru036|",
+      "ja": "はるか、はるか遠い昔の話です。",
+      "zh": "这是很久、很久以前的事了。",
+      "vi": "Đây là một thời gian dài trước đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru037",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru037|",
+      "ja": "真の魔女は私しか残っていない……。",
+      "zh": "现在，真正的魔女只剩下我一个……",
+      "vi": "Bây giờ, tôi là phù thủy thực sự duy nhất còn lại...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru038",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru038|",
+      "ja": "そして私にはもう、大魔女様しか……。",
+      "zh": "而对我来说，也只剩下大魔女大人……",
+      "vi": "Và đối với tôi, người duy nhất còn lại chính là Phù Thủy Vĩ Đại...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative041",
+      "speaker_tag": "",
+      "ja": "メルルがつらつらと語っている言葉を、<br>エマはほとんど聞いていなかった。",
+      "zh": "梅露露絮絮叨叨地说着，<br>\n但艾玛几乎没有在听。",
+      "vi": "Meruru nói một cách thờ ơ, Nhưng Ema hầu như không lắng nghe.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative042",
+      "speaker_tag": "",
+      "ja": "聞こえなかった。",
+      "zh": "根本听不见梅露露的话。",
+      "vi": "Tôi không thể nghe được Meruru nói gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative043",
+      "speaker_tag": "",
+      "ja": "エマはただただ、目の前の写真を凝視していた。",
+      "zh": "艾玛只能一直凝视着眼前的照片。",
+      "vi": "Ema chỉ có thể tiếp tục nhìn chằm chằm vào bức ảnh trước mặt.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema017",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema017|",
+      "ja": "（これは、一体、なに……？）",
+      "zh": "（这、到底是、什么……？）",
+      "vi": "(Cái quái gì thế này...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative044",
+      "speaker_tag": "",
+      "ja": "信じられないものを目にして、<br>思考が完全に停止している。",
+      "zh": "目击这难以置信的一幕，<br>\n思维完全停止运转。",
+      "vi": "Chứng kiến cảnh tượng khó tin này, Tâm trí hoàn toàn ngừng hoạt động.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative045",
+      "speaker_tag": "",
+      "ja": "ぶるぶると震える指先を、<br>写真に向ける。",
+      "zh": "颤抖的指尖<br>\n伸向照片。",
+      "vi": "Đầu ngón tay run rẩy Tiếp cận với bức ảnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative046",
+      "speaker_tag": "",
+      "ja": "メルルと一緒に映っている少女を、<br>エマは知っていた。",
+      "zh": "和梅露露一起出现在照片中的少女，<br>\n是艾玛认识的人。",
+      "vi": "Cô gái xuất hiện trong bức ảnh với Meruru, Đó là người mà Ema biết.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative047",
+      "speaker_tag": "",
+      "ja": "知らないはずがない。",
+      "zh": "怎么可能会不认识呢。",
+      "vi": "Làm sao tôi có thể không biết anh ấy?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative048",
+      "speaker_tag": "",
+      "ja": "私はエマにとって<br>いちばん大切な友だちのはずだから。",
+      "zh": "因为我是艾玛最好的朋友嘛。<br>",
+      "vi": "Bởi vì tôi là bạn thân nhất của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema018",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema018|",
+      "ja": "（似てるだけ……？<br>　いや、違う……どう見たって……）",
+      "zh": "（只是长得像……？<br>\n不，不对……无论怎么看……）",
+      "vi": "(Trông giống như...? Không, điều đó không đúng... dù bạn có nhìn thế nào đi nữa...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative049",
+      "speaker_tag": "",
+      "ja": "――やっと",
+      "zh": "——终于",
+      "vi": "---Cuối cùng",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema019",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema019|",
+      "ja": "ちが、ちが……違うよ……？<br>ボクは、その子を知ってる。",
+      "zh": "不、不对……这不对……？<br>\n我，认识这个人。",
+      "vi": "Không, điều đó không đúng...điều này không đúng...? Tôi, biết anh chàng này.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative050",
+      "speaker_tag": "",
+      "ja": "――やっと見つけてくれた。",
+      "zh": "——终于找到我了。",
+      "vi": "---Cuối cùng cũng tìm thấy tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative051",
+      "speaker_tag": "",
+      "ja": "私の前にいるエマが、<br>目を丸くしたまま、弱弱しく告白した。",
+      "zh": "我面前的艾玛，<br>\n瞪大眼睛，无力地坦白道。",
+      "vi": "Ema trước mặt tôi, Với đôi mắt mở to, anh yếu ớt thú nhận.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema020",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema020|",
+      "ja": "その子は……大魔女じゃなくて、ボクの友だちだ。",
+      "zh": "她……不是大魔女，是我的朋友。",
+      "vi": "Cô ấy...không phải là một phù thủy lớn, cô ấy là bạn của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru039",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru039|",
+      "ja": "え……？ な、何を言っているんですか？<br>大魔女様は私の大切なひとです！<br>エマさんのお友だちなんかじゃありません……っ",
+      "zh": "欸……？你、你在说什么啊？<br>\n大魔女大人是我重要的人！<br>\n才不是艾玛小姐的朋友……！",
+      "vi": "Ủa...? C-bạn đang nói về cái gì thế? Phù thủy vĩ đại là người quan trọng của tôi! Tôi không phải là bạn của cô Ema…!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative052",
+      "speaker_tag": "",
+      "ja": "少し怒った風に、メルルは<ruby=\"ほほ\">頬</ruby>を赤くしている。",
+      "zh": "梅露露脸颊气得红红的。",
+      "vi": "Má Meruru đỏ bừng vì tức giận.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru040",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru040|",
+      "ja": "私と友だちじゃないってひどいことを言って、<br>私から、大魔女様まで奪うんですか……っ",
+      "zh": "你不但要说我们不是朋友这么过分的话，<br>\n还要把大魔女大人从我身边夺走吗……",
+      "vi": "Bạn không chỉ đi xa đến mức nói rằng chúng ta không phải là bạn, Bạn vẫn muốn mang mụ phù thủy vĩ đại ra khỏi tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru041",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru041|",
+      "ja": "人を苦しめたいからって、そんな嘘までついて。",
+      "zh": "就为了让我痛苦，连这种谎都说得出口。",
+      "vi": "Chỉ để làm cho tôi đau khổ, bạn thậm chí có thể nói dối như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative053",
+      "speaker_tag": "",
+      "ja": "エマは強く首を横に振る。",
+      "zh": "艾玛用力地摇了摇头。",
+      "vi": "Ema lắc đầu thật mạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema021",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema021|",
+      "ja": "う、嘘なんかじゃない。<br>その子はボクの友だちなんだ。",
+      "zh": "我、我没有撒谎。<br>\n她真的是我的朋友。",
+      "vi": "Tôi-tôi không nói dối. Cô ấy thực sự là bạn của tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative054",
+      "speaker_tag": "",
+      "ja": "エマは中学時代に、<br>私と行動を共にしていた。",
+      "zh": "艾玛上初中的时候，和我形影不离。<br>",
+      "vi": "Khi Ema còn học trung học cơ sở, tôi và cô ấy không thể tách rời.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative055",
+      "speaker_tag": "",
+      "ja": "今もずっとエマのそばにいる。",
+      "zh": "现在我也一直待在艾玛身边。",
+      "vi": "Bây giờ tôi cũng ở bên Ema mọi lúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema022",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema022|",
+      "ja": "思い出した……どうして忘れてたんだろう。",
+      "zh": "我想起来了……为什么会忘记呢。",
+      "vi": "Tôi đã nhớ...sao tôi lại quên.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema023",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema023|",
+      "ja": "ボクは、とんでもないことを……。<br>あの子は中学の頃、ボクが見捨て――。",
+      "zh": "我做了很过分的事……<br>\n在初中的时候，我抛弃了她——",
+      "vi": "Tôi đã làm điều gì đó quá đáng... Ở trường trung học cơ sở, tôi đã bỏ rơi cô ấy——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative056",
+      "speaker_tag": "",
+      "ja": "エマは口にしかけて、<br><ruby=\"とっさ\">咄嗟</ruby>に両手で口を塞ぐ。",
+      "zh": "艾玛刚要说出口，<br>\n立刻用双手捂住嘴。",
+      "vi": "Ema đang định nói, Lập tức dùng tay che miệng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema024",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema024|",
+      "ja": "はっ……はっ……！！",
+      "zh": "哈……哈……！！",
+      "vi": "Ha... ha...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative057",
+      "speaker_tag": "",
+      "ja": "悲鳴を飲み込む。<br>耳元で心臓が激しく鳴っている。",
+      "zh": "强忍住尖叫。<br>\n耳边传来心脏剧烈跳动的声音。",
+      "vi": "Kìm nén một tiếng hét. Tiếng tim tôi đập dữ dội có thể nghe thấy trong tai tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative058",
+      "speaker_tag": "",
+      "ja": "かわいそうに。",
+      "zh": "真可怜呀。",
+      "vi": "Thật đáng thương.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative059",
+      "speaker_tag": "",
+      "ja": "エマ。",
+      "zh": "艾玛。",
+      "vi": "Ema。",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema025",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema025|",
+      "ja": "……なに……！？ 誰？",
+      "zh": "……什么……！？是谁？",
+      "vi": "...cái gì...! ? Đó là ai?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema026",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema026|",
+      "ja": "誰かそこにいるの！？",
+      "zh": "是谁在那里！？",
+      "vi": "Ai ở đó! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative060",
+      "speaker_tag": "",
+      "ja": "あなたが私を見捨てたことを<br>気に病むことはありません。",
+      "zh": "你不必为抛弃我<br>\n而感到内疚。",
+      "vi": "Bạn không cần phải bỏ rơi tôi Và cảm thấy tội lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative061",
+      "speaker_tag": "",
+      "ja": "私はずっとあなたのそばにいたから。",
+      "zh": "因为我一直都在你身边。",
+      "vi": "Bởi vì tôi luôn ở bên cạnh bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative062",
+      "speaker_tag": "",
+      "ja": "ずっと。",
+      "zh": "一直。",
+      "vi": "Mọi lúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative063",
+      "speaker_tag": "",
+      "ja": "ずっと。ずっと。",
+      "zh": "一直。一直。",
+      "vi": "Mọi lúc. Luôn luôn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative064",
+      "speaker_tag": "",
+      "ja": "ずっと。ずっと。ずっと。",
+      "zh": "一直。一直。一直。",
+      "vi": "Mọi lúc. Luôn luôn. Luôn luôn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative065",
+      "speaker_tag": "",
+      "ja": "ずっと。ずっと。ずっと。ずっと。ずっと。<br>ずっと。ずっと。ずっと。ずっと。ずっと。<br>ずっと。ずっと。ずっと。ずっと。ずっと。",
+      "zh": "一直。一直。一直。一直。一直。<br>\n一直。一直。一直。一直。一直。<br>\n一直。一直。一直。一直。一直。",
+      "vi": "Mọi lúc. Luôn luôn. Luôn luôn. Luôn luôn. Luôn luôn. Mọi lúc. Luôn luôn. Luôn luôn. Luôn luôn. Luôn luôn. Mọi lúc. Luôn luôn. Luôn luôn. Luôn luôn. Luôn luôn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative066",
+      "speaker_tag": "",
+      "ja": "ここにいました。",
+      "zh": "我就在这里。",
+      "vi": "Tôi ở ngay đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative067",
+      "speaker_tag": "",
+      "ja": "ここであなたのことを見守っていたから。",
+      "zh": "我在这里注视着你。",
+      "vi": "Tôi ở đây theo dõi bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative068",
+      "speaker_tag": "",
+      "ja": "ここであなたの苦しみを愉しんでいたから。",
+      "zh": "我在这里享受着你的痛苦。",
+      "vi": "Tôi ở đây tận hưởng nỗi đau của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru042",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru042|",
+      "ja": "な、なんですか？<br>エマさん、誰とお話してるんですか！？",
+      "zh": "怎、怎么了？<br>\n艾玛小姐，你在和谁说话！？",
+      "vi": "Cái gì, chuyện gì đã xảy ra vậy? Ema, cô đang nói chuyện với ai thế? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema027",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema027|",
+      "ja": "あぁ、あぁあ………あぁ……！",
+      "zh": "啊啊，啊啊啊………啊啊……！",
+      "vi": "Ahhh, ahhh...ahhhh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema028",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema028|",
+      "ja": "――！",
+      "zh": "——！",
+      "vi": "——！",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative069",
+      "speaker_tag": "",
+      "ja": "優しいエマ。",
+      "zh": "善良的艾玛。",
+      "vi": "Ema tốt bụng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative070",
+      "speaker_tag": "",
+      "ja": "良い子のエマ。",
+      "zh": "乖孩子艾玛。",
+      "vi": "Cậu bé ngoan Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative071",
+      "speaker_tag": "",
+      "ja": "<ruby=\"きれい\">綺麗</ruby>なエマ。",
+      "zh": "纯洁的艾玛。",
+      "vi": "Ema thuần khiết.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative072",
+      "speaker_tag": "",
+      "ja": "思い出さなければ<ruby=\"けが\">穢</ruby>されずに済んだのに。<br>かわいそうに。かわいそうに。かわいそうに。",
+      "zh": "只要你不想起来，记忆就不会被玷污了呢。<br>\n真可怜呀。真可怜呀。真可怜呀。",
+      "vi": "Chỉ cần bạn không nghĩ về nó, ký ức sẽ không bị hoen ố. Thật đáng thương. Thật đáng thương. Thật đáng thương.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative073",
+      "speaker_tag": "",
+      "ja": "それでもやっぱり、あなたのせいです。",
+      "zh": "但是，这一切终究还是你咎由自取。",
+      "vi": "Tuy nhiên, cuối cùng bạn phải chịu trách nhiệm cho tất cả điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema029",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema029|",
+      "ja": "ボクが……！",
+      "zh": "是我……！",
+      "vi": "Là tôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative074",
+      "speaker_tag": "",
+      "ja": "あなたが、私を殺しました。",
+      "zh": "是你，杀了我。",
+      "vi": "Là anh, giết tôi đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki001",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki001|",
+      "ja": "エ<br>   マ",
+      "zh": "艾<br>\n玛",
+      "vi": "Ai Mã",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki002",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki002|",
+      "ja": "――よくできましたね。<br>あなたを選んで正解でした。",
+      "zh": "——你做得很好。<br>\n选择你果然没错。",
+      "vi": "---Bạn đã làm rất tốt. Đó thực sự là sự lựa chọn đúng đắn để chọn bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki003",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki003|",
+      "ja": "ずっとあなたの耳元で囁いてきたんです。<br>やっと思い出してくれた",
+      "zh": "我一直在你耳边低语。<br>\n你终于想起我了。",
+      "vi": "Tôi cứ thì thầm vào tai bạn. Cuối cùng bạn cũng nhớ đến tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki004",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki004|",
+      "ja": "あなたは心に鍵をかけていたんです。",
+      "zh": "你给自己的心上了锁。",
+      "vi": "Bạn đã khóa trái tim mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki005",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki005|",
+      "ja": "私を忘れてしまわなければ<br>自分の心が壊れてしまうから。",
+      "zh": "因为如果不忘记我，<br>\n你的心就会崩溃。",
+      "vi": "Bởi vì nếu bạn không quên tôi, Trái tim bạn sẽ tan vỡ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki006",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki006|",
+      "ja": "自分を可哀そうだと思い込んでいましたね。",
+      "zh": "你一直臆想着自己很可怜呢。",
+      "vi": "Bạn đã luôn tưởng tượng rằng bạn thật đáng thương.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki007",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki007|",
+      "ja": "あなたは、周囲に壊されていく<br>私を",
+      "zh": "你，对正在被周围人伤害至崩溃<br>\n的我",
+      "vi": "Bạn đang bị những người xung quanh làm tổn thương đến mức suy sụp của tôi",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki008",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki008|",
+      "ja": "見ないふりをした。",
+      "zh": "视而不见。",
+      "vi": "Hãy nhắm mắt làm ngơ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki009",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki009|",
+      "ja": "無関心に見捨てた。",
+      "zh": "漠不关心。",
+      "vi": "Thờ ơ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki010",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki010|",
+      "ja": "なかったことにした。",
+      "zh": "若无其事。",
+      "vi": "Nếu không có gì xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki011",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki011|",
+      "ja": "もちろん<br>優しいあなたに、あんなひどいことが<br>できるはずもありません。",
+      "zh": "善良的你<br>\n当然不可能做出<br>\n那么过分的事。",
+      "vi": "Bạn thật tử tế Tất nhiên là không thể thực hiện Một điều quá đáng như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki012",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki012|",
+      "ja": "優しいエマにとって、<br>絶対に踏み込んではいけない、<br>認めたくない、あなたの闇。",
+      "zh": "对善良的艾玛来说，<br>\n那是绝对不能踏足的，<br>\n不愿承认的，你内心的黑暗。",
+      "vi": "Dành cho Ema tốt bụng, Đó tuyệt đối không được phép đặt chân vào, Điều bạn không muốn thừa nhận chính là bóng tối trong trái tim mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki013",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki013|",
+      "ja": "早く思い出して<br>汚く染まってほしい。",
+      "zh": "希望你快点想起来，<br>\n快点被黑暗侵染吧。",
+      "vi": "Tôi hy vọng bạn sẽ sớm nhớ đến nó, Hãy nhanh lên và bị lây nhiễm bởi bóng tối.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema030",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema030|",
+      "ja": "――ここは牢獄だ。",
+      "zh": "——这里是囚牢。",
+      "vi": "---Đây là một Ngục Dinh Thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema031",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema031|",
+      "ja": "ずっと友だちだ。<br>そう誓いあった少女が、<br>いじめに遭っていた。",
+      "zh": "“我们要一直做好朋友。”<br>\n和我互相起誓的少女，<br>\n正在遭受霸凌。",
+      "vi": "\"Chúng ta nên luôn là bạn tốt.\" Cô gái tôi đã thề với nhau, Bị bắt nạt.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema032",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema032|",
+      "ja": "あの子は嫌われていた。",
+      "zh": "她总是被人讨厌。",
+      "vi": "Cô luôn bị ghét.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema033",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema033|",
+      "ja": "どうしてだろう。<br>あの子の近くでは、<br>しきりに不幸がおきた。",
+      "zh": "为什么呢。<br>\n在她身边，<br>\n总是接连发生不幸的事。",
+      "vi": "Tại sao. Bên cạnh cô ấy, Những bất hạnh luôn xảy ra nối tiếp nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema034",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema034|",
+      "ja": "見たこともない虫が湧いた。<br>どぶのような匂いがした。<br>花が枯れてしまった。",
+      "zh": "涌出了从没见过的虫子。<br>\n传来臭水沟般的气味。<br>\n连花朵都会枯萎。",
+      "vi": "Những loài côn trùng chưa từng thấy trước đây đã xuất hiện. Có mùi giống như một cái mương. Ngay cả những bông hoa cũng sẽ khô héo.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema035",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema035|",
+      "ja": "あの子が忌み嫌われる理由は、それで十分。",
+      "zh": "这些理由，足以让她被人厌恶了。",
+      "vi": "Những lý do này đủ để khiến cô không thích.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema036",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema036|",
+      "ja": "あるときはトイレの個室に閉じ込められた。<br>あるときは教科書を破り捨てられた。<br>あるときは上履きに画鋲を詰められた。",
+      "zh": "有时被锁在厕所隔间里。<br>\n有时课本被撕毁丢弃。<br>\n有时室内鞋里被塞满了图钉。",
+      "vi": "Đôi khi bị nhốt trong nhà vệ sinh. Đôi khi sách giáo khoa bị rách và vứt đi. Đôi khi giày đi trong nhà được nhét đầy đinh bấm.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema037",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema037|",
+      "ja": "あるときは集団リンチにあった。<br>あるときは縛られてさらしものにされた。",
+      "zh": "有时被集体暴打施以私刑。<br>\n有时被绑起来当众羞辱。",
+      "vi": "Đôi khi họ bị đánh đập và hành hình theo nhóm. Đôi khi họ bị trói và làm nhục ở nơi công cộng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema038",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema038|",
+      "ja": "あるときは、<br>あるときは、<br>あるときは――",
+      "zh": "有时。<br>\n有时。<br>\n有时——",
+      "vi": "Đôi khi. Đôi khi. Đôi khi——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema039",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema039|",
+      "ja": "誰かに友だちの悪口を聞かされる。<br>ひそひそ。くすくす。嘲笑と悪意にまみれる。",
+      "zh": "有人会在我耳边说朋友的坏话。<br>\n窃窃私语，咯咯嗤笑，尽是嘲弄与恶意。",
+      "vi": "Ai đó sẽ nói xấu một người bạn vào tai tôi. Những tiếng thì thầm và cười khúc khích, đầy sự nhạo báng và ác ý.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema040",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema040|",
+      "ja": "ボクは周囲の悪意に耳を塞ぎたかった。",
+      "zh": "我只想捂紧耳朵，抵挡身边涌现的恶意。",
+      "vi": "Tôi chỉ muốn bịt tai lại và chống lại cái ác đang vây quanh mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema041",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema041|",
+      "ja": "けれど囚人のように見えない鎖で繋がれ、<br>それすらも許されない。",
+      "zh": "可是，我被无形的锁链束缚着，<br>\n就像个囚犯一样，连捂紧耳朵也做不到。",
+      "vi": "Tuy nhiên, tôi bị ràng buộc bởi những sợi dây vô hình, Giống như một tù nhân, thậm chí không thể bịt tai lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema042",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema042|",
+      "ja": "みんなにあわせて、笑うしかなかった。",
+      "zh": "我只能附和大家，假装笑着。",
+      "vi": "Tôi chỉ có thể nhắc lại mọi người và giả vờ mỉm cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema043",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema043|",
+      "ja": "だって、嫌われたくなかったから。<br>たったそれだけの理由。",
+      "zh": "因为，我不想被讨厌。<br>\n仅仅是这么简单的理由。",
+      "vi": "Vì tôi không muốn bị ghét. Chỉ vì một lý do đơn giản như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema044",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema044|",
+      "ja": "日を追うごとに友だちへのいじめの空気は過熱し、<br>心臓は鉛のように重くなっていった。",
+      "zh": "对朋友的霸凌日益变本加厉，<br>\n我的心脏也好似灌铅般愈发沉重。",
+      "vi": "Tình trạng bắt nạt bạn bè ngày một trầm trọng hơn, Tim tôi cũng cảm thấy ngày càng nặng trĩu, như thể chứa đầy chì.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema045",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema045|",
+      "ja": "やめてよ。<br>やめて、やめて、やめてやめてやめて。",
+      "zh": "住手吧。<br>\n住手。住手。住手住手住手。",
+      "vi": "Dừng lại đi. Dừng lại. dừng lại. Dừng lại, dừng lại, dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema046",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema046|",
+      "ja": "もうあの子を虐めないで！！",
+      "zh": "不要再欺负她了！！",
+      "vi": "Đừng bắt nạt cô ấy nữa! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema047",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema047|",
+      "ja": "どうしてもその一言が発せない。",
+      "zh": "唯有这句话不管怎样都说不出口。",
+      "vi": "Đây là điều duy nhất tôi không thể nói dù thế nào đi nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema048",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema048|",
+      "ja": "言い返したら、<br>次は自分がターゲットにされてしまうから。",
+      "zh": "因为一旦反驳，<br>\n下一个被霸凌的就是自己。",
+      "vi": "Bởi vì một khi đã bị bác bỏ, Người tiếp theo bị bắt nạt chính là bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema049",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema049|",
+      "ja": "ひとりになるのは怖かった。<br>たったそれだけの理由。",
+      "zh": "我害怕孤身一人。<br>\n仅仅是这么简单的理由。",
+      "vi": "Tôi sợ ở một mình. Chỉ vì một lý do đơn giản như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema050",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema050|",
+      "ja": "だから関係のないフリをして、【傍観者】になった。",
+      "zh": "于是假装事不关己，成为了【旁观者】。",
+      "vi": "Vì vậy, tôi giả vờ rằng vấn đề này không liên quan gì đến mình và trở thành [người ngoài cuộc].",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema051",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema051|",
+      "ja": "あの子が蔑まれ、 貶められ、嘲笑される毎日に、<br>終わりは見えなかった。<br>その残酷な行為は、あまりにも徹底的に、長期に及んだ。",
+      "zh": "她被辱骂，被欺侮，被嘲笑，<br>\n每日如此，不见尽头。<br>\n如此残酷的行为，竟长期持续，未曾断绝。",
+      "vi": "Cô ấy bị xúc phạm, bắt nạt và cười nhạo, Chuyện này xảy ra hàng ngày, không có hồi kết. Hành vi tàn ác như vậy đã diễn ra trong một thời gian dài và chưa bao giờ dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema052",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema052|",
+      "ja": "誰よりも臆病な自分を責めて、<br>自分を嫌って、<br>消えてしまいたくなる。",
+      "zh": "我不禁开始责备比任何人都胆小的自己。<br>\n我太过讨厌自己，<br>\n甚至想要就此消失。",
+      "vi": "Tôi không khỏi tự trách mình hèn nhát hơn ai hết. Tôi ghét bản thân mình quá, Thậm chí muốn biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema053",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema053|",
+      "ja": "繰り返される日常に絶望し、<br>漆黒の闇がボクを包む。",
+      "zh": "对一成不变的日常感到绝望的我，<br>\n堕入了无边的黑暗之中。",
+      "vi": "Tôi thất vọng về thói quen hàng ngày giống nhau, Rơi vào bóng tối vô tận.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema054",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema054|",
+      "ja": "友だちの絶望し、焦点の合わない瞳が、<br>ボクを見つめている。",
+      "zh": "朋友那双失去焦点、布满绝望的眼睛，<br>\n正望向我。",
+      "vi": "Đôi mắt bạn tôi đã mất tiêu cự và đầy tuyệt vọng, Nhìn tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema055",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema055|",
+      "ja": "不意に友だちが微笑み、口を開く。<br>ボクの名前を呼ぶ。",
+      "zh": "她忽然微笑，开口。<br>\n唤出了我的名字。",
+      "vi": "Cô chợt mỉm cười và nói. Đã gọi tên tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki014",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki014|",
+      "ja": "エ   マ",
+      "zh": "艾   玛",
+      "vi": "Ema",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki015",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki015|",
+      "ja": "それでもエマ<br>は<br>特別なんですよ",
+      "zh": "即使如此<br>\n艾玛还是<br>\n特别的哦",
+      "vi": "Dù vậy Ema vẫn Đặc biệt",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki016",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki016|",
+      "ja": "あなたの笑顔は<br>綺麗 ですから",
+      "zh": "因为你的笑容<br>\n很 美丽",
+      "vi": "Vì nụ cười của bạn rất đẹp",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki017",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki017|",
+      "ja": "私は<br>  忌み<br>    嫌われるもの",
+      "zh": "我是<br>\n被唾弃<br>\n受厌恶的存在",
+      "vi": "Tôi là Bị hắt hủi sự tồn tại ghê tởm",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki018",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki018|",
+      "ja": "あなたは、そんな私と<br>友だち に<br>なってくれた 数少ない子",
+      "zh": "而你，却是<br>\n少数几个愿意和我<br>\n做朋友的人",
+      "vi": "Nhưng bạn là Một số sẵn sàng với tôi người kết bạn",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki019",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki019|",
+      "ja": "私は 汚いのに<br>臭いのに 人を病気にするのに",
+      "zh": "明明我　又脏<br>\n又臭　还会让人生病",
+      "vi": "Rõ ràng là tôi bẩn Nó có mùi hôi và có thể khiến người ta bị bệnh",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki020",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki020|",
+      "ja": "無理をした笑顔<br>あなたの偽善が大好き",
+      "zh": "你那勉强挤出的笑容<br>\n还有你那虚伪的善良　我最喜欢了",
+      "vi": "Nụ cười gượng ép của bạn Và lòng tốt đạo đức giả của bạn, tôi thích nó nhất",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki021",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki021|",
+      "ja": "私が人としての死を選んだのは<br>あなたにとりつきたかったから",
+      "zh": "我选择作为人类死去<br>\n只是因为想附在你身上",
+      "vi": "Tôi chọn cái chết như một con người Chỉ vì anh muốn ở bên em",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki022",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki022|",
+      "ja": "大好きなエマに<br>はね",
+      "zh": "给<br>\n最喜欢的艾玛",
+      "vi": "Tới Ema yêu thích của tôi",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki023",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki023|",
+      "ja": "とくべつな魔法を  あげますね",
+      "zh": "我要把特别的魔法  送给你哦",
+      "vi": "Tôi muốn cho bạn phép thuật đặc biệt",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki024",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki024|",
+      "ja": "魔女になって<br>みんなを<br>         殺しましょうね",
+      "zh": "成为魔女吧<br>\n然后把大家<br>\n统统杀掉吧",
+      "vi": "Trở thành phù thủy Sau đó đặt mọi người Giết tất cả chúng",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki025",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki025|",
+      "ja": "綺麗なエマ 優しいエマ 良い子のエマ",
+      "zh": "纯洁的艾玛 善良的艾玛 乖孩子艾玛",
+      "vi": "Ema thuần khiết, Ema tốt bụng, Ema trẻ ngoan",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki026",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki026|",
+      "ja": "これは遊び",
+      "zh": "这是一场游戏",
+      "vi": "đây là một trò chơi",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Yuki027",
+      "speaker_tag": "; > Yuki: |#0105Adv09_Yuki027|",
+      "ja": "どこまで<br>  穢れてくれるかな",
+      "zh": "让我看看你到底能够<br>\n堕落得多么肮脏呢",
+      "vi": "Hãy để tôi xem bạn có thể làm gì Nó đã rơi xuống bẩn thỉu làm sao",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema056",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema056|",
+      "ja": "あ、あぁ、あ……あ。",
+      "zh": "啊、啊啊、啊……啊。",
+      "vi": "À, à à, à... à.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema057",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema057|",
+      "ja": "（ボクは、ボクの、ボクが――ボクがボクがボクが！）",
+      "zh": "（我、我的、是我——是我是我是我！）",
+      "vi": "(Tôi, chao ôi, là tôi - là tôi, tôi là tôi!)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema058",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema058|",
+      "ja": "（――ボクが友だちを見捨てて、殺した）",
+      "zh": "（——是我抛弃了朋友，杀死了她）",
+      "vi": "(——Tôi đã bỏ rơi bạn mình và giết cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru043",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru043|",
+      "ja": "も、もういいです……。<br>そうやって私を戸惑わせようとしても、ダメなんですから。",
+      "zh": "够、够了……<br>\n不管你试图用什么手段迷惑我，都没用的。",
+      "vi": "Đủ rồi, đủ rồi... Dù bạn có cố gắng làm tôi bối rối bằng cách nào đi chăng nữa, điều đó cũng vô ích.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru044",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru044|",
+      "ja": "エマさん、さようなら。",
+      "zh": "艾玛小姐，永别了。",
+      "vi": "Tạm biệt, cô Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative075",
+      "speaker_tag": "",
+      "ja": "その冷えきった声に、<br>エマは弾かれたように顔をあげる。",
+      "zh": "听到那冰冷的声音，<br>\n艾玛猛地抬起头。",
+      "vi": "Hãy nghe giọng nói lạnh lùng đó, Đầu Ema giật lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative076",
+      "speaker_tag": "",
+      "ja": "いつの間にか看守がエマの眼前に迫り、<br>鎌を振り上げていた。",
+      "zh": "不知何时，看守已经逼近艾玛面前，<br>\n举起了镰刀。",
+      "vi": "Tại một thời điểm nào đó, Cai Ngục đã tiếp cận Ema, Giơ lưỡi liềm lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema059",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema059|",
+      "ja": "――！",
+      "zh": "——！",
+      "vi": "——！",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative077",
+      "speaker_tag": "",
+      "ja": "刹那のことだ。",
+      "zh": "一刹那。",
+      "vi": "Một lát.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative078",
+      "speaker_tag": "",
+      "ja": "エマの全身から<ruby=\"まばゆ\">眩</ruby>い光が放たれた。",
+      "zh": "艾玛全身突然放射出耀眼的光芒。",
+      "vi": "Toàn thân Ema đột nhiên tỏa ra một luồng sáng chói mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative079",
+      "speaker_tag": "",
+      "ja": "輝きは空間を包み込み、<br>周囲の空気さえも震わせる。",
+      "zh": "光芒笼罩了整个空间，<br>\n甚至颤动了周围的空气。",
+      "vi": "Ánh sáng bao trùm toàn bộ không gian, Nó thậm chí còn làm rung chuyển không khí xung quanh.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative080",
+      "speaker_tag": "",
+      "ja": "あまりに<ruby=\"まばゆ\">眩</ruby>い光に看守は動きを止め、<br>メルルは目を細めた。",
+      "zh": "过于刺眼的光芒使看守停下了动作。<br>\n梅露露眯起了眼睛。",
+      "vi": "Ánh sáng quá chói khiến Cai Ngục phải dừng lại. Meruru nheo mắt lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru045",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru045|",
+      "ja": "っ……、な、何が……？",
+      "zh": "唔……怎、怎么了……？",
+      "vi": "Ừm...cái gì, có chuyện gì thế...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative081",
+      "speaker_tag": "",
+      "ja": "狭い視界の中でメルルが目にしたのは、<br>――翼。",
+      "zh": "梅露露稍微睁开眼，看到的是<br>\n——翅膀。",
+      "vi": "Meruru khẽ mở mắt và nhìn thấy ---Đôi cánh.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema060",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema060|",
+      "ja": "……。",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative082",
+      "speaker_tag": "",
+      "ja": "見た目はほぼ変わらない。<br>ただしエマは虚ろな瞳で、<br>背中に大きな翼をはやしている。",
+      "zh": "艾玛的外表几乎和先前一样。<br>\n不同之处只是眼神变得空洞，<br>\n背后生出了巨大的羽翼。",
+      "vi": "Ngoại hình của Ema gần như giống như trước. Điểm khác biệt duy nhất là đôi mắt trở nên trống rỗng, Đôi cánh khổng lồ mọc ra từ lưng anh.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru046",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru046|",
+      "ja": "そ、その姿、どうしたんですか。",
+      "zh": "你、你这副样子，怎么回事？",
+      "vi": "Bạn, chuyện gì đang xảy ra khiến bạn trông thế này?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative083",
+      "speaker_tag": "",
+      "ja": "それはエマが魔女に目覚めた姿であることに<br>疑いの余地はない。",
+      "zh": "毫无疑问，<br>\n这是艾玛觉醒为魔女的形态。",
+      "vi": "Không còn nghi ngờ gì nữa, Đây là sự thức tỉnh của Ema với tư cách là một phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative084",
+      "speaker_tag": "",
+      "ja": "だがメルルにとって未知の光景だった。",
+      "zh": "但对梅露露来说，这是未知的景象。",
+      "vi": "Nhưng đối với Meruru, đây là một cảnh tượng xa lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative085",
+      "speaker_tag": "",
+      "ja": "魔女因子を持った少女は<br>もっと醜い、化け物となるはずなのに。",
+      "zh": "拥有魔女因子的少女，<br>\n理应会变成更丑陋的怪物才对。",
+      "vi": "Một cô gái có Yếu tố Ma Nữ, Lẽ ra nó phải biến thành một con quái vật thậm chí còn xấu xí hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative086",
+      "speaker_tag": "",
+      "ja": "――エマは人の形を保っている。",
+      "zh": "——而艾玛却仍然保持着人形。",
+      "vi": "---Nhưng Ema vẫn duy trì hình dạng con người của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative087",
+      "speaker_tag": "",
+      "ja": "まるで、自分と同じように。",
+      "zh": "简直，就和梅露露自己一样。",
+      "vi": "Đơn giản, giống như Meruru vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru047",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru047|",
+      "ja": "エマ、さん……？<br>教えてください。こんなの、私、聞いてません。",
+      "zh": "艾玛、小姐……？<br>\n请回答我吧。这种情况，我从未听说过。",
+      "vi": "Ema, ​​​​Cô...? Hãy trả lời tôi. Tôi chưa bao giờ nghe chuyện này xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative088",
+      "speaker_tag": "",
+      "ja": "メルルの声に、若干の怖れが含まれた。",
+      "zh": "梅露露的声音中带着些许恐惧。",
+      "vi": "Có chút sợ hãi trong giọng nói của Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative089",
+      "speaker_tag": "",
+      "ja": "エマの顔つきに、<br>先ほどまでの人格が宿っている雰囲気はなかったのだ。",
+      "zh": "因为艾玛的表情中<br>\n已经完全看不出先前的人格。",
+      "vi": "Bởi vì biểu hiện của Ema là Tính cách trước đây của anh ấy không còn lộ rõ nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative090",
+      "speaker_tag": "",
+      "ja": "大魔女から特別な魔法を授かった、エマ。",
+      "zh": "被大魔女授予了特殊魔法的人，艾玛。",
+      "vi": "Người được phù thủy vĩ đại Ema ban cho phép thuật đặc biệt.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative091",
+      "speaker_tag": "",
+      "ja": "ようやくその魔法を発動する時がやってきた。",
+      "zh": "终于迎来了施展这魔法的时刻。",
+      "vi": "Cuối cùng đã đến lúc thực hiện phép thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative092",
+      "speaker_tag": "",
+      "ja": "まるで天から降臨したかのように両翼をひろげ、<br>ふわりとエマは地に降り立つ。",
+      "zh": "艾玛仿佛从天际降临一般展开双翼，<br>\n轻盈地落于地面。",
+      "vi": "Ema dang rộng đôi cánh như thể cô ấy từ trên trời rơi xuống, Hạ cánh nhẹ nhàng trên mặt đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru048",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru048|",
+      "ja": "あの。",
+      "zh": "那个……",
+      "vi": "Đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema061",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema061|",
+      "ja": "死ね。",
+      "zh": "去死吧。",
+      "vi": "Xuống địa ngục đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative093",
+      "speaker_tag": "",
+      "ja": "エマは、メルルの声を遮り口を開いた。",
+      "zh": "艾玛打断了梅露露的话，开口说道。",
+      "vi": "Ema ngắt lời Meruru và nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative094",
+      "speaker_tag": "",
+      "ja": "メルルの隣を見据えて――<br>ひと言口にする。",
+      "zh": "她望向梅露露身旁——<br>\n只吐出这短短一句。",
+      "vi": "Cô ấy nhìn về phía Meruru—— Vừa mới thốt ra câu ngắn gọn này.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative095",
+      "speaker_tag": "",
+      "ja": "看守はピタリと動きを止めて、<br>力なく床に倒れる。",
+      "zh": "看守顿时停止了动作，<br>\n无力地倒在地上。",
+      "vi": "Cai Ngục ngay lập tức ngừng di chuyển, Anh bất lực ngã xuống đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative096",
+      "speaker_tag": "",
+      "ja": "悲鳴ひとつあげず、もはや動くこともなかった。<br>命が、完全に停止していた。",
+      "zh": "连一声惨叫都未发出，再也没有了动静。<br>\n生命，彻底终止了。",
+      "vi": "Thậm chí không có một tiếng hét nào được thốt ra, và không có bất kỳ chuyển động nào nữa. Cuộc sống đã hoàn toàn kết thúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru049",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru049|",
+      "ja": "え……？",
+      "zh": "欸……？",
+      "vi": "Ủa...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative097",
+      "speaker_tag": "",
+      "ja": "メルルは<ruby=\"ぼうぜん\">茫然</ruby>と立ち尽くしていた。",
+      "zh": "梅露露茫然呆立在原地。",
+      "vi": "Meruru ngơ ngác đứng đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru050",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru050|",
+      "ja": "そ、そんな、なんで、なんで……<br>看守さん……っ<br>やだやだ、やだぁ……っ",
+      "zh": "这、这怎么可能，为什么，为什么……<br>\n看守小姐……<br>\n不、不可以，不要啊……",
+      "vi": "Điều này, làm sao điều này có thể xảy ra, tại sao, tại sao... Người chăm sóc... Không, không, không, không...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative098",
+      "speaker_tag": "",
+      "ja": "看守が死んでしまって、<br>メルルはくしゃくしゃに顔を<ruby=\"ゆが\">歪</ruby>めて泣きだす。",
+      "zh": "看守死去的事实，<br>\n令梅露露面容扭曲地哭了起来。",
+      "vi": "Sự thật là Cai Ngục đã chết, Mei Lu khóc với vẻ mặt méo mó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru051",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru051|",
+      "ja": "ひ、ひどい、なんてことを……<br>エマさんがやったんですか……っ",
+      "zh": "太、太过分了，怎么能这样……<br>\n这是你下的手吗，艾玛小姐……",
+      "vi": "Nó quá, quá nhiều. Làm sao điều này có thể xảy ra... Đây có phải là do cô làm không, cô Ema...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru052",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru052|",
+      "ja": "なんで……もう、わかりません……<br>魔女を殺すなんて、<br>一体どうやって……これじゃまるで。",
+      "zh": "为什么……我已经不明白了……<br>\n居然杀死了魔女，<br>\n到底是怎么做到的……这简直就像是……",
+      "vi": "Tại sao...tôi không hiểu nữa... Thực sự đã giết mụ phù thủy, Làm thế quái nào mà nó lại được thực hiện...nó gần giống như...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema062",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema062|",
+      "ja": "魔女殺し。",
+      "zh": "魔女杀手。",
+      "vi": "Kẻ giết phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative099",
+      "speaker_tag": "",
+      "ja": "そのひと言に、<br>メルルの表情がハッと強張る。",
+      "zh": "这一句话，<br>\n让梅露露的表情瞬间凝固。",
+      "vi": "Câu này, Biểu hiện của Meruru cứng đờ ngay lập tức.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema063",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema063|",
+      "ja": "そんな魔法を、もらったみたい。",
+      "zh": "我好像就是得到了这样的魔法。",
+      "vi": "Cứ như thể tôi vừa có được phép thuật này vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema064",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema064|",
+      "ja": "頭で、物事はしっかり考えられるんだ。<br>不思議な感じ。",
+      "zh": "头脑非常清晰。<br>\n感觉真奇妙。",
+      "vi": "Đầu óc rất sáng suốt. Nó cảm thấy tuyệt vời.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema065",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema065|",
+      "ja": "ただ……感じたことのない気持ちが<br>膨れ上がって収まらない。",
+      "zh": "可是……一种从未体验过的情绪<br>\n正在我心中膨胀，无法平息。",
+      "vi": "Nhưng... một cảm xúc tôi chưa từng trải qua trước đây Nó đang sưng tấy trong lòng và không thể nguôi ngoai được.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema066",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema066|",
+      "ja": "怒ってるし、憎いし、それに……<br>こんな気持ち……なんていうんだろう。",
+      "zh": "是愤怒，是憎恨，还有……<br>\n这种心情……该怎么形容呢。",
+      "vi": "Đó là sự tức giận, đó là sự căm ghét và... Cảm giác này...nói sao nhỉ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative100",
+      "speaker_tag": "",
+      "ja": "殺したい。",
+      "zh": "想杀人。",
+      "vi": "Muốn giết ai đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema067",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema067|",
+      "ja": "そう、【殺したい】んだ。",
+      "zh": "没错，我【想杀人】。",
+      "vi": "Vâng, tôi [muốn giết ai đó].",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative101",
+      "speaker_tag": "",
+      "ja": "――全部コイツのせいだと、<br>エマは目の前にいる少女への殺意が抑えられない。",
+      "zh": "——一切都是眼前这个家伙的错。<br>\n艾玛无法抑制对眼前这名少女的杀意。",
+      "vi": "--Tất cả đều là lỗi của gã trước mặt này. Ema không thể kìm nén ý định sát hại của mình đối với cô gái trước mặt.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema068",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema068|",
+      "ja": "ボク……大魔女と友だちだったんだ。",
+      "zh": "我……和大魔女曾经是朋友。",
+      "vi": "Tôi và mụ phù thủy lớn từng là bạn bè.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru053",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru053|",
+      "ja": "ありえません。<br>大魔女様が人間なんかと友だちになるはずありません。",
+      "zh": "不可能。<br>\n大魔女大人不可能和人类成为朋友。",
+      "vi": "Không thể được. Great Witch không thể làm bạn với con người được.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema069",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema069|",
+      "ja": "ボクに、ボクにだけ、<br>特別な魔法を授けてくれたんだ。",
+      "zh": "她授予了我，只授予了我一人<br>\n某种特殊的魔法。",
+      "vi": "Cô ấy đã cho tôi và chỉ tôi một người Một loại phép thuật đặc biệt nào đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema070",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema070|",
+      "ja": "世界中の人は、<br>みんな魔女因子を持った魔女。",
+      "zh": "世界上的所有人，<br>\n都是拥有魔女因子的魔女。",
+      "vi": "Mọi người trên thế giới, Họ đều là những phù thủy có Yếu tố Ma Nữ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema071",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema071|",
+      "ja": "魔女を……たくさん殺せって<br>そう聞こえてきたんだ。",
+      "zh": "我听到了一个声音，让我<br>\n把魔女……大量屠杀。",
+      "vi": "Tôi nghe thấy một giọng nói nói với tôi Giết phù thủy... với số lượng lớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru054",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru054|",
+      "ja": "嘘です！ 魔女殺しは<br>私が大魔女さまから授かった大切な力……。",
+      "zh": "骗人的！魔女杀手是<br>\n大魔女大人赐予的，属于我的宝贵力量……",
+      "vi": "Nói dối! Kẻ giết phù thủy là Sức mạnh quý giá được ban cho tôi bởi Phù thủy vĩ đại...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema072",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema072|",
+      "ja": "それはニセモノだよ。<br>……信仰心が作ったただの思い込み。",
+      "zh": "那是假的。<br>\n……只是你的信仰心造就的妄想罢了。",
+      "vi": "Điều đó là sai. ...Đó chỉ là ảo tưởng được tạo ra bởi đức tin của bạn mà thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative102",
+      "speaker_tag": "",
+      "ja": "エマは温度がこもっていない冷たい視線で<br>メルルを見下ろす。",
+      "zh": "艾玛冷冷地俯视着梅露露，<br>\n目光中毫无感情。",
+      "vi": "Ema lạnh lùng nhìn Meruru, Trong mắt anh không có chút cảm xúc nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema073",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema073|",
+      "ja": "残念だったね。",
+      "zh": "真可惜。",
+      "vi": "Thật là xấu hổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru055",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru055|",
+      "ja": "――。",
+      "zh": "——",
+      "vi": "——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative103",
+      "speaker_tag": "",
+      "ja": "メルルの顔が初めて絶望でひきつった。",
+      "zh": "梅露露的表情第一次因绝望而扭曲。",
+      "vi": "Biểu hiện của Meruru lần đầu tiên trở nên tuyệt vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative104",
+      "speaker_tag": "",
+      "ja": "対抗する術がないのだ。<br>エマが願えば、メルルは即死する。",
+      "zh": "她已无力反抗。<br>\n只要艾玛一句话，梅露露就会当场死亡。",
+      "vi": "Cô bất lực để chống cự. Nếu Ema chỉ nói một lời, Meruru sẽ chết ngay tại chỗ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema074",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema074|",
+      "ja": "ゴクチョー、処刑台を用意して。",
+      "zh": "典狱长，准备处刑台。",
+      "vi": "Quản ngục, chuẩn bị sàn hành quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative105",
+      "speaker_tag": "",
+      "ja": "エマは部屋の隅にたたずんでいた<br>ゴクチョーに、振り返りもせず呼び掛けた。",
+      "zh": "艾玛头也不回地<br>\n对候在房间角落的典狱长说道。",
+      "vi": "Ema không nhìn lại Anh nói với quản giáo đang đợi ở góc phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Warden001",
+      "speaker_tag": "; > Warden: |#0105Adv09_Warden001|",
+      "ja": "えっ……！？ あ、あぁ、はい。<br>メルル様、悪く思わないでください。",
+      "zh": "欸……！？啊、啊啊，好的。<br>\n梅露露大人，请不要怪罪。",
+      "vi": "Hừ...! ? À, à à, được rồi. Meruru-sama, xin đừng trách tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative106",
+      "speaker_tag": "",
+      "ja": "ゴクチョーがすぐに指示に従うと<br>やがて裁判所の中央が開いた。",
+      "zh": "典狱长立即执行了指示，<br>\n审判庭的中央随即打开。",
+      "vi": "Quản giáo ngay lập tức thực hiện chỉ dẫn, Trung tâm của Toà án dị giáo mở cửa ngay lập tức.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative107",
+      "speaker_tag": "",
+      "ja": "開いた中央には、地獄の釜が開いたかのように<br>煮えたぎった赤い液体が<ruby=\"た\">溜</ruby>まっている。<br>ぐつぐつと粘着質な沸騰音をたてていた。",
+      "zh": "那地面之下，就像地狱之门开启般，<br>\n滚烫的红色液体正不断沸腾翻滚，<br>\n发出粘稠的咕嘟声。",
+      "vi": "Dưới lòng đất, giống như cánh cổng địa ngục đang mở ra, Chất lỏng nóng đỏ đang sôi sùng sục, Tạo ra âm thanh dính dính.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Warden002",
+      "speaker_tag": "; > Warden: |#0105Adv09_Warden002|",
+      "ja": "用意しました。<br>では私は――。",
+      "zh": "已经准备好了。<br>\n那么我就——",
+      "vi": "Nó đã sẵn sàng. Vậy thì tôi sẽ——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema075",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema075|",
+      "ja": "死ね。",
+      "zh": "去死吧。",
+      "vi": "Xuống địa ngục đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative108",
+      "speaker_tag": "",
+      "ja": "エマはメルルに向けて歩みだす。<br>そのさなか、ゴクチョーは地面に落ち、<br>動かなくなった。",
+      "zh": "艾玛朝梅露露走去。<br>\n与此同时，典狱长落在地上，<br>\n不再动弹。",
+      "vi": "Ema đi về phía Meruru. Cùng lúc đó, quản giáo ngã xuống đất, Không còn chuyển động nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema076",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema076|",
+      "ja": "ねぇ、メルルちゃん。魔女は処刑しなきゃ。",
+      "zh": "喂，梅露露。魔女可是必须被处决的。",
+      "vi": "Xin chào, Meruru. Phù thủy phải bị xử tử.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema077",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema077|",
+      "ja": "ほら、ちょうどそこに処刑台があるよ。<br>みんなと同じように死ねるから。",
+      "zh": "看，那里正好有个处刑台。<br>\n你也可以和大家一样去死了。",
+      "vi": "Hãy nhìn xem, tình cờ có một nền tảng thực thi ngay tại đó. Bạn có thể chết như những người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru056",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru056|",
+      "ja": "ひっ……。",
+      "zh": "噫……",
+      "vi": "Ờ...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative109",
+      "speaker_tag": "",
+      "ja": "エマはメルルの手首を<ruby=\"つか\">掴</ruby>み、<br>引きずるように処刑台へと連れていく。",
+      "zh": "艾玛抓住梅露露的手腕，<br>\n拖着她走向处刑台。",
+      "vi": "Ema nắm lấy cổ tay Meruru, Kéo cô ấy đến bục hành quyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative110",
+      "speaker_tag": "",
+      "ja": "処刑台に用意されていたのは、<br>大きな大きな火窯だった。",
+      "zh": "处刑台上准备好的是<br>\n一个巨大的火窑。",
+      "vi": "Chuẩn bị trên nền tảng thực thi là Một lò nung khổng lồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative111",
+      "speaker_tag": "",
+      "ja": "窯の中で赤々とした炎が踊るように舞い上がり、<br>その熱気がメルルとエマの肌を包む。",
+      "zh": "窑中赤红的火焰如起舞般升腾，<br>\n热浪包裹着梅露露和艾玛的肌肤。",
+      "vi": "Ngọn lửa đỏ trong lò bốc lên như nhảy múa, Sóng nhiệt bao bọc làn da của Meruru và Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative112",
+      "speaker_tag": "",
+      "ja": "メルルの瞳は、炎を映して赤みを帯びている。",
+      "zh": "梅露露眼中映出火焰，染红了她的瞳孔。",
+      "vi": "Đôi mắt của Meruru phản chiếu ngọn lửa, nhuộm đỏ đồng tử của cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative113",
+      "speaker_tag": "",
+      "ja": "火窯の中から強い熱風が吹き出し、<br>髪を舞いあげる。",
+      "zh": "火窑中吹出强烈的热风，<br>\n吹拂起她的头发。",
+      "vi": "Không khí nóng thổi mạnh từ lò, Thổi tóc cho cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru057",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru057|",
+      "ja": "エ、エマさん……<br>私、その、ごめんなさい……。",
+      "zh": "艾、艾玛小姐……<br>\n我，那个，对不起……",
+      "vi": "Này, cô Ema... Tôi, cái đó, tôi xin lỗi...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative114",
+      "speaker_tag": "",
+      "ja": "メルルは火釜の前で解放され<br>じりじりとエマから後ずさった。",
+      "zh": "在火窑前艾玛放开了梅露露的手。<br>\n梅露露马上一点一点地退离艾玛身边。",
+      "vi": "Ema buông tay Meruru trước lò lửa. Meruru ngay lập tức lùi lại khỏi Ema từng chút một.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative115",
+      "speaker_tag": "",
+      "ja": "背後には煮えた釜が控えている。",
+      "zh": "身后是沸腾的火窑。",
+      "vi": "Phía sau anh là một lò lửa sôi sục.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru058",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru058|",
+      "ja": "一緒にここで生きていきませんか……？<br>私たちなら、きっと仲良くやっていけると、<br>思うんです……。",
+      "zh": "我们一起在这里生活下去好吗……？<br>\n我觉得，<br>\n我们一定能好好相处的……",
+      "vi": "Vậy chúng ta tiếp tục sống ở đây cùng nhau nhé...? Tôi nghĩ, Chúng ta nhất định sẽ hòa hợp tốt...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru059",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru059|",
+      "ja": "すれ違いはあったけれど……<br>本当の友だちになれると、思うんです……。",
+      "zh": "虽然有过误会……<br>\n但我相信我们能成为真正的朋友……",
+      "vi": "Mặc dù đã có những hiểu lầm... Nhưng tôi tin chúng ta có thể trở thành bạn bè thực sự...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru060",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru060|",
+      "ja": "大魔女様に、選ばれた者同士……。",
+      "zh": "同为被大魔女大人选中的人……",
+      "vi": "Những người được chọn bởi Phù thủy vĩ đại cũng chính là những người đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative116",
+      "speaker_tag": "",
+      "ja": "エマは容赦なく首を左右に振ってみせる。",
+      "zh": "艾玛毫不留情地摇了摇头。",
+      "vi": "Ema lắc đầu không thương tiếc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema078",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema078|",
+      "ja": "無理だよ。メルルちゃん<br>キミは選ばれてない。",
+      "zh": "不可能的。梅露露，<br>\n你没有被选中。",
+      "vi": "Không thể được. Meruru, Bạn đã không được chọn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru061",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru061|",
+      "ja": "そ、そんなことないです。<br>だって私は、こんなにずっと<br>大魔女様を想って――。",
+      "zh": "不、不会的。<br>\n因为我一直都这么<br>\n思念着大魔女大人——",
+      "vi": "Không, nó sẽ không. Bởi vì tôi luôn như vậy Thiếu mụ phù thủy vĩ đại——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema079",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema079|",
+      "ja": "無駄な努力だったね。",
+      "zh": "白费力气了呢。",
+      "vi": "Tất cả chỉ là lãng phí công sức.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative117",
+      "speaker_tag": "",
+      "ja": "その一言で、メルルは<br>顔を大きくゆがめた。",
+      "zh": "这一句话，<br>\n让梅露露的表情剧烈扭曲了起来。",
+      "vi": "Câu này, Biểu hiện của Meruru trở nên méo mó dữ dội.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema080",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema080|",
+      "ja": "キミは捨てられたんだよ。",
+      "zh": "你已经被抛弃了。",
+      "vi": "Bạn đã bị bỏ rơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru062",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru062|",
+      "ja": "やだ……。",
+      "zh": "不要……",
+      "vi": "Đừng...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema081",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema081|",
+      "ja": "キミは大魔女に捨てられ、ボクが選ばれた。",
+      "zh": "你被大魔女抛弃，而我则被大魔女选中。",
+      "vi": "Ngươi bị Đại Ma Nữ bỏ rơi, còn ta được Đại Ma Nữ lựa chọn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Meruru063",
+      "speaker_tag": "; > Meruru: |#0105Adv09_Meruru063|",
+      "ja": "や、やだ、やだ、やだあぁぁぁぁ！！",
+      "zh": "不、不要，不要，不要啊啊啊啊！！",
+      "vi": "Không, đừng, đừng, đừng ah ah ah! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative118",
+      "speaker_tag": "",
+      "ja": "メルルにとって、一番聞きたくない言葉だった。<br>だからエマは口にした。",
+      "zh": "对梅露露来说，这是她最不想听到的话。<br>\n所以艾玛才特意说出口。",
+      "vi": "Đối với Meruru, đây là điều cuối cùng cô muốn nghe. Đó là lý do tại sao Ema nói cụ thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema082",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema082|",
+      "ja": "かわいそうに。",
+      "zh": "真可怜呀。",
+      "vi": "Thật đáng thương.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative119",
+      "speaker_tag": "",
+      "ja": "メルルは耳を塞ぎ、絶叫している。",
+      "zh": "梅露露捂住耳朵，发出尖叫。",
+      "vi": "Meruru bịt tai lại và hét lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative120",
+      "speaker_tag": "",
+      "ja": "そのメルルの胸を、とんっと軽く押した。",
+      "zh": "艾玛轻轻地推了一下她的胸口。",
+      "vi": "Ema đẩy nhẹ ngực mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema083",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema083|",
+      "ja": "死ね。",
+      "zh": "去死吧。",
+      "vi": "Xuống địa ngục đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative121",
+      "speaker_tag": "",
+      "ja": "絶叫と<ruby=\"ほのお\">焰</ruby>をあげながら、<br>高熱にさらされたメルルが溶けていく。",
+      "zh": "伴随着凄厉的惨叫，火焰高高窜起，<br>\n在高温的炙烤下，梅露露逐渐融化。",
+      "vi": "Cùng với những tiếng la hét chói tai, ngọn lửa bốc cao, Dưới nhiệt độ cao, Meruru dần tan chảy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative122",
+      "speaker_tag": "",
+      "ja": "肉の焼ける音と匂いが、辺りを漂う。",
+      "zh": "肉块烧焦的声音劈啪作响，焦臭味在空气中弥漫。",
+      "vi": "Tiếng thịt cháy kêu lách tách, mùi thịt cháy tràn ngập không khí.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative123",
+      "speaker_tag": "",
+      "ja": "エマはただ、赤々と燃える炎を見つめ続けていた。",
+      "zh": "艾玛凝视着熊熊燃烧的火焰，一言不发。",
+      "vi": "Ema nhìn chằm chằm vào ngọn lửa rực cháy mà không nói một lời.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative124",
+      "speaker_tag": "",
+      "ja": "エマ。",
+      "zh": "艾玛。",
+      "vi": "Ema。",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative125",
+      "speaker_tag": "",
+      "ja": "エマ。",
+      "zh": "艾玛。",
+      "vi": "Ema。",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Ema084",
+      "speaker_tag": "; > Ema: |#0105Adv09_Ema084|",
+      "ja": "なぁに……？",
+      "zh": "什么事……？",
+      "vi": "Chuyện gì đang xảy ra vậy...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv09_Narrative126",
+      "speaker_tag": "",
+      "ja": "よくできましたね。",
+      "zh": "你做得很好。",
+      "vi": "Bạn đã làm một công việc tuyệt vời.",
+      "objection_links": []
+    }
+  ]
+}

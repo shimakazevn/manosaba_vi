@@ -1,0 +1,1024 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter03_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter03_Trial12",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter03/Act02_Chapter03_Trial12' Naninovel scenario script",
+  "total_entries": 126,
+  "entries": [
+    {
+      "id": "0203Trial12_Hiro001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial12_Hiro001|",
+      "ja": "アンアンは<br>わざとベランダから<br>落ちたあと、<br>死んだフリをする<br>偽装工作を準備していた。",
+      "zh": "安安故意从<br>\n阳台坠落的<br>\n时候，<br>\n就着手把自己伪装成<br>\n已经死去的模样。",
+      "vi": "AnAn cố tình bắt đầu từ rơi từ ban công thời gian, Hãy bắt đầu cải trang thành Đã chết rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial12_Hiro002|",
+      "ja": "それ自体は<br>イタズラか何か<br>だったのかもしれない。<br>……けれど、<br>その用意周到な計画を<br>利用した人物がいたんだ。",
+      "zh": "她会这样做<br>\n有可能是出于<br>\n恶作剧的想法。<br>\n……可是<br>\n有人利用了她这个<br>\n准备周详的计划。",
+      "vi": "Cô ấy sẽ làm điều này Có thể là do Những suy nghĩ tinh nghịch. ...Nhưng Có người đã lợi dụng cô ấy Chuẩn bị một kế hoạch kỹ lưỡng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial12_Hiro003|",
+      "ja": "その人物は<br>あらかじめ折って<br>準備していた鉄柵で<br>アンアンを刺殺……。",
+      "zh": "这个人先把铁栅栏的铁栅<br>\n弄断备好，<br>\n等安安掉下来时<br>\n把她刺死……",
+      "vi": "Người đàn ông này lần đầu tiên tháo các thanh sắt của hàng rào sắt Nghỉ giải lao và chuẩn bị, Khi AnAn ngã đâm chết cô ấy...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial12_Hiro004|",
+      "ja": "その後、<br>雨を降らせて<br>自らが殺害した痕跡を<br>消したんだ。",
+      "zh": "然后<br>\n让中庭下一场雨，<br>\n把自己犯案的痕迹<br>\n冲洗干净。",
+      "vi": "Sau đó Hãy để mưa ở trong nhĩ, Để lại dấu vết tội ác của bạn Rửa sạch.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial12_Hiro005|",
+      "ja": "そんなことができるのは<br>液体操作の魔法を<br>使える者だけ……。",
+      "zh": "能做到这件事的，<br>\n就只有能够使用操控液体<br>\n这一魔法的人……",
+      "vi": "Những người có thể làm được điều này, Chỉ khi bạn có thể sử dụng chất lỏng kiểm soát Người thần kỳ này...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial12_Hiro006|",
+      "ja": "城ケ崎ノア……<br>君が犯人だ。",
+      "zh": "城崎诺亚……<br>\n凶手就是你。",
+      "vi": "Kinosaki Nô-ê...... Kẻ giết người là bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah001|",
+      "ja": "それはヒロちゃんが<br>勝手に思い込んでる<br>だけだよね？",
+      "zh": "那只是希罗你<br>\n单方面的臆测<br>\n而已吧？",
+      "vi": "Đó chỉ là Hiro bạn Suy đoán đơn phương Thế thôi, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah002|",
+      "ja": "だって今ヒロちゃんが<br>言ったよね。<br>【痕跡は消した】って。",
+      "zh": "因为希罗刚才<br>\n不也说了嘛。<br>\n【犯案的痕迹已经冲洗干净】。",
+      "vi": "Bởi vì Anh hùng chỉ Chẳng phải Noah cũng đã nói thế sao? [Dấu vết tội ác đã bị xóa sạch].",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah003|",
+      "ja": "証拠が何も<br>残っていないなら、<br><link=\"Objection_02_03_12_01\">証明できること</link>なんて<br>何も存在しないんじゃ<br>ないかな。",
+      "zh": "既然现场没有<br>\n留下任何证据，<br>\n那就什么都<br>\n<link=\"Objection_02_03_12_01\">证明不了</link>，<br>\n没错吧。",
+      "vi": "Vì không có trên trang web Đừng để lại bằng chứng nào, Sau đó mọi thứ <link=\"Objection_02_03_12_01\"> không thể chứng minh </link>, Đúng vậy.",
+      "objection_links": [
+        "Objection_02_03_12_01"
+      ]
+    },
+    {
+      "id": "0203Trial12_Noah004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah004|",
+      "ja": "もしかしたら<br>ぜーんぶヒロちゃんの<br>想像で、<br>アンアンちゃんは<br>落ちたときに<br>死んでたのかも。",
+      "zh": "说不定这一切<br>\n全都是希罗<br>\n幻想出来的，<br>\n其实安安<br>\n坠下中庭时<br>\n就已经死了。",
+      "vi": "Có lẽ đó là tất cả Tất cả đều là Anh hùng Ảo tưởng, Trên thực tế, AnAn Khi rơi xuống tâm nhĩ Nó đã chết rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Ema001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial12_Ema001|",
+      "ja": "で、でもヒロちゃんは、<br>血痕が偽物だって<br>証明したよ……！",
+      "zh": "可、<br>\n可希罗已经证明了<br>\n血迹是伪造的啊……！",
+      "vi": "Có, Nhưng Anh hùng đã chứng minh Vết máu là giả...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah005|",
+      "ja": "そんなことないと<br>思うけどな……。<br>偽物の血だって、<br><link=\"Objection_02_03_12_02\">誰にだって</link><br>用意できると思うし。",
+      "zh": "诺亚觉得<br>\n这证明不了什么吧……<br>\n而且就算是假血，<br>\n应该<link=\"Objection_02_03_12_02\">谁都能</link><br>\n弄到吧。",
+      "vi": "Noah nghĩ chuyện đó chẳng chứng minh được gì cả…… Hơn nữa ngay cả khi là máu giả, thì <link=\"Objection_02_03_12_02\">bất kỳ ai cũng</link> có thể chuẩn bị được mà.",
+      "objection_links": [
+        "Objection_02_03_12_02"
+      ]
+    },
+    {
+      "id": "0203Trial12_Noah006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah006|",
+      "ja": "雨だって<br><link=\"Objection_02_03_12_03\">偶然</link>降ったりした<br>のかもしれないし、<br>水を中庭に撒く方法なんて<br>いくらでもあるんじゃ<br>ないかなぁ？",
+      "zh": "说不定那场雨<br>\n只是<link=\"Objection_02_03_12_03\">碰巧</link>下的，<br>\n再说，<br>\n要往中庭里洒水，<br>\n办法不是<br>\n要多少有多少吗？",
+      "vi": "Có lẽ cơn mưa đó Chỉ là <link=\"Objection_02_03_12_03\"> tình cờ được đặt dưới </link>, Ngoài ra, Chúng ta cần rưới nước vào giếng trời, Giải pháp không phải là Bạn muốn bao nhiêu?",
+      "objection_links": [
+        "Objection_02_03_12_03"
+      ]
+    },
+    {
+      "id": "0203Trial12_Noah007",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah007|",
+      "ja": "それにのあ以外の<br>他の人にだって、<br>アリバイないよね？",
+      "zh": "然后呢，除了诺亚以外，<br>\n其他人不也<br>\n没有不在场证明嘛？",
+      "vi": "Sau đó, ngoại trừ Nô-ê, Những người khác cũng vậy Bạn không có bằng chứng ngoại phạm à?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial12_Hiro007|",
+      "ja": "……それでも、<br>足跡を消すことができるのが<br>ノアだけという事実は<br>覆らない。",
+      "zh": "……即便如此，<br>\n也推翻不了<br>\n只有诺亚<br>\n能清除脚印的事实。",
+      "vi": "...Kể cả vậy, Nó không thể bị lật ngược Chỉ có Nô-ê Sự thật có thể xóa dấu chân",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah008",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah008|",
+      "ja": "本当の本当？",
+      "zh": "真的吗？确定吗？",
+      "vi": "Thật sao? Bạn có chắc không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah009",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah009|",
+      "ja": "たとえば中庭に<br>最初に足を踏み入れた<br><link=\"Objection_02_03_12_04\">レイアちゃん</link>は、<br>そもそも足跡を<br>消す必要がないよ。",
+      "zh": "比如说，<link=\"Objection_02_03_12_04\">蕾雅</link>是第一个<br>\n踏进中庭的人，<br>\n那她就<br>\n没有必要在<br>\n犯案后清除脚印了。",
+      "vi": "Ví dụ: <link=\"Objection_02_03_12_04\">Lea </link> là đầu tiên Những người bước vào tâm nhĩ, Vậy thì cô ấy là Không cần thiết trong Dấu chân đã được xóa sạch sau khi tội ác được thực hiện.",
+      "objection_links": [
+        "Objection_02_03_12_04"
+      ]
+    },
+    {
+      "id": "0203Trial12_Noah010",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah010|",
+      "ja": "だって第一発見者だもん。<br>足跡が残ってて<br>当然だもんね。",
+      "zh": "既然是第一发现人，<br>\n留了脚印也很正常啊。<br>",
+      "vi": "Vì anh ấy là người phát hiện đầu tiên, Việc để lại dấu chân là chuyện bình thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Leia001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0203Trial12_Leia001|",
+      "ja": "……そうだね。<br>だから私の足跡は<br>現場に残っている。",
+      "zh": "……说得对。<br>\n所以现场确实<br>\n留下了我的脚印。",
+      "vi": "...Đúng vậy. Vậy cảnh đó thực sự là Tôi đã để lại dấu chân của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah011",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah011|",
+      "ja": "……ほらね？",
+      "zh": "……你看吧？",
+      "vi": "...bạn thấy không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah012",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah012|",
+      "ja": "ヒロちゃんの推理は<br>歪んでいて、<br>構図がぐちゃぐちゃ……。",
+      "zh": "希罗的推理<br>\n都很反常，<br>\n构图简直一团糟……",
+      "vi": "Lý luận của anh hùng Tất cả đều bất thường, Bố cục hoàn toàn là một mớ hỗn độn...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah013",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0203Trial12_Noah013|",
+      "ja": "パースも視点も……<br>全然合ってないと思うよ？",
+      "zh": "在诺亚看来，<br>\n不管是透视还是焦点……<br>\n全都不对劲哦？",
+      "vi": "Theo Nô-ê, Cho dù đó là phối cảnh hay tiêu điểm... Mọi thứ đều sai?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro008",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro008|",
+      "ja": "（追求を重ねても<br>　のらりくらりとかわされてしまう）",
+      "zh": "（继续穷追不舍下去<br>\n也只会被她轻飘飘搪塞过去）",
+      "vi": "(Tiếp tục theo đuổi Cô ấy sẽ chỉ được cô ấy tha thứ.)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro009",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro009|",
+      "ja": "（しかしノアがアンアンの計画を利用し、<br>　私とエマを陥れようとしたのは明白だ）",
+      "zh": "（可这起案件很明显就是<br>\n诺亚利用安安的计划来诬陷我跟艾玛）",
+      "vi": "(Nhưng trường hợp này rõ ràng là Noah đã dùng kế hoạch của AnAn để gài bẫy Ema và tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro010",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro010|",
+      "ja": "（理由はわからないが……<br>　それでも、見過ごせることじゃない！）",
+      "zh": "（虽然不知道她是出于什么理由……<br>\n可不管怎样，我也不能放过她！）",
+      "vi": "(Mặc dù tôi không biết lý do của cô ấy là gì... Nhưng dù thế nào đi nữa, tôi cũng không thể để cô ấy đi được! )",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro011",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro011|",
+      "ja": "（どんな手段を使ってでも彼女の嘘を……<br>　【真犯人】を暴いてみせる！）",
+      "zh": "（无论用什么手段我也要揭穿她……<br>\n揭穿【真凶】的谎言！）",
+      "vi": "(Tôi sẽ vạch mặt cô ta bằng mọi cách... Vạch trần lời dối trá của [kẻ sát nhân thực sự]! )",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Choice001",
+      "speaker_tag": "; > @choice |#0203Trial12_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "証明出来る",
+      "zh": "有办法证明",
+      "vi": "Có cách chứng minh",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Choice002",
+      "speaker_tag": "; > @choice |#0203Trial12_Choice002| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "血糊はノアにしか用意できない",
+      "zh": "只有诺亚能准备血浆",
+      "vi": "Chỉ có Nô-ê mới có thể điều chế được huyết tương",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Choice003",
+      "speaker_tag": "; > @choice |#0203Trial12_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "雨が降る可能性は低い",
+      "zh": "下雨的可能性很低",
+      "vi": "Khả năng mưa thấp",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Choice004",
+      "speaker_tag": "; > @choice |#0203Trial12_Choice004| button:ChoiceButtons/Trial/Perjury handler:TrialHiro",
+      "ja": "レイアは殺せないと証明する",
+      "zh": "证明蕾雅不可能杀人",
+      "vi": "Chứng minh rằng Leya không thể giết ai",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro012",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro012|",
+      "ja": "いいや、証明出来ることはある。",
+      "zh": "不，可以证明。",
+      "vi": "Không, nó có thể được chứng minh.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah014",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah014|",
+      "ja": "……ふーん、どうやって？",
+      "zh": "……哦～，要怎样证明呢？",
+      "vi": "...Ồ~, làm thế nào để chứng minh điều đó?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro013",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro013|",
+      "ja": "いくら水で流したといっても、<br>どうしても残ってしまう痕跡はあるはずだ。",
+      "zh": "就算用水冲刷多少次，<br>\n总会有无法抹去的痕迹残留。",
+      "vi": "Cho dù bạn có rửa nó bằng nước bao nhiêu lần đi chăng nữa, Sẽ luôn có những dấu vết không thể xóa được.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro014",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro014|",
+      "ja": "例えば、髪の毛とか……<br>服の繊維とかね。",
+      "zh": "例如头发……<br>\n或者衣服纤维之类的。",
+      "vi": "Ví dụ: tóc... Hoặc sợi quần áo hoặc những thứ tương tự.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah015",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah015|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah016",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah016|",
+      "ja": "それで、その【証拠】ってどこにあるのかな？",
+      "zh": "然后呢，你说的这些【证据】在哪里啊？",
+      "vi": "Vậy thì những [bằng chứng] mà bạn đề cập ở đâu?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro015",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro015|",
+      "ja": "っ……！<br>それは……。",
+      "zh": "……唔！<br>\n这……！",
+      "vi": "...Hừm! Cái này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Sherry001",
+      "speaker_tag": "; > Sherry: |#0203Trial12_Sherry001|",
+      "ja": "……事件後、あの中庭には<br>みなさん入っているはずです。",
+      "zh": "……案发后在场的各位应该都<br>\n进入过中庭。",
+      "vi": "...Mọi người có mặt sau sự việc đều phải Đã vào tâm nhĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Sherry002",
+      "speaker_tag": "; > Sherry: |#0203Trial12_Sherry002|",
+      "ja": "痕跡だけで言うなら、<br>ノアさんに限らず誰かの痕跡が残っていても<br>特段おかしくはないかもしれませんね。",
+      "zh": "如果单论痕迹的话，<br>\n在现场找到诺亚或者谁的痕迹应该不是<br>\n什么特别值得起疑的事情吧。",
+      "vi": "Nếu chúng ta chỉ nói về dấu vết, Việc tìm ra dấu vết của Noah hay người khác tại hiện trường là điều không nên Có điều gì đó đặc biệt đáng ngờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah017",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah017|",
+      "ja": "……ね？ ヒロちゃん。",
+      "zh": "……怎样，希罗？",
+      "vi": "... Thế nào, Anh hùng?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah018",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah018|",
+      "ja": "やっぱり証明なんて……できないんだよ。",
+      "zh": "果然还是……无法证明哦。",
+      "vi": "Chắc chắn rồi... điều đó không thể được chứng minh.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro016",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro016|",
+      "ja": "（証拠がない以上、追い詰めることはできないか）",
+      "zh": "（只要没有证据，就无法让她屈服吗）",
+      "vi": "(Miễn là không có bằng chứng thì cô ấy không thể đầu hàng được sao?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro017",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro017|",
+      "ja": "（嘘でもなんでも、<br>　ノアを追いつめなくてはいけないが……）",
+      "zh": "（不管是说谎还是用其他什么办法，<br>\n我也要把诺亚逼到无路可退才行……）",
+      "vi": "(Cho dù đó là nói dối hay phương pháp nào khác, Mình cũng muốn đẩy Noah đến mức không thể quay lại...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro018",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro018|",
+      "ja": "（半端な嘘では見破られてしまう）",
+      "zh": "（但不够彻底的谎言只会被她戳破）",
+      "vi": "(Nhưng những lời nói dối không đủ kỹ lưỡng sẽ chỉ có cô ấy bị vạch trần)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro019",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro019|",
+      "ja": "（何か使えるものはなかっただろうか）",
+      "zh": "（有没有什么可以利用的东西呢）",
+      "vi": "(Tôi có thể sử dụng thứ gì không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro020",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro020|",
+      "ja": "（……もう一度情報を見直してみよう）",
+      "zh": "（……再次仔细审视一下手上的信息吧）",
+      "vi": "(...Kiểm tra lại thông tin hiện có một cách cẩn thận)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro021",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro021|",
+      "ja": "雨が偶然降ったなんて、<br>そんな可能性は限りなく低い。",
+      "zh": "现场碰巧下了雨，<br>\n这个可能性无限接近于零。",
+      "vi": "Hiện trường xảy ra mưa, Khả năng này là vô cùng gần bằng không.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro022",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro022|",
+      "ja": "なぜなら、空には雲ひとつなかった……。",
+      "zh": "要说理由的话，当时天上一片云都没有……",
+      "vi": "Nếu muốn nói về lý do thì lúc đó trên trời không có lấy một đám mây...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro023",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro023|",
+      "ja": "そうだろう？ ミリア。",
+      "zh": "米莉亚，对吗？",
+      "vi": "Miria phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Miria001",
+      "speaker_tag": "; > Miria: |#0203Trial12_Miria001|",
+      "ja": "……あ、ああ、うん！ それは間違いないよ！",
+      "zh": "……啊、啊啊，嗯！这一点绝对没错！",
+      "vi": "...À, à, à! Điều này hoàn toàn đúng!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Miria002",
+      "speaker_tag": "; > Miria: |#0203Trial12_Miria002|",
+      "ja": "星空が綺麗な、雲ひとつない夜空だったよ。",
+      "zh": "那时天上没有一片云，星星都看得很清楚，很漂亮哦。",
+      "vi": "Lúc đó trên bầu trời không có lấy một đám mây, các ngôi sao hiện rõ và rất đẹp.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro024",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro024|",
+      "ja": "……ということだ。",
+      "zh": "……就是这么一回事。",
+      "vi": "...chỉ vậy thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro025",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro025|",
+      "ja": "なら、雨は人為的に降らせたと考える方が<br>自然じゃないかな。",
+      "zh": "既然是这样，<br>\n那就自然会认为那场雨是有人故意为之。",
+      "vi": "Trong trường hợp này, Khi đó sẽ là điều tự nhiên khi cho rằng mưa là do cố ý gây ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah019",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah019|",
+      "ja": "うーん……。",
+      "zh": "唔……",
+      "vi": "Ừm...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah020",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah020|",
+      "ja": "でも【絶対降らない】とは言い切れないよね？",
+      "zh": "可是没有人能断言【绝对不是自然降雨】吧？",
+      "vi": "Nhưng không ai có thể nói rằng đó chắc chắn không phải là lượng mưa tự nhiên phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah021",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah021|",
+      "ja": "どんな天気だって、<br>突然雨が降ってくることはあると思うなー？",
+      "zh": "不管是什么样的天气也会有突然下雨的时候，<br>\n这不是很正常嘛？",
+      "vi": "Dù thời tiết thế nào cũng sẽ mưa bất chợt, Điều này không bình thường sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah022",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah022|",
+      "ja": "【天気雨】とか言うぐらいだしさ。",
+      "zh": "这种雨还有个说法叫【晴天雨】。",
+      "vi": "Người ta còn có câu nói về loại mưa này là “Mưa nắng”.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hanna001",
+      "speaker_tag": "; > Hanna: |#0203Trial12_Hanna001|",
+      "ja": "それはわたくしもノアさんの意見に賛成ですわ！",
+      "zh": "我也赞同诺亚说的！",
+      "vi": "Bổn tiểu thư cũng đồng ý với những gì Nô nói!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hanna002",
+      "speaker_tag": "; > Hanna: |#0203Trial12_Hanna002|",
+      "ja": "雨が降らないという天気予報を信じて、<br>今まで何度洗濯物を台無しにしてしまったか……。",
+      "zh": "曾经有好几次我相信了天气预报说不会下雨，<br>\n结果洗好晾到外面的衣服全都给糟蹋了……",
+      "vi": "Đã có lúc Bổn tiểu thư tin vào dự báo thời tiết rằng trời sẽ không mưa, Kết quả là toàn bộ quần áo giặt và treo bên ngoài đều bị hủy hoại...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hanna003",
+      "speaker_tag": "; > Hanna: |#0203Trial12_Hanna003|",
+      "ja": "雨が偶然降ることはあると思いますわー！",
+      "zh": "碰巧下雨这种情况是有可能发生的！",
+      "vi": "Nó có thể xảy ra nếu trời mưa!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro026",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro026|",
+      "ja": "（自然現象を根拠にはできないか）",
+      "zh": "（自然现象当不了依据吗）",
+      "vi": "(Các hiện tượng tự nhiên không thể được sử dụng làm cơ sở sao?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro027",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro027|",
+      "ja": "（嘘でもなんでも、<br>　ノアを追いつめなくてはいけないが……）",
+      "zh": "（不管是说谎还是用其他什么办法，<br>\n我也要把诺亚逼到无路可退才行……）",
+      "vi": "(Cho dù đó là nói dối hay phương pháp nào khác, Mình cũng muốn đẩy Noah đến mức không thể quay lại...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro028",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro028|",
+      "ja": "（半端な嘘では見破られてしまう）",
+      "zh": "（但不够彻底的谎言只会被她戳破）",
+      "vi": "(Nhưng những lời nói dối không đủ kỹ lưỡng sẽ chỉ có cô ấy bị vạch trần)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro029",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro029|",
+      "ja": "（何か使えるものはなかっただろうか）",
+      "zh": "（有没有什么可以利用的东西呢）",
+      "vi": "(Tôi có thể sử dụng thứ gì không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro030",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro030|",
+      "ja": "（もう一度情報を見直してみよう）",
+      "zh": "（再次仔细审视一下手上的信息吧）",
+      "vi": "(Kiểm tra lại thông tin trong tay)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro031",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro031|",
+      "ja": "……いいや、レイアは中庭には近付いていないよ。<br>少なくとも、アンアンの死亡推定時刻の間はね。",
+      "zh": "……不，蕾雅没有接近过中庭。<br>\n最起码在安安的推定死亡时间之内是这样。",
+      "vi": "...Không, Leia chưa đến gần tâm nhĩ. Ít nhất là trong thời điểm AnAn được cho là đã chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro032",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro032|",
+      "ja": "それは私が保証する。",
+      "zh": "这一点我可以保证。",
+      "vi": "Tôi có thể đảm bảo điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah023",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah023|",
+      "ja": "……ふうん。",
+      "zh": "……唔。",
+      "vi": "...Hừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah024",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah024|",
+      "ja": "でもそれも、嘘なんじゃないかなー？",
+      "zh": "可是保证也是骗人的吧？",
+      "vi": "Nhưng lời đảm bảo cũng là lời nói dối phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah025",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah025|",
+      "ja": "ヒロちゃんがレイアちゃんを庇ってるだけ……。",
+      "zh": "希罗只是在包庇蕾雅而已……",
+      "vi": "Hiro chỉ đang bảo vệ Leia...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah026",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah026|",
+      "ja": "違うかな？",
+      "zh": "没说错吧？",
+      "vi": "Đúng vậy không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro033",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro033|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah027",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah027|",
+      "ja": "そもそも死亡推定時刻を調べたのってレイアちゃんだよね？",
+      "zh": "说到底，调查推定死亡时间的人就是蕾雅哦？",
+      "vi": "Rốt cuộc, người điều tra thời điểm tử vong được cho là Lea phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah028",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah028|",
+      "ja": "ならレイアちゃんがアンアンちゃんの死んだ時間を<br>偽装した可能性だってあるよ。",
+      "zh": "那蕾雅就有可能<br>\n谎报安安的死亡时间了。",
+      "vi": "Vậy thì Leya có thể Nói dối về thời điểm AnAn qua đời.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah029",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah029|",
+      "ja": "レイアちゃんとヒロちゃんは本当に会ってるのかな？",
+      "zh": "蕾雅跟希罗那时候真的见面了吗？",
+      "vi": "Leia và Hiro có thực sự gặp nhau vào thời điểm đó không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah030",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah030|",
+      "ja": "レイアちゃんの口からも聞きたいな？",
+      "zh": "蕾雅也来说明一下嘛？",
+      "vi": "Leya cũng muốn giải thích?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Leia002",
+      "speaker_tag": "; > Leia: |#0203Trial12_Leia002|",
+      "ja": "……いや。",
+      "zh": "……不。",
+      "vi": "...không.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Leia003",
+      "speaker_tag": "; > Leia: |#0203Trial12_Leia003|",
+      "ja": "ヒロくんが見ていたかどうかはわからないが、<br>私は見ていない。",
+      "zh": "希罗有没有看到我，这我不清楚，<br>\n但我没有看到她。",
+      "vi": "Tôi không biết Hiro có nhìn thấy tôi không, Nhưng tôi không nhìn thấy cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Leia004",
+      "speaker_tag": "; > Leia: |#0203Trial12_Leia004|",
+      "ja": "だから私から証言できることは何もない。",
+      "zh": "所以我无法就这一点给出任何证词。",
+      "vi": "Vì vậy, tôi không thể đưa ra bất kỳ lời khai nào về điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Leia005",
+      "speaker_tag": "; > Leia: |#0203Trial12_Leia005|",
+      "ja": "……逆に言えば、私にアリバイがあるとも言えない。",
+      "zh": "……反过来说，也无法确定我有不在场证明。",
+      "vi": "...Mặt khác, không có cách nào chắc chắn rằng tôi có bằng chứng ngoại phạm.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah031",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah031|",
+      "ja": "ふーん……。",
+      "zh": "唔……",
+      "vi": "Ừm...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah032",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah032|",
+      "ja": "レイアちゃんは、すごい役者さんだね。",
+      "zh": "蕾雅真是一名优秀的演员啊。",
+      "vi": "Leia quả là một nữ diễn viên xuất sắc.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah033",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah033|",
+      "ja": "でもやっぱりヒロちゃんの言う事には信憑性がないんじゃないかな？",
+      "zh": "不过说到底，希罗说的话还是不太可信吧？",
+      "vi": "Nhưng suy cho cùng thì những gì Hiro nói vẫn không đáng tin lắm phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah034",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah034|",
+      "ja": "証拠も何もない……<br>意味がない話だと思うなー？",
+      "zh": "也没有任何证据……<br>\n感觉根本没意义呢？",
+      "vi": "Không có bằng chứng... Không phải là nó cảm thấy nó chẳng có ý nghĩa gì cả sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro034",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro034|",
+      "ja": "（く……！ この嘘ではノアを攻めることはできないか）",
+      "zh": "（唔……！靠这个谎言发起的攻击无法对诺亚造成伤害吗）",
+      "vi": "(Hmm...! Cuộc tấn công dựa trên lời nói dối này không thể gây hại cho Noah sao?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro035",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro035|",
+      "ja": "（嘘でもなんでも、<br>　ノアを追いつめなくてはいけないが……）",
+      "zh": "（不管是说谎还是用其他什么办法，<br>\n我也要把诺亚逼到无路可退才行……）",
+      "vi": "(Cho dù đó là nói dối hay phương pháp nào khác, Mình cũng muốn đẩy Noah đến mức không thể quay lại...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro036",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro036|",
+      "ja": "（半端な嘘では見破られてしまう）",
+      "zh": "（但不够彻底的谎言只会被她戳破）",
+      "vi": "(Nhưng những lời nói dối không đủ kỹ lưỡng sẽ chỉ có cô ấy bị vạch trần)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro037",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro037|",
+      "ja": "（何か使えるものはなかっただろうか）",
+      "zh": "（有没有什么可以利用的东西呢）",
+      "vi": "(Tôi có thể sử dụng thứ gì không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro038",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro038|",
+      "ja": "（もう一度情報を見直してみよう）",
+      "zh": "（再次仔细审视一下手上的信息吧）",
+      "vi": "(Kiểm tra lại thông tin trong tay)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro039",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro039|",
+      "ja": "……いいや。<br>あの血は、ノアにしか用意できないんだ。",
+      "zh": "……不。<br>\n能提前准备好那些血浆的人，就只有诺亚你。",
+      "vi": "...không. Người duy nhất có thể chuẩn bị trước huyết tương đó là bạn, Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah035",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah035|",
+      "ja": "のあにしか……？",
+      "zh": "只有诺亚……？",
+      "vi": "Chỉ có Nô-ê...?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro040",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro040|",
+      "ja": "そうだよ。",
+      "zh": "没错。",
+      "vi": "Đúng vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro041",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro041|",
+      "ja": "誰か、２階のノアのアトリエは調べていたかな？",
+      "zh": "有人调查过二楼诺亚的画室吗？",
+      "vi": "Có ai đã điều tra studio của Noah trên tầng hai chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro042",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro042|",
+      "ja": "ノアのアトリエには元々ペンキが置かれていた……。",
+      "zh": "诺亚的画室里本来就放了油漆……",
+      "vi": "Đã có sơn trong xưởng của Noah rồi...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro043",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro043|",
+      "ja": "――その中で、<br>事件前に赤いペンキだけが大きく減っていたのを見ているよ。",
+      "zh": "——在发生案件之前，<br>\n我发现那堆油漆里唯独红色的少了很多。",
+      "vi": "---Trước khi vụ việc xảy ra, Tôi nhận thấy rằng lớp sơn màu đỏ là thứ duy nhất bị thiếu rất nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Ema002",
+      "speaker_tag": "; > Ema: |#0203Trial12_Ema002|",
+      "ja": "………！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro044",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro044|",
+      "ja": "これは犯行にそのペンキが使われたということを<br>示している。",
+      "zh": "这就表明有人在作案时<br>\n使用了这些消失了的油漆。",
+      "vi": "Điều này cho thấy ai đó đã phạm tội Đã sử dụng những loại sơn này đã biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro045",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro045|",
+      "ja": "（……事件のあと、<br>　エマが倒してしまったペンキだ）",
+      "zh": "（……那是案件发生以后，<br>\n艾玛弄洒了的油漆）",
+      "vi": "(...Đó là sau khi vụ án xảy ra, Sơn bị đổ của Ema)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro046",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro046|",
+      "ja": "（しかしそれはすでに掃除してしまった。<br>　よって私たちしか知らない情報だ）",
+      "zh": "（不过艾玛早就把油漆清理干净了。<br>\n所以这是只有我跟她才知道的信息）",
+      "vi": "(Nhưng Ema đã lau sạch sơn rồi. Vậy ra đây là thông tin mà chỉ tôi và cô ấy biết)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro047",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro047|",
+      "ja": "アトリエにあったペンキ……<br>あれを管理していたのはノアだった。",
+      "zh": "放置在画室里的油漆……<br>\n一直都是诺亚在管理。",
+      "vi": "Sơn được đặt trong studio... Nô-ê luôn là người chịu trách nhiệm.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Miria003",
+      "speaker_tag": "; > Miria: |#0203Trial12_Miria003|",
+      "ja": "た、たしかに……！",
+      "zh": "确、确实是这样……！",
+      "vi": "Quả thực là như vậy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Miria004",
+      "speaker_tag": "; > Miria: |#0203Trial12_Miria004|",
+      "ja": "アトリエにあったペンキの中で、<br>赤いペンキだけが減ってたのは<br>確認してるよ……！",
+      "zh": "堆放在画室里的油漆<br>\n唯独红色的少了，<br>\n这一点大叔我也确认过哦……！",
+      "vi": "Sơn xếp chồng lên nhau trong studio Chỉ còn thiếu cái màu đỏ, Bác ơi, cháu đã xác nhận điều này rồi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro048",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro048|",
+      "ja": "しかしアトリエには<br>そんなに大量に赤色を使ったような絵が<br>あったわけでもない……。",
+      "zh": "可我并没有<br>\n在画室里看到需要大量使用<br>\n红色油漆的画作……",
+      "vi": "Nhưng tôi không có Được thấy trong studio yêu cầu sử dụng nhiều Những bức tranh sơn màu đỏ…",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro049",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro049|",
+      "ja": "いったい何に使ったんだい？<br>ノア。",
+      "zh": "你到底用它做了什么？<br>\n诺亚。",
+      "vi": "Chính xác thì bạn đã làm gì với nó? Nô-ê.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah036",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah036|",
+      "ja": "……そんな風に戦うんだ。",
+      "zh": "……你是用这种方式来战斗的啊。",
+      "vi": "...Đây là cách bạn chiến đấu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro050",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro050|",
+      "ja": "悪いが……手加減する気はないからね。",
+      "zh": "抱歉……我并没有打算对你手下留情。",
+      "vi": "Xin lỗi... tôi không có ý dễ dãi với bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro051",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro051|",
+      "ja": "アンアンのためにも、<br>私は真犯人を捕まえることを<br>ためらわない。",
+      "zh": "这也是为了安安。<br>\n只要能找出真凶，<br>\n我不会有一丝犹豫。",
+      "vi": "Đây cũng là vì AnAn. Chỉ cần tìm ra được kẻ sát nhân thực sự, Tôi sẽ không ngần ngại một giây phút nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah037",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah037|",
+      "ja": "……うん、わかった！",
+      "zh": "……嗯，诺亚知道了！",
+      "vi": "...Chà, Nô-ê biết!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah038",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah038|",
+      "ja": "じゃあ……のあも頑張るね？",
+      "zh": "那……诺亚也会努力哦？",
+      "vi": "Vậy thì... Noah cũng sẽ làm việc chăm chỉ phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro052",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro052|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah039",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah039|",
+      "ja": "まずね、アトリエにあったペンキは水性ペンキなんだ。",
+      "zh": "首先呢，画室里的油漆是水性油漆。",
+      "vi": "Trước hết sơn trong studio là sơn gốc nước.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah040",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah040|",
+      "ja": "だから現場では使われてないよ？<br>乾く前に濡れたら固まらないし、<br>そのまま流されちゃってるはずだしね。",
+      "zh": "所以案发现场的不是画室里的油漆哦？<br>\n水性油漆如果在干透前湿水，就无法定型，<br>\n正常会直接被水冲走。",
+      "vi": "Vậy màu sơn ở hiện trường vụ án không phải là màu sơn trong Xưởng Vẽ? Nếu sơn gốc nước bị ướt trước khi khô thì sẽ không thể đông kết được, Thông thường nó sẽ bị nước cuốn trôi trực tiếp.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah041",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah041|",
+      "ja": "そんなこと調べればすぐにわかるのに……<br>でもヒロちゃんは<br>のあのこと犯人だって言うんだ？",
+      "zh": "这种事只要调查一下马上就能知道……<br>\n可就算是这样，<br>\n希罗也要说诺亚是凶手吗？",
+      "vi": "Chuyện này có thể biết ngay nếu bạn điều tra... Nhưng dù vậy, Phải chăng Anh hùng cũng muốn nói rằng Noah là kẻ giết người?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro053",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro053|",
+      "ja": "……くっ……！",
+      "zh": "……唔……！",
+      "vi": "...Ừm...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah042",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah042|",
+      "ja": "……でものあにはわかるよ、<br>その理由。",
+      "zh": "……不过其实诺亚知道哦，<br>\n知道希罗会这样做的理由。",
+      "vi": "...Nhưng thực ra Noah biết, Noah biết lý do tại sao Hiro lại làm điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah043",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah043|",
+      "ja": "ヒロちゃん、<br>アンアンちゃんを突き落とした犯人なんだもんね……。",
+      "zh": "谁叫希罗就是<br>\n把安安推下阳台的凶手嘛……",
+      "vi": "Ai gọi Anh hùng là Kẻ sát nhân đẩy AnAn ra khỏi ban công...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro054",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro054|",
+      "ja": "……なんだって？",
+      "zh": "……你说什么？",
+      "vi": "...Anh vừa nói gì cơ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah044",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah044|",
+      "ja": "のあ、ヒロちゃんがアンアンちゃんを<br>突き落としているところを見たんだ。",
+      "zh": "诺亚看到了<br>\n希罗把安安推下楼的一幕。",
+      "vi": "Nô-ê đã nhìn thấy Cảnh Hiro đẩy AnAn xuống tầng dưới.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro055",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro055|",
+      "ja": "……っ！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah045",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah045|",
+      "ja": "アンアンちゃんを殺したのは、ヒロちゃん。",
+      "zh": "杀死安安的人，是希罗。",
+      "vi": "Người giết AnAn chính là Thời Lạc.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah046",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah046|",
+      "ja": "エマちゃんがヒロちゃんを庇っているだけ。",
+      "zh": "艾玛只是在包庇希罗而已。",
+      "vi": "Ema chỉ đang che đậy cho Hiro thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Noah047",
+      "speaker_tag": "; > Noah: |#0203Trial12_Noah047|",
+      "ja": "のあはね……ヒロちゃんが犯人だって告発するよ。",
+      "zh": "诺亚要指控希罗……希罗就是杀人凶手。",
+      "vi": "Nô-ê muốn buộc tội Anh hùng... Anh hùng đó là kẻ giết người.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro056",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro056|",
+      "ja": "（ノアめ……。<br>　正面から私と戦いに来たか）",
+      "zh": "（可恶的诺亚……<br>\n竟然跟我正面交锋）",
+      "vi": "(Chết tiệt Noah... Anh ấy thực sự đã đối đầu trực diện với tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro057",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro057|",
+      "ja": "……いいだろう。",
+      "zh": "……好啊。",
+      "vi": "...Được rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Trial12_Hiro058",
+      "speaker_tag": "; > Hiro: |#0203Trial12_Hiro058|",
+      "ja": "その告発……<br>正々堂々、叩き返してやる。",
+      "zh": "……我会堂堂正正地把你的指控<br>\n回敬给你。",
+      "vi": "...Tôi sẽ giải quyết những cáo buộc của bạn Trả lại cho bạn.",
+      "objection_links": []
+    }
+  ]
+}

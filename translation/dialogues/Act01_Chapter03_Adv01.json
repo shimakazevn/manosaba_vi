@@ -1,0 +1,912 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter03_Adv01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter03/Act01_Chapter03_Adv01' Naninovel scenario script",
+  "total_entries": 113,
+  "entries": [
+    {
+      "id": "Toast_103",
+      "speaker_tag": "; > @toast |#Toast_103|",
+      "ja": "第３話",
+      "zh": "第３章",
+      "vi": "Chương 3",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative001",
+      "speaker_tag": "",
+      "ja": "――裁判の翌日。",
+      "zh": "——审判结束的第二天。",
+      "vi": "――Ngày hôm sau phiên tòa ma nữ thứ hai.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative002",
+      "speaker_tag": "",
+      "ja": "エマは朝食後の自由時間にて、<br>少女たちをラウンジに集合させていた。",
+      "zh": "艾玛在早餐后的放风时间里，<br>\n将少女们召集到了会客厅。",
+      "vi": "Trong giờ tự do sau bữa ăn sáng, Ema lại tập hợp các thiếu nữ tại Phòng Chờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative003",
+      "speaker_tag": "",
+      "ja": "生き残っているメンバーは、<br>エマ、シェリー、ハンナ、メルル、マーゴ、ココ、アリサ。",
+      "zh": "存活的成员还剩：<br>\n艾玛、雪莉、汉娜、梅露露、玛格、可可、亚里沙。",
+      "vi": "Những người còn sống sót chỉ còn lại 7 người: Ema, Sherry, Hanna, Meruru, Margo, Coco và Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative004",
+      "speaker_tag": "",
+      "ja": "行方不明になっているナノカを合わせても、８人。",
+      "zh": "再加上失踪的奈叶香，一共八人。",
+      "vi": "Nếu tính cả Nanoka đang mất tích bí ẩn thì tổng cộng có 8 người.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema001",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema001|",
+      "ja": "（ここに捕まってまだ１か月にも満たないのに……。<br>　どんどん人が減っていく……）",
+      "zh": "（被囚禁在这里还不到一个月……<br>\n人数却在不断减少……）",
+      "vi": "Mọi người…… chúng ta không thể tiếp tục nghi kỵ lẫn nhau thế này mãi được.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Hanna001",
+      "speaker_tag": "; > Hanna: |#0103Adv01_Hanna001|",
+      "ja": "エマさん、なんのお話ですの？",
+      "zh": "艾玛，你有什么事要说呢？",
+      "vi": "Hừ, bổn tiểu thư mà cần đứa nhóc tì như ngươi bảo vệ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema002",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema002|",
+      "ja": "ああ、うん。<br>脱獄に関して話し合いたくて。実はね……。",
+      "zh": "啊，嗯。<br>\n我想讨论一下越狱的事。其实呢……",
+      "vi": "À, à. Tôi muốn thảo luận về việc bẻ khóa. Thực ra...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative005",
+      "speaker_tag": "",
+      "ja": "エマは昨夜娯楽室のキャビネットで見つけた<br>古い牢屋敷の設計図を、ポケットから取り出そうとした。",
+      "zh": "艾玛正要从口袋里取出，昨晚在娱乐室的收纳柜里发现的<br>\n老旧的监牢设计图。",
+      "vi": "Ema đang định lấy nó ra khỏi túi thì tối qua cô tìm thấy trong tủ đựng đồ ở Phòng Giải Trí. Kế hoạch Ngục Dinh Thự cũ",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Coco001",
+      "speaker_tag": "; > Coco: |#0103Adv01_Coco001|",
+      "ja": "はぁん、エマっち懲りないね～。<br>脱獄脱獄～！ って騒ぎ立てたせいで殺されかけたのに。",
+      "zh": "哈～艾玛亲还是不长记性呢～<br>\n整天在吵什么“越狱越狱～！”，差点把命都搭进去了。",
+      "vi": "Ha~ Ema thân mến, bạn vẫn chưa có trí nhớ lâu đâu~ Coco cứ tranh cãi về \"jailbreak và jailbreak~!\" suốt ngày và suýt mất mạng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Coco002",
+      "speaker_tag": "; > Coco: |#0103Adv01_Coco002|",
+      "ja": "それで集合させたんならあてぃしはパス！<br>仲良く脱獄話なんてしたくねーから。",
+      "zh": "如果是为了这事才叫大家来，我可要退出了！<br>\n什么手牵手齐越狱的话题，我是一点兴趣都没有。",
+      "vi": "Nếu đây là lý do để gọi mọi người đến đây thì Coco sẽ nghỉ việc! Coco không có hứng thú với chủ đề jailbreak tay nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative006",
+      "speaker_tag": "",
+      "ja": "水を差されてしまい、エマの手が止まる。",
+      "zh": "艾玛被泼了冷水，手上的动作也停住了。",
+      "vi": "Ema bị tạt nước lạnh, cử động của tay cô dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema003",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema003|",
+      "ja": "で、でもさ、ココちゃん聞いて……。",
+      "zh": "但、但是可可，你听我说……",
+      "vi": "Nhưng, nhưng Coco, hãy nghe tôi này...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Coco003",
+      "speaker_tag": "; > Coco: |#0103Adv01_Coco003|",
+      "ja": "期待させるだけさせといて、<br>最悪な結果になったばっかじゃん。<br>もう巻き込むなっての。",
+      "zh": "每次都给人无限期待，<br>\n结果却全是一团糟。<br>\n别再把我牵扯进去了。",
+      "vi": "Nó luôn mang đến cho mọi người những kỳ vọng không giới hạn, Kết quả là một mớ hỗn độn. Đừng lôi kéo Coco nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative007",
+      "speaker_tag": "",
+      "ja": "ココは早々に、<br>出入口の方へと歩いていってしまう。",
+      "zh": "可可径直朝出口走去。<br>",
+      "vi": "Coco đi thẳng về phía lối ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema004",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema004|",
+      "ja": "ま、待ってよココちゃん！",
+      "zh": "等、等一下啊，可可！",
+      "vi": "Đợi đã, đợi một chút, Coco!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Coco004",
+      "speaker_tag": "; > Coco: |#0103Adv01_Coco004|",
+      "ja": "わっかんないかなぁ？<br>おめえと一緒に行動するのがヤダッつってんの。",
+      "zh": "你还不明白吗？<br>\n我就是不想和你一起行动。",
+      "vi": "Bạn vẫn chưa hiểu à? Coco chỉ không muốn diễn với bạn thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema005",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema005|",
+      "ja": "……っ",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Coco005",
+      "speaker_tag": "; > Coco: |#0103Adv01_Coco005|",
+      "ja": "あ、ごめんね？ 別にエマっちのことだけじゃないよ。<br>誰ももう信じらんないっつーこと。",
+      "zh": "啊，抱歉啊。这不是只针对你，<br>\n我只是已经不再相信任何人了。",
+      "vi": "À, xin lỗi. Điều này không chỉ dành cho bạn, Coco chỉ không còn tin tưởng bất cứ ai nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Coco006",
+      "speaker_tag": "; > Coco: |#0103Adv01_Coco006|",
+      "ja": "誰がどこで殺意を抱くかわかったもんじゃない。<br>１人でいるのが一番安全じゃん。",
+      "zh": "谁会在什么情况下起杀意都说不准，<br>\n独来独往才是最安全的。",
+      "vi": "Không thể nói ai sẽ có ý định giết người trong hoàn cảnh nào, Ở một mình là an toàn nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema006",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema006|",
+      "ja": "そんなことない、よ……。",
+      "zh": "不会那样的……",
+      "vi": "Sẽ không như vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative008",
+      "speaker_tag": "",
+      "ja": "引き止めるエマの声は、弱弱しい。<br>そのうちに、ココはラウンジを出ていってしまった。",
+      "zh": "艾玛挽留声显得软弱无力。<br>\n这时可可已经离开了会客厅。",
+      "vi": "Giọng Ema có vẻ yếu ớt. Lúc này Coco đã rời khỏi phòng khách.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative009",
+      "speaker_tag": "",
+      "ja": "エマがしゅん、と項垂れていると、<br>マーゴがその前に立つ。",
+      "zh": "当艾玛垂头丧气时，<br>\n玛格站到了她面前。",
+      "vi": "Khi Ema chán nản, Mag đứng trước mặt cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Margo001",
+      "speaker_tag": "; > Margo: |#0103Adv01_Margo001|",
+      "ja": "申し訳ないけれど、私もココちゃんと同意見。<br>これ以上の慣れ合いは避けたほうが良いと思うの。",
+      "zh": "很抱歉，但我也赞同可可的观点。<br>\n我认为最好避免过多的亲近。",
+      "vi": "Xin lỗi, nhưng Chị cũng đồng ý với Coco. Chị nghĩ tốt nhất nên tránh quá thân mật.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema007",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema007|",
+      "ja": "そんな、マーゴちゃんまで……。",
+      "zh": "连玛格也……",
+      "vi": "Kể cả Margo...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Margo002",
+      "speaker_tag": "; > Margo: |#0103Adv01_Margo002|",
+      "ja": "関係を結べば結ぶほど、<br>おかしな確執が生まれて良い結果を生まない。",
+      "zh": "关系越是亲密，就越容易滋生嫌隙，<br>\n不会有好结果的。",
+      "vi": "Mối quan hệ càng thân thiết thì càng dễ nảy sinh oán giận, Sẽ chẳng có điều gì tốt đẹp xảy ra cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Margo003",
+      "speaker_tag": "; > Margo: |#0103Adv01_Margo003|",
+      "ja": "相手に対するほんの少しの違和感が大きく膨れて、<br>殺人衝動へと繋がっていくのなら――。",
+      "zh": "如果对他人的一丝违和感不断发酵，<br>\n最终演变成杀意的话——",
+      "vi": "Nếu cảm giác bất tuân dù nhỏ nhất đối với người khác vẫn tiếp tục sôi sục, Nếu nó trở thành ý định giết người——",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Margo004",
+      "speaker_tag": "; > Margo: |#0103Adv01_Margo004|",
+      "ja": "私たちは一緒にいない方がいいのよ。",
+      "zh": "我们还是保持距离比较好。",
+      "vi": "Tốt hơn là chúng ta nên giữ khoảng cách.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry001",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry001|",
+      "ja": "……それって、全員が単独行動した方が<br>良いということでしょうか？",
+      "zh": "……这是说，<br>\n大家都应该单独行动比较好吗？",
+      "vi": "Đúng rồi đó bạn Ema! Thám tử Sherry nhất định sẽ bảo vệ mọi người!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Margo005",
+      "speaker_tag": "; > Margo: |#0103Adv01_Margo005|",
+      "ja": "そうなるわね。<br>――ねえエマちゃん、いい加減気付いたら？",
+      "zh": "就是这样呢。<br>\n——喂，艾玛，你总该认清事实了吧？",
+      "vi": "Thế thôi. ---Này, Ema, đã đến lúc em nhận ra sự thật rồi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema008",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema008|",
+      "ja": "え、何を……？",
+      "zh": "欸，认清什么……？",
+      "vi": "Này, bạn hiểu gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Margo006",
+      "speaker_tag": "; > Margo: |#0103Adv01_Margo006|",
+      "ja": "私たちに絆なんてないのよ。",
+      "zh": "我们之间根本没有什么感情。",
+      "vi": "Giữa chúng Chị không hề có tình cảm gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema009",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema009|",
+      "ja": "――！",
+      "zh": "——！",
+      "vi": "——！",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Margo007",
+      "speaker_tag": "; > Margo: |#0103Adv01_Margo007|",
+      "ja": "エマちゃんだって、いい加減私のこと<br>信じられなくなっているでしょう？",
+      "zh": "艾玛你也已经开始<br>\n不信任我了吧？",
+      "vi": "Ema, em cũng đã bắt đầu Bạn không tin tưởng Chị à?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Margo008",
+      "speaker_tag": "; > Margo: |#0103Adv01_Margo008|",
+      "ja": "自分に利益がなければ、私は手を差し伸べないわ。<br>ごめんなさいね。",
+      "zh": "如果对我没有好处，我是不会伸出援手的。<br>\n抱歉啦。",
+      "vi": "Chị sẽ không giúp một tay nếu điều đó không có lợi cho Chị. Xin lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative010",
+      "speaker_tag": "",
+      "ja": "優しげな微笑を浮かべているが、<br>マーゴの言葉はどこまでも残酷だった。",
+      "zh": "虽然脸上挂着温柔的微笑，<br>\n但玛格的话语却无比残酷。",
+      "vi": "Mặc dù trên khuôn mặt anh ấy nở nụ cười dịu dàng nhưng Nhưng lời nói của Mag lại vô cùng tàn nhẫn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative011",
+      "speaker_tag": "",
+      "ja": "エマの喉からは、<br>反論ではなく、ただの<ruby=\"うめ\">呻</ruby>きしか漏れない。",
+      "zh": "艾玛的喉咙只能发出含糊的应声，<br>\n说不出任何反驳的话。",
+      "vi": "Cổ họng Ema chỉ có thể phát ra một câu trả lời mơ hồ, Không thể nói gì để phản bác.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema010",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema010|",
+      "ja": "（ボクたちには、絆なんてない……？）",
+      "zh": "（我们之间没有感情……？）",
+      "vi": "(Không có cảm xúc giữa chúng ta...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema011",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema011|",
+      "ja": "（絆なんて、ボクがただ願望で抱いただけの、<br>　幻想だったの、かな……？）",
+      "zh": "（感情，<br>\n只是我一厢情愿的幻想吗……？）",
+      "vi": "(Cảm xúc, Có phải đó chỉ là mơ tưởng của tôi...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Alisa001",
+      "speaker_tag": "; > Alisa: |#0103Adv01_Alisa001|",
+      "ja": "二階堂、城ケ崎、蓮見、佐伯、夏目……<br>５人も犠牲になった。",
+      "zh": "二阶堂、城崎、莲见、佐伯、夏目……<br>\n已经死了五个人了。",
+      "vi": "Nikaido, Kinosaki, Hasumi, Saeki, Natsme... Năm người đã chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Alisa002",
+      "speaker_tag": "; > Alisa: |#0103Adv01_Alisa002|",
+      "ja": "……もう十分、思い知ったろ。",
+      "zh": "……这教训还不够吗。",
+      "vi": "...Bài học này chưa đủ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative012",
+      "speaker_tag": "",
+      "ja": "アリサまでも突き放すように言って。<br>マーゴ、アリサが退室していく。",
+      "zh": "连亚里沙也说出了冷漠的话。<br>\n玛格和亚里沙相继离开了房间。",
+      "vi": "Ngay cả Alisa cũng nói những lời lạnh lùng. Mag và Alisa lần lượt rời khỏi phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative013",
+      "speaker_tag": "",
+      "ja": "その場には、<br>シェリーとハンナ、メルルが残っていた。",
+      "zh": "现场只剩下<br>\n雪莉、汉娜和梅露露。",
+      "vi": "Chỉ còn lại tại hiện trường Sherry, Hanna và Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema012",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema012|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry002",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry002|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Hanna002",
+      "speaker_tag": "; > Hanna: |#0103Adv01_Hanna002|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Meruru001",
+      "speaker_tag": "; > Meruru: |#0103Adv01_Meruru001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative014",
+      "speaker_tag": "",
+      "ja": "誰も、口を開かない。",
+      "zh": "谁都没有开口。",
+      "vi": "Không ai nói chuyện.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema013",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema013|",
+      "ja": "（どうしよう……何か言わなきゃ……。<br>　でも、何を言えばいいのかわからないよ……）",
+      "zh": "（该怎么办……必须说点什么……<br>\n但是，我不知道该说什么好啊……）",
+      "vi": "(Tôi nên làm gì đây...Tôi phải nói điều gì đó... Nhưng tôi không biết phải nói gì...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema014",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema014|",
+      "ja": "（他のみんなも、ココちゃんやマーゴちゃんみたいに<br>　思っているのかもしれない）",
+      "zh": "（其他人可能也和可可、玛格<br>\n想的一样）",
+      "vi": "(Những người khác cũng có thể ở cùng Coco và Mag Hãy suy nghĩ điều tương tự)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema015",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema015|",
+      "ja": "（もう誰のことも信じないで、<br>　ひとりでいるべきだって）",
+      "zh": "（觉得不该相信任何人，<br>\n应该单打独斗……）",
+      "vi": "(Tôi cảm thấy mình không nên tin tưởng bất cứ ai, Bạn nên chiến đấu một mình...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema016",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema016|",
+      "ja": "（ひとりは嫌だ……怖いよ……！）",
+      "zh": "（孤身一人好可怕……好害怕……！）",
+      "vi": "(Ở một mình thật đáng sợ…đáng sợ quá…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative015",
+      "speaker_tag": "",
+      "ja": "――その時。",
+      "zh": "——就在这时。",
+      "vi": "--Tại thời điểm này.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative016",
+      "speaker_tag": "",
+      "ja": "エマの手をそっと握ったのは、<br>シェリーだった。",
+      "zh": "雪莉轻轻握住了艾玛的手。<br>",
+      "vi": "Sherry nhẹ nhàng nắm tay Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry003",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry003|",
+      "ja": "エマさん、やりましょう。",
+      "zh": "艾玛，我们一起来吧！",
+      "vi": "Ema, chúng ta hãy cùng nhau làm điều đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema017",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema017|",
+      "ja": "シェリーちゃん……？ な、何を？",
+      "zh": "雪莉……？做、做什么？",
+      "vi": "Sherry...? Làm, cái gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry004",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry004|",
+      "ja": "仲良しグループをです！",
+      "zh": "组建好朋友小组啊！",
+      "vi": "Thành lập một nhóm bạn tốt!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative017",
+      "speaker_tag": "",
+      "ja": "シェリーは、胸を張って宣言してみせる。",
+      "zh": "雪莉挺起胸膛，满怀热情地宣布道。",
+      "vi": "Sherry ưỡn ngực và nhiệt tình tuyên bố.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry005",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry005|",
+      "ja": "言われっぱなしで悔しいじゃないですかー！<br>私たち、ちゃんと仲良くなってますよね！？",
+      "zh": "被人批判一大通，你不会觉得不甘心吗！<br>\n明明我们都已经成为好朋友了，不是吗！？",
+      "vi": "Bạn không cảm thấy không muốn bị người khác chỉ trích sao? Rõ ràng chúng ta đã trở thành bạn tốt rồi phải không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema018",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema018|",
+      "ja": "う、うん。",
+      "zh": "嗯、嗯。",
+      "vi": "Ừm, ừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry006",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry006|",
+      "ja": "なら見せつけてやりましょう！！<br>私たちは離れたりしません！！ ずっと仲良し！！",
+      "zh": "那就让她们见识见识！！<br>\n我们绝对不会分开！！要永远做好朋友！！",
+      "vi": "Vậy thì hãy cho họ xem nó! ! Chúng ta sẽ không bao giờ tách rời! ! Hãy luôn là những người bạn tốt nhé! !",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative018",
+      "speaker_tag": "",
+      "ja": "笑顔で言ってくるシェリーに、<br>エマはみるみる瞳が潤んでいく。",
+      "zh": "看着笑容满面的雪莉，<br>\n艾玛的眼眶渐渐湿润。",
+      "vi": "Nhìn Sherry với nụ cười trên môi, Đôi mắt Ema dần trở nên ẩm ướt.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema019",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema019|",
+      "ja": "シェリーちゃん……。",
+      "zh": "雪莉……",
+      "vi": "Sherry……",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative019",
+      "speaker_tag": "",
+      "ja": "腰に手を当てているハンナが、<br>大きくため息をついた。",
+      "zh": "汉娜叉着腰，<br>\n深深地叹了口气。",
+      "vi": "Hanna chống tay lên hông, Thở dài thật sâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Hanna003",
+      "speaker_tag": "; > Hanna: |#0103Adv01_Hanna003|",
+      "ja": "まったく……空気読めないヤツはこういう時、<br>ちょっと助かったりしますわね……。",
+      "zh": "真是的……不懂看气氛的人在这种时候，<br>\n反而让人觉得松了一口气呢……",
+      "vi": "Thực sự... những ngươi không biết đọc bầu không khí lúc này, Ngược lại, nó khiến ngươi Bổn tiểu thư cảm thấy nhẹ nhõm...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Hanna004",
+      "speaker_tag": "; > Hanna: |#0103Adv01_Hanna004|",
+      "ja": "恥ずかしげもなく<br>うすら寒いことを言えるんですもの。",
+      "zh": "毕竟能毫不在意地<br>\n说出这么肉麻的话呢。",
+      "vi": "Sau cùng thì Bổn tiểu thư có thể mà không cần quan tâm Thật là một điều kinh tởm để nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry007",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry007|",
+      "ja": "うすら寒いなんてひどいです～！<br>思ったことを言っただけなのに！",
+      "zh": "说肉麻也太过分了～！<br>\n我只是说出了心里话而已！",
+      "vi": "Nói là ghê tởm thì quá đáng~! Tôi chỉ nói lên suy nghĩ của mình thôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Hanna005",
+      "speaker_tag": "; > Hanna: |#0103Adv01_Hanna005|",
+      "ja": "わ、わたくしあなたのこと、<br>褒めてますのよ……！？",
+      "zh": "我、<br>\n我可是在夸你啊……！？",
+      "vi": "Bổn tiểu thư, Bổn tiểu thư đang khen ngợi bạn...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry008",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry008|",
+      "ja": "褒められてる気がしません！",
+      "zh": "完全感觉不到是在夸我！",
+      "vi": "Có vẻ như bạn không hề khen ngợi tôi chút nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry009",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry009|",
+      "ja": "褒め言葉ならシェリーちゃん可愛い大好き、<br>えらいねすごいね天才とか言ってください！",
+      "zh": "要夸人就该说“雪莉好可爱最喜欢了”，<br>\n“真了不起真厉害简直天才”之类的！",
+      "vi": "Muốn khen ai thì nên nói \"Sulli dễ thương quá, tôi thích nhất\", \"Thật tuyệt vời, thật tuyệt vời, thật là thiên tài\" và những thứ tương tự!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Hanna006",
+      "speaker_tag": "; > Hanna: |#0103Adv01_Hanna006|",
+      "ja": "誰が言うか！！",
+      "zh": "谁会说那种话啊！！",
+      "vi": "Ai sẽ nói điều đó? !",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative020",
+      "speaker_tag": "",
+      "ja": "メルルが<ruby=\"くちげんか\">口喧嘩</ruby>をはじめた２人に対し、<br>はらはらしている。",
+      "zh": "梅露露看着开始争吵的两人，<br>\n一脸担忧。",
+      "vi": "Meruru nhìn hai người bắt đầu tranh luận, Vẻ mặt lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Meruru002",
+      "speaker_tag": "; > Meruru: |#0103Adv01_Meruru002|",
+      "ja": "な、仲良しなのを見せつけるって言ったじゃないですか……<br>け、喧嘩は良くないです……。",
+      "zh": "那、那个，不是说要展示我们关系好吗……<br>\n吵、吵架是不好的……",
+      "vi": "Ừm, bạn không muốn thể hiện mối quan hệ của chúng ta sao? Thật không tốt khi tranh cãi hay cãi vã…",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative021",
+      "speaker_tag": "",
+      "ja": "メルルのか細い声は、<br>言い合うシェリーとハンナには届いていないようだ。",
+      "zh": "梅露露细弱的声音<br>\n似乎没有传到正在争执的两人耳中。",
+      "vi": "Giọng nói mỏng manh của Meruru Dường như lời nói đó không lọt vào tai hai người đang tranh cãi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema020",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema020|",
+      "ja": "メルルちゃん、あの２人はあれで仲良いんだと思う。<br>きっとストレス発散にもなってるんじゃないかな。",
+      "zh": "梅露露，她们两个这样反而说明关系很好哦。<br>\n说不定还能借此发泄压力呢。",
+      "vi": "Meruru, điều này cho thấy hai người họ có mối quan hệ tốt. Có lẽ bạn có thể sử dụng điều này để xả stress.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Meruru003",
+      "speaker_tag": "; > Meruru: |#0103Adv01_Meruru003|",
+      "ja": "そ、そうなんでしょうか……。",
+      "zh": "是、是这样吗……",
+      "vi": "Vâng, có phải vậy không...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema021",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema021|",
+      "ja": "（ストレス発散……）",
+      "zh": "（发泄压力……）",
+      "vi": "(Xả stress...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative022",
+      "speaker_tag": "",
+      "ja": "騒ぐ２人を見ていて、エマはハッと顔を上げる。",
+      "zh": "看着吵闹的两人，艾玛突然抬起头。",
+      "vi": "Nhìn hai người ồn ào, Ema đột nhiên ngẩng đầu lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema022",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema022|",
+      "ja": "ね、ねえみんな聞いて！",
+      "zh": "那、那个，大家听我说！",
+      "vi": "Được rồi, nghe tôi nói này!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative023",
+      "speaker_tag": "",
+      "ja": "ようやくシェリー、ハンナも<ruby=\"くちげんか\">口喧嘩</ruby>を止め、<br>エマの方を見る。",
+      "zh": "雪莉和汉娜终于停止了争吵，<br>\n看向艾玛。",
+      "vi": "Sherry và Hanna cuối cùng đã ngừng tranh cãi, Hãy nhìn Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema023",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema023|",
+      "ja": "やっぱりひとりで行動するのが正しいとは思えないんだ。<br>誰かと一緒にいる方が、絶対楽しい。",
+      "zh": "我还是觉得独自行动不是正确的选择。<br>\n和别人在一起才会更开心。",
+      "vi": "Tôi vẫn cảm thấy đi một mình không phải là lựa chọn đúng đắn. Bạn sẽ hạnh phúc hơn khi ở bên người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema024",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema024|",
+      "ja": "ひとりで思い悩んでたらストレスだって溜まる。<br>それって良くないよね。",
+      "zh": "一个人胡思乱想的话压力会越来越大，<br>\n这样其实不好。",
+      "vi": "Nếu một người suy nghĩ lung tung, áp lực sẽ tăng lên, Điều này thực sự không tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Hanna007",
+      "speaker_tag": "; > Hanna: |#0103Adv01_Hanna007|",
+      "ja": "そうですわね。<br>ストレスが強まれば、魔女になってしまいますもの。",
+      "zh": "说得对。<br>\n压力太大的话，可是会变成魔女的。",
+      "vi": "Đúng vậy. Nếu bạn chịu quá nhiều áp lực, bạn sẽ biến thành phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema025",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema025|",
+      "ja": "うん。だから、楽しいことをもっとしようよ。",
+      "zh": "嗯。所以，让我们多做些开心的事吧。",
+      "vi": "Ừm. Vì vậy, hãy làm nhiều điều hạnh phúc hơn nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Meruru004",
+      "speaker_tag": "; > Meruru: |#0103Adv01_Meruru004|",
+      "ja": "楽しいこと、ですか……？",
+      "zh": "开心的事，是指……？",
+      "vi": "Những điều hạnh phúc có nghĩa là...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema026",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema026|",
+      "ja": "この牢屋敷がボクらを魔女にしようってつもりなら、<br>それに従ってなんかやらない。",
+      "zh": "如果这座监牢想让我们变成魔女，<br>\n那我们就不能如它所愿。",
+      "vi": "Nếu Ngục Dinh Thự này muốn biến chúng ta thành phù thủy, Thế thì chúng ta không thể làm được điều nó muốn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema027",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema027|",
+      "ja": "もちろん、脱獄は計画したいけど……<br>息抜きだって必要だよね。",
+      "zh": "虽然我还是想计划越狱……<br>\n但是适当放松也很重要。",
+      "vi": "Mặc dù tôi vẫn muốn lên kế hoạch jailbreak... Nhưng điều quan trọng là phải thư giãn một cách thích hợp.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema028",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema028|",
+      "ja": "みんなで思いっきり、ぱーっと遊ぼうよ！",
+      "zh": "大家一起尽情玩乐吧！",
+      "vi": "Tất cả chúng ta hãy cùng nhau vui vẻ nhé!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry010",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry010|",
+      "ja": "お～いいですね～！<br>他の子たちにも仲良しなのを見せつけられます！",
+      "zh": "哦～好主意～！<br>\n还能向其他人展示我们关系有多好！",
+      "vi": "Ồ~ thật là một ý tưởng tuyệt vời~! Nó cũng cho người khác thấy chúng ta kết nối tốt như thế nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Hanna008",
+      "speaker_tag": "; > Hanna: |#0103Adv01_Hanna008|",
+      "ja": "そ、そうね、悪くない考えだと思いますわ。<br>別に仲良しグループでいたいわけじゃありませんけど。",
+      "zh": "也、也是，这想法不错。<br>\n虽然我并不是特别想和你们组成什么好朋友小组啦。",
+      "vi": "Vâng, vâng, đây là một ý tưởng hay. Mặc dù Bổn tiểu thư không đặc biệt muốn thành lập một nhóm bạn tốt với bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Hanna009",
+      "speaker_tag": "; > Hanna: |#0103Adv01_Hanna009|",
+      "ja": "わたくしたちは、<br>わたくしたちのやり方でいきましょう。",
+      "zh": "我们就按我们自己的方式来吧。<br>",
+      "vi": "Hãy cứ làm theo cách riêng của chúng Bổn tiểu thư.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Hanna010",
+      "speaker_tag": "; > Hanna: |#0103Adv01_Hanna010|",
+      "ja": "でも……遊ぶって何をするのかしら？<br>エマさんにいいアイディアがあるんでしょう？",
+      "zh": "不过……玩什么好呢？<br>\n艾玛应该有什么好主意吧？",
+      "vi": "Nhưng... chơi gì đây? Ema chắc hẳn có ý tưởng hay lắm phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema029",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema029|",
+      "ja": "えっ……えーっと……。",
+      "zh": "欸……那个……",
+      "vi": "À...cái đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative024",
+      "speaker_tag": "",
+      "ja": "エマは<ruby=\"とっさ\">咄嗟</ruby>に言葉を詰まらせる。<br>胸の中で<ruby=\"ほの\">仄</ruby>かに生じているのは、恐怖の感情だ。",
+      "zh": "艾玛一时语塞。<br>\n内心隐约升起一丝恐惧。",
+      "vi": "Ema không nói nên lời trong giây lát. Trong lòng tôi dấy lên một nỗi sợ hãi mơ hồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative025",
+      "speaker_tag": "",
+      "ja": "何か言って、冷めた目で見られたらどうしよう、<br>引かれたらどうしよう。",
+      "zh": "如果说出来冷场了怎么办，<br>\n如果让她们反感了怎么办。",
+      "vi": "Nói ra mà lạnh chân thì phải làm sao? Phải làm gì nếu điều đó xúc phạm họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative026",
+      "speaker_tag": "",
+      "ja": "――嫌われたくない。",
+      "zh": "——不想被讨厌。",
+      "vi": "---Không muốn bị ghét.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative027",
+      "speaker_tag": "",
+      "ja": "そんな心の叫びが聞こえてくる。",
+      "zh": "这样的内心呐喊清晰可闻。",
+      "vi": "Tiếng kêu nội tâm này có thể nghe rõ ràng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema030",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema030|",
+      "ja": "ご、ごめん……思いつかないや……。",
+      "zh": "对、对不起……想不出来……",
+      "vi": "Vâng, tôi xin lỗi...tôi không thể nghĩ được gì cả...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative028",
+      "speaker_tag": "",
+      "ja": "エマは結局うなだれ、謝罪を口にしていた。",
+      "zh": "艾玛最终低下头道歉。",
+      "vi": "Cuối cùng Ema cũng cúi đầu xin lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative029",
+      "speaker_tag": "",
+      "ja": "いたたまれない状態になっているエマを気遣ってか、<br>珍しくメルルがおずおず手を挙げた。",
+      "zh": "这时梅露露怯生生地，难得地举起了手。<br>\n她应该是在担心陷入了尴尬的艾玛。",
+      "vi": "Lúc này, Meruru rụt rè và hiếm khi giơ tay. Có lẽ cô ấy đang lo lắng cho Ema đang xấu hổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Meruru005",
+      "speaker_tag": "; > Meruru: |#0103Adv01_Meruru005|",
+      "ja": "あ、あ、あの、<br>ピクニックとかは、どうでしょうか？",
+      "zh": "那、那、那个，<br>\n我们来办野餐，怎么样？",
+      "vi": "Cái đó, cái đó, cái đó, Chúng ta đi dã ngoại nhé?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Meruru006",
+      "speaker_tag": "; > Meruru: |#0103Adv01_Meruru006|",
+      "ja": "牢屋敷の外は広いですし……<br>みんなでお出かけ気分になれると思います。",
+      "zh": "监牢外面很宽敞……<br>\n感觉大家能体验到出游的氛围。",
+      "vi": "Bên ngoài Ngục Dinh Thự rất rộng rãi... Tôi cảm thấy như mọi người đều có thể trải nghiệm không khí du lịch.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry011",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry011|",
+      "ja": "おお！ それでいきましょう！<br>みんなでピクニック！",
+      "zh": "哦！就这么办吧！<br>\n大家一起去野餐！",
+      "vi": "Ôi! Cứ làm đi! Tất cả chúng ta hãy cùng nhau đi dã ngoại nhé!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Meruru007",
+      "speaker_tag": "; > Meruru: |#0103Adv01_Meruru007|",
+      "ja": "わ、私、お、お弁当作ります……！",
+      "zh": "我、我来准备便当……！",
+      "vi": "T-tôi sẽ chuẩn bị bữa trưa...!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Sherry012",
+      "speaker_tag": "; > Sherry: |#0103Adv01_Sherry012|",
+      "ja": "仲良しピクニック大作戦ですね！<br>わぁ～い！",
+      "zh": "好朋友野餐大作战开始啦！<br>\n好开心～！",
+      "vi": "Trận chiến dã ngoại của những người bạn thân nhất bắt đầu! Hạnh phúc quá~!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema031",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema031|",
+      "ja": "（みんなでピクニックかぁ……）",
+      "zh": "（大家一起野餐啊……）",
+      "vi": "(Hãy cùng nhau đi dã ngoại...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative030",
+      "speaker_tag": "",
+      "ja": "エマは自身の胸に手を当てた。",
+      "zh": "艾玛将手放在胸前。",
+      "vi": "Ema đặt tay lên ngực.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema032",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema032|",
+      "ja": "（そういう時間を求めていたのは、<br>　きっと誰より、ボクだ）",
+      "zh": "（最渴望这些时光的，<br>\n大概是我吧）",
+      "vi": "(Những người khao khát khoảng thời gian này nhất, Có lẽ là tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema033",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema033|",
+      "ja": "（楽しい時間を想像すれば、まだ頑張れる）",
+      "zh": "（只要能想像着快乐的时光，就还能继续坚持下去）",
+      "vi": "(Chỉ cần bạn có thể tưởng tượng ra những khoảng thời gian hạnh phúc, bạn có thể tiếp tục kiên trì)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema034",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema034|",
+      "ja": "（あ、そういえば……）",
+      "zh": "（啊，说起来……）",
+      "vi": "(À, nghĩ lại thì...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Narrative031",
+      "speaker_tag": "",
+      "ja": "エマは、ポケットにしまったままの紙を、<br>取り出すタイミングを逃していた。",
+      "zh": "那张纸仍放在口袋里，<br>\n艾玛错过了拿出来的时机。",
+      "vi": "Tờ giấy vẫn còn trong túi tôi, Ema đã bỏ lỡ cơ hội lấy nó ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema035",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema035|",
+      "ja": "（これは……一旦ボクの中にだけ留めておこう）",
+      "zh": "（这个……暂时就只留在我心里吧）",
+      "vi": "(Điều này...hãy giữ nó trong lòng tôi bây giờ)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv01_Ema036",
+      "speaker_tag": "; > Ema: |#0103Adv01_Ema036|",
+      "ja": "（期待を持たせて巻きこんじゃいけないよね……<br>　もっと確信を得てから報告しよう）",
+      "zh": "（不能让大家抱有期待然后又牵扯进危险……<br>\n等我更有把握再告诉大家吧）",
+      "vi": "(Chúng ta không thể để mọi người đặt kỳ vọng cao rồi gặp nguy hiểm... Tôi sẽ nói với bạn khi tôi tự tin hơn)",
+      "objection_links": []
+    }
+  ]
+}

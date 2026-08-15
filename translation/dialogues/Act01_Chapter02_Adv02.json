@@ -1,0 +1,864 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter02_Adv02",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter02/Act01_Chapter02_Adv02' Naninovel scenario script",
+  "total_entries": 107,
+  "entries": [
+    {
+      "id": "0102Adv02_Narrative001",
+      "speaker_tag": "",
+      "ja": "悪夢の魔女裁判から一夜明けて、<br>少女たちはラウンジに集合していた。",
+      "zh": "噩梦般的魔女审判已成过往。<br>\n翌日，少女们来到会客厅集合。",
+      "vi": "Trải qua một đêm sau phiên tòa ma nữ ác mộng đầu tiên, các thiếu nữ lại tập hợp tại Phòng Chờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative002",
+      "speaker_tag": "",
+      "ja": "朝食の席で、<br>一度みんなで集まって話したいと提案したのはエマだ。",
+      "zh": "在早餐时间，艾玛向众人提议<br>\n大家先坐到一起好好谈一谈。",
+      "vi": "Trong bữa ăn sáng, chính Ema là người đã chủ động đề xuất mọi người cùng ngồi lại để bàn bạc tìm cách sinh tồn.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative003",
+      "speaker_tag": "",
+      "ja": "重い足取りながら、<br>少女たちが続々とラウンジに入ってくる。",
+      "zh": "于是，少女们迈着沉重的步伐<br>\n陆续走进了会客厅。",
+      "vi": "Với những bước chân nặng trĩu âu lo, các cô gái lần lượt kéo vào Phòng Chờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative004",
+      "speaker_tag": "",
+      "ja": "――しかし。",
+      "zh": "——然而。",
+      "vi": "――Thế nhưng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Alisa001",
+      "speaker_tag": "; > Alisa: |#0102Adv02_Alisa001|",
+      "ja": "おめえは違うだろーがよ！",
+      "zh": "你跟我们都不是一路人好吗！",
+      "vi": "Mày bị ngu à con kia!? Ai cho mày ngồi vào chỗ đó hả!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative005",
+      "speaker_tag": "",
+      "ja": "早速トラブルが起きていた。<br>アリサが怒鳴った相手は、ミリアだった。",
+      "zh": "很快就起了冲突。<br>\n亚里沙对米莉亚怒吼道。",
+      "vi": "Một vụ ẩu đả cãi vã lập tức bùng nổ. Người mà Alisa đang quát tháo chửi bới chính là Saeki Miria.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Alisa002",
+      "speaker_tag": "; > Alisa: |#0102Adv02_Alisa002|",
+      "ja": "おっさんが来てんじゃねーよ！<br>おめえはウチたちとは違うだろ！ 出てけよ！",
+      "zh": "你个大叔凑过来干什么！<br>\n你跟我们不一样！滚出去！",
+      "vi": "Bố mày đéo muốn nhìn thấy cái bản mặt cợt nhả của mày! Cút sang góc khác!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Miria001",
+      "speaker_tag": "; > Miria: |#0102Adv02_Miria001|",
+      "ja": "ひぃっ！ ご、ごめんなさい！",
+      "zh": "呀！对、对不起！",
+      "vi": "Ơ kìa~ Tớ chỉ muốn ngồi bấm điện thoại nghỉ ngơi xíu thôi mà, làm gì mà hung dữ dữ vậy Alisa-chan~",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema001",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema001|",
+      "ja": "ボクがみんなに集まってほしいって言ったんだから、<br>ミリアちゃんは悪くないよ！",
+      "zh": "是我提议让大家一起谈一谈的，<br>\n米莉亚她没有错！",
+      "vi": "Alisa-chan, Miria-chan, hai cậu thôi đi mà…… Đừng gây gổ nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative006",
+      "speaker_tag": "",
+      "ja": "<ruby=\"とっさ\">咄嗟</ruby>にエマは、アリサとミリアの間に割って入った。",
+      "zh": "艾玛立即介入调解两人的冲突。",
+      "vi": "Ema ngay lập tức đứng ra hòa giải mâu thuẫn giữa hai người.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema002",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema002|",
+      "ja": "ボクらは協力しあうべきだと思う。<br>だから、みんなで話し合いたいんだ。",
+      "zh": "我们应该互帮互助才对。<br>\n所以，大家一起谈谈吧。",
+      "vi": "Chúng ta nên giúp đỡ lẫn nhau. Vì vậy, hãy nói về nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema003",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema003|",
+      "ja": "ミリアちゃんにも、アリサちゃんにも、<br>ここにいてほしい。",
+      "zh": "米莉亚，亚里沙，<br>\n我希望你们都能留在这里。",
+      "vi": "Miria, Alisa, Tôi hy vọng tất cả các bạn có thể ở lại đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Alisa003",
+      "speaker_tag": "; > Alisa: |#0102Adv02_Alisa003|",
+      "ja": "……話はそんだけか？<br>ウチは協力する気なんてねえから。",
+      "zh": "……你想说的就这些？<br>\n我可不想搞什么你帮我我帮你的。",
+      "vi": "…Đó là tất cả những gì mày muốn nói à? Tao không muốn làm bất cứ điều gì mà mày giúp Tao và Tao giúp mày.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Alisa004",
+      "speaker_tag": "; > Alisa: |#0102Adv02_Alisa004|",
+      "ja": "ウチを騙してたヤツと、仲良くなんてできるか。<br>顔も見たくねーよ。",
+      "zh": "谁想跟骗人精做朋友。<br>\n我连那家伙的脸都不想看到。",
+      "vi": "Ai muốn làm mày với một kẻ nói dối? Tao thậm chí còn không muốn nhìn thấy mặt gã đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative007",
+      "speaker_tag": "",
+      "ja": "吐き捨てるように言って、<br>アリサはラウンジを出ていってしまった。",
+      "zh": "丢下这番话后，<br>\n亚里沙离开了会客厅。",
+      "vi": "Sau khi để lại những lời này, Alisa rời khỏi phòng khách.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Miria002",
+      "speaker_tag": "; > Miria: |#0102Adv02_Miria002|",
+      "ja": "う、うぅ……おじさんは、やっぱり邪魔、だよね……。<br>こんな空気にしてしまって、申し訳ない……。",
+      "zh": "呜、呜呜……看来大叔我真的很烦人吧……<br>\n对不起，害你们感到不舒服……",
+      "vi": "Woo, woo... Hình như em phiền phức lắm chú à... Xin lỗi đã làm bạn cảm thấy khó chịu...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema004",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema004|",
+      "ja": "（ミリアちゃんに謎が多いのは確かだけど……<br>　今はミリアちゃんのことを信じたい）",
+      "zh": "（虽然米莉亚身上的确谜团重重……<br>\n不过我想暂时先相信她）",
+      "vi": "(Mặc dù Miria thực sự đầy bí ẩn... Nhưng tôi muốn tin tưởng cô ấy vào lúc này)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative008",
+      "speaker_tag": "",
+      "ja": "エマは緊張しつつも、ミリアに向き直る。",
+      "zh": "艾玛带着几分紧张，转身对米莉亚说道。",
+      "vi": "Ema quay sang Miria với chút lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema005",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema005|",
+      "ja": "気にしないで。ボクはミリアちゃんにも<br>協力してほしいって思ってるから呼んだんだ。",
+      "zh": "没关系的。米莉亚，我叫你来<br>\n是希望你也能帮助大家。",
+      "vi": "Nó không quan trọng. Miria, tôi đã mời bạn đến Tôi hy vọng bạn cũng có thể giúp đỡ mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema006",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema006|",
+      "ja": "あ、えっと、ミリアちゃんって呼んでも<br>いいんだよね……？",
+      "zh": "啊，对了，我可以直接叫你<br>\n米莉亚吗……？",
+      "vi": "À, nhân tiện, tôi chỉ có thể gọi bạn là Miria...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Miria003",
+      "speaker_tag": "; > Miria: |#0102Adv02_Miria003|",
+      "ja": "もちろん……っっ",
+      "zh": "当然可以……！",
+      "vi": "Tất nhiên...!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative009",
+      "speaker_tag": "",
+      "ja": "ミリアは感極まった様子で<br>何度もぶんぶんと<ruby=\"うなず\">頷</ruby>く。",
+      "zh": "米莉亚十分激动，<br>\n连连用力点头。",
+      "vi": "Miria rất vui mừng, Anh gật đầu mạnh mẽ.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative010",
+      "speaker_tag": "",
+      "ja": "アリサは出ていってしまったが、<br>エマは残った少女たちを見渡した。",
+      "zh": "亚里沙已经离开了现场。<br>\n艾玛看向仍在场的几名少女。",
+      "vi": "Alisa đã rời khỏi hiện trường. Ema nhìn vài cô gái vẫn còn có mặt.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative011",
+      "speaker_tag": "",
+      "ja": "ミリア、ハンナ、シェリー、メルル、<br>ココ、マーゴ、アンアン。<br>エマを合わせると８人。",
+      "zh": "米莉亚、汉娜、雪莉、梅露露、<br>\n可可、玛格、安安。<br>\n再算上艾玛，一共8个人。",
+      "vi": "Miria, Hanna, Sherry, Meruru, Coco, Mag và An'an. Tính cả Ema, ​​tổng cộng có 8 người.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema007",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema007|",
+      "ja": "本気で、ここを脱出するしかないと思うんだ。",
+      "zh": "说真的，我们必须得逃出这里。",
+      "vi": "Nghiêm túc mà nói, chúng ta phải ra khỏi đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative012",
+      "speaker_tag": "",
+      "ja": "囚人の少女たちを前に、<br>エマは決然と口を開いた。",
+      "zh": "面对一众囚犯少女，<br>\n艾玛毅然开口说道。",
+      "vi": "Đối mặt với một nhóm nữ tù nhân, Ema kiên quyết nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema008",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema008|",
+      "ja": "レイアちゃんは大人しく従おうって言ってたけど、<br>ここにいても救いなんてないんだよ。",
+      "zh": "蕾雅之前呼吁我们老实遵守规定，<br>\n可是留在这里我们也无法得救。",
+      "vi": "Leya trước đây đã kêu gọi chúng tôi tuân thủ các quy tắc một cách trung thực, Nhưng chúng ta không thể được cứu nếu ở lại đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative013",
+      "speaker_tag": "",
+      "ja": "元々エマは脱獄しようと<ruby=\"ほんそう\">奔走</ruby>しており、<br>シェリー、ハンナ、メルルは<br>エマと行動を共にしている。",
+      "zh": "艾玛原本就在四处游说越狱的事，<br>\n雪莉、汉娜、梅露露三人<br>\n也早就是她的同伴了。",
+      "vi": "Ema đã vận động hành lang để được vượt ngục, Sherry, Hanna và Meruru Anh ấy đã là bạn đồng hành của cô ấy trong một thời gian dài.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative014",
+      "speaker_tag": "",
+      "ja": "エマの言葉に、３人は力強く<ruby=\"うなず\">頷</ruby>いてくれた。<br>……問題は、協力的な姿勢でなかった少女たち。",
+      "zh": "听到艾玛的话，她们三人都用力点头。<br>\n……但，问题在于原先不愿意配合的几位少女。",
+      "vi": "Sau khi nghe những lời của Ema, ​​ba người họ gật đầu mạnh mẽ. ...Tuy nhiên, vấn đề nằm ở chỗ các cô gái ban đầu không sẵn lòng hợp tác.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo001",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo001|",
+      "ja": "そうかもしれないけれど、<br>規則を破れば懲罰房行きよ。",
+      "zh": "话虽如此，<br>\n但违反规定的话，就要被带去惩罚室哦。",
+      "vi": "Nói xong, Nhưng nếu vi phạm nội quy, em sẽ bị đưa vào Phòng Kỷ Luật Biệt Giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_AnAn001",
+      "speaker_tag": "; > AnAn: |#0102Adv02_AnAn001|",
+      "ja": "『問題行動を起こすべきではないと思う』",
+      "zh": "『吾辈觉得不应该做违规的事』",
+      "vi": "“Tôi không nghĩ chúng ta nên làm điều gì phạm pháp”",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Coco001",
+      "speaker_tag": "; > Coco: |#0102Adv02_Coco001|",
+      "ja": "あてぃしだってこんなとこ出たいけど、<br>逆らったら最悪看守にぶっ殺されるじゃんよぉ。",
+      "zh": "我也想逃出这个鬼地方啊，<br>\n可是反抗的话，一个不走运甚至可能会被看守干掉啊。",
+      "vi": "Coco cũng muốn thoát khỏi nơi địa ngục này, Nhưng nếu chống cự, người xui xẻo thậm chí có thể bị Cai Ngục giết chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo002",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo002|",
+      "ja": "二階堂ヒロちゃんみたいにね。",
+      "zh": "就像二阶堂希罗一样。",
+      "vi": "Giống như Nikaidou Hiro.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative015",
+      "speaker_tag": "",
+      "ja": "エマは辛そうに目を伏せる。",
+      "zh": "艾玛痛苦地低下头。",
+      "vi": "Ema cúi đầu đau đớn.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema009",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema009|",
+      "ja": "ヒロちゃん、ノアちゃん……それに、レイアちゃんも。<br>ここに捕まってもう３人も犠牲者が出てる。",
+      "zh": "希罗、诺亚……还有蕾雅。<br>\n大家被抓到这里来以后已经牺牲了三个人。",
+      "vi": "Hiro, Nô-ê...và Leia. Sau khi mọi người bị bắt ở đây, ba người đã hy sinh.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Coco002",
+      "speaker_tag": "; > Coco: |#0102Adv02_Coco002|",
+      "ja": "レイアは自業自得なんじゃねーの。<br>人殺したんだしさぁ。",
+      "zh": "蕾雅她是自作自受吧。<br>\n谁让她杀人了。",
+      "vi": "Leya chắc chắn đã tự chuốc lấy nó. Ai yêu cầu cô giết ai đó?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema010",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema010|",
+      "ja": "それだって、こんな状況じゃなきゃ起こりえなかった。<br>ナノカちゃんの言うとおり、弄ばれてるんだよ！",
+      "zh": "如果不是在这种处境下，就不会闹出这种事了。<br>\n就像奈叶香说的那样，我们都被玩弄了！",
+      "vi": "Nếu không phải tình huống này, loại chuyện này sẽ không xảy ra. Đúng như Nanoyaka đã nói, tất cả chúng ta đều đã bị chơi xỏ!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema011",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema011|",
+      "ja": "ここにいたらみんな同じような目に遭っていって、<br>最悪な未来しか見えない。",
+      "zh": "再在这里待下去，<br>\n等待我们的只有最悲惨的未来。",
+      "vi": "Ở lại đây nữa nhé, Chỉ có tương lai khốn khổ nhất đang chờ đợi chúng ta.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema012",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema012|",
+      "ja": "見つからないように目を盗んで脱出する方法は、<br>きっとあるはず。",
+      "zh": "一定有什么办法，<br>\n可以不被它们发现偷偷逃出去。",
+      "vi": "Chắc chắn phải có cách nào đó, Bạn có thể bí mật trốn thoát mà không bị chúng phát hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema013",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema013|",
+      "ja": "みんなでここを出よう！<br>協力しあえばきっと活路が見えるよ！",
+      "zh": "我们一起逃走吧！<br>\n只要大家齐心协力，一定能找到出路！",
+      "vi": "Hãy cùng nhau trốn thoát! Chỉ cần mọi người cùng nhau cố gắng, chúng ta nhất định sẽ tìm ra lối thoát!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Coco003",
+      "speaker_tag": "; > Coco: |#0102Adv02_Coco003|",
+      "ja": "げろぉ。",
+      "zh": "吐了。",
+      "vi": "Nôn mửa.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema014",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema014|",
+      "ja": "……っ",
+      "zh": "……",
+      "vi": "……",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative016",
+      "speaker_tag": "",
+      "ja": "ココの反応に、エマは険しい表情になる。<br>しかしすぐにその眉は、情けなく下がっていく。",
+      "zh": "看到可可的反应，艾玛的脸色变得有些严肃。<br>\n但很快，她就无奈地露出沮丧的神情。",
+      "vi": "Nhìn thấy phản ứng của Coco, sắc mặt Ema trở nên nghiêm túc một chút. Nhưng chẳng bao lâu sau, cô ấy trông bất lực và thất vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema015",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema015|",
+      "ja": "（やっぱりみんなで協力するなんて、無理なのかな……）",
+      "zh": "（看样子，大家是不可能齐心协力的吧……）",
+      "vi": "(Có vẻ như mọi người không thể làm việc cùng nhau...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative017",
+      "speaker_tag": "",
+      "ja": "すると、マーゴが一歩前へと出てきた。",
+      "zh": "这时，玛格往前走了一步。",
+      "vi": "Lúc này Mag đã tiến lên một bước.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo003",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo003|",
+      "ja": "エマちゃんは偉いわね。<br>私はとても、みんなを信じることなんてできないわ。",
+      "zh": "艾玛你真的很了不起。<br>\n像我呢，就做不到信任所有人。",
+      "vi": "Ema em thực sự tuyệt vời. Giống như Chị, Chị không thể tin tưởng tất cả mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema016",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema016|",
+      "ja": "マーゴちゃん、で、でも<br>ここでバラバラになっちゃったら！",
+      "zh": "玛格……可、可是，<br>\n如果我们不团结在一起的话！",
+      "vi": "Mag...nhưng, nhưng, Nếu chúng ta không ở bên nhau!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo004",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo004|",
+      "ja": "ふふ、心配しないで。<br>出るために協力し合うことに賛成よ。<br>その方が合理的よね。私はエマちゃんに協力するわ。",
+      "zh": "呵呵呵，别担心。<br>\n我同意大家一起齐心协力越狱的想法，<br>\n因为这样做比较合理。我会帮助你的。",
+      "vi": "Hehehe, đừng lo lắng. Chị đồng ý với ý kiến mọi người cùng hợp tác để bẻ khóa, Bởi vì nó có ý nghĩa hơn. Chị sẽ giúp em.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema017",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema017|",
+      "ja": "本当！？ よ、良かったぁ……。",
+      "zh": "真的！？太、太好了……",
+      "vi": "Thực sự! ? Vậy thì tốt quá...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo005",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo005|",
+      "ja": "ココちゃんも出たい気持ちは同じよね？",
+      "zh": "可可，你也想离开这里吧？",
+      "vi": "Coco, em có muốn rời khỏi đây không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Coco004",
+      "speaker_tag": "; > Coco: |#0102Adv02_Coco004|",
+      "ja": "そりゃ、まあ……。",
+      "zh": "呃，算是吧……",
+      "vi": "Ờ, cứ vậy đi...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative018",
+      "speaker_tag": "",
+      "ja": "ココが渋々といった様子で<ruby=\"うなず\">頷</ruby>くと、<br>マーゴはにっこりと微笑んだ。",
+      "zh": "见可可不情不愿地点头，<br>\n玛格便微微一笑。",
+      "vi": "Thấy Keke miễn cưỡng gật đầu, Margo khẽ mỉm cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo006",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo006|",
+      "ja": "本格的に、脱獄のために計画を練りましょう。<br>チームのリーダーを決める必要があるわね。",
+      "zh": "我们来正式制定一下越狱的计划吧。<br>\n首先我们得确定团队的领导者。",
+      "vi": "Hãy chính thức hóa kế hoạch bẻ khóa của chúng ta. Đầu tiên chúng ta phải xác định được đội trưởng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo007",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo007|",
+      "ja": "これまでみんなを見てきて、<br>リーダーはエマちゃんが良いと思ったわ。",
+      "zh": "从各位之前的表现来看，<br>\n我认为让艾玛担任队长比较合适。",
+      "vi": "Đánh giá từ hiệu suất trước đó của em, Chị nghĩ sẽ thích hợp hơn nếu để Ema làm đội trưởng.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema018",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema018|",
+      "ja": "えっ、ボ、ボク……！？",
+      "zh": "什么，我、我吗……！？",
+      "vi": "Cái gì, tôi, tôi...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo008",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo008|",
+      "ja": "ええ。みんなを引っ張ってくれるのはあなたよ。<br>反対の人はいるかしら？",
+      "zh": "嗯，是你一直在努力团结大家。<br>\n有人反对吗？",
+      "vi": "Chà, em là người cố gắng đoàn kết mọi người. Có ai phản đối không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative019",
+      "speaker_tag": "",
+      "ja": "異論の声は上がらなかった。",
+      "zh": "没有人提出异议。",
+      "vi": "Không ai đưa ra bất kỳ phản đối nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema019",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema019|",
+      "ja": "（みんな、ボクのこと嫌じゃないんだ……）",
+      "zh": "（原来，大家并不讨厌我啊……）",
+      "vi": "(Hóa ra mọi người không ghét mình...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative020",
+      "speaker_tag": "",
+      "ja": "チームの中心として頼られていることで、<br>エマの表情が自然と綻ぶ。",
+      "zh": "作为团队核心得到了大家的信任，<br>\n这让艾玛不禁绽放出花一般的笑容。",
+      "vi": "Với tư cách là nòng cốt của nhóm, tôi đã nhận được sự tin tưởng của mọi người, Điều này khiến Ema nở một nụ cười như hoa.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Sherry001",
+      "speaker_tag": "; > Sherry: |#0102Adv02_Sherry001|",
+      "ja": "あ、じゃああれやります？<br>手を重ねて決起。えいえいおー！ って。",
+      "zh": "对了，要不要做下那个仪式？<br>\n大家手叠在一起，大喊鼓舞士气的那个。",
+      "vi": "Nhân tiện, bạn có muốn thực hiện nghi lễ đó không? Mọi người đều chắp tay và hét lên với người đã động viên tinh thần.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Hanna001",
+      "speaker_tag": "; > Hanna: |#0102Adv02_Hanna001|",
+      "ja": "そんなお寒い行動よく思いつきますわね。",
+      "zh": "亏你能想到这么尴尬的仪式。",
+      "vi": "Cảm ơn bạn đã nghĩ đến một buổi lễ đáng xấu hổ như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo009",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo009|",
+      "ja": "あら、私は賛成よ。<br>想いをひとつにする儀礼は必要だと思うの。",
+      "zh": "是吗，我觉得很好啊。<br>\n确实需要一个仪式把大家的心团结在一起。",
+      "vi": "Thật sao? Chị nghĩ nó rất tốt. Cần phải có một buổi lễ để đoàn kết trái tim của mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative021",
+      "speaker_tag": "",
+      "ja": "マーゴは妖艶に微笑み、<br>手を前へとすっと差し出した。",
+      "zh": "玛格露出妖艳的微笑，<br>\n向前伸出手。",
+      "vi": "Mag nở một nụ cười quyến rũ, Vươn về phía trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo010",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo010|",
+      "ja": "頼りにしているわ、エマちゃん。",
+      "zh": "接下来就靠你了，艾玛。",
+      "vi": "Phần còn lại tùy thuộc vào em, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative022",
+      "speaker_tag": "",
+      "ja": "シェリー、メルルがマーゴに手を重ねると<br>渋々ハンナ、ココが続く。",
+      "zh": "雪莉和梅露露将手放在玛格的手上，接着，<br>\n汉娜和可可也不情不愿地跟着把手放了上去。",
+      "vi": "Sherry và Meruru đặt tay lên tay Mag và sau đó, Hanna và Coco miễn cưỡng nhúng tay vào.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative023",
+      "speaker_tag": "",
+      "ja": "ミリアもおずおずと、<br>誰にも触れないように、そっと手を重ねた。",
+      "zh": "而米莉亚也小心翼翼地把手轻轻放了上去，<br>\n尽量不碰到任何人。",
+      "vi": "Và Miria cũng cẩn thận giơ tay lên, Cố gắng không va vào bất cứ ai.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative024",
+      "speaker_tag": "",
+      "ja": "エマは一番上に手を置いた。",
+      "zh": "接着，艾玛把手放到最上面。",
+      "vi": "Sau đó Ema đặt tay lên trên.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema020",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema020|",
+      "ja": "絶対にみんなで生きてここを出よう！<br>ボクらは誰のことも裏切らない！ 約束！",
+      "zh": "我们所有人都要一起活着离开这里！<br>\n说好了！谁都不准背叛大家！",
+      "vi": "Tất cả chúng ta cần phải sống sót ra khỏi đây cùng nhau! Nó đã đồng ý! Không ai được phép phản bội tất cả mọi người!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative025",
+      "speaker_tag": "",
+      "ja": "少女たちは手を重ね、想いを束ねた。",
+      "zh": "少女们的心，如同重叠的手心般紧紧团结在一起。",
+      "vi": "Trái tim các cô gái đoàn kết chặt chẽ như lòng bàn tay chồng lên nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema021",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema021|",
+      "ja": "（すごく、気持ちが強くなった気がする……！）",
+      "zh": "（感觉有底气多了……！）",
+      "vi": "(Tôi cảm thấy tự tin hơn...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema022",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema022|",
+      "ja": "じゃあ早速、作戦を――。",
+      "zh": "那我们赶快开始制定——",
+      "vi": "Vậy thì hãy nhanh chóng bắt đầu xây dựng công thức——",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative026",
+      "speaker_tag": "",
+      "ja": "エマがはりきって口を開いたところで、<br>アンアンがへなりとその場にしゃがみこんでしまった。",
+      "zh": "艾玛刚信心十足地开口宣言，<br>\n安安却突然无力地蹲了下来。",
+      "vi": "Ema vừa tuyên bố một cách tự tin, AnAn đột nhiên yếu ớt ngồi xổm xuống.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative027",
+      "speaker_tag": "",
+      "ja": "アンアンはいつの間にかみんなの輪から外れて、<br>青ざめている。具合が悪そうだ。",
+      "zh": "她不知何时离开了众人的包围圈，<br>\n面色铁青，似乎身体不太舒服。",
+      "vi": "Cô ấy không biết mình đã rời khỏi đám đông khi nào, Sắc mặt anh ta tái mét và dường như anh ta không được khỏe.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema023",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema023|",
+      "ja": "アンアンちゃん、どうしたの……？<br>大丈夫……？",
+      "zh": "安安，你怎么了……？<br>\n没事吧……？",
+      "vi": "An'an, cậu bị sao vậy...? Bạn có ổn không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_AnAn002",
+      "speaker_tag": "; > AnAn: |#0102Adv02_AnAn002|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative028",
+      "speaker_tag": "",
+      "ja": "アンアンは無言でただ首を振る。",
+      "zh": "她没有说话，只是摇了摇头。",
+      "vi": "Cô không nói, chỉ lắc đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Meruru001",
+      "speaker_tag": "; > Meruru: |#0102Adv02_Meruru001|",
+      "ja": "ま、また貧血でしょうか……。<br>一度医務室へ連れて行った方が<br>いいかもしれません……。",
+      "zh": "又、又贫血了吗……<br>\n最好先带她去一趟<br>\n医务室……",
+      "vi": "Bạn lại bị thiếu máu à... Tốt nhất là đưa cô ấy đến đó Bệnh xá...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema024",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema024|",
+      "ja": "（アンアンちゃんは体が強くないみたいだし、<br>　きっと心も消耗してるよね……）",
+      "zh": "（安安好像身体比较虚弱，<br>\n精神消耗肯定也不小……）",
+      "vi": "(AnAn có vẻ tương đối yếu, Sự tiêu hao tinh thần chắc chắn không hề nhỏ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Meruru002",
+      "speaker_tag": "; > Meruru: |#0102Adv02_Meruru002|",
+      "ja": "それに、ミリアさんも……ぐ、具合が悪そうです……。",
+      "zh": "而且，米莉亚小姐看起来……也、也有点不舒服……",
+      "vi": "Hơn nữa, cô Miria trông… cũng có chút khó chịu…",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Miria004",
+      "speaker_tag": "; > Miria: |#0102Adv02_Miria004|",
+      "ja": "えっっ",
+      "zh": "欸～",
+      "vi": "Ơ~",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative029",
+      "speaker_tag": "",
+      "ja": "ミリアは驚いた様子で後ずさり、<br>ぶんぶんと首を振る。",
+      "zh": "米莉亚惊讶得往后一退，<br>\n猛地摇头。",
+      "vi": "Miria ngạc nhiên lùi lại, Lắc đầu một cách thô bạo.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Miria005",
+      "speaker_tag": "; > Miria: |#0102Adv02_Miria005|",
+      "ja": "体調悪くなんかないよ！ ぜんぜん平気！<br>おじさんは元気だよ！",
+      "zh": "没有不舒服啦！我好着呢！<br>\n大叔我好得很啦！",
+      "vi": "Không có khó chịu! Miria ổn! Bác ơi, cháu thấy khỏe lắm!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Meruru003",
+      "speaker_tag": "; > Meruru: |#0102Adv02_Meruru003|",
+      "ja": "い、いえっ、ず、ずっと気になってたんです……っ<br>ミリアさん、すごく肩が落ちていて、心配で……っ",
+      "zh": "不、不是的。我一直有点担心你……<br>\n感觉你特别消沉，我就很担心……",
+      "vi": "Không, không phải vậy. Tôi hơi lo lắng cho bạn... Ta cảm thấy ngươi đặc biệt chán nản, cho nên ta rất lo lắng...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Meruru004",
+      "speaker_tag": "; > Meruru: |#0102Adv02_Meruru004|",
+      "ja": "いつも、疲れてますよね……！<br>ずぅんって……体重そうで……。",
+      "zh": "你一直都很累吧……！<br>\n我看你……好像负担很重的样子……",
+      "vi": "Chắc lúc nào bạn cũng mệt mỏi...! Tôi thấy bạn... dường như đang mang một gánh nặng lớn...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Miria006",
+      "speaker_tag": "; > Miria: |#0102Adv02_Miria006|",
+      "ja": "それはおじさん仕草がしみついて、<br>常にくたびれちゃってるんだよ！",
+      "zh": "那是因为沾染上了大叔的习性，<br>\n平时就半死不活的啦！",
+      "vi": "Đó là vì Miria đã học theo thói quen của chú, Thường thì anh ta đã chết một nửa!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Meruru005",
+      "speaker_tag": "; > Meruru: |#0102Adv02_Meruru005|",
+      "ja": "きょ、今日こそ看病させてください……っ",
+      "zh": "今、今天就让我来照顾你一下，好吗……",
+      "vi": "Hôm nay, hãy để anh chăm sóc em hôm nay, được không...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative030",
+      "speaker_tag": "",
+      "ja": "メルルはじりじりと涙目で迫っている。",
+      "zh": "泪眼婆娑的梅露露一步步靠近米莉亚。",
+      "vi": "Meruru rưng rưng nước mắt, từng bước tiếp cận Miria.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema025",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema025|",
+      "ja": "無理するのは良くないよ。<br>２人は医務室で休んできて。",
+      "zh": "不要勉强自己了，<br>\n你们一起去医务室好好休息吧。",
+      "vi": "Đừng ép buộc bản thân, Chúng ta cùng nhau đến bệnh xá và nghỉ ngơi thật tốt nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Miria007",
+      "speaker_tag": "; > Miria: |#0102Adv02_Miria007|",
+      "ja": "うう……ありがとう……。<br>不甲斐なくてごめんね……。",
+      "zh": "呜呜……谢谢你……<br>\n对不起，我太没用了……",
+      "vi": "Woohoo...cảm ơn bạn... Xin lỗi, Miria thật vô dụng...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative031",
+      "speaker_tag": "",
+      "ja": "メルルに付き添われて、<br>アンアンとミリアがラウンジを出ていった。",
+      "zh": "在梅露露的陪同下，<br>\n安安和米莉亚离开了会客厅。",
+      "vi": "Đồng hành cùng Meruru, AnAn và Miria rời khỏi phòng khách.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative032",
+      "speaker_tag": "",
+      "ja": "しれっとココもいなくなっていた。<br>残ったメンバーは、エマとシェリー、ハンナ。",
+      "zh": "转眼间可可也不见了踪影。<br>\n剩下的只有艾玛、雪莉和汉娜。",
+      "vi": "Trong chớp mắt, Coco biến mất. Những người duy nhất còn lại là Ema, ​​Sherry và Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative033",
+      "speaker_tag": "",
+      "ja": "それに、マーゴだけだ。",
+      "zh": "以及玛格。",
+      "vi": "Và Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Hanna002",
+      "speaker_tag": "; > Hanna: |#0102Adv02_Hanna002|",
+      "ja": "みなさん、やる気あるんですの！？",
+      "zh": "你们啊，究竟有没有干劲啊！？",
+      "vi": "Các bạn ơi, các bạn có đủ năng lượng không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema026",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema026|",
+      "ja": "まあまあ……昨夜の疲れもあるよね。<br>悠長にしてはいられないと思うけど……。",
+      "zh": "算了……毕竟昨晚都被折磨得精疲力竭。<br>\n不过我觉得是时候紧张起来了……",
+      "vi": "Quên nó đi... dù sao thì tôi cũng đã kiệt sức vì bị tra tấn tối qua rồi. Nhưng tôi nghĩ đã đến lúc phải lo lắng...",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative034",
+      "speaker_tag": "",
+      "ja": "エマの心に引っかかっていたのは、<br>行方不明になる前のナノカの言葉だ。",
+      "zh": "艾玛放心不下的是<br>\n奈叶香在失踪前留下的话。",
+      "vi": "Ema lo lắng về Những lời Nanoyaka để lại trước khi biến mất.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema027",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema027|",
+      "ja": "（時間がないって……<br>　何か、タイムリミットがあるのかな）",
+      "zh": "（她之前说没有时间了……<br>\n难道说有什么时间限制吗）",
+      "vi": "(Trước đây cô ấy đã nói rằng cô ấy không có thời gian... Có giới hạn thời gian không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema028",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema028|",
+      "ja": "（だとしたら、<br>　早くなんとかしなきゃ……）",
+      "zh": "（如果真是那样，<br>\n我们得赶紧行动起来……）",
+      "vi": "(Nếu đúng như vậy, Chúng ta cần phải hành động nhanh chóng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema029",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema029|",
+      "ja": "一旦はボクたちだけでも<br>脱獄計画を話し合おう。",
+      "zh": "我们几个人<br>\n先商量一下越狱计划吧。",
+      "vi": "Một vài người trong chúng tôi Trước tiên hãy thảo luận về kế hoạch bẻ khóa.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo011",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo011|",
+      "ja": "それが良さそうね。<br>少人数の方が話はまとまるでしょうし。",
+      "zh": "这样比较好，<br>\n人少点方便统一意见。",
+      "vi": "Cái này tốt hơn, Ít người hơn sẽ dễ dàng thống nhất ý kiến hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Sherry002",
+      "speaker_tag": "; > Sherry: |#0102Adv02_Sherry002|",
+      "ja": "でももうすぐ<br>自由時間終わっちゃいますねぇ。",
+      "zh": "可是放风时间<br>\n马上就要结束了。",
+      "vi": "Nhưng đã đến lúc thư giãn Nó sẽ kết thúc sớm thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Hanna003",
+      "speaker_tag": "; > Hanna: |#0102Adv02_Hanna003|",
+      "ja": "きいぃ！ ままなりませんわ！",
+      "zh": "可恶！总是事不如愿！",
+      "vi": "Chết tiệt! Mọi việc luôn không diễn ra như kế hoạch!",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo012",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo012|",
+      "ja": "なら、夕食後の自由時間に<br>いちどこのメンバーで集まりましょうか。",
+      "zh": "那我们就等晚餐后的放风时间<br>\n再碰面吧。",
+      "vi": "Sau đó chúng ta sẽ đợi thời gian thư giãn sau bữa tối Hãy gặp lại nhau nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo013",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo013|",
+      "ja": "ちょっと見てほしいものもあるし、<br>私の部屋に集合するのはどうかしら？",
+      "zh": "正好我有东西想给你们看，<br>\n你们可以来我的房间集合吗？",
+      "vi": "Tình cờ là Chị có thứ này muốn cho em xem, Các em có thể gặp nhau ở phòng Chị được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema030",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema030|",
+      "ja": "マーゴちゃんの部屋って……地下の？",
+      "zh": "你的房间……是指地下的牢房？",
+      "vi": "Phòng của anh... ý anh là phòng giam dưới lòng đất?",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Ema031",
+      "speaker_tag": "; > Ema: |#0102Adv02_Ema031|",
+      "ja": "（狭い監房だけど……４人くらいなら入れる、かな？<br>　マーゴちゃんと同室のナノカちゃんはいないし）",
+      "zh": "（那牢房很小……不过四个人的话，也许能塞得下？<br>\n毕竟她的室友奈叶香不在）",
+      "vi": "(Phòng giam rất nhỏ... nhưng có lẽ bốn người có thể ở trong đó? Rốt cuộc thì bạn cùng phòng của cô ấy là Nanoyaka không có ở đây)",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Narrative035",
+      "speaker_tag": "",
+      "ja": "マーゴは<ruby=\"うなず\">頷</ruby>く。<br>それから、思わせぶりににっこり笑みを浮かべた。",
+      "zh": "玛格点点头，<br>\n随后便露出意味深长的笑容。",
+      "vi": "Mag gật đầu, Sau đó anh nở một nụ cười đầy ẩn ý.",
+      "objection_links": []
+    },
+    {
+      "id": "0102Adv02_Margo014",
+      "speaker_tag": "; > Margo: |#0102Adv02_Margo014|",
+      "ja": "ええ。ぜひ私のお部屋へ招待させてちょうだい。",
+      "zh": "嗯，欢迎大家来我的房间做客。",
+      "vi": "Được rồi, chào mừng mọi người tới phòng Chị.",
+      "objection_links": []
+    }
+  ]
+}

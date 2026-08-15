@@ -1,0 +1,928 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter01_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter01_Trial07",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter01/Act02_Chapter01_Trial07' Naninovel scenario script",
+  "total_entries": 114,
+  "entries": [
+    {
+      "id": "0201Trial07_Ema001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial07_Ema001|",
+      "ja": "ボクは死体発見の<br>３０分前に、<br>メルルちゃんから<br>かかってきた<br>電話を取ったんだ。",
+      "zh": "我在发现尸体的<br>\n30分钟之前，<br>\n接到了梅露露<br>\n打来的<br>\n电话。",
+      "vi": "Tôi đã ở nơi thi thể được tìm thấy. 30 phút trước, Đã nhận được Meruru Đã gọi điện thoại.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial07_Ema002|",
+      "ja": "そしたらメルルちゃん、<br>【ヒロちゃんに<link=\"Objection_02_01_07_01\">襲われた</link>】<br>って言ってて……。",
+      "zh": "梅露露<br>\n在电话里说，<br>\n她【<link=\"Objection_02_01_07_01\">被希罗袭击了</link>】……",
+      "vi": "Meruru Nói qua điện thoại, Cô ấy [<link=\"Objection_02_01_07_01\"> bị tấn công bởi Hiro</link>]...",
+      "objection_links": [
+        "Objection_02_01_07_01"
+      ]
+    },
+    {
+      "id": "0201Trial07_Ema003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial07_Ema003|",
+      "ja": "そのあとすぐに<br><link=\"Objection_02_01_07_02\">電話</link>は<br>切れちゃったんだけど、<br>ボク、<br>気になっちゃって……。",
+      "zh": "之后，<br>\n电话就<br>\n突然<link=\"Objection_02_01_07_02\">挂断了</link>。<br>\n我很担心她……<br>",
+      "vi": "Sau đó, Số điện thoại là Đột nhiên <link=\"Objection_02_01_07_02\"> cúp máy </link>. Tôi lo lắng cho cô ấy...",
+      "objection_links": [
+        "Objection_02_01_07_02"
+      ]
+    },
+    {
+      "id": "0201Trial07_Ema004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial07_Ema004|",
+      "ja": "だからそのあとラウンジで、<br>シェリーちゃんたちに<br>メルルちゃんを見てないか<br>聞いたんだ。",
+      "zh": "所以之后我去了会客厅，<br>\n问雪莉她们<br>\n有没有看到<br>\n梅露露。",
+      "vi": "Thế là sau đó tôi đi vào phòng khách, Hãy hỏi Sherry và họ Bạn đã thấy Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Sherry001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0201Trial07_Sherry001|",
+      "ja": "そういえば、<br>そんなこと<br>聞かれましたね～。",
+      "zh": "嗯嗯，<br>\n确实有<br>\n这么问过呢～",
+      "vi": "Vâng, Thực sự có Bạn đã bao giờ hỏi điều đó chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial07_Ema005|",
+      "ja": "誰も見てないって<br>言ったから……<br>ヒロちゃんが何かして<br>しまったんじゃないかって、<br>怖くなっちゃって……。",
+      "zh": "大家都说<br>\n没看到……<br>\n我就害怕，<br>\n希罗她是不是<br>\n真的做了坏事……",
+      "vi": "Mọi người đều nói Không thấy… Tôi sợ, Anh hùng, cô ấy có phải không? Tôi thực sự đã làm điều gì đó tồi tệ...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial07_Ema006|",
+      "ja": "だからメルルちゃんを<br>探すために、<br><link=\"Objection_02_01_07_03\">外に出た</link>んだよ。",
+      "zh": "所以我就<br>\n<link=\"Objection_02_01_07_03\">出去外面</link><br>\n找梅露露了。",
+      "vi": "Vì vậy tôi chỉ <link=\"Objection_02_01_07_03\">Đi ra ngoài</link> Đang tìm Meruru.",
+      "objection_links": [
+        "Objection_02_01_07_03"
+      ]
+    },
+    {
+      "id": "0201Trial07_Ema007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial07_Ema007|",
+      "ja": "ゴクチョーからの<br>死体発見の通知が入ったのは、<br>それからすぐだったんだ。<br>そして、ボクは戻って……。",
+      "zh": "没过多久，<br>\n就收到典狱长说<br>\n找到尸体的通知了。<br>\n然后，我就立刻赶回来了……",
+      "vi": "Không lâu sau, Tôi đã nhận được tin nhắn từ quản giáo Thông báo rằng thi thể đã được tìm thấy. Sau đó tôi vội quay lại ngay...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Alisa001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0201Trial07_Alisa001|",
+      "ja": "桜羽の証言が正しけりゃ、<br>犯人は二階堂しか<br>いねーじゃねーか。",
+      "zh": "如果樱羽的证词是真的，<br>\n那凶手就只可能是<br>\n二阶堂了，不是吗。",
+      "vi": "Nếu lời khai của Sakuraha là đúng, Kẻ sát nhân chỉ có thể là Là Nikaido phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Alisa002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0201Trial07_Alisa002|",
+      "ja": "桜羽の証言が正しけりゃ、<br><link=\"Objection_02_01_07_04\">医務室</link>で二階堂が<br>氷上を襲ったってことだろ。<br>……犯人は二階堂しか<br>いねーじゃねーか。",
+      "zh": "如果樱羽的证词是真的，<br>\n那就是二阶堂在<link=\"Objection_02_01_07_04\">医务室</link><br>\n袭击了冰上。<br>\n……那凶手就只可能是<br>\n二阶堂了，不是吗。",
+      "vi": "Nếu lời khai của Sakuraha là đúng, Đó là Nikaido ở bệnh xá <link=\"Objection_02_01_07_04\"> </link> Bị tấn công trên băng. ...Vậy thì kẻ sát nhân chỉ có thể là Là Nikaido phải không?",
+      "objection_links": [
+        "Objection_02_01_07_04"
+      ]
+    },
+    {
+      "id": "0201Trial07_Hiro001",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro001|",
+      "ja": "（エマ……。<br>　そんな嘘をついてまで私を犯人に<br>　仕立て上げようというのか）",
+      "zh": "（艾玛……<br>\n你竟然不惜撒下这种谎<br>\n也要让我背上凶手的黑锅吗）",
+      "vi": "(Ema... Bạn không ngần ngại nói dối như vậy Bạn có muốn tôi chịu trách nhiệm về kẻ sát nhân không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro002",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro002|",
+      "ja": "（……落ち着け。<br>　仮にそうだとして、どうして今このタイミングで<br>　攻めてきたのか……）",
+      "zh": "（……我要冷静。<br>\n就算真是如此，为什么她偏要在这个时候<br>\n突然展开攻势呢……？）",
+      "vi": "(...Tôi muốn bình tĩnh lại. Cho dù là như vậy thì tại sao cô ấy lại làm vậy vào lúc này Thế còn một cuộc tấn công bất ngờ thì sao...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro003",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro003|",
+      "ja": "（何か暴かれるとまずいことがあるのか……<br>　それとも……）",
+      "zh": "（难道揭发这件事会对她产生什么不利吗……？<br>\n还是说……）",
+      "vi": "(Liệu việc phơi bày chuyện này có gây bất lợi gì cho cô ấy không...? Hoặc...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro004",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro004|",
+      "ja": "（……仮に真実だとしたら、<br>　なぜここまで隠そうとしていた？<br>　私が不利になるような情報を……？）",
+      "zh": "（……假设她说的都是真的，<br>\n为什么她要隐瞒到现在？<br>\n明明这是对我不利的信息啊……？）",
+      "vi": "(...Giả sử mọi điều cô ấy nói đều đúng, Tại sao cô ấy lại giấu nó đến tận bây giờ? Rõ ràng đây là thông tin xấu đối với tôi...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro005",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro005|",
+      "ja": "（……詳しく聞いてみる必要があるかもしれない）",
+      "zh": "（……也许有必要详细询问一下）",
+      "vi": "(…có lẽ cần phải hỏi chi tiết)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Choice001",
+      "speaker_tag": "; > @choice |#0201Trial07_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "私は襲っていない",
+      "zh": "我没有袭击她",
+      "vi": "Tôi không tấn công cô ấy",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Choice002",
+      "speaker_tag": "; > @choice |#0201Trial07_Choice002| button:ChoiceButtons/Trial/Question handler:TrialHiro",
+      "ja": "他に何も話していないのか",
+      "zh": "其他什么都没说吗？",
+      "vi": "Không nói gì khác à?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Choice003",
+      "speaker_tag": "; > @choice |#0201Trial07_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "外に出るのはおかしい",
+      "zh": "跑去外面很奇怪",
+      "vi": "Thật kỳ lạ khi chạy ra ngoài.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Choice004",
+      "speaker_tag": "; > @choice |#0201Trial07_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "医務室では襲えない",
+      "zh": "无法在医务室袭击她",
+      "vi": "Không thể tấn công cô ấy trong bệnh xá.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro006",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro006|",
+      "ja": "それは嘘だ。<br>私はメルルを襲ってなどいない。",
+      "zh": "她在说谎。<br>\n我没有袭击梅露露。",
+      "vi": "Cô ấy đang nói dối. Tôi không tấn công Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro007",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro007|",
+      "ja": "仮に私が襲うとしたら、<br>電話をかける暇など与えるわけがない。",
+      "zh": "如果我要袭击她，<br>\n我就根本不会让她有机会打电话。",
+      "vi": "Nếu tôi tấn công cô ấy, Tôi sẽ không bao giờ cho cô ấy cơ hội gọi điện.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Coco001",
+      "speaker_tag": "; > Coco: |#0201Trial07_Coco001|",
+      "ja": "こわ～……。",
+      "zh": "可怕～……",
+      "vi": "Kinh khủng~……",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Margo001",
+      "speaker_tag": "; > Margo: |#0201Trial07_Margo001|",
+      "ja": "でも、メルルちゃんのスマホを持っていたのは<br>ヒロちゃんよね？",
+      "zh": "但是，拿着梅露露手机的<br>\n是希罗你，不是吗？",
+      "vi": "Tuy nhiên, đang cầm điện thoại di động của Meruru Anh là Anh hùng phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Margo002",
+      "speaker_tag": "; > Margo: |#0201Trial07_Margo002|",
+      "ja": "そうなると、<br>メルルちゃんとエマちゃんの通話履歴を隠すために<br>ヒロちゃんがスマホを奪い取った……。",
+      "zh": "按这个情况来看，<br>\n你为了隐藏梅露露和艾玛的通话记录，<br>\n于是抢走了她的手机……",
+      "vi": "Theo tình huống này, Để ẩn bản ghi cuộc gọi giữa Meruru và Ema, Thế là anh ta giật lấy điện thoại di động của cô...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Margo003",
+      "speaker_tag": "; > Margo: |#0201Trial07_Margo003|",
+      "ja": "……なんて説を考えちゃうわ？",
+      "zh": "……我禁不住会这么想哦？",
+      "vi": "...Chị không thể không nghĩ vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Sherry002",
+      "speaker_tag": "; > Sherry: |#0201Trial07_Sherry002|",
+      "ja": "たしかに、【一度襲った後だった】と考えると<br>すっきりしますね！",
+      "zh": "确实，如果这件事是在【第一次袭击之后】发生的，<br>\n那就说得通了！",
+      "vi": "Quả thực, nếu điều này xảy ra [sau cuộc tấn công đầu tiên], Điều đó có ý nghĩa!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Miria001",
+      "speaker_tag": "; > Miria: |#0201Trial07_Miria001|",
+      "ja": "そ、そんな強盗殺人だなんて……！",
+      "zh": "这、这不是抢劫杀人吗……！",
+      "vi": "Đây, không phải là cướp giết sao...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_AnAn001",
+      "speaker_tag": "; > AnAn: |#0201Trial07_AnAn001|",
+      "ja": "……死刑。<br>もしくは無期懲役。",
+      "zh": "……死刑，<br>\n或无期徒刑。",
+      "vi": "…Án tử hình, hoặc tù chung thân.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro008",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro008|",
+      "ja": "（罪状が殺人から強盗殺人に悪化してしまった……）",
+      "zh": "（罪名从杀人变成了抢劫杀人，情况变得更糟了……）",
+      "vi": "(Tội danh chuyển từ giết người sang cướp và giết người, và tình hình trở nên tồi tệ hơn...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro009",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro009|",
+      "ja": "（……事実を語っても<br>　証拠がなければ信じてもらえないか）",
+      "zh": "（……就算我说出事实，<br>\n只要没有证据，就不会有人相信的吧）",
+      "vi": "(...Ngay cả khi tôi nói sự thật, Chỉ cần không có bằng chứng thì sẽ không có ai tin cả.)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro010",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro010|",
+      "ja": "（【私がメルルに襲われた】、<br>　などと言っても信じてもらえるわけがない）",
+      "zh": "（就算我说【我被梅露露袭击了】……<br>\n也绝不会有人相信的）",
+      "vi": "(Ngay cả khi tôi nói [Tôi bị Meruru tấn công]... Sẽ không ai tin điều đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro011",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro011|",
+      "ja": "（だが私が犯人ではない以上、<br>　エマが嘘をついているに違いない）",
+      "zh": "（但既然我不是凶手，<br>\n那就一定是艾玛在说谎）",
+      "vi": "(Nhưng vì tôi không phải là kẻ giết người, Vậy thì chắc chắn Ema đang nói dối)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro012",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro012|",
+      "ja": "（メルルとエマが電話で話した内容を<br>　追求したうえで――）",
+      "zh": "（我要追问清楚<br>\n梅露露和艾玛通话的内容，再接着——）",
+      "vi": "(Tôi muốn hỏi rõ hơn Nội dung cuộc điện thoại giữa Meruru và Ema sẽ tiếp tục——)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro013",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro013|",
+      "ja": "（時系列を洗うんだ……！<br>　エマの証言が抱えている矛盾を突きつけてやろう）",
+      "zh": "（我得梳理清楚事件发生的顺序……！<br>\n揭露艾玛证词中存在的矛盾！）",
+      "vi": "(Tôi phải sắp xếp lại chuỗi sự kiện...! Hé lộ những mâu thuẫn trong lời khai của Ema! )",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro014",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro014|",
+      "ja": "……エマ。<br>どうして君は外へ出たのかな。",
+      "zh": "……艾玛，<br>\n你为什么要跑出去呢？",
+      "vi": "...Ema, Tại sao bạn lại chạy ra ngoài?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema008",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema008|",
+      "ja": "え？ どうしてって……？",
+      "zh": "欸？问我为什么吗……？",
+      "vi": "Hả? Hỏi tôi tại sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro015",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro015|",
+      "ja": "ラウンジにいる人間が誰も<br>【メルルが通ったのを見ていない】と言った――。",
+      "zh": "会客厅里的人都说，<br>\n【没有看到梅露露经过】——",
+      "vi": "Mọi người trong phòng khách đều nói, [Tôi không thấy Meruru đi ngang qua]——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro016",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro016|",
+      "ja": "メルルが逃げるとしたら、<br>人が多いであろうラウンジに向かうことが推測される。",
+      "zh": "如果梅露露想要逃跑，<br>\n可以推测她会往人多的会客厅方向跑。",
+      "vi": "Nếu Meruru muốn trốn thoát, Có thể suy đoán cô sẽ chạy về phía phòng khách đông người.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro017",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro017|",
+      "ja": "なら、メルルが外に行った可能性は<br>低いと考えるべきじゃないかな。",
+      "zh": "那么，梅露露会跑到外面的可能性<br>\n应该很低才对，不是吗？",
+      "vi": "Khi đó, khả năng Meruru chạy ra ngoài Nó sẽ rất thấp, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema009",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema009|",
+      "ja": "誰も見てないからだよ。",
+      "zh": "就是因为大家都说没有看到啊。",
+      "vi": "Đó là bởi vì mọi người đều nói rằng họ không nhìn thấy nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema010",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema010|",
+      "ja": "メルルちゃんがラウンジの方に来てないなら、<br>別の経路から外に逃げたと思ったんだ。",
+      "zh": "我当时想，如果梅露露没有来会客厅，<br>\n那她可能是走别的路线逃到外面去了。",
+      "vi": "Lúc đó tôi đã nghĩ nếu Meruru không đến phòng khách, Sau đó cô ấy có thể đã đi một con đường khác để trốn ra ngoài.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema011",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema011|",
+      "ja": "逃げるなら屋内より外だと思ったし、<br>外に繋がる入口も別にあるし……。",
+      "zh": "如果真的要逃跑，外面肯定比室内更安全，<br>\n而且通往外面的出入口也不止一个……",
+      "vi": "Nếu bạn thực sự muốn trốn thoát, bên ngoài chắc chắn an toàn hơn trong nhà, Và có nhiều hơn một lối vào và lối ra bên ngoài....",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro018",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro018|",
+      "ja": "けれどメルルの死体は地下で見つかった……。",
+      "zh": "可是，梅露露的尸体最终是在地下被发现的……",
+      "vi": "Tuy nhiên, thi thể của Meruru cuối cùng đã được phát hiện dưới lòng đất...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro019",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro019|",
+      "ja": "エマの証言とは矛盾している！",
+      "zh": "这和你的证词完全矛盾！",
+      "vi": "Điều này hoàn toàn trái ngược với lời khai của bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema012",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema012|",
+      "ja": "それは結果論だよ、ヒロちゃん！",
+      "zh": "那只是你的马后炮而已，希罗！",
+      "vi": "Đó chỉ là suy nghĩ lại của anh thôi, Hiro!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Miria002",
+      "speaker_tag": "; > Miria: |#0201Trial07_Miria002|",
+      "ja": "ま、まあまあ２人とも……！<br>それじゃあ水掛け論だよ！",
+      "zh": "好、好啦，你们两个都冷静冷静……！<br>\n这样下去只会变成无意义的口水战了啦！",
+      "vi": "Được rồi, được rồi, hai người bình tĩnh lại...! Nếu điều này tiếp tục, nó sẽ chỉ trở thành một cuộc khẩu chiến vô nghĩa!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_AnAn002",
+      "speaker_tag": "; > AnAn: |#0201Trial07_AnAn002|",
+      "ja": "『野次禁止』",
+      "zh": "『禁止喧哗』",
+      "vi": "\"Không ồn ào\"",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro020",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro020|",
+      "ja": "（たしなめられてしまった……！）",
+      "zh": "（被制止了……！）",
+      "vi": "(Dừng lại...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro021",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro021|",
+      "ja": "（だが私が犯人ではない以上、<br>　エマが嘘をついているに違いない）",
+      "zh": "（但既然我不是凶手，<br>\n那就一定是艾玛在说谎）",
+      "vi": "(Nhưng vì tôi không phải là kẻ giết người, Vậy thì chắc chắn Ema đang nói dối)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro022",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro022|",
+      "ja": "（メルルとエマが電話で話した内容を<br>　追求したうえで――）",
+      "zh": "（我要追问清楚<br>\n梅露露和艾玛通话的内容，再接着——）",
+      "vi": "(Tôi muốn hỏi rõ hơn Nội dung cuộc điện thoại giữa Meruru và Ema sẽ tiếp tục——)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro023",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro023|",
+      "ja": "（時系列を洗うんだ……！<br>　エマの証言が抱えている矛盾を突きつけてやろう）",
+      "zh": "（我得梳理清楚事件发生的顺序……！<br>\n揭露艾玛证词中存在的矛盾！）",
+      "vi": "(Tôi phải sắp xếp lại chuỗi sự kiện...! Hé lộ những mâu thuẫn trong lời khai của Ema! )",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro024",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro024|",
+      "ja": "……それで？<br>他にはどんなことを話したのかな。",
+      "zh": "……所以呢？<br>\n你们还聊了些什么内容？",
+      "vi": "...vậy? Bạn còn nói về điều gì nữa?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema013",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema013|",
+      "ja": "と、特に重要なことはなにも……<br>すぐ切れちゃったし……。",
+      "zh": "也、也没什么很重要的事……<br>\n毕竟电话很快就挂断了……",
+      "vi": "Ừ, không có gì quan trọng lắm... Dứt lời, cuộc gọi nhanh chóng bị cúp máy...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro025",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro025|",
+      "ja": "具体性がないな。本当にメルルと喋ったのか？",
+      "zh": "你的说法很含糊啊。你真的有和梅露露通过电话吗？",
+      "vi": "Tuyên bố của bạn rất mơ hồ. Bạn có thực sự nói chuyện với Meruru qua điện thoại không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro026",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro026|",
+      "ja": "君の発言に信憑性があるとは思えない。",
+      "zh": "我不认为你的发言有任何的可信度。",
+      "vi": "Tôi không nghĩ lời phát biểu của bạn có chút đáng tin cậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema014",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema014|",
+      "ja": "ほ、本当だよ！",
+      "zh": "真、真的通过电话啦！",
+      "vi": "Thực sự, thực sự qua điện thoại!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema015",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema015|",
+      "ja": "……メルルちゃんは怯えた様子で、<br>【医務室でヒロちゃんに襲われた】って<br>言ってて……。",
+      "zh": "……梅露露的语气听起来非常害怕，<br>\n她说，<br>\n【自己在医务室被希罗袭击了】……",
+      "vi": "...Giọng của Meruru có vẻ rất sợ hãi, Cô ấy nói, [Tôi bị Hiro tấn công trong bệnh xá]...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema016",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema016|",
+      "ja": "だから早く逃げなきゃって<br>言ってたんだ。",
+      "zh": "还说<br>\n自己必须要赶快逃走。",
+      "vi": "Cũng đã nói Anh phải nhanh chóng trốn thoát.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema017",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema017|",
+      "ja": "ボクにも、逃げた方がいいって<br>忠告してくれて……。",
+      "zh": "甚至还劝告我，<br>\n最好也一起逃走……",
+      "vi": "Anh ấy thậm chí còn khuyên tôi, Tốt nhất là cùng nhau bỏ trốn...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema018",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema018|",
+      "ja": "う、嘘じゃないよ！",
+      "zh": "我、我真的没有骗人！",
+      "vi": "Tôi, tôi thực sự không nói dối!",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_001",
+      "speaker_tag": "; > @toast \"|#Toast_001|\"",
+      "ja": "魔女図鑑 更新…",
+      "zh": "魔女图鉴 更新…",
+      "vi": "Cập nhật thủ công phù thủy…",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema019",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema019|",
+      "ja": "だからボク……<br>メルルちゃんを探して……！",
+      "zh": "所以我才会……<br>\n跑出去找梅露露……！",
+      "vi": "Đó là lý do tại sao tôi... Chạy ra ngoài tìm Meruru...!",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_002",
+      "speaker_tag": "; > @toast |#Toast_002|",
+      "ja": "議論発展…",
+      "zh": "讨论前进…",
+      "vi": "Cuộc thảo luận đang tiến triển…",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro027",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro027|",
+      "ja": "……そのぐらいにしてもらおうか。<br>いわれのない中傷は。",
+      "zh": "……这种毫无根据的诽谤<br>\n差不多该到此为止了吧。",
+      "vi": "...Cái kiểu vu khống vô căn cứ này Đã gần đến lúc kết thúc một ngày.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Alisa003",
+      "speaker_tag": "; > Alisa: |#0201Trial07_Alisa003|",
+      "ja": "……あ？",
+      "zh": "……啊？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro028",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro028|",
+      "ja": "考えてもみてくれ。<br>エマの証言には矛盾がある。",
+      "zh": "请各位仔细想想吧。<br>\n艾玛的证词中存在着矛盾。",
+      "vi": "Xin hãy suy nghĩ về nó một cách cẩn thận. Có những mâu thuẫn trong lời khai của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hanna001",
+      "speaker_tag": "; > Hanna: |#0201Trial07_Hanna001|",
+      "ja": "矛盾って……なんですの？",
+      "zh": "矛盾……？什么矛盾？",
+      "vi": "Mâu thuẫn...? Mâu thuẫn gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro029",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro029|",
+      "ja": "メルルが私に【医務室で襲われた】……？",
+      "zh": "梅露露说，她【在医务室被我袭击】……？",
+      "vi": "Meruru nói rằng cô ấy [bị tôi tấn công trong bệnh xá]...?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro030",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro030|",
+      "ja": "いやいや、そんなことは絶対にあり得ない。",
+      "zh": "不，这绝对不可能发生。",
+      "vi": "Không, điều đó tuyệt đối sẽ không xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro031",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro031|",
+      "ja": "――いいかい、絶対にだ。",
+      "zh": "——各位听清楚了，是绝对不可能发生。",
+      "vi": "---Mọi người hãy nghe rõ nhé, điều này tuyệt đối không thể xảy ra được.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro032",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro032|",
+      "ja": "なぜならそのとき……<br>医務室には、【ナノカがいた】んだよ。",
+      "zh": "因为那时……<br>\n医务室里【有奈叶香在场】啊。",
+      "vi": "Bởi vì khi đó... Trong bệnh xá [Nayoka có mặt].",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema020",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema020|",
+      "ja": "……あっ！",
+      "zh": "……啊！",
+      "vi": "...À!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro033",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro033|",
+      "ja": "それはさきほどアンアンがまとめてくれた、<br>アリバイにも記載されている……。",
+      "zh": "这一点在刚才安安整理的<br>\n不在场证明中也有明确提及……",
+      "vi": "Điểm này được giải thích trong vừa được AnAn sắp xếp. Nó cũng được đề cập rõ ràng trong bằng chứng ngoại phạm…",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro034",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro034|",
+      "ja": "違うかい？ ナノカ。",
+      "zh": "没错吧？奈叶香。",
+      "vi": "Đúng không? Nanoha.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0201Trial07_Nanoka001|",
+      "ja": "……そうね。<br>その点は気になってはいたわ。",
+      "zh": "……是的。<br>\n这一点我也觉得非常奇怪。",
+      "vi": "...vâng. Tôi cũng thấy điều này rất lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro035",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro035|",
+      "ja": "エマの話によれば、<br>メルルと電話したあとに<br>ラウンジでナノカと会ったそうじゃないか。",
+      "zh": "按照艾玛的说法，<br>\n她和梅露露通完电话后，<br>\n在会客厅遇到了奈叶香，没错吧？",
+      "vi": "Theo Ema, Sau khi cô ấy nói chuyện xong với Meruru, Tôi đã gặp Nanoyaka ở phòng khách phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro036",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro036|",
+      "ja": "だがそのナノカは、<br>医務室で薬を探していたんだろう？",
+      "zh": "但是，当时的奈叶香，<br>\n不是应该正在医务室里找药吗？",
+      "vi": "Tuy nhiên, Nanoha lúc đó, Chẳng phải tôi đang tìm thuốc ở bệnh xá sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0201Trial07_Nanoka002|",
+      "ja": "ええ、間違いないわ。<br>私はしばらく医務室にいたの。",
+      "zh": "是的，没错。<br>\n我确实在医务室里待了一段时间。",
+      "vi": "Vâng, đúng vậy. Tôi đã dành một thời gian trong bệnh xá.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0201Trial07_Nanoka003|",
+      "ja": "だから桜羽エマが、<br>【氷上メルルは医務室で二階堂ヒロに襲われた】と<br>証言するなら……。",
+      "zh": "所以，<br>\n如果樱羽艾玛声称，<br>\n【冰上梅露露在医务室遭到了二阶堂希罗的袭击】的话……",
+      "vi": "Vì vậy, Nếu Ema Sakuraba tuyên bố, [Hyougami Meruru bị Nikaidou Hiro tấn công trong bệnh xá] Nếu...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0201Trial07_Nanoka004|",
+      "ja": "それは私から否定させてもらうわ。",
+      "zh": "我必须站出来否定这一点。",
+      "vi": "Tôi phải đứng lên phủ nhận điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0201Trial07_Nanoka005|",
+      "ja": "間違いなく……【氷上メルルは医務室にいなかった】。",
+      "zh": "毫无疑问……【冰上梅露露当时根本就不在医务室】。",
+      "vi": "Không còn nghi ngờ gì nữa... [Meruru trên băng hoàn toàn không ở bệnh xá vào thời điểm đó].",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema021",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema021|",
+      "ja": "そ、そんな……！<br>でも、メルルちゃんは電話で<br>たしかに医務室にいたって……！",
+      "zh": "怎、怎么会这样……！<br>\n但是，梅露露在电话里<br>\n明明亲口说，她就在医务室啊……！",
+      "vi": "Làm sao, làm sao chuyện này có thể xảy ra được...! Tuy nhiên, Meruru đang nghe điện thoại Mingming tự mình nói, cô ấy đang ở bệnh xá...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0201Trial07_Nanoka006|",
+      "ja": "……なら、私が氷上メルルを襲ったということに<br>なるのかしら？",
+      "zh": "……那么，<br>\n难道是我袭击了冰上梅露露吗？",
+      "vi": "...thì, Có lẽ nào tôi đã tấn công Meruru trên băng?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema022",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema022|",
+      "ja": "そ、それは……！",
+      "zh": "这、这……！",
+      "vi": "Cái này, cái này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro037",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro037|",
+      "ja": "エマ、君は嘘をついて私を犯人にしようとしたんだ。",
+      "zh": "艾玛，你在撒谎，你想把我塑造成凶手。",
+      "vi": "Ema, ​​bạn đang nói dối, bạn đang cố biến tôi thành kẻ sát nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro038",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro038|",
+      "ja": "そうでなければ、こんな矛盾は起こるはずがない……！",
+      "zh": "不然的话，不可能出现这种矛盾……！",
+      "vi": "Nếu không thì sự mâu thuẫn như vậy sẽ không thể xảy ra được...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema023",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema023|",
+      "ja": "そんなことないよ……！ ボクは……！",
+      "zh": "不是这样的……！我没有……！",
+      "vi": "Không phải như vậy...! Tôi không……!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Miria003",
+      "speaker_tag": "; > Miria: |#0201Trial07_Miria003|",
+      "ja": "……ま、まあまあ……！<br>２人とも、落ち着いて……！",
+      "zh": "……好、好啦……！<br>\n你们两个，都冷静一点……！",
+      "vi": "...Được rồi, được rồi...! Hai người bình tĩnh lại...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Miria004",
+      "speaker_tag": "; > Miria: |#0201Trial07_Miria004|",
+      "ja": "ほ、ほらレイアちゃんも！<br>リーダーなんでしょ！<br>このままじゃ話がどこまでも平行線だよ……！",
+      "zh": "小蕾，你也快说两句！<br>\n你不是领袖吗！<br>\n这样下去讨论永远不会有进展的……！",
+      "vi": "Tiểu Lôi, xin hãy nói nhanh vài câu đi! Bạn không phải là một nhà lãnh đạo? Cuộc thảo luận sẽ không bao giờ tiến triển nếu cứ tiếp tục như thế này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Leia001",
+      "speaker_tag": "; > Leia: |#0201Trial07_Leia001|",
+      "ja": "……たしかに、そうだね。<br>ここは穏便に話し合いで解決しよう！",
+      "zh": "……确实，你说得对。<br>\n我们应该心平气和地对话，争取和平解决！",
+      "vi": "...Quả thực, bạn nói đúng. Chúng ta nên nói chuyện một cách bình tĩnh và nỗ lực tìm kiếm giải pháp hòa bình!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Coco002",
+      "speaker_tag": "; > Coco: |#0201Trial07_Coco002|",
+      "ja": "いや今まさに【話し合い】をしてる最中っしょ……。",
+      "zh": "我们现在不就是在【对话】吗……",
+      "vi": "Không phải bây giờ chúng ta chỉ đang [trò chuyện] thôi sao...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Sherry003",
+      "speaker_tag": "; > Sherry: |#0201Trial07_Sherry003|",
+      "ja": "そうは言っても、<br>どちらの主張を裏付けるようなものも<br>ありませんし……。",
+      "zh": "虽然是对话没错啦，<br>\n但现在也没有任何证据<br>\n能证实哪一方的说法是正确的……",
+      "vi": "Mặc dù đây là một cuộc trò chuyện nhưng đó là sự thật, Nhưng chưa có bằng chứng Bạn có thể chứng minh phát biểu của bên nào đúng...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Noah001",
+      "speaker_tag": "; > Noah: |#0201Trial07_Noah001|",
+      "ja": "……んー。<br>のあ、なんか変だと思うな。<br>エマちゃんの言ってること。",
+      "zh": "……嗯——<br>\n诺亚觉得艾玛说的话<br>\n有点奇怪。",
+      "vi": "...Hừm—— Noah nghĩ về điều Ema đã nói Một chút lạ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Alisa004",
+      "speaker_tag": "; > Alisa: |#0201Trial07_Alisa004|",
+      "ja": "……まあそりゃ、黒部の話と食い違ってるしな。",
+      "zh": "……哎，毕竟和黑部的说法有矛盾嘛。",
+      "vi": "...Này, xét cho cùng thì nó trái ngược với tuyên bố của Kurobe.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Noah002",
+      "speaker_tag": "; > Noah: |#0201Trial07_Noah002|",
+      "ja": "そういうことじゃなくて……。",
+      "zh": "不是这个意思啦……",
+      "vi": "Ý Noah không phải vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Noah003",
+      "speaker_tag": "; > Noah: |#0201Trial07_Noah003|",
+      "ja": "……エマちゃんはヒロちゃんみたく、<br>嘘をつく意味ってないよねー？",
+      "zh": "……艾玛和希罗不一样，<br>\n她没有说谎的理由吧？",
+      "vi": "...Ema khác với Hiro, Cô ấy không có lý do gì để nói dối, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema024",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema024|",
+      "ja": "……っ！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro039",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro039|",
+      "ja": "（……嘘？）",
+      "zh": "（……说谎？）",
+      "vi": "(...nói dối?)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Noah004",
+      "speaker_tag": "; > Noah: |#0201Trial07_Noah004|",
+      "ja": "ヒロちゃんは疑われてるから、嘘つくのもわかるよ？",
+      "zh": "希罗是因为被人怀疑了，所以说谎也能理解哦？",
+      "vi": "Việc Anh hùng nói dối vì bị nghi ngờ là điều dễ hiểu phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Noah005",
+      "speaker_tag": "; > Noah: |#0201Trial07_Noah005|",
+      "ja": "でもエマちゃんはなんでそのこと、<br>【隠してた】のかな……。<br>ん～……。",
+      "zh": "但是，艾玛为什么要<br>\n【隐瞒】这件事呢……？<br>\n唔～……",
+      "vi": "Nhưng tại sao Ema nên [Che giấu] Thế còn chuyện này thì sao...? Ừm~……",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Noah006",
+      "speaker_tag": "; > Noah: |#0201Trial07_Noah006|",
+      "ja": "……難しいね。のあにはわかんないや。",
+      "zh": "……好难懂啊。诺亚搞不明白。",
+      "vi": "...Thật khó hiểu. Nô-ê không thể hiểu được.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema025",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema025|",
+      "ja": "それ……は……。",
+      "zh": "那个……我……",
+      "vi": "Đó...tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro040",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro040|",
+      "ja": "（……あの口ぶりからして、<br>　ノアは私が嘘をついたのだと<br>　気付いていたのか）",
+      "zh": "（……从诺亚的口吻来看，<br>\n她难道是察觉到<br>\n我在说谎了吗？）",
+      "vi": "(...Đánh giá từ giọng điệu của Noah, Liệu cô ấy có biết về Tôi đang nói dối à? )",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro041",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro041|",
+      "ja": "（何を考えているかわからないが……鋭い子だ。<br>　敵に回したくはないな）",
+      "zh": "（虽然不知道诺亚在想什么……但她真的很敏锐。<br>\n真不想和她为敌）",
+      "vi": "(Tôi không biết Noah đang nghĩ gì...nhưng cô ấy thực sự rất quan tâm. Tôi thực sự không muốn trở thành kẻ thù của cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro042",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro042|",
+      "ja": "（……それはともかく、<br>　エマの隠し事……？）",
+      "zh": "（……话说回来，<br>\n艾玛隐瞒了事情……？）",
+      "vi": "(…Nhắc mới nhớ, Ema đang che giấu điều gì đó...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro043",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro043|",
+      "ja": "（何か、まだ隠していることがあるのか？）",
+      "zh": "（她还有什么事情瞒着我们吗？）",
+      "vi": "(Có điều gì khác mà cô ấy đang giấu chúng ta không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro044",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro044|",
+      "ja": "……ノア。<br>私は何も嘘なんて付いていないよ。",
+      "zh": "……诺亚，<br>\n我没有说任何谎话哦。",
+      "vi": "…Noah, Tôi không hề nói dối.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Noah007",
+      "speaker_tag": "; > Noah: |#0201Trial07_Noah007|",
+      "ja": "ふーん？",
+      "zh": "是吗～？",
+      "vi": "Thật sao~?",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro045",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro045|",
+      "ja": "……しかし、エマ。<br>君が何か隠していたというなら、<br>今のうちに言っておいた方がいいんじゃないかな。",
+      "zh": "……不过，艾玛。<br>\n如果你还有什么隐瞒的事情，<br>\n还是现在说出来比较好。",
+      "vi": "...Nhưng, Ema. Nếu bạn còn điều gì khác muốn giấu, Tốt hơn hết là nên nói điều đó ngay bây giờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Hiro046",
+      "speaker_tag": "; > Hiro: |#0201Trial07_Hiro046|",
+      "ja": "……処刑されたらもう言えないのだからね。",
+      "zh": "……毕竟一旦被处刑，就再也说不出口了。",
+      "vi": "...Rốt cuộc, một khi ngươi bị xử tử, ngươi sẽ không bao giờ có thể lên tiếng được nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema026",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema026|",
+      "ja": "う……！",
+      "zh": "呜……！",
+      "vi": "Ôi...!",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema027",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema027|",
+      "ja": "……わかった。言うよ。",
+      "zh": "……我明白了。我说就是。",
+      "vi": "...Tôi hiểu. Tôi nói có.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Trial07_Ema028",
+      "speaker_tag": "; > Ema: |#0201Trial07_Ema028|",
+      "ja": "でも……事件に関係あることじゃないんだ。<br>先に謝っておくよ……ごめん。",
+      "zh": "但是……这件事和案件本身并没有关系。<br>\n我先向大家道歉……对不起。",
+      "vi": "Nhưng... vấn đề này không liên quan gì đến bản thân vụ án. Trước tiên hãy để tôi xin lỗi mọi người... Tôi xin lỗi.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,912 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter03_Bad01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter03/Act02_Chapter03_Bad01' Naninovel scenario script",
+  "total_entries": 113,
+  "entries": [
+    {
+      "id": "0203Bad01_Hiro001",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro001|",
+      "ja": "ああ、たしかに興味はあるな。",
+      "zh": "是啊，我确实有兴趣。",
+      "vi": "Vâng, tôi chắc chắn quan tâm.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah001",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah001|",
+      "ja": "だよねだよね！ 読んでみたいよね！",
+      "zh": "诺亚就说嘛！大家都会想看的！",
+      "vi": "Chỉ cần nói Nô-ê! Mọi người sẽ muốn xem nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro002",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro002|",
+      "ja": "アンアンが、読ませてもいいと思ってくれるなら。",
+      "zh": "只要安安愿意给我看，我就想看。",
+      "vi": "Chỉ cần AnAn chịu cho tôi xem là tôi muốn xem.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn001",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn001|",
+      "ja": "わがはいは……。",
+      "zh": "吾辈……",
+      "vi": "Thế hệ của tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative001",
+      "speaker_tag": "",
+      "ja": "アンアンはムスッとした表情で<ruby=\"うつむ\">俯</ruby>くと、<br>もごもごと言葉を続けた。",
+      "zh": "安安一脸苦闷地低下头，<br>\n含含糊糊地继续说道。",
+      "vi": "AnAn cúi đầu với vẻ mặt chán nản, Anh tiếp tục một cách mơ hồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn002",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn002|",
+      "ja": "……読みたいと言うなら、<br>読ませてやらないこともない……。",
+      "zh": "……要是你们想看，<br>\n吾辈也不是不能给你们看……",
+      "vi": "...Nếu bạn muốn xem nó, Không phải là tôi không thể cho bạn xem...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah002",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah002|",
+      "ja": "やったー！ アンアンちゃんの小説、<br>楽しみだなぁ。",
+      "zh": "太好啦！<br>\n真期待能快点看到安安的小说呢。",
+      "vi": "Tuyệt vời! Noah thực sự mong sớm được đọc tiểu thuyết của AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn003",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn003|",
+      "ja": "あまり期待はするな。",
+      "zh": "别抱那么大的期待。",
+      "vi": "Đừng có kỳ vọng cao như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah003",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah003|",
+      "ja": "え～、無理だよ～。<br>もうすっごく楽しみになっちゃったもん。",
+      "zh": "欸～诺亚做不到～<br>\n诺亚已经期待得不得了了嘛。",
+      "vi": "Ơ~Noah không thể làm được~ Nô-ê đã mong chờ điều đó rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn004",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn004|",
+      "ja": "むぅぅ……。",
+      "zh": "唔唔……",
+      "vi": "Ờ-huh...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah004",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah004|",
+      "ja": "アンアンちゃんが小説を書いたら、<br>のあが挿絵をたくさん描くからね！",
+      "zh": "安安把小说写出来以后，<br>\n诺亚会给小说画很多很多插画！",
+      "vi": "Sau khi AnAn viết tiểu thuyết, Noah sẽ vẽ rất nhiều hình minh họa cho cuốn tiểu thuyết!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah005",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah005|",
+      "ja": "ヒロちゃんも楽しみにしてて。",
+      "zh": "希罗也请期待一下哦。",
+      "vi": "Anh hùng, xin hãy chờ đợi nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro003",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro003|",
+      "ja": "ああ、小説も挿絵もどちらも楽しみにしている。",
+      "zh": "嗯，无论是小说还是插画，我都很期待能早日看到。",
+      "vi": "Chà, dù là tiểu thuyết hay tranh minh họa, tôi đều mong sớm được đọc nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative002",
+      "speaker_tag": "",
+      "ja": "その後も、２人は小説や挿絵についての話題に<br>花を咲かせていた。",
+      "zh": "在那以后，<br>\n她们两个一直热烈讨论者小说跟插画的话题。",
+      "vi": "Sau đó, Hai người đang thảo luận sôi nổi về chủ đề tiểu thuyết và tranh minh họa.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative003",
+      "speaker_tag": "",
+      "ja": "それから数日後。",
+      "zh": "又过了几天。",
+      "vi": "Một vài ngày nữa trôi qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro004",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro004|",
+      "ja": "（そういえば、アンアンの小説は<br>　どうなったんだろう）",
+      "zh": "（说起来，<br>\n安安的小说写得怎样了呢）",
+      "vi": "(Nói đến đây, Tiểu thuyết của AnAn thế nào rồi?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative004",
+      "speaker_tag": "",
+      "ja": "あの日から、アンアンもノアのアトリエに入り浸り、<br>脚本と同時に小説を執筆しているらしい。",
+      "zh": "自那天起，安安也整天泡在诺亚的画室里，<br>\n同时进行剧本和小说的创作。",
+      "vi": "Kể từ hôm đó AnAn cũng ở suốt ngày trong studio của Noah, Làm việc trên kịch bản phim và tiểu thuyết cùng một lúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative005",
+      "speaker_tag": "",
+      "ja": "先日聞いたノアの話によれば、<br>もうすぐ完成しそうだという。",
+      "zh": "前阵子听诺亚说，<br>\n安安好像快写完了。",
+      "vi": "Tôi đã nghe Noah nói cách đây không lâu, AnAn hình như viết gần xong rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro005",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro005|",
+      "ja": "（少し、様子を見に行ってみるか）",
+      "zh": "（去看一下她的情况吧）",
+      "vi": "(Chúng ta hãy đi xem cô ấy thế nào)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative006",
+      "speaker_tag": "",
+      "ja": "劇の準備をキリのいいところまで終わらせて、<br>私はアトリエへと足を向けた。",
+      "zh": "等舞台剧的准备工作告一段落，<br>\n我便动身走向画室。",
+      "vi": "Khi việc chuẩn bị cho vở kịch trên sân khấu đã hoàn tất, Tôi bắt đầu đi về phía studio.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro006",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro006|",
+      "ja": "作業は進んでいるか？",
+      "zh": "写作进展还行吗？",
+      "vi": "Việc viết lách có tiến triển tốt không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah006",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah006|",
+      "ja": "あ、ヒロちゃん！",
+      "zh": "啊，希罗……！",
+      "vi": "Ôi, anh hùng...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn005",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn005|",
+      "ja": "……ほう。",
+      "zh": "……哦。",
+      "vi": "...Ồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative007",
+      "speaker_tag": "",
+      "ja": "アトリエには、上機嫌なノアと<br>目を輝かせたアンアンの姿があった。",
+      "zh": "诺亚正在画室里，看起来心情特别好。<br>\n还有安安，两眼正闪着激动的光。",
+      "vi": "Noah đang ở trong phòng thu và có vẻ tâm trạng rất tốt. Và AnAn, đôi mắt sáng lên vì phấn khích.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah007",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah007|",
+      "ja": "あのね！ アンアンちゃんの小説、<br>すっごく面白いんだよ！",
+      "zh": "你听诺亚说！<br>\n安安的小说超级有趣哦！",
+      "vi": "Hãy nghe Nô-ê! Truyện của AnAn siêu thú vị!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah008",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah008|",
+      "ja": "だからね、今のあがいーっぱい<br>挿絵を描いてるところなの！",
+      "zh": "所以啊，<br>\n诺亚现在正在给小说画一张又一张插画！",
+      "vi": "Vì vậy, Noah hiện đang vẽ minh họa này đến minh họa khác cho cuốn tiểu thuyết!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative008",
+      "speaker_tag": "",
+      "ja": "どうやら２人の作業の優先度は、<br>劇制作から小説に移ってしまったらしい。",
+      "zh": "看来她们的工作重心<br>\n已经从舞台剧制作转移到小说创作上。",
+      "vi": "Có vẻ như trọng tâm của họ là Đã chuyển từ sản xuất sân khấu sang viết tiểu thuyết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative009",
+      "speaker_tag": "",
+      "ja": "作業机の上には、小説が書かれた紙と、<br>絵が描かれた紙が散らばっている。",
+      "zh": "工作台上散落着一张张<br>\n写满文字的纸张跟画了图案的画纸。",
+      "vi": "Có những tờ nằm rải rác trên bàn làm việc. Giấy chứa đầy văn bản và giấy vẽ có hoa văn trên đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn006",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn006|",
+      "ja": "ノアはすごい。<br>わがはいが想像したとおりの光景だ。",
+      "zh": "诺亚真厉害。<br>\n这就是吾辈想像里的景象。",
+      "vi": "Nô-ê thật tuyệt vời. Đây là cảnh tượng trong trí tưởng tượng của chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative010",
+      "speaker_tag": "",
+      "ja": "一際感動しているらしい。<br>アンアンはノアの絵を食い入るように見つめている。",
+      "zh": "安安看起来十分感动。<br>\n她正目不转睛地盯着诺亚的画作。",
+      "vi": "AnAn nhìn rất cảm động. Cô ấy đang chăm chú nhìn bức tranh của Noah.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah009",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah009|",
+      "ja": "ふふ、<ruby=\"うれ\">嬉</ruby>しいなぁ～。<br>でも、これで終わりじゃ無いよ。",
+      "zh": "呵呵，好高兴～<br>\n但这还不算成品哦。",
+      "vi": "Haha, hạnh phúc quá~ Nhưng đây vẫn chưa phải là sản phẩm hoàn chỉnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro007",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro007|",
+      "ja": "どういうことだ？",
+      "zh": "什么意思？",
+      "vi": "Nó có nghĩa là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah010",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah010|",
+      "ja": "今、仕上げをするね～。",
+      "zh": "诺亚现在就来收尾～",
+      "vi": "Noah sẽ kết thúc ngay bây giờ~",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative011",
+      "speaker_tag": "",
+      "ja": "上機嫌に笑いながらノアが筆を動かすと、<br>描かれていた生き物が次々に紙から飛び出し、<br>実体を持つ。",
+      "zh": "喜笑颜开的诺亚拿起画笔划了几下后，<br>\n画里描绘的生物就逐一化为实体，<br>\n从纸面上跃出。",
+      "vi": "Noah rạng rỡ cầm cọ vẽ lên và vuốt ve nó vài lần, Những sinh vật được miêu tả trong bức tranh lần lượt biến thành những thực thể, Nhảy ra khỏi trang.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative012",
+      "speaker_tag": "",
+      "ja": "それはまるで、本物のように。",
+      "zh": "看起来和真正存在的生物无异。",
+      "vi": "Chúng trông giống như những sinh vật thực sự.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro008",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro008|",
+      "ja": "これは……。",
+      "zh": "这是……",
+      "vi": "Đây là...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn007",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn007|",
+      "ja": "何度見てもすごい。",
+      "zh": "不管看几次都觉得好厉害。",
+      "vi": "Dù có xem bao nhiêu lần đi chăng nữa, tôi vẫn thấy nó thật tuyệt vời.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah011",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah011|",
+      "ja": "でしょでしょ～？",
+      "zh": "对吧对吧～？",
+      "vi": "Đúng, phải không~?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative013",
+      "speaker_tag": "",
+      "ja": "角の生えたウサギや、真っ白で神々しい蛇。<br>それに、鋭い爪を持つ鳥に、<br>ドラゴンのような生き物まで。",
+      "zh": "长角的兔子，气质神圣的白蛇。<br>\n除此以外，还有拥有锐利脚爪的飞鸟，<br>\n长得像龙的奇幻生物。",
+      "vi": "Con thỏ có sừng dài và con rắn trắng có khí chất thần thánh. Ngoài ra còn có loài chim bay với móng vuốt sắc nhọn, Những sinh vật tưởng tượng trông giống như rồng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative014",
+      "speaker_tag": "",
+      "ja": "実体化した生き物たちは、<br>ノアとアンアンに甘えるように寄っていく。",
+      "zh": "化为实体的那群生物就像跟诺亚和安安撒娇一般<br>\n往她们身上靠。",
+      "vi": "Nhóm sinh vật biến thành thực thể giống như đang làm nũng như một đứa trẻ hư hỏng đối với Noah và AnAn Hãy dựa vào họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah012",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah012|",
+      "ja": "実はね、この子たちの他にも<br>まだまだたくさんいるんだよ～。",
+      "zh": "其实啊，<br>\n除了这些小家伙以外还有其他动物哦。",
+      "vi": "Thực ra, Có những động vật khác ngoài những kẻ nhỏ bé này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro009",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro009|",
+      "ja": "そうなのか？",
+      "zh": "是吗？",
+      "vi": "Thật sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah013",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah013|",
+      "ja": "うん！ 何日か前から、<br>アンアンちゃんと一緒に考えて<br>いっぱい描いてたんだ。",
+      "zh": "嗯！<br>\n诺亚从好几天前开始就跟安安一起想了好多，<br>\n也画出来好多。",
+      "vi": "Vâng! Noah đã cùng AnAn suy nghĩ rất nhiều từ mấy ngày trước, Noah cũng đã vẽ rất nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah014",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah014|",
+      "ja": "ね～、アンアンちゃん。",
+      "zh": "对不对～安安？",
+      "vi": "Đúng không AnAn?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn008",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn008|",
+      "ja": "あぁ、今は部屋で留守番させている。",
+      "zh": "是啊，今天让它们守房间里去了。",
+      "vi": "Vâng, hãy để họ ở trong phòng ngày hôm nay.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah015",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah015|",
+      "ja": "あ、でもさっきのあがお部屋に戻ったとき<br>何匹か逃がしちゃったから……。",
+      "zh": "啊，<br>\n可诺亚刚才回房间的时候不小心放走了几只……",
+      "vi": "À, Nhưng Noah đã vô tình để một vài người trong số họ đi khi anh ấy quay lại phòng vừa rồi...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah016",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah016|",
+      "ja": "お屋敷の中で<br>遊んでる子もいるかも。",
+      "zh": "应该也有几只动物正在<br>\n房子里玩耍吧。",
+      "vi": "Cũng nên có một vài con vật Vào nhà vui vẻ nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro010",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro010|",
+      "ja": "それは、あとで捕まえた方がよさそうだな。",
+      "zh": "那等会还是去抓回来比较好。",
+      "vi": "Sẽ tốt hơn nếu bắt nó sau.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro011",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro011|",
+      "ja": "（まあでも、特に危なくはなさそうだし<br>　心配はいらなそうだが……）",
+      "zh": "（不过，看起来也没有什么特别危险的动物，<br>\n应该用不着太担心……）",
+      "vi": "(Tuy nhiên, có vẻ như không có loài động vật nào đặc biệt nguy hiểm, Bạn không cần phải lo lắng quá nhiều...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative015",
+      "speaker_tag": "",
+      "ja": "可愛らしい生き物たちが戯れるほのぼのとした光景に、<br>こちらの心もつい緩んでしまう。",
+      "zh": "看见少女和可爱生物嬉戏的温馨画面，<br>\n我的心也不由得放松了下来。",
+      "vi": "Ngắm nhìn cảnh tượng cảm động của một cô gái chơi đùa với những sinh vật dễ thương, Lòng tôi không khỏi thư thái.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative016",
+      "speaker_tag": "",
+      "ja": "けれど、１つだけ引っかかることがあった。",
+      "zh": "只是有一件事让我感到有些顾虑。",
+      "vi": "Chỉ có một điều làm tôi lo lắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro012",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro012|",
+      "ja": "（ノアの魔法はここまでのものだっただろうか）",
+      "zh": "（诺亚的魔法竟然这都能做到吗）",
+      "vi": "(Liệu phép thuật của Nô-ê có thể làm được tất cả những điều này không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative017",
+      "speaker_tag": "",
+      "ja": "目の前にいる生き物は、<br>元々絵だったとは思えないほど本物に近い。",
+      "zh": "眼前的生物是那么的活灵活现，<br>\n让人想像不到那原本只是画中的形象。",
+      "vi": "Những sinh vật trước mặt tôi thật sống động, Thật khó để tưởng tượng rằng đó chỉ là một hình ảnh trong một bức tranh.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro013",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro013|",
+      "ja": "（もしかしたら、触れれば案外……）",
+      "zh": "（说不定触感意外地……）",
+      "vi": "(Có lẽ cú chạm là bất ngờ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative018",
+      "speaker_tag": "",
+      "ja": "そう思って、近くにいたウサギのような生き物に<br>手を伸ばしたその時。",
+      "zh": "我这样想着，<br>\n向身旁一只像是兔子的生物伸出了手。",
+      "vi": "Tôi nghĩ vậy, Anh đưa tay ra cho sinh vật giống thỏ bên cạnh.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Rabbit001",
+      "speaker_tag": "; > Rabbit: |#0203Bad01_Rabbit001|",
+      "ja": "シャアァァァァッ！",
+      "zh": "嗄啊啊啊啊啊啊！",
+      "vi": "Ahhhhhhhhh!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro014",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro014|",
+      "ja": "っ！",
+      "zh": "——！",
+      "vi": "——！",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative019",
+      "speaker_tag": "",
+      "ja": "さっきまでの穏やかな様子とは一転、<br>それは私に牙を<ruby=\"む\">剥</ruby>いた。",
+      "zh": "一改刚才的温和模样，<br>\n那生物朝我露出威吓的獠牙。",
+      "vi": "Thay đổi từ vẻ dịu dàng vừa rồi, Sinh vật đó nhe nanh đe dọa vào tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah017",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah017|",
+      "ja": "こら！<br>ヒロちゃんにそんなことしちゃダメだよ。",
+      "zh": "喂！<br>\n你怎么能这样凶希罗。",
+      "vi": "Xin chào! Sao cậu có thể ác ý với Hiro như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative020",
+      "speaker_tag": "",
+      "ja": "ノアやアンアンが<ruby=\"いさ\">諫</ruby>めるものの、<br>ウサギの敵意は消えない。",
+      "zh": "就算受到诺亚跟安安的训斥，<br>\n兔子依然不减对我的敌意。",
+      "vi": "Cho dù có bị Noah và AnAn khiển trách, Con thỏ vẫn còn thù địch với tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative021",
+      "speaker_tag": "",
+      "ja": "それどころか、他の生き物たちも<br>ノアたちを守るように囲んで、<br>こちらに敵意を向けてくる。",
+      "zh": "不仅这样，<br>\n就连其他生物也向我出显露出敌意，<br>\n仿佛要保护诺亚她们一般聚集到她们身边去。",
+      "vi": "Không chỉ vậy, Ngay cả những sinh vật khác cũng tỏ ra thù địch với tôi, Họ tụ tập xung quanh họ như để bảo vệ Noah và những người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro015",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro015|",
+      "ja": "産みの親であるノアとアンアンにしか<br>懐かないみたいだな。",
+      "zh": "看来它们只会亲近<br>\n创造者的安安跟诺亚呢。",
+      "vi": "Có vẻ như họ chỉ đến gần AnAn và Noah, những người sáng tạo ở đâu?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah018",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah018|",
+      "ja": "そんなぁ……。",
+      "zh": "怎么会……",
+      "vi": "Làm sao có thể...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative022",
+      "speaker_tag": "",
+      "ja": "ノアが残念そうに肩を落とすと、<br>騒ぎを聞きつけたらしい他の面々が<br>アトリエにやって来た。",
+      "zh": "诺亚露出一副沮丧的模样。<br>\n此时，<br>\n闻声而至的众人也陆续走进了画室。",
+      "vi": "Nô-ê trông có vẻ thất vọng. Vào lúc này, Mọi người nghe thấy âm thanh cũng lần lượt bước vào phòng thu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Leia001",
+      "speaker_tag": "; > Leia: |#0203Bad01_Leia001|",
+      "ja": "今、何か生き物の声がしたけれど……。",
+      "zh": "我刚才好像听到什么动物的叫声……",
+      "vi": "Hình như tôi vừa nghe thấy tiếng động vật nào đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Ema001",
+      "speaker_tag": "; > Ema: |#0203Bad01_Ema001|",
+      "ja": "えっ……！<br>どうしたの、その子たち。",
+      "zh": "欸……！<br>\n这些动物是怎么回事？",
+      "vi": "Hừ...! Chuyện gì đang xảy ra với những con vật này?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hanna001",
+      "speaker_tag": "; > Hanna: |#0203Bad01_Hanna001|",
+      "ja": "というか、なんなんですの？<br>ウサギ？ に角が生えてますわ……。",
+      "zh": "重点是，这都是些什么动物？<br>\n兔子？可它头上长了角……",
+      "vi": "Vấn đề là, đây là loại động vật gì? Thỏ? Nhưng trên đầu nó có sừng...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn009",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn009|",
+      "ja": "ノアが描いたんだ。",
+      "zh": "是诺亚画的。",
+      "vi": "Nó được vẽ bởi Nô-ê.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Leia002",
+      "speaker_tag": "; > Leia: |#0203Bad01_Leia002|",
+      "ja": "ノアくんが？",
+      "zh": "诺亚？",
+      "vi": "Noah？",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah019",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah019|",
+      "ja": "うん、そうだよ！<br>アンアンちゃんの小説の挿絵に使おうと思って、<br>たくさん描いたんだ。",
+      "zh": "嗯，就是诺亚哦！<br>\n这都是打算用来给安安的小说做插画的，<br>\n诺亚画了好多呢。",
+      "vi": "Chà, đó là Nô-ê! Tất cả những thứ này đều nhằm mục đích dùng làm minh họa cho tiểu thuyết của AnAn, Nô-ê đã vẽ rất nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah020",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah020|",
+      "ja": "ほんとにたくさん、たーっくさんね！",
+      "zh": "真的画了好多，超级多！",
+      "vi": "Noah thực sự đã vẽ rất nhiều, rất nhiều!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Leia003",
+      "speaker_tag": "; > Leia: |#0203Bad01_Leia003|",
+      "ja": "絵で描いたものを魔法でここまで<br>具現化できるなんて……。",
+      "zh": "用魔法竟然能让画里的生物<br>\n实体化到这种程度……",
+      "vi": "Bằng phép thuật, bạn thực sự có thể tạo ra các sinh vật trong bức tranh Hiện thực hóa tới mức độ này...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Leia004",
+      "speaker_tag": "; > Leia: |#0203Bad01_Leia004|",
+      "ja": "すごいじゃないか！ ノアくん！",
+      "zh": "你也太厉害了！诺亚！",
+      "vi": "Bạn quá tuyệt vời! Nô-ê!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah021",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah021|",
+      "ja": "えへへへへ。",
+      "zh": "欸嘿嘿。",
+      "vi": "Này này.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Leia005",
+      "speaker_tag": "; > Leia: |#0203Bad01_Leia005|",
+      "ja": "これなら、今回の劇は<br>もっといろんなことができるようになる。",
+      "zh": "这样的话，<br>\n这次舞台剧我们就能做到更多不同形式的表演。",
+      "vi": "Trong trường hợp này, Trong vở kịch sân khấu này, chúng ta sẽ có thể thực hiện nhiều hình thức biểu diễn khác nhau hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Leia006",
+      "speaker_tag": "; > Leia: |#0203Bad01_Leia006|",
+      "ja": "そうだ、せっかくだしこの子たちにも<br>出演を――。",
+      "zh": "对了，机会难得，<br>\n要不让这些动物也上台表演——",
+      "vi": "Nhân tiện, đây là cơ hội hiếm có, Sao không để những con vật này biểu diễn trên sân khấu——",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative023",
+      "speaker_tag": "",
+      "ja": "そう言って、レイアがウサギに一歩近付いた瞬間。",
+      "zh": "说完，蕾雅往兔子走近一步。就在这时候。",
+      "vi": "Nói xong, Leya tiến một bước lại gần con thỏ. Đó là khi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative024",
+      "speaker_tag": "",
+      "ja": "ウサギが吐き出した炎が、<br>一気にレイアの体を包み込んだ。",
+      "zh": "兔子朝蕾雅吐出一团火焰。<br>\n蕾雅瞬间被火焰吞没。",
+      "vi": "Con thỏ thở một quả cầu lửa vào Leia. Leia ngay lập tức chìm trong biển lửa.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Leia007",
+      "speaker_tag": "; > Leia: |#0203Bad01_Leia007|",
+      "ja": "ひっ、かはっ……。",
+      "zh": "噫、咳哈……",
+      "vi": "Ờ-huh...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative025",
+      "speaker_tag": "",
+      "ja": "あまりに突然のできごとで、<br>その場の誰も動くことができない。",
+      "zh": "事情发生得实在过于突然，<br>\n在场所有人都只是呆呆地站着没有动。",
+      "vi": "Sự việc xảy ra quá đột ngột, Mọi người có mặt đều đứng bất động.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hanna002",
+      "speaker_tag": "; > Hanna: |#0203Bad01_Hanna002|",
+      "ja": "っ……。",
+      "zh": "——！",
+      "vi": "——！",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Ema002",
+      "speaker_tag": "; > Ema: |#0203Bad01_Ema002|",
+      "ja": "レイア、ちゃん……？",
+      "zh": "蕾雅……！？",
+      "vi": "Leya...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative026",
+      "speaker_tag": "",
+      "ja": "焼けただれたレイアの体が床に倒れ込む。<br>――それが引き金になったらしい。",
+      "zh": "烧得焦黑的蕾雅倒在地上。<br>\n——那似乎昭示着意外的开端。",
+      "vi": "Leia, người bị cháy đen, ngã xuống đất. ---Điều đó dường như báo hiệu một sự khởi đầu bất ngờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative027",
+      "speaker_tag": "",
+      "ja": "ノアとアンアンを取り囲む動物たちが、<br>一斉にこちらに襲いかかってきた。",
+      "zh": "围绕在诺亚跟安安身边的那群动物突然一跃而起，<br>\n向我们发起了攻击。",
+      "vi": "Nhóm động vật xung quanh Noah và AnAn bất ngờ đứng dậy, đã phát động cuộc tấn công vào chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hanna003",
+      "speaker_tag": "; > Hanna: |#0203Bad01_Hanna003|",
+      "ja": "や……っ！ やめて！<br>来ないで……いやっ！！",
+      "zh": "住……！住手！<br>\n别过来……不要！！",
+      "vi": "Hãy sống...! dừng lại! Đừng đến đây... đừng! !",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah022",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah022|",
+      "ja": "ま、まって……っ！",
+      "zh": "等、等等……！",
+      "vi": "Đợi đã, chờ đã...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn010",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn010|",
+      "ja": "……ひっ",
+      "zh": "噫……",
+      "vi": "Ờ...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative028",
+      "speaker_tag": "",
+      "ja": "壁際に追い詰められたハンナは、<br>ドラゴンに頭を潰された。",
+      "zh": "汉娜被逼退至墙边。<br>\n龙把她的头颅给一下碾碎了。",
+      "vi": "Hanna bị ép lùi vào tường. Con rồng đã nghiền nát đầu cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Ema003",
+      "speaker_tag": "; > Ema: |#0203Bad01_Ema003|",
+      "ja": "やだ……あっちに行って！<br>ノアちゃんアンアンちゃん！<br>助けて……助けてよっ！",
+      "zh": "不要……给我一边去！<br>\n诺亚，安安！<br>\n救我……快救我！",
+      "vi": "Đừng... bỏ tôi một mình! Nô-ê, giữ an toàn! Cứu tôi...cứu tôi nhanh lên!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn011",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn011|",
+      "ja": "……ぁ、うあ……。",
+      "zh": "……啊，唔啊……",
+      "vi": "...À, ừ...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah023",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah023|",
+      "ja": "エマちゃん！",
+      "zh": "艾玛！",
+      "vi": "Ema！",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Ema004",
+      "speaker_tag": "; > Ema: |#0203Bad01_Ema004|",
+      "ja": "はっ……がっ……。",
+      "zh": "啊……呃……",
+      "vi": "À... Ờ...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative029",
+      "speaker_tag": "",
+      "ja": "白蛇に締め上げられたエマは、<br>苦しげにもがきながら倒れた。",
+      "zh": "被白蛇缠住的艾玛痛苦地挣扎一番以后，<br>\n也倒下了。",
+      "vi": "Sau khi Ema bị con rắn trắng quấn lấy và vùng vẫy đau đớn, Cũng bị ngã.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_AnAn012",
+      "speaker_tag": "; > AnAn: |#0203Bad01_AnAn012|",
+      "ja": "うっ、うぇ……。",
+      "zh": "唔，唔……",
+      "vi": "Ờ, ừ...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah024",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah024|",
+      "ja": "アンアンちゃん……！",
+      "zh": "安安……？",
+      "vi": "AnAn……？",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative030",
+      "speaker_tag": "",
+      "ja": "目の前で一気に起こった凄惨な出来事に、<br>アンアンは耐えられなかったのか、<br>その場でえずき始める。",
+      "zh": "大概是无法接受<br>\n眼前突如其来的惨剧，<br>\n安安当场呕吐了起来。",
+      "vi": "Có lẽ không thể chấp nhận Bi kịch bất ngờ trước mắt chúng ta, AnAn nôn ngay tại chỗ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative031",
+      "speaker_tag": "",
+      "ja": "そして私の目の前には、<br>エマを殺した白蛇が迫ってきていた。",
+      "zh": "绞杀了艾玛的白蛇也来到了<br>\n我的面前。",
+      "vi": "Con rắn trắng bóp cổ Ema cũng tới trước mặt tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah025",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah025|",
+      "ja": "ヒロちゃん、逃げて！",
+      "zh": "希罗，快逃！",
+      "vi": "Anh hùng, chạy đi!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro016",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro016|",
+      "ja": "（そうしたいところだけれど……！）",
+      "zh": "（我是想逃，可是……！）",
+      "vi": "(Tôi muốn trốn thoát, nhưng...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative032",
+      "speaker_tag": "",
+      "ja": "出口には、ハンナを殺したドラゴンがいるし、<br>ノアとアンアンを取り囲む他の獣たちも、<br>こちらに鋭い視線を向けている。",
+      "zh": "杀死了汉娜的龙就盘踞在门口，<br>\n围在诺亚跟安安身边的其他野兽也一直<br>\n对这边虎视眈眈。",
+      "vi": "Con rồng đã giết Hanna đang cố thủ ở cửa, Những con thú khác xung quanh Noah và AnAn cũng đã Nhìn bên này háo hức.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro017",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro017|",
+      "ja": "（どうしたら……）",
+      "zh": "（该怎么办……）",
+      "vi": "(Phải làm gì...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative033",
+      "speaker_tag": "",
+      "ja": "死に戻りの魔法がある以上、<br>死ねば何とかなるかとも思ったけれど、<br>ノアは数日前からこの生き物たちを描いていたらしい。",
+      "zh": "我有死亡回溯的魔法，<br>\n只要死了事情总能应付过去，<br>\n但诺亚应该是在几天前就开始画这些生物的画了。",
+      "vi": "Tôi có phép thuật hồi sinh cái chết, Chỉ cần bạn chết thì mọi chuyện luôn có thể giải quyết được, Nhưng chắc hẳn Nô-ê đã bắt đầu vẽ những sinh vật này từ vài ngày trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro018",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro018|",
+      "ja": "（それなら、死に戻っても<br>　こいつらはすでに牢屋敷にいる……）",
+      "zh": "（要是这样的话，就算通过死亡回溯到过去，<br>\n它们也早就存在于监牢之内……）",
+      "vi": "(Nếu đúng như vậy, ngay cả khi bạn quay về quá khứ qua cái chết, Họ cũng đã tồn tại trong Ngục Dinh Thự một thời gian dài...)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative034",
+      "speaker_tag": "",
+      "ja": "もう手遅れだ。",
+      "zh": "为时已晚。",
+      "vi": "Đã quá muộn rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative035",
+      "speaker_tag": "",
+      "ja": "為す術も無く、私はエマと同じように<br>白蛇に首を締め上げられる。",
+      "zh": "我想不到任何办法，<br>\n跟艾玛一样被白蛇缠住了脖子。",
+      "vi": "Tôi không thể nghĩ ra cách nào, Giống như Ema, ​​con rắn trắng quấn quanh cổ cô.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro019",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro019|",
+      "ja": "くっ、かはっ……。",
+      "zh": "唔，呃……",
+      "vi": "À, ừ...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative036",
+      "speaker_tag": "",
+      "ja": "苦しい、苦しい苦しい苦しい――。",
+      "zh": "好痛苦，好痛苦好痛苦好痛苦——",
+      "vi": "Đau quá, đau quá, đau quá, đau quá——",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Noah026",
+      "speaker_tag": "; > Noah: |#0203Bad01_Noah026|",
+      "ja": "やだ！ ヒロちゃん……ヒロちゃん！",
+      "zh": "不要！希罗……希罗！",
+      "vi": "Đừng! Anh hùng... Anh hùng!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative037",
+      "speaker_tag": "",
+      "ja": "ノアがこちらに駆けてこようとする。<br>けれど、周囲を取り囲む獣たちが<br>それを阻んだ。",
+      "zh": "诺亚想要冲过来，<br>\n却受到围绕在她身边的野兽<br>\n阻挡。",
+      "vi": "Noah muốn lao tới, Nhưng cô ấy bị bao vây bởi những con thú khối.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative038",
+      "speaker_tag": "",
+      "ja": "２人は聖なる獣たちに守られており、<br>それはまるで美しい神話の一幕のようだった。",
+      "zh": "一群神圣的野兽守卫着她们两人。<br>\n那个画面美丽得有如神话中的一幕。",
+      "vi": "Một nhóm thánh thú bảo vệ hai người họ. Cảnh tượng đẹp như trong truyện cổ tích.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative039",
+      "speaker_tag": "",
+      "ja": "こんな時なのに、<br>心が洗われるような神聖な気持ちを抱く。",
+      "zh": "明明是那么凄惨的时刻，<br>\n我的心情却宛如心灵得到洗涤一般圣洁。",
+      "vi": "Rõ ràng đó là một khoảnh khắc đau khổ, Tâm trạng tôi thánh thiện như tâm hồn tôi đã được thanh lọc.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Hiro020",
+      "speaker_tag": "; > Hiro: |#0203Bad01_Hiro020|",
+      "ja": "（ああ、君たちは本当に<br>　傑作を作り上げたんだな――）",
+      "zh": "（啊啊，<br>\n你们真的成就了一部杰作啊——）",
+      "vi": "(À, Bạn đã thực sự tạo ra một kiệt tác——)",
+      "objection_links": []
+    },
+    {
+      "id": "0203Bad01_Narrative040",
+      "speaker_tag": "",
+      "ja": "もう防ぎようのない事態に深い絶望を感じながらも、<br>私は満足げな笑みを浮かべ、こと切れた。",
+      "zh": "眼前无法回避的事态让我感到深深的绝望，<br>\n但我依然带着满足的笑容咽下了最后一口气。",
+      "vi": "Tình huống không thể tránh khỏi trước mắt khiến tôi cảm thấy vô cùng tuyệt vọng, Nhưng tôi vẫn trút hơi thở cuối cùng với nụ cười mãn nguyện.",
+      "objection_links": []
+    }
+  ]
+}

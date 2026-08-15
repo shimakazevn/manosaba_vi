@@ -1,0 +1,640 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter03_Adv14",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter03/Act01_Chapter03_Adv14' Naninovel scenario script",
+  "total_entries": 79,
+  "entries": [
+    {
+      "id": "0103Adv14_Narrative001",
+      "speaker_tag": "",
+      "ja": "――ずしん、ずしん、と<br>牢屋敷全体が揺らぐほどの大音量が<ruby=\"とどろ\">轟</ruby>いていた。",
+      "zh": "——轰隆轰隆。<br>\n此时响起一阵巨大声响，足以震动整座监牢。",
+      "vi": "---Bùm, bùm, bùm. Lúc này, một tiếng động lớn vang lên, đủ làm rung chuyển toàn bộ Ngục Dinh Thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema001",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema001|",
+      "ja": "ん……なに……？",
+      "zh": "嗯……怎么了……？",
+      "vi": "Ừm...có chuyện gì thế...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative002",
+      "speaker_tag": "",
+      "ja": "エマは薄く目を開く。<br>もはや見慣れた地下牢のベッドの上だ。",
+      "zh": "艾玛微微睁开眼睛。<br>\n她正躺在已经熟悉的地下牢房的床上。",
+      "vi": "Ema hơi mở mắt. Cô đang nằm trên giường trong căn phòng giam vốn đã quen thuộc dưới lòng đất.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema002",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema002|",
+      "ja": "地震……？",
+      "zh": "地震……？",
+      "vi": "Động đất...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna001",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna001|",
+      "ja": "エ、エマさん！<br>た、大変ですわ～っ！",
+      "zh": "艾、艾玛！<br>\n出、出大事了～！",
+      "vi": "Này, Ema! Xảy ra chuyện lớn rồi~!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative003",
+      "speaker_tag": "",
+      "ja": "エマの監房に飛び込んできたのは、<br>ハンナだった。",
+      "zh": "汉娜冲进了<br>\n艾玛的牢房。",
+      "vi": "Hanna lao vào Phòng giam của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema003",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema003|",
+      "ja": "あ、ハンナちゃんおはよう……<br>この音、何……？",
+      "zh": "啊，汉娜早上好……<br>\n这声音是什么……？",
+      "vi": "À, chào buổi sáng Hanna... Âm thanh này là gì...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna002",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna002|",
+      "ja": "シェリーさんです！<br>シェリーさんが暴れているんですわ～！",
+      "zh": "是雪莉！<br>\n雪莉在闹事～！",
+      "vi": "Đó là Sherry! Sherry đang gây rắc rối~!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema004",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema004|",
+      "ja": "えっ！？<br>ど、どうして！？",
+      "zh": "欸！？<br>\n为、为什么！？",
+      "vi": "Hừ! ? Tại sao, tại sao! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative004",
+      "speaker_tag": "",
+      "ja": "一気に覚醒したらしく、<br>エマは慌ててベッドから降りる。",
+      "zh": "艾玛一下子清醒了过来，<br>\n慌忙下了床。",
+      "vi": "Ema đột nhiên tỉnh dậy, Anh vội vã rời khỏi giường.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna003",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna003|",
+      "ja": "あのゴリラ女！<br>いつか暴走するんじゃないかと思っていましたわ！",
+      "zh": "那个猩猩女！<br>\n我就知道她迟早会失控！",
+      "vi": "Cô gái khỉ đột đó! Bổn tiểu thư biết sớm muộn gì ngươi ấy cũng sẽ mất kiểm soát!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna004",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna004|",
+      "ja": "暴れてどうにかなるなんて、<br>そんなわけありませんのに！",
+      "zh": "闹事能解决什么啊，<br>\n根本不可能嘛！",
+      "vi": "Gây rắc rối có thể giải quyết được gì? Điều đó đơn giản là không thể!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna005",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna005|",
+      "ja": "牢屋敷を壊そうとするなんて、<br>看守に殺されてしまうかも！",
+      "zh": "居然想要破坏监牢，<br>\n说不定会被看守杀掉的！",
+      "vi": "Thực sự muốn phá hủy Ngục Dinh Thự, Anh Bổn tiểu thư có thể bị Cai Ngục giết chết!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna006",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna006|",
+      "ja": "どーこが頭脳派探偵ですの～！<br>脳みそ筋肉お花畑ですわ～！",
+      "zh": "哪里像个头脑派侦探啊～！<br>\n脑子里根本全都是肌肉～！",
+      "vi": "Sao trông bạn giống thám tử não thế nhỉ~! Tâm trí của Bổn tiểu thư chỉ toàn về cơ bắp~!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative005",
+      "speaker_tag": "",
+      "ja": "ハンナはハンナでパニックに陥っているらしく、<br>目をぐるぐるまわし、わたわたしている。",
+      "zh": "汉娜似乎也陷入了恐慌，<br>\n眼睛转来转去，慌乱不已。",
+      "vi": "Hanna có vẻ cũng đang hoảng sợ, Đôi mắt anh trợn ngược lên đầy hoảng sợ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema005",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema005|",
+      "ja": "ハンナちゃん、落ち着いて……<br>とにかく、止めにいかないと！",
+      "zh": "汉娜，冷静点……<br>\n总之，我们得去阻止她！",
+      "vi": "Hanna, bình tĩnh lại... Dù sao thì chúng ta cũng phải ngăn cô ấy lại!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative006",
+      "speaker_tag": "",
+      "ja": "エマとハンナは、<br>足をもつれさせながら、監房を飛び出した。",
+      "zh": "艾玛和汉娜<br>\n跌跌撞撞地冲出牢房。",
+      "vi": "Ema và Hanna Loạng choạng bước ra khỏi phòng giam.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative007",
+      "speaker_tag": "",
+      "ja": "屋敷内は通路も窓が割れていたり、<br>壁に穴が開いていたり、散々な有様になっていた。",
+      "zh": "宅邸内的过道上，窗户破碎，<br>\n墙壁被打穿，一片狼藉。",
+      "vi": "Ở hành lang bên trong dinh thự, cửa sổ bị vỡ, Các bức tường bị xuyên thủng và nó là một mớ hỗn độn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative008",
+      "speaker_tag": "",
+      "ja": "現在、<ruby=\"ごうおん\">轟音</ruby>は図書室の方から聞こえてきている。<br>エマとハンナはその中へと飛び込む。",
+      "zh": "目前的巨响是从图书室方向传来的。<br>\n艾玛和汉娜冲了进去。",
+      "vi": "Tiếng ồn lớn hiện tại đang phát ra từ hướng Thư Viện. Ema và Hanna lao vào trong.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative009",
+      "speaker_tag": "",
+      "ja": "奥まったところの本棚がドミノ倒しになって、<br>まるで大地震の後のようだった。<br>本が散乱し、滅茶苦茶な状態になっている。",
+      "zh": "深处的书架像多米诺骨牌一样倒下，<br>\n宛如地震后的景象。<br>\n书本散落一地，一片混乱。",
+      "vi": "Giá sách dưới đáy sâu đổ xuống như quân domino, Cảnh tượng giống như sau một trận động đất. Sách nằm rải rác khắp sàn, và có sự hỗn loạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Sherry001",
+      "speaker_tag": "; > Sherry: |#0103Adv14_Sherry001|",
+      "ja": "あ、エマさん、ハンナさん、<br>おはよーございまーす。",
+      "zh": "啊，艾玛、汉娜，<br>\n早上好啊。",
+      "vi": "À, Ema, Hanna, Chào buổi sáng.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative010",
+      "speaker_tag": "",
+      "ja": "シェリーは何事もないかのように、<br>にっこりと笑った。",
+      "zh": "雪莉仿佛什么事都没发生似的，<br>\n笑眯眯地打招呼。",
+      "vi": "Sherry hành động như thể không có chuyện gì xảy ra, Nói xin chào với một nụ cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna007",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna007|",
+      "ja": "な、何を考えていますのっ",
+      "zh": "你、你到底在想什么！",
+      "vi": "Bạn, bạn đang nghĩ cái quái gì vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema006",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema006|",
+      "ja": "そうだよシェリーちゃん、<br>こんな、屋敷を滅茶苦茶にして、<br>一体どういうつもりなの？",
+      "zh": "是啊雪莉，<br>\n把监牢大宅弄得一团糟，<br>\n你到底想干什么？",
+      "vi": "Vâng Sherry, Làm xáo trộn biệt thự Ngục Dinh Thự, Bạn muốn làm gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative011",
+      "speaker_tag": "",
+      "ja": "シェリーは得意げに<br>ぴっと人差し指を立てる。",
+      "zh": "雪莉得意地竖起食指。<br>",
+      "vi": "Sherry giơ ngón trỏ lên đầy tự hào.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Sherry002",
+      "speaker_tag": "; > Sherry: |#0103Adv14_Sherry002|",
+      "ja": "ほら、よくあるじゃないですか、<br>本棚を動かしたら隠し部屋のスイッチが出てくるやつ。",
+      "zh": "你想，不是经常有那种情况吗，<br>\n移动书架就会出现暗室的开关。",
+      "vi": "Hãy nghĩ xem, điều đó không xảy ra thường xuyên sao? Di chuyển giá sách và công tắc phòng tối sẽ xuất hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Sherry003",
+      "speaker_tag": "; > Sherry: |#0103Adv14_Sherry003|",
+      "ja": "そういうのないかなーって思いまして、<br>探してみてたんです。",
+      "zh": "我就在想会不会有这种东西，<br>\n所以在找找看。",
+      "vi": "Tôi chỉ tự hỏi liệu có chuyện như vậy không, Vì thế tôi đang tìm nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna008",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna008|",
+      "ja": "だからって、こんな破壊行動したら看守に連行されて<br>懲罰房行きになりますわよ！",
+      "zh": "就算这样，<br>\n这么闹也会被看守抓去惩罚室的！",
+      "vi": "Dù vậy, Nếu làm ầm ĩ như vậy sẽ bị Cai Ngục đưa vào Phòng Kỷ Luật Biệt Giam!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Sherry004",
+      "speaker_tag": "; > Sherry: |#0103Adv14_Sherry004|",
+      "ja": "牢屋敷内を破壊してはいけないって、<br>規則にないですから大丈夫ですよぉ。",
+      "zh": "规定里没说不能破坏监牢内部，<br>\n所以没问题哦。",
+      "vi": "Quy định không nói rằng bạn không được phá hủy bên trong Ngục Dinh Thự, Vì vậy không có vấn đề gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna009",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna009|",
+      "ja": "いやそりゃ、<br>あなたくらいしか破壊行動ができないからでしょうに。",
+      "zh": "那是因为<br>\n只有你这种人才能做出这种破坏行为吧。",
+      "vi": "Đó là vì Chỉ có ngươi như bạn mới có thể thực hiện hành vi phá hoại như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema007",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema007|",
+      "ja": "（……でも、実際、看守は来ていない。<br>　いつもだったらすぐに駆けつけてくるのに）",
+      "zh": "（……不过，看守确实没来。<br>\n平时的话应该立刻就会赶到的）",
+      "vi": "(...Tuy nhiên, Cai Ngục đã không đến. Bình thường thì anh ấy sẽ đến ngay lập tức)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema008",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema008|",
+      "ja": "（規則を破っていなければ、<br>　割と許されるものなのかも……）",
+      "zh": "（或许只要没违反规定，<br>\n做任何事都是受允许的……）",
+      "vi": "(Có thể miễn là không vi phạm nội quy, Mọi thứ đều được cho phép...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema009",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema009|",
+      "ja": "それでも咎められる危険はあるよ。<br>やっぱりこんなことすべきじゃ……。",
+      "zh": "就算是这样，也有可能会被惩罚的。<br>\n我觉得还是不该这样做……",
+      "vi": "Mặc dù vậy, bạn có thể bị trừng phạt. Tôi nghĩ mình không nên làm điều này...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative012",
+      "speaker_tag": "",
+      "ja": "シェリーは聞く耳を持たない様子で、<br>破壊活動に戻ってしまう。",
+      "zh": "雪莉完全不听劝，<br>\n继续她的破坏行动。",
+      "vi": "Sherry không chịu lắng nghe chút nào, Tiếp tục chiến dịch hủy diệt của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna010",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna010|",
+      "ja": "あなた、大人しくできませんの！？",
+      "zh": "你就不能安分一点吗！？",
+      "vi": "Cậu không thể bình tĩnh lại một chút sao? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Sherry005",
+      "speaker_tag": "; > Sherry: |#0103Adv14_Sherry005|",
+      "ja": "大人しくするのはもうやめました。<br>みなさん、もう限界みたいですし。",
+      "zh": "不想再安分了。<br>\n大家似乎都已经到极限了。",
+      "vi": "Tôi không muốn ổn định nữa. Mọi người dường như đã đạt đến giới hạn của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema010",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema010|",
+      "ja": "え……。",
+      "zh": "呃……",
+      "vi": "Ờ...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Sherry006",
+      "speaker_tag": "; > Sherry: |#0103Adv14_Sherry006|",
+      "ja": "ハンナさんも、エマさんも、<br>その空気、感じとってますよね？",
+      "zh": "汉娜和艾玛<br>\n也感觉到了那种氛围吧？",
+      "vi": "Hanna và Ema Bạn cũng cảm nhận được bầu không khí đó phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative013",
+      "speaker_tag": "",
+      "ja": "エマは黙ってしまう。<br>思い当たることはいくつもあった。",
+      "zh": "艾玛沉默了。<br>\n雪莉说的话，她有头绪。",
+      "vi": "Ema im lặng. Những gì Sherry nói, cô ấy có manh mối.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema011",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema011|",
+      "ja": "（とりつかれたように本を読んでいた<br>　マーゴちゃん……）",
+      "zh": "（像着了魔似的<br>\n一直在看书的玛格……）",
+      "vi": "(Như thể bị chiếm hữu Marge, người đang đọc sách...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema012",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema012|",
+      "ja": "（現実逃避して、<br>　妄想の世界にいたココちゃん……）",
+      "zh": "（逃避现实，<br>\n沉浸在妄想世界里的可可……）",
+      "vi": "(Trốn thoát khỏi hiện thực, Ca cao đắm chìm trong thế giới ảo tưởng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema013",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema013|",
+      "ja": "（それに何より――メルルちゃんが、<br>　あんなに泣くなんて）",
+      "zh": "（而且最主要的是——梅露露,<br>\n她竟然会哭成那样）",
+      "vi": "(Và điều quan trọng nhất là——Meruru, Cô ấy thực sự đã khóc như thế)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema014",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema014|",
+      "ja": "（シェリーちゃんの言うとおりだ。<br>　みんなもう、限界なんだ）",
+      "zh": "（雪莉说得对，<br>\n大家都已经快到极限了）",
+      "vi": "(Sherry nói đúng, Mọi người gần như đã đến giới hạn của mình)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Sherry007",
+      "speaker_tag": "; > Sherry: |#0103Adv14_Sherry007|",
+      "ja": "抗いたいんですよ。<br>何もできないのは嫌です。",
+      "zh": "我想要反抗，<br>\n不想什么都做不了。",
+      "vi": "Tôi muốn phản kháng, Tôi không thể làm gì nếu tôi không muốn.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna011",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna011|",
+      "ja": "だからって暴れたところで……。",
+      "zh": "可是闹事也是……",
+      "vi": "Nhưng gây rắc rối cũng là...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative014",
+      "speaker_tag": "",
+      "ja": "シェリーは聞く耳持たずで、<br>図書室の破壊行動を再開する。",
+      "zh": "雪莉充耳不闻，<br>\n只管继续破坏图书室。",
+      "vi": "Sherry ngoảnh mặt đi, Cứ tiếp tục phá hủy Thư Viện đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative015",
+      "speaker_tag": "",
+      "ja": "ハンナとエマは、<br>しばらくその様子を眺めていた。",
+      "zh": "汉娜和艾玛目前<br>\n只能旁观着这一切。",
+      "vi": "Hanna và Ema hiện đang Tôi chỉ có thể xem tất cả điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna012",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna012|",
+      "ja": "わたくしだって……嫌ですわ……。",
+      "zh": "我也……讨厌这样……",
+      "vi": "Bổn tiểu thư cũng...ghét điều này...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna013",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna013|",
+      "ja": "でも、こんなことしたって、<br>なんにもならないじゃないの……。",
+      "zh": "但是，做这种事情，<br>\n什么都改变不了啊……",
+      "vi": "Tuy nhiên, để làm được việc này, Không gì có thể thay đổi được...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative016",
+      "speaker_tag": "",
+      "ja": "隣に立つハンナの拳が震えていた。<br>目の端には涙が<ruby=\"にじ\">滲</ruby>んでいる。",
+      "zh": "站在一旁的汉娜握紧拳头，颤抖着。<br>\n眼角泛着泪光。",
+      "vi": "Hanna, người đang đứng sang một bên, nắm chặt tay và run rẩy. Có những giọt nước mắt ở khóe mắt anh.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna014",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna014|",
+      "ja": "あなた、バカよ。<br>本当にバカよ……。",
+      "zh": "你这个笨蛋。<br>\n真是个笨蛋……",
+      "vi": "Đồ ngốc. Thật là một kẻ ngốc...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Sherry008",
+      "speaker_tag": "; > Sherry: |#0103Adv14_Sherry008|",
+      "ja": "天才にバカとはなんですか～！",
+      "zh": "怎么把天才说成是笨蛋呢～！",
+      "vi": "Sao có thể gọi thiên tài là kẻ ngốc được~!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna015",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna015|",
+      "ja": "脳筋バカ、ノンデリクソ女。",
+      "zh": "肌肉笨蛋，不识空气的臭女人。",
+      "vi": "Cơ bắp ngốc nghếch, một ngươi phụ nữ hôi hám không biết thở.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Sherry009",
+      "speaker_tag": "; > Sherry: |#0103Adv14_Sherry009|",
+      "ja": "たまには褒めてくださぁい！",
+      "zh": "偶尔也夸夸我嘛！",
+      "vi": "Thỉnh thoảng bạn khen ngợi tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative017",
+      "speaker_tag": "",
+      "ja": "本棚を破壊していっても、<br>脱出に<ruby=\"つな\">繋</ruby>がる道筋は見えそうにない。",
+      "zh": "即使破坏书架，<br>\n也找不到能逃脱的线索。",
+      "vi": "Ngay cả khi giá sách bị phá hủy, Không có manh mối nào để trốn thoát.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema015",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema015|",
+      "ja": "（なんだか痛々しいよ、シェリーちゃん……）",
+      "zh": "（太令人心痛了，雪莉……）",
+      "vi": "(Thật đau lòng, Sherry…)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema016",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema016|",
+      "ja": "（シェリーちゃんもストレスでやられちゃってるのかな、<br>　いや、それをいうなら）",
+      "zh": "（雪莉也是被压力击垮了吗……<br>\n不，这么说的话）",
+      "vi": "(Có phải Sherry cũng bị choáng ngợp bởi áp lực không... Không, nếu bạn nói vậy)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema017",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema017|",
+      "ja": "（ココちゃん、マーゴちゃん、メルルちゃん、<br>　アリサちゃん、ハンナちゃんだって）",
+      "zh": "（可可、玛格、梅露露、<br>\n亚里沙、汉娜也是）",
+      "vi": "(Coco, Mag, Meruru, Alisa và Hanna nữa)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema018",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema018|",
+      "ja": "（ボクだって――）",
+      "zh": "（连我也是——）",
+      "vi": "(Kể cả tôi--)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema019",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema019|",
+      "ja": "（魔女になるかもしれないんだ――）",
+      "zh": "（可能会变成魔女——）",
+      "vi": "(Có thể cô ấy sẽ trở thành phù thủy——)",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative018",
+      "speaker_tag": "",
+      "ja": "その当たり前の事実にたどりついたとき、<br>エマは足元が大きく揺らぐ感覚を覚えた。",
+      "zh": "意识到这个显而易见的事实时，<br>\n艾玛感觉脚下一阵晃动。",
+      "vi": "Khi bạn nhận ra sự thật hiển nhiên này, Ema cảm thấy dưới chân mình rung chuyển.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Margo001",
+      "speaker_tag": "; > Margo: |#0103Adv14_Margo001|",
+      "ja": "――なんてこと！",
+      "zh": "——太过分了！",
+      "vi": "--Quá nhiều!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative019",
+      "speaker_tag": "",
+      "ja": "不意に、悲痛な叫びが図書室内に響いた。",
+      "zh": "突然，一声悲痛的叫喊在图书室内响起。",
+      "vi": "Đột nhiên, trong Thư Viện vang lên một tiếng kêu thảm thiết.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative020",
+      "speaker_tag": "",
+      "ja": "騒ぎに気付いたマーゴが駆けつけたらしく、<br>散乱する本に慌てて駆け寄っている。",
+      "zh": "玛格察觉到骚动赶来了。<br>\n她慌忙跑向散落的书本。",
+      "vi": "Mag nhận thấy sự náo động và đi tới. Cô vội vàng chạy về phía những cuốn sách rải rác.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative021",
+      "speaker_tag": "",
+      "ja": "慌てているマーゴを見るのが初めてで、<br>エマたちはぽかんとしてしまった。",
+      "zh": "艾玛她们都愣住了。<br>\n她们第一次看到玛格如此慌张。",
+      "vi": "Ema và những người khác đều choáng váng. Đây là lần đầu tiên họ thấy Margo hoảng sợ như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative022",
+      "speaker_tag": "",
+      "ja": "マーゴは自身に手繰り寄せるように本をかき集め、<br>深々とため息を吐き出す。",
+      "zh": "玛格把书本都收拢到身边，<br>\n深深地叹了口气。",
+      "vi": "Margo gom những cuốn sách lại gần cô ấy, Thở dài thật sâu.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Margo002",
+      "speaker_tag": "; > Margo: |#0103Adv14_Margo002|",
+      "ja": "ここにある本はとても大切なことが書かれているのよ。<br>大切にしてほしいわね。",
+      "zh": "这里的书写着非常重要的内容。<br>\n希望你们能好好珍惜。",
+      "vi": "Bài viết ở đây chứa nội dung rất quan trọng. Chị hy vọng em có thể trân trọng nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Margo003",
+      "speaker_tag": "; > Margo: |#0103Adv14_Margo003|",
+      "ja": "ああ良かった、無事だったわ……。",
+      "zh": "啊太好了，书没事……",
+      "vi": "Ah, tuyệt, cuốn sách ổn...",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative023",
+      "speaker_tag": "",
+      "ja": "マーゴは目的の本を見つけたらしく、<br>大事そうに胸に抱えてほっと息をつく。",
+      "zh": "玛格似乎找到了想要的书，<br>\n小心翼翼地抱在胸前松了口气。",
+      "vi": "Margo có vẻ đã tìm thấy cuốn sách cô ấy muốn, Anh cẩn thận ôm nó vào ngực và thở phào nhẹ nhõm.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Margo004",
+      "speaker_tag": "; > Margo: |#0103Adv14_Margo004|",
+      "ja": "みんなが目を通したいかと思って置いておいたのだけど、<br>自分の手元に置いておくべきだったわね。",
+      "zh": "本想着大家可能会想看，我才放在这里的。<br>\n看来我还是应该把它放在自己身边。",
+      "vi": "Chị nghĩ em có thể muốn xem nó nên Chị đặt nó ở đây. Có vẻ như Chị nên giữ nó bên mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Sherry010",
+      "speaker_tag": "; > Sherry: |#0103Adv14_Sherry010|",
+      "ja": "……それって、前に見せてくれた本ですよね？",
+      "zh": "……那是之前给我们看的那本书吧？",
+      "vi": "...Đó có phải là cuốn sách mà bạn đã cho chúng tôi xem lúc trước không?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Margo005",
+      "speaker_tag": "; > Margo: |#0103Adv14_Margo005|",
+      "ja": "ええそうよ。とても大切な本なの。<br>この本に書いてあることで、<br>実験、いえ、儀式を執り行おうと思っているの。",
+      "zh": "是的，这是非常重要的书。<br>\n我打算用这本书上记载的内容进行实验，<br>\n不，是举行仪式。",
+      "vi": "Vâng, đây là một cuốn sách rất quan trọng. Chị dự định tiến hành các thí nghiệm sử dụng nội dung được ghi trong cuốn sách này, Không, đó là một buổi lễ.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Sherry011",
+      "speaker_tag": "; > Sherry: |#0103Adv14_Sherry011|",
+      "ja": "儀式！？ どんなことをするんでしょう！？",
+      "zh": "仪式！？要做什么！？",
+      "vi": "Lễ! ? Phải làm gì! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Margo006",
+      "speaker_tag": "; > Margo: |#0103Adv14_Margo006|",
+      "ja": "……あなたたちには教えたくないわ。<br>私は失礼するわね。",
+      "zh": "……我不想告诉你们。<br>\n失陪了。",
+      "vi": "…Chị không muốn nói với em. Xin lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative024",
+      "speaker_tag": "",
+      "ja": "マーゴは冷たく言い放ち、去っていった。<br>エマとハンナは顔を見合わせてしまう。",
+      "zh": "玛格冷冷地说完就离开了。<br>\n艾玛和汉娜面面相觑。",
+      "vi": "Margo lạnh lùng nói rồi bỏ đi. Ema và Hanna nhìn nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Ema020",
+      "speaker_tag": "; > Ema: |#0103Adv14_Ema020|",
+      "ja": "ボクらも図書室散らかした共犯だって思われた……？",
+      "zh": "她是不是觉得我们也是搞乱图书室的帮凶……？",
+      "vi": "Cô ấy nghĩ chúng tôi cũng là kẻ đồng lõa trong việc làm xáo trộn Thư Viện sao...?",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna016",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna016|",
+      "ja": "最悪ですわ！ わたくしそんなことしていませんのに！",
+      "zh": "太糟糕了！我明明什么都没做！",
+      "vi": "Quá tệ! Rõ ràng là Bổn tiểu thư không làm gì cả!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Hanna017",
+      "speaker_tag": "; > Hanna: |#0103Adv14_Hanna017|",
+      "ja": "まったくシェリーさんはどれだけ迷惑をかけますの！？<br>片づけますわよ！",
+      "zh": "雪莉你到底要给我们添多少麻烦啊！？<br>\n快来收拾！",
+      "vi": "Sherry, ngươi định gây cho chúng Bổn tiểu thư bao nhiêu rắc rối đây? ? Hãy đến và dọn dẹp!",
+      "objection_links": []
+    },
+    {
+      "id": "0103Adv14_Narrative025",
+      "speaker_tag": "",
+      "ja": "ブツクサと言いながら、ハンナが本を拾い集めていく。<br>エマも一緒に片づけはじめた。",
+      "zh": "汉娜一边抱怨一边开始捡拾书本。<br>\n艾玛也加入了整理工作。",
+      "vi": "Hanna phàn nàn khi cô bắt đầu nhặt sách. Ema cũng tham gia dọn dẹp.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,955 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter06_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter06_Trial07",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter06/Act02_Chapter06_Trial07' Naninovel scenario script",
+  "total_entries": 117,
+  "entries": [
+    {
+      "id": "0206Trial07_Yuki001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki001|",
+      "ja": "私たち魔女はこの孤島で<br>ひっそりと暮らしていました。",
+      "zh": "我们魔女一直隐居在这座孤岛上，<br>\n过着与世无争的生活。",
+      "vi": "Chúng tôi, những phù thủy, đã sống ẩn dật trên hòn đảo biệt lập này, Sống một cuộc sống không chiến đấu chống lại thế giới.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki002|",
+      "ja": "人間との交流もありましたが、<br>私たちは魔女同士の合議の上<br>人間たちには干渉しない選択を<br>とったんです。",
+      "zh": "虽然曾经和人类有过一些交流，<br>\n但我们魔女之间协商后，<br>\n还是决定不再干涉<br>\n人类的生活。",
+      "vi": "Mặc dù tôi đã có một số tương tác với con người, Nhưng sau cuộc đàm phán giữa chúng tôi, những phù thủy, Hoặc quyết định không can thiệp cuộc sống con người.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki003|",
+      "ja": "人間たちは<br>魔法を使う私たちに<br>劣る種族……。<br>だからそれを見守るのが<br>私たちの役割であると<br>判断したからですね。",
+      "zh": "人类无法使用魔法，<br>\n是比魔女低级的<br>\n种族……<br>\n正因如此，我们才决定守望他们，<br>\n认为那才是我们<br>\n该扮演的角色。",
+      "vi": "Con người không thể sử dụng phép thuật, Cô ấy thấp kém hơn phù thủy Cuộc đua… Vì lý do này nên chúng tôi quyết định xem chúng, Hãy nghĩ rằng đó chính là chúng ta Vai trò để chơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki004|",
+      "ja": "ですが……<br>それは間違った判断でした。",
+      "zh": "可惜……<br>\n那是个错误的判断。",
+      "vi": "Thật đáng tiếc... Đó là một quyết định tồi tệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki005|",
+      "ja": "文明を発展させた人間たちが、<br>島を襲撃してきたのです。",
+      "zh": "当人类的文明得以飞速发展，<br>\n他们却反过来袭击了我们的岛屿。",
+      "vi": "Khi nền văn minh nhân loại phát triển nhanh chóng, Họ lần lượt tấn công các hòn đảo của chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki006|",
+      "ja": "私たちは島の中で防備を固め、<br>抵抗をしたものの……。",
+      "zh": "我们在岛上固守防御，<br>\n拼命抵抗……",
+      "vi": "Chúng tôi đang phòng thủ trên đảo, Chống cự một cách tuyệt vọng...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki007",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki007|",
+      "ja": "人質や毒物、騙し討ち……<br>人間たちは<br>さまざまな卑怯な手段を用いて<br>魔女を捕らえ、<br><link=\"Objection_02_06_07_01\">処刑</link>していきました。",
+      "zh": "可人类却使用了<br>\n抓人质、毒药、偷袭等卑劣手段，<br>\n逐一捕获、<br>\n<link=\"Objection_02_06_07_01\">处决</link>了<br>\n我们的同胞。",
+      "vi": "Nhưng con người sử dụng Bắt con tin, đầu độc, tấn công lén lút và các phương pháp hèn hạ khác, Chụp từng cái một, <link=\"Objection_02_06_07_01\"> đã thực hiện </link> đồng bào của chúng ta.",
+      "objection_links": [
+        "Objection_02_06_07_01"
+      ]
+    },
+    {
+      "id": "0206Trial07_Yuki008",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki008|",
+      "ja": "その結果、<br>魔女たちは私を残し、<br>全員この世から<br><link=\"Objection_02_06_07_02\">消え去った</link>んです。",
+      "zh": "到头来，<br>\n其他魔女<br>\n全都<link=\"Objection_02_06_07_02\">不在了</link>，<br>\n只剩我独活至今。",
+      "vi": "Cuối cùng, Những phù thủy khác Tất cả <link=\"Objection_02_06_07_02\"> đã biến mất </link>, Tôi là người duy nhất còn sống cho đến bây giờ.",
+      "objection_links": [
+        "Objection_02_06_07_02"
+      ]
+    },
+    {
+      "id": "0206Trial07_Yuki009",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki009|",
+      "ja": "彼女たちは<br>無念だったでしょう。<br>悔しかったでしょう。",
+      "zh": "她们一定<br>\n心有不甘吧。<br>\n一定悔恨万分吧。",
+      "vi": "Họ phải Bạn phải không sẵn lòng làm như vậy. Chắc hẳn tôi vô cùng hối hận.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki010",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki010|",
+      "ja": "彼女たちの<br><link=\"Objection_02_06_07_03\">想いを知る者</link>は……<br>もう私しか残っていません。",
+      "zh": "如今，<br>\n<link=\"Objection_02_06_07_03\">知晓她们心情的</link>……<br>\n已经只有我一个了。",
+      "vi": "Hôm nay, <link=\"Objection_02_06_07_03\"></link> ai biết được tâm trạng của họ... Tôi là người duy nhất còn lại.",
+      "objection_links": [
+        "Objection_02_06_07_03"
+      ]
+    },
+    {
+      "id": "0206Trial07_Yuki011",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki011|",
+      "ja": "私は<br><link=\"Objection_02_06_07_04\">死んでいった魔女たち</link>の<br>恨みを背負っています。",
+      "zh": "我身上背负着<br>\n<link=\"Objection_02_06_07_04\">所有死去魔女</link>的<br>\n恨意。",
+      "vi": "Tôi đang mang <link=\"Objection_02_06_07_04\">Tất cả phù thủy đã chết </link> Ghét.",
+      "objection_links": [
+        "Objection_02_06_07_04"
+      ]
+    },
+    {
+      "id": "0206Trial07_Yuki012",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0206Trial07_Yuki012|",
+      "ja": "だから<br>たとえ<link=\"Objection_02_06_07_05\">後ろ向き</link>で<br>あったとしても<br>私は止まれない……<br>止まっては、<br><link=\"Objection_02_06_07_06\">いけない</link>のです。",
+      "zh": "正因如此，<br>\n哪怕只是<link=\"Objection_02_06_07_05\">消极</link>的执念，<br>\n我也无法停下……<br>\n我<br>\n<link=\"Objection_02_06_07_06\">不可以</link>停下。<br>",
+      "vi": "Vì điều này, Ngay cả khi đó chỉ là nỗi ám ảnh <link=\"Objection_02_06_07_05\"> tiêu cực </link>, Tôi cũng không thể dừng lại... Tôi <link=\"Objection_02_06_07_06\">không thể</link> dừng lại.",
+      "objection_links": [
+        "Objection_02_06_07_05",
+        "Objection_02_06_07_06"
+      ]
+    },
+    {
+      "id": "0206Trial07_Ema001",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema001|",
+      "ja": "ユキちゃんは……仲間のことを想って……。",
+      "zh": "小雪她……原来是为了同伴……",
+      "vi": "Xiaoxue...hóa ra là dành cho những người bạn đồng hành của cô ấy...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Leia001",
+      "speaker_tag": "; > Leia: |#0206Trial07_Leia001|",
+      "ja": "けれど……それは【呪い】だ。",
+      "zh": "但……那终究是种【诅咒】。",
+      "vi": "Nhưng... dù sao thì đó cũng là một [lời nguyền] mà.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Leia002",
+      "speaker_tag": "; > Leia: |#0206Trial07_Leia002|",
+      "ja": "死者に囚われていては、前に進めない……。",
+      "zh": "若被死者束缚，就永远无法向前迈进……",
+      "vi": "Nếu bạn bị người chết trói buộc, bạn sẽ không bao giờ có thể tiến về phía trước...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0206Trial07_Nanoka001|",
+      "ja": "……都合よく死者の言葉でも<br>聞こえる人がいればいいのだけれど。",
+      "zh": "……如果有人<br>\n能听到死者说的话就方便了。",
+      "vi": "…Nếu có ai Sẽ rất thuận tiện nếu có thể nghe được những gì người đã khuất nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Alisa001",
+      "speaker_tag": "; > Alisa: |#0206Trial07_Alisa001|",
+      "ja": "んなことできるやつがいたら<br>もう誰かやってんだろ。",
+      "zh": "要是有能办到那种事的家伙，<br>\n早就已经出手了吧。",
+      "vi": "Nếu có một chàng trai có thể làm được điều đó, Chắc hẳn mày ta đã hành động rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Noah001",
+      "speaker_tag": "; > Noah: |#0206Trial07_Noah001|",
+      "ja": "うーん、他に誰か知らないかな～？<br>ユキちゃんを止められる方法……。",
+      "zh": "唔～还有没有其他人能想到什么办法呢～？<br>\n能阻止小雪的方法……",
+      "vi": "Hmm~ Có ai có ý kiến gì không~? Làm thế nào để ngăn chặn Xiaoxue...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema002",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema002|",
+      "ja": "（……ボクたちが【知らない情報を知っている人物】……？）",
+      "zh": "（……拥有【我们所不知道的情报】的人……？）",
+      "vi": "(…ai đó sở hữu [thông tin chúng tôi không biết]…?)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema003",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema003|",
+      "ja": "（記憶を共有した今、<br>　それは【ボクたちも知らない人】じゃないと<br>　ありえないのかもしれない……）",
+      "zh": "（既然记忆已经共享过了，<br>\n那也许只能是<br>\n【我们都不认识的人】才行……）",
+      "vi": "(Bây giờ kỷ niệm đã được chia sẻ, Có lẽ chỉ có thể là [Chỉ những người chúng ta không biết] mới làm...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Choice001",
+      "speaker_tag": "; > @choice |#0206Trial07_Choice001| button:ChoiceButtons/Trial/Question handler:Trial",
+      "ja": "魔女を殺すには？",
+      "zh": "要怎么杀死魔女？",
+      "vi": "Làm thế nào để giết phù thủy?",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Choice002",
+      "speaker_tag": "; > @choice |#0206Trial07_Choice002| button:ChoiceButtons/Trial/MagicNanoka handler:Trial",
+      "ja": "【幻視】",
+      "zh": "【幻视】",
+      "vi": "[Tầm nhìn]",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Choice003",
+      "speaker_tag": "; > @choice |#0206Trial07_Choice003| button:ChoiceButtons/Trial/MagicCoco handler:Trial",
+      "ja": "【千里眼】",
+      "zh": "【千里眼】",
+      "vi": "[thấu thị]",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Choice004",
+      "speaker_tag": "; > @choice |#0206Trial07_Choice004| button:ChoiceButtons/Trial/MagicMargo handler:Trial",
+      "ja": "【モノマネ】",
+      "zh": "【模仿】",
+      "vi": "[Bắt chước]",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Choice005",
+      "speaker_tag": "; > @choice |#0206Trial07_Choice005| button:ChoiceButtons/Trial/MagicLeia handler:Trial",
+      "ja": "【視線誘導】",
+      "zh": "【视线诱导】",
+      "vi": "[Cảm ứng tầm nhìn đường]",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Choice006",
+      "speaker_tag": "; > @choice |#0206Trial07_Choice006| button:ChoiceButtons/Trial/MagicAnAn handler:Trial",
+      "ja": "【洗脳】",
+      "zh": "【洗脑】",
+      "vi": "[Tẩy não]",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema004",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema004|",
+      "ja": "……ナノカちゃん！<br>この島の過去の記憶……読み出せないかな！？",
+      "zh": "……奈叶香！<br>\n这座岛过去的记忆……你能不能读取出来呢！？",
+      "vi": "...Nayoka! Ký ức quá khứ của hòn đảo này... bạn có thể đọc được chúng không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0206Trial07_Nanoka002|",
+      "ja": "無理よ。",
+      "zh": "做不到。",
+      "vi": "Không thể làm được.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema005",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema005|",
+      "ja": "そっか……。",
+      "zh": "这样啊……",
+      "vi": "Thế thôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Hanna001",
+      "speaker_tag": "; > Hanna: |#0206Trial07_Hanna001|",
+      "ja": "そんな簡単に引き下がりますのー！？",
+      "zh": "就这样轻易放弃了吗——！？",
+      "vi": "Bạn có bỏ cuộc dễ dàng như vậy không——! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0206Trial07_Nanoka003|",
+      "ja": "……私の魔法は元々任意に発動はできないの。",
+      "zh": "……我的魔法原本就不是想发动就可以发动的。",
+      "vi": "...Phép thuật của tôi không phải là thứ có thể được kích hoạt chỉ bằng cách muốn kích hoạt nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0206Trial07_Nanoka004|",
+      "ja": "波長があったりして……<br>たまたま過去の光景が見えるだけ。",
+      "zh": "单纯只是波长对上了……<br>\n偶然能让我看到过去的景象而已。",
+      "vi": "Chỉ là bước sóng trùng khớp... Tình cờ là tôi có thể nhìn thấy những cảnh trong quá khứ.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0206Trial07_Nanoka005|",
+      "ja": "魔女化によって強化されていた力を失った今、<br>狙い通りの情報を取得することはできないわ。",
+      "zh": "如今失去了因魔女化而强化的力量，<br>\n就更无法获取到想要的特定信息了。",
+      "vi": "Bây giờ tôi đã mất đi sức mạnh được tăng cường nhờ trở thành phù thủy, Thậm chí còn ít có khả năng có được thông tin cụ thể mà bạn muốn.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema006",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema006|",
+      "ja": "……ごめん、ナノカちゃん。",
+      "zh": "……奈叶香，对不起。",
+      "vi": "...Nayoka, tôi xin lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0206Trial07_Nanoka006|",
+      "ja": "……こちらこそ、ごめんなさい。<br>肝心な時に役に立てなくて……。",
+      "zh": "……该说对不起的是我。<br>\n关键时刻没能帮上忙……",
+      "vi": "...Tôi mới là người phải nói lời xin lỗi. Không thể giúp đỡ vào thời điểm quan trọng...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema007",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema007|",
+      "ja": "（ナノカちゃんに無理はさせられない……）",
+      "zh": "（不能勉强奈叶香……）",
+      "vi": "(Bạn không thể ép buộc Nanoyaka...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema008",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema008|",
+      "ja": "（【狙い通りの情報】……<br>　そんな魔法を使える子はいなかったかな）",
+      "zh": "（【想要的特定信息】……<br>\n有没有谁能使出这种魔法呢？）",
+      "vi": "([Yêu cầu thông tin cụ thể]… Có ai có thể sử dụng loại phép thuật này không? )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema009",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema009|",
+      "ja": "マーゴちゃん！<br>ユキちゃんが知ってる人の声を真似て、<br>説得できないかな……！",
+      "zh": "玛格！<br>\n可不可以试着模仿小雪认识的人说话，<br>\n看看能不能说服她……！",
+      "vi": "Mag! Bạn có thể thử bắt chước những người mà Xiaoxue biết không? Hãy xem liệu chúng ta có thể thuyết phục được cô ấy không nhé...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema010",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema010|",
+      "ja": "昔の家族とか……友だちとか……<br>それなら心に響くかも……！",
+      "zh": "比如以前的家人……朋友之类的……<br>\n那样或许就能打动她的心……！",
+      "vi": "Ví dụ: các thành viên cũ trong gia đình...bạn bè, v.v... Điều đó có thể chạm đến trái tim cô ấy...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Margo001",
+      "speaker_tag": "; > Margo: |#0206Trial07_Margo001|",
+      "ja": "あら、面白い発想ね？",
+      "zh": "哎呀，你的想法真有趣。",
+      "vi": "Ôi, ý tưởng của em thú vị quá.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Margo002",
+      "speaker_tag": "; > Margo: |#0206Trial07_Margo002|",
+      "ja": "でも残念だけど、<br>私が知らない声は真似できないわ。",
+      "zh": "但很遗憾，<br>\n我模仿不了没有听过的声音。",
+      "vi": "Nhưng thật không may, Chị không thể bắt chước một âm thanh mà Chị chưa từng nghe thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Margo003",
+      "speaker_tag": "; > Margo: |#0206Trial07_Margo003|",
+      "ja": "もしかしたら魔女化していたときなら<br>可能性はあったかもしれないけど……。",
+      "zh": "或许在以前魔女化的状态下<br>\n还有可能做到……",
+      "vi": "Có lẽ ở trạng thái giống phù thủy trước đây Vẫn có thể làm được...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Margo004",
+      "speaker_tag": "; > Margo: |#0206Trial07_Margo004|",
+      "ja": "今の私には、どうしようもないわね。",
+      "zh": "但现在的我，无能为力呢。",
+      "vi": "Nhưng bây giờ Chị không thể làm gì cả.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema011",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema011|",
+      "ja": "そっか……。<br>ごめん、マーゴちゃん。",
+      "zh": "这样啊……<br>\n对不起，玛格。",
+      "vi": "Vậy đó... Xin lỗi, Margo.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema012",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema012|",
+      "ja": "（マーゴちゃんの魔法じゃ、<br>　ユキちゃんを説得できないかも……）",
+      "zh": "（靠玛格的魔法，<br>\n或许无法说服小雪……）",
+      "vi": "(Bằng phép thuật của Mag, Có lẽ tôi không thể thuyết phục được Xiaoxue...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema013",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema013|",
+      "ja": "（マーゴちゃんも知らない過去の声……<br>　それを知っている人はいないかな……）",
+      "zh": "（连玛格都不知道的，故人的音色……<br>\n有没有人会知道呢……）",
+      "vi": "(Ngay cả Margo cũng không biết âm sắc của người bạn cũ... Có ai biết không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema014",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema014|",
+      "ja": "レイアちゃん！<br>視線誘導の魔法で、<br>ユキちゃんを前向きにすることはできないかな……？",
+      "zh": "蕾雅！<br>\n用视线诱导的魔法，<br>\n能让小雪的想法变得积极起来吗……？",
+      "vi": "Leia! Phép thuật được tạo ra bởi thị giác, Bạn có thể khiến suy nghĩ của Koyuki trở nên tích cực không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Leia003",
+      "speaker_tag": "; > Leia: |#0206Trial07_Leia003|",
+      "ja": "……残念だけど、彼女には目を向けるべき先がない。",
+      "zh": "……很遗憾，没有能让她瞩目的方向。",
+      "vi": "...Thật không may, không có hướng nào để cô ấy có thể tập trung sự chú ý của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Leia004",
+      "speaker_tag": "; > Leia: |#0206Trial07_Leia004|",
+      "ja": "まずは向かうべき【先】を示さなければいけないね。",
+      "zh": "首先应该要找出我们应该前往的【方向】才行呢。",
+      "vi": "Đầu tiên chúng ta nên tìm ra [phương hướng] mà chúng ta nên đi tới.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema015",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema015|",
+      "ja": "そっか……。<br>ごめん、レイアちゃん。",
+      "zh": "这样啊……<br>\n对不起，蕾雅。",
+      "vi": "Vậy đó... Xin lỗi, Leia.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema016",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema016|",
+      "ja": "（レイアちゃんの魔法じゃ、<br>　ユキちゃんの視点を変えることは難しいかも……）",
+      "zh": "（靠蕾雅的魔法，<br>\n或许很难改变小雪的观点……）",
+      "vi": "(Với phép thuật của Leia, Có lẽ khó có thể thay đổi quan điểm của Xiaoxue...)",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema017",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema017|",
+      "ja": "（……彼女の心に訴えかける情報……<br>　それを知っている人はいないかな？）",
+      "zh": "（……能触动她内心的信息……<br>\n有没有人知道呢？）",
+      "vi": "(...thông tin chạm đến trái tim cô ấy... Có ai biết không? )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema018",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema018|",
+      "ja": "アンアンちゃん！<br>キミの魔法でユキちゃんを説得することは<br>できないかな……！",
+      "zh": "安安！<br>\n用你的魔法能够说服小雪吗……！<br>",
+      "vi": "AnAn! Bạn có thể thuyết phục Koyuki bằng phép thuật của mình không...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_AnAn001",
+      "speaker_tag": "; > AnAn: |#0206Trial07_AnAn001|",
+      "ja": "さっきから何度もやっている！",
+      "zh": "从刚才开始就已经试过好几次了！",
+      "vi": "Tôi đã thử nó nhiều lần kể từ bây giờ!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_AnAn002",
+      "speaker_tag": "; > AnAn: |#0206Trial07_AnAn002|",
+      "ja": "わがはいの魔法はある程度相手を納得させなくては<br>効果がない……！",
+      "zh": "吾辈的魔法必须要先让对方一定程度上信服吾辈，<br>\n才能起效……！",
+      "vi": "Phép thuật của tôi trước tiên phải khiến đối phương tin tưởng tôi ở một mức độ nhất định, Chỉ khi đó nó mới có hiệu lực...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_AnAn003",
+      "speaker_tag": "; > AnAn: |#0206Trial07_AnAn003|",
+      "ja": "あの頑固者め！<br>ヤツの想いは強固だ！",
+      "zh": "那个顽固的家伙！<br>\n那家伙的想法太坚定了！",
+      "vi": "Cái gã cứng đầu đó! Ý tưởng của anh chàng đó quả quyết quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_AnAn004",
+      "speaker_tag": "; > AnAn: |#0206Trial07_AnAn004|",
+      "ja": "何かヤツを【説得する材料】を見つけなければ……！",
+      "zh": "必须找到能【说服那家伙的信息】才行……！",
+      "vi": "Chúng ta phải tìm thông tin có thể [thuyết phục tên đó]…!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema019",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema019|",
+      "ja": "そっか……。<br>ごめん、アンアンちゃん。",
+      "zh": "这样啊……<br>\n对不起，安安。",
+      "vi": "Vậy đó... Xin lỗi AnAn.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema020",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema020|",
+      "ja": "（アンアンちゃんの魔法の効果が十分に発揮できるよう、<br>　何か説得材料を探さなきゃ……！）",
+      "zh": "（为了让安安的魔法能充分发挥效果，<br>\n必须先找到一些能说服小雪的信息……！）",
+      "vi": "(Để phép thuật của AnAn phát huy hết tác dụng, Đầu tiên chúng ta phải tìm một số thông tin có thể thuyết phục được Tiểu Tuyết...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema021",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema021|",
+      "ja": "（……彼女の心に訴えかける情報……<br>　それを知っている人はいないかな？）",
+      "zh": "（……能触动她内心的信息……<br>\n有没有人知道呢？）",
+      "vi": "(...thông tin chạm đến trái tim cô ấy... Có ai biết không? )",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema022",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema022|",
+      "ja": "魔女を処刑……？<br>そんな方法、あるの？",
+      "zh": "处决魔女……？<br>\n这是怎么做到的？",
+      "vi": "Hành quyết phù thủy...? Việc này được thực hiện như thế nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki013",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki013|",
+      "ja": "あったとして、それを人間に教えると思いますか？",
+      "zh": "就算有，你觉得我会告诉人类吗？",
+      "vi": "Ngay cả khi tôi làm vậy, bạn có nghĩ tôi sẽ nói với một con người không?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema023",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema023|",
+      "ja": "……っ！<br>……ごめん。",
+      "zh": "……啊！<br>\n……对不起。",
+      "vi": "...À! ...Xin lỗi.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki014",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki014|",
+      "ja": "エマは素直ですね。",
+      "zh": "艾玛真是坦率啊。",
+      "vi": "Ema rất thẳng thắn.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki015",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki015|",
+      "ja": "ご褒美に教えてあげましょう。<br>……どうせ関係のないことですし。",
+      "zh": "作为奖励，告诉你也无妨。<br>\n……反正已经无所谓了。",
+      "vi": "Như một phần thưởng, sẽ không có hại gì khi nói với bạn. …Dù sao thì chuyện đó cũng không còn quan trọng nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki016",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki016|",
+      "ja": "……私たち魔女は、殺せば死ぬんですよ。<br>自殺をした私みたいに。",
+      "zh": "……我们魔女，只要被杀就会死。<br>\n就像我自杀那时候一样。",
+      "vi": "... Phù thủy chúng tôi sẽ chết chừng nào chúng tôi còn bị giết. Giống như khi tôi tự sát.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki017",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki017|",
+      "ja": "不老不死とは言っても老衰がないのと、<br>魔法による怪我や病気の治療ができただけ……。",
+      "zh": "所谓的长生不死，仅仅是不会衰老，<br>\n以及能用魔法治疗伤病而已……",
+      "vi": "Cái gọi là trường sinh bất tử nghĩa là không già đi, Và chỉ là bạn có thể sử dụng phép thuật để chữa lành vết thương...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki018",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki018|",
+      "ja": "私が魔女因子によって改造した<br>化け物の【魔女】に比べれば<br>ずっと脆い存在です。",
+      "zh": "和我用魔女因子改造的<br>\n怪物【魔女】相比，<br>\n要脆弱得多了。",
+      "vi": "Và tôi đã biến đổi nhờ Yếu tố Ma Nữ So với quái vật [Pháp thủy], Dễ vỡ hơn nhiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki019",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki019|",
+      "ja": "水に沈めれば死にます。<br>火あぶりにすれば死にます。",
+      "zh": "会被淹死。<br>\n被烧死。",
+      "vi": "Sẽ bị chết đuối. Bị thiêu chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki020",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki020|",
+      "ja": "首を吊れば死にます。<br>心臓を杭で打てば死にます。",
+      "zh": "被吊死。<br>\n被刺穿心脏而死。",
+      "vi": "Bị treo cổ. Chết do bị đâm xuyên tim.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki021",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki021|",
+      "ja": "そうしてみんな、死んでいきました。",
+      "zh": "就这样，大家都死了。",
+      "vi": "Cứ như vậy, mọi người đều chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki022",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki022|",
+      "ja": "１人残らず人間に……殺されたんです。",
+      "zh": "一个不留地……被人类杀死了。",
+      "vi": "Không ai được tha... bị giết bởi con người.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema024",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema024|",
+      "ja": "……ユキちゃん、<br>思い出させてごめん……。",
+      "zh": "……小雪，<br>\n让你回忆起这些事，我很抱歉……",
+      "vi": "...Xiaoxue, Tôi xin lỗi phải nhắc nhở bạn về những điều này...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki023",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki023|",
+      "ja": "いいえ。いいんですよ、エマ。",
+      "zh": "不。没关系的，艾玛。",
+      "vi": "Không. Không sao đâu, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki024",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki024|",
+      "ja": "私の同胞……<br>魔女の苦しみは、人間が背負わなくてはならない<br>原罪なのですから。",
+      "zh": "我的同胞……<br>\n魔女的苦难，就是你们人类必须背负的<br>\n原罪。",
+      "vi": "Đồng bào của tôi... Sự đau khổ của mụ phù thủy là điều mà con người các bạn phải gánh chịu tội nguyên tổ.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema025",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema025|",
+      "ja": "ボクたちにはたしかにわからない。<br>けど……。",
+      "zh": "我们确实无法得知她们的心情。<br>\n可是……",
+      "vi": "Chúng tôi thực sự không biết họ cảm thấy thế nào. Nhưng...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema026",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema026|",
+      "ja": "他の誰かならそれを知ってる可能性はある……！",
+      "zh": "也许还有其他人知道……！",
+      "vi": "Có lẽ người khác biết...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema027",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema027|",
+      "ja": "今この様子を見ている、誰かとか……！",
+      "zh": "比如现在正在看着这个状况的，某个人……！",
+      "vi": "Ví dụ như có người đang theo dõi tình huống này ngay lúc này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco001",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco001|",
+      "ja": "ナイスエマっち！<br>あてぃしも今同じこと考えてた！",
+      "zh": "好样的，艾玛亲！<br>\n我也是这么想的！",
+      "vi": "Làm tốt lắm, Ema thân yêu! Coco cũng nghĩ vậy!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco002",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco002|",
+      "ja": "あてぃしの【千里眼】なら……<br>魔女化した別の世界のあてぃしの姿だって<br>見えたんだし！",
+      "zh": "只要用我的【千里眼】……<br>\n连另一个世界的已经魔女化的我自己是什么样子<br>\n都能看见！",
+      "vi": "Chỉ cần sử dụng [khả năng thấu thị] của Coco... Phù thủy biến Coco ở thế giới khác trông như thế nào Mọi người đều có thể nhìn thấy nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco003",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco003|",
+      "ja": "誰か１人ぐらい、<br>あてぃしを見てる人がなんか知ってるっしょ！",
+      "zh": "看过我直播的<br>\n总有一个会知道吧！",
+      "vi": "người đã xem chương trình phát sóng trực tiếp của Coco Sẽ có người biết!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Alisa002",
+      "speaker_tag": "; > Alisa: |#0206Trial07_Alisa002|",
+      "ja": "……んなテキトーな話で大丈夫かよ。",
+      "zh": "……这么随便，到底行不行啊。",
+      "vi": "...Thật bình thường, có được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco004",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco004|",
+      "ja": "なんとかなる！ ならなきゃ死ぬだけ！",
+      "zh": "总会有办法的！没办法的话就死呗！",
+      "vi": "Luôn luôn có một cách! Nếu bạn không thể giúp nó, bạn sẽ chết!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco005",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco005|",
+      "ja": "さあ全国１００億万人のあてぃしの視聴者たち～！",
+      "zh": "来来来，全世界的100亿万粉丝，有在看吗～！",
+      "vi": "Nào, nào, 10 tỷ người hâm mộ trên toàn thế giới, các bạn có đang xem không~!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco006",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco006|",
+      "ja": "【大魔女の言ってることが間違ってるって証拠】、<br>教えてよ！",
+      "zh": "知道的家人们，快把【能证明大魔女说的是错的证据】<br>\n扣在公屏上！",
+      "vi": "Người nhà nào biết xin hãy nhanh chóng đưa [bằng chứng chứng minh lời bà phù thủy nói là sai] Đưa nó lên màn hình công cộng!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco007",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco007|",
+      "ja": "……あ、リアタイしてるお前らは、<br>チャット欄で指示厨コメよろ～！！",
+      "zh": "……啊，你们这些正在看直播的，<br>\n特别是懂哥，给我把弹幕刷起来～！！",
+      "vi": "...À, các bạn đang xem buổi phát sóng trực tiếp, Đặc biệt là anh trai hiểu, hãy dọn dẹp đập cho Coco nhé ~! !",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco008",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco008|",
+      "ja": "ん～？ それぇ？",
+      "zh": "嗯～？就这～？",
+      "vi": "Hả~? Thế thôi~?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco009",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco009|",
+      "ja": "いやいや、あてぃしらもその情報、知ってるし！",
+      "zh": "不对不对，这种事我们早就知道啦！",
+      "vi": "Không, không, chúng Coco đã biết chuyện này từ lâu rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco010",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco010|",
+      "ja": "もう１度確認するけど……。",
+      "zh": "我再说一次哈……",
+      "vi": "Coco sẽ nói lại lần nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco011",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco011|",
+      "ja": "あてぃしらはこれまでの情報ぜーんぶ共有されちゃってんの！<br>ミリアのおっさんの魔法でね！",
+      "zh": "我们彼此之间至今为止所有的情报已经全～部都共享啦！<br>\n用米莉亚大叔的魔法！",
+      "vi": "Tất cả thông tin chúng Coco có cho đến nay đã được chia sẻ với nhau! Hãy sử dụng phép thuật của chú Miria!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco012",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco012|",
+      "ja": "だから、別の世界であっても、<br>エマっちとかヒロっちとか……<br>ここにいるメンバーが１度見た【記憶】はもう持ってるんだよね。",
+      "zh": "所以说，就算是在别的世界里看到的，<br>\n只要是艾玛亲、希罗亲……她们这些已经在这里的人<br>\n看过一次的【记忆】，我们也都已经拥有啦。",
+      "vi": "Vì vậy, ngay cả khi bạn nhìn thấy nó ở một thế giới khác, Chỉ cần đó là nụ hôn của Ema, nụ hôn của Hiro...những người đã ở đây Chúng Coco đã có [bộ nhớ] mà chúng Coco đã từng thấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco013",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco013|",
+      "ja": "つ～ま～り。<br>ここにいる１３人が誰も知らないような……。",
+      "zh": "也～就～是～说。<br>\n有没有我们这里13个人都不知道的那种……",
+      "vi": "Đúng vậy. Có điều gì mà không ai trong số 13 người chúng Coco ở đây biết...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco014",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco014|",
+      "ja": "そういうマル秘情報、なんかない？",
+      "zh": "……超级绝密情报啊？来点来点。",
+      "vi": "...Thông tin siêu bí mật? Thôi nào, thôi nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco015",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco015|",
+      "ja": "頼むよ～！<br>あんただけが頼りなんだからさっ！",
+      "zh": "拜托啦～！<br>\n现在就只能靠你一个了耶！",
+      "vi": "Làm ơn~! Bây giờ Coco chỉ có thể dựa vào bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco016",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco016|",
+      "ja": "……え？<br>それなん？",
+      "zh": "……啊？<br>\n这是？",
+      "vi": "...Hả? Có phải đây không?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco017",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco017|",
+      "ja": "……ほーん。",
+      "zh": "……嚯嚯。",
+      "vi": "...Hô hô.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco018",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco018|",
+      "ja": "はあ……そういうことね～……。",
+      "zh": "哈～原来如此啦……",
+      "vi": "Ha~ Vậy đó…",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema028",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema028|",
+      "ja": "な、何かわかったのココちゃん……！",
+      "zh": "怎、怎么了可可，有什么发现吗……！",
+      "vi": "Cái, cái gì thế, Coco, cậu có tìm thấy gì không...!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco019",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco019|",
+      "ja": "……バッチシ！",
+      "zh": "……搞定！",
+      "vi": "... Xong!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco020",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco020|",
+      "ja": "画面の前のオトモダチが聞いた声があるみたいだけど……。",
+      "zh": "屏幕前的家人好像听见过什么声音……",
+      "vi": "Gia đình trước màn hình dường như đã nghe thấy điều gì đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco021",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco021|",
+      "ja": "島の大魔女から<br>メッセージを預かってんだってさ。",
+      "zh": "说是收到了岛上的大魔女<br>\n留下的讯息哦！",
+      "vi": "Nghe nói đã tiếp được Đại Ma Nữ trên đảo Để lại tin nhắn!",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki025",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki025|",
+      "ja": "島の……大魔女……。",
+      "zh": "岛上的……大魔女……",
+      "vi": "Phù thủy lớn trên đảo...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco022",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco022|",
+      "ja": "そうそ。<br>そこのヤツと別の子？<br>大魔女って何人もいたみたいで……。",
+      "zh": "对对。<br>\n不过应该是跟这家伙不同的另一个人？<br>\n大魔女貌似不止一个人……",
+      "vi": "Đúng, đúng. Nhưng có lẽ phải là ai đó khác với anh chàng này? Dường như có nhiều hơn một phù thủy lớn...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco023",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco023|",
+      "ja": "なんか停滞っつーか、<br>悪い予言とかもあったみたいで、<br>滅ぶ運命を受け入れてた……みたいな感じ？",
+      "zh": "好像是说什么停滞什么的，<br>\n还有什么不好的预言，<br>\n已经接受了毁灭的命运……之类的？",
+      "vi": "Hình như đang nói về sự trì trệ hay gì đó, Còn dự đoán xấu nào nữa không, Đã chấp nhận số phận diệt vong... hay gì đó?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki026",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki026|",
+      "ja": "……そんな、ことは……。",
+      "zh": "……怎么、可能……",
+      "vi": "...Làm sao, có thể không...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco024",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco024|",
+      "ja": "はあ？<br>いやいや、だってそいつ言ってたんだってよ。",
+      "zh": "哈？<br>\n不不，据说那家伙真的是这么说的啊。",
+      "vi": "Hả? Không, không, Coco nghe anh chàng đó nói thật đấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco025",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco025|",
+      "ja": "……【人間への復讐なんて、望んでない】って。",
+      "zh": "……她说，【不希望向人类复仇】。",
+      "vi": "…Cô ấy nói, [Coco không muốn trả thù con người].",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki027",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki027|",
+      "ja": "………！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco026",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco026|",
+      "ja": "そいつ、お前に幸せになって欲しかったんだってさ。",
+      "zh": "她还说，希望你能幸福。",
+      "vi": "Cô ấy còn nói, Coco hy vọng bạn có thể hạnh phúc.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco027",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco027|",
+      "ja": "なーのにこんなことしてさぁ……。",
+      "zh": "结～果你却干出这种事……",
+      "vi": "Kết quả là bạn đã làm một việc như vậy...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Coco028",
+      "speaker_tag": "; > Coco: |#0206Trial07_Coco028|",
+      "ja": "――お前がやってんのは、<br>そいつへの裏切りなんじゃねーの！？",
+      "zh": "——你现在做的这些，<br>\n难道不是在背叛那家伙吗！？",
+      "vi": "---Bây giờ bạn đang làm gì, Không phải cậu đang phản bội gã đó sao? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki028",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki028|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki029",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki029|",
+      "ja": "……今更知っても、遅いんです。",
+      "zh": "……现在知道已经晚了。",
+      "vi": "...Bây giờ tôi biết thì đã quá muộn.",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Ema029",
+      "speaker_tag": "; > Ema: |#0206Trial07_Ema029|",
+      "ja": "………！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki030",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki030|",
+      "ja": "私は止まらない……<br>止まってはいけない……。",
+      "zh": "我不会停下……<br>\n我也不能停下……",
+      "vi": "Tôi sẽ không dừng lại... Tôi cũng không thể dừng lại...",
+      "objection_links": []
+    },
+    {
+      "id": "0206Trial07_Yuki031",
+      "speaker_tag": "; > Yuki: |#0206Trial07_Yuki031|",
+      "ja": "人類滅亡の願いを……叶えるために……！",
+      "zh": "为了实现……灭绝人类的夙愿……！",
+      "vi": "Để hiện thực hóa...mong ước ấp ủ từ lâu là tiêu diệt loài người...!",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial22",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial22' Naninovel scenario script",
+  "total_entries": 40,
+  "entries": [
+    {
+      "id": "0205Trial22_Hanna001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial22_Hanna001|",
+      "ja": "だめ……だめ……<br>どうして<link=\"Objection_02_05_22_01\">そんなこと</link>……。",
+      "zh": "不要……不要……<br>\n为什么我会<link=\"Objection_02_05_22_01\">做出这种事</link>……",
+      "vi": "Đừng...đừng... Tại sao Bổn tiểu thư <link=\"Objection_02_05_22_01\"> làm điều đó </link>...",
+      "objection_links": [
+        "Objection_02_05_22_01"
+      ]
+    },
+    {
+      "id": "0205Trial22_Hanna002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial22_Hanna002|",
+      "ja": "どうしてわたくしは<br><link=\"Objection_02_05_22_02\">殺して</link>しまったの……？<br>レイアさんを……<br>エマさんを……！",
+      "zh": "为什么我会<br>\n<link=\"Objection_02_05_22_02\">杀人</link>……？<br>\n把蕾雅杀了……<br>\n把艾玛杀了……！",
+      "vi": "Tại sao Bổn tiểu thư <link=\"Objection_02_05_22_02\">Giết</link>...? Giết Leya... Giết Ema...!",
+      "objection_links": [
+        "Objection_02_05_22_02"
+      ]
+    },
+    {
+      "id": "0205Trial22_Hanna003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial22_Hanna003|",
+      "ja": "何の罪もない<br>人たちなのに……！",
+      "zh": "明明她们<br>\n根本没有罪过……！",
+      "vi": "Rõ ràng là họ Chẳng có tội gì cả...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hanna004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial22_Hanna004|",
+      "ja": "それに……<br><link=\"Objection_02_05_22_03\">シェリーさん</link>は<br>そんなわたくしに付き合って……。",
+      "zh": "而且……<br>\n我这么罪孽深重，<br>\n<link=\"Objection_02_05_22_03\">雪莉</link>竟然要陪我一起……",
+      "vi": "Và... Bổn tiểu thư thật tội lỗi, <link=\"Objection_02_05_22_03\">Sherry</link> thực sự muốn đi cùng Bổn tiểu thư...",
+      "objection_links": [
+        "Objection_02_05_22_03"
+      ]
+    },
+    {
+      "id": "0205Trial22_Hanna005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial22_Hanna005|",
+      "ja": "うう……<br>ああああ……！",
+      "zh": "呜呜……<br>\n啊啊啊啊……！",
+      "vi": "Woohoo... Ahhh...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial22_Hiro001|",
+      "ja": "……ハンナ！<br>心を強く持つんだ！",
+      "zh": "……汉娜！<br>\n你振作一点！",
+      "vi": "...Hanna! Vui lên!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hanna006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial22_Hanna006|",
+      "ja": "そんなの<link=\"Objection_02_05_22_04\">無理</link>よ……！<br>わたくしは……<br>わたくしは……！！",
+      "zh": "<link=\"Objection_02_05_22_04\">做不到</link>啊……！<br>\n我……<br>\n该怎办……！！",
+      "vi": "<link=\"Objection_02_05_22_04\"> không thể làm được </link>...! Bổn tiểu thư... Phải làm gì đây...! !",
+      "objection_links": [
+        "Objection_02_05_22_04"
+      ]
+    },
+    {
+      "id": "0205Trial22_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro002|",
+      "ja": "（ハンナの心が負荷に耐えきれず、<br>　魔法が暴走している……！）",
+      "zh": "（汉娜的心承受不住负担，<br>\n令魔法失控了……！）",
+      "vi": "(Trái tim Hanna không thể chịu nổi gánh nặng, Phép thuật đã vượt khỏi tầm kiểm soát...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro003|",
+      "ja": "（重力がぐちゃぐちゃで、ハンナに近付くこともできない）",
+      "zh": "（重力变得紊乱，我甚至没法靠近汉娜）",
+      "vi": "(Trọng lực trở nên rối loạn và tôi thậm chí không thể đến gần Hanna)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro004|",
+      "ja": "（……島の高度は今もどんどん上がり続けている……！<br>　このまま放っておけばどうなるのかは想像したくないな……！）",
+      "zh": "（……岛的高度现在还在不断上升……！<br>\n真不敢想放任不管下去会出什么事……！）",
+      "vi": "(...Độ cao của hòn đảo vẫn đang tăng lên...! Tôi thực sự không thể tưởng tượng được chuyện gì sẽ xảy ra nếu tôi để nó một mình…! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro005|",
+      "ja": "（ハンナに……呼びかけ続けるしかない！）",
+      "zh": "（我只能……持续对汉娜喊话了！）",
+      "vi": "(Mình chỉ có thể...tiếp tục hét lên với Hanna!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial22_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "仕方なかった",
+      "zh": "不是你的错",
+      "vi": "không phải lỗi của bạn",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial22_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "君がやったんじゃない",
+      "zh": "不是你动手的",
+      "vi": "Bạn đã không làm điều đó",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial22_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "シェリーの選択だ",
+      "zh": "那是雪莉的选择",
+      "vi": "Đó là sự lựa chọn của Sherry",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Choice004",
+      "speaker_tag": "; > @choice |#0205Trial22_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "君なら乗り越えられる",
+      "zh": "你有办法克服",
+      "vi": "bạn có cách để vượt qua nó",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro006|",
+      "ja": "仕方なかったんだ！<br>君は魔女化が進行していた……！",
+      "zh": "那不怪你！<br>\n当时你的魔女化正在加深……！",
+      "vi": "Đó không phải lỗi của bạn! Vào thời điểm đó, quá trình biến đổi thành phù thủy của bạn ngày càng sâu sắc...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro007|",
+      "ja": "それは君の意思じゃない！<br>全て魔女因子のせいだ！",
+      "zh": "你不是真心想杀人的！<br>\n这全都是魔女因子的错！",
+      "vi": "Bạn thực sự không muốn giết bất cứ ai! Tất cả đều là lỗi của Witch Factor!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hanna007",
+      "speaker_tag": "; > Hanna: |#0205Trial22_Hanna007|",
+      "ja": "わたくしは……わたくし……は……！",
+      "zh": "我……已经……！",
+      "vi": "Bổn tiểu thư... đã...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro008|",
+      "ja": "（ハンナの心は憔悴している……）",
+      "zh": "（汉娜的心已经憔悴不堪……）",
+      "vi": "(Trái tim của Hanna đã hốc hác rồi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro009|",
+      "ja": "（だが……諦めるものかっ！）",
+      "zh": "（但是……我怎能放弃！）",
+      "vi": "(Nhưng...làm sao mình có thể bỏ cuộc được!)",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_002",
+      "speaker_tag": "; > @toast |#Toast_002|",
+      "ja": "議論発展…",
+      "zh": "讨论前进…",
+      "vi": "Cuộc thảo luận đang tiến triển…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro010|",
+      "ja": "それは君がやったことじゃない！<br>別の世界の君がしたことだ！",
+      "zh": "那不是你做的！<br>\n只是另一个世界的你做的事！",
+      "vi": "Đó không phải là điều bạn đã làm! Chỉ là một cái gì đó bạn làm ở một thế giới khác!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro011|",
+      "ja": "今ここにいる君が悔やむ必要なんてない！",
+      "zh": "当下的你根本没必要懊悔！",
+      "vi": "Hiện tại ngươi không cần phải hối hận!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hanna008",
+      "speaker_tag": "; > Hanna: |#0205Trial22_Hanna008|",
+      "ja": "……それでも、わたくしは……！！",
+      "zh": "……就算是这样，我也……！！",
+      "vi": "...Mặc dù vậy, Bổn tiểu thư vẫn...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro012|",
+      "ja": "（こちらの声はまだ届いている……！）",
+      "zh": "（她还听得进我说的话……！）",
+      "vi": "(Cô ấy vẫn có thể nghe được những gì mình nói...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro013|",
+      "ja": "（諦めるのは早い！）",
+      "zh": "（现在放弃还太早！）",
+      "vi": "(Bây giờ còn quá sớm để bỏ cuộc!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro014|",
+      "ja": "それはシェリーが選択したことだ！",
+      "zh": "那是雪莉自己选择的！",
+      "vi": "Đó là sự lựa chọn của Sherry!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro015|",
+      "ja": "君が責任を感じる必要なんてない！",
+      "zh": "你根本没必要感到自责！",
+      "vi": "Không cần thiết phải cảm thấy tội lỗi chút nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Sherry001",
+      "speaker_tag": "; > Sherry: |#0205Trial22_Sherry001|",
+      "ja": "……複雑な気持ちですが。",
+      "zh": "……总感觉心情复杂呢。",
+      "vi": "...Tôi luôn có những cảm xúc lẫn lộn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Sherry002",
+      "speaker_tag": "; > Sherry: |#0205Trial22_Sherry002|",
+      "ja": "私のことはお気になさらず！<br>全然気にしてないので！",
+      "zh": "请不用在意我！<br>\n我完全不介意的！",
+      "vi": "Làm ơn đừng để ý đến tôi! Tôi không bận tâm chút nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hanna009",
+      "speaker_tag": "; > Hanna: |#0205Trial22_Hanna009|",
+      "ja": "そんなこと……言われても……！",
+      "zh": "现在说这个……有什么用……！",
+      "vi": "Bây giờ hãy nói điều này... có ích gì...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro016|",
+      "ja": "君なら乗り越えられる……。",
+      "zh": "你一定能克服……",
+      "vi": "Bạn chắc chắn có thể vượt qua nó...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro017|",
+      "ja": "君は気高い【お嬢様】なんだろう！",
+      "zh": "你不是高贵的【大小姐】吗！",
+      "vi": "Bạn không phải là một [Quý cô] cao quý sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hanna010",
+      "speaker_tag": "; > Hanna: |#0205Trial22_Hanna010|",
+      "ja": "……っ！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hanna011",
+      "speaker_tag": "; > Hanna: |#0205Trial22_Hanna011|",
+      "ja": "それは……。",
+      "zh": "我……",
+      "vi": "Bổn tiểu thư...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hanna012",
+      "speaker_tag": "; > Hanna: |#0205Trial22_Hanna012|",
+      "ja": "……っ……。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hanna013",
+      "speaker_tag": "; > Hanna: |#0205Trial22_Hanna013|",
+      "ja": "やっぱり無理です……！<br>わたくしに……お嬢様の資格なんてないんですわ……！",
+      "zh": "还是不行……！<br>\n我……根本没有当大小姐的资格呀……！",
+      "vi": "Vẫn không hoạt động...! Bổn tiểu thư...Bổn tiểu thư không có tư cách làm bà cả chút nào...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial22_Hiro018|",
+      "ja": "……！",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial22_Hanna014",
+      "speaker_tag": "; > Hanna: |#0205Trial22_Hanna014|",
+      "ja": "わたくしは……ダメな子なんです！！",
+      "zh": "我……真的太不中用了！！",
+      "vi": "Bổn tiểu thư... thực sự vô dụng! !",
+      "objection_links": []
+    }
+  ]
+}

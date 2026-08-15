@@ -1,0 +1,823 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter04_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter04_Trial09",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter04/Act01_Chapter04_Trial09' Naninovel scenario script",
+  "total_entries": 101,
+  "entries": [
+    {
+      "id": "0104Trial09_Margo001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial09_Margo001|",
+      "ja": "人を殺すには<br>【動機】が必要だわ。",
+      "zh": "杀人需要<br>\n【动机】。",
+      "vi": "Giết chóc cần 【Động lực】.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial09_Margo002|",
+      "ja": "……たとえ殺す相手が、<br>自分自身だとしてもね。",
+      "zh": "……就算杀害的对象是自己，<br>\n也不例外。",
+      "vi": "...Ngay cả khi người em giết là chính em, Không có ngoại lệ.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial09_Margo003|",
+      "ja": "どうしてアリサちゃんは<br>自ら死を選んだのかしら？",
+      "zh": "亚里沙为什么会选择<br>\n自寻短见？",
+      "vi": "Tại sao Alisa lại chọn Đang tìm cách tự tử?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Meruru001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial09_Meruru001|",
+      "ja": "……アリサさんが<br>睡眠薬を必要と<br>していたのは<br>たしかです。",
+      "zh": "……目前能明确的是，<br>\n亚里沙一直以来<br>\n都需要安眠药<br>\n来辅助睡眠。",
+      "vi": "...Điều rõ ràng hiện nay là Alisa luôn Mọi người đều cần thuốc ngủ Để hỗ trợ giấc ngủ.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Meruru002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial09_Meruru002|",
+      "ja": "だから普段から<br>夜眠れないぐらいに<br>悩んでいたのだと<br>思います……。",
+      "zh": "所以我想，<br>\n她一直很苦恼，<br>\n苦恼得<br>\n夜不能寐……",
+      "vi": "Vì vậy tôi đã nghĩ, Cô ấy đã rất đau khổ, Đau khổ Đêm không ngủ được...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial09_Coco001|",
+      "ja": "そりゃこんなとこに<br>長くいたら、<br>頭もおかしくなるっての！",
+      "zh": "长时间待在<br>\n这种鬼地方，<br>\n换谁都会疯好不好！",
+      "vi": "Ở lại trong một thời gian dài Nơi ma quái này, Có ai khác sẽ bị điên, được chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial09_Coco002|",
+      "ja": "<link=\"Objection_01_04_09_01\">飯</link>だってマズイし、<br><link=\"Objection_01_04_09_02\">部屋</link>だって不気味で汚いし！<br>……ていうか<link=\"Objection_01_04_09_03\">監禁</link>されてて<br>まともでいられるヤツなんて<br>いるわけないじゃん！",
+      "zh": "<link=\"Objection_01_04_09_01\">饭菜</link>难吃，<br>\n<link=\"Objection_01_04_09_02\">房间</link>也阴森森脏兮兮的！<br>\n……话说回来，哪里会有人<br>\n受到这种<link=\"Objection_01_04_09_03\">监禁</link><br>\n还能保持正常啊！",
+      "vi": "<link=\"Objection_01_04_09_01\">Đồ ăn</link>không ngon, <link=\"Objection_01_04_09_02\">Phòng</link> cũng tối và bẩn! ...Nhắc mới nhớ, ai sẽ ở đâu phải tuân theo điều này <link=\"Objection_01_04_09_03\">việc bỏ tù</link>_TAG_9__ Coco vẫn có thể sống bình thường!",
+      "objection_links": [
+        "Objection_01_04_09_01",
+        "Objection_01_04_09_02",
+        "Objection_01_04_09_03"
+      ]
+    },
+    {
+      "id": "0104Trial09_Margo004",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial09_Margo004|",
+      "ja": "けど……<br>何か自殺の<br>きっかけになるものは<br>あったんじゃないかしら？",
+      "zh": "可是……<br>\n应该是有什么契机<br>\n导致亚里沙<br>\n想要自杀的吧？",
+      "vi": "Nhưng... Chắc chắn phải có cơ hội nào đó Vì Alisa Muốn tự sát?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo005",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial09_Margo005|",
+      "ja": "見ようによっては、<br>それがアリサちゃんを<br>【殺した犯人】……<br>とも言えるかも<br>しれないわね。",
+      "zh": "换一个角度来看，<br>\n也可以这么说——<br>\n这个契机就是<br>\n【杀害亚里沙的凶手】……<br>",
+      "vi": "Nhìn từ một góc độ khác, Bạn cũng có thể nói - Cơ hội này là [Kẻ sát hại Alisa]......",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial09_Coco003|",
+      "ja": "……もしアリサに<br>自殺をそそのかした<br>やつがいたら、<br>投票するってこと？",
+      "zh": "……你是说，<br>\n如果有人教唆<br>\n亚里沙自杀，<br>\n那我们就应该投票给那个人？",
+      "vi": "...Ý bạn là, Nếu ai đó xúi giục Alisa tự tử, Vậy chúng ta có nên bầu cho người đó không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo006",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial09_Margo006|",
+      "ja": "私はべつに<br>その人に投票しても<br>構わないと思ってるわ。",
+      "zh": "我觉得<br>\n投票给那个人<br>\n也没问题。",
+      "vi": "Chị nghĩ Hãy bầu cho người đó Không có vấn đề gì.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo007",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial09_Margo007|",
+      "ja": "これは【<link=\"Objection_01_04_09_04\">魔女裁判</link>】……<br>外の世界の<link=\"Objection_01_04_09_05\">法廷</link>とは<br>無縁なんだもの。",
+      "zh": "我们正在进行的是<br>\n【<link=\"Objection_01_04_09_04\">魔女审判</link>】……<br>\n和外部世界的<link=\"Objection_01_04_09_05\">法庭</link>本质就不一样。",
+      "vi": "Những gì chúng Chị đang làm là 【<link=\"Objection_01_04_09_04\">Thử thách phù thủy</link>】…… Về cơ bản nó khác với <link=\"Objection_01_04_09_05\"> tòa án</link> ở thế giới bên ngoài.",
+      "objection_links": [
+        "Objection_01_04_09_04",
+        "Objection_01_04_09_05"
+      ]
+    },
+    {
+      "id": "0104Trial09_Ema001",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema001|",
+      "ja": "（アリサちゃんが自死を選んだ理由……）",
+      "zh": "（亚里沙决定自杀的理由……）",
+      "vi": "(Lý do tại sao Alisa quyết định tự sát...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema002",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema002|",
+      "ja": "（もしかすると、あの事が原因かもしれない……！）",
+      "zh": "（难不成，原因就是那个……！）",
+      "vi": "(Có thể không? Lý do là...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Choice001",
+      "speaker_tag": "; > @choice |#0104Trial09_Choice001| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "食事の酷さ",
+      "zh": "饮食条件恶劣",
+      "vi": "Điều kiện ăn uống kém",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Choice002",
+      "speaker_tag": "; > @choice |#0104Trial09_Choice002| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "住居の暗さ",
+      "zh": "居住环境阴暗",
+      "vi": "Môi trường sống tối tăm",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Choice003",
+      "speaker_tag": "; > @choice |#0104Trial09_Choice003| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "自由の無さ",
+      "zh": "没有人身自由",
+      "vi": "không có tự do cá nhân",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Choice004",
+      "speaker_tag": "; > @choice |#0104Trial09_Choice004| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "魔女",
+      "zh": "魔女",
+      "vi": "phù thủy",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Choice005",
+      "speaker_tag": "; > @choice |#0104Trial09_Choice005| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "裁判",
+      "zh": "审判",
+      "vi": "thử nghiệm",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Choice006",
+      "speaker_tag": "; > @choice |#0104Trial09_Choice006| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "法",
+      "zh": "法律",
+      "vi": "pháp luật",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema003",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema003|",
+      "ja": "たしかに食事はヒドイよね……。",
+      "zh": "饮食条件确实很糟糕……",
+      "vi": "Điều kiện ăn uống thực sự tồi tệ...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco004",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco004|",
+      "ja": "食えたもんじゃねーっての！",
+      "zh": "根本就不是给人吃的东西好吗！",
+      "vi": "Nó hoàn toàn không phải thứ để người ta ăn, được chứ!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo008",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo008|",
+      "ja": "食べ物がおいしくないから自死……ね。<br>まあ、ありえない話ではないけれど。",
+      "zh": "食物难吃所以选择自杀……<br>\n哎，也不是说完全没有这个可能。",
+      "vi": "Thức ăn có vị rất tệ nên Chị đã chọn cách tự tử... Này, điều đó không có nghĩa là điều đó hoàn toàn không thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Meruru003",
+      "speaker_tag": "; > Meruru: |#0104Trial09_Meruru003|",
+      "ja": "……ただ、アリサさんが……<br>そ、そのようなことで死を選ぶかは……。",
+      "zh": "……只是，亚里沙……<br>\n她、她会因为这种事就自杀吗……",
+      "vi": "...Chỉ là, Alisa... Cô ấy, liệu cô ấy có tự tử vì chuyện như thế này không...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema004",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema004|",
+      "ja": "（たしかに……アリサちゃんのことを考えると、<br>　あまりしっくりくる理由じゃないかも……？）",
+      "zh": "（说得对……以亚里沙的个性，<br>\n这个理由确实说服力很差的样子……？）",
+      "vi": "(Đúng vậy... với tính cách của Alisa, Lý do này thực sự có vẻ rất không thuyết phục...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema005",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema005|",
+      "ja": "（もっとアリサちゃんが、気にしていたこと……<br>　死ぬことが選択肢に入ってしまうような出来事……<br>　そんなこと、なかったかな……？）",
+      "zh": "（一些一直让亚里沙更加介怀的事情……<br>\n或者发生了会让她想到自杀的事情……<br>\n能不能找到这样子的原因呢……？）",
+      "vi": "(Một số điều luôn khiến Alisa quan tâm hơn... Hoặc có điều gì đó đã xảy ra khiến cô ấy nghĩ đến việc tự tử... Bạn có thể tìm ra lý do cho việc này không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema006",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema006|",
+      "ja": "たしかに照明は良くないよね……。",
+      "zh": "地方确实不够敞亮……",
+      "vi": "Nơi này thực sự không đủ mở. . .",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco005",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco005|",
+      "ja": "動画撮ってても盛れないしさ！",
+      "zh": "连拍个片都不上镜好吗！",
+      "vi": "Bạn thậm chí không thể chụp ảnh mà không có máy ảnh, được chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema007",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema007|",
+      "ja": "オシャレな間接照明とか、置いて欲しいよね。",
+      "zh": "真希望能给我们安装一些时尚的间接照明灯呢。",
+      "vi": "Tôi thực sự mong họ có thể lắp đặt một số hệ thống chiếu sáng gián tiếp đầy phong cách cho chúng tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo009",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo009|",
+      "ja": "……エマちゃん。<br>グチならあとで言ってもらってもいいかしら？",
+      "zh": "……艾玛，<br>\n想抱怨的话之后再慢慢抱怨行吗？",
+      "vi": "...Ema, Nếu muốn khiếu nại thì sau này từ từ khiếu nại được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema008",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema008|",
+      "ja": "（怒られちゃった……！）",
+      "zh": "（被骂了……！）",
+      "vi": "(Tôi đã bị mắng...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema009",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema009|",
+      "ja": "（もっとアリサちゃんが、気にしていたこと……<br>　死ぬことが選択肢に入ってしまうような出来事……<br>　そんなこと、なかったかな……？）",
+      "zh": "（一些一直让亚里沙更加介怀的事情……<br>\n或者发生了会让她想到自杀的事情……<br>\n能不能找到这样子的原因呢……？）",
+      "vi": "(Một số điều luôn khiến Alisa quan tâm hơn... Hoặc có điều gì đó đã xảy ra khiến cô ấy nghĩ đến việc tự tử... Bạn có thể tìm ra lý do cho việc này không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema010",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema010|",
+      "ja": "やっぱり自由が欲しいよね……。<br>毎日囚人扱いされて、外の世界にも出られず……。",
+      "zh": "说到底还是希望能有自由啊……<br>\n每天都被人当囚犯对待，也无法到外面的世界去……",
+      "vi": "Suy cho cùng tôi vẫn mong có được tự do... Tôi bị đối xử như một tù nhân mỗi ngày và không thể bước ra thế giới bên ngoài...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Meruru004",
+      "speaker_tag": "; > Meruru: |#0104Trial09_Meruru004|",
+      "ja": "で、でも最近はみなさん自由時間以外も、<br>普通に歩き回っていたような……？",
+      "zh": "可、可我感觉最近大家好像<br>\n几乎一整天都能无视规则，随意自由走动欸……？",
+      "vi": "Tuy nhiên, tôi cảm thấy gần đây mọi người dường như Tôi có thể bỏ qua các quy tắc và đi lại tự do gần như cả ngày...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo010",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo010|",
+      "ja": "アリサちゃんも頻繁に外を出歩いていたし、<br>ある意味自由だったんじゃないかしら？",
+      "zh": "我看亚里沙最近也总在外面转悠，<br>\n在某种意义上也算挺自由的吧？",
+      "vi": "Chị thấy gần đây Alisa luôn quanh quẩn bên ngoài, Ở một khía cạnh nào đó, nó khá miễn phí phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco006",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco006|",
+      "ja": "まあ反抗するのが仕事みたいなとこあったよな。<br>あのヤンキー。",
+      "zh": "哎，<br>\n太妹的性格就是把反抗当上班的嘛。",
+      "vi": "Này, Nhân vật của Taimei coi việc phản kháng như một công việc.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco007",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco007|",
+      "ja": "案外楽しんでたりしたんかな？",
+      "zh": "说不定她还挺乐在其中的？",
+      "vi": "Có lẽ cô ấy đang tận hưởng nó?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo011",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo011|",
+      "ja": "さすがにそこまではいかないと思うけど……。",
+      "zh": "我觉得没那么夸张就是了……",
+      "vi": "Chị nghĩ nó không quá phóng đại...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema011",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema011|",
+      "ja": "（もっとアリサちゃんが、気にしていたこと……<br>　死ぬことが選択肢に入ってしまうような出来事……<br>　そんなこと、なかったかな……？）",
+      "zh": "（一些一直让亚里沙更加介怀的事情……<br>\n或者发生了会让她想到自杀的事情……<br>\n能不能找到这样子的原因呢……？）",
+      "vi": "(Một số điều luôn khiến Alisa quan tâm hơn... Hoặc có điều gì đó đã xảy ra khiến cô ấy nghĩ đến việc tự tử... Bạn có thể tìm ra lý do cho việc này không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema012",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema012|",
+      "ja": "……裁判自体が、<br>強いストレスになってたんじゃないかな。",
+      "zh": "……会不会是举行审判这件事本身<br>\n让她感到沉重的压力呢。",
+      "vi": "...có thể là vấn đề tổ chức phiên tòa Điều đó khiến cô cảm thấy áp lực nặng nề.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo012",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo012|",
+      "ja": "それはありえるかもしれないわね。",
+      "zh": "有可能。",
+      "vi": "Điều đó là có thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco008",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco008|",
+      "ja": "……だとしても、<br>あてぃしなら死にたくないけど。",
+      "zh": "……但就算有压力，<br>\n我也不会想死就是了。",
+      "vi": "…Nhưng ngay cả khi có áp lực, Coco thậm chí còn không muốn chết.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco009",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco009|",
+      "ja": "自分で死ぬぐらいなら、<br>全員ブッ殺したほうが――。",
+      "zh": "我一个人死算什么，<br>\n还不如把所有人都给杀了——",
+      "vi": "Dù Coco có chết một mình cũng không sao, Có thể giết tất cả mọi người——",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo013",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo013|",
+      "ja": "……アリサちゃんも、<br>そんな風に思ってたのかしらね？",
+      "zh": "……亚里沙会不会也是<br>\n一直这么想的呢？",
+      "vi": "...có lẽ Alisa cũng là Bạn có luôn nghĩ như vậy không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco010",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco010|",
+      "ja": "……あのヤンキーなら、<br>あてぃしらを殺したあとで<br>死ぬぐらいしてもおかしくないと思うけどね。",
+      "zh": "……依我看，<br>\n那太妹会在杀死我们所有人以后<br>\n再自杀也不出奇啦。",
+      "vi": "...Theo ý kiến của Coco, Cô gái đó sẽ giết tất cả chúng ta sau Sẽ không có gì đáng ngạc nhiên nếu anh ta tự sát.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema013",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema013|",
+      "ja": "（そんな……！<br>　アリサちゃんはそんな子じゃないよ……！）",
+      "zh": "（怎么可能……！<br>\n亚里沙才不是这种人……！）",
+      "vi": "(Sao có thể được...! Alisa không phải loại người như vậy...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema014",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema014|",
+      "ja": "（……あれ。<br>　でも、だとするとアリサちゃんを一番苦しめていたのって<br>　もしかして――）",
+      "zh": "（……咦。<br>\n不过按这个说法，说不定一直以来<br>\n最折磨亚里沙的其实是——）",
+      "vi": "(...Này. Nhưng theo tuyên bố này, có lẽ nó đã luôn là Thứ tra tấn Alisa nhiều nhất là——)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema015",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema015|",
+      "ja": "この屋敷のルールが……<br>我慢ならなかったのかな。",
+      "zh": "她会不会……<br>\n无法忍受监牢的规矩呢。",
+      "vi": "Liệu cô ấy... Tôi không thể chịu được các quy định của Ngục Dinh Thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo014",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo014|",
+      "ja": "ルールを気にする感じの子じゃ<br>なかったけどね。",
+      "zh": "就是我不觉得她是那种<br>\n会对规则上心的人啦。",
+      "vi": "Chỉ là Chị không nghĩ cô ấy thuộc loại như vậy Một người chú ý đến các quy tắc.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco011",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco011|",
+      "ja": "まんまヤンキーだし。",
+      "zh": "她从里到外完全就是个太妹。",
+      "vi": "Cô ấy là một cô gái hoàn chỉnh từ trong ra ngoài.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Meruru005",
+      "speaker_tag": "; > Meruru: |#0104Trial09_Meruru005|",
+      "ja": "むしろルールに対して、<br>立ち向かおうとしていたようにも見えましたね……。",
+      "zh": "应该反过来说，<br>\n她更像那种勇于对抗规矩的人才对……",
+      "vi": "Nên nói ngược lại, Cô ấy giống kiểu người dám bất chấp luật lệ hơn...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema016",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema016|",
+      "ja": "なら……いったいどうして……。",
+      "zh": "这样的话……她到底为什么……",
+      "vi": "Trong trường hợp này...tại sao cô ấy lại...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema017",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema017|",
+      "ja": "（もっとアリサちゃんが、気にしていたこと……<br>　死ぬことが選択肢に入ってしまうような出来事……<br>　そんなこと、なかったかな……？）",
+      "zh": "（一些一直让亚里沙更加介怀的事情……<br>\n或者发生了会让她想到自杀的事情……<br>\n能不能找到这样子的原因呢……？）",
+      "vi": "(Một số điều luôn khiến Alisa quan tâm hơn... Hoặc có điều gì đó đã xảy ra khiến cô ấy nghĩ đến việc tự tử... Bạn có thể tìm ra lý do cho việc này không...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema018",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema018|",
+      "ja": "アリサちゃんが死んだ理由……<br>それは、【魔女】なんじゃないかな。",
+      "zh": "亚里沙选择自杀的理由……<br>\n会不会是【魔女】呢。",
+      "vi": "Lý do tại sao Alisa chọn cách tự tử... Có thể nào là [Witch]?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo015",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo015|",
+      "ja": "……何か心当たりがあるのかしら？",
+      "zh": "……你有头绪吗？",
+      "vi": "...Bạn có manh mối nào không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema019",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema019|",
+      "ja": "アリサちゃんが魔女のことで思い悩んでいた理由を示す<br>証拠品、それは……。",
+      "zh": "亚里沙一直对魔女这件事烦恼不已。<br>\n能证明这一点的证物就是……",
+      "vi": "Alisa luôn lo lắng về chuyện phù thủy. Bằng chứng chứng minh điều này là...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema020",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema020|",
+      "ja": "たくさん睡眠薬を飲んでたくらいだから、<br>かなり追い詰められていたんだよ。",
+      "zh": "她喝了这么多安眠药，<br>\n当时肯定已经是万念俱灰。",
+      "vi": "Cô ấy đã uống quá nhiều thuốc ngủ, Chắc hẳn lúc đó tôi đã hoàn toàn tuyệt vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo016",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo016|",
+      "ja": "それは悩んだ結果であって、<br>原因ではないわね。",
+      "zh": "这是她的烦恼导致的结果，<br>\n并不是原因。",
+      "vi": "Đây là kết quả của những rắc rối của cô ấy, Không phải lý do.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco012",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco012|",
+      "ja": "エマっち、さっきまでの記憶なくなった？<br>健忘症ってやつ？",
+      "zh": "艾玛亲，你这是失去到刚才为止的记忆了？<br>\n你有健忘症？",
+      "vi": "Ema thân mến, bạn đã mất ký ức vừa rồi phải không? Bạn có bị mất trí nhớ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema021",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema021|",
+      "ja": "（記憶力を疑われちゃった……！）",
+      "zh": "（被她怀疑我的记忆力了……！）",
+      "vi": "(Cô ấy nghi ngờ trí nhớ của mình...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema022",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema022|",
+      "ja": "（アリサちゃんが気にしていた【魔女】……。<br>　その兆候は、あれを見れば明らかなはずだ……！）",
+      "zh": "（亚里沙一直介怀着【魔女】这件事……<br>\n只要看到这个，大家肯定能明白为什么……！）",
+      "vi": "(Alisa luôn lo lắng về [Witch]... Chỉ cần nhìn thấy điều này chắc chắn mọi người sẽ hiểu tại sao...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema023",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema023|",
+      "ja": "繰り返される魔女裁判と、処刑……<br>それに苦しめられてたんじゃないかな。",
+      "zh": "一次又一次的魔女审判，还有处刑……<br>\n她应该一直因为这些事备受折磨吧。",
+      "vi": "Hết lần này đến lần khác xét xử và hành quyết phù thủy... Lẽ ra cô ấy phải bị tra tấn vì những điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo017",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo017|",
+      "ja": "でもアリサちゃんは反抗してたわよね。",
+      "zh": "可亚里沙一直都有反抗哦。",
+      "vi": "Nhưng Alisa luôn phản đối.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco013",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco013|",
+      "ja": "自殺するより、派手に暴れた方がらしくねー？",
+      "zh": "比起自杀，大闹一场才更符合她的个性吧？",
+      "vi": "Thay vì tự tử, việc gây sự sẽ phù hợp với tính cách của cô ấy hơn, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Meruru006",
+      "speaker_tag": "; > Meruru: |#0104Trial09_Meruru006|",
+      "ja": "……エマさん、もう一度考え直してみましょうか。",
+      "zh": "……艾玛小姐，我们重新再好好想一想吧。",
+      "vi": "...Ema, ​​hãy suy nghĩ lại nhé.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema024",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema024|",
+      "ja": "（やんわり否定されちゃった……！）",
+      "zh": "（被自然流畅地否定了……！）",
+      "vi": "(Từ chối một cách tự nhiên và suôn sẻ...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema025",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema025|",
+      "ja": "（アリサちゃんが気にしていた【魔女】……。<br>　その兆候は、あれを見れば明らかなはずだ……！）",
+      "zh": "（亚里沙一直介怀着【魔女】这件事……<br>\n只要看到这个，大家肯定能明白为什么……！）",
+      "vi": "(Alisa luôn lo lắng về [Witch]... Chỉ cần nhìn thấy điều này chắc chắn mọi người sẽ hiểu tại sao...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco014",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco014|",
+      "ja": "その証拠が【魔女】と<br>どう関係すんだよ。",
+      "zh": "你这证物跟【魔女】<br>\n能怎样扯上关系啊。",
+      "vi": "Bằng chứng của bạn giống với [Witch] Làm thế nào chúng ta có thể tham gia?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo018",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo018|",
+      "ja": "アリサちゃんの自殺の動機とは<br>関係ないと思うわ。",
+      "zh": "我觉得这跟亚里沙自杀的动机<br>\n没有关系。",
+      "vi": "Chị nghĩ điều này có liên quan đến động cơ tự tử của Alisa Nó không quan trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema026",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema026|",
+      "ja": "（間違えちゃったみたい……！）",
+      "zh": "（看来我弄错了……！）",
+      "vi": "(Có vẻ như tôi đã phạm sai lầm...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema027",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema027|",
+      "ja": "（アリサちゃんが気にしていた【魔女】……。<br>　その兆候は、あれを見れば明らかなはずだ……！）",
+      "zh": "（亚里沙一直介怀着【魔女】这件事……<br>\n只要看到这个，大家肯定能明白为什么……！）",
+      "vi": "(Alisa luôn lo lắng về [Witch]... Chỉ cần nhìn thấy điều này chắc chắn mọi người sẽ hiểu tại sao...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema028",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema028|",
+      "ja": "アリサちゃんの体をもう一度見て欲しいんだけど……。",
+      "zh": "请大家再次看一下亚里沙的身体……",
+      "vi": "Làm ơn hãy nhìn vào cơ thể của Alisa một lần nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema029",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema029|",
+      "ja": "……魔女化が、すごい勢いで進行してるんだ。",
+      "zh": "……魔女化的程度已经非常深了。",
+      "vi": "...Mức độ biến hình của phù thủy đã rất sâu rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco015",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco015|",
+      "ja": "……あっ……！",
+      "zh": "……啊……！",
+      "vi": "...à...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema030",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema030|",
+      "ja": "昨日の夜にボクが見た時は、こんな風じゃなかった……。",
+      "zh": "昨晚见到亚里沙的时候，她还不是这样的……",
+      "vi": "Khi tôi nhìn thấy Alisa tối qua, cô ấy không như thế này...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco016",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco016|",
+      "ja": "そ、そういえば……<br>昨日あてぃしらがアイツを誘った時も、<br>姿を隠すようにして慌てて逃げてったような……。",
+      "zh": "说、说起来……<br>\n昨天我们邀她参加茶话会的时候，<br>\n她遮遮掩掩不想让人看到自己似的，急匆匆地跑了……",
+      "vi": "Nói về chuyện đó... Khi chúng Coco mời cô ấy đến bữa tiệc trà ngày hôm qua, Cô vội vàng bỏ chạy như không muốn ai nhìn thấy mình...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco017",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco017|",
+      "ja": "もしかしたら……<br>自分の体、見られたくなかったのかも……。",
+      "zh": "难不成……<br>\n她不想让人看到自己的身体……",
+      "vi": "Liệu có thể... Cô không muốn mọi người nhìn thấy cơ thể của mình...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Meruru007",
+      "speaker_tag": "; > Meruru: |#0104Trial09_Meruru007|",
+      "ja": "アリサさんは……優しい人でした。",
+      "zh": "亚里沙小姐……是一个很善良的人。",
+      "vi": "Alisa... là một người rất tốt bụng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Meruru008",
+      "speaker_tag": "; > Meruru: |#0104Trial09_Meruru008|",
+      "ja": "急激に魔女化が進んで殺人衝動が高まり、<br>殺意が抑えられなくなるのが<br>いやだったのかもしれません……。",
+      "zh": "说不定她其实很抗拒，因为魔女化的程度突然急剧加深，<br>\n导致她产生强烈的杀人冲动，<br>\n压抑不住自己的杀意……",
+      "vi": "Có lẽ cô ấy thực sự rất phản kháng, bởi vì mức độ biến hình của phù thủy đột nhiên trở nên sâu sắc hơn, Khiến cô có cảm giác muốn giết người mãnh liệt, Không thể ngăn chặn ý định giết người của mình ...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema031",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema031|",
+      "ja": "その結果、アリサちゃんは自ら死を選んだんだと思う。",
+      "zh": "我认为，就是这个原因导致亚里沙选择了自杀。",
+      "vi": "Tôi nghĩ đây là lý do tại sao Alisa chọn tự tử.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema032",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema032|",
+      "ja": "ボクたちを……傷付けないために！",
+      "zh": "为了……不让她自己伤害到我们！",
+      "vi": "Để... không để cô ấy làm tổn thương chúng ta!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo019",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo019|",
+      "ja": "……そう……なのね。",
+      "zh": "……是……啊。",
+      "vi": "...Ừ...À.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco018",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco018|",
+      "ja": "そんな……！",
+      "zh": "怎么会这样……！",
+      "vi": "Làm sao điều này có thể xảy ra...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema033",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema033|",
+      "ja": "……それが、アリサちゃんの死の真相だよ！",
+      "zh": "……这就是亚里沙死亡的真相！",
+      "vi": "…Đây là sự thật đằng sau cái chết của Alisa!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Meruru009",
+      "speaker_tag": "; > Meruru: |#0104Trial09_Meruru009|",
+      "ja": "私たちを……守る為に………！？",
+      "zh": "她是……为了保护我们………！？",
+      "vi": "Cô ấy... để bảo vệ chúng ta...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Margo020",
+      "speaker_tag": "; > Margo: |#0104Trial09_Margo020|",
+      "ja": "……そう。",
+      "zh": "……对。",
+      "vi": "...đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Coco019",
+      "speaker_tag": "; > Coco: |#0104Trial09_Coco019|",
+      "ja": "……バカじゃん、ホント……。",
+      "zh": "……真是个傻瓜……",
+      "vi": "...thật là ngu ngốc...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Meruru010",
+      "speaker_tag": "; > Meruru: |#0104Trial09_Meruru010|",
+      "ja": "アリサ……さん……。",
+      "zh": "亚里沙……小姐……",
+      "vi": "Alisa...Cô...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema034",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema034|",
+      "ja": "（……みんな、納得してくれたみたいだ……）",
+      "zh": "（……看来大家都认同我的推理……）",
+      "vi": "(...có vẻ như mọi người đều đồng ý với lý do của tôi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Warden001",
+      "speaker_tag": "; > Warden: |#0104Trial09_Warden001|",
+      "ja": "……ところで、質問してもよろしいでしょうか。",
+      "zh": "……打扰一下，我能问个问题吗。",
+      "vi": "...Xin lỗi, tôi có thể hỏi một câu được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema035",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema035|",
+      "ja": "（ゴ、ゴクチョー……！？）",
+      "zh": "（典、典狱长……！？）",
+      "vi": "(Dian, cai ngục...!?)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema036",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema036|",
+      "ja": "何か……結論に文句でもあるの……！",
+      "zh": "典狱长……你对我们的结论有意见吗……！",
+      "vi": "Quản giáo...bạn có vấn đề gì với kết luận của chúng tôi không...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Warden002",
+      "speaker_tag": "; > Warden: |#0104Trial09_Warden002|",
+      "ja": "いえ、文句とまでは言いませんが……。",
+      "zh": "不，说不上是意见啦……",
+      "vi": "Không, tôi không thể nói đó là một ý kiến…",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Warden003",
+      "speaker_tag": "; > Warden: |#0104Trial09_Warden003|",
+      "ja": "１つだけ、気になることがあるんです。",
+      "zh": "只是有一个地方我很在意。",
+      "vi": "Chỉ có một nơi mà tôi quan tâm.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Warden004",
+      "speaker_tag": "; > Warden: |#0104Trial09_Warden004|",
+      "ja": "素人質問で恐縮ですが……<br>良ければ私に教えてくれませんか？",
+      "zh": "本鸟只是一介外行，如有错问请多包涵……<br>\n希望大家能指点一下我这只笨鸟好吗？",
+      "vi": "Tôi chỉ là người thường, nếu có sai sót xin hãy thứ lỗi cho tôi... Tôi hy vọng bạn có thể cho tôi một số gợi ý về con chim ngu ngốc này của tôi, được chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema037",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema037|",
+      "ja": "……何に答えればいいの？",
+      "zh": "……你想问什么？",
+      "vi": "...bạn muốn hỏi gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Warden005",
+      "speaker_tag": "; > Warden: |#0104Trial09_Warden005|",
+      "ja": "それは……【処刑台】についてのことです。",
+      "zh": "嗯……我想问有关【处刑台】的问题。",
+      "vi": "Hmm... tôi muốn hỏi về [Nền tảng thực thi].",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Ema038",
+      "speaker_tag": "; > Ema: |#0104Trial09_Ema038|",
+      "ja": "……どういうこと？",
+      "zh": "……具体是？",
+      "vi": "...cụ thể?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Warden006",
+      "speaker_tag": "; > Warden: |#0104Trial09_Warden006|",
+      "ja": "些細なことではあるのですが……。",
+      "zh": "虽然只是件很微不足道的事……",
+      "vi": "Dù chỉ là một điều rất nhỏ nhặt...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial09_Warden007",
+      "speaker_tag": "; > Warden: |#0104Trial09_Warden007|",
+      "ja": "不正がないことを確かめる為にも<br>どうか私に【真相】を教えてくださいね……。",
+      "zh": "不过为了确保结果的公正，<br>\n请各位务必告诉我【真相】……",
+      "vi": "Tuy nhiên, để đảm bảo tính công bằng của kết quả, Hãy nói cho tôi biết [sự thật]...",
+      "objection_links": []
+    }
+  ]
+}

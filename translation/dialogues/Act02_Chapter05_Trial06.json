@@ -1,0 +1,410 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial06",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial06' Naninovel scenario script",
+  "total_entries": 50,
+  "entries": [
+    {
+      "id": "0205Trial06_Noah001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial06_Noah001|",
+      "ja": "の、のあは何も<br>隠してないよっ……！<br>全然、なんにも……<br>まったく！",
+      "zh": "诺、诺亚什么都<br>\n没隐瞒哦……！<br>\n完全，什么都没……<br>\n一点都没有！",
+      "vi": "Nô-ê, Nô-ê, mọi thứ Không giấu được đâu...! Hoàn toàn không có gì... Không hề!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial06_Hiro001|",
+      "ja": "……まず、君の正体は<br>正体不明の<br>ストリート・アーティスト、<br>【バルーン】だ。",
+      "zh": "……首先，你的真实身份是<br>\n身份不明的<br>\n街头艺术家，<br>\n【气球】。",
+      "vi": "…Trước hết, danh tính thực sự của bạn là Không xác định Nghệ sĩ đường phố, [Bong bóng]",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial06_Noah002|",
+      "ja": "ひゃあっ！？",
+      "zh": "呀啊！？",
+      "vi": "Vâng! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Coco001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial06_Coco001|",
+      "ja": "マ、マジ！？<br>あの……！？",
+      "zh": "真、真的假的！？<br>\n是那个……！？",
+      "vi": "Đúng, đúng hay sai! ? Thế thôi...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial06_Noah003|",
+      "ja": "そ、それは……<br>その、その……。",
+      "zh": "那、那是……<br>\n那个、那个……",
+      "vi": "Đó, đó là... Cái đó, cái đó...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial06_Hiro002|",
+      "ja": "……そして<br>世間に評価されたその絵は<br>魔法で描かれたものだ。",
+      "zh": "……然后，<br>\n那些被世人称赞的画作，<br>\n是用魔法画出来的。",
+      "vi": "…Sau đó, Những bức tranh được thế giới ca ngợi, Nó được vẽ bằng phép thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial06_Noah004|",
+      "ja": "ううー！？",
+      "zh": "呜呜——！？",
+      "vi": "Woohoo——! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0205Trial06_Hiro003|",
+      "ja": "君が描いた絵とは言えない……<br>違うかな。",
+      "zh": "这些画不能说是你画的……<br>\n我说得没错吧。",
+      "vi": "Những bức tranh này không thể nói là do bạn vẽ... Tôi đúng.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial06_Noah005|",
+      "ja": "そ、それは……。",
+      "zh": "这、这……",
+      "vi": "Cái này, cái này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial06_Noah006|",
+      "ja": "ち、違うよ！？<br>のあ、<br><link=\"Objection_02_05_06_01\">お絵描き大好き</link>だもん！！",
+      "zh": "不、不对哦！？<br>\n诺亚，<br>\n<link=\"Objection_02_05_06_01\">超喜欢画画</link>的！！",
+      "vi": "Không, điều đó không đúng! ? Nô-ê, <link=\"Objection_02_05_06_01\"> thực sự thích vẽ </link>! !",
+      "objection_links": [
+        "Objection_02_05_06_01"
+      ]
+    },
+    {
+      "id": "0205Trial06_Noah007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial06_Noah007|",
+      "ja": "ヒロちゃん……<br>なんでそんなこと言うの……！",
+      "zh": "希罗……<br>\n你为什么要说这么过分的话……！",
+      "vi": "Anh hùng...... Tại sao bạn lại nói những điều xúc phạm như vậy ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro004|",
+      "ja": "（ノアはああ見えて、なかなかに役者だ）",
+      "zh": "（诺亚看似天然，其实相当会演戏）",
+      "vi": "(Noah có vẻ ngoài tự nhiên nhưng thực ra anh ấy diễn xuất khá giỏi)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro005|",
+      "ja": "（だが……それは覚悟を決めた殺人を済ませた後の話）",
+      "zh": "（但……那是在下定决心动手杀了人之后的事了）",
+      "vi": "(Nhưng...đó chỉ là sau khi hắn đã quyết định giết ai đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro006|",
+      "ja": "（冷静になっていない今のうちに、<br>　その感情を揺さぶって心を打ち崩すんだ……！）",
+      "zh": "（趁她现在并不冷静，<br>\n我要撼动她的感情，击垮她的内心……！）",
+      "vi": "(Mặc dù bây giờ cô ấy đang không bình tĩnh, Tôi muốn lay chuyển cảm xúc của cô ấy và làm tan nát trái tim cô ấy...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Choice001",
+      "speaker_tag": "; > @choice |#0205Trial06_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "ノアは絵を描けない",
+      "zh": "诺亚不会画画",
+      "vi": "Nô-ê không thể vẽ",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial06_Choice002| button:ChoiceButtons/Trial/Approval handler:TrialHiro",
+      "ja": "ノアは絵を描くのが好きだ",
+      "zh": "诺亚喜欢画画",
+      "vi": "Nô-ê thích vẽ",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Choice003",
+      "speaker_tag": "; > @choice |#0205Trial06_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "ノアは絵を描いたことがない",
+      "zh": "诺亚从没画过画",
+      "vi": "Nô-ê chưa bao giờ vẽ",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro007|",
+      "ja": "それはどうだろう？",
+      "zh": "未必吧？",
+      "vi": "Không nhất thiết phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah008",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah008|",
+      "ja": "え……？",
+      "zh": "欸……？",
+      "vi": "Ủa...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro008|",
+      "ja": "私は別の流れの世界で見て知っているよ。",
+      "zh": "我在另一个发展不同的世界亲眼见到过，所以我知道哦。",
+      "vi": "Tôi đã tận mắt nhìn thấy nó ở một thế giới khác nên tôi biết.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro009|",
+      "ja": "ノア……実は君が、<br>【絵を描けない】ということを。",
+      "zh": "诺亚……其实你，<br>\n并【不会画画】。",
+      "vi": "Nô-ê...thực ra là bạn, Và [không thể vẽ].",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah009",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah009|",
+      "ja": "ふぇっ……！？",
+      "zh": "欸……！？",
+      "vi": "Hừ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro010|",
+      "ja": "自分では描けないから、魔法に頼っていたんだ。",
+      "zh": "因为自己画不出来，所以才依赖魔法。",
+      "vi": "Bởi vì tôi không thể tự mình vẽ nó nên tôi phải dựa vào phép thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah010",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah010|",
+      "ja": "そ、そんなことないよ！<br>のあ自分で描けるもん！",
+      "zh": "才、才没有！<br>\n诺亚自己能画的！",
+      "vi": "Chỉ có điều, không! Nô-ê có thể tự vẽ nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah011",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah011|",
+      "ja": "ヒロちゃんは嘘をついてるんだ！<br>のあを罠にハメようとしてるんだよ！",
+      "zh": "希罗在撒谎！<br>\n你想给诺亚设圈套！",
+      "vi": "Anh hùng đang nói dối! Bạn muốn đặt bẫy cho Nô-ê!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah012",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah012|",
+      "ja": "のあ、その手には乗らないから……！",
+      "zh": "诺亚，才不会上当呢……！",
+      "vi": "Nô-ê sẽ không bị lừa đâu...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro011|",
+      "ja": "（このままでは話は平行線か……）",
+      "zh": "（这么下去大概只是对牛弹琴……）",
+      "vi": "(Nếu chuyện này tiếp tục thì có lẽ sẽ chỉ là chơi piano cho một con bò nghe thôi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro012|",
+      "ja": "（ノアの感情を揺さぶるには、<br>　一瞬でも彼女の心に踏み込む必要がありそうだ）",
+      "zh": "（为了动摇诺亚的感情，<br>\n看来有必要进入她的内心世界，哪怕只是一瞬间）",
+      "vi": "(Để lay động cảm xúc của Nô-ê, Có vẻ như cần phải bước vào thế giới nội tâm của cô ấy, dù chỉ trong chốc lát)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro013|",
+      "ja": "（なら、否定して拒絶されてもよくないな……）",
+      "zh": "（那么，否定她遭她拒绝就不太好了……）",
+      "vi": "(Vậy sẽ thật tệ nếu từ chối cô ấy và bị cô ấy từ chối...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro014|",
+      "ja": "いいやノア。<br>君は一度も絵なんて描いたことないはずだ。",
+      "zh": "不，诺亚。<br>\n你应该从没画过画才对。",
+      "vi": "Không, Nô-ê. Chắc hẳn bạn chưa từng vẽ trước đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro015|",
+      "ja": "嘘はよくないな。",
+      "zh": "撒谎可不好啊。",
+      "vi": "Nói dối là không tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah013",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah013|",
+      "ja": "むー、あるもん！",
+      "zh": "唔，诺亚画过！",
+      "vi": "Chà, Nô-ê đã vẽ nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah014",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah014|",
+      "ja": "みんなのあの絵はすごいって褒めてくれてたし。",
+      "zh": "大家都夸诺亚的画很厉害。",
+      "vi": "Mọi người đều khen tranh của Nô-ê rất đẹp.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah015",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah015|",
+      "ja": "嘘ついてるのはヒロちゃんの方でしょ？",
+      "zh": "撒谎的是希罗你才对吧？",
+      "vi": "Hiro là cậu nói dối phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah016",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah016|",
+      "ja": "そういうの、のあよくないと思う！",
+      "zh": "诺亚觉得，你这样很不好！",
+      "vi": "Nô-ê nghĩ bạn làm điều này là không tốt!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro016|",
+      "ja": "（実際、まったく描いてないというわけではないか……）",
+      "zh": "（好像事实并不是完全没画过……）",
+      "vi": "(Có vẻ như thực tế là tôi chưa bao giờ vẽ gì cả...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro017|",
+      "ja": "（ノアの感情を揺さぶるには、<br>　一瞬でも彼女の心に踏み込む必要がありそうだ）",
+      "zh": "（为了动摇诺亚的感情，<br>\n看来有必要进入她的内心世界，哪怕只是一瞬间）",
+      "vi": "(Để lay động cảm xúc của Nô-ê, Có vẻ như cần phải bước vào thế giới nội tâm của cô ấy, dù chỉ trong chốc lát)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro018|",
+      "ja": "（なら、否定して拒絶されてもよくないな……）",
+      "zh": "（那么，否定她遭她拒绝就不太好了……）",
+      "vi": "(Vậy sẽ thật tệ nếu từ chối cô ấy và bị cô ấy từ chối...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro019|",
+      "ja": "……その通り。<br>君は絵を描くのが大好きだったね。",
+      "zh": "……没错。<br>\n你非常喜欢画画呢。",
+      "vi": "...đúng rồi. Bạn rất thích vẽ tranh.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah017",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah017|",
+      "ja": "え……？",
+      "zh": "欸……？",
+      "vi": "Ủa...?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro020|",
+      "ja": "というわけで、ここで描いてみてくれないかな。",
+      "zh": "那么，能不能现场画给我看看呢？",
+      "vi": "Vậy bạn có thể vẽ nó ngay tại chỗ cho tôi được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah018",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah018|",
+      "ja": "！",
+      "zh": "！",
+      "vi": "！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro021|",
+      "ja": "大好きな絵なんだ。<br>描けるだろう？",
+      "zh": "你最喜欢画画了。<br>\n应该能画出来吧？",
+      "vi": "Bạn thích vẽ nhất. Bạn sẽ có thể vẽ nó, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro022|",
+      "ja": "もちろん、出来栄えは気にしなくていい。",
+      "zh": "当然，不用在意画得好不好。",
+      "vi": "Tất nhiên, đừng lo lắng về việc bức tranh có đẹp hay không.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro023|",
+      "ja": "ただ君の手で描いてもらえれば、それでいいんだ。",
+      "zh": "只要是你亲手画的，那就行了。",
+      "vi": "Chỉ cần là do chính tay bạn vẽ ra là được.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah019",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah019|",
+      "ja": "そ、それは…………。",
+      "zh": "这、这个…………",
+      "vi": "Cái này, cái này......",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah020",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah020|",
+      "ja": "……そんなの、しない！",
+      "zh": "……诺亚，不干！",
+      "vi": "…Noah, đừng làm thế!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial06_Hiro024|",
+      "ja": "………！",
+      "zh": "………！",
+      "vi": "………！",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial06_Noah021",
+      "speaker_tag": "; > Noah: |#0205Trial06_Noah021|",
+      "ja": "絵を描くのは……のあの、勝手だもん……！",
+      "zh": "画画是……诺亚的，自由嘛……！",
+      "vi": "Tranh vẽ là... của Noah, rất miễn phí...!",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter01_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter01_Adv25",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter01/Act02_Chapter01_Adv25' Naninovel scenario script",
+  "total_entries": 22,
+  "entries": [
+    {
+      "id": "0201Adv25_Narrative001",
+      "speaker_tag": "",
+      "ja": "牢屋敷の<ruby=\"すみずみ\">隅々</ruby>まで届くような、<br>深く響く鐘の音を何度も聞いた。",
+      "zh": "我听到深沉钟声一次次响起，<br>\n响彻整个监牢。",
+      "vi": "Tôi nghe thấy tiếng chuông sâu ngân vang liên tục, vang vọng khắp Ngục Dinh Thự.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Hiro001",
+      "speaker_tag": "; > Hiro: |#0201Adv25_Hiro001|",
+      "ja": "（この音は……）",
+      "zh": "（这声音是……）",
+      "vi": "(Âm thanh này là...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Narrative002",
+      "speaker_tag": "",
+      "ja": "長時間の拘束により消耗しきった私は、<br>重い頭をゆっくりと持ち上げた。",
+      "zh": "长时间的拘禁让我精疲力尽，<br>\n我缓慢抬起沉重的脑袋。",
+      "vi": "Việc bị giam giữ kéo dài đã khiến tôi kiệt sức, Tôi từ từ ngẩng cái đầu nặng trĩu của mình lên.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Narrative003",
+      "speaker_tag": "",
+      "ja": "魔女裁判の<ruby=\"かいてい\">開廷</ruby>を<ruby=\"しら\">報</ruby>せるものだと、<br>直感した。",
+      "zh": "直觉告诉我，<br>\n这就是宣告魔女审判开庭的钟声。",
+      "vi": "Trực giác mách bảo tôi, Đây là tiếng chuông thông báo khai mạc phiên tòa xét xử phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Narrative004",
+      "speaker_tag": "",
+      "ja": "そしてすぐに懲罰房に看守が現れ――",
+      "zh": "看守很快出现在惩罚室里——",
+      "vi": "Cai Ngục nhanh chóng xuất hiện trong Phòng Kỷ Luật Biệt Giam——",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Narrative005",
+      "speaker_tag": "",
+      "ja": "私は何ひとつ自由も情報も与えられないまま、<br>再び連行されていった。",
+      "zh": "在没有得到任何自由和信息的情况下，<br>\n我再次被带走。",
+      "vi": "Không có bất kỳ quyền tự do hoặc thông tin nào, Tôi lại bị đưa đi lần nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Narrative006",
+      "speaker_tag": "",
+      "ja": "裁判所に連れられていき、<br>私は証言台のようなところに立たされて、<br>ようやく拘束が解かれた。",
+      "zh": "我被押送到审判庭，<br>\n被安排站在类似证人席的地方，<br>\n然后终于给我解开了束缚。",
+      "vi": "Tôi được hộ tống đến tòa án, Được bố trí đứng ở vị trí tương tự như bục nhân chứng, Rồi cuối cùng anh cũng cởi trói cho tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Narrative007",
+      "speaker_tag": "",
+      "ja": "ぐるりと並ぶ証言台には、<br>すでに１１名の少女たちが<ruby=\"そろ\">揃</ruby>っている。",
+      "zh": "环绕的证人席上，<br>\n已经有11名少女就位。",
+      "vi": "Được bao quanh bởi bục nhân chứng, Đã có 11 cô gái tại chỗ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Hiro002",
+      "speaker_tag": "; > Hiro: |#0201Adv25_Hiro002|",
+      "ja": "（ここが、裁判所か……）",
+      "zh": "（这里就是，审判庭吗……）",
+      "vi": "(Đây có phải là phiên tòa xét xử...)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Narrative008",
+      "speaker_tag": "",
+      "ja": "出入口の大扉の前に看守が立つ。",
+      "zh": "看守正在出入口大门处站岗。",
+      "vi": "Một Cai Ngục đang đứng gác ở cổng vào.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Narrative009",
+      "speaker_tag": "",
+      "ja": "やがて、手すりの上に留まっている<br>ゴクチョーが<ruby=\"しゃべ\">喋</ruby>りはじめた。",
+      "zh": "终于，站在扶手上的典狱长开始发言。<br>",
+      "vi": "Cuối cùng, người cai ngục đứng trên tay vịn bắt đầu phát biểu.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Warden001",
+      "speaker_tag": "; > Warden: |#0201Adv25_Warden001|",
+      "ja": "あのー……まずは魔女裁判のルールについて<br>説明しますね。",
+      "zh": "嗯……首先我要说明一下<br>\n魔女审判的规则。",
+      "vi": "À... đầu tiên tôi phải giải thích Quy tắc của Phiên tòa xét xử phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Warden002",
+      "speaker_tag": "; > Warden: |#0201Adv25_Warden002|",
+      "ja": "１時間の議論の後、<br>犯人と思われる人物に各自の端末で投票してもらいます。",
+      "zh": "经过1小时的辩论之后，<br>\n我会请各位用你们的手机投票，选出你们心中认定的凶手。",
+      "vi": "Sau một giờ tranh luận, Tôi sẽ yêu cầu bạn sử dụng điện thoại di động để bỏ phiếu cho kẻ sát nhân trong tâm trí bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Warden003",
+      "speaker_tag": "; > Warden: |#0201Adv25_Warden003|",
+      "ja": "投票で魔女に決められた人物は<br>中央の台座へと連行、処刑執行になる……て感じです。",
+      "zh": "而在投票中被选为魔女的人物，<br>\n会被带到中间的底座处，执行处刑……大概就这样。",
+      "vi": "Và nhân vật được chọn làm phù thủy trong cuộc bình chọn, Anh ta sẽ bị đưa đến căn cứ ở giữa và bị xử tử... thế thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Narrative010",
+      "speaker_tag": "",
+      "ja": "少女たちの私を見る目は変わらず、<br>疑惑と恐怖に満ちている。",
+      "zh": "少女们看我的眼神<br>\n依旧充满怀疑和恐惧。",
+      "vi": "Cách các cô gái nhìn tôi Vẫn đầy nghi ngờ và sợ hãi.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Hiro003",
+      "speaker_tag": "; > Hiro: |#0201Adv25_Hiro003|",
+      "ja": "（状況が圧倒的不利なのは変わらず、か）",
+      "zh": "（情况仍然对我极为不利）",
+      "vi": "(Tình hình vẫn cực kỳ bất lợi đối với tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Narrative011",
+      "speaker_tag": "",
+      "ja": "そして私もまた、<br>変わらず憎悪を抱えていた。",
+      "zh": "而我也<br>\n依旧心怀对她们的憎恨。",
+      "vi": "Và tôi cũng Vẫn nuôi lòng hận thù đối với họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Narrative012",
+      "speaker_tag": "",
+      "ja": "少女たちを、<br>順に<ruby=\"にら\">睨</ruby>みつけていく。",
+      "zh": "我冷冷地扫视着<br>\n每一个少女。",
+      "vi": "Tôi lạnh lùng liếc nhìn Mọi cô gái.",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Hiro004",
+      "speaker_tag": "; > Hiro: |#0201Adv25_Hiro004|",
+      "ja": "（この中に、忌まわしき【魔女】がいる）",
+      "zh": "（在这些人中，藏着一个可恶的【魔女】）",
+      "vi": "(Trong số những người này, có một [Witch] đáng ghét đang ẩn náu)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Hiro005",
+      "speaker_tag": "; > Hiro: |#0201Adv25_Hiro005|",
+      "ja": "（絶対に特定してやる）",
+      "zh": "（我一定要把她揪出来）",
+      "vi": "(Tôi phải tìm ra cô ấy)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Hiro006",
+      "speaker_tag": "; > Hiro: |#0201Adv25_Hiro006|",
+      "ja": "（私を<ruby=\"おとし\">貶</ruby>めたこと、後悔するがいい……！！）",
+      "zh": "（你会为陷害过我而后悔的……！！）",
+      "vi": "(Bạn sẽ hối hận vì đã đóng khung tôi...!!)",
+      "objection_links": []
+    },
+    {
+      "id": "0201Adv25_Warden004",
+      "speaker_tag": "; > Warden: |#0201Adv25_Warden004|",
+      "ja": "それでは、魔女裁判開廷です！",
+      "zh": "那么，魔女审判现在开庭！",
+      "vi": "Chà, Phiên tòa xét xử phù thủy đã bắt đầu!",
+      "objection_links": []
+    }
+  ]
+}

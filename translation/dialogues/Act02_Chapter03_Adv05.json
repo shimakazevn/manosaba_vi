@@ -1,0 +1,416 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter03_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter03_Adv05",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter03/Act02_Chapter03_Adv05' Naninovel scenario script",
+  "total_entries": 51,
+  "entries": [
+    {
+      "id": "0203Adv05_Narrative001",
+      "speaker_tag": "",
+      "ja": "私が中庭に出ると、<br>ハンモックでくつろぐアリサの姿が見えた。",
+      "zh": "走进中庭的时候，<br>\n我看到亚里沙正躺在吊床上歇息。",
+      "vi": "Khi bước vào sảnh, Tôi thấy Alisa đang nằm trên võng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro001",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro001|",
+      "ja": "君は劇の制作には参加しないのか？",
+      "zh": "你不打算参加舞台剧制作吗？",
+      "vi": "Bạn không có ý định tham gia dàn dựng sân khấu sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative002",
+      "speaker_tag": "",
+      "ja": "近付いて声をかけると、<br>アリサは面倒くさそうに上体を起こす。",
+      "zh": "我走到亚里沙身边对她说道。<br>\n亚里沙嫌弃地坐起身来。",
+      "vi": "Tôi bước tới chỗ Alisa và nói với cô ấy. Alisa ngồi dậy với vẻ kinh tởm.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Alisa001",
+      "speaker_tag": "; > Alisa: |#0203Adv05_Alisa001|",
+      "ja": "するわけねえだろ。",
+      "zh": "谁要干那种事。",
+      "vi": "Ai sẽ làm điều đó?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro002",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro002|",
+      "ja": "何故？ もう少し協調性を持つべきだ。",
+      "zh": "为什么？你应该多提升自己和他人的协作能力。",
+      "vi": "Tại sao? Bạn nên cải thiện khả năng cộng tác với người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative003",
+      "speaker_tag": "",
+      "ja": "アリサは私を<ruby=\"うっとう\">鬱陶</ruby>しそうに<ruby=\"にら\">睨</ruby>む。",
+      "zh": "亚里沙厌烦地瞪了瞪我。",
+      "vi": "Alisa trừng mắt nhìn tôi với vẻ kinh tởm.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Alisa002",
+      "speaker_tag": "; > Alisa: |#0203Adv05_Alisa002|",
+      "ja": "チッ……うるせえな。<br>大体、おめえだって最初は否定的だっただろ。",
+      "zh": "啧……烦不烦啊。<br>\n而且说回来，你一开始不是也反对吗。",
+      "vi": "Tsk...mày có khó chịu không? Và một lần nữa, không phải lúc đầu mày phản đối điều đó sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro003",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro003|",
+      "ja": "そうだな。<br>だけど、今はやるべきだと感じている。",
+      "zh": "是啊。<br>\n但是，我现在认为这是有必要的。",
+      "vi": "Vâng. Tuy nhiên, bây giờ tôi nghĩ điều đó là cần thiết.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro004",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro004|",
+      "ja": "関係性を深めるのは殺人の抑止に繋がる。<br>これ以上の犠牲者を出したくない。",
+      "zh": "加深大家的感情，有助于抑制凶杀案发生。<br>\n我不希望再有人牺牲了。",
+      "vi": "Làm sâu sắc thêm tình cảm của mọi người sẽ giúp hạn chế xảy ra các vụ giết người. Tôi không muốn ai phải chết nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Alisa003",
+      "speaker_tag": "; > Alisa: |#0203Adv05_Alisa003|",
+      "ja": "……本心からそう思ってんのかよ？<br>ウチから見たらおめえが<br>一番やらかしそうに見えるけどな。",
+      "zh": "……你这些话都是真心的？<br>\n依我看，<br>\n你是最有可能动手杀人的那个就是了。",
+      "vi": "…Bạn có chân thành trong những gì mày nói không? Theo ý kiến của Tao, Bạn là người có nhiều khả năng giết ai đó nhất.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative004",
+      "speaker_tag": "",
+      "ja": "<ruby=\"しんい\">真意</ruby>をはかるように、<br>アリサが真っすぐに私を見つめてくる。",
+      "zh": "仿佛在揣摩我的真实想法一般，<br>\n亚里沙直勾勾地盯着我看。",
+      "vi": "Như thể đang cố gắng tìm ra suy nghĩ thực sự của tôi, Alisa nhìn thẳng vào tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Alisa004",
+      "speaker_tag": "; > Alisa: |#0203Adv05_Alisa004|",
+      "ja": "やっぱりおめえの言うことは信用できねえ。<br>仲良くなんて、できるかよ。",
+      "zh": "你这家伙的话果然信不过。<br>\n怎么可能跟你这种人好好相处。",
+      "vi": "Tao thực sự không thể tin được những gì các mày nói. Làm sao Tao có thể hòa hợp tốt với một người như mày?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro005",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro005|",
+      "ja": "それに関しては同感だ。<br>私も君と仲良くなれる気はしない。",
+      "zh": "这点我深有同感。<br>\n我也不觉得能跟你好好相处。",
+      "vi": "Tôi cũng cảm thấy như vậy. Tôi cũng không nghĩ mình có thể hòa hợp tốt với bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro006",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro006|",
+      "ja": "しかし協調性は持つべきだろう？",
+      "zh": "可是基本的协作能力还是要有的吧？",
+      "vi": "Nhưng bạn vẫn cần phải có những kỹ năng cộng tác cơ bản phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative005",
+      "speaker_tag": "",
+      "ja": "微笑を浮かべる私に対し、<br>アリサが燃え<ruby=\"さか\">盛</ruby>る炎のように激しく<ruby=\"にら\">睨</ruby>んでくる。",
+      "zh": "我向亚里沙露出一个微笑。<br>\n但她却恶狠狠地瞪了瞪我，那双眼睛仿佛要喷出熊熊大火似的。",
+      "vi": "Tôi mỉm cười với Alisa. Nhưng cô ấy trừng mắt nhìn tôi một cách dữ dội, như thể mắt cô ấy sắp bùng cháy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative006",
+      "speaker_tag": "",
+      "ja": "周囲の空気がピンと張り詰めた。",
+      "zh": "周围的空气一下子剑拔弩张起来。",
+      "vi": "Không khí xung quanh bỗng trở nên căng thẳng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia001",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia001|",
+      "ja": "ヒロくんにアリサくん、<br>何を話しているんだい？",
+      "zh": "希罗，还有亚里沙，<br>\n你们在聊什么呀？",
+      "vi": "Hiro và Alisa, Bạn đang nói về cái gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Alisa005",
+      "speaker_tag": "; > Alisa: |#0203Adv05_Alisa005|",
+      "ja": "また面倒そうなのが来やがった……。",
+      "zh": "又来了一个烦人的家伙……",
+      "vi": "Lại có một mày chàng khó chịu nữa xuất hiện...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative007",
+      "speaker_tag": "",
+      "ja": "レイアの姿を見て、<br>アリサは緊張を崩し、<ruby=\"へきえき\">辟易</ruby>とした声を<ruby=\"も\">漏</ruby>らす。",
+      "zh": "蕾雅出现后，亚里沙紧绷的弦突然放松，<br>\n声音中有些逃避的意思。",
+      "vi": "Sau khi Leia xuất hiện, sợi dây căng cứng của Alisa đột nhiên giãn ra, Có chút trốn tránh trong giọng nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia002",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia002|",
+      "ja": "もしかして、邪魔をしてしまったかな。",
+      "zh": "我是不是打扰你们聊天了？",
+      "vi": "Tôi có làm gián đoạn cuộc trò chuyện của bạn không?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro007",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro007|",
+      "ja": "別に、大した話はしていない。",
+      "zh": "没有，我们就只是闲聊。",
+      "vi": "Không, chúng tôi chỉ nói chuyện thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia003",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia003|",
+      "ja": "それならよかった。ところで……<br>ヒロくん、何を手伝うかは決まったかな。",
+      "zh": "那就好。话说回来……<br>\n希罗，你决定好要干什么没有？",
+      "vi": "Tốt đấy. Đã nói vậy... Anh hùng, bạn đã quyết định bạn muốn làm gì chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro008",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro008|",
+      "ja": "いいや。まだ見て回っている最中だよ。",
+      "zh": "还没有。我还正在看呢。",
+      "vi": "Chưa. Tôi vẫn đang xem.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia004",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia004|",
+      "ja": "そうか。焦らず、じっくり考えてくれたまえ。",
+      "zh": "是吗。不用焦急，仔细想好再决定就行。",
+      "vi": "Thật sao? Đừng lo lắng, hãy suy nghĩ thật kỹ trước khi quyết định.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro009",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro009|",
+      "ja": "君はここへ何をしに？",
+      "zh": "你到这里来是要干什么？",
+      "vi": "Bạn đến đây để làm gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia005",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia005|",
+      "ja": "台本を読みつつ、<br>軽くセリフの練習をしようかとね。",
+      "zh": "我想一边研读剧本，<br>\n一边简单练习一下台词。",
+      "vi": "Tôi muốn nghiên cứu kịch bản trong khi đang đọc kịch bản, Thực hành các dòng của bạn một thời gian ngắn trong khi làm như vậy.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Alisa006",
+      "speaker_tag": "; > Alisa: |#0203Adv05_Alisa006|",
+      "ja": "どっか他でやってくれよ……。",
+      "zh": "给我到其他地方练习去啊……",
+      "vi": "Để Tao tập ở chỗ khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia006",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia006|",
+      "ja": "悪いが、それは難しい。<br>本番もここで劇をやるつもりだからね。",
+      "zh": "不好意思，那可能有点难。<br>\n因为正式表演我也打算在这里办。",
+      "vi": "Xin lỗi, điều đó có thể hơi khó khăn. Vì tôi cũng có ý định tổ chức buổi biểu diễn chính thức tại đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Alisa007",
+      "speaker_tag": "; > Alisa: |#0203Adv05_Alisa007|",
+      "ja": "練習なら別の場所でもできるだろーが。",
+      "zh": "只是练习而已，你到其他地方不也照样能练。",
+      "vi": "Đó chỉ là thực hành thôi. Bạn có thể thực hành nó ở những nơi khác nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia007",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia007|",
+      "ja": "なるべく本番に近い環境で稽古したいんだよ。",
+      "zh": "我想尽量在一个跟表演场地相近的环境下排练嘛。",
+      "vi": "Tôi muốn tập luyện trong một môi trường càng gần địa điểm biểu diễn càng tốt.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative008",
+      "speaker_tag": "",
+      "ja": "劇について語るレイアは真剣で、<br>それでいて楽しそうに見える。",
+      "zh": "一提到舞台剧，蕾雅会变得很严肃，<br>\n同时也让人感觉乐在其中。",
+      "vi": "Khi nói đến các vở kịch trên sân khấu, Leia trở nên rất nghiêm túc, Đồng thời, nó cũng khiến người ta cảm thấy vui vẻ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative009",
+      "speaker_tag": "",
+      "ja": "彼女が放つキラキラとした輝きと前向きな姿勢は、<br>他の少女たちを引っ張っていく力があるようだ。",
+      "zh": "看来，她身上散发出来的光芒，以及积极向上的态度，<br>\n正是一种能牵引其他人一同前进的力量。",
+      "vi": "Dường như ánh sáng tỏa ra từ cơ thể và thái độ tích cực của cô ấy, Đó là một sức mạnh có thể kéo những người khác cùng nhau tiến về phía trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia008",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia008|",
+      "ja": "ああそうだ、ちょうどよかった。<br>実はアリサくんにお願いがあったんだ。",
+      "zh": "啊对了，正好你在这里。<br>\n其实我有事想拜托亚里沙帮忙。",
+      "vi": "Ồ, nhân tiện, bạn tình cờ có mặt ở đây. Thực ra, tôi có chuyện muốn nhờ Alisa giúp đỡ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Alisa008",
+      "speaker_tag": "; > Alisa: |#0203Adv05_Alisa008|",
+      "ja": "あ？ なんだよ、いきなり。",
+      "zh": "啊？突然说的什么啊。",
+      "vi": "Hả? Bạn đã nói gì đột ngột?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia009",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia009|",
+      "ja": "劇に役を追加したいと考えていてね。<br>そこでアリサくんにも……。",
+      "zh": "我想在剧中增加角色。<br>\n希望亚里沙也能……",
+      "vi": "Tôi muốn thêm nhiều nhân vật hơn vào chương trình. Tôi hy vọng Alisa cũng có thể...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Alisa009",
+      "speaker_tag": "; > Alisa: |#0203Adv05_Alisa009|",
+      "ja": "ぜってー嫌だね。",
+      "zh": "我绝对不会答应。",
+      "vi": "Tao sẽ không bao giờ đồng ý.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative010",
+      "speaker_tag": "",
+      "ja": "アリサが食い気味にレイアへの<ruby=\"きょぜつ\">拒絶</ruby>を示す。",
+      "zh": "不等蕾雅说完，亚里沙就打断她的话，表现出拒绝的态度。",
+      "vi": "Trước khi Leia kịp nói xong, Alisa ngắt lời cô ấy và thể hiện sự từ chối.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia010",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia010|",
+      "ja": "そんな！ キミにしか頼めない役だというのに！<br>火を司る妖精で……！",
+      "zh": "别这么说嘛！这个角色只能交给你来演！<br>\n是司掌火焰的小仙子……！",
+      "vi": "Đừng nói thế! Vai trò này chỉ có thể được chơi bởi bạn! Đó là nàng tiên nhỏ phụ trách lửa...!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Alisa010",
+      "speaker_tag": "; > Alisa: |#0203Adv05_Alisa010|",
+      "ja": "……なんでウチが妖精役なんだよ！<br>もっとなんか他にあんだろ！？<br>いやそもそもウチは劇なんか出る気はねえ！",
+      "zh": "……为什么是我来演小仙子啊！<br>\n应该还有其他角色吧！？<br>\n不对，我根本不打算演什么舞台剧！",
+      "vi": "...Tại sao Tao lại phải đóng vai nàng tiên nhỏ? Nên có những nhân vật khác! ? Không, Tao không có ý định diễn bất kỳ vở kịch sân khấu nào cả!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia011",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia011|",
+      "ja": "ああっ、アリサくん！",
+      "zh": "等等，亚里沙！",
+      "vi": "Đợi đã, Alisa!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia012",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia012|",
+      "ja": "行ってしまった……。",
+      "zh": "走掉了……",
+      "vi": "Đã đi xa...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative011",
+      "speaker_tag": "",
+      "ja": "走り去るアリサの背を見つめながら、<br>レイアはしょんぼりと<ruby=\"つぶや\">呟</ruby>く。",
+      "zh": "看着亚里沙飞奔而去的背影，<br>\n蕾雅沮丧地小声说道。",
+      "vi": "Nhìn Alisa chạy lại, Leia thì thầm trong thất vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia013",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia013|",
+      "ja": "ああ、ところでヒロくん。",
+      "zh": "对了，希罗。",
+      "vi": "Đúng vậy, Anh hùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative012",
+      "speaker_tag": "",
+      "ja": "視線を私へと移し、<br>レイアはにこやかな顔になった。",
+      "zh": "蕾雅转头看向我，<br>\n这时她已经换上了一副和善的笑容。",
+      "vi": "Leya quay lại nhìn tôi, Lúc này cô đã nở một nụ cười hiền hậu.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro010",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro010|",
+      "ja": "切り替えが早いな。<br>というか嫌な予感がするんだが……。",
+      "zh": "变脸变得真快啊。<br>\n怎么有一种不祥的预感……",
+      "vi": "Sắc mặt thay đổi nhanh như vậy. Tại sao tôi lại có linh cảm không lành...",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia014",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia014|",
+      "ja": "君にもやはり妖精役をやってほしいと思うんだ。",
+      "zh": "我啊，还是想让你也来演小仙子。",
+      "vi": "Tôi vẫn muốn bạn đóng vai nàng tiên nhỏ.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro011",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro011|",
+      "ja": "妖精はもういいだろう。",
+      "zh": "怎么又是小仙子。",
+      "vi": "Tại sao lại là nàng tiên nhỏ nữa?",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia015",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia015|",
+      "ja": "しかし、主演である私の周囲を華やかに彩る妖精！<br>これは劇にとってとても大切だと思うんだよ！",
+      "zh": "可是你想想，小仙子们围绕着我这个主演，是给周围增色的角色！<br>\n我认为这是舞台剧中非常重要的一点！",
+      "vi": "Nhưng hãy nghĩ mà xem, những nàng tiên xung quanh tôi với tư cách là diễn viên chính đều là những nhân vật tô điểm thêm màu sắc cho khung cảnh xung quanh! Tôi nghĩ đây là một điểm rất quan trọng trong một vở kịch sân khấu!",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Hiro012",
+      "speaker_tag": "; > Hiro: |#0203Adv05_Hiro012|",
+      "ja": "遠慮しておく。<br>他に手伝えることを探すことにするよ。",
+      "zh": "请容我拒绝。<br>\n我再找找看有什么能帮忙的。",
+      "vi": "Xin cho phép tôi được từ chối. Tôi sẽ nhìn xung quanh để xem liệu tôi có thể giúp được gì không.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Leia016",
+      "speaker_tag": "; > Leia: |#0203Adv05_Leia016|",
+      "ja": "アリサくんもヒロくんも手ごわいな。<br>けど、私は諦めないよ……ふふふ。",
+      "zh": "不管是亚里沙还是希罗都不好摆平呢。<br>\n但我是不会放弃的……呵呵呵。",
+      "vi": "Cả Alisa và Hiro đều không dễ đối phó. Nhưng tôi sẽ không bỏ cuộc...hehehe.",
+      "objection_links": []
+    },
+    {
+      "id": "0203Adv05_Narrative013",
+      "speaker_tag": "",
+      "ja": "背後でレイアが不敵に笑うのが聞こえた。",
+      "zh": "背后传来蕾雅无所畏忌的笑声。",
+      "vi": "Tiếng cười không chút sợ hãi của Leya vang lên từ phía sau.",
+      "objection_links": []
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter05_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter05_Adv01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter05/Act01_Chapter05_Adv01' Naninovel scenario script",
+  "total_entries": 36,
+  "entries": [
+    {
+      "id": "Toast_105",
+      "speaker_tag": "; > @toast |#Toast_105|",
+      "ja": "第５話",
+      "zh": "第５章",
+      "vi": "Chương 5",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative001",
+      "speaker_tag": "",
+      "ja": "裁判所を出て、<br>エマは詰めていた息を大きく吐き出す。",
+      "zh": "走出审判庭，<br>\n艾玛长长地舒了一口气。",
+      "vi": "Bước chân ra khỏi Tòa Án, Ema trút một hơi thở dài nặng trĩu sau bao căng thẳng nghẹt thở.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative002",
+      "speaker_tag": "",
+      "ja": "隣には、ココがげんなりした表情を浮かべていた。",
+      "zh": "身旁的可可一脸沮丧。",
+      "vi": "Đứng bên cạnh, Coco cũng mang vẻ mặt phờ phạc chán chường đến tột độ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Coco001",
+      "speaker_tag": "; > Coco: |#0105Adv01_Coco001|",
+      "ja": "マジびびった…なんでナノカが死んで出てきたのか、<br>もうわけわかんねーし……。",
+      "zh": "吓死人了……搞不懂奈叶香怎么就死了，<br>\n还出现在那里……",
+      "vi": "Sợ chết khiếp đi được… Tự dưng xác của Nanoka lù lù trồi lên từ dưới lòng đất, chẳng hiểu chuyện quái gì đang xảy ra nữa……",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Coco002",
+      "speaker_tag": "; > Coco: |#0105Adv01_Coco002|",
+      "ja": "まあでも、エマっちにとってはありがたい展開だよなぁ。<br>首の皮１枚繋がって良かったじゃん。",
+      "zh": "不过对艾玛亲来说，倒是好事吧。<br>\n总算是捡回一条命了嘛。",
+      "vi": "Cơ mà đối với bà bạn Ema thì thế lại là may mắn đấy nhỉ. Thoát chết trong gang tấc còn gì nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Ema001",
+      "speaker_tag": "; > Ema: |#0105Adv01_Ema001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "（Nanoka-chan…… Rốt cuộc ai đã ra tay sát hại cậu ấy chứ……?）",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Ema002",
+      "speaker_tag": "; > Ema: |#0105Adv01_Ema002|",
+      "ja": "（ナノカちゃんが殺されてて、良かったわけなんて……ない）",
+      "zh": "（奈叶香被杀，怎么可能是好事……）",
+      "vi": "(Làm sao việc Nanoyaka bị giết lại là chuyện tốt...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Ema003",
+      "speaker_tag": "; > Ema: |#0105Adv01_Ema003|",
+      "ja": "（でも、たしかにボクは、自分が生き延びるために、<br>　ナノカちゃんの死を利用した……）",
+      "zh": "（但我确实为了自己活下去，<br>\n利用了奈叶香的死……）",
+      "vi": "(Nhưng tôi sống vì chính mình, Lợi dụng cái chết của Nanoyaka...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative003",
+      "speaker_tag": "",
+      "ja": "――処刑台からナノカの死体が出てきたことで、<br>エマは必死になってゴクチョーを説き伏せた。",
+      "zh": "——由于处刑台上出现了奈叶香的尸体，<br>\n艾玛以此为依据拼命说服了典狱长。",
+      "vi": "---Bởi vì thi thể của Nanoyaka xuất hiện trên đài hành quyết, Ema tuyệt vọng thuyết phục quản giáo dựa trên điều này.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative004",
+      "speaker_tag": "",
+      "ja": "自分は重要な証人である、<br>ナノカの事件の真相が明らかになる前に<br>処刑は行うべきではない、と。",
+      "zh": "她坚称，自己是重要证人，<br>\n在奈叶香被杀案真相大白之前<br>\n不应执行处刑。",
+      "vi": "Cô ấy khăng khăng rằng mình là nhân chứng quan trọng, Trước khi sự thật về vụ sát hại Nanoyaka được đưa ra ánh sáng Việc xử tử lẽ ra không nên được thực hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative005",
+      "speaker_tag": "",
+      "ja": "結果、ゴクチョーは再び魔女裁判を行うことを渋々承諾し、<br>短時間の捜査も許された。",
+      "zh": "于是，典狱长勉强同意再次举行魔女审判，<br>\n并额外允许短暂的调查。",
+      "vi": "Vì vậy, quản giáo miễn cưỡng đồng ý tổ chức một phiên tòa xét xử phù thủy khác, và ngoài ra còn cho phép điều tra ngắn gọn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative006",
+      "speaker_tag": "",
+      "ja": "次の裁判まで捜査に許された時間は、<br>たった１時間。",
+      "zh": "直到下次审判开始，典狱长允许调查的时间<br>\n仅仅只有一小时。",
+      "vi": "Thời gian mà quản giáo cho phép để điều tra cho đến khi phiên tòa tiếp theo bắt đầu Chỉ một giờ thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Ema004",
+      "speaker_tag": "; > Ema: |#0105Adv01_Ema004|",
+      "ja": "（ボクに残された時間は、あまりにも少ない……。<br>　処刑されなくても、このままじゃボクは……）",
+      "zh": "（留给我的时间，实在太少了……<br>\n就算现在不被处刑，这样下去我也会……）",
+      "vi": "(Thời gian còn lại đối với tôi thực sự là quá ít... Cho dù bây giờ tôi không bị xử tử, nếu chuyện này tiếp tục, tôi sẽ...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative007",
+      "speaker_tag": "",
+      "ja": "心の中に闇が膨らんでいく感覚で、<br>エマはひどい<ruby=\"めまい\">目眩</ruby>に襲われていた。",
+      "zh": "内心的黑暗不断膨胀，<br>\n艾玛感到一阵强烈的眩晕。",
+      "vi": "Bóng tối bên trong ngày càng mở rộng, Ema cảm thấy chóng mặt dữ dội.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Coco003",
+      "speaker_tag": "; > Coco: |#0105Adv01_Coco003|",
+      "ja": "エマっち今にもぶっ倒れそうじゃん……。<br>そんなんで捜査なんてできるん？",
+      "zh": "你看起来快撑不住了啊……<br>\n这样还能调查吗？",
+      "vi": "Trông bạn có vẻ không thể chịu đựng được nữa... Việc này còn có thể điều tra được không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Ema005",
+      "speaker_tag": "; > Ema: |#0105Adv01_Ema005|",
+      "ja": "……無理でもやらなきゃ。",
+      "zh": "……就算做不到也必须去做。",
+      "vi": "...Bạn phải làm điều đó ngay cả khi bạn không thể làm được.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Coco004",
+      "speaker_tag": "; > Coco: |#0105Adv01_Coco004|",
+      "ja": "はぁ……エマっちにはりきられると、<br>付き合うあてぃしも疲れるんですがー。",
+      "zh": "唉……你这么拼命，<br>\n我陪着你拼命也很累啊。",
+      "vi": "Haiz...bạn làm việc chăm chỉ quá, Làm việc chăm chỉ với bạn thật mệt mỏi đối với Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Ema006",
+      "speaker_tag": "; > Ema: |#0105Adv01_Ema006|",
+      "ja": "（ついてこなくていい、とは言えないよね……）",
+      "zh": "（但又不能叫她不要跟着我……）",
+      "vi": "(Nhưng mình không thể bảo cô ấy đừng đi theo mình...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative008",
+      "speaker_tag": "",
+      "ja": "ココと行動を共にしているのには、<br>理由があった。",
+      "zh": "和可可一起行动<br>\n是有原因的。",
+      "vi": "Hành động cùng Coco Có một lý do.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative009",
+      "speaker_tag": "",
+      "ja": "今回は特例ということで、<br>ゴクチョーから色々条件を出されてしまったのだ。",
+      "zh": "因为这次是破格允许调查，<br>\n典狱长提出了一些限制条件。",
+      "vi": "Bởi vì lần này cuộc điều tra được cho phép trong những trường hợp bất thường, Người quản lý đã áp đặt một số hạn chế.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative010",
+      "speaker_tag": "",
+      "ja": "死体の証拠保全のために、<br>２人は裁判所に残ってほしいということ。",
+      "zh": "为了保全尸体证据，<br>\n要求两个人留在审判庭。",
+      "vi": "Để bảo quản bằng chứng thi thể, Hai người được yêu cầu ở lại phòng xử án.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative011",
+      "speaker_tag": "",
+      "ja": "エマが捜査に出る場合は、<br>誰かと一緒に行動すること。",
+      "zh": "而且，如果艾玛要外出调查，<br>\n必须有人陪同。",
+      "vi": "Và nếu Ema ra ngoài và điều tra, Phải đi cùng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative012",
+      "speaker_tag": "",
+      "ja": "少女たちは気まずい空気の中でざっと話し合い、<br>証拠保全のためにその場に残るのはマーゴとメルル、<br>エマに同行するのはココということになった。",
+      "zh": "少女们在尴尬的气氛中简单商量后，<br>\n决定由玛格和梅露露留下来负责保全证据，<br>\n可可负责陪同艾玛调查。",
+      "vi": "Sau cuộc thảo luận ngắn gọn giữa các cô gái trong bầu không khí khó xử, Đã quyết định rằng Mag và Meruru sẽ ở lại và chịu trách nhiệm bảo quản bằng chứng, Coco có trách nhiệm đồng hành cùng Ema trong cuộc điều tra.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Ema007",
+      "speaker_tag": "; > Ema: |#0105Adv01_Ema007|",
+      "ja": "時間がないし、<br>すぐに捜査をはじめよう。",
+      "zh": "时间不多了，<br>\n我们赶快开始调查吧。",
+      "vi": "Thời gian không còn nhiều, Hãy bắt đầu điều tra nhanh chóng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative013",
+      "speaker_tag": "",
+      "ja": "早足で歩きだしたエマに、<br>ココはだるそうについていく。",
+      "zh": "艾玛快步走出，<br>\n可可一脸疲惫地跟在后面。",
+      "vi": "Ema bước nhanh ra ngoài, Coco đi theo với vẻ mặt mệt mỏi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Coco005",
+      "speaker_tag": "; > Coco: |#0105Adv01_Coco005|",
+      "ja": "……あんさぁ、もしエマっちが逃げたら、<br>あてぃしは容赦なくゴクチョーに知らせっからな。",
+      "zh": "……喂，如果你想逃跑，<br>\n我可会毫不留情地告诉典狱长哦。",
+      "vi": "...Này, nếu bạn muốn trốn thoát, Coco sẽ nói với quản giáo không thương tiếc.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Ema008",
+      "speaker_tag": "; > Ema: |#0105Adv01_Ema008|",
+      "ja": "（……ココちゃんはアリサちゃんの殺害の犯人、<br>　そしてきっとナノカちゃんを殺したのも<br>　ボクだと思ってるんだろうな……）",
+      "zh": "（……可可一定认为，<br>\n杀害亚里沙的凶手就是我，<br>\n而且奈叶香也是我杀的……）",
+      "vi": "(...Coco chắc hẳn nghĩ rằng Tôi là kẻ giết Alisa, Và tôi cũng đã giết Nanoyaka...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Ema009",
+      "speaker_tag": "; > Ema: |#0105Adv01_Ema009|",
+      "ja": "うん、それでいいよ。",
+      "zh": "嗯，那样就好。",
+      "vi": "Tốt đấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative014",
+      "speaker_tag": "",
+      "ja": "エマが首だけ振り向かせて口にすると、<br>気まずそうに視線を逸らされてしまった。",
+      "zh": "艾玛转过头回答道。<br>\n可可尴尬地移开了视线。",
+      "vi": "Ema quay đầu lại và trả lời. Coco lúng túng nhìn đi nơi khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Ema010",
+      "speaker_tag": "; > Ema: |#0105Adv01_Ema010|",
+      "ja": "（もうボクには誰にも……）",
+      "zh": "（现在我身边已经没有任何人……）",
+      "vi": "(Bây giờ xung quanh tôi không có ai...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative015",
+      "speaker_tag": "",
+      "ja": "皆がエマから背を向け、<br>ひとりぼっちにされると予感した時から。",
+      "zh": "从预感到所有人都会背弃自己，<br>\n让自己孤立无援的那一刻起。",
+      "vi": "Từ linh cảm rằng mọi người sẽ quay lưng lại với chính mình, Khoảnh khắc bạn cho phép mình ở một mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative016",
+      "speaker_tag": "",
+      "ja": "――エマの中で、何かが<ruby=\"うごめ\">蠢</ruby>いている。",
+      "zh": "——艾玛的内心中，有什么在蠢蠢欲动。",
+      "vi": "——Có điều gì đó xao xuyến trong lòng Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative017",
+      "speaker_tag": "",
+      "ja": "エマは強く首を振って、<br>懸命に心の中に宿らせた光をたどる。<br>これまで紡いできた少女たちとの絆を確認する。",
+      "zh": "艾玛用力摇了摇头，<br>\n努力追寻心中残存的光芒。<br>\n再次回想起至今为止，与那些少女们一同编织出的牵绊。",
+      "vi": "Ema lắc đầu mạnh mẽ, Hãy cố gắng theo đuổi ánh sáng còn sót lại trong trái tim bạn. Một lần nữa, tôi nghĩ lại những mối liên kết mà tôi đã tạo dựng với những cô gái đó cho đến nay.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Ema011",
+      "speaker_tag": "; > Ema: |#0105Adv01_Ema011|",
+      "ja": "（ボクはひとりじゃない）",
+      "zh": "（我并不是孤身一人）",
+      "vi": "(Tôi không cô đơn)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative018",
+      "speaker_tag": "",
+      "ja": "深呼吸をすると意識がはっきりしてきて、<br>しっかりと前を見据えることができた。",
+      "zh": "深呼吸后，意识变得清晰，<br>\n能够坚定地直视前方了。",
+      "vi": "Sau khi hít một hơi thật sâu, ý thức trở nên rõ ràng, Bây giờ tôi có thể nhìn thẳng về phía trước một cách chắc chắn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv01_Narrative019",
+      "speaker_tag": "",
+      "ja": "エマは今度こそ力強く、<br>捜査へと足を踏みだす。",
+      "zh": "这一次，<br>\n艾玛坚定地迈出了调查的脚步。",
+      "vi": "Lần này, Ema thực hiện các bước để điều tra một cách chắc chắn.",
+      "objection_links": []
+    }
+  ]
+}

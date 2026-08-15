@@ -1,0 +1,856 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter05_advbad_assets_all.bundle",
+  "script_name": "Act01_Chapter05_Adv06",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter05/Act01_Chapter05_Adv06' Naninovel scenario script",
+  "total_entries": 106,
+  "entries": [
+    {
+      "id": "0105Adv06_Narrative001",
+      "speaker_tag": "",
+      "ja": "議論の末に出た結論に、<br>エマは目の前が真っ暗になっていた。",
+      "zh": "讨论得出的最终结论，<br>\n让艾玛眼前一片漆黑。",
+      "vi": "Kết luận cuối cùng đạt được từ cuộc thảo luận, Tầm nhìn của Ema tối sầm lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative002",
+      "speaker_tag": "",
+      "ja": "氷上メルルが、<br>紫藤アリサを、<br>そして黒部ナノカを殺していた――。",
+      "zh": "冰上梅露露<br>\n杀害了紫藤亚里沙、<br>\n黑部奈叶香两人——",
+      "vi": "Meruru trên băng Đã giết Alisa Wisteria, Kurobe Nanoyaka và hai người——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo001",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo001|",
+      "ja": "……全ての黒幕はあなただったのね、メルルちゃん。",
+      "zh": "……原来一切的幕后黑手就是你啊，梅露露。",
+      "vi": "...Hóa ra em là kẻ chủ mưu đằng sau mọi chuyện, Meruru.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Coco001",
+      "speaker_tag": "; > Coco: |#0105Adv06_Coco001|",
+      "ja": "クッッッッッッソじゃん！！！！！！<br>キッモ！ キモキモキモ！！",
+      "zh": "该死啊！！！！！！<br>\n恶心！恶心恶心恶心！！",
+      "vi": "Chết tiệt! ! ! ! ! ! Kinh tởm! Kinh tởm, kinh tởm, kinh tởm! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative003",
+      "speaker_tag": "",
+      "ja": "ココは怒りからか、証言台を<ruby=\"たた\">叩</ruby>く。",
+      "zh": "可可愤怒地拍打着证人席。",
+      "vi": "Coco tức giận tát vào bục nhân chứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Coco002",
+      "speaker_tag": "; > Coco: |#0105Adv06_Coco002|",
+      "ja": "一番タチ悪くね！？ 聖女ぶった偽善者がよ！",
+      "zh": "这才是最恶劣的吧！？你这个装作圣女的伪善者！",
+      "vi": "Đây là điều tồi tệ nhất! ? Đồ đạo đức giả giả làm thánh nhân!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema001",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema001|",
+      "ja": "（こんな結末を望んでたわけじゃないのに）",
+      "zh": "（明明不希望事情变成这样的）",
+      "vi": "(Rõ ràng là tôi không muốn mọi chuyện diễn ra như thế này)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative004",
+      "speaker_tag": "",
+      "ja": "ココの罵声を遠くに聞きながら、<br>エマは<ruby=\"すが\">縋</ruby>るようにメルルを見つめる。",
+      "zh": "听着远处传来的可可的咒骂声，<br>\n艾玛用寻求一线希望般的眼神，凝视着梅露露。",
+      "vi": "Nghe Coco chửi bới xa xa, Ema nhìn chằm chằm vào Meruru với đôi mắt tìm kiếm một tia hy vọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema002",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema002|",
+      "ja": "計画通りってどういう意味なの？<br>どうしてこんなことしなきゃならなかったの？",
+      "zh": "按照计划进行是什么意思？<br>\n为什么非得这么做不可？",
+      "vi": "Đi theo kế hoạch nghĩa là gì? Tại sao bạn phải làm điều này?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema003",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema003|",
+      "ja": "何か理由があるんだよね？",
+      "zh": "一定是，有什么理由吧？",
+      "vi": "Chắc là vậy, có lý do gì không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema004",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema004|",
+      "ja": "ねぇ、ねぇ……何か言ってよ、メルルちゃん！",
+      "zh": "喂，喂……你回答呀，梅露露！",
+      "vi": "Này, này... trả lời đi, Meruru!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru001",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru001|",
+      "ja": "あ、あうあうあう……。",
+      "zh": "啊，啊呜啊呜啊呜……",
+      "vi": "A, a a a a a a...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative005",
+      "speaker_tag": "",
+      "ja": "メルルは少女たちに詰められ、<br>涙目で<ruby=\"おび\">怯</ruby>えきっている。",
+      "zh": "梅露露被少女们逼问着，<br>\n吓得眼泪汪汪。",
+      "vi": "Meruru bị các cô gái tra hỏi, Sợ đến rơi nước mắt.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru002",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru002|",
+      "ja": "仕方なかった、んです……<br>大魔女様を見つけるためには、こうするしか……。",
+      "zh": "我、我别无、选择……<br>\n为了找到大魔女大人，只能这么做……",
+      "vi": "Tôi, tôi không còn lựa chọn nào khác... Để tìm được Đại Ma Nữ, tôi chỉ có thể làm điều này...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo002",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo002|",
+      "ja": "大魔女……あの本に記されていたわね。",
+      "zh": "大魔女……那本书上提到过呢。",
+      "vi": "The Great Witch... đã được đề cập trong cuốn sách đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative006",
+      "speaker_tag": "",
+      "ja": "すると、たくさんの魔女が手を<ruby=\"つな\">繋</ruby>いで囲み、<br>いかにも偉そうな魔女が降臨している風の図解があった。",
+      "zh": "这时她看见一幅图解。图画上，众多魔女手牵手围在一起，<br>\n而一名威严十足的魔女正在降临。",
+      "vi": "Sau đó cô nhìn thấy một sơ đồ. Trong ảnh, nhiều phù thủy đang nắm tay nhau và vây quanh nhau, Và một phù thủy uy nghiêm đang đến.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema005",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema005|",
+      "ja": "この人は、魔女のリーダーみたいな存在なのかな……？",
+      "zh": "这个人，是不是类似于魔女的领袖……？",
+      "vi": "Người này có giống với thủ lĩnh của các phù thủy không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo003",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo003|",
+      "ja": "おそらくそうでしょうね。<br>一般的な伝承でも、魔女にはリーダーがいる。",
+      "zh": "恐怕是的。<br>\n在常见的传说中，魔女也都是有领袖的。",
+      "vi": "Chị e là vậy. Trong những truyền thuyết thông thường, phù thủy cũng có người lãnh đạo.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo004",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo004|",
+      "ja": "全ての魔女を統治する――【大魔女】。",
+      "zh": "统治所有魔女的领袖——【大魔女】。",
+      "vi": "Người lãnh đạo cai trị tất cả các phù thủy——[The Great Witch].",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo005",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo005|",
+      "ja": "ずっと気になっていたの。<br>ねぇ、エマちゃん、ゴクチョーが初めに私たちを<br>ラウンジに呼び出した時のこと覚えてるかしら？",
+      "zh": "我一直都很在意这件事。<br>\n艾玛，还记得典狱长第一次把我们<br>\n叫到会客厅的时候吗？",
+      "vi": "Chị luôn quan tâm đến điều này. Ema, vẫn nhớ lần đầu tiên cai ngục đưa chúng ta Khi được gọi vào Xưởng Vẽ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema006",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema006|",
+      "ja": "え……それは、覚えてるけど。",
+      "zh": "这个……虽然我确实是记得啦。",
+      "vi": "Điều này... mặc dù tôi vẫn nhớ nó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema007",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema007|",
+      "ja": "（悪夢がはじまった日のことだ……忘れるわけない）",
+      "zh": "（噩梦开始的那一天……怎么可能忘记）",
+      "vi": "(Ngày cơn ác mộng bắt đầu...làm sao tôi có thể quên được)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema008",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema008|",
+      "ja": "（ボクらは囚人として捕まって……<br>　ヒロちゃんがいきなり殺された……）",
+      "zh": "（我们被抓到这里，沦为囚犯……<br>\n希罗还突然被杀了……）",
+      "vi": "(Chúng tôi bị bắt ở đây, bị bắt làm tù binh... Anh hùng đột nhiên bị giết...)",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo006",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo006|",
+      "ja": "あの時、ゴクチョーの口からも<br>大魔女っていう単語が出てきたのよ。",
+      "zh": "那时，典狱长也提到了<br>\n大魔女这个词。",
+      "vi": "Lúc đó quản giáo cũng nhắc tới Từ phù thủy vĩ đại.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Warden001",
+      "speaker_tag": "; > Warden: |#0105Adv06_Warden001|",
+      "ja": "皆さんにはこの春から<br>囚人として生活してもらいます。",
+      "zh": "从这个春季开始，<br>\n请大家以囚犯的身份，在这里生活下去。",
+      "vi": "Bắt đầu từ mùa xuân này, Hãy tiếp tục sống ở đây như những tù nhân.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Warden002",
+      "speaker_tag": "; > Warden: |#0105Adv06_Warden002|",
+      "ja": "救済がなくもないのですが……<br>大魔女さえ見つかれば皆さんの呪いを……。",
+      "zh": "得救的方法倒也不是没有……<br>\n只要能找到大魔女，就能将各位的诅咒……",
+      "vi": "Không phải là không có cách nào để được cứu... Chỉ cần có thể tìm được Đại Ma Nữ, chúng ta có thể chữa khỏi lời nguyền của mọi người...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Warden003",
+      "speaker_tag": "; > Warden: |#0105Adv06_Warden003|",
+      "ja": "あ、でも、期待とか持たせても良くないですよね……。<br>忘れてください。",
+      "zh": "啊，不过，让你们抱有期待也不太好……<br>\n请把这事忘了吧。",
+      "vi": "À, nhưng cứ kỳ vọng quá cao là không tốt... Xin hãy quên chuyện này đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema009",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema009|",
+      "ja": "そういえば……言ってた。",
+      "zh": "这么一说……典狱长确实说过。",
+      "vi": "Điều đó đang được nói... người quản lý đã nói điều đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo007",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo007|",
+      "ja": "【大魔女の呪い】。<br>これが、私たちの魔女化に関係しているんじゃないかと<br>思うのだけど。",
+      "zh": "【大魔女的诅咒】。<br>\n我觉得，<br>\n这可能与我们的魔女化有关。",
+      "vi": "[Lời nguyền của mụ phù thủy vĩ đại]. Chị nghĩ, Điều này có thể liên quan tới phép thuật của chúng ta.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo008",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo008|",
+      "ja": "ねぇ、メルルちゃん。違うかしら？",
+      "zh": "怎样，梅露露。我说得对吗？",
+      "vi": "Thế thì sao, Meruru. Chị có đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru003",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru003|",
+      "ja": "そ、そのとおりです。合っています。<br>私は、姿を消してしまった大魔女様を探していて……<br>おそらく人間の中に隠れているんじゃないか、と。",
+      "zh": "是、是的。你说得对。<br>\n我一直在寻找消失的大魔女大人……<br>\n我想，她可能藏身在人类之中。",
+      "vi": "Vâng, vâng. bạn nói đúng. Tôi đang tìm kiếm phù thủy vĩ đại mất tích... Tôi nghĩ cô ấy có thể đang ẩn náu giữa con người.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru004",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru004|",
+      "ja": "それで、魔女因子の高い子たちを集めて、<br>魔女にしてみて、ひとりひとり確かめているんです……。",
+      "zh": "所以，我让魔女因子浓度较高的少女们聚在这里，<br>\n试着让她们变成魔女，再逐个逐个确认……",
+      "vi": "Vì vậy, tôi đã yêu cầu những cô gái có nồng độ Yếu tố Ma Nữ cao tập trung ở đây, Cố gắng biến họ thành phù thủy và xác nhận từng người một...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru005",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru005|",
+      "ja": "みなさん、なかなか魔女になってくれなくて、<br>その……申し訳ないのですが、<br>たくさんストレスを与えなくちゃいけなくて……。",
+      "zh": "大家都坚持着不肯变成魔女，<br>\n所以……那个，真的非常抱歉，<br>\n因此我不得不给大家施加很多压力……",
+      "vi": "Mọi người đều nhất quyết không trở thành phù thủy, Vậy...tôi thực sự xin lỗi, Vì thế tôi đã phải tạo áp lực rất lớn cho mọi người...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative007",
+      "speaker_tag": "",
+      "ja": "メルルは心底辛そうに眉を下げ、<br>瞳からはらはらと涙をこぼす。",
+      "zh": "梅露露眉头紧锁，一脸痛苦，<br>\n眼泪不停地流下来。",
+      "vi": "Meruru cau mày với vẻ mặt đau đớn, Nước mắt cứ thế tuôn rơi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru006",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru006|",
+      "ja": "とても、辛い作業でした……<br>みなさんを嫌な目に遭わせるたびに、心が痛んで……<br>もうやめたいと何度も心が折れかけて……。",
+      "zh": "这真是一项非常痛苦的工作……<br>\n每次让大家遭遇不愉快的事，我的心都在痛……<br>\n我好几次想要放弃……",
+      "vi": "Đây thực sự là một công việc vất vả... Mỗi khi có điều gì khó chịu xảy ra với mọi người, tim tôi lại đau thắt... Đã nhiều lần tôi muốn bỏ cuộc...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru007",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru007|",
+      "ja": "ちゃんとやらないといけないのに……<br>怖がりで、泣き虫で、こんな自分が大嫌いです……。<br>本当にごめんなさい……。",
+      "zh": "明明必须把任务完成好……<br>\n可我又胆小、又爱哭，我真的很讨厌这样的自己……<br>\n真的非常抱歉……",
+      "vi": "Rõ ràng nhiệm vụ phải được hoàn thành... Nhưng tôi lại là người nhút nhát và thích khóc. Tôi thực sự ghét bản thân mình như thế này... Tôi thực sự xin lỗi...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Coco003",
+      "speaker_tag": "; > Coco: |#0105Adv06_Coco003|",
+      "ja": "はぁぁぁ！？ いい加減理解できる思考回路で喋れよ！！<br>その大魔女ってやつのために、<br>あてぃしらは酷い目に遭わされまくってるわけ！？",
+      "zh": "哈啊啊啊！？能不能用正常人能理解的方式说话！！<br>\n就是为了那个什么大魔女，<br>\n我们才遭受这么多苦难的吗！？",
+      "vi": "Haaaaah! ? Bạn có thể nói theo cách mà người bình thường có thể hiểu được không! ! Chỉ dành cho mụ phù thủy to lớn đó, Chúng ta đã phải chịu đựng rất nhiều? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo009",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo009|",
+      "ja": "そこまでして、なんのために大魔女を探しているの？",
+      "zh": "你不惜如此牺牲也要找到大魔女，到底是为了什么？",
+      "vi": "Bạn sẵn sàng hy sinh rất nhiều để tìm được mụ phù thủy vĩ đại. Mục đích của em là gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru008",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru008|",
+      "ja": "それ……は……<br>私たち【魔女】にとって、<br>大魔女様は、大切な存在、だからです。",
+      "zh": "那个……是因为……<br>\n对我们【魔女】来说，<br>\n大魔女大人非常重要。",
+      "vi": "Đó... là vì... Đối với chúng tôi [Các phù thủy], Đại Ma Nữ rất quan trọng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative008",
+      "speaker_tag": "",
+      "ja": "聞き捨てならない爆弾発言に、<br>空気が一層凍りつく。",
+      "zh": "听到这个不可忽视的爆炸性发言，<br>\n空气更加凝固了。",
+      "vi": "Nghe câu nói bùng nổ không thể bỏ qua này, Không khí trở nên rắn chắc hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Coco004",
+      "speaker_tag": "; > Coco: |#0105Adv06_Coco004|",
+      "ja": "――おめえやっぱ魔女なんじゃねえかよ！",
+      "zh": "——果然你就是魔女啊！",
+      "vi": "——Ngươi quả thực là phù thủy!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru009",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru009|",
+      "ja": "は、はい！ ごめんなさい……っ、<br>わた、わたわた私は、魔女です……っ",
+      "zh": "是、是的！对不起……<br>\n我、我我我是魔女……",
+      "vi": "Vâng, vâng! Xin lỗi... Tôi, tôi, tôi, tôi là phù thủy...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru010",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru010|",
+      "ja": "で、でも、みなさん囚人とは、ちょっとだけ違います。<br>本物の魔女です。みなさんより、その、上の存在……。",
+      "zh": "不、不过，我和各位囚犯有点不同。<br>\n我是真正的魔女。比大家、那个、更、更高级……",
+      "vi": "Không, nhưng tôi hơi khác so với những tù nhân khác. Tôi là một phù thủy thực sự. Tiến bộ hơn mọi người khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema010",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema010|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema011",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema011|",
+      "ja": "（メルルちゃんは、【魔女】……<br>　最初からずっと――この子が【魔女】だったんだ）",
+      "zh": "（梅露露是【魔女】……<br>\n从一开始——她就一直是【魔女】）",
+      "vi": "(Meruru là [Phù thủy]... Ngay từ đầu - cô ấy đã luôn là một [phù thủy])",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru011",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru011|",
+      "ja": "わ、私は、人間が魔女因子によって魔女化している、<br>いわば【人間魔女】とは違う、【真の魔女】……。",
+      "zh": "人类是由于魔女因子而魔女化的，<br>\n而我和所谓的【人类魔女】不同，是【真正的魔女】……",
+      "vi": "Con người là phù thủy do Yếu tố Ma Nữ, Và tôi khác với cái gọi là [phù thủy loài người], tôi là một [phù thủy thực sự]…",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru012",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru012|",
+      "ja": "なので、私たちはみなさんのように、<br>【なれはて】にはなりません。",
+      "zh": "所以，我们不会像各位那样<br>\n变成【残骸】。",
+      "vi": "Vì vậy, chúng tôi sẽ không giống bạn Trở thành một [xác tàu].",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo010",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo010|",
+      "ja": "大魔女の呪いによって<br>魔女にされた人間は、殺人衝動が高まり、<br>理性を失った化け物になる。",
+      "zh": "因大魔女的诅咒而变成魔女的人类，<br>\n会产生强烈的杀人冲动，<br>\n最终变成丧失理智的怪物。",
+      "vi": "Một con người trở thành phù thủy do lời nguyền của mụ phù thủy vĩ đại, Sẽ có ham muốn giết người mạnh mẽ, Cuối cùng anh ta trở thành một con quái vật điên rồ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo011",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo011|",
+      "ja": "私たちはその犠牲者ということなのね。<br>そして本物の魔女であるあなたは違う、と。",
+      "zh": "我们是这种诅咒的受害者。<br>\n而你作为真正的魔女则不同，是这样吗？",
+      "vi": "Chúng ta là nạn nhân của lời nguyền này. Nhưng em khác với một phù thủy thực sự, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru013",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru013|",
+      "ja": "は、はい。そういうことです……。",
+      "zh": "是、是的。就是这样……",
+      "vi": "Vâng, vâng. Thế thôi…",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru014",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru014|",
+      "ja": "しかも私は大魔女様のお気に入りなので、<br>魔女を封印する【魔女殺し】という特別な魔法も授かりました。",
+      "zh": "而且我是大魔女大人的宠儿，<br>\n所以还被赐予了【魔女杀手】这种特殊的魔法，用来封印魔女。",
+      "vi": "Và tôi là con cưng của mụ phù thủy vĩ đại, Vì vậy, anh ta đã được ban cho phép thuật đặc biệt [Sát thủ phù thủy] để phong ấn phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo012",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo012|",
+      "ja": "【魔女殺し】……？ トレデキムと同じようなもの？",
+      "zh": "【魔女杀手】……？和特雷德基姆类似的东西？",
+      "vi": "[Sát phù thủy]...? Cái gì đó tương tự như Tredkiem?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru015",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru015|",
+      "ja": "はい……。で、でもあの薬よりももっと強力で、<br>全ての魔女が畏れている魔法なんです。",
+      "zh": "是的……不过，比那种药更强大，<br>\n是所有魔女都畏惧的魔法。",
+      "vi": "Đúng...nhưng nó mạnh hơn loại thuốc đó, Đó là phép thuật mà mọi phù thủy đều sợ hãi.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru016",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru016|",
+      "ja": "な、なので実をいうと、私、<br>みなさんが魔女になったら簡単に殺すことができるんです……。",
+      "zh": "所、所以其实，<br>\n只要各位变成魔女了，我就可以轻易杀死你们……",
+      "vi": "Vì vậy, trên thực tế, Chỉ cần ngươi trở thành phù thủy, ta có thể dễ dàng giết ngươi...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru017",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru017|",
+      "ja": "も、もちろんそんなことしませんけど……！",
+      "zh": "当、当然我不会那么做的……！",
+      "vi": "Tất nhiên là tôi sẽ không làm thế...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Coco005",
+      "speaker_tag": "; > Coco: |#0105Adv06_Coco005|",
+      "ja": "マジ……？",
+      "zh": "真的假的……？",
+      "vi": "Thật hay giả...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema012",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema012|",
+      "ja": "――なんで！！",
+      "zh": "——为什么！！",
+      "vi": "--Tại sao! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative009",
+      "speaker_tag": "",
+      "ja": "エマは思わず、喉が切れそうなほどの絶叫をしていた。",
+      "zh": "艾玛不由自主地发出了撕心裂肺的尖叫。",
+      "vi": "Ema không khỏi hét lên một tiếng xé lòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema013",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema013|",
+      "ja": "なんでそんな、普通に話していられるの！？<br>メルルちゃん、ずっとボクらを騙してたんでしょう！？",
+      "zh": "为什么你能若无其事地说出这些！？<br>\n梅露露，你一直在欺骗我们，对吧！？",
+      "vi": "Tại sao bạn có thể nói điều này một cách bình tĩnh như vậy? ? Meruru, cậu đã nói dối chúng tôi phải không? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema014",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema014|",
+      "ja": "友だちだって優しくしてくれて、<br>たくさん心配してくれて、<br>それって全部嘘だったの！？",
+      "zh": "你说我们是朋友，对我们那么体贴，<br>\n总是那么关心我们，<br>\n这些全都是假的吗！？",
+      "vi": "Bạn nói chúng ta là bạn và rất quan tâm đến chúng ta, Luôn quan tâm đến chúng tôi, Tất cả những thứ này đều là giả! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru018",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru018|",
+      "ja": "う、嘘なんかじゃありません……っ！",
+      "zh": "不、不是假的……！",
+      "vi": "Không, nó không phải là giả...!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru019",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru019|",
+      "ja": "大魔女様が必要だったんです。<br>大魔女様さえ見つけられたら、<br>みなさんにとっても、きっと救済になるはず、です……っ",
+      "zh": "因为大魔女大人是必须找到的。<br>\n只要能找到大魔女大人，<br>\n对大家来说也一定会是、是救赎……",
+      "vi": "Bởi vì Phù thủy vĩ đại phải được tìm thấy. Chỉ cần chúng ta có thể tìm được mụ phù thủy vĩ đại, Nó chắc chắn sẽ là sự cứu rỗi cho tất cả mọi người...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru020",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru020|",
+      "ja": "だから私、辛かったけれど、<br>いっぱい、いっぱい頑張りました……。",
+      "zh": "所以我，虽然很痛苦，<br>\n但还是很努力、非常努力地做了很多很多事……",
+      "vi": "Vì vậy, tôi, mặc dù rất đau đớn, Nhưng tôi vẫn làm việc rất chăm chỉ và làm được rất nhiều thứ...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru021",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru021|",
+      "ja": "看守さんに指示してひどいお料理を出したり、<br>娯楽室にホラー映画をたくさん置いたり……。",
+      "zh": "指示看守提供难吃的食物，<br>\n在娱乐室放很多恐怖电影……",
+      "vi": "Hướng dẫn Cai Ngục phục vụ đồ ăn không ngon, Chiếu rất nhiều phim kinh dị trong Phòng Giải Trí…",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru022",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru022|",
+      "ja": "嫌な気持ちになってもらわなきゃって、<br>とにかく必死で……。",
+      "zh": "为了让大家感到不快，<br>\n我竭尽了全力……",
+      "vi": "Để làm mọi người không vui, Tôi đã cố gắng hết sức...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru023",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru023|",
+      "ja": "一緒に生活しなきゃ、みなさんが嫌がること、<br>わからないって思って。だから一緒に囚人になって、<br>みなさんと親しくなろうって……。",
+      "zh": "为了了解大家讨厌什么，就必须和大家共同生活，<br>\n所以我才和大家一起当囚犯，<br>\n只为了和大家亲近起来……",
+      "vi": "Để hiểu được điều mọi người ghét, bạn phải chung sống với họ, Đó là lý do tại sao tôi là tù nhân của mọi người, Chỉ để được gần gũi hơn với mọi người...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo013",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo013|",
+      "ja": "それで囚人に混ざっていたわけね。<br>毎度そうやって参加していたのかしら。<br>ずいぶん熱心なことね。",
+      "zh": "原来你是为此才混在囚犯中间的。<br>\n每次都像这样作为囚犯参加是吗。<br>\n还真是用心呢。",
+      "vi": "Hóa ra đây là lý do tại sao em lại nằm trong số tù nhân. Lần nào em cũng tham gia với tư cách là tù nhân như thế này phải không? Thực sự chu đáo.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru024",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru024|",
+      "ja": "は、はい。大魔女様を見つけるためならって、<br>私、一生懸命頑張っているんです……。",
+      "zh": "是、是的。只要为了找到大魔女大人，<br>\n我会拼命努力，什么都可以做……",
+      "vi": "Vâng, vâng. Chỉ để tìm mụ phù thủy vĩ đại, Tôi sẽ làm việc chăm chỉ và làm bất cứ điều gì...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru025",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru025|",
+      "ja": "今回も、みなさんが<br>どうしたら嫌な気持ちになってくれるかって、<br>必死に探ってきました。",
+      "zh": "这次也是，<br>\n我一直都在努力寻找<br>\n让大家感到不快的方法。",
+      "vi": "Lần này cũng vậy, Tôi đã cố gắng tìm Một cách để làm cho tất cả mọi người không hài lòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru026",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru026|",
+      "ja": "最初はレイアさんが目立てないことを<br>悔しがっている様子に気付きました。",
+      "zh": "一开始我注意到，蕾雅小姐似乎<br>\n对自己不够引人注目而感到沮丧。",
+      "vi": "Lúc đầu, tôi nhận thấy cô Leia có vẻ Thất vọng vì không được chú ý đủ.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru027",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru027|",
+      "ja": "目立っている彼女を殺さないと、一番になれないよ？<br>かわいそうに……って言ってみました。",
+      "zh": "我就告诉蕾雅：“不除掉引人注目的她，<br>\n你就没法成为全场焦点哦？真可怜啊……”",
+      "vi": "Tôi đã nói với Leya: \"Nếu bạn không loại bỏ cô ấy, người thu hút sự chú ý, Bạn không thể là trung tâm của sự chú ý? Thật đáng thương...\"",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Coco006",
+      "speaker_tag": "; > Coco: |#0105Adv06_Coco006|",
+      "ja": "は……？",
+      "zh": "哈……？",
+      "vi": "ha……?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo014",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo014|",
+      "ja": "もしかして、メルルちゃん……<br>殺人をそそのかしていたの……？ そこまで……？",
+      "zh": "难道说，梅露露……<br>\n你一直在暗中怂恿别人去杀人吗……？竟然做到这种地步……？",
+      "vi": "Có thể nói rằng Meruru... Bạn đã bí mật khuyến khích người khác giết người chưa...? Để thực sự đạt đến mức này...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru028",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru028|",
+      "ja": "アンアンさんは、<br>とてもエマさんに怒っていらしたので……。",
+      "zh": "安安小姐看起来<br>\n对艾玛小姐非常不满……",
+      "vi": "Cô AnAn trông Rất không hài lòng với cô Ema...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru029",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru029|",
+      "ja": "出たくないのに、なんで邪魔をするんだろうね？<br>彼女の方が、邪魔者なのに……って言ってみました。",
+      "zh": "所以我对安安说：“你根本不想出去，<br>\n她为什么要来破坏你的生活？明明她才是碍事的那个……”",
+      "vi": "Thế là tôi nói với AnAn: \"Anh không muốn ra ngoài chút nào, Tại sao cô ấy lại đến để hủy hoại cuộc đời bạn? Rõ ràng cô ấy là người đang cản đường...\"",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema015",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema015|",
+      "ja": "――。",
+      "zh": "——",
+      "vi": "——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru030",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru030|",
+      "ja": "シェリーさんには……。",
+      "zh": "对雪莉小姐，我……",
+      "vi": "Gửi cô Sherry, tôi...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema016",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema016|",
+      "ja": "もういい！ もう聞きたくない！ やめてよ！！",
+      "zh": "够了！我不想再听了！住口！！",
+      "vi": "Đủ rồi! Tôi không muốn nghe nó nữa! câm miệng! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Coco007",
+      "speaker_tag": "; > Coco: |#0105Adv06_Coco007|",
+      "ja": "ゴクチョー！！ さっさとコイツ処刑にしろよ！！<br>コイツが一番のドクズだろ！！",
+      "zh": "典狱长！！快点处决这家伙啊！！<br>\n她才是最坏的那个吧！！",
+      "vi": "Quản giáo! ! Xử tử tên này nhanh lên! ! Cô ấy là người tồi tệ nhất! !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Coco008",
+      "speaker_tag": "; > Coco: |#0105Adv06_Coco008|",
+      "ja": "自分で魔女だって言ってんじゃん！！<br>魔女は処刑なんだろ！！",
+      "zh": "她自己都承认自己是魔女了！！<br>\n魔女不是该被处决吗！！",
+      "vi": "Cô thậm chí còn thừa nhận rằng mình là một phù thủy! ! Phù thủy không đáng bị xử tử sao? !",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Warden004",
+      "speaker_tag": "; > Warden: |#0105Adv06_Warden004|",
+      "ja": "いや、そのぉ……確かに裁判で魔女と認定されましたが、<br>私はメルル様の使い魔でして。",
+      "zh": "呃，那个……虽然确实在审判中被认定为魔女，<br>\n但我是梅露露大人的使魔。",
+      "vi": "Uh, cái đó... Mặc dù cô ấy thực sự được xác định là phù thủy trong phiên tòa, Nhưng tôi là người hầu của Meruru-sama.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Warden005",
+      "speaker_tag": "; > Warden: |#0105Adv06_Warden005|",
+      "ja": "さすがに<ruby=\"あるじ\">主</ruby>を処刑するのは躊躇するというか……<br>主催者権限で勘弁してもらえませんか？ すみません……。",
+      "zh": "要让我处决主人还是有些犹豫……<br>\n能不能看在主办方的面子上通融一下呢？非常抱歉……",
+      "vi": "Tôi vẫn ngần ngại xử tử chủ nhân... Bạn có thể vui lòng giúp đỡ vì lợi ích của người tổ chức được không? Tôi rất xin lỗi...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Coco009",
+      "speaker_tag": "; > Coco: |#0105Adv06_Coco009|",
+      "ja": "はぁぁぁ！？",
+      "zh": "哈啊啊啊！？",
+      "vi": "Haaaaah! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Warden006",
+      "speaker_tag": "; > Warden: |#0105Adv06_Warden006|",
+      "ja": "まぁ、みなさんが納得できないなら、<br>処刑してもいいんですけど、<br>時間の無駄っていいますか……。",
+      "zh": "嗯，如果大家不能接受的话，<br>\n执行处决也不是不行，<br>\n但与其说是浪费时间呢，还是……",
+      "vi": "Chà, nếu bạn không thể chấp nhận, Việc thực thi không phải là không thể, Nhưng thay vì nói rằng nó lãng phí thời gian, nó...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo015",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo015|",
+      "ja": "メルルちゃんは【なれはて】にならないということよね。<br>死なないし、化け物にもならない。<br>それならたしかに時間の無駄ね。",
+      "zh": "也就是说梅露露不会变成【残骸】对吧。<br>\n既不会死，也不会变成怪物。<br>\n那确实是在浪费时间呢。",
+      "vi": "Nói cách khác, Meruru sẽ không trở thành một [xác tàu] phải không? Anh ta sẽ không chết cũng không biến thành quái vật. Đó thực sự là một sự lãng phí thời gian.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative010",
+      "speaker_tag": "",
+      "ja": "めそめそしていたメルルが、ぐすっ、と鼻を鳴らす。",
+      "zh": "一直小声啜泣的梅露露抽了抽鼻子。",
+      "vi": "Meruru, người đang lặng lẽ nức nở, sụt sịt.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru031",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru031|",
+      "ja": "これまで、囚人として魔女裁判に参加して……<br>魔女として処刑されたことは、何度かあります……。",
+      "zh": "至今为止，一直作为囚犯参加魔女审判……<br>\n我已经作为魔女，被处决过好几次了……",
+      "vi": "Cho đến bây giờ, tôi vẫn tham gia Phiên Tòa Ma Nữ với tư cách là một tù nhân... Tôi đã bị xử tử như một phù thủy nhiều lần...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru032",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru032|",
+      "ja": "痛いし、辛いし、今回はもういいです……。",
+      "zh": "很痛，很难受，已经不想再这样了……",
+      "vi": "Đau quá, khó chịu quá, tôi không muốn làm điều này nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru033",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru033|",
+      "ja": "全部ばれちゃいましたし、<br>結局大魔女様は見つかりませんでしたし……<br>もう、今回はここで終わらせます……。",
+      "zh": "反正一切都暴露了，<br>\n最后也没能找到大魔女大人……<br>\n这次就，到此为止吧……",
+      "vi": "Dù sao thì mọi chuyện cũng đã bị phơi bày, Cuối cùng, Đại Ma Nữ vẫn không được tìm thấy... Lần này chúng ta hãy dừng lại ở đây…",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Coco010",
+      "speaker_tag": "; > Coco: |#0105Adv06_Coco010|",
+      "ja": "はぁぁぁ！？",
+      "zh": "哈啊啊啊！？",
+      "vi": "Haaaaah! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Meruru034",
+      "speaker_tag": "; > Meruru: |#0105Adv06_Meruru034|",
+      "ja": "みなさんのこと、大好きでした。",
+      "zh": "我真的很喜欢大家。",
+      "vi": "Tôi thực sự thích tất cả mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Coco011",
+      "speaker_tag": "; > Coco: |#0105Adv06_Coco011|",
+      "ja": "はぁぁぁ！？",
+      "zh": "哈啊啊啊！？",
+      "vi": "Haaaaah! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo016",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo016|",
+      "ja": "――エマちゃん、ココちゃん！",
+      "zh": "——艾玛，可可！",
+      "vi": "——Ema，Coco！",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative011",
+      "speaker_tag": "",
+      "ja": "気付けば、マーゴがエマの近くに立っていた。<br>エマの手首をぎゅっと握ってくる。",
+      "zh": "回过神来，玛格已经站在艾玛身边。<br>\n她紧紧握住了艾玛的手腕。",
+      "vi": "Khi cô tỉnh lại, Mag đã đứng cạnh Ema. Cô giữ chặt cổ tay Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema017",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema017|",
+      "ja": "マーゴちゃん……？",
+      "zh": "玛格……？",
+      "vi": "Mag...?",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Margo017",
+      "speaker_tag": "; > Margo: |#0105Adv06_Margo017|",
+      "ja": "逃げましょう……！<br>私たちは、もう、殺される結末しか用意されていない！",
+      "zh": "我们逃吧……！<br>\n我们已经只剩下被杀这一个结局了！",
+      "vi": "Hãy trốn thoát...! Kết cục duy nhất còn lại của chúng ta là bị giết!",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative012",
+      "speaker_tag": "",
+      "ja": "緊迫したマーゴの声で、<ruby=\"ぼうぜん\">茫然</ruby>自失状態だったエマは<br>ハッと我に返る。",
+      "zh": "听到玛格紧张的声音，茫然失措的艾玛<br>\n猛然惊醒。",
+      "vi": "Nghe thấy giọng lo lắng của Mag, Ema bối rối Một sự thức tỉnh đột ngột.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative013",
+      "speaker_tag": "",
+      "ja": "近くに控えていた看守が動きだしている。<br>鎌を掲げて、エマたちの方向に近付いてきていた。",
+      "zh": "附近待命的看守开始行动了。<br>\n它举起镰刀，朝艾玛她们靠近。",
+      "vi": "Những Cai Ngục đứng gần đó bắt đầu hành động. Nó giơ lưỡi hái lên và tiếp cận Ema và những người khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative014",
+      "speaker_tag": "",
+      "ja": "幸い、出入口から看守が離れたので、<br>走り抜けることは可能だった。",
+      "zh": "幸运的是，看守为了靠近她们而远离了出口，<br>\n所以还有希望跑出去。",
+      "vi": "May mắn thay, Cai Ngục đã tránh xa lối ra để đến gần họ hơn, Vậy là vẫn còn hy vọng hết.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative015",
+      "speaker_tag": "",
+      "ja": "エマは――",
+      "zh": "艾玛决定——",
+      "vi": "Ema quyết định——",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Choice001",
+      "speaker_tag": "; > @choice |#0105Adv06_Choice001| button:ChoiceButtons/Adv/Bad",
+      "ja": "メルルと話し合う",
+      "zh": "和梅露露交涉",
+      "vi": "Đàm phán với Meruru",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Choice002",
+      "speaker_tag": "; > @choice |#0105Adv06_Choice002|",
+      "ja": "逃げる",
+      "zh": "逃跑",
+      "vi": "chạy trốn",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Ema018",
+      "speaker_tag": "; > Ema: |#0105Adv06_Ema018|",
+      "ja": "……っ",
+      "zh": "……！",
+      "vi": "……！",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative016",
+      "speaker_tag": "",
+      "ja": "エマはマーゴに手を引かれ、<br>足をもつれさせながら駆けだす。",
+      "zh": "艾玛被玛格牵着手，<br>\n跌跌撞撞地跑了起来。",
+      "vi": "Ema được Margo giữ, Anh vấp ngã và bỏ chạy.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative017",
+      "speaker_tag": "",
+      "ja": "マーゴの判断が早かったおかげで、<br>看守は対応が遅れた様子だった。",
+      "zh": "多亏玛格反应迅速，<br>\n看守似乎反应慢了一拍。",
+      "vi": "Cảm ơn Margo vì phản hồi nhanh chóng của cô ấy, Cai Ngục có vẻ phản ứng hơi chậm.",
+      "objection_links": []
+    },
+    {
+      "id": "0105Adv06_Narrative018",
+      "speaker_tag": "",
+      "ja": "エマとココ、マーゴは裁判所から逃げ出した。",
+      "zh": "艾玛、可可和玛格逃出了审判庭。",
+      "vi": "Ema, ​​Coco và Mag trốn thoát khỏi Tòa án dị giáo.",
+      "objection_links": []
+    }
+  ]
+}

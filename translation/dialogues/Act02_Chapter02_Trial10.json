@@ -1,0 +1,642 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Trial10",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Trial10' Naninovel scenario script",
+  "total_entries": 79,
+  "entries": [
+    {
+      "id": "0202Trial10_Sherry001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial10_Sherry001|",
+      "ja": "事件が起こったのは<br>死体発見の直前……<br>これは動きませんよね？",
+      "zh": "案发时间就在<br>\n尸体被发现的不久前……<br>\n这点没有变吧？",
+      "vi": "Thời điểm phạm tội là Không lâu trước khi thi thể được phát hiện... Điều này vẫn không thay đổi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_Hiro001|",
+      "ja": "そうだ。",
+      "zh": "对。",
+      "vi": "Vâng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_Hiro002|",
+      "ja": "私が配信を見てから<br>エマが死体を<br>発見するまでの時間……。",
+      "zh": "从我看完直播<br>\n到艾玛发现尸体的<br>\n这段时间……",
+      "vi": "Vì tôi đã xem chương trình phát sóng trực tiếp nơi Ema tìm thấy thi thể Trong thời gian này...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_Hiro003|",
+      "ja": "５分ほどの間に、<br>殺害から死体の廃棄までの<br>全てが完了したことになる。",
+      "zh": "在这5分钟左右的时间里，<br>\n凶手完成了从杀人<br>\n到抛尸的所有步骤。",
+      "vi": "Trong khoảng 5 phút này, Kẻ sát nhân đã hoàn thành vụ giết người Tất cả các bước để vứt xác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Ema001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial10_Ema001|",
+      "ja": "ココちゃんを地下で撃って、<br>そのまま２階へ登って<br>死体を引き上げ、<br>中庭へ落とす……。",
+      "zh": "她在地下射杀可可后，<br>\n直接爬到二楼<br>\n把尸体拉了上去，<br>\n并抛到中庭……",
+      "vi": "Sau khi cô ấy bắn Coco dưới lòng đất, Leo thẳng lên tầng hai Kéo cơ thể lên, Và ném vào tâm nhĩ...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Ema002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial10_Ema002|",
+      "ja": "スムーズにやれたなら、<br>不可能なことじゃない<br>とは思う。",
+      "zh": "如果一切顺利，<br>\n我觉得并非不可能。<br>",
+      "vi": "Nếu mọi việc suôn sẻ, Tôi nghĩ điều đó không phải là không thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Miria001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_Miria001|",
+      "ja": "たしかあのとき……<br>騒ぎを聞きつけて、<br>みんなすぐに集合したと<br>思うけど。",
+      "zh": "我记得那时候……<br>\n大家听见骚乱声<br>\n就马上到中庭<br>\n汇合了。",
+      "vi": "Miria nhớ lần đó... Mọi người đều nghe thấy sự hỗn loạn Vào ngay atrium Hội tụ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial10_Hanna001|",
+      "ja": "集まる前はみなさん、<br>何をしてたんですのー！？",
+      "zh": "在汇合之前，<br>\n大家都在做什么呢！？",
+      "vi": "Trước cuộc hẹn, Mọi ngươi đang làm gì vậy! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_AnAn001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_AnAn001|",
+      "ja": "ラウンジには<br>わがはいとレイアがいた。",
+      "zh": "吾辈和蕾雅<br>\n在会客厅里。",
+      "vi": "Tôi và Liya Trong Xưởng Vẽ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Nanoka001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial10_Nanoka001|",
+      "ja": "……確実に２人は<br>ラウンジにいた。<br>それは私も見ているから<br>証言できる。",
+      "zh": "……她们确实<br>\n在会客厅。<br>\n我也看见了，<br>\n可以作证。",
+      "vi": "...họ làm Trong Xưởng Vẽ. Tôi cũng thấy nó, Có thể làm chứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Sherry002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_Sherry002|",
+      "ja": "私はアリサさんと<br>ずっと自室にいましたね！",
+      "zh": "我和亚里沙<br>\n一直在自己的房间里！",
+      "vi": "Tôi và Alisa Luôn ở trong phòng tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Alisa001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial10_Alisa001|",
+      "ja": "ウチは横になってたが……<br>まあ、こいつは部屋にいた。<br>無理だろうな。",
+      "zh": "我躺在床上……<br>\n但是有这家伙在房间里。<br>\n也睡不着。",
+      "vi": "Tao đang nằm trên giường... Nhưng có mày chàng này trong phòng. Cũng không thể ngủ được.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Miria002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_Miria002|",
+      "ja": "お、おじさんは<br>ノアちゃんと娯楽室にいたよ！",
+      "zh": "大、大叔我和诺亚<br>\n在娱乐室里！",
+      "vi": "Chú, Noah và Miria Trong Phòng Giải Trí!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Noah001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial10_Noah001|",
+      "ja": "よくわかんない<br>映画見てたー。",
+      "zh": "我们看了个<br>\n莫名其妙的电影～。",
+      "vi": "Chúng Noah đã xem Phim khó hiểu~.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_Hanna002|",
+      "ja": "……はわっ！？",
+      "zh": "……哇！？",
+      "vi": "...Chà! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_Hanna003|",
+      "ja": "では<link=\"Objection_02_02_10_01\">わたくしだけ</link>が<br>アリバイがない人<br>なんですのー！？",
+      "zh": "那就<link=\"Objection_02_02_10_01\">只有我一个人</link><br>\n没有不在场证明了！？<br>",
+      "vi": "Vậy thì chỉ có Bổn tiểu thư<link=\"Objection_02_02_10_01\">_</link> Không còn bằng chứng ngoại phạm nữa! ?",
+      "objection_links": [
+        "Objection_02_02_10_01"
+      ]
+    },
+    {
+      "id": "0202Trial10_Sherry003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial10_Sherry003|",
+      "ja": "犯人が見つかったようですね！",
+      "zh": "看来凶手已经找到了！",
+      "vi": "Có vẻ như kẻ giết người đã được tìm thấy!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_Hanna004|",
+      "ja": "ち、違いますわ～！",
+      "zh": "不、不是我啦～！",
+      "vi": "Không, không phải Bổn tiểu thư~!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_Hanna005|",
+      "ja": "そ、そうですわっ！<br>私１階のホールで<br>ヒロさんとすれ違っていますわ！",
+      "zh": "对、对了！<br>\n我在一楼大厅<br>\n和希罗擦肩而过了！",
+      "vi": "Vâng, vâng! Bổn tiểu thư đang ở sảnh tầng một Đã được anh hùng vượt qua!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial10_Hanna006|",
+      "ja": "私がそこにいたのは<br>ヒロさんが<br>証明してくれますわ～！",
+      "zh": "她可以<br>\n为我作证<br>\n我当时就在那里～！",
+      "vi": "Cô ấy có thể Làm chứng cho Bổn tiểu thư Bổn tiểu thư đã ở ngay đó~!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro004|",
+      "ja": "（たしかにハンナとは<br>　シャワールームへと向かうときに<br>　すれ違った記憶がある）",
+      "zh": "（我确实记得<br>\n在前往淋浴房的路上<br>\n遇到了汉娜）",
+      "vi": "(Tôi nhớ Trên đường tới phòng tắm đã gặp Hanna)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro005|",
+      "ja": "（なら、全員の証言が正しければ<br>　誰も犯行できなかったことになるのか……？）",
+      "zh": "（那么，如果所有人的证词都是真的，<br>\n岂不是谁都不可能犯罪……？）",
+      "vi": "(Sau đó, nếu lời khai của mọi người là đúng, Không phải ai cũng không thể phạm tội sao...? )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro006|",
+      "ja": "（それともこれまでの推理は全て間違っていて、<br>　やはりエマが犯人……）",
+      "zh": "（还是说目前的推理全都错了，<br>\n凶手还是艾玛……）",
+      "vi": "(Hoặc có thể lý do hiện tại hoàn toàn sai, Kẻ sát nhân vẫn là Ema...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro007|",
+      "ja": "（それぞれの証言を……整理してみよう）",
+      "zh": "（整理一下……大家的证词吧）",
+      "vi": "(Hãy sắp xếp lời khai của mọi người)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Choice001",
+      "speaker_tag": "; > @choice |#0202Trial10_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "他にアリバイがない人物がいる",
+      "zh": "还有人没有不在场证明",
+      "vi": "Có những người không có bằng chứng ngoại phạm",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Choice002",
+      "speaker_tag": "; > @choice |#0202Trial10_Choice002| button:ChoiceButtons/Trial/Approval handler:TrialHiro",
+      "ja": "ハンナ以外全員アリバイがある",
+      "zh": "除汉娜以外所有人都有不在场证明",
+      "vi": "Mọi người ngoại trừ Hanna đều có bằng chứng ngoại phạm.",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro008|",
+      "ja": "やはりハンナが犯人だ。",
+      "zh": "凶手果然就是汉娜。",
+      "vi": "Kẻ giết người thực sự là Hanna.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro009|",
+      "ja": "ハンナは私とぶつかったあと、<br>焼却炉室に戻り、死体を担いで隠し通路を登って――。",
+      "zh": "她撞到我以后<br>\n回到焚烧炉室，扛着尸体爬上秘密通道——",
+      "vi": "Sau khi cô ấy đánh tôi Trở lại phòng đốt rác, mang xác leo lên lối đi bí mật——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro010|",
+      "ja": "２階のアトリエから中庭へと<br>死体を落としたんだ。",
+      "zh": "然后从二楼的画室<br>\n把尸体抛到了中庭。",
+      "vi": "Sau đó từ studio trên tầng hai Thi thể bị ném vào tâm nhĩ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna007",
+      "speaker_tag": "; > Hanna: |#0202Trial10_Hanna007|",
+      "ja": "下に行って上に行って……！",
+      "zh": "这样跑上跑下的……！",
+      "vi": "Chạy lên chạy xuống như thế này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna008",
+      "speaker_tag": "; > Hanna: |#0202Trial10_Hanna008|",
+      "ja": "そんなの絶対時間が足りませんわ～！",
+      "zh": "时间肯定不够用呀～！",
+      "vi": "Chắc chắn là không đủ thời gian rồi~!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Sherry004",
+      "speaker_tag": "; > Sherry: |#0202Trial10_Sherry004|",
+      "ja": "ゴクチョーさんのアナウンスを聞いて<br>２階からも地下からも<br>階段付近を通った人がいるはずです。",
+      "zh": "大家都听到了典狱长的通知，<br>\n二楼、地下和楼梯附近<br>\n应该都有人经过。",
+      "vi": "Mọi người đã nghe thông báo của quản giáo, Ở tầng hai, dưới lòng đất và gần cầu thang Đáng lẽ ai đó phải đi ngang qua.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Sherry005",
+      "speaker_tag": "; > Sherry: |#0202Trial10_Sherry005|",
+      "ja": "私は地下から階段を上った時に、<br>洗濯物を拾い集めているハンナさんを捕まえました。",
+      "zh": "我从地下往楼上走的时候，<br>\n恰好抓到了正在收拾衣服的汉娜。",
+      "vi": "Khi tôi bước lên lầu từ tầng hầm, Tôi tình cờ bắt gặp Hanna đang thu dọn quần áo.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna009",
+      "speaker_tag": "; > Hanna: |#0202Trial10_Hanna009|",
+      "ja": "無理やり連れて行かれましたわ～！",
+      "zh": "然后被你强行带走了～！",
+      "vi": "Và sau đó bạn đã dùng vũ lực đưa Bổn tiểu thư đi ~!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Leia001",
+      "speaker_tag": "; > Leia: |#0202Trial10_Leia001|",
+      "ja": "ヒロくんがラウンジを通ったタイミングから言っても、<br>そこでぶつかっているハンナくんが<br>どこかに移動していた時間はなさそうだけどね。",
+      "zh": "从希罗经过会客厅的时间点来看，<br>\n当时她撞到你以后，<br>\n你应该没什么时间去别的地方。",
+      "vi": "Đánh giá từ lúc Anh hùng đi ngang qua phòng khách, Sau khi cô ấy va vào bạn, Bạn không nên có nhiều thời gian để đi bất cứ nơi nào khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna010",
+      "speaker_tag": "; > Hanna: |#0202Trial10_Hanna010|",
+      "ja": "わたくしアナウンスを聞くまで、<br>ヒロさんにぶちまけられた洗濯物を拾っていましたもの！",
+      "zh": "在听到通知之前，<br>\n我一直在收拾被希罗撞了一地的衣服！",
+      "vi": "Trước khi nghe thông báo, Bổn tiểu thư đang nhặt bộ quần áo mà Hiro đã làm rơi vãi khắp sàn!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna011",
+      "speaker_tag": "; > Hanna: |#0202Trial10_Hanna011|",
+      "ja": "むしろわたくしが無理だって意見が<br>直前に会ってるヒロさんから出てこないのが怪しいですわー！！",
+      "zh": "反倒是希罗很奇怪，<br>\n明明案发前刚刚遇到我，却不否定我的嫌疑！！",
+      "vi": "Ngược lại, Anh hùng lại rất kỳ lạ, Dù mới gặp Bổn tiểu thư trước khi xảy ra sự việc nhưng anh ấy vẫn không phủ nhận sự nghi ngờ của Bổn tiểu thư! !",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro011|",
+      "ja": "（……ハンナが犯人なら移動時間が短すぎるか）",
+      "zh": "（……如果汉娜是凶手，她能行动的时间太短了）",
+      "vi": "(…Nếu Hanna là kẻ giết người, thời gian hành động của cô ấy quá ngắn)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro012|",
+      "ja": "（他に犯行可能な者がいるとしたら……）",
+      "zh": "（要说还有谁可能犯罪的话……）",
+      "vi": "(Về việc ai khác có thể phạm tội...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro013|",
+      "ja": "（……この中に<br>　【アリバイを偽っている者】がいる……！）",
+      "zh": "（……这其中<br>\n有个人在【伪造不在场证明】……！）",
+      "vi": "(...Trong số đó Ai đó đang [giả mạo bằng chứng ngoại phạm]...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro014",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro014|",
+      "ja": "……いいや。<br>ハンナ以外にもアリバイがない人物はいる。",
+      "zh": "……不。<br>\n除汉娜以外，还有一个人没有不在场证明。",
+      "vi": "...không. Ngoài Hanna, còn có một người không có bằng chứng ngoại phạm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna012",
+      "speaker_tag": "; > Hanna: |#0202Trial10_Hanna012|",
+      "ja": "それは誰ですのー！？",
+      "zh": "那个人是谁！？",
+      "vi": "Người đó là ai! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro015",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro015|",
+      "ja": "他者からの目撃証言がない人物……それは。",
+      "zh": "那个缺少他人目击证词的人就是……",
+      "vi": "Người thiếu lời khai nhân chứng từ người khác là...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro016",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro016|",
+      "ja": "私だ。",
+      "zh": "我。",
+      "vi": "Tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Alisa002",
+      "speaker_tag": "; > Alisa: |#0202Trial10_Alisa002|",
+      "ja": "ここにきて自白か？",
+      "zh": "都走到这步了才招认？",
+      "vi": "Bạn đã đi xa đến mức này trước khi thú nhận?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hanna013",
+      "speaker_tag": "; > Hanna: |#0202Trial10_Hanna013|",
+      "ja": "これまでの話はいったいなんだったんですわー！？",
+      "zh": "那我们刚刚的讨论到底算什么啊！？",
+      "vi": "Vậy cuộc thảo luận chúng Bổn tiểu thư vừa có là gì? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro017",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro017|",
+      "ja": "（信用が落ちてしまった）",
+      "zh": "（我的信誉受损了）",
+      "vi": "(Lòng tin của tôi bị tổn hại)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro018",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro018|",
+      "ja": "（……アリバイが疑わしい人物を選び直そう）",
+      "zh": "（……重新提出不在场证明存疑的人选吧）",
+      "vi": "(…Hãy giới thiệu lại những ứng cử viên có bằng chứng ngoại phạm đáng nghi ngờ)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro019",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro019|",
+      "ja": "（アリバイとは、<br>　他者から証言してもらってはじめて成立するものだ）",
+      "zh": "（所谓不在场证明，<br>\n只有他人作证才能成立）",
+      "vi": "(Cái gọi là bằng chứng ngoại phạm, Điều này chỉ có thể được xác lập nếu người khác làm chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro020",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro020|",
+      "ja": "（だがこの中には……<br>　事件当時、誰からも目撃されていない人物がいる）",
+      "zh": "（然而在所有人当中……<br>\n有个人在案发时没有被任何人目击到）",
+      "vi": "(Tuy nhiên trong số tất cả mọi người... Có một người không được ai chứng kiến vào thời điểm xảy ra vụ án)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro021",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro021|",
+      "ja": "エマ……<br>やっぱり君がシャワー室から引き上げて殺したんだ！",
+      "zh": "艾玛……<br>\n是你把她从淋浴房拉上去杀死的！",
+      "vi": "Ema... Anh kéo cô ấy ra khỏi phòng tắm và giết cô ấy!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Ema003",
+      "speaker_tag": "; > Ema: |#0202Trial10_Ema003|",
+      "ja": "ヒロちゃん、さっきからどうしたの……？<br>やっぱり何かおかしいよ……！",
+      "zh": "希罗，你这是怎么了……？<br>\n真的很不对劲……！",
+      "vi": "Hiro, cậu bị sao vậy...? Có gì đó thật sự không ổn...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_AnAn002",
+      "speaker_tag": "; > AnAn: |#0202Trial10_AnAn002|",
+      "ja": "支離滅裂だ。",
+      "zh": "语无伦次。",
+      "vi": "Không mạch lạc.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_AnAn003",
+      "speaker_tag": "; > AnAn: |#0202Trial10_AnAn003|",
+      "ja": "魔女化が進んでいるのではないか？",
+      "zh": "莫不是魔女化加深了吧？",
+      "vi": "Chẳng lẽ sự biến đổi thành phù thủy của cô ấy đã ngày càng sâu sắc?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Sherry006",
+      "speaker_tag": "; > Sherry: |#0202Trial10_Sherry006|",
+      "ja": "だとしたら、暴れ出す前に捕まえちゃいましょう！",
+      "zh": "如果真是那样，要趁你还没有失控赶紧抓住你！",
+      "vi": "Nếu đúng như vậy, tôi sẽ bắt được bạn trước khi bạn mất kiểm soát!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro022",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro022|",
+      "ja": "（くっ……！ 冷静になれ！）",
+      "zh": "（可恶……！冷静点！）",
+      "vi": "(Chết tiệt...! Bình tĩnh đi!)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro023",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro023|",
+      "ja": "（……アリバイが疑わしい人物を選び直そう）",
+      "zh": "（……重新提出不在场证明存疑的人选吧）",
+      "vi": "(…Hãy giới thiệu lại những ứng cử viên có bằng chứng ngoại phạm đáng nghi ngờ)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro024",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro024|",
+      "ja": "（アリバイとは、<br>　他者から証言してもらってはじめて成立するものだ）",
+      "zh": "（所谓不在场证明，<br>\n只有他人作证才能成立）",
+      "vi": "(Cái gọi là bằng chứng ngoại phạm, Điều này chỉ có thể được xác lập nếu người khác làm chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro025",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro025|",
+      "ja": "（だがこの中には……<br>　事件当時、誰からも目撃されていない人物がいる）",
+      "zh": "（然而在所有人当中……<br>\n有个人在案发时没有被任何人目击到）",
+      "vi": "(Tuy nhiên trong số tất cả mọi người... Có một người không được ai chứng kiến vào thời điểm xảy ra vụ án)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Ema004",
+      "speaker_tag": "; > Ema: |#0202Trial10_Ema004|",
+      "ja": "ヒロちゃん……<br>その人のアリバイは証明されてるんじゃないかな……？",
+      "zh": "希罗……<br>\n这个人的不在场证明是成立的吧……？",
+      "vi": "Anh hùng...... Bằng chứng ngoại phạm của người này đã được xác lập, phải không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro026",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro026|",
+      "ja": "（……アリバイが疑わしい人物を選び直そう）",
+      "zh": "（……重新提出不在场证明存疑的人选吧）",
+      "vi": "(…Hãy giới thiệu lại những ứng cử viên có bằng chứng ngoại phạm đáng nghi ngờ)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro027",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro027|",
+      "ja": "（アリバイとは、<br>　他者から証言してもらってはじめて成立するものだ）",
+      "zh": "（所谓不在场证明，<br>\n只有他人作证才能成立）",
+      "vi": "(Cái gọi là bằng chứng ngoại phạm, Điều này chỉ có thể được xác lập nếu người khác làm chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro028",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro028|",
+      "ja": "（だがこの中には……<br>　事件当時、誰からも目撃されていない人物がいる）",
+      "zh": "（然而在所有人当中……<br>\n有个人在案发时没有被任何人目击到）",
+      "vi": "(Tuy nhiên trong số tất cả mọi người... Có một người không được ai chứng kiến vào thời điểm xảy ra vụ án)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro029",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro029|",
+      "ja": "……ナノカ。君だ。",
+      "zh": "……是你，奈叶香。",
+      "vi": "...Là em đây, Nanoha.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0202Trial10_Nanoka002|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro030",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro030|",
+      "ja": "君の証言はあくまでも君からの一方的な目撃証言だ。",
+      "zh": "你的证词不过是你单方面的目击证词。",
+      "vi": "Lời khai của bạn không gì khác hơn là lời khai của nhân chứng một chiều.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro031",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro031|",
+      "ja": "ラウンジにいたレイアとアンアンを見ていたという主張は、<br>君のアリバイを証明するものではない……。",
+      "zh": "看到蕾雅和安安在会客厅里的证词<br>\n并不能证明你不在案发现场……",
+      "vi": "Nhìn thấy lời khai của Leya và AnAn trong phòng khách Nó không chứng minh rằng bạn không có mặt ở hiện trường vụ án...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro032",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro032|",
+      "ja": "他の人物には何かしらのアリバイを証明する人物がいる。",
+      "zh": "其他人都有别人证明其不在场。",
+      "vi": "Mọi người đều có người khác chứng minh sự vắng mặt của họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro033",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro033|",
+      "ja": "ならエマか私が嘘をついているか……。",
+      "zh": "所以，要么是我或者艾玛在说谎……",
+      "vi": "Vậy là tôi hoặc Ema đang nói dối...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro034",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro034|",
+      "ja": "……もしくは、ナノカ。<br>君が嘘をついているか。<br>そのどれかだ。",
+      "zh": "……要么是你，奈叶香。<br>\n是你在说谎。<br>\n只有这两种可能。",
+      "vi": "...Hoặc là bạn, Nanoyaka. Chính bạn là người đang nói dối. Chỉ có hai khả năng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0202Trial10_Nanoka003|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro035",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro035|",
+      "ja": "そもそもの話……。",
+      "zh": "更何况……",
+      "vi": "Hơn nữa...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro036",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro036|",
+      "ja": "ノアのアトリエと焼却炉を繋ぐロープがあったとしても、<br>犯人は事前にそれを知っていなければ<br>迅速に動くことはできなかった。",
+      "zh": "就算有绳子连通着诺亚的画室和焚烧炉，<br>\n如果凶手事先不知道这件事<br>\n就不可能迅速行动。",
+      "vi": "Ngay cả khi có sợi dây nối Xưởng Vẽ của Nô-ê và lò đốt rác, Nếu kẻ sát nhân không biết trước chuyện đó Sẽ không thể hành động nhanh chóng được.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro037",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro037|",
+      "ja": "時間に猶予なんてなかったんだからね。",
+      "zh": "因为时间非常紧张。",
+      "vi": "Bởi vì thời gian rất eo hẹp.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Hiro038",
+      "speaker_tag": "; > Hiro: |#0202Trial10_Hiro038|",
+      "ja": "そうなれば必然、<br>事前にロープを繋げていた人物が怪しくなるのは当然だ。",
+      "zh": "这样一来，<br>\n事先绑好绳子的人自然更加可疑。",
+      "vi": "Bằng cách này, Những người đã buộc dây từ trước đương nhiên sẽ nghi ngờ hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0202Trial10_Nanoka004|",
+      "ja": "……そう。<br>それがあなたの意見なのね。",
+      "zh": "……哦。<br>\n这就是你的观点啊。",
+      "vi": "...Ồ. Đây là quan điểm của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0202Trial10_Nanoka005|",
+      "ja": "なら、あらためて証言するわ。",
+      "zh": "那么，我重新作证。",
+      "vi": "Sau đó tôi sẽ làm chứng lần nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial10_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0202Trial10_Nanoka006|",
+      "ja": "……私が当時、ラウンジにいたということを。",
+      "zh": "……我当时就在会客厅里。",
+      "vi": "...Lúc đó tôi đang ở trong phòng khách.",
+      "objection_links": []
+    }
+  ]
+}

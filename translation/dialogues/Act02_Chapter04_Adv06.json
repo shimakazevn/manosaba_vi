@@ -1,0 +1,352 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Adv06",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Adv06' Naninovel scenario script",
+  "total_entries": 43,
+  "entries": [
+    {
+      "id": "0204Adv06_Narrative001",
+      "speaker_tag": "",
+      "ja": "私がレイアと共にやってきたのは、<br>牢屋敷から少し離れた塀の前だった。",
+      "zh": "我和蕾雅来到了一处<br>\n离监牢不远的围墙前。",
+      "vi": "Leya và tôi đã đến một nơi Trước bức tường cách Ngục Dinh Thự không xa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative002",
+      "speaker_tag": "",
+      "ja": "外に出て周辺を歩き回っていたら、<br>偶然アリサの姿を目撃したのだ。",
+      "zh": "这是因为我们走到监牢外，在附近四处走动时，<br>\n偶然发现了亚里沙的身影。",
+      "vi": "Đó là vì khi chúng tôi đi bộ ra ngoài Ngục Dinh Thự và đi dạo quanh khu vực lân cận, Tôi vô tình phát hiện ra hình bóng của Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative003",
+      "speaker_tag": "",
+      "ja": "私たちはアリサを追うように、<br>塀の前にやってきた。",
+      "zh": "我们一路跟着亚里沙，<br>\n才来到了围墙前。",
+      "vi": "Chúng tôi đã theo Alisa suốt chặng đường, Chỉ khi đó chúng tôi mới đến trước bức tường.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Leia001",
+      "speaker_tag": "; > Leia: |#0204Adv06_Leia001|",
+      "ja": "やあアリサくん。ここで何をしているんだい？",
+      "zh": "嗨，亚里沙。你在这里做什么呢？",
+      "vi": "Chào Alisa. Bạn đang làm gì ở đây?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa001",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa001|",
+      "ja": "おめえらかよ……。<br>別におめえらにカンケーねえだろ。",
+      "zh": "是你们啊……<br>\n关你们什么事？",
+      "vi": "Chính là mày... Nó có liên quan gì đến mày?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Adv06_Hiro001|",
+      "ja": "そうだな関係ない。<br>私たちは私たちでゴクチョーを探しているだけだ。",
+      "zh": "确实无关。<br>\n我们有我们的事要做，现在只是在找典狱长而已。",
+      "vi": "Nó thực sự không quan trọng. Chúng tôi có việc phải làm, giờ chúng tôi chỉ đang tìm quản giáo.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Leia002",
+      "speaker_tag": "; > Leia: |#0204Adv06_Leia002|",
+      "ja": "アリサくんはゴクチョーを見なかったかい？",
+      "zh": "亚里沙有看到典狱长吗？",
+      "vi": "Alisa có thấy cai ngục không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa002",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa002|",
+      "ja": "ゴクチョーか……いや今日は見てねえな。<br>もう少し遠くに行ったら、<br>ゴクチョーによく似た鳥が飛び回ってるけどな。",
+      "zh": "典狱长啊……今天没见到。<br>\n不过再往远处走一点，<br>\n能看到很多长得很像它的鸟在飞来飞去。",
+      "vi": "Quản giáo... Hôm nay Tao không gặp mày ấy. Nhưng hãy tiến xa hơn một chút, Bạn có thể thấy nhiều loài chim trông giống như đang bay xung quanh.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa003",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa003|",
+      "ja": "あいつらは監視の役目があるみてえだが、<br>話は通じねえ。",
+      "zh": "那些家伙好像是负责监视，<br>\n但完全听不懂人话。",
+      "vi": "Những kẻ đó có vẻ chịu trách nhiệm giám sát, Nhưng Tao hoàn toàn không hiểu được ngôn ngữ của con người.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Adv06_Hiro002|",
+      "ja": "そうなのか。どうやって確認した？",
+      "zh": "这样啊。你是怎么发现的？",
+      "vi": "Thế thôi. Làm thế nào bạn tìm ra?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa004",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa004|",
+      "ja": "……むしゃくしゃしてて、<br>炎をぶつけて落下させたんだよ。",
+      "zh": "……我烦躁得要死，<br>\n就朝它们丢火焰，把它们打下来了。",
+      "vi": "…Tao bực Tao quá, Anh ta ném lửa vào họ và hạ gục họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Adv06_Hiro003|",
+      "ja": "（また過激なことを……<br>　アリサもずいぶん追い詰められ、<br>　消耗しているようだな……）",
+      "zh": "（又是这么激进的做法……<br>\n看来亚里沙也已经被逼到绝境，<br>\n身心俱疲了……）",
+      "vi": "(Lại là một cách tiếp cận triệt để như vậy... Có vẻ như Alisa cũng đã bị đẩy vào tình thế tuyệt vọng, Tôi kiệt sức cả về thể xác lẫn tinh thần...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa005",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa005|",
+      "ja": "ああクソ、この塀さえ登れりゃあな。",
+      "zh": "啊啊，可恶，要是能爬上这堵墙就好了。",
+      "vi": "Ah, chết tiệt, ước gì Tao có thể trèo được bức tường này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative004",
+      "speaker_tag": "",
+      "ja": "思わずといった風に、<br>塀を<ruby=\"あお\">仰</ruby>いでアリサがぼやいた。",
+      "zh": "亚里沙仰望着围墙，<br>\n无意识地念叨着。",
+      "vi": "Alisa nhìn lên tường, Lẩm bẩm trong vô thức.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Adv06_Hiro004|",
+      "ja": "なるほど。君は脱出方法を探しているのか。",
+      "zh": "原来如此。你是在寻找逃出去的方法？",
+      "vi": "Thế thôi. Bạn đang tìm cách trốn thoát?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa006",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa006|",
+      "ja": "あたりめえだろ。<br>ウチは初日からずっと探してる。<br>こんなとこ出ないと頭おかしくなるだろうが。",
+      "zh": "废话。<br>\n我可是从第一天开始就在想办法。<br>\n不赶紧离开这破地方，迟早要疯掉。",
+      "vi": "Vô nghĩa. Tao đã suy nghĩ về nó kể từ ngày đầu tiên. Nếu không nhanh chóng rời khỏi nơi khốn khổ này, sớm muộn gì mày cũng sẽ phát điên.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa007",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa007|",
+      "ja": "この塀だって、何度も登ろうとした。<br>でもどんな手段使っても、途中で落とされんだよ。",
+      "zh": "这堵墙，我已经试着爬过无数次了。<br>\n但无论用什么方法，都会在半途被某种力量摔下来。",
+      "vi": "Tao đã cố gắng trèo lên bức tường này vô số lần. Nhưng cho dù mày sử dụng phương pháp nào, mày cũng sẽ bị một lực nào đó ném xuống giữa chừng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative005",
+      "speaker_tag": "",
+      "ja": "私は塀にそっと触れてみた。",
+      "zh": "我轻轻触碰围墙。",
+      "vi": "Tôi chạm nhẹ vào tường.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Adv06_Hiro005|",
+      "ja": "（何か魔法のようなものがかけられているのだろうか）",
+      "zh": "（难道被施加了某种魔法？）",
+      "vi": "(Đó có phải là một loại phép thuật nào đó không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa008",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa008|",
+      "ja": "早く出ねえと……もうウチは、<br>間に合わなくなりそうなんだよ……。",
+      "zh": "要是再出不去……我可能，<br>\n就来不及了……",
+      "vi": "Nếu Tao không thể thoát ra được nữa... Tao có thể, Đã quá muộn...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Adv06_Hiro006|",
+      "ja": "間に合わない、とは？",
+      "zh": "来不及了，是指？",
+      "vi": "Ý bạn là quá muộn phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa009",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa009|",
+      "ja": "……魔女化。",
+      "zh": "……魔女化。",
+      "vi": "……Ma Nữ Hóa。",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative006",
+      "speaker_tag": "",
+      "ja": "アリサがぽつりと<ruby=\"つむ\">紡</ruby>いだ言葉に、<br>私は想像以上に動揺し、ぎくりと体を強張らせてしまった。",
+      "zh": "亚里沙低声吐出的单词，<br>\n超出我的预料，让我不禁震惊得绷紧了身体。",
+      "vi": "Từ Alisa thì thầm, Nó vượt quá sự mong đợi của tôi và khiến tôi căng thẳng vì sốc.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa010",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa010|",
+      "ja": "自分でわかんだよ。<br>ウチはもう魔女化が進みはじめてる。",
+      "zh": "我自己清楚。<br>\n我已经开始魔女化了。",
+      "vi": "Tao biết điều đó. Tao đã bắt đầu trở thành phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa011",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa011|",
+      "ja": "魔女化が進むと殺人衝動が起こる？<br>最初はそんな話、アホらしいと思ってた。",
+      "zh": "魔女化程度加深后会产生杀人冲动？<br>\n一开始我也觉得这很荒谬。",
+      "vi": "Liệu mày có nảy sinh xung lực giết người sau khi trở thành phù thủy không? Lúc đầu Tao cũng nghĩ điều này thật buồn cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa012",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa012|",
+      "ja": "でもこうも苦しい日が続いてると、<br>誰かと目が合った時に思うんだ。ああ、殺そう……って。<br>近いうちに、ウチはいつか、ウチじゃなくなる……。",
+      "zh": "但是，在这里每天都这么痛苦，有时和别人一不小心对上眼，<br>\n就忍不住想：“啊，干脆杀了她吧”……什么的。<br>\n也许过不了多久，我就再也不能维持自我了……",
+      "vi": "Tuy nhiên, ở đây mỗi ngày đều rất đau đớn. Đôi khi Tao vô tình bắt gặp ánh mắt của ai đó, Tao không khỏi nghĩ: \"À, giết mày ta đi\"... hay gì đó. Có lẽ chẳng bao lâu nữa Tao sẽ không còn giữ được bản thân Tao nữa…",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa013",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa013|",
+      "ja": "だからまあ、<br>ウチのそばにはあんま近寄らねえことだな。<br>誰に殺意が向くかもうわかんねえから。",
+      "zh": "所以啊，<br>\n你们最好别太靠近我。<br>\n我已经不知道自己会对谁产生杀意了。",
+      "vi": "Vì vậy, Tốt nhất là mày đừng đến quá gần Tao. Tao không biết Tao sẽ giết ai nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Leia003",
+      "speaker_tag": "; > Leia: |#0204Adv06_Leia003|",
+      "ja": "アリサくん……少なくとも私は<br>キミがそんなことを望んでないと、<br>知っているよ。",
+      "zh": "亚里沙……至少我知道，<br>\n你并不希望发生这种事。<br>",
+      "vi": "Alisa...ít nhất là tôi biết, Bạn không muốn điều này xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa014",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa014|",
+      "ja": "ハッ、おめえらの言うことは<br>いちいち嘘くせえんだよ。",
+      "zh": "哈，你们嘴里说出来的话，<br>\n真是句句都那么虚伪。",
+      "vi": "Ha, điều gì phát ra từ miệng mày thế, Từng lời nói đều rất đạo đức giả.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa015",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa015|",
+      "ja": "蓮見、二階堂、おめえらはウチが大嫌いなタイプだ。<br>だからウチが魔女化したら、<br>最初におめえらに殺意が向くだろうな。",
+      "zh": "莲见、二阶堂。我最讨厌你们这种人了。<br>\n所以如果我真的成为魔女，<br>\n第一个要杀的就是你们吧。",
+      "vi": "Hasumi, Nikaido. Tao ghét nhất những người như mày. Vì vậy nếu Tao thực sự trở thành phù thủy, Bạn nên là người đầu tiên bị giết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Alisa016",
+      "speaker_tag": "; > Alisa: |#0204Adv06_Alisa016|",
+      "ja": "さっさと消えろよ。",
+      "zh": "快滚！",
+      "vi": "Ra ngoài đi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Adv06_Hiro007|",
+      "ja": "……レイア、行こう。",
+      "zh": "……蕾雅，我们走吧。",
+      "vi": "...Leya, đi thôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative007",
+      "speaker_tag": "",
+      "ja": "私は静かに言い放ち、レイアを<ruby=\"うなが\">促</ruby>す。<br>腹が立ったわけではない。",
+      "zh": "我用平静的声音催促蕾雅。<br>\n我并没有感到愤怒。",
+      "vi": "Tôi thúc giục Leya bằng giọng bình tĩnh. Tôi không cảm thấy tức giận.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative008",
+      "speaker_tag": "",
+      "ja": "レイアの言う通り、アリサは危害を加えることを望んでいない。<br>だからこそ私たちを遠ざけたいという気持ちを、<br><ruby=\"く\">汲</ruby>んでやるべきだと思った。",
+      "zh": "正如蕾雅所说，亚里沙不想伤害他人。<br>\n正因如此，才希望我们疏远她，<br>\n我们应该尊重她这份心意。",
+      "vi": "Như Leia đã nói, Alisa không muốn làm tổn thương người khác. Đó là lý do tại sao chúng tôi mong mình tránh xa cô ấy, Chúng ta nên tôn trọng ý định của cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Leia004",
+      "speaker_tag": "; > Leia: |#0204Adv06_Leia004|",
+      "ja": "アリサくんは、本当は優しいのかもしれないね。",
+      "zh": "或许，亚里沙其实是个心地善良的人呢……",
+      "vi": "Có lẽ Alisa thực sự là một người tốt bụng…",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Adv06_Hiro008|",
+      "ja": "今さら気付いたのか？",
+      "zh": "现在才发现吗？",
+      "vi": "Bây giờ bạn mới phát hiện ra phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Hiro009",
+      "speaker_tag": "; > Hiro: |#0204Adv06_Hiro009|",
+      "ja": "（……アリサだけじゃない。<br>　私たちは、誰も殺人など望んでいない）",
+      "zh": "（……不只是亚里沙。<br>\n我们之中的每一个人，都不想杀人）",
+      "vi": "(…Không chỉ có Alisa. Không ai trong chúng tôi muốn giết ai cả)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative009",
+      "speaker_tag": "",
+      "ja": "昨日集まって楽しく盛り上がったことを思い出してしまい、<br>胸が余計に辛くなる。",
+      "zh": "回想起昨天大家快乐玩耍的场面，<br>\n胸口更觉沉重。",
+      "vi": "Nhớ lại cảnh mọi người vui vẻ hôm qua, Ngực tôi thậm chí còn cảm thấy nặng nề hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Hiro010",
+      "speaker_tag": "; > Hiro: |#0204Adv06_Hiro010|",
+      "ja": "（殺し合うのも、魔女だと糾弾し合うのも、<br>　望んでなんかいない）",
+      "zh": "（无论是互相残杀，还是彼此指控其他人是魔女，<br>\n都不是我们心中所愿）",
+      "vi": "(Dù là giết nhau hay buộc tội nhau là phù thủy, Đó không phải là điều chúng ta muốn)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative010",
+      "speaker_tag": "",
+      "ja": "それなのに――いずれその【時】が訪れてしまう。",
+      "zh": "然而——那个【时刻】终会到来。",
+      "vi": "Tuy nhiên——[khoảnh khắc] đó cuối cùng cũng sẽ đến.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative011",
+      "speaker_tag": "",
+      "ja": "私たちはただ、その【時】に<ruby=\"おび\">怯</ruby>えながら、<br><ruby=\"あらが\">抗</ruby>いながら、迷いながら、<br><ruby=\"しゅくしゅく\">粛々</ruby>と過ごすことしかできない。",
+      "zh": "直到那个【时刻】降临，<br>\n我们只能恐惧着，抗争着，迷茫着，<br>\n静肃等待生命流逝到尽头。",
+      "vi": "Cho đến khi [khoảnh khắc] đó đến, Chúng ta chỉ có thể sợ hãi, đấu tranh và bối rối, Im lặng chờ đợi cuộc đời đi đến hồi kết.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative012",
+      "speaker_tag": "",
+      "ja": "私は拳を握りしめて先を歩き出す。",
+      "zh": "我握紧拳头，迈步向前。",
+      "vi": "Tôi nắm chặt tay và bước về phía trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv06_Narrative013",
+      "speaker_tag": "",
+      "ja": "爪を隠すために、ぎゅっと、固く。",
+      "zh": "为了藏起指甲，我唯有把拳头越攥越紧。",
+      "vi": "Để giấu móng tay, tôi siết chặt nắm tay của mình ngày càng chặt hơn.",
+      "objection_links": []
+    }
+  ]
+}

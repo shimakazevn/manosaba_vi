@@ -1,0 +1,718 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Trial12",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Trial12' Naninovel scenario script",
+  "total_entries": 88,
+  "entries": [
+    {
+      "id": "0202Trial12_Miria001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial12_Miria001|",
+      "ja": "ヒロちゃんは<br>シャワールームが<br>防音だって<br>言ってたけど……。",
+      "zh": "小希你说<br>\n淋浴房<br>\n是隔音的……<br>",
+      "vi": "Tiểu Hi, bạn đã nói Phòng tắm Nó cách âm...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial12_Miria002|",
+      "ja": "そんなことないんじゃ<br>ないかな……！？",
+      "zh": "但其实<br>\n不是这样的吧……！？",
+      "vi": "Nhưng trên thực tế Không phải vậy đâu...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial12_Miria003|",
+      "ja": "だってエマちゃんは<br>シャワールームの中で<br><link=\"Objection_02_02_12_01\">銃声</link>を聞いたんだよね？",
+      "zh": "艾玛不是<br>\n在淋浴房里<br>\n听见了<link=\"Objection_02_02_12_01\">枪声</link>吗？",
+      "vi": "Ema không phải Trong phòng tắm Bạn có nghe thấy <link=\"Objection_02_02_12_01\"> tiếng súng </link> không?",
+      "objection_links": [
+        "Objection_02_02_12_01"
+      ]
+    },
+    {
+      "id": "0202Trial12_Miria004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial12_Miria004|",
+      "ja": "それじゃ、<br><link=\"Objection_02_02_12_02\">全然防音じゃない</link>よ……！",
+      "zh": "这根本<br>\n<link=\"Objection_02_02_12_02\">不隔音</link>嘛……！",
+      "vi": "Đây chỉ đơn giản là <link=\"Objection_02_02_12_02\">Không cách âm</link>Chà...!",
+      "objection_links": [
+        "Objection_02_02_12_02"
+      ]
+    },
+    {
+      "id": "0202Trial12_Hiro001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial12_Hiro001|",
+      "ja": "……銃が撃たれた場所を<br>考えれば<br>その答えは明白だ。",
+      "zh": "……想一想可可是在哪里<br>\n中枪的，<br>\n就该知道答案了。",
+      "vi": "...Hãy nghĩ xem Coco ở đâu Bị bắn, Đã đến lúc biết câu trả lời.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial12_Hiro002|",
+      "ja": "ココは焼却炉で殺された……。",
+      "zh": "可可是在焚烧炉被杀的……",
+      "vi": "Coco đã bị giết trong lò đốt rác...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0202Trial12_Hiro003|",
+      "ja": "つまり、<br>ダストシュートを通じて<br>音はシャワールームまで<br>反響していたんだ。",
+      "zh": "所以<br>\n声音顺着垃圾滑槽<br>\n传到了<br>\n淋浴房里面。",
+      "vi": "Vậy Âm thanh đi xuống máng rác Đã chuyển tới Bên trong phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial12_Miria005|",
+      "ja": "そ、そんな……！",
+      "zh": "怎、怎么会……！",
+      "vi": "Làm sao, làm sao có thể...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial12_Miria006|",
+      "ja": "で、でも……<br>ナノカちゃんは<br>レイアちゃんや<br>アンアンちゃんの言葉も<br>言い当ててたよね！？",
+      "zh": "可、可是……<br>\n小奈她<br>\n不是说中了<br>\n小蕾和安安的<br>\n对话吗！？",
+      "vi": "Nhưng, nhưng... Tiểu Nại Không phải là Miria đánh Tiểu Lôi và AnAn Có một cuộc trò chuyện! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial12_Miria007|",
+      "ja": "<link=\"Objection_02_02_12_03\">実際に聞いてる</link>んだから、<br>事件が起こったとき<br>ナノカちゃんは<br>ラウンジにいたんじゃ<br>ないかな！？",
+      "zh": "这是她<link=\"Objection_02_02_12_03\">现场听到的</link>，<br>\n所以案发当时<br>\n她应该在<br>\n会客厅里<br>\n才对吧！？",
+      "vi": "Đây là những gì cô ấy <link=\"Objection_02_02_12_03\"> đã nghe trực tiếp </link>, Vì vậy tại thời điểm xảy ra sự cố Cô ấy lẽ ra phải ở Trong phòng khách Đúng vậy! ?",
+      "objection_links": [
+        "Objection_02_02_12_03"
+      ]
+    },
+    {
+      "id": "0202Trial12_Miria008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial12_Miria008|",
+      "ja": "正直ナノカちゃんが<br>犯人なのかどうかは<br>おじさんには<br>わからないけど……。",
+      "zh": "说真的，<br>\n大叔我也<br>\n不知道<br>\n小奈是不是凶手……",
+      "vi": "Nghiêm túc mà nói, Bác ơi, cháu cũng Không biết Tiêu Nại có phải là kẻ giết người...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria009",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0202Trial12_Miria009|",
+      "ja": "でもやっぱり……<br>明確な証拠もないのに<br>疑うのは良くないよ！",
+      "zh": "但我还是觉得……<br>\n没有确凿的证据<br>\n就怀疑别人是不对的！",
+      "vi": "Nhưng Miria vẫn cảm thấy... Không có bằng chứng thuyết phục Nghi ngờ người khác là sai lầm!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro004|",
+      "ja": "（たしかに証拠はない……）",
+      "zh": "（我确实没有证据……）",
+      "vi": "(Tôi thực sự không có bằng chứng...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro005|",
+      "ja": "（けれど……だからといって<br>　ロープの存在を隠していたナノカが<br>　疑わしくないわけではない……！）",
+      "zh": "（但……即便如此，<br>\n刻意隐瞒那根绳子的奈叶香<br>\n依然很可疑……！）",
+      "vi": "(Nhưng... dù vậy, Nanoyaka cố tình giấu sợi dây Vẫn còn rất đáng nghi...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro006|",
+      "ja": "（【殺人を犯した人物を見つける】……！<br>　それこそが正しい道だ……！）",
+      "zh": "（【一定要找到杀人凶手】……！<br>\n这才是唯一正确的出路……！）",
+      "vi": "([Phải tìm ra kẻ sát nhân]...! Đây là lối thoát đúng đắn duy nhất...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Choice001",
+      "speaker_tag": "; > @choice |#0202Trial12_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "雷鳴の音だった",
+      "zh": "那是雷声",
+      "vi": "Đó là sấm sét",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Choice002",
+      "speaker_tag": "; > @choice |#0202Trial12_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "小さな声なら外には漏れない",
+      "zh": "轻微的声音传不到外面的",
+      "vi": "Không thể nghe thấy âm thanh nhỏ bên ngoài",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Choice003",
+      "speaker_tag": "; > @choice |#0202Trial12_Choice003| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "予想できた",
+      "zh": "她猜中了",
+      "vi": "Cô đã đoán đúng",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Choice004",
+      "speaker_tag": "; > @choice |#0202Trial12_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "盗聴していた",
+      "zh": "她偷听了",
+      "vi": "cô ấy đã nghe lén",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Choice005",
+      "speaker_tag": "; > @choice |#0202Trial12_Choice005| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "魔法を使った",
+      "zh": "她使用了魔法",
+      "vi": "cô ấy đã sử dụng phép thuật",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro007|",
+      "ja": "エマが聞いたという音が<br>銃声とは限らない。",
+      "zh": "艾玛听见的声音<br>\n不一定就是枪声。",
+      "vi": "Âm thanh Ema nghe thấy Nó không nhất thiết phải là tiếng súng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro008|",
+      "ja": "銃声よりも大きな音――<br>当時鳴り響いていた【雷鳴の音】が<br>シャワールームにも届いたんだよ。",
+      "zh": "比枪声还大的声音——<br>\n当时响彻天际的【雷声】<br>\n也传到了淋浴房里。",
+      "vi": "Một âm thanh to hơn tiếng súng—— [Sấm sét] vang vọng khắp bầu trời vào lúc đó Nó cũng lan sang phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria010",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria010|",
+      "ja": "そ、それってどちらにせよ<br>防音は完全じゃないってことじゃないかな……！？",
+      "zh": "不、不管怎么说，<br>\n都证明淋浴房并不是完全隔音的吧……！？",
+      "vi": "Không, dù thế nào đi nữa, Tất cả đều chứng minh phòng tắm không cách âm hoàn toàn...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria011",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria011|",
+      "ja": "そのあたりを検証しないまま<br>ナノカちゃんを疑うのは可哀想だよ……！",
+      "zh": "怎么能不验证这点就怀疑小奈，<br>\n人家也太可怜了……！",
+      "vi": "Không xác minh chuyện này thì sao có thể nghi ngờ Tiêu Nại, Họ thật đáng thương...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria012",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria012|",
+      "ja": "十分な証拠もないのに疑うなんて、<br>良くないよ！",
+      "zh": "没有确凿的证据就怀疑别人<br>\n是不对的！",
+      "vi": "Nghi ngờ người khác mà không có bằng chứng chắc chắn Sai rồi!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro009|",
+      "ja": "（……ミリアの意見も、<br>　正しく犯人を暴くために必要なことだ）",
+      "zh": "（……为了揭露真正的凶手，<br>\n米莉亚的意见确实是不可或缺的）",
+      "vi": "(…Để tiết lộ kẻ sát nhân thực sự, Ý kiến của Miria thực sự là không thể thiếu)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro010|",
+      "ja": "（だが、シャワールームの防音状況よりも<br>　解かなければならない謎がある――）",
+      "zh": "（然而，比起淋浴房的隔音情况<br>\n还有个更加急需解开的谜题——）",
+      "vi": "(Tuy nhiên, so với khả năng cách âm của phòng tắm Có một bí ẩn khác cần được giải đáp gấp rút hơn nữa——)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro011|",
+      "ja": "（ナノカがどのようにして<br>　ラウンジの状況を知ったのかということだ……）",
+      "zh": "（那就是奈叶香<br>\n是如何得知会客厅情况的……）",
+      "vi": "(Đó là Nanoyaka Làm thế nào bạn biết được tình hình trong phòng khách...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro012|",
+      "ja": "（これまでの積み重ねた情報がきっと答えを教えてくれる。<br>　……魔女図鑑を確認してみよう）",
+      "zh": "（目前积累的情报一定可以给我答案。<br>\n……确认一下魔女图鉴吧）",
+      "vi": "(Thông tin tích lũy được cho đến nay chắc chắn có thể cho tôi câu trả lời. ...Kiểm tra cuốn sách minh họa phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro013|",
+      "ja": "銃声よりも小さな音――<br>会話の声なら外には漏れなくても不思議ではない。",
+      "zh": "谈话声比枪声要小得多，<br>\n即便传不到外面也很正常。",
+      "vi": "Âm thanh trò chuyện nhỏ hơn nhiều so với tiếng súng, Dù không thể truyền ra ngoài nhưng đó là chuyện bình thường.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria013",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria013|",
+      "ja": "そ、それだって単なる憶測だよね……？",
+      "zh": "这、这只是你的揣测吧……？",
+      "vi": "Đây chỉ là suy đoán của bạn thôi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria014",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria014|",
+      "ja": "地下の銃声に……<br>ラウンジの子たちは気付いてなかった。",
+      "zh": "会客厅里的女孩们好像都没听见<br>\n地下的枪声……",
+      "vi": "Các cô gái trong phòng khách dường như không nghe thấy Tiếng súng dưới lòng đất...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria015",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria015|",
+      "ja": "シャワールームの会話だって<br>少しぐらい漏れてる可能性はあるよね……？",
+      "zh": "那淋浴房的谈话声<br>\n稍微传出来一点也是有可能的吧……？",
+      "vi": "Cuộc trò chuyện trong phòng tắm Có thể nó sẽ lan rộng một chút, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria016",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria016|",
+      "ja": "決めつけるのはよくないんじゃないかな！",
+      "zh": "没有证据就擅自断定，真的很不好！",
+      "vi": "Thật tệ khi đưa ra kết luận tùy tiện mà không có bằng chứng!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro014",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro014|",
+      "ja": "（……ミリアの意見も、<br>　正しく犯人を暴くために必要なことだ）",
+      "zh": "（……为了揭露真正的凶手，<br>\n米莉亚的意见确实是不可或缺的）",
+      "vi": "(…Để tiết lộ kẻ sát nhân thực sự, Ý kiến của Miria thực sự là không thể thiếu)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro015",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro015|",
+      "ja": "（だが、シャワールームの防音状況よりも<br>　解かなければならない謎がある――）",
+      "zh": "（然而，比起淋浴房的隔音情况<br>\n还有个更加急需解开的谜题——）",
+      "vi": "(Tuy nhiên, so với khả năng cách âm của phòng tắm Có một bí ẩn khác cần được giải đáp gấp rút hơn nữa——)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro016",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro016|",
+      "ja": "（ナノカがどのようにして<br>　ラウンジの状況を知ったのかということだ……）",
+      "zh": "（那就是奈叶香<br>\n是如何得知会客厅情况的……）",
+      "vi": "(Đó là Nanoyaka Làm thế nào bạn biết được tình hình trong phòng khách...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro017",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro017|",
+      "ja": "（これまでの積み重ねた情報がきっと答えを教えてくれる……<br>　魔女図鑑を確認してみよう）",
+      "zh": "（目前积累的情报一定可以给我答案……<br>\n确认一下魔女图鉴吧）",
+      "vi": "(Thông tin tích lũy được cho đến nay chắc chắn có thể cho tôi câu trả lời... Kiểm tra cuốn sách minh họa phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro018",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro018|",
+      "ja": "ナノカはラウンジにいなくとも<br>レイアとアンアンがどんなことを話すか、<br>予想できたに違いない。",
+      "zh": "就算奈叶香不在会客厅<br>\n肯定也能猜到<br>\n蕾雅和安安会聊什么话题。",
+      "vi": "Ngay cả khi Nanoyaka không có trong phòng khách Tôi chắc chắn có thể đoán Leya và AnAn sẽ nói về chủ đề gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro019",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro019|",
+      "ja": "事前に２人の会話を盗み聞きしておいて――。",
+      "zh": "只要事先偷听她们的交谈——",
+      "vi": "Chỉ cần nghe lén cuộc trò chuyện của họ trước——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro020",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro020|",
+      "ja": "２人がそのあとラウンジで何を話すか……<br>続きを予想すればいいんだ。",
+      "zh": "再预测一下……<br>\n她们接下来会在会客厅里聊什么就好了。",
+      "vi": "Đưa ra dự đoán khác... Sẽ ổn thôi nếu họ nói về bất cứ điều gì trong phòng khách tiếp theo.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hanna001",
+      "speaker_tag": "; > Hanna: |#0202Trial12_Hanna001|",
+      "ja": "んなことできるわけねーですわ！？",
+      "zh": "怎么可能猜得到呀！？",
+      "vi": "Làm sao bạn có thể đoán được? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Sherry001",
+      "speaker_tag": "; > Sherry: |#0202Trial12_Sherry001|",
+      "ja": "もし大体の内容を予想できたとしても<br>一言一句間違えずに<br>会話内容を再現することは不可能なんじゃないでしょうか？",
+      "zh": "就算能猜得到大致的内容，<br>\n也不太可能<br>\n一字不差地还原对话内容吧？",
+      "vi": "Kể cả khi bạn có thể đoán được nội dung chung, Điều đó cũng khó xảy ra Khôi phục nguyên văn cuộc trò chuyện?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_AnAn001",
+      "speaker_tag": "; > AnAn: |#0202Trial12_AnAn001|",
+      "ja": "『事件のことも事前に予言して欲しいものだ』",
+      "zh": "『你怎么就没预测到这起案件呢』",
+      "vi": "\"Tại sao bạn không dự đoán được trường hợp này?\"",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro021",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro021|",
+      "ja": "（……さすがに一言一句同じ会話を予想するのは無理か）",
+      "zh": "（……再怎么说也不可能一字不差地猜到对话内容啊）",
+      "vi": "(…Dù có nói khó đến đâu cũng không thể đoán được nội dung cuộc trò chuyện từng chữ một)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro022",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro022|",
+      "ja": "（ナノカはどのようにして<br>　ラウンジの状況を知ったのか……）",
+      "zh": "（奈叶香<br>\n是如何得知会客厅情况的……）",
+      "vi": "(Nayaka Làm thế nào bạn biết được tình hình trong phòng khách...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro023",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro023|",
+      "ja": "（これまでの積み重ねた情報がきっと答えを教えてくれる……<br>　魔女図鑑を確認してみよう）",
+      "zh": "（目前积累的情报一定可以给我答案……<br>\n确认一下魔女图鉴吧）",
+      "vi": "(Thông tin tích lũy được cho đến nay chắc chắn có thể cho tôi câu trả lời... Kiểm tra cuốn sách minh họa phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro024",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro024|",
+      "ja": "……ナノカはラウンジの会話を盗聴していたんだ。",
+      "zh": "……奈叶香窃听了会客厅的对话。",
+      "vi": "...Nayoka nghe lén cuộc trò chuyện trong phòng khách.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Leia001",
+      "speaker_tag": "; > Leia: |#0202Trial12_Leia001|",
+      "ja": "盗聴！？",
+      "zh": "窃听！？",
+      "vi": "Nghe lén! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hanna002",
+      "speaker_tag": "; > Hanna: |#0202Trial12_Hanna002|",
+      "ja": "犯罪ですわー！",
+      "zh": "那可是犯罪呀！",
+      "vi": "Đó là một tội ác!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_AnAn002",
+      "speaker_tag": "; > AnAn: |#0202Trial12_AnAn002|",
+      "ja": "『だが盗聴器など<br>　ここでは調達できないのではないか』",
+      "zh": "『但是这里应该<br>\n弄不到窃听器吧』",
+      "vi": "\"Nhưng đây phải là Bạn không thể gặp lỗi, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro025",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro025|",
+      "ja": "自分の物の他に、<br>もう１台スマホがあれば可能だ。",
+      "zh": "除了自己的手机以外，<br>\n再弄到一部手机就可以。",
+      "vi": "Ngoài điện thoại di động của bạn, Chỉ cần lấy một chiếc điện thoại di động khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro026",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro026|",
+      "ja": "ラウンジにもう１台スマホを置いて、<br>自分のスマホと通話状態にしておいた……。",
+      "zh": "把另一个手机放在会客厅里，<br>\n然后拨通自己的手机……",
+      "vi": "Đặt chiếc điện thoại kia trong phòng khách, Sau đó quay số điện thoại di động của bạn...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro027",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro027|",
+      "ja": "それなら盗み聞きは可能だよ。",
+      "zh": "这样就能窃听了。",
+      "vi": "Bằng cách này bạn có thể nghe lén.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Leia002",
+      "speaker_tag": "; > Leia: |#0202Trial12_Leia002|",
+      "ja": "けれどもう１台のスマホなんて<br>どうやって調達するのかな……。",
+      "zh": "可是，要怎样才能<br>\n弄到另一部手机呢……",
+      "vi": "Nhưng, làm sao có thể Có một chiếc điện thoại di động khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Leia003",
+      "speaker_tag": "; > Leia: |#0202Trial12_Leia003|",
+      "ja": "ココくんのスマホは現場にあったし、<br>ここにいる誰もスマホをなくしてはいない……。",
+      "zh": "可可的手机在现场，<br>\n而在场的所有人都没有弄丢手机……",
+      "vi": "Điện thoại di động của Coco ở hiện trường, Và không ai có mặt bị mất điện thoại di động...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Sherry002",
+      "speaker_tag": "; > Sherry: |#0202Trial12_Sherry002|",
+      "ja": "処刑されたり死んだ人の分は<br>ゴクチョーさんに回収されていたはずですしね！",
+      "zh": "而被处刑的人和死者的手机<br>\n应该都被典狱长回收了才对！",
+      "vi": "Điện thoại di động của người bị hành quyết và người đã chết Lẽ ra tất cả chúng đều phải được quản giáo tái chế!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Noah001",
+      "speaker_tag": "; > Noah: |#0202Trial12_Noah001|",
+      "ja": "ヒロちゃんの推理、無理があるかも～。",
+      "zh": "希罗的推理可能有些牵强了～",
+      "vi": "Lý do của anh hùng có thể hơi xa vời~",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro028",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro028|",
+      "ja": "（……盗聴する機材を調達できないか）",
+      "zh": "（……看来窃听器材不好弄啊）",
+      "vi": "(...Có vẻ như rất khó để có được thiết bị nghe lén)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro029",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro029|",
+      "ja": "（ナノカはどのようにして<br>　ラウンジの状況を知ったのか……）",
+      "zh": "（奈叶香<br>\n是如何得知会客厅情况的……）",
+      "vi": "(Nayaka Làm thế nào bạn biết được tình hình trong phòng khách...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro030",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro030|",
+      "ja": "（これまでの積み重ねた情報がきっと答えを教えてくれる……<br>　魔女図鑑を確認してみよう）",
+      "zh": "（目前积累的情报一定可以给我答案……<br>\n确认一下魔女图鉴吧）",
+      "vi": "(Thông tin tích lũy được cho đến nay chắc chắn có thể cho tôi câu trả lời... Kiểm tra cuốn sách minh họa phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro031",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro031|",
+      "ja": "……ナノカはその時その場にいなくても、<br>情報を得る方法を持っていた。",
+      "zh": "……就算奈叶香当时不在场<br>\n也有办法得到情报。",
+      "vi": "...ngay cả khi Nanoyaka không có mặt Ngoài ra còn có nhiều cách để có được thông tin.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro032",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro032|",
+      "ja": "ナノカに限っていえば、<br>後からその場にいたかのように<br>演じることはいくらでも可能なんだ。",
+      "zh": "只有她，<br>\n可以随心所欲地<br>\n在事后假装当时在场。",
+      "vi": "Chỉ có cô ấy, Bạn có thể làm bất cứ điều gì bạn muốn Giả vờ ở đó sau đó.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro033",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro033|",
+      "ja": "過去の情報を覗き見る、<br>【幻視の魔法】を使ったのであれば！",
+      "zh": "她只要使用<br>\n能窥视过去的【幻视魔法】就可以了！",
+      "vi": "Cô ấy chỉ cần sử dụng Chỉ cần sử dụng [Ma thuật thị giác] để nhìn về quá khứ!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0202Trial12_Nanoka001|",
+      "ja": "くっ……！",
+      "zh": "唔……！",
+      "vi": "Ờ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria017",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria017|",
+      "ja": "で、でも……！<br>ナノカちゃんがやったっていう証拠はないんじゃないかな……！",
+      "zh": "可、可是……！<br>\n没有证据证明是小奈做的不是吗……！",
+      "vi": "Nhưng, nhưng...! Không có bằng chứng nào chứng minh được là Tiêu Nại làm việc đó đúng không...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria018",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria018|",
+      "ja": "それに、ナノカちゃんの【幻視】って<br>好きなときに発動できない魔法なんだよね！？",
+      "zh": "而且，她的【幻视】魔法<br>\n不能随时随地发动吧！？",
+      "vi": "Hơn nữa, phép thuật [Tầm nhìn] của cô ấy Bạn không thể kích hoạt nó mọi lúc mọi nơi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria019",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria019|",
+      "ja": "だったら偶然自分に都合よく読み取れたなんて――！",
+      "zh": "既然如此，她怎么可能刚刚好就发动了——！",
+      "vi": "Trong trường hợp này, làm sao cô ấy có thể kích hoạt nó——!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro034",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro034|",
+      "ja": "【魔女化】による魔法の強化……。",
+      "zh": "【魔女化】会让魔法得到强化……",
+      "vi": "[Biến đổi phù thủy] sẽ tăng cường phép thuật...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro035",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro035|",
+      "ja": "ナノカがすでに魔女化していて、<br>その魔法がいつでも読み取れる状態になっていたなら……。",
+      "zh": "如果奈叶香已经魔女化，<br>\n而她的魔法可以随时随地调取情报的话……",
+      "vi": "Nếu Nanoyaka trở thành phù thủy, Và nếu phép thuật của cô ấy có thể lấy được thông tin mọi lúc mọi nơi...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Hiro036",
+      "speaker_tag": "; > Hiro: |#0202Trial12_Hiro036|",
+      "ja": "あとで現場に行きさえすれば、<br>情報を読み取ることは可能だったはずだよ。",
+      "zh": "只要事后去一趟现场<br>\n就能读取到曾经发生过的事情。",
+      "vi": "Chỉ cần truy cập trang web sau đó Bạn có thể đọc những gì đã xảy ra trong quá khứ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria020",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria020|",
+      "ja": "そ、それでも……そんな証拠は……。",
+      "zh": "就、就算真是这样……那证据……",
+      "vi": "Chỉ là, ngay cả khi trường hợp đó xảy ra...bằng chứng...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0202Trial12_Nanoka002|",
+      "ja": "――いいわ。",
+      "zh": "——够了。",
+      "vi": "--Đủ rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria021",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria021|",
+      "ja": "……ナノカちゃん？",
+      "zh": "……小奈？",
+      "vi": "...Tiểu Nại?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0202Trial12_Nanoka003|",
+      "ja": "もう……いいの。",
+      "zh": "已经……够了。",
+      "vi": "Đã...đủ rồi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0202Trial12_Nanoka004|",
+      "ja": "いいのよ……。",
+      "zh": "无所谓了……",
+      "vi": "Nó không còn quan trọng nữa…",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Nanoka005",
+      "speaker_tag": "; > Nanoka: |#0202Trial12_Nanoka005|",
+      "ja": "最初から……肯定していたでしょう。",
+      "zh": "我从一开始……就承认了吧。",
+      "vi": "Hãy để tôi thừa nhận nó ngay từ đầu ...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Nanoka006",
+      "speaker_tag": "; > Nanoka: |#0202Trial12_Nanoka006|",
+      "ja": "私がやったと……。<br>反論なんて【ない】と。",
+      "zh": "你们说是我做的……<br>\n我也【没有】反驳。",
+      "vi": "Bạn nói tôi đã làm điều đó... Tôi cũng [không] bác bỏ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Alisa001",
+      "speaker_tag": "; > Alisa: |#0202Trial12_Alisa001|",
+      "ja": "なら、犯人は銃を持ってる黒部しかいねー。",
+      "zh": "那，凶手就是拿着枪的黑部了。没别的可能。",
+      "vi": "Sau đó, kẻ sát nhân là Kurobe với khẩu súng. Không có khả năng nào khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Alisa002",
+      "speaker_tag": "; > Alisa: |#0202Trial12_Alisa002|",
+      "ja": "何か反論あるかよ。",
+      "zh": "你有什么要反驳的吗。",
+      "vi": "Bạn có gì để phản bác không?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Nanoka007",
+      "speaker_tag": "; > Nanoka: |#0202Trial12_Nanoka007|",
+      "ja": "……ないわね。",
+      "zh": "……没有。",
+      "vi": "…Không.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Alisa003",
+      "speaker_tag": "; > Alisa: |#0202Trial12_Alisa003|",
+      "ja": "おめえ……あのとき……！",
+      "zh": "你这家伙……原来那时候……！",
+      "vi": "Anh ơi... Thì ra là lúc đó...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Nanoka008",
+      "speaker_tag": "; > Nanoka: |#0202Trial12_Nanoka008|",
+      "ja": "……沢渡ココを殺したのは、私。",
+      "zh": "……杀死泽渡可可的人，是我。",
+      "vi": "...Tôi là người đã giết Sawatari Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Miria022",
+      "speaker_tag": "; > Miria: |#0202Trial12_Miria022|",
+      "ja": "ナ……ナノカちゃん……！",
+      "zh": "小……小奈……！",
+      "vi": "Tiểu...Tiểu Nại...!",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Nanoka009",
+      "speaker_tag": "; > Nanoka: |#0202Trial12_Nanoka009|",
+      "ja": "人を殺すなんて……<br>やっぱり私には向いてなかったみたいね。",
+      "zh": "看来，杀人这件事……<br>\n还是不太适合我啊。",
+      "vi": "Có vẻ như vụ giết người đó... Vẫn chưa thực sự phù hợp với tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Nanoka010",
+      "speaker_tag": "; > Nanoka: |#0202Trial12_Nanoka010|",
+      "ja": "みんな……。",
+      "zh": "各位……",
+      "vi": "Mọi người...",
+      "objection_links": []
+    },
+    {
+      "id": "0202Trial12_Nanoka011",
+      "speaker_tag": "; > Nanoka: |#0202Trial12_Nanoka011|",
+      "ja": "迷惑をかけて……<br>ごめんなさい……。",
+      "zh": "很抱歉……<br>\n给你们添麻烦了……",
+      "vi": "Xin lỗi... Tôi đang gây rắc rối cho bạn...",
+      "objection_links": []
+    }
+  ]
+}

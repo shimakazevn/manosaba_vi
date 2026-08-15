@@ -1,0 +1,1104 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter04_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter04_Adv01",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter04/Act02_Chapter04_Adv01' Naninovel scenario script",
+  "total_entries": 137,
+  "entries": [
+    {
+      "id": "Toast_109",
+      "speaker_tag": "; > @toast \"|#Toast_109|\"",
+      "ja": "第２章　第４話",
+      "zh": "第２部　第４章",
+      "vi": "Phần 2 Chương 4",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry001",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry001|",
+      "ja": "くらーい！！<br>みなさん、暗いですよー！！",
+      "zh": "好沉闷啊！！<br>\n各位，气氛太沉闷了哦！！",
+      "vi": "Thật buồn tẻ! ! Mọi người ơi, bầu không khí thật buồn tẻ! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative001",
+      "speaker_tag": "",
+      "ja": "その日の朝食後、<br>私たちはシェリーの呼びかけで娯楽室に集まっていた。",
+      "zh": "那天早餐后，<br>\n我们应雪莉的召集，聚集到了娱乐室。",
+      "vi": "Sau bữa sáng ngày hôm đó, Theo tiếng gọi của Sherry, chúng tôi tập trung tại Phòng Giải Trí.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative002",
+      "speaker_tag": "",
+      "ja": "シェリー、ハンナ、レイア、ミリア、<br>アリサ、エマ、そして――私の７人。",
+      "zh": "雪莉、汉娜、蕾雅、米莉亚、<br>\n亚里沙、艾玛，还有——我，共七人。",
+      "vi": "Sherry, Hanna, Leia, Miria, Alisa, Ema, và—tôi, tổng cộng bảy người.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative003",
+      "speaker_tag": "",
+      "ja": "もう６人も……<br>この牢屋敷に囚われた少女が悲劇に見舞われ、<br>いなくなってしまった。",
+      "zh": "被囚禁在这个监牢中的少女……<br>\n已经有六个人遭遇了悲剧，<br>\n不在人世了。",
+      "vi": "Cô gái bị giam trong Ngục Dinh Thự này... Sáu người đã phải chịu bi kịch, Không còn sống nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hanna001",
+      "speaker_tag": "; > Hanna: |#0204Adv01_Hanna001|",
+      "ja": "明るく振舞える状況だとでも？<br>正直、規則を守って生活するだけで<br>いっぱいいっぱいですわ。",
+      "zh": "这种状况下还让我们故作轻松？<br>\n说实话，光是遵守规定生活下去，<br>\n我就已经竭尽全力了哇……",
+      "vi": "Chúng Bổn tiểu thư vẫn được phép giả vờ thoải mái trong tình huống này chứ? Thành thật mà nói, chỉ cần sống theo quy tắc, Bổn tiểu thư đã cố gắng hết sức...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hanna002",
+      "speaker_tag": "; > Hanna: |#0204Adv01_Hanna002|",
+      "ja": "もう何も考えたくないですわ……。<br>わたくし、とても疲れましたの。",
+      "zh": "我已经再也不想思考了……<br>\n我真的，太累了。",
+      "vi": "Bổn tiểu thư không muốn nghĩ về chuyện đó nữa... Bổn tiểu thư thực sự, thực sự mệt mỏi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative004",
+      "speaker_tag": "",
+      "ja": "ハンナの悲痛な<ruby=\"つぶや\">呟</ruby>きは、<br>私たちの気持ちをよく代弁している。",
+      "zh": "汉娜那痛苦的低喃，<br>\n恰如其分地道出了我们的心声。",
+      "vi": "Tiếng thì thầm đau đớn của Hanna, Nó thể hiện cảm xúc của chúng tôi một cách thích hợp.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative005",
+      "speaker_tag": "",
+      "ja": "集合をかけられて<ruby=\"だせい\">惰性</ruby>のように来たものの、<br>皆一様に<ruby=\"まと\">纏</ruby>う空気も口も重たい。",
+      "zh": "大家只是机械性地听从召集来到这里，<br>\n每个人的表情和气氛都一样沉重。",
+      "vi": "Mọi người chỉ nghe theo lời kêu gọi một cách máy móc và đến đây, Vẻ mặt và bầu không khí của mọi người đều nặng nề như nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Leia001",
+      "speaker_tag": "; > Leia: |#0204Adv01_Leia001|",
+      "ja": "ここに呼んだ意図を聞かせてくれないか。<br>シェリーくん。",
+      "zh": "说说你把大家叫来的目的吧，<br>\n雪莉。",
+      "vi": "Hãy cho tôi biết lý do bạn gọi mọi người đến đây, Sherry.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative006",
+      "speaker_tag": "",
+      "ja": "あんなに<ruby=\"じょうぜつ\">饒舌</ruby>だったレイアすら、<br>目の下に<ruby=\"くま\">隈</ruby>ができ、輝きが失われているように見える。",
+      "zh": "就连一向健谈的蕾雅，<br>\n眼眶下也长出了黑眼圈，眼中的光彩也不复从前。",
+      "vi": "Ngay cả Leya, người luôn nói nhiều, Dưới hốc mắt cũng xuất hiện quầng thâm, độ sáng trong mắt anh không còn như trước nữa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro001",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro001|",
+      "ja": "（牢屋敷を何度も隅々まで調査してきたが、<br>　私たちにとって何も有効な手だてが得られていない）",
+      "zh": "（即使已经对这座监牢进行了事无巨细的调查，<br>\n我们却始终没有找到任何有效的应对手段）",
+      "vi": "(Mặc dù Ngục Dinh Thự này đã được điều tra kỹ lưỡng, Nhưng chúng tôi chưa bao giờ tìm thấy bất kỳ phản hồi hiệu quả nào)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro002",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro002|",
+      "ja": "（大魔女など……本当に存在するのだろうか）",
+      "zh": "（所谓的大魔女……真的存在吗？）",
+      "vi": "(Cái gọi là Phù Thủy Vĩ Đại...có thực sự tồn tại không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro003",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro003|",
+      "ja": "（私を含め……限界が近い）",
+      "zh": "（包括我自己在内……都快要撑不下去了）",
+      "vi": "(Kể cả bản thân tôi…tôi gần như không thể chịu đựng được nữa)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Ema001",
+      "speaker_tag": "; > Ema: |#0204Adv01_Ema001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative007",
+      "speaker_tag": "",
+      "ja": "特に<ruby=\"けんちょ\">顕著</ruby>なのはエマだった。<br>最近、ほとんど笑わなくなってしまったのだ。",
+      "zh": "其中最明显的是艾玛。<br>\n最近，她几乎不再露出笑容了。",
+      "vi": "Rõ ràng nhất trong số này là Ema. Gần đây, cô gần như ngừng cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro004",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro004|",
+      "ja": "（エマはわざと心配をかけさせたくて……<br>　いや、でも）",
+      "zh": "（艾玛是故意想让我担心……<br>\n不，不对）",
+      "vi": "(Ema đang cố tình làm tôi lo lắng... Không, điều đó không đúng)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative008",
+      "speaker_tag": "",
+      "ja": "私はわからなくなってきていた。<br>エマのことも、自分のことも。",
+      "zh": "我越来越搞不懂了。<br>\n无论是关于艾玛，还是我自己。",
+      "vi": "Tôi càng ngày càng bối rối hơn. Không phải về Ema, cũng không phải về bản thân tôi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative009",
+      "speaker_tag": "",
+      "ja": "わからないから、彼女から目を<ruby=\"そ\">逸</ruby>らす。",
+      "zh": "因为搞不懂，我只能有意地不去关注她。",
+      "vi": "Bởi vì không thể hiểu được nên tôi chỉ có thể cố tình không để ý đến cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative010",
+      "speaker_tag": "",
+      "ja": "重苦しい空気を吹き飛ばすかのように、<br>シェリーがぱちんと両手を合わせた。",
+      "zh": "似乎是想要驱散沉闷的空气，<br>\n雪莉“啪”地一声，拍了拍手。",
+      "vi": "Dường như đang muốn xua đi không khí buồn tẻ, Sherry phát ra âm thanh “bốp” và vỗ tay.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry002",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry002|",
+      "ja": "今日はみなさんと遊ぼうと思いまして！",
+      "zh": "今天，我打算和大家一起玩点什么！",
+      "vi": "Hôm nay tôi dự định chơi gì đó với các bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry003",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry003|",
+      "ja": "私たちはストレスで魔女化が進むんですし、<br>楽しく過ごすのが一番！<br>もっと元気よくいきましょう！",
+      "zh": "我们的压力越大，就会越快变成魔女，<br>\n所以最好的办法就是开开心心地度过每一天！<br>\n大家振作起来吧！",
+      "vi": "Càng căng thẳng, chúng ta càng biến thành phù thủy nhanh hơn, Vì vậy cách tốt nhất là hãy sống mỗi ngày thật vui vẻ! Hãy vui lên nào mọi người!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro005",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro005|",
+      "ja": "……なるほど、提案は間違っていない。",
+      "zh": "……原来如此，这个提议倒是不坏。",
+      "vi": "...Tôi hiểu rồi, đề xuất này không tệ chút nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Miria001",
+      "speaker_tag": "; > Miria: |#0204Adv01_Miria001|",
+      "ja": "でも遊ぶって何をするつもりだい？<br>ここなら映画を見るとか、<br>ビリヤードとか、チェスとかあるけども。",
+      "zh": "那我们玩什么呢？<br>\n这里可以看电影，<br>\n还有台球和西洋棋。",
+      "vi": "Vậy chúng ta chơi gì? Bạn có thể xem phim tại đây, Ngoài ra còn có bida và cờ vua.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Miria002",
+      "speaker_tag": "; > Miria: |#0204Adv01_Miria002|",
+      "ja": "どれも元気よく遊ぶ感じではない、かなぁ。",
+      "zh": "但这些游戏，好像都没办法让大家振作起来呢……",
+      "vi": "Nhưng những trò chơi này dường như không thể làm mọi người vui lên...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry004",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry004|",
+      "ja": "何もここにあるものでなくとも、<br>みんなで遊ぶことはできると思うんです！",
+      "zh": "不一定要玩这里有的东西，<br>\n我想，可以玩一些大家一起参加的游戏！",
+      "vi": "Bạn không cần phải sử dụng những gì có sẵn ở đây, Tôi nghĩ chúng ta có thể chơi một số trò chơi mà mọi người có thể tham gia cùng nhau!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry005",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry005|",
+      "ja": "たとえばですね……ん～<br>ドッジボールとか鬼ごっことか！",
+      "zh": "比如说呢……嗯～<br>\n玩躲避球，或者捉迷藏什么的！",
+      "vi": "Ví dụ...à~ Chơi bóng né, trốn tìm hay gì đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hanna003",
+      "speaker_tag": "; > Hanna: |#0204Adv01_Hanna003|",
+      "ja": "あなたとだけはやりたくない遊びばかりですわね！？",
+      "zh": "全是些让人不想和你这种人玩的游戏哇！？",
+      "vi": "Đây đều là những trò chơi mà mọi ngươi không muốn chơi với những ngươi như bạn! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Miria003",
+      "speaker_tag": "; > Miria: |#0204Adv01_Miria003|",
+      "ja": "娯楽室が壊れちゃう！",
+      "zh": "娱乐室会被你弄坏的！",
+      "vi": "Phòng rec sẽ bị bạn phá hỏng mất!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Alisa001",
+      "speaker_tag": "; > Alisa: |#0204Adv01_Alisa001|",
+      "ja": "ウチはパスだ。<br>何度も言ってるが、おめえらと仲良くつるむ気はねえ。",
+      "zh": "不用算我了。<br>\n说过多少次了，我可没兴趣和你们搞好关系。",
+      "vi": "Đừng tính Tao ra. Tao đã nói với mày rất nhiều lần rằng Tao không quan tâm đến việc xây dựng mối quan hệ tốt đẹp với mày.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative011",
+      "speaker_tag": "",
+      "ja": "早々にアリサが冷たく言い放ち、<br>出ていこうと<ruby=\"きびす\">踵</ruby>を返した。",
+      "zh": "亚里沙很快就冷淡地丢下这句话，<br>\n转身准备离开。",
+      "vi": "Alisa lạnh lùng bỏ nhanh câu này, Xoay người chuẩn bị rời đi.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry006",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry006|",
+      "ja": "あー、どう考えても私に勝てないからって、<br>逃げる気なんですね？ ぷぷぷー。",
+      "zh": "啊～，你是不是已经知道自己怎么都赢不了我，<br>\n所以才打算逃跑呢？噗噗～",
+      "vi": "Ah~, bạn có biết rằng dù thế nào đi nữa bạn cũng không thể đánh bại tôi được, Đó là lý do cậu định trốn thoát à? Phồng~",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Alisa002",
+      "speaker_tag": "; > Alisa: |#0204Adv01_Alisa002|",
+      "ja": "……んだと？",
+      "zh": "……你说什么？",
+      "vi": "...Anh vừa nói gì cơ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative012",
+      "speaker_tag": "",
+      "ja": "アリサの足がピタリと止まった。<br>振り返って、シェリーを<ruby=\"にら\">睨</ruby>む。",
+      "zh": "亚里沙的脚步猛地停住了。<br>\n她回过头，狠狠地瞪着雪莉。",
+      "vi": "Bước chân của Alisa đột ngột dừng lại. Cô quay lại và trừng mắt nhìn Sherry một cách dữ dội.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Alisa003",
+      "speaker_tag": "; > Alisa: |#0204Adv01_Alisa003|",
+      "ja": "なんの勝負だ？ さっさと決めろよ。",
+      "zh": "要比什么？快点决定吧。",
+      "vi": "So sánh với cái gì? Quyết định nhanh chóng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry007",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry007|",
+      "ja": "おっ、いいですね～！<br>それなら準備も楽ですし、<br>腕相撲でもやりましょうか！",
+      "zh": "哎呦！不错哦～！<br>\n那就选个准备起来不麻烦的项目吧，<br>\n比如说——掰手腕！",
+      "vi": "Ôi! Không tệ~! Sau đó hãy chọn một dự án dễ chuẩn bị, Ví dụ - vật tay!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry008",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry008|",
+      "ja": "魔法アリでルール無用の……<br>名付けて【まじかる腕相撲】です！！",
+      "zh": "允许使用魔法的无限制比赛……<br>\n就叫【魔法掰手腕】吧！！",
+      "vi": "Các trận đấu không hạn chế cho phép sử dụng phép thuật... Hãy gọi nó là [Đấu tay ma thuật]! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Alisa004",
+      "speaker_tag": "; > Alisa: |#0204Adv01_Alisa004|",
+      "ja": "上等だ、受けて立ってやる。",
+      "zh": "很好，我接受挑战。",
+      "vi": "Tuyệt vời, Tao chấp nhận thử thách.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro006",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro006|",
+      "ja": "（単純極まりないな。<br>　まんまとシェリーに乗せられている）",
+      "zh": "（真是单纯至极。<br>\n就这么彻底中了雪莉的计）",
+      "vi": "(Thật đơn giản. Vậy là mình đã hoàn toàn rơi vào bẫy của Sherry)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative013",
+      "speaker_tag": "",
+      "ja": "ため息をつきながらも、<br><ruby=\"そろ\">揃</ruby>ったメンバーを見回すと少し瞳に光が戻っている。",
+      "zh": "我无奈地叹了口气，<br>\n环顾了一下在场的众人，<br>\n却发现她们的眼神里似乎恢复了一丝光彩。",
+      "vi": "Tôi thở dài bất lực, Nhìn xung quanh mọi người có mặt, Nhưng họ phát hiện ra rằng đôi mắt của họ dường như đã lấy lại được phần nào sự sáng chói.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro007",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro007|",
+      "ja": "（……付き合ってやるか）",
+      "zh": "（……算了，就陪她们玩玩吧）",
+      "vi": "(...Quên đi, cứ chơi với họ đi)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative014",
+      "speaker_tag": "",
+      "ja": "私は一歩前に出た。",
+      "zh": "我向前踏出一步。",
+      "vi": "Tôi bước một bước về phía trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro008",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro008|",
+      "ja": "審判は私がやろう。<br>私は魔女ではないから魔法を使えないしな。",
+      "zh": "那就由我来当裁判吧。<br>\n因为我不是魔女，无法使用魔法。",
+      "vi": "Vậy hãy để tôi làm trọng tài. Bởi vì tôi không phải là phù thủy và không thể sử dụng phép thuật.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro009",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro009|",
+      "ja": "君たちとは違うんだ。",
+      "zh": "和你们可不一样。",
+      "vi": "Nó khác với bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hanna004",
+      "speaker_tag": "; > Hanna: |#0204Adv01_Hanna004|",
+      "ja": "……ふんっ、まだそんなこと言ってますの？<br>いい加減お認めになりましたら？",
+      "zh": "……哼，还在说这种话？<br>\n差不多该承认了吧？",
+      "vi": "...Humph, ngươi vẫn còn nói điều này à? Đã đến lúc phải thừa nhận điều đó rồi, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative015",
+      "speaker_tag": "",
+      "ja": "ギロリと<ruby=\"いちべつ\">一瞥</ruby>すれば、ハンナはすぐに押し黙った。",
+      "zh": "我朝她狠狠地瞪了一眼，汉娜立刻闭上了嘴。",
+      "vi": "Tôi ném cho cô ấy một cái nhìn nghiêm khắc và Hanna ngay lập tức im lặng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Leia002",
+      "speaker_tag": "; > Leia: |#0204Adv01_Leia002|",
+      "ja": "まあまあ、魔女でも魔女じゃなくても<br>いいじゃないか。<br>ここはひとつ、楽しくやろう！",
+      "zh": "好了好了，魔女也好，不是魔女也罢，<br>\n现在都不重要。<br>\n还是开开心心地玩游戏吧！",
+      "vi": "Được rồi, được rồi, phù thủy hay không, Bây giờ nó không quan trọng. Chỉ cần vui vẻ chơi trò chơi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative016",
+      "speaker_tag": "",
+      "ja": "……というわけで、<br>私たちはシェリーが考案した<br>【まじかる腕相撲】をやることとなり――",
+      "zh": "……于是，<br>\n我们决定来一场<br>\n雪莉发明的【魔法掰手腕】——",
+      "vi": "...Vì vậy, Chúng tôi quyết định có [Đấu tay phép thuật] được phát minh bởi Sherry——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative017",
+      "speaker_tag": "",
+      "ja": "明らかに強いであろうシェリーに、<br>少女たちが総当たりで挑むこととなった。",
+      "zh": "面对实力碾压级的雪莉，<br>\n少女们决定所有人一起挑战。",
+      "vi": "Đối mặt với sức mạnh áp đảo của Sherry, Các cô gái quyết định cùng nhau thử thách mọi người.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry009",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry009|",
+      "ja": "ふっふっふ、私に勝ってみせなさい。",
+      "zh": "哼哼哼，尽管来挑战我吧～",
+      "vi": "Hehe hehe, đến thách đấu với tôi đi~",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative018",
+      "speaker_tag": "",
+      "ja": "シェリーはすでに王者の風格で<br>ソファーにゆったりと座り、余裕の笑みを浮かべている。",
+      "zh": "雪莉早已是一副王者风范，<br>\n悠然自得地半倚在沙发上，露出自信的微笑。",
+      "vi": "Sherry đã có phong thái hoàng gia rồi, Anh ta ung dung ngả lưng xuống ghế sofa và nở nụ cười tự tin.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Alisa005",
+      "speaker_tag": "; > Alisa: |#0204Adv01_Alisa005|",
+      "ja": "笑ってられんのも今のうちだ。",
+      "zh": "笑得出来也就现在了。",
+      "vi": "Đã đến lúc phải cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative019",
+      "speaker_tag": "",
+      "ja": "ローテーブルを挟み、<br>シェリーとアリサが膝立ちになった。",
+      "zh": "雪莉和亚里沙隔着矮桌，<br>\n各自摆好架势。",
+      "vi": "Sherry và Alisa ngồi ở bàn thấp, Mỗi người đều có một lập trường.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro010",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro010|",
+      "ja": "準備はいいか？",
+      "zh": "准备好了吗？",
+      "vi": "Bạn đã sẵn sàng chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative020",
+      "speaker_tag": "",
+      "ja": "互いの視線が一瞬<ruby=\"こうさく\">交錯</ruby>し、<br>その瞬間火花が散ったように見えた。",
+      "zh": "双方目光交汇的瞬间，<br>\n霎时火花四溅。",
+      "vi": "Khoảnh khắc ánh mắt hai bên chạm nhau, Đột nhiên tia lửa bay ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative021",
+      "speaker_tag": "",
+      "ja": "……実際、アリサの手は炎を<ruby=\"まと\">纏</ruby>っていた。",
+      "zh": "……这不是比喻，亚里沙手中真的燃起了火焰。",
+      "vi": "…Đây không phải là ẩn dụ, tay Alisa thực sự bừng sáng trong lửa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro011",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro011|",
+      "ja": "……はじめ！",
+      "zh": "……开始！",
+      "vi": "...bắt đầu!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative022",
+      "speaker_tag": "",
+      "ja": "合図と同時に、互いの手がぶつかり合う。",
+      "zh": "裁判一声令下的同时，双方的手猛然碰撞。",
+      "vi": "Đúng lúc trọng tài ra lệnh, tay hai bên bất ngờ va vào nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Alisa006",
+      "speaker_tag": "; > Alisa: |#0204Adv01_Alisa006|",
+      "ja": "ウチの炎に勝てるやつなんざいねえんだよ！",
+      "zh": "没人能赢得了我的火焰！",
+      "vi": "Không ai có thể thắng được ngọn lửa của Tao!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hanna005",
+      "speaker_tag": "; > Hanna: |#0204Adv01_Hanna005|",
+      "ja": "熱して相手を弱体化させる作戦ですわね！",
+      "zh": "是打算用高温让对手失去战斗力吧！",
+      "vi": "Anh Bổn tiểu thư định dùng nhiệt độ cao để khiến đối thủ mất khả năng chiến đấu?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Leia003",
+      "speaker_tag": "; > Leia: |#0204Adv01_Leia003|",
+      "ja": "卑怯だがたしかにこれならシェリーくんにだって――。",
+      "zh": "虽然略显卑鄙，但这样一来，就算是雪莉也——",
+      "vi": "Mặc dù có chút đáng khinh, nhưng theo cách này, ngay cả Sherry cũng——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative023",
+      "speaker_tag": "",
+      "ja": "ズバン！",
+      "zh": "——砰！",
+      "vi": "---Bang!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Alisa007",
+      "speaker_tag": "; > Alisa: |#0204Adv01_Alisa007|",
+      "ja": "ぐぅっ！",
+      "zh": "呃啊！",
+      "vi": "Ờ-huh!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative024",
+      "speaker_tag": "",
+      "ja": "――手を組んだ瞬間、<br>あっさりとアリサはひっくり返されていた。",
+      "zh": "——刚交手一瞬间、<br>\n亚里沙就被轻易压倒。",
+      "vi": "---Khoảnh khắc sau trận chiến, Alisa dễ dàng bị áp đảo.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry010",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry010|",
+      "ja": "あっつあっつ！",
+      "zh": "好烫好烫！",
+      "vi": "Nóng quá, nóng quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative025",
+      "speaker_tag": "",
+      "ja": "一方で炎に手を突っ込んだ形となったシェリーも、<br>軽い<ruby=\"やけど\">火傷</ruby>を負っていた。",
+      "zh": "而雪莉的手直接伸进了火焰中，<br>\n也被轻微烧伤。",
+      "vi": "Và Sherry đặt tay thẳng vào ngọn lửa, cũng bị bỏng nhẹ.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro012",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro012|",
+      "ja": "勝者、橘シェリー！",
+      "zh": "胜者，橘雪莉！",
+      "vi": "Người chiến thắng, Tachibana Sherry!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Alisa008",
+      "speaker_tag": "; > Alisa: |#0204Adv01_Alisa008|",
+      "ja": "くそぉ……っ、強すぎる……っ",
+      "zh": "可恶……实在太强了……",
+      "vi": "Chết tiệt, nó mạnh quá...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro013",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro013|",
+      "ja": "（いや勝てんだろ）",
+      "zh": "（这根本赢不了好不好）",
+      "vi": "(Bạn không thể thắng chút nào, được chứ?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative026",
+      "speaker_tag": "",
+      "ja": "シェリーは【怪力】の魔法を持っているのだ。<br>それには<ruby=\"とうてい\">到底</ruby>勝てる者などいるはずもなく――",
+      "zh": "雪莉拥有【怪力】的魔法。<br>\n这可不是谁都能战胜的——",
+      "vi": "Sherry sở hữu [sức mạnh kỳ lạ] phép thuật. Không phải ai cũng có thể đánh bại được thứ này——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hanna006",
+      "speaker_tag": "; > Hanna: |#0204Adv01_Hanna006|",
+      "ja": "ゴリラー！？",
+      "zh": "你这猩猩女！？",
+      "vi": "Cô gái khỉ đột ơi! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative027",
+      "speaker_tag": "",
+      "ja": "ハンナはあっさりと吹き飛ばされていた。",
+      "zh": "汉娜瞬间被轻松甩飞。",
+      "vi": "Hanna dễ dàng bị ném đi ngay lập tức.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro014",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro014|",
+      "ja": "勝者、橘シェリー！",
+      "zh": "胜者，橘雪莉！",
+      "vi": "Người chiến thắng, Tachibana Sherry!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Leia004",
+      "speaker_tag": "; > Leia: |#0204Adv01_Leia004|",
+      "ja": "シェリーくん、私のことを見てごらん。<br>ほうら、うっとりして力が入らなく……。",
+      "zh": "雪莉，看着我。<br>\n你会沉醉于我的魅力，渐渐变得无力……",
+      "vi": "Sherry, nhìn tôi này. Bạn sẽ bị say mê bởi sự quyến rũ của tôi và dần dần trở nên bất lực...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Leia005",
+      "speaker_tag": "; > Leia: |#0204Adv01_Leia005|",
+      "ja": "あだだだだ！",
+      "zh": "啊痛痛痛痛！",
+      "vi": "Ôi, đau quá, đau quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative028",
+      "speaker_tag": "",
+      "ja": "レイアは<ruby=\"しゅんさつ\">瞬殺</ruby>されていた。",
+      "zh": "蕾雅被秒杀。",
+      "vi": "Leya bị giết ngay lập tức.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro015",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro015|",
+      "ja": "勝者、橘シェリー！",
+      "zh": "胜者，橘雪莉！",
+      "vi": "Người chiến thắng, Tachibana Sherry!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Miria004",
+      "speaker_tag": "; > Miria: |#0204Adv01_Miria004|",
+      "ja": "シェリーちゃん、あのさ、<br>おじさんと入れ替わりたくならない？",
+      "zh": "小莉呀，<br>\n要不要和大叔我交换一下身体？",
+      "vi": "Tiểu Lý, Bạn có muốn hoán đổi cơ thể với chú và Miria không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro016",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro016|",
+      "ja": "（なるほど、肉体を入れ替えて、<br>　精神的勝者になる作戦か）",
+      "zh": "（原来如此，是想通过互换肉体，<br>\n达到精神胜利的效果吗）",
+      "vi": "(Thì ra lý do là để đổi xác, Liệu nó có đạt được hiệu quả chiến thắng về mặt tinh thần không?)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Miria005",
+      "speaker_tag": "; > Miria: |#0204Adv01_Miria005|",
+      "ja": "おじさんの体楽しいよきっと。<br>ほらほらおじさんと入れ替わって……。",
+      "zh": "大叔我的身体可有意思了。<br>\n来来来，和大叔换换……",
+      "vi": "Bác ơi, cơ thể cháu thú vị lắm. Thôi, thay đồ với chú đi...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry011",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry011|",
+      "ja": "嫌ですね！",
+      "zh": "才不要呢！",
+      "vi": "Tôi không muốn nó!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Miria006",
+      "speaker_tag": "; > Miria: |#0204Adv01_Miria006|",
+      "ja": "あうっ、痛い！",
+      "zh": "呃啊，好痛！",
+      "vi": "Ặc, đau quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative029",
+      "speaker_tag": "",
+      "ja": "ミリアもあえなく敗退……。",
+      "zh": "米莉亚也遗憾退场……",
+      "vi": "Miria cũng tiếc nuối rời khỏi chương trình...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro017",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro017|",
+      "ja": "勝者、橘シェリー！",
+      "zh": "胜者，橘雪莉！",
+      "vi": "Người chiến thắng, Tachibana Sherry!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry012",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry012|",
+      "ja": "てかみなさん、弱すぎません？？<br>ああ、シェリーちゃんの魔法が最強すぎましたか！<br>あっはっは、いやこれは参りました！",
+      "zh": "话说回来，你们也太弱了吧？？<br>\n啊，原来是雪莉我的魔法太强了！<br>\n啊哈哈哈，最强真是抱歉啦！",
+      "vi": "Nói như vậy có phải bạn quá yếu đuối không? ? À, hóa ra là Sherry. Phép thuật của tôi quá mạnh! Hahahaha, tôi rất xin lỗi!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hanna007",
+      "speaker_tag": "; > Hanna: |#0204Adv01_Hanna007|",
+      "ja": "きぃぃ、悔しい、悔しいですわー！",
+      "zh": "可恶，不甘心哇，太不甘心了——！",
+      "vi": "Chết tiệt, Bổn tiểu thư thật không muốn nhượng bộ! Bổn tiểu thư không muốn nhượng bộ—!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative030",
+      "speaker_tag": "",
+      "ja": "ソファーでふんぞり返るシェリーに、<br>ハンナが<ruby=\"じだんだ\">地団駄</ruby>を踏んでいる。",
+      "zh": "汉娜气得直跺脚，<br>\n而雪莉则得意洋洋地靠在沙发上。",
+      "vi": "Hanna tức giận đến mức dậm chân, Mặt khác, Sherry tựa người vào ghế sofa một cách đắc thắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Leia006",
+      "speaker_tag": "; > Leia: |#0204Adv01_Leia006|",
+      "ja": "もうエマくんしか残っていない。<br>ぜひシェリーくんに勝ってほしい！",
+      "zh": "只剩下艾玛了。<br>\n拜托了，一定要赢雪莉！",
+      "vi": "Chỉ còn lại Ema. Làm ơn, tôi phải thắng được Sherry!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Ema002",
+      "speaker_tag": "; > Ema: |#0204Adv01_Ema002|",
+      "ja": "……え？ あ、うん。",
+      "zh": "……欸？啊，嗯。",
+      "vi": "...Hả? À, à.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative031",
+      "speaker_tag": "",
+      "ja": "少し離れたところで見学していたエマが、<br>ようやく前に出てくる。",
+      "zh": "一直在不远处旁观的艾玛，<br>\n终于走上前来。",
+      "vi": "Ema, người đang theo dõi cách đó không xa, Cuối cùng bước về phía trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Ema003",
+      "speaker_tag": "; > Ema: |#0204Adv01_Ema003|",
+      "ja": "えっと、シェリーちゃんと<br>腕相撲すればいいんだよね……？",
+      "zh": "呃，意思就是要和雪莉<br>\n掰手腕……对吧？",
+      "vi": "Uh, ý tôi là tôi muốn với Sherry Đấu vật tay...phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative032",
+      "speaker_tag": "",
+      "ja": "状況も<ruby=\"はあく\">把握</ruby>できていない様子だ。",
+      "zh": "她似乎还没搞清楚状况。",
+      "vi": "Có vẻ như cô ấy vẫn chưa hiểu được tình hình.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro018",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro018|",
+      "ja": "（やはりエマの様子がおかしいな）",
+      "zh": "（果然，艾玛有点不对劲）",
+      "vi": "(Chắc chắn có điều gì đó không ổn với Ema)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry013",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry013|",
+      "ja": "そういえばエマさんがまだ残っていましたね！<br>どう見ても私に勝てるわけありませんが！<br>わっはっは、わぁっはっは！",
+      "zh": "哦？原来艾玛还没比呢！<br>\n但怎么看都不可能赢我吧！<br>\n哈哈哈，哈哈哈哈！！",
+      "vi": "Ồ? Hóa ra Ema vẫn chưa thi đấu! Nhưng dù nhìn thế nào đi nữa, bạn cũng không thể đánh bại được tôi! Hahaha, hahaha! !",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hanna008",
+      "speaker_tag": "; > Hanna: |#0204Adv01_Hanna008|",
+      "ja": "くぅっ、調子にノリすぎですわあのゴリラ！",
+      "zh": "可恶，这猩猩女也太嚣张了！",
+      "vi": "Mẹ kiếp, ngươi gái đười ươi này quá kiêu ngạo!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative033",
+      "speaker_tag": "",
+      "ja": "よっぽど悔しいのか涙目になっているハンナが、<br>エマへと歩み寄る。",
+      "zh": "汉娜忿忿不平，眼里含着泪光，<br>\n走到艾玛身边。",
+      "vi": "Hanna tức giận và rơi nước mắt, Đi đến chỗ Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hanna009",
+      "speaker_tag": "; > Hanna: |#0204Adv01_Hanna009|",
+      "ja": "絶対、絶対勝ってくださいまし、エマさん！",
+      "zh": "一定、一定要赢哇，艾玛！",
+      "vi": "Bạn phải, bạn phải thắng, Ema!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Ema004",
+      "speaker_tag": "; > Ema: |#0204Adv01_Ema004|",
+      "ja": "が、頑張るよ……！",
+      "zh": "我、我会加油的……！",
+      "vi": "Tôi-tôi sẽ cố gắng hết sức...!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hanna010",
+      "speaker_tag": "; > Hanna: |#0204Adv01_Hanna010|",
+      "ja": "エマさんが勝てるようにおまじないですわ。",
+      "zh": "这是能让艾玛获胜的魔法哦。",
+      "vi": "Đây chính là phép thuật có thể khiến Ema chiến thắng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative034",
+      "speaker_tag": "",
+      "ja": "そう言って、ハンナは<br>そっとエマの手を自身の手で包み込む。<br>何やら仕込んだ風に見えた。",
+      "zh": "说着，汉娜<br>\n轻轻用双手包裹住了艾玛的手。<br>\n似乎是偷偷动了些手脚。",
+      "vi": "Nói vậy, Hanna Anh nhẹ nhàng vòng tay mình quanh tay Ema. Có vẻ như một số động thái đã được thực hiện một cách bí mật.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro019",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro019|",
+      "ja": "……２人とも準備はいいか？",
+      "zh": "……你们两个准备好了吗？",
+      "vi": "...Hai người sẵn sàng chưa?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry014",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry014|",
+      "ja": "いつでもどうぞ！",
+      "zh": "随时放马过来吧！",
+      "vi": "Hãy đến đây bất cứ lúc nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Ema005",
+      "speaker_tag": "; > Ema: |#0204Adv01_Ema005|",
+      "ja": "うん、大丈夫……！<br>よし、勝つぞ！",
+      "zh": "嗯，我准备好了……！<br>\n好，我会赢的！",
+      "vi": "Vâng, tôi đã sẵn sàng...! Được rồi, tôi sẽ thắng!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative035",
+      "speaker_tag": "",
+      "ja": "私が開始の合図をかけると、<br>テーブルの中心で２人が手を組み合う。<br>その直後――",
+      "zh": "在我下达开始的指令后，<br>\n在桌子中央双方开始交手。<br>\n紧接着——",
+      "vi": "Sau khi tôi ra lệnh bắt đầu, Hai bên bắt đầu giằng co ở giữa bàn. Ngay sau đó——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Leia007",
+      "speaker_tag": "; > Leia: |#0204Adv01_Leia007|",
+      "ja": "あ、ＵＦＯ！",
+      "zh": "啊，是UFO！",
+      "vi": "À, đó là UFO!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative036",
+      "speaker_tag": "",
+      "ja": "レイアが声を上げたことで、<br>全員が強制的に<br>あさっての方向に視線を向けてしまった。",
+      "zh": "蕾雅大喊了一声，<br>\n所有人不由自主地<br>\n看向了毫不相关的地方。",
+      "vi": "Leya hét lên, Mọi người vô tình Anh nhìn vào một nơi không liên quan.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative037",
+      "speaker_tag": "",
+      "ja": "目を離した一瞬の<ruby=\"すき\">隙</ruby>に……",
+      "zh": "就在大家移开视线那一瞬间……",
+      "vi": "Khoảnh khắc mọi người nhìn đi chỗ khác...",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative038",
+      "speaker_tag": "",
+      "ja": "――ひっくり返ったのは、<br>シェリーの方だった。",
+      "zh": "——被压倒的是，<br>\n雪莉。",
+      "vi": "---Người bị choáng ngợp là Sherry.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry015",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry015|",
+      "ja": "……はれ？",
+      "zh": "……咦？",
+      "vi": "...Hả?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hanna011",
+      "speaker_tag": "; > Hanna: |#0204Adv01_Hanna011|",
+      "ja": "やったやった！ やりましたわねエマさん！",
+      "zh": "太好了太好了！成功了，艾玛！",
+      "vi": "Tuyệt vời, tuyệt vời! Nó đã thành công, Ema!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Ema006",
+      "speaker_tag": "; > Ema: |#0204Adv01_Ema006|",
+      "ja": "あ、う、うん。",
+      "zh": "啊，呃……嗯。",
+      "vi": "À, ừ... hừm.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Ema007",
+      "speaker_tag": "; > Ema: |#0204Adv01_Ema007|",
+      "ja": "ＵＦＯに気を取られて力が緩んだ隙に、<br>シェリーちゃんをひっくり返せた、みたい……？",
+      "zh": "我趁雪莉被UFO转移注意力、手上力量放松的空隙，<br>\n把雪莉压倒了，大概……？",
+      "vi": "Tôi đã lợi dụng lúc Sherry đang bị UFO phân tâm và thả lỏng tay cô ấy, Có lẽ nó đã nghiền nát Sherry...?",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro020",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro020|",
+      "ja": "（レイアか……）",
+      "zh": "（是蕾雅的杰作吗……）",
+      "vi": "(Đây có phải là kiệt tác của Leya không...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro021",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro021|",
+      "ja": "（魔法も使いようによっては、<br>　思わぬ作用が期待できるんだな）",
+      "zh": "（原来灵活运用魔法，<br>\n能产生这么出人意料的效果）",
+      "vi": "(Hóa ra phép thuật được sử dụng linh hoạt, có thể tạo ra những hiệu ứng không ngờ tới như vậy)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Leia008",
+      "speaker_tag": "; > Leia: |#0204Adv01_Leia008|",
+      "ja": "まあまあ勝ったからいいじゃないか！<br>シェリーくん、もはや君は王者ではない！<br>その玉座から降りたまえ！",
+      "zh": "好啦好啦，赢了就是好事！<br>\n雪莉，你已不再是王者！<br>\n快从那王座上退下来吧！",
+      "vi": "Được rồi, được rồi, thắng là chuyện tốt! Sherry, cậu không còn là vua nữa! Hãy rời khỏi ngai vàng đó ngay!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Sherry016",
+      "speaker_tag": "; > Sherry: |#0204Adv01_Sherry016|",
+      "ja": "ぐぬぬぬ……納得いきません！<br>もう１回やりましょう、もう１回！",
+      "zh": "咕呜呜……我不服！<br>\n再比一次，我要再比一次！",
+      "vi": "Guwuwu...Tôi không chấp nhận nó! Thi đấu lần nữa, tôi muốn thi đấu lần nữa!",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro022",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro022|",
+      "ja": "潔く負けを認めろ。<br>この勝負はエマの勝ちだ。",
+      "zh": "干脆点，认输吧。<br>\n这场比赛是艾玛赢了。",
+      "vi": "Chỉ cần bỏ cuộc và thừa nhận thất bại. Ema đã thắng trò chơi này.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative039",
+      "speaker_tag": "",
+      "ja": "私が言い放つと、自然にエマと目が合った。",
+      "zh": "我说完，自然而然地和艾玛对上了视线。",
+      "vi": "Nói xong, tự nhiên tôi bắt gặp ánh mắt của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative040",
+      "speaker_tag": "",
+      "ja": "<ruby=\"あお\">煽</ruby>り倒してくるシェリーに勝って、<br>私も正直胸がすっとしていた。",
+      "zh": "赢过了不断挑衅的雪莉，<br>\n老实说，我也感到有些痛快。",
+      "vi": "Đánh bại Sherry, người liên tục khiêu khích, Thành thật mà nói, tôi cũng cảm thấy có chút vui mừng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative041",
+      "speaker_tag": "",
+      "ja": "エマを<ruby=\"たた\">称</ruby>えるような笑みを<br>浮かべてしまいそうになっていた。",
+      "zh": "忍不住露出了一抹<br>\n赞赏艾玛的笑容。",
+      "vi": "Tôi không thể không tiết lộ gợi ý về Hãy ngưỡng mộ nụ cười của Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative042",
+      "speaker_tag": "",
+      "ja": "まるで昔の、<br>無邪気に笑い合っていたあの頃の私たちに<br>戻ったかのようで――",
+      "zh": "仿佛回到了过去，<br>\n回到了我们天真无邪、<br>\n欢笑不断的时光——",
+      "vi": "Giống như quay ngược thời gian, Trở lại với sự hồn nhiên của chúng ta, Một thời không ngừng cười——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative043",
+      "speaker_tag": "",
+      "ja": "ハッとし、手元に口を当てて即座に堪える。",
+      "zh": "我猛地回过神，连忙用手掩住嘴巴，忍住了笑容。",
+      "vi": "Tôi chợt tỉnh táo lại, vội lấy tay che miệng để kìm nén nụ cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro023",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro023|",
+      "ja": "（私は何を……）",
+      "zh": "（我在干什么啊……）",
+      "vi": "(Tôi đang làm gì vậy...)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro024",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro024|",
+      "ja": "楽しませてもらったよ。<br>私はこれで失礼する。",
+      "zh": "谢谢各位让我看了一场好戏。<br>\n那么我就告辞了。",
+      "vi": "Cảm ơn bạn đã cho tôi xem một chương trình hay. Vậy thì tôi sẽ nghỉ phép.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative044",
+      "speaker_tag": "",
+      "ja": "私はみんなに背中を向け、<br>急いで部屋を出た。",
+      "zh": "我转身背对众人，<br>\n快步离开了房间。",
+      "vi": "Tôi đã quay lưng lại với mọi người, Anh nhanh chóng rời khỏi phòng.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative045",
+      "speaker_tag": "",
+      "ja": "楽しかったなど、<br>思うだけで罪深い――。",
+      "zh": "觉得快乐，<br>\n就已是罪孽深重——",
+      "vi": "Cảm thấy hạnh phúc, Đó đã là một tội lỗi ghê tởm rồi——",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative046",
+      "speaker_tag": "",
+      "ja": "<ruby=\"きし\">軋</ruby>むように胸が痛み、<br>扉の前で、ぐっと拳を握る。",
+      "zh": "胸口传来一阵疼痛，<br>\n我在门前握紧了拳头。",
+      "vi": "Tôi cảm thấy đau ở ngực, Tôi nắm chặt tay trước cửa.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative047",
+      "speaker_tag": "",
+      "ja": "伸びた爪が、手のひらに食い込んだ。<br>爪は今朝切ったばかりのはずなのに。",
+      "zh": "长长的指甲深深嵌入了掌心。<br>\n明明今早才刚剪过的。",
+      "vi": "Những chiếc móng dài cắm sâu vào lòng bàn tay. Rõ ràng là nó vừa mới bị cắt sáng nay.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro025",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro025|",
+      "ja": "（一度は鎮まった、抑えられたと思っていた……<br>　けど――）",
+      "zh": "（明明已经平息下来了，以为自己能控制住了……<br>\n可是——）",
+      "vi": "(Rõ ràng là nó đã dịu xuống và tôi nghĩ mình có thể kiểm soát được nó... Nhưng——)",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative048",
+      "speaker_tag": "",
+      "ja": "<ruby=\"のうり\">脳裏</ruby>をかすめたのは、<br>ナノカの言葉だった。",
+      "zh": "脑海中浮现出<br>\n奈叶香的话。",
+      "vi": "hiện lên trong tâm trí Lời của Nanoyaka.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Nanoka001",
+      "speaker_tag": "; > Nanoka: |#0204Adv01_Nanoka001|",
+      "ja": "詳しくはないけれど……【なれはて】になるまで、<br>個人差があったり状況によって変わることは知っているわ。",
+      "zh": "虽然我把握得也不是很清楚……<br>\n但我只知道，在转化为【残骸】的过程中，<br>\n每个人都会有不同的表现。",
+      "vi": "Mặc dù tôi không chắc lắm... Nhưng tôi chỉ biết rằng trong quá trình biến thành [xác tàu], Mọi người sẽ cư xử khác nhau.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Nanoka002",
+      "speaker_tag": "; > Nanoka: |#0204Adv01_Nanoka002|",
+      "ja": "心の傷を深く抉られるようなキッカケがあれば、<br>一気に魔女化は進むけれど。",
+      "zh": "如果因为某些契机，被强烈刺激到内心的创伤，<br>\n就会迅速魔女化。",
+      "vi": "Nếu do một số cơ hội nhất định, bạn bị kích thích mạnh mẽ đến tổn thương nội tâm, Nó sẽ nhanh chóng biến thành phù thủy.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Nanoka003",
+      "speaker_tag": "; > Nanoka: |#0204Adv01_Nanoka003|",
+      "ja": "ただストレスを溜めているだけなら、<br>長く理性は保てるはず。",
+      "zh": "但如果仅仅只是积攒过多压力，<br>\n应该还是能较长时间保持理性。",
+      "vi": "Nhưng nếu bạn tích lũy quá nhiều áp lực, Bạn vẫn có thể duy trì lý trí trong một khoảng thời gian dài hơn.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Nanoka004",
+      "speaker_tag": "; > Nanoka: |#0204Adv01_Nanoka004|",
+      "ja": "心の強さ次第、というところね。",
+      "zh": "也就是说，取决于自己心灵有多坚强吧。",
+      "vi": "Nói cách khác, nó phụ thuộc vào tâm trí của bạn mạnh mẽ đến mức nào.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Hiro026",
+      "speaker_tag": "; > Hiro: |#0204Adv01_Hiro026|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative049",
+      "speaker_tag": "",
+      "ja": "私の【魔女化】は止まっていない。",
+      "zh": "我的【魔女化】并未停止。",
+      "vi": "[Biến đổi phù thủy] của tôi vẫn chưa dừng lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0204Adv01_Narrative050",
+      "speaker_tag": "",
+      "ja": "そして……タイムリミットが、迫っている。",
+      "zh": "而且……时限已经迫在眉睫。",
+      "vi": "Và... thời hạn sắp đến.",
+      "objection_links": []
+    }
+  ]
+}

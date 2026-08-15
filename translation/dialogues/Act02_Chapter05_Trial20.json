@@ -1,0 +1,648 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle",
+  "script_name": "Act02_Chapter05_Trial20",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter05/Act02_Chapter05_Trial20' Naninovel scenario script",
+  "total_entries": 79,
+  "entries": [
+    {
+      "id": "0205Trial20_Alisa001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial20_Alisa001|",
+      "ja": "おめえらだって<br>わかってんだろうがよ……。",
+      "zh": "你们其实<br>\n心里都清楚吧……",
+      "vi": "Thực ra mày Tất cả các mày đều biết điều đó trong trái tim Tao...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial20_Alisa002|",
+      "ja": "ウチらは魔女だ。<br><link=\"Objection_02_05_20_01\">呪われた子</link>だ。",
+      "zh": "我们是魔女。<br>\n是<link=\"Objection_02_05_20_01\">受诅咒之子</link>。",
+      "vi": "Chúng Tao là phù thủy. <link=\"Objection_02_05_20_01\"> có phải là Đứa trẻ bị nguyền rủa </link>.",
+      "objection_links": [
+        "Objection_02_05_20_01"
+      ]
+    },
+    {
+      "id": "0205Trial20_Alisa003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial20_Alisa003|",
+      "ja": "誰かを<link=\"Objection_02_05_20_02\">殺すための力</link>を<br>持って生まれてきて、<br>実際に誰かを<br>殺すことでしか<br>生きていけねー存在<br>なんだよ。",
+      "zh": "生来就拥有<br>\n<link=\"Objection_02_05_20_02\">用来杀人的力量</link>，<br>\n并且实际上<br>\n也只能去<br>\n杀害某人<br>\n才能存活下去。",
+      "vi": "Sinh ra với <link=\"Objection_02_05_20_02\">Sức mạnh dùng để giết người</link>, và thực tế là Bạn chỉ có thể truy cập Giết ai đó Để tồn tại.",
+      "objection_links": [
+        "Objection_02_05_20_02"
+      ]
+    },
+    {
+      "id": "0205Trial20_Alisa004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial20_Alisa004|",
+      "ja": "そんなん、<br>今取り戻した記憶を見りゃ<br>わかるだろ！？",
+      "zh": "只要看看刚才<br>\n恢复的记忆<br>\n也总该明白了吧！？",
+      "vi": "Vừa rồi hãy nhìn vào Đã khôi phục bộ nhớ Cuối cùng thì mày cũng nên hiểu nó! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial20_Alisa005|",
+      "ja": "……ならそんなもんは<br>存在しちゃいけねーんだ。",
+      "zh": "……既然如此，<br>\n我们就不应该存在。",
+      "vi": "...Trong trường hợp này, Chúng ta không nên tồn tại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial20_Alisa006|",
+      "ja": "みんな跡形もなく<br>消し炭にして……<br><link=\"Objection_02_05_20_03\">終わらせちまえばいい</link>。",
+      "zh": "只要把大家<br>\n都烧成灰烬……<br>\n<link=\"Objection_02_05_20_03\">让一切都结束就好了</link>。",
+      "vi": "Chỉ cần đặt mọi người Tất cả bị đốt thành tro... <link=\"Objection_02_05_20_03\">Sẽ tốt hơn nếu mọi chuyện kết thúc</link>.",
+      "objection_links": [
+        "Objection_02_05_20_03"
+      ]
+    },
+    {
+      "id": "0205Trial20_Alisa007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial20_Alisa007|",
+      "ja": "ウチなら、<br>それができる……。",
+      "zh": "我的话，<br>\n就能做得到……",
+      "vi": "Lời của Tao, Nó có thể được thực hiện ...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0205Trial20_Alisa008|",
+      "ja": "だから……<br><link=\"Objection_02_05_20_04\">大人しく</link>死んどけよぉ！",
+      "zh": "所以……<br>\n<link=\"Objection_02_05_20_04\">乖乖</link>受死吧！",
+      "vi": "Vậy... <link=\"Objection_02_05_20_04\">Hãy ngoan đi</link>Hãy chịu chết!",
+      "objection_links": [
+        "Objection_02_05_20_04"
+      ]
+    },
+    {
+      "id": "0205Trial20_Hiro001",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro001|",
+      "ja": "（……ダメだ！<br>　この熱気……近付くことすらできない）",
+      "zh": "（……不行！<br>\n热量太强了……连靠近她都没办法！）",
+      "vi": "(...Không! Sức nóng quá mạnh...Tôi thậm chí không thể đến gần cô ấy! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro002",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro002|",
+      "ja": "（このままでは大魔女を呼び出すまでもなく、全滅だ……！）",
+      "zh": "（这样下去，不等召唤出大魔女，就要先全灭了……！）",
+      "vi": "(Nếu chuyện này tiếp tục, tất cả chúng ta sẽ bị xóa sổ trước khi mụ phù thủy vĩ đại được triệu hồi…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro003",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro003|",
+      "ja": "（なんとかアリサを落ち着かせなければ……！）",
+      "zh": "（必须想办法让亚里沙冷静下来……！）",
+      "vi": "(Chúng ta phải tìm cách làm Alisa bình tĩnh lại…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Choice002",
+      "speaker_tag": "; > @choice |#0205Trial20_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "悪いのは大魔女だ",
+      "zh": "错的是大魔女",
+      "vi": "Người sai là mụ phù thủy lớn",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Choice004",
+      "speaker_tag": "; > @choice |#0205Trial20_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "正しく力を使える",
+      "zh": "力量可以用在正道上",
+      "vi": "Sức mạnh có thể được sử dụng đúng cách",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Choice006",
+      "speaker_tag": "; > @choice |#0205Trial20_Choice006| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
+      "ja": "呪いは終わらない",
+      "zh": "诅咒不会结束",
+      "vi": "Lời nguyền sẽ không bao giờ kết thúc",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Choice007",
+      "speaker_tag": "; > @choice |#0205Trial20_Choice007| button:ChoiceButtons/Trial/MagicAnAn handler:TrialHiro",
+      "ja": "【洗脳】",
+      "zh": "【洗脑】",
+      "vi": "[Tẩy não]",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Choice008",
+      "speaker_tag": "; > @choice |#0205Trial20_Choice008| button:ChoiceButtons/Trial/MagicLeia handler:TrialHiro",
+      "ja": "【視線誘導】",
+      "zh": "【视线诱导】",
+      "vi": "[Cảm ứng tầm nhìn đường]",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro004",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro004|",
+      "ja": "アリサ、君は――！",
+      "zh": "亚里沙，你——！",
+      "vi": "Alisa, em——!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa009",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa009|",
+      "ja": "うるせぇ！",
+      "zh": "吵死了！",
+      "vi": "Ồn ào quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro005",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro005|",
+      "ja": "くっ……！？",
+      "zh": "唔……！？",
+      "vi": "Ờ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro006",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro006|",
+      "ja": "（ダメだ……！ 話を聞く気がない……！）",
+      "zh": "（不行……！她根本不打算听人讲话……！）",
+      "vi": "(Không...! Cô ấy không muốn nghe chút nào...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro007",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro007|",
+      "ja": "その呪いを残した諸悪の根源は、大魔女だ！",
+      "zh": "留下那诅咒的万恶之源，是大魔女！",
+      "vi": "Nguồn gốc của mọi tội ác đã để lại lời nguyền đó chính là mụ phù thủy vĩ đại!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro008",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro008|",
+      "ja": "みんな大魔女の悪意に操られて<br>罪を犯してしまっただけだ……！",
+      "zh": "大家只是被大魔女的恶意操纵，<br>\n才犯下了罪行……！",
+      "vi": "Mọi người chỉ đang bị mụ phù thủy độc ác thao túng, Vừa phạm tội...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro009",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro009|",
+      "ja": "だから君たちは悪くない！",
+      "zh": "所以你们没有错！",
+      "vi": "Vậy là bạn không hề sai!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa010",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa010|",
+      "ja": "……それで？<br>被害者はそんな言い訳で納得すると思ってんのかよ！？",
+      "zh": "……所以呢？<br>\n你觉得受害者会接受那种借口吗！？",
+      "vi": "...vậy? Bạn có nghĩ nạn nhân sẽ chấp nhận lời bào chữa đó không! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa011",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa011|",
+      "ja": "大魔女のせいでこうなってんだとしても、<br>実際に罪を犯したのはウチらだろーが！",
+      "zh": "就算一切都是大魔女害的，<br>\n可实际犯罪的不还是我们吗！",
+      "vi": "Ngay cả khi mọi thứ đều do mụ phù thủy lớn gây ra, Nhưng không phải chúng ta là những người thực sự đã phạm tội sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa012",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa012|",
+      "ja": "だからみんな死ぬしかねぇんだよッ！！",
+      "zh": "所以大家只能去死啊！！",
+      "vi": "Cho nên tất cả mọi người chỉ có thể chết! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro010",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro010|",
+      "ja": "（アリサに詭弁は通じないか……！）",
+      "zh": "（诡辩对亚里沙无效吗……！）",
+      "vi": "(Ngụy biện không có tác dụng với Alisa...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro011",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro011|",
+      "ja": "（……アリサは、ここでみんなが死ねば<br>　悲劇は止まると思い込んでいる）",
+      "zh": "（……亚里沙深信，只要大家死在这里，<br>\n悲剧就会停止）",
+      "vi": "(...Alisa tin chắc rằng miễn là mọi người đều chết ở đây, Bi kịch sẽ dừng lại)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro012",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro012|",
+      "ja": "（だが、本当にそうか……？）",
+      "zh": "（但是，情况真的如此吗……？）",
+      "vi": "(Nhưng, thực sự có phải như vậy không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro013",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro013|",
+      "ja": "アリサ……それは違う！",
+      "zh": "亚里沙……你说得不对！",
+      "vi": "Alisa...cậu nói không đúng!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro014",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro014|",
+      "ja": "魔法の力は、正しく使うことだって出来たじゃないか……！",
+      "zh": "魔法的力量，也是可以用在正道上的，不是吗……！",
+      "vi": "Sức mạnh của phép thuật cũng có thể được sử dụng đúng cách, phải không...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro015",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro015|",
+      "ja": "この裁判の中でも、<br>誰かを癒したり、前を向かせるために<br>力を使ってくれた子がいた……！",
+      "zh": "在这场审判中，<br>\n也有人使用力量<br>\n去治愈他人，或者引导他人向前看……！",
+      "vi": "Trong lần thử nghiệm này, Cũng có người sử dụng quyền lực Để chữa lành vết thương cho người khác, hoặc hướng dẫn người khác tiến về phía trước...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro016",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro016|",
+      "ja": "大事なのは、力をどう使うかだ！",
+      "zh": "重要的是，怎样去使用力量！",
+      "vi": "Điều quan trọng là sử dụng sức mạnh như thế nào!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa013",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa013|",
+      "ja": "力をどう使おうが<br>行きつく先は一緒だろ！？",
+      "zh": "不管怎么去用力量，<br>\n最终结果不都一样吗！？",
+      "vi": "Cho dù mày sử dụng sức mạnh của Tao như thế nào, Kết quả cuối cùng không giống nhau sao? ?",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa014",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa014|",
+      "ja": "佐伯が見せた記憶でもそうだったじゃねえか……。",
+      "zh": "米莉亚展现的记忆里不也是这样吗……",
+      "vi": "Không phải nó giống với ký ức của Miria sao...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa015",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa015|",
+      "ja": "ここにいる奴ら全員、<br>最後は殺人衝動に飲まれて殺し合っちまうんだ！",
+      "zh": "待在这里的家伙，<br>\n最后都会被杀人冲动吞噬而互相残杀！",
+      "vi": "Các mày hãy ở lại đây, Cuối cùng, tất cả sẽ bị xung lực giết người nuốt chửng và giết hại lẫn nhau!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa016",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa016|",
+      "ja": "どうせ死ぬんなら……<br>今死ねよぉ！！",
+      "zh": "反正最后都要死……<br>\n不如现在就去死啊！！",
+      "vi": "Dù sao thì cuối cùng mày cũng sẽ chết... Tốt nhất là nên chết ngay bây giờ! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro017",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro017|",
+      "ja": "（くっ……<br>　生半可な説得では意味がないか……！）",
+      "zh": "（唔……<br>\n半吊子的说服没有意义吗……！）",
+      "vi": "(Ừm... Thuyết phục nửa vời chẳng ích gì sao...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro018",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro018|",
+      "ja": "（……アリサは、ここでみんなが死ねば<br>　悲劇は止まると思い込んでいる）",
+      "zh": "（……亚里沙深信，只要大家死在这里，<br>\n悲剧就会停止）",
+      "vi": "(...Alisa tin chắc rằng miễn là mọi người đều chết ở đây, Bi kịch sẽ dừng lại)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro019",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro019|",
+      "ja": "（だが、本当にそうか……？）",
+      "zh": "（但是，情况真的如此吗……？）",
+      "vi": "(Nhưng, thực sự có phải như vậy không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro020",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro020|",
+      "ja": "レイア！ 君の魔法で！",
+      "zh": "蕾雅！用你的魔法！",
+      "vi": "Leia! Sử dụng phép thuật của bạn!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Leia001",
+      "speaker_tag": "; > Leia: |#0205Trial20_Leia001|",
+      "ja": "任せてくれたまえっ！",
+      "zh": "交给我吧！",
+      "vi": "Để đó cho tôi!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Leia002",
+      "speaker_tag": "; > Leia: |#0205Trial20_Leia002|",
+      "ja": "アリサくん！<br>【あっちを見るんだ】！！",
+      "zh": "亚里沙！<br>\n【看那边】！！",
+      "vi": "Alisa! [Nhìn đằng kia]! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa017",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa017|",
+      "ja": "くそっ……！？ 蓮見、てめえ……！！",
+      "zh": "可恶……！？莲见，你这家伙……！！",
+      "vi": "Chết tiệt...! ? Hasumi, mày mày...! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Leia003",
+      "speaker_tag": "; > Leia: |#0205Trial20_Leia003|",
+      "ja": "安心していいよ……<br>【視線誘導】でキミの視線を逸らしているだけさ。",
+      "zh": "放心……<br>\n我只是用【视线诱导】转移了你的视线而已。",
+      "vi": "Đừng lo lắng... Tôi vừa sử dụng [Hướng dẫn ánh mắt] để chuyển hướng ánh nhìn của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Leia004",
+      "speaker_tag": "; > Leia: |#0205Trial20_Leia004|",
+      "ja": "これで、炎の狙いは定まらない……！",
+      "zh": "这样，你的火焰就喷不准了……！",
+      "vi": "Bằng cách này, ngọn lửa của bạn sẽ không được phun chính xác...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa018",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa018|",
+      "ja": "定める必要ねーんだよ！",
+      "zh": "根本没必要瞄准！",
+      "vi": "Không cần phải nhắm gì cả!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Leia005",
+      "speaker_tag": "; > Leia: |#0205Trial20_Leia005|",
+      "ja": "熱い熱い熱い！！",
+      "zh": "好烫好烫好烫！！",
+      "vi": "Nóng quá, nóng quá, nóng quá! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro021",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro021|",
+      "ja": "（だめだ……！<br>　アリサがどこを向いていようと、<br>　炎は広がってくる……！）",
+      "zh": "（不行……！<br>\n无论亚里沙看向哪里，<br>\n火焰都会烧过来……！）",
+      "vi": "(Không...! Dù Alisa có nhìn đi đâu, Ngọn lửa sẽ bùng lên...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro022",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro022|",
+      "ja": "（……アリサは、ここでみんなが死ねば<br>　悲劇は止まると思い込んでいる）",
+      "zh": "（……亚里沙深信，只要大家死在这里，<br>\n悲剧就会停止）",
+      "vi": "(...Alisa tin chắc rằng miễn là mọi người đều chết ở đây, Bi kịch sẽ dừng lại)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro023",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro023|",
+      "ja": "（だが、本当にそうか……？）",
+      "zh": "（但是，情况真的如此吗……？）",
+      "vi": "(Nhưng, thực sự có phải như vậy không...?)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro024",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro024|",
+      "ja": "くっ……！<br>アンアン！ 力を貸してくれ！",
+      "zh": "唔……！<br>\n安安！帮我一把！",
+      "vi": "Ờ...! AnAn! Giúp tôi với!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_AnAn001",
+      "speaker_tag": "; > AnAn: |#0205Trial20_AnAn001|",
+      "ja": "……わがはいは……。",
+      "zh": "……这次……",
+      "vi": "...lần này...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_AnAn002",
+      "speaker_tag": "; > AnAn: |#0205Trial20_AnAn002|",
+      "ja": "次は……止めてみせる。",
+      "zh": "吾辈……一定要阻止。",
+      "vi": "Chúng ta... phải dừng nó lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_AnAn003",
+      "speaker_tag": "; > AnAn: |#0205Trial20_AnAn003|",
+      "ja": "ミリアも……ノアも……レイアもだ……！",
+      "zh": "不管是米莉亚……还是诺亚……还有蕾雅……！",
+      "vi": "Cho dù đó là Miria... hay Noah... hay Leia...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_AnAn004",
+      "speaker_tag": "; > AnAn: |#0205Trial20_AnAn004|",
+      "ja": "だから……<color=#9c8eff><b>【人を殺すな】</b></color>！ アリサ！",
+      "zh": "所以……<color=#9c8eff><b>【不许杀人】</b></color>！亚里沙！",
+      "vi": "Vì vậy...<color=#9c8eff><b>[Không giết người]</b></color>! Alisa!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa019",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa019|",
+      "ja": "ぐっ……！",
+      "zh": "咕……！",
+      "vi": "Gu...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa020",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa020|",
+      "ja": "人だと……！？<br>ウチらは魔女だ！<br>もう人間じゃねぇ……！",
+      "zh": "人！？<br>\n我们是魔女！<br>\n已经不是人类了……！",
+      "vi": "Mọi người! ? Chúng ta là phù thủy! Không còn là con người...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa021",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa021|",
+      "ja": "そんな命令……聞けるかよ！",
+      "zh": "什么狗屁命令……我才不听！",
+      "vi": "Mệnh lệnh nhảm nhí gì vậy...Tao sẽ không nghe!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro025",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro025|",
+      "ja": "くっ……！",
+      "zh": "唔……！",
+      "vi": "Ờ...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_AnAn005",
+      "speaker_tag": "; > AnAn: |#0205Trial20_AnAn005|",
+      "ja": "話を……<color=#9c8eff><b>【聞け】</b></color>ぇ！！",
+      "zh": "把话……<color=#9c8eff><b>【听进去】</b></color>啊！！",
+      "vi": "Nghe này...<color=#9c8eff><b>$Nghe này</b></color>À! !",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro026",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro026|",
+      "ja": "（アンアンの魔法、<br>　アリサを完全に制御できるほどの力はないか……！）",
+      "zh": "（安安的魔法，<br>\n并没有强大到能完全控制亚里沙吗……！）",
+      "vi": "(Phép thuật của AnAn, Không phải nó đủ mạnh để kiểm soát hoàn toàn Alisa sao…? )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa022",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa022|",
+      "ja": "……チッ……！",
+      "zh": "……啧……！",
+      "vi": "...Chậc...!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro027",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro027|",
+      "ja": "（いや……！<br>　炎の勢いは弱まっている……！）",
+      "zh": "（不……！<br>\n火势减弱了……！）",
+      "vi": "(Không...! Lửa đã tắt...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro028",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro028|",
+      "ja": "（少しは彼女も耳を傾けてくれているということか……！）",
+      "zh": "（也就是说她多少有把话听进去……！）",
+      "vi": "(Nói cách khác, cô ấy đã phần nào lắng nghe những gì mình nói…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro029",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro029|",
+      "ja": "（今なら話を聞いてくれる余地はあるかもしれない……！）",
+      "zh": "（那么现在或许还有机会，能让她听进去我说的话……！）",
+      "vi": "(Vậy có lẽ bây giờ sẽ có cơ hội để khiến cô ấy nghe những gì mình nói…!)",
+      "objection_links": []
+    },
+    {
+      "id": "Toast_002",
+      "speaker_tag": "; > @toast |#Toast_002|",
+      "ja": "議論発展…",
+      "zh": "讨论前进…",
+      "vi": "Cuộc thảo luận đang tiến triển…",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro030",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro030|",
+      "ja": "待てアリサ！",
+      "zh": "等下，亚里沙！",
+      "vi": "Đợi đã, Alisa!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro031",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro031|",
+      "ja": "魔女を殺したところで魔女因子は消失しない！",
+      "zh": "就算杀了魔女，魔女因子也不会消失！",
+      "vi": "Ngay cả khi bạn giết phù thủy, Yếu tố Ma Nữ sẽ không biến mất!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro032",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro032|",
+      "ja": "また新たな犠牲者を生むだけだ！",
+      "zh": "只会产生新的牺牲者罢了！",
+      "vi": "Nó sẽ chỉ tạo ra những nạn nhân mới!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa023",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa023|",
+      "ja": "ぐっ……！<br>う、うるせぇ……。",
+      "zh": "唔……！<br>\n吵、吵死了……",
+      "vi": "Ờ...! Ồn ào quá, ồn ào quá...",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa024",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa024|",
+      "ja": "うるせぇうるせぇうるせぇ……！",
+      "zh": "吵死了吵死了吵死了……！",
+      "vi": "Ồn ào quá, ồn ào quá, ồn ào quá…!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Alisa025",
+      "speaker_tag": "; > Alisa: |#0205Trial20_Alisa025|",
+      "ja": "――みんな死ぬしかねぇんだよ！",
+      "zh": "——大家只能去死啊！",
+      "vi": "——Mọi người chỉ có thể chết!",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro033",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro033|",
+      "ja": "（くっ……！<br>　説得は効かないか――！？）",
+      "zh": "（唔……！<br>\n还是说服不了吗——！？）",
+      "vi": "(Hừm...! Vẫn không thể tin được—! ? )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro034",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro034|",
+      "ja": "（……いや、そんなことはない。<br>　また炎の勢いが弱まってきている……）",
+      "zh": "（……不，也不是完全没效果。<br>\n火势又减弱了……）",
+      "vi": "(…Không, nó không hoàn toàn không hiệu quả. Ngọn lửa lại yếu đi...)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro035",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro035|",
+      "ja": "（……アンアンの魔法は、<br>　相手がその言葉に納得しないと効果を発揮しない）",
+      "zh": "（……如果对方不认可安安说的话，<br>\n她的魔法就无法发挥效果）",
+      "vi": "(...Nếu bên kia không đồng ý với những gì AnAn nói, Phép thuật của cô ấy sẽ không có tác dụng)",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro036",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro036|",
+      "ja": "（大丈夫だ……！<br>　アリサはちゃんと私の話を聞いている！）",
+      "zh": "（没问题……！<br>\n亚里沙的确有听进我说的话！）",
+      "vi": "(Không vấn đề gì...! Alisa đã nghe những gì tôi nói! )",
+      "objection_links": []
+    },
+    {
+      "id": "0205Trial20_Hiro037",
+      "speaker_tag": "; > Hiro: |#0205Trial20_Hiro037|",
+      "ja": "（このまま説得を続けるんだ……！）",
+      "zh": "（继续说服她吧……！）",
+      "vi": "(Tiếp tục thuyết phục cô ấy...!)",
+      "objection_links": []
+    }
+  ]
+}

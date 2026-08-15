@@ -1,0 +1,336 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Adv12",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Adv12' Naninovel scenario script",
+  "total_entries": 41,
+  "entries": [
+    {
+      "id": "0202Adv12_Narrative001",
+      "speaker_tag": "",
+      "ja": "朝食後。",
+      "zh": "早餐时间后。",
+      "vi": "Sau giờ ăn sáng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative002",
+      "speaker_tag": "",
+      "ja": "エマ殺害の準備を進めるため、<br>私は静かにシャワールームへと足を踏み入れた。",
+      "zh": "为了做好谋杀艾玛的准备工作，<br>\n我悄悄来到淋浴房。",
+      "vi": "Để chuẩn bị cho vụ sát hại Ema, Tôi lặng lẽ đi vào phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative003",
+      "speaker_tag": "",
+      "ja": "相変わらずシャワールームの壁には、<br>大きな絵が描かれている。",
+      "zh": "淋浴房的墙壁上，<br>\n还是一如既往画着一幅巨大的壁画。",
+      "vi": "Trên tường phòng tắm, Vẫn vẽ một bức tranh tường khổng lồ như mọi khi.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro001|",
+      "ja": "【バルーン】、か……。",
+      "zh": "【气球】吗……",
+      "vi": "[Bóng bay]?......",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative004",
+      "speaker_tag": "",
+      "ja": "本人に聞いてみてもいいが、<br>おそらく<ruby=\"とんちゃく\">頓着</ruby>していないだろう。",
+      "zh": "虽然也可以问问诺亚本人，<br>\n但她估计并不在意这些名头吧。",
+      "vi": "Mặc dù bạn cũng có thể hỏi chính Noah, Nhưng có lẽ cô ấy không quan tâm đến những cái tên này.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro002|",
+      "ja": "（ノアは本当にただ純粋に絵を描くのが好きだと<br>　伝わってくる）",
+      "zh": "（能感受到<br>\n她真的只是纯粹地喜欢画画）",
+      "vi": "(Có thể cảm nhận được Cô ấy thực sự chỉ thích vẽ)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro003|",
+      "ja": "（きっとお絵描きできるならどこでもいいんだろうな。<br>　この牢屋敷でも）",
+      "zh": "（对于她来说，只要可以画画，<br>\n似乎身在何处都无关紧要。即使是在这座监牢）",
+      "vi": "(Đối với cô ấy, chỉ cần cô ấy có thể vẽ, Dường như việc bạn ở đâu không quan trọng. Ngay cả trong Ngục Dinh Thự này)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative005",
+      "speaker_tag": "",
+      "ja": "改めてノアの絵を見つめ、<br>くすりと笑ってしまった。",
+      "zh": "我再次仔细端详诺亚的画，<br>\n不禁笑了起来。",
+      "vi": "Tôi đã xem kỹ bức tranh của Nô-ê một lần nữa, Tôi không thể không cười.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro004|",
+      "ja": "（ストレスなく生きているなら、<br>　ノアは魔女化の心配はなさそうだ）",
+      "zh": "（既然她在这里能够毫无压力地生活下去，<br>\n应该就不需要担心她堕为魔女了）",
+      "vi": "(Vì cô ấy có thể sống ở đây mà không gặp bất kỳ áp lực nào, Không cần phải lo lắng về việc cô ấy sẽ biến thành phù thủy)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative006",
+      "speaker_tag": "",
+      "ja": "そんなことを考えていて、<br>ハッと我に返る。",
+      "zh": "沉浸在思绪中，<br>\n忽然，我猛地回过神来。",
+      "vi": "Đắm chìm trong suy nghĩ, Đột nhiên tôi chợt tỉnh lại.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro005",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro005|",
+      "ja": "（今はノアは関係ないだろう！<br>　大切なところで集中しないでどうする）",
+      "zh": "（现在要做的事和诺亚无关吧！<br>\n怎么能不把精力集中在头等大事上）",
+      "vi": "(Việc chúng ta phải làm bây giờ không liên quan gì đến Noah! Làm sao bạn có thể không tập trung vào ưu tiên hàng đầu?)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative007",
+      "speaker_tag": "",
+      "ja": "気を取り直して、準備を進めていく。",
+      "zh": "我重新打起精神，继续推进准备工作。",
+      "vi": "Tôi lấy lại bình tĩnh và tiếp tục công việc chuẩn bị của mình.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative008",
+      "speaker_tag": "",
+      "ja": "やることはシンプルだ。<br>事前にダストシュートに細工をするだけ。",
+      "zh": "要做的事很简单。<br>\n只需事先在垃圾滑槽上动动手脚。",
+      "vi": "Việc cần làm rất đơn giản. Chỉ cần thực hiện một số công việc trên máng thải trước.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative009",
+      "speaker_tag": "",
+      "ja": "エマが事故と処理されるには、<br>その裏付けとなる証拠が必要だ。",
+      "zh": "要把艾玛之死伪装成意外，<br>\n需要制造相应的证据。",
+      "vi": "Để ngụy trang cái chết của Ema như một tai nạn, Cần phải đưa ra bằng chứng tương ứng.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro006",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro006|",
+      "ja": "（よって……ダストシュートのフタは、<br>　【経年劣化で壊れていた】ことにする）",
+      "zh": "（所以……垃圾滑槽的盖子<br>\n要做成【年久失修导致损坏】的样子）",
+      "vi": "(Vậy...nắp máng đổ rác Để làm cho nó trông như [bị hư hỏng do không được sửa chữa])",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro007",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro007|",
+      "ja": "（エマは不運にもそれに気付かず近付いて、<br>　バランスを崩して落下してしまった……）",
+      "zh": "（不幸的是，艾玛没有注意到这件事，<br>\n走近后一时失去平衡，掉下去了……）",
+      "vi": "(Thật không may, Ema đã không nhận thấy điều này, Khi tôi đến gần hơn, tôi mất thăng bằng và ngã...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro008",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro008|",
+      "ja": "（その衝撃で頭を強く打ったエマは気を失い、<br>　運悪く時間に合わせて自動で焼却炉が稼働……）",
+      "zh": "（她因为头部遭受猛烈的撞击而晕了过去，<br>\n然后又不幸撞上焚烧炉启动的时间……）",
+      "vi": "(Cô ấy ngất đi do bị đánh mạnh vào đầu, Rồi không may lại đúng lúc lò đốt rác được khởi động...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro009",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro009|",
+      "ja": "（エマはそのまま焼かれ、焼死してしまう）",
+      "zh": "（就这样，艾玛被烧死在那里）",
+      "vi": "(Bằng cách này, Ema đã bị thiêu chết ở đó)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro010",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro010|",
+      "ja": "（……これが事件の筋書きだ）",
+      "zh": "（……这就是我的剧本）",
+      "vi": "(...đây là kịch bản của tôi)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative010",
+      "speaker_tag": "",
+      "ja": "細工は事件の前に<ruby=\"ほどこ\">施</ruby>す必要があった。",
+      "zh": "必须在发现命案之前，就对滑槽下手。",
+      "vi": "Chiếc máng phải bị tấn công trước khi vụ án mạng bị phát hiện.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative011",
+      "speaker_tag": "",
+      "ja": "エマが行方をくらました後に<br>細工をしているのを目撃されたら、<br>犯人と疑われる可能性が上がるためだ。",
+      "zh": "因为若是艾玛失踪后<br>\n被人看到我动手脚的场面，<br>\n就会加深自己的嫌疑。",
+      "vi": "Bởi vì nếu Ema biến mất Cảnh ai đó nhìn thấy tôi đang làm gì đó, Nó sẽ làm sâu sắc thêm sự nghi ngờ của bạn.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative012",
+      "speaker_tag": "",
+      "ja": "事前に細工しておけば、<br>万が一見つかってもいくらでも誤魔化しはきく。<br>最悪計画を中止すればいいだけだ。",
+      "zh": "如果事先动手脚的话，<br>\n万一被人目击，也能设法为自己开脱。<br>\n最差的情况不过是计划中止。",
+      "vi": "Nếu bạn làm điều gì đó trước, Nếu ai đó chứng kiến bạn, bạn có thể cố gắng bào chữa cho mình. Điều tồi tệ nhất có thể xảy ra là kế hoạch bị hủy bỏ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro011",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro011|",
+      "ja": "（私はエマを殺害したあと、<br>　誰かが【事故の証拠】を見つけるのに合わせて<br>　推理を披露すればいいだけだ）",
+      "zh": "（我杀死艾玛后，<br>\n只要等到有人找到【艾玛死亡是事故的证据】，<br>\n再配合证据发表我的推理就好）",
+      "vi": "(Sau khi tôi giết Ema, Hãy đợi cho đến khi có người tìm thấy [bằng chứng cho thấy cái chết của Ema là một tai nạn], Chỉ cần công bố lý do của tôi dựa trên bằng chứng)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro012",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro012|",
+      "ja": "（【エマは運悪くダストシュートの故障によって<br>　命を落としたのだ】、と）",
+      "zh": "（结论是【因为垃圾滑槽故障，<br>\n艾玛不幸地失去了生命】）",
+      "vi": "(Kết luận là [do máng đổ rác bị hỏng, Ema không may mất mạng])",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro013",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro013|",
+      "ja": "（言いくるめることなんて、いくらでもできる。<br>　なにせ……他殺の証拠なんて何も残らないのだから）",
+      "zh": "（总会有狡辩的余地。<br>\n毕竟……没有任何证据能证明是他杀）",
+      "vi": "(Luôn luôn có chỗ cho những lời ngụy biện. Rốt cuộc...không có bằng chứng nào chứng minh đó là vụ giết người)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro014",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro014|",
+      "ja": "（よし、早く済ませてしまおう）",
+      "zh": "（好，赶快把事情办完吧）",
+      "vi": "(Được rồi, hãy hoàn thành việc này nhanh chóng)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative013",
+      "speaker_tag": "",
+      "ja": "アトリエで見つけた工具を手に、<br>ダストシュートに近付いた私は――",
+      "zh": "我拿起在画室里找到的工具，<br>\n走向垃圾滑槽——",
+      "vi": "Tôi đã nhặt những công cụ tôi tìm thấy trong studio, Hướng về phía máng rác——",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Choice001",
+      "speaker_tag": "; > @choice |#0202Adv12_Choice001|",
+      "ja": "ネジを少しゆるめた",
+      "zh": "稍稍拧松螺丝",
+      "vi": "Nới lỏng vít một chút",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Choice002",
+      "speaker_tag": "; > @choice |#0202Adv12_Choice002| button:ChoiceButtons/Adv/Bad",
+      "ja": "念のため中を調べることにした",
+      "zh": "以防万一调查内部",
+      "vi": "Để đề phòng, hãy điều tra nội bộ",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative014",
+      "speaker_tag": "",
+      "ja": "フタのネジを少しゆるめた。",
+      "zh": "然后稍稍拧松盖子上的螺丝。",
+      "vi": "Sau đó nới lỏng vít trên nắp một chút.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro015",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro015|",
+      "ja": "（これでいい。後は時間が来るのを待つだけ。<br>……いや、まだひとつ懸念があった）",
+      "zh": "（这样就好。接下来只要等待约定的时间到来。<br>\n……不对，还有一个隐患）",
+      "vi": "(Không sao đâu. Vậy thì hãy đợi đến thời gian đã thỏa thuận. ...Không, có một mối nguy hiểm tiềm ẩn khác)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative015",
+      "speaker_tag": "",
+      "ja": "ココの存在だ。",
+      "zh": "那就是可可。",
+      "vi": "Đó là Coco.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro016",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro016|",
+      "ja": "（彼女は防音性の高いシャワールームで<br>　配信をすることがある……）",
+      "zh": "（她有时候会来隔音比较好的淋浴房<br>\n做直播……）",
+      "vi": "(Đôi khi cô ấy đến phòng tắm có cách âm tốt hơn Truyền hình trực tiếp...)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative016",
+      "speaker_tag": "",
+      "ja": "もしエマとの約束の時間に、<br>ココがシャワールームで配信をしようとしたら。",
+      "zh": "如果到了我和艾玛约定的时间，<br>\n可可正好想来淋浴房直播了，我该怎么办？",
+      "vi": "Nếu thời gian mà tôi và Ema đã thỏa thuận đến, Coco chỉ muốn phát sóng trực tiếp trong phòng tắm thì phải làm sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative017",
+      "speaker_tag": "",
+      "ja": "計画を思いついた時点で、私はこの問題に気付いた。",
+      "zh": "当我想到这个计划的时候，就已经留意到了这个问题。",
+      "vi": "Tôi đã nhận thức được vấn đề này khi tôi nghĩ ra kế hoạch này.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative018",
+      "speaker_tag": "",
+      "ja": "ココにもっと適切な配信場所を提供するなど、<br>いくつかの策を<ruby=\"ね\">練</ruby>った。",
+      "zh": "我拟了几个解决方案，<br>\n比如给可可提供一个更好的直播场地，等等。",
+      "vi": "Tôi đã đề xuất một số giải pháp, Ví dụ: cung cấp địa điểm phát sóng trực tiếp tốt hơn cho Coco, v.v.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative019",
+      "speaker_tag": "",
+      "ja": "だが、あまり裏工作のような動きをすると<br>後々怪しまれる要因になりかねない。",
+      "zh": "但是，小动作做得太多的话，<br>\n很可能导致自己之后被人怀疑。",
+      "vi": "Tuy nhiên, nếu bạn thực hiện quá nhiều động tác nhỏ, Rất có thể sau này anh ta sẽ bị nghi ngờ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative020",
+      "speaker_tag": "",
+      "ja": "最終的には対策を<ruby=\"こう\">講</ruby>じることができないまま、<br>当日を迎えてしまっていた。",
+      "zh": "最后我还是没想出什么具体对策，<br>\n就这样到了计划当天。",
+      "vi": "Cuối cùng tôi vẫn chưa nghĩ ra biện pháp đối phó cụ thể nào, Thế là xong cho ngày lập kế hoạch.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro017",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro017|",
+      "ja": "（邪魔になりそうなのはココだけじゃない）",
+      "zh": "（其实不止可可一个隐患）",
+      "vi": "(Trên thực tế, Cocoa không phải là mối nguy hiểm tiềm ẩn duy nhất)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Narrative021",
+      "speaker_tag": "",
+      "ja": "他の少女だって、シャワールームを<br>訪れる可能性があるのだ。",
+      "zh": "其他少女也可能来到淋浴房。<br>",
+      "vi": "Những cô gái tuổi teen khác cũng có thể vào phòng tắm.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv12_Hiro018",
+      "speaker_tag": "; > Hiro: |#0202Adv12_Hiro018|",
+      "ja": "（その時は、うまく追い払うしかない）",
+      "zh": "（到那时就只能想办法巧妙地赶她们走了）",
+      "vi": "(Lúc đó tất cả những gì chúng ta có thể làm là tìm cách xua đuổi chúng một cách khéo léo)",
+      "objection_links": []
+    }
+  ]
+}

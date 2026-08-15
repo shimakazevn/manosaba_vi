@@ -1,0 +1,112 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act02_chapter02_advbad_assets_all.bundle",
+  "script_name": "Act02_Chapter02_Adv18",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act02_Chapter02/Act02_Chapter02_Adv18' Naninovel scenario script",
+  "total_entries": 13,
+  "entries": [
+    {
+      "id": "0202Adv18_Narrative001",
+      "speaker_tag": "",
+      "ja": "夜になり、鐘の音が魔女裁判の開始を告げる。",
+      "zh": "夜幕降临，钟声宣告魔女审判即将开始。",
+      "vi": "Khi màn đêm buông xuống, tiếng chuông thông báo rằng phiên tòa xét xử phù thủy sắp bắt đầu.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Hiro001",
+      "speaker_tag": "; > Hiro: |#0202Adv18_Hiro001|",
+      "ja": "（時間か――）",
+      "zh": "（到时间了——）",
+      "vi": "(Đã đến lúc——)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Narrative002",
+      "speaker_tag": "",
+      "ja": "私とエマは看守によって、<br>裁判所まで連行された。",
+      "zh": "在看守的押送下，<br>\n我和艾玛被带到审判庭。",
+      "vi": "Dưới sự hộ tống của Cai Ngục, Ema và tôi bị đưa tới Tòa án dị giáo.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Narrative003",
+      "speaker_tag": "",
+      "ja": "すでに他の少女たちも集まり、<br>証言台に立っている。",
+      "zh": "其他少女都已经各就各位，<br>\n站在各自的证人席上。",
+      "vi": "Các cô gái khác đã vào chỗ của mình rồi, Hãy đứng lên làm chứng tương ứng của họ.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Warden001",
+      "speaker_tag": "; > Warden: |#0202Adv18_Warden001|",
+      "ja": "さて、これで皆さん揃われましたね。",
+      "zh": "那么，所有人都到齐了吧。",
+      "vi": "Vậy là mọi người đều ở đây.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Narrative004",
+      "speaker_tag": "",
+      "ja": "エマと私が位置についたのを確認し、<br>ゴクチョーが口を開く。",
+      "zh": "看到艾玛和我都就位以后，<br>\n典狱长开口发言。",
+      "vi": "Sau khi thấy Ema và tôi đều đã vào chỗ, Người cai ngục nói.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Warden002",
+      "speaker_tag": "; > Warden: |#0202Adv18_Warden002|",
+      "ja": "事前投票では、<br>ヒロさんとエマさんが同数で疑われていますが……<br>どうなるでしょうね。",
+      "zh": "在先行投票中，<br>\n希罗小姐和艾玛小姐受到的怀疑票数相同……<br>\n事情到底会怎么发展呢。",
+      "vi": "Bỏ phiếu trước, Cô Anh hùng và Ema nhận được số phiếu nghi ngờ như nhau... Mọi chuyện sẽ phát triển như thế nào?",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Hiro002",
+      "speaker_tag": "; > Hiro: |#0202Adv18_Hiro002|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Ema001",
+      "speaker_tag": "; > Ema: |#0202Adv18_Ema001|",
+      "ja": "…………。",
+      "zh": "…………",
+      "vi": "…………",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Narrative005",
+      "speaker_tag": "",
+      "ja": "私たちは互いに疑い合い、<br>他の何者も目に入らない状態だった。",
+      "zh": "我们的眼里只剩下对彼此的怀疑，<br>\n再容不下其他任何人。",
+      "vi": "Trong mắt chúng ta chỉ có sự nghi ngờ về nhau, Không có chỗ cho bất cứ ai khác.",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Hiro003",
+      "speaker_tag": "; > Hiro: |#0202Adv18_Hiro003|",
+      "ja": "（いよいよ君の本性が暴かれる時だ。<br>　覚悟しろ）",
+      "zh": "（终于到揭露你本性的时候了。<br>\n做好准备吧）",
+      "vi": "(Cuối cùng cũng đến lúc bộc lộ bản chất thật của bạn. Hãy chuẩn bị)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Hiro004",
+      "speaker_tag": "; > Hiro: |#0202Adv18_Hiro004|",
+      "ja": "（エマ――君を魔女として必ず処刑台に送る！）",
+      "zh": "（艾玛——我定要将你这魔女送上处刑台！）",
+      "vi": "(Ema - Tôi sẽ đưa bạn, mụ phù thủy, đến bệ hành quyết!)",
+      "objection_links": []
+    },
+    {
+      "id": "0202Adv18_Warden003",
+      "speaker_tag": "; > Warden: |#0202Adv18_Warden003|",
+      "ja": "それでは、魔女裁判開廷です！",
+      "zh": "那么，魔女审判现在开庭！",
+      "vi": "Chà, Phiên tòa xét xử phù thủy đã bắt đầu!",
+      "objection_links": []
+    }
+  ]
+}

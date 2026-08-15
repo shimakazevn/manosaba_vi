@@ -1,0 +1,846 @@
+{
+  "bundle": "general-localization-zhhans-scripts-act01_chapter04_trial_assets_all.bundle",
+  "script_name": "Act01_Chapter04_Trial07",
+  "header": "; 日本語 <ja> to 简体中文 <zh-Hans> localization document for 'Act01_Chapter04/Act01_Chapter04_Trial07' Naninovel scenario script",
+  "total_entries": 104,
+  "entries": [
+    {
+      "id": "0104Trial07_Margo001",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial07_Margo001|",
+      "ja": "このフタは、<br>私が現場で<br>死体を発見した時に<br>見つけたものよ。<br>私、第一発見者だもの。",
+      "zh": "我在案发现场<br>\n发现尸体的时候<br>\n找到了这个铝盖。<br>\n因为我是第一目击者。<br>",
+      "vi": "Chị đã có mặt tại hiện trường vụ án Khi thi thể được tìm thấy Tìm thấy vỏ nhôm này. Bởi vì Chị là nhân chứng đầu tiên.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo002",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial07_Margo002|",
+      "ja": "その時、<br>アリサちゃんの死体は<br>今と同じ体勢で<br>電気椅子に座っていたわ。<br>その顔には<br>蝶のような模様が<br>刻まれていてね。",
+      "zh": "当时<br>\n亚里沙的尸体<br>\n跟现在一样，<br>\n以这个姿势坐在电椅上。<br>\n脸上还有一个<br>\n形状像蝴蝶一样的<br>\n伤痕。",
+      "vi": "Lúc đó Xác của Alisa Tương tự như bây giờ, Ngồi ở vị trí này trên Ghế Điện. Ngoài ra còn có trên mặt Có hình dạng như một con bướm vết sẹo.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo003",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial07_Margo003|",
+      "ja": "そして床に<br>落ちていたフタを<br>見つけた時……<br>ふと、ノアちゃんの事件が<br>頭を過ったの。",
+      "zh": "后来<br>\n在地上找到<br>\n这个盖子的时候……<br>\n我突然想起了<br>\n诺亚的案件。",
+      "vi": "Sau Tìm thấy trên mặt đất Khi sử dụng nắp này... Chị chợt nhớ tới Trường hợp của Nô-ê.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo004",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial07_Margo004|",
+      "ja": "【このままじゃ、<br>自分が疑われるかも】<br>……ってね。",
+      "zh": "【如果不采取行动，<br>\n说不定会遭到怀疑】……<br>",
+      "vi": "[Nếu không có hành động nào được thực hiện, Bạn có thể bị nghi ngờ]...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Meruru001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial07_Meruru001|",
+      "ja": "もしかして……<br>【ダイイングメッセージ】<br>でしょうか？",
+      "zh": "难道说……<br>\n是【死亡讯息】？<br>",
+      "vi": "Có lẽ nào... Đó có phải là [tin nhắn tử vong] không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo005",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial07_Margo005|",
+      "ja": "そうね。<br>あの時と同じく、<br>【アリサちゃんが<br>犯人を告発する為に残した】<br>……なんて言われたら<br>たまらないでしょう？",
+      "zh": "没错。<br>\n跟诺亚那次一样，<br>\n如果有人主张【这是亚里沙<br>\n为了揭发凶手而留下的】……<br>\n那麻烦可就大了，<br>\n不是吗？",
+      "vi": "Đúng vậy. Giống như lần đó với Noah, Nếu ai đó tuyên bố [Đây là Alisa Bị bỏ lại để vạch trần kẻ sát nhân]... Đó sẽ là một rắc rối lớn, Phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo006",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial07_Margo006|",
+      "ja": "だって、明らかに<br><link=\"Objection_01_04_07_01\">蝶の模様</link><br>なんだもの。<br><link=\"Objection_01_04_07_02\">私の衣装と同じ</link>……ね。",
+      "zh": "因为你看，这很明显就是<br>\n<link=\"Objection_01_04_07_01\">蝴蝶的形状</link>嘛。<br>\n<link=\"Objection_01_04_07_02\">跟我衣服上的装饰一样</link>……<br>\n对吧。",
+      "vi": "Bởi vì em thấy đấy, rõ ràng là <link=\"Objection_01_04_07_01\">Hình con bướm</link>Chà. <link=\"Objection_01_04_07_02\"> giống với hình trang trí trên quần áo của Chị</link>…… Đúng.",
+      "objection_links": [
+        "Objection_01_04_07_01",
+        "Objection_01_04_07_02"
+      ]
+    },
+    {
+      "id": "0104Trial07_Margo007",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial07_Margo007|",
+      "ja": "だから隠しておいたの♡<br>何か問題あるかしら？",
+      "zh": "所以我就把它藏起来了♡<br>\n这有什么问题吗？",
+      "vi": "Thế nên Chị đã giấu nó ♡ Có chuyện gì thế này?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial07_Coco001|",
+      "ja": "問題大有りじゃん！<br>証拠品隠すなんて<br>怪しすぎるだろ！",
+      "zh": "问题可大了！<br>\n竟然把证物给藏起来，<br>\n你也太可疑了！",
+      "vi": "Thật là một vấn đề lớn! Anh ta thực sự đã giấu bằng chứng, Bạn nghi ngờ quá!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco002",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial07_Coco002|",
+      "ja": "火傷は<br>【<link=\"Objection_01_04_07_03\">マーゴが殺した</link>】<br>っていう<br>アリサの<br><link=\"Objection_01_04_07_04\">ダイイングメッセージ</link><br>だった……。",
+      "zh": "灼伤的痕迹<br>\n就是亚里沙留下的<br>\n<link=\"Objection_01_04_07_04\">死亡讯息</link>，<br>\n她想对我们说，<br>\n【<link=\"Objection_01_04_07_03\">凶手就是玛格</link>】……",
+      "vi": "Vết cháy Đó là thứ Alisa để lại <link=\"Objection_01_04_07_04\">Thông điệp tử vong</link>, Cô ấy muốn nói với chúng Coco, 【<link=\"Objection_01_04_07_03\">Kẻ sát nhân là Mag</link>】......",
+      "objection_links": [
+        "Objection_01_04_07_04",
+        "Objection_01_04_07_03"
+      ]
+    },
+    {
+      "id": "0104Trial07_Coco003",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial07_Coco003|",
+      "ja": "そう思われても<br>仕方なくない！？",
+      "zh": "既然敢隐瞒，<br>\n就别怪别人怀疑好吗！？",
+      "vi": "Vì bạn dám giấu nó, Chỉ cần đừng trách người khác nghi ngờ là được! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo008",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial07_Margo008|",
+      "ja": "そう？<br>ごめんなさいね♡",
+      "zh": "这样啊？<br>\n真是对不起♡",
+      "vi": "Có phải vậy không? Chị rất xin lỗi♡",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo009",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial07_Margo009|",
+      "ja": "でも……<br>エマちゃんは私のこと、<br>信じてくれるわよね？",
+      "zh": "可是……<br>\n艾玛应该会相信我的，<br>\n没错吧？",
+      "vi": "Nhưng... Ema nên tin Chị, Đúng không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo010",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial07_Margo010|",
+      "ja": "だってエマちゃんは……<br>さっき<br>【アリサちゃんの自殺】<br>だって<br>断言してくれたんだもの。",
+      "zh": "因为刚才<br>\n艾玛不是<br>\n一口咬定……<br>\n【亚里沙是自杀】的嘛。<br>",
+      "vi": "Bởi vì vừa rồi Ema không phải Chị nhấn mạnh... [Alisa đã tự sát].",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo011",
+      "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial07_Margo011|",
+      "ja": "今更意見を覆して<br>私を裏切ったりなんて……<br>しないわよね。",
+      "zh": "我想艾玛肯定不会<br>\n因为我藏起证物，<br>\n就回头怀疑我是凶手……对不对。",
+      "vi": "Chị nghĩ Ema chắc chắn sẽ không Bởi vì Chị đã giấu bằng chứng, Sau đó anh ta quay lại và nghi ngờ Chị là kẻ sát nhân… phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema001",
+      "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial07_Ema001|",
+      "ja": "そ、それは……！",
+      "zh": "这、这……！",
+      "vi": "Cái này, cái này...!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema002",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema002|",
+      "ja": "（マーゴちゃんが証拠を隠してたなんて……！）",
+      "zh": "（玛格竟然隐藏证据……！）",
+      "vi": "(Margo thực sự đã giấu bằng chứng…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema003",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema003|",
+      "ja": "（……でも、提出された証拠で<br>　事件の大筋が変わるわけじゃないはず……）",
+      "zh": "（……但讨论的方向应该不会<br>\n因为新证据产生明显变化……）",
+      "vi": "(...Nhưng hướng thảo luận không nên là Bởi vì bằng chứng mới tạo ra sự khác biệt đáng kể...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema004",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema004|",
+      "ja": "（なら……信じるんだ……！<br>　みんなのことを！）",
+      "zh": "（这样的话……我要相信……！<br>\n相信大家！）",
+      "vi": "(Trong trường hợp này...tôi muốn tin...! Hãy tin mọi người! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Choice001",
+      "speaker_tag": "; > @choice |#0104Trial07_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "模様は蝶ではない",
+      "zh": "这不是蝴蝶形状",
+      "vi": "Đây không phải là hình con bướm",
+      "objection_links": []
+    },
+    {
+      "id": "Common_Return",
+      "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
+      "ja": "戻る",
+      "zh": "返回",
+      "vi": "Trở lại",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Choice002",
+      "speaker_tag": "; > @choice |#0104Trial07_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "マーゴにはアリバイがある",
+      "zh": "玛格有不在场证明",
+      "vi": "Margo có bằng chứng ngoại phạm",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Choice003",
+      "speaker_tag": "; > @choice |#0104Trial07_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "犯人は蝶だった",
+      "zh": "凶手是蝴蝶",
+      "vi": "Kẻ giết người là một con bướm",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Choice004",
+      "speaker_tag": "; > @choice |#0104Trial07_Choice004| button:ChoiceButtons/Trial/Approval handler:Trial",
+      "ja": "犯人を示していた",
+      "zh": "指示了凶手的身份",
+      "vi": "Cho biết danh tính của kẻ giết người",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Choice005",
+      "speaker_tag": "; > @choice |#0104Trial07_Choice005| button:ChoiceButtons/Trial/Objection handler:Trial",
+      "ja": "火傷は事故だった",
+      "zh": "灼伤是意外",
+      "vi": "Bỏng là tình cờ",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema005",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema005|",
+      "ja": "そのフタの模様は……<br>蝶じゃないんじゃないかな？",
+      "zh": "这个盖子上的图案……<br>\n其实不是蝴蝶吧？",
+      "vi": "Hoa văn trên nắp này... Thực ra nó không phải là một con bướm phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco004",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco004|",
+      "ja": "じゃあ何に見えんの？",
+      "zh": "那你觉得是什么？",
+      "vi": "Vậy bạn nghĩ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema006",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema006|",
+      "ja": "えーと……たとえば、犬とか……？",
+      "zh": "呃……比如，小狗之类的……？",
+      "vi": "Uh...như, một con chó con hay gì đó...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Meruru002",
+      "speaker_tag": "; > Meruru: |#0104Trial07_Meruru002|",
+      "ja": "あるいは……森、とかでしょうか……？",
+      "zh": "或者……是森林之类的……？",
+      "vi": "Hoặc...một khu rừng hay gì đó...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo012",
+      "speaker_tag": "; > Margo: |#0104Trial07_Margo012|",
+      "ja": "あら、ロールシャッハテストかしら？",
+      "zh": "哎呀，这是在做<ruby=\"Rorschach\">罗夏</ruby>测试吗？",
+      "vi": "Rất tiếc, đây có phải là bài kiểm tra <ruby=\"Rorschach\">Rorschach</ruby> không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco005",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco005|",
+      "ja": "ロールシャッハって……なに？",
+      "zh": "罗夏……那是什么？",
+      "vi": "Rorschach...đó là gì vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo013",
+      "speaker_tag": "; > Margo: |#0104Trial07_Margo013|",
+      "ja": "ふふ、知らないのね。かわいい♡",
+      "zh": "呵呵，你不知道啊。好可爱♡",
+      "vi": "Haha, em không biết đâu. Dễ thương quá♡",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco006",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco006|",
+      "ja": "なんかバカにされたんですけど！<br>エマっちのせいだろこれ！",
+      "zh": "总感觉被人当傻瓜了！<br>\n都怪艾玛亲！",
+      "vi": "Coco luôn cảm thấy như mình đang bị coi là kẻ ngốc! Tất cả là lỗi của Ema!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema007",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema007|",
+      "ja": "（ボクのせいにされちゃった……！）",
+      "zh": "（怪到我头上来了……！）",
+      "vi": "(Đổ lỗi cho tôi ...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema008",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema008|",
+      "ja": "（……マーゴちゃんが証拠を隠していた理由はわかったけど……。<br>　でもマーゴちゃんも犯人じゃないはず……）",
+      "zh": "（……虽然弄清楚了玛格隐藏证物的理由……<br>\n不过玛格应该不是凶手……）",
+      "vi": "(…Mặc dù tôi đã tìm ra lý do Mag che giấu bằng chứng… Nhưng Margo có lẽ không phải là kẻ sát nhân...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema009",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema009|",
+      "ja": "（なら……それを証明しよう。<br>　昨晩ここで何が起こったのか、明らかにするんだ！）",
+      "zh": "（那么……我要证明这一点。<br>\n我要还原昨晚在这里发生的事实的真相！）",
+      "vi": "(Vậy...tôi sẽ chứng minh điều đó. Tôi muốn khôi phục lại sự thật về những gì đã xảy ra ở đây đêm qua! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema010",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema010|",
+      "ja": "でもマーゴちゃんにはアリバイがあるよ！",
+      "zh": "可是玛格昨晚有不在场证明！",
+      "vi": "Nhưng Margo có bằng chứng ngoại phạm tối qua!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco007",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco007|",
+      "ja": "んなこと、あてぃしらが一番わかってんの！",
+      "zh": "这用得着你说，我们可是最清楚的好吗！",
+      "vi": "Cậu cần phải nói với Coco điều này, chúng ta biết rõ nhất mà, được chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco008",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco008|",
+      "ja": "でもこんなダイイングメッセージ残されたら、<br>ぜってーマーゴが怪しいじゃん！",
+      "zh": "但既然亚里沙留下这样的死亡讯息，<br>\n那玛格百分百有问题！",
+      "vi": "Nhưng vì Alisa đã để lại lời nhắn chết chóc như vậy, Có điều gì đó không ổn 100% với Mag đó!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco009",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco009|",
+      "ja": "証拠もいんぺーしてたわけだし！",
+      "zh": "而且她还藏匿证物！",
+      "vi": "Và cô ấy cũng giấu bằng chứng!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo014",
+      "speaker_tag": "; > Margo: |#0104Trial07_Margo014|",
+      "ja": "でも私は犯人じゃないの。<br>だからエマちゃんに相談してるのよ。",
+      "zh": "可我不是凶手。<br>\n所以我才会跟艾玛商量哦。",
+      "vi": "Nhưng Chị không phải là kẻ giết người. Đó là lý do tại sao Chị đã thảo luận chuyện này với Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo015",
+      "speaker_tag": "; > Margo: |#0104Trial07_Margo015|",
+      "ja": "【アリサちゃんは自殺したはず】なのに、<br>なぜこんなフタが残されていたのか。",
+      "zh": "明明【亚里沙是自杀的】，<br>\n可她为什么会留下这个盖子呢？",
+      "vi": "Rõ ràng là [Alisa đã tự tử], Nhưng tại sao cô ấy lại để nắp này lại?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo016",
+      "speaker_tag": "; > Margo: |#0104Trial07_Margo016|",
+      "ja": "……お願い、エマちゃん。<br>一緒に考えてくれる？",
+      "zh": "……拜托你，艾玛，<br>\n你愿意跟我一起找到答案吗？",
+      "vi": "…Làm ơn, Ema, Bạn sẽ cùng Chị tìm câu trả lời chứ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema011",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema011|",
+      "ja": "（……マーゴちゃんが証拠を隠していた理由はわかったけど……。<br>　でもマーゴちゃんも犯人じゃないはず……）",
+      "zh": "（……虽然弄清楚了玛格隐藏证物的理由……<br>\n不过玛格应该不是凶手……）",
+      "vi": "(…Mặc dù tôi đã tìm ra lý do Mag che giấu bằng chứng… Nhưng Margo có lẽ không phải là kẻ sát nhân...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema012",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema012|",
+      "ja": "（なら……それを証明しよう。<br>　昨晩ここで何が起こったのか、明らかにするんだ！）",
+      "zh": "（那么……我要证明这一点。<br>\n我要还原昨晚在这里发生的事实的真相！）",
+      "vi": "(Vậy...tôi sẽ chứng minh điều đó. Tôi muốn khôi phục lại sự thật về những gì đã xảy ra ở đây đêm qua! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema013",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema013|",
+      "ja": "……犯人が蝶だったってことじゃないかな。",
+      "zh": "……凶手会不会是蝴蝶呢。",
+      "vi": "... Kẻ sát nhân có thể là một con bướm?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco010",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco010|",
+      "ja": "一応聞くけど、どうやって蝶が殺したのさ……。<br>睡眠薬飲ませたって話っしょ？",
+      "zh": "那我问你了，蝴蝶怎么杀人……<br>\n刚刚不是说凶手让亚里沙喝安眠药的吗？",
+      "vi": "Vậy Coco hỏi bạn, bướm giết người như thế nào... Không phải cậu vừa nói hung thủ bắt Alisa uống thuốc ngủ sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema014",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema014|",
+      "ja": "そ、それはその……<br>誰かが操って……。",
+      "zh": "这、这个嘛……<br>\n有人操纵蝴蝶……",
+      "vi": "Cái này, cái này... Có người điều khiển con bướm...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo017",
+      "speaker_tag": "; > Margo: |#0104Trial07_Margo017|",
+      "ja": "残念だけど、<br>虫を操れるような魔法を使う子は<br>いなそうだけどね？",
+      "zh": "可惜的是，<br>\n这里好像没有人会使用<br>\n操纵昆虫的魔法哦？",
+      "vi": "Thật không may, Có vẻ như không ai ở đây sử dụng Phép thuật kiểm soát côn trùng?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Meruru003",
+      "speaker_tag": "; > Meruru: |#0104Trial07_Meruru003|",
+      "ja": "残念ですけど、<br>蝶に睡眠薬を飲ませるような命令は<br>させられないと思います……。",
+      "zh": "遗憾的是，<br>\n我觉得应该没办法命令蝴蝶<br>\n诱导亚里沙小姐喝安眠药……",
+      "vi": "Thật không may, Tôi nghĩ không có cách nào để ra lệnh cho con bướm Dụ Alisa-san uống thuốc ngủ...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco011",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco011|",
+      "ja": "そもそも自殺じゃなかったのかよ！<br>真面目にやれ！！",
+      "zh": "你不是主张她是自杀的吗！<br>\n认真一点好吗！！",
+      "vi": "Bạn không nghĩ cô ấy đã tự sát sao? Làm ơn nghiêm túc đi, làm ơn! !",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema015",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema015|",
+      "ja": "（怒鳴られちゃった……！）",
+      "zh": "（被她臭骂一顿了……！）",
+      "vi": "(Cô ấy mắng cô ấy...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema016",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema016|",
+      "ja": "（……マーゴちゃんが証拠を隠していた理由はわかったけど……。<br>　でもマーゴちゃんも犯人じゃないはず……）",
+      "zh": "（……虽然弄清楚了玛格隐藏证物的理由……<br>\n不过玛格应该不是凶手……）",
+      "vi": "(…Mặc dù tôi đã tìm ra lý do Mag che giấu bằng chứng… Nhưng Margo có lẽ không phải là kẻ sát nhân...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema017",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema017|",
+      "ja": "（なら……それを証明しよう。<br>　昨晩ここで何が起こったのか、明らかにするんだ！）",
+      "zh": "（那么……我要证明这一点。<br>\n我要还原昨晚在这里发生的事实的真相！）",
+      "vi": "(Vậy...tôi sẽ chứng minh điều đó. Tôi muốn khôi phục lại sự thật về những gì đã xảy ra ở đây đêm qua! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema018",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema018|",
+      "ja": "そうだね、ココちゃん……！<br>そのダイイングメッセージは犯人を示してた……。",
+      "zh": "对了，可可……！<br>\n这个死亡讯息告诉了我们谁是凶手……",
+      "vi": "Nhân tiện, Coco...! Thông điệp chết chóc này cho chúng ta biết kẻ sát nhân là ai...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema019",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema019|",
+      "ja": "つまり、犯人はマーゴちゃんだ！",
+      "zh": "也就是说，凶手是玛格！",
+      "vi": "Nói cách khác, kẻ sát nhân chính là Mag!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo018",
+      "speaker_tag": "; > Margo: |#0104Trial07_Margo018|",
+      "ja": "……本当にそれが結論でいいのね？<br>エマちゃん。",
+      "zh": "……艾玛，<br>\n你确定结论是这个吗？",
+      "vi": "...Ema, Bạn có chắc đây là kết luận?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema020",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema020|",
+      "ja": "え？ だってココちゃんが――。",
+      "zh": "欸？可是可可也——",
+      "vi": "Hả? Nhưng cacao——",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Meruru004",
+      "speaker_tag": "; > Meruru: |#0104Trial07_Meruru004|",
+      "ja": "あの……エマさんが、先ほど言ったんですよ……？<br>【アリサさんは自殺だった】と……。",
+      "zh": "不好意思……艾玛小姐你刚刚也说了……<br>\n【亚里沙是自杀的】，不是吗……？",
+      "vi": "Xin lỗi...Ema, cô vừa nói... [Alisa đã tự sát], phải không...?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo019",
+      "speaker_tag": "; > Margo: |#0104Trial07_Margo019|",
+      "ja": "……悲しいわ、エマちゃん。",
+      "zh": "……我真的好伤心啊，艾玛。",
+      "vi": "…Chị buồn quá, Ema.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema021",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema021|",
+      "ja": "（マーゴちゃんを裏切っちゃった……！）",
+      "zh": "（我辜负了玛格的信任了……！）",
+      "vi": "(Mình đã phản bội lòng tin của Margo…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema022",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema022|",
+      "ja": "（……マーゴちゃんが証拠を隠していた理由はわかったけど……。<br>　でもマーゴちゃんも犯人じゃないはず……）",
+      "zh": "（……虽然弄清楚了玛格隐藏证物的理由……<br>\n不过玛格应该不是凶手……）",
+      "vi": "(…Mặc dù tôi đã tìm ra lý do Mag che giấu bằng chứng… Nhưng Margo có lẽ không phải là kẻ sát nhân...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema023",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema023|",
+      "ja": "（なら……それを証明しよう。<br>　昨晩ここで何が起こったのか、明らかにするんだ！）",
+      "zh": "（那么……我要证明这一点。<br>\n我要还原昨晚在这里发生的事实的真相！）",
+      "vi": "(Vậy...tôi sẽ chứng minh điều đó. Tôi muốn khôi phục lại sự thật về những gì đã xảy ra ở đây đêm qua! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema024",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema024|",
+      "ja": "アリサちゃんの火傷は……<br>事故だったんじゃないかな。",
+      "zh": "亚里沙脸上的灼伤……<br>\n会不会只是意外呢。",
+      "vi": "Vết bỏng trên mặt Alisa... Có thể đó chỉ là một tai nạn?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco012",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco012|",
+      "ja": "は？<br>んな都合いいことある？",
+      "zh": "哈？<br>\n有可能这么凑巧吗？",
+      "vi": "Hả? Có thể nào đó là sự trùng hợp ngẫu nhiên như vậy?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema025",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema025|",
+      "ja": "でも実際、それは起こったんだ。<br>事故で火傷がついた……<br>そんな現象が。",
+      "zh": "可事实就是这样。<br>\n因为意外烫伤了脸……<br>\n就是凑巧产生了这样的客观现象。",
+      "vi": "Nhưng đó là sự thật. Bởi vì tôi vô tình làm bỏng mặt mình... Chẳng qua lại có hiện tượng khách quan như vậy xảy ra.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo020",
+      "speaker_tag": "; > Margo: |#0104Trial07_Margo020|",
+      "ja": "現象？",
+      "zh": "客观现象？",
+      "vi": "Hiện tượng khách quan?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema026",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema026|",
+      "ja": "うん。<br>それは、マーゴちゃんが提出してくれた<br>【アルミのフタ】と……。",
+      "zh": "嗯。<br>\n我认为，用你提出的【铝盖】，<br>\n以及……",
+      "vi": "Ừm. Tôi nghĩ rằng bằng cách sử dụng [vỏ nhôm] mà bạn đề xuất, và...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema027",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema027|",
+      "ja": "そして、もう１つの【証拠品】が示していると思うよ。",
+      "zh": "另一样【证物】，能够共同说明这一点。",
+      "vi": "Một [bằng chứng] khác có thể cùng minh họa điểm này.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema028",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema028|",
+      "ja": "アリサちゃんの火傷が事故だった証拠……<br>それは、これだ！",
+      "zh": "亚里沙的灼伤是意外……<br>\n证据就是这个！",
+      "vi": "Vết bỏng của Alisa là một tai nạn... Bằng chứng là đây!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema029",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema029|",
+      "ja": "それは……アルミのフタだよ！",
+      "zh": "那就是……这个铝盖！",
+      "vi": "Thế đấy...cái vỏ nhôm này!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco013",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco013|",
+      "ja": "いやアルミのフタはわかったから！",
+      "zh": "不是，铝盖不是说过了吗！",
+      "vi": "Không, không phải Coco đã nói vỏ nhôm sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco014",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco014|",
+      "ja": "アルミのフタしか証拠がねーなら、<br>やっぱりマーゴが怪しいってことになるけど！？",
+      "zh": "如果证据只有这个铝盖的话，<br>\n那该怀疑的不还是玛格吗！？",
+      "vi": "Nếu bằng chứng duy nhất là chiếc vỏ nhôm này, Vậy thì Marge mới là người nên nghi ngờ! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema030",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema030|",
+      "ja": "（間違えちゃったみたい……）",
+      "zh": "（看来我弄错了……）",
+      "vi": "(Có vẻ như tôi đã phạm sai lầm...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema031",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema031|",
+      "ja": "（……あらためて見てみると<br>　このアルミのフタ、【ひしゃげて歪んでる】……）",
+      "zh": "（……仔细看这个铝盖，<br>\n会发现它【受压变形了】……）",
+      "vi": "(...Hãy nhìn kỹ vào lớp vỏ nhôm này, Bạn sẽ thấy rằng nó [bị biến dạng dưới áp lực]...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema032",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema032|",
+      "ja": "（これと対になるような証拠品……！<br>　そんなものがあったはずだ……！）",
+      "zh": "（肯定还有其他证物……！<br>\n能够和铝盖相互印证……！）",
+      "vi": "(Chắc chắn phải có bằng chứng khác...! Có thể cùng nhau khẳng định bằng vỏ nhôm...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema033",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema033|",
+      "ja": "アリサちゃんは睡眠薬をたくさん飲んでた……<br>だからボーっとしてたんだよ。",
+      "zh": "亚里沙喝下了大量的安眠药……<br>\n所以当时她整个人肯定是昏昏沉沉的。",
+      "vi": "Alisa đã uống rất nhiều thuốc ngủ... Vậy chắc chắn lúc đó cô ấy đã choáng váng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo021",
+      "speaker_tag": "; > Margo: |#0104Trial07_Margo021|",
+      "ja": "つまり？",
+      "zh": "然后呢？",
+      "vi": "Vậy thì sao?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema034",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema034|",
+      "ja": "ボーっとして、フタを床に落としちゃったんだ！",
+      "zh": "意识模糊的她把盖子掉在地上了！",
+      "vi": "Trong lúc bối rối, cô đã đánh rơi cái nắp!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco015",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco015|",
+      "ja": "……それでなんで火傷するんだよ！",
+      "zh": "……这跟灼伤有什么关系！",
+      "vi": "...Việc này thì liên quan gì đến vết bỏng!",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema035",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema035|",
+      "ja": "（むしろ、火傷したあとに落としたんだよね……！）",
+      "zh": "（应该说，她是烫伤了以后才把盖子弄掉才对……！）",
+      "vi": "(Nên nói rằng cô ấy đã cởi tấm che sau khi bị bỏng…!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema036",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema036|",
+      "ja": "（……あらためて見てみると<br>　このアルミのフタ、【ひしゃげて歪んでる】……）",
+      "zh": "（……仔细看这个铝盖，<br>\n会发现它【受压变形了】……）",
+      "vi": "(...Hãy nhìn kỹ vào lớp vỏ nhôm này, Bạn sẽ thấy rằng nó [bị biến dạng dưới áp lực]...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema037",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema037|",
+      "ja": "（これと対になるような証拠品……！<br>　そんなものがあったはずだ……！）",
+      "zh": "（肯定还有其他证物……！<br>\n能够和铝盖相互印证……！）",
+      "vi": "(Chắc chắn phải có bằng chứng khác...! Có thể cùng nhau khẳng định bằng vỏ nhôm...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Margo022",
+      "speaker_tag": "; > Margo: |#0104Trial07_Margo022|",
+      "ja": "アルミのフタとその証拠品で<br>何を証明できるのかしら？",
+      "zh": "铝盖跟这个证物<br>\n能够证明什么呢？",
+      "vi": "Vỏ nhôm và bằng chứng này Có thể chứng minh được điều gì?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco016",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco016|",
+      "ja": "エマっちの推理の方が事故ってんじゃね？",
+      "zh": "艾玛亲的推理才是一个误打误撞的意外吧？",
+      "vi": "Lý do đằng sau nụ hôn của Ema chỉ là tai nạn thôi phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema038",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema038|",
+      "ja": "（事故らないよう気をつけないと……！）",
+      "zh": "（我要注意不能意外失手……！）",
+      "vi": "(Mình phải cẩn thận để không vô tình trượt...!)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema039",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema039|",
+      "ja": "（……あらためて見てみると<br>　このアルミのフタ、【ひしゃげて歪んでる】……）",
+      "zh": "（……仔细看这个铝盖，<br>\n会发现它【受压变形了】……）",
+      "vi": "(...Hãy nhìn kỹ vào lớp vỏ nhôm này, Bạn sẽ thấy rằng nó [bị biến dạng dưới áp lực]...)",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema040",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema040|",
+      "ja": "（これと対になるような証拠品……！<br>　そんなものがあったはずだ……！）",
+      "zh": "（肯定还有其他证物……！<br>\n能够和铝盖相互印证……！）",
+      "vi": "(Chắc chắn phải có bằng chứng khác...! Có thể cùng nhau khẳng định bằng vỏ nhôm...! )",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema041",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema041|",
+      "ja": "このガラスの破片を見てほしいんだけど……<br>すごく遠くまで飛び散ってるんだ。",
+      "zh": "请大家看看这些玻璃碎片……<br>\n部分碎片飞溅到离尸体相当远的地方了。",
+      "vi": "Hãy nhìn những mảnh thủy tinh này... Một số mảnh vụn bay xa khỏi cơ thể.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema042",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema042|",
+      "ja": "普通に地面に落として割れたなら、<br>こうはならないよね。",
+      "zh": "如果药瓶只是正常掉地上摔碎，<br>\n碎片应该不会飞到那个距离才对，没错吧。",
+      "vi": "Nếu lọ thuốc rơi xuống đất và vỡ bình thường, Những mảnh vỡ lẽ ra không thể bay xa đến thế, phải không?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco017",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco017|",
+      "ja": "た、たしかにそうかも……。",
+      "zh": "确、确实……",
+      "vi": "Quả thực, thực sự...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema043",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema043|",
+      "ja": "【アルミのフタ】が融けかけていることからも、<br>【睡眠薬のビン】が熱せられたのは<br>間違いないと思うんだ。",
+      "zh": "从【铝盖】有熔化痕迹这一点来看，<br>\n可以明确肯定【装有安眠药的玻璃瓶】<br>\n曾经被人加热过。",
+      "vi": "Đánh giá từ thực tế là [vỏ nhôm] có dấu vết tan chảy, Rõ ràng và chắc chắn [chai thủy tinh chứa thuốc ngủ] Nó đã được sưởi ấm.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema044",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema044|",
+      "ja": "でもその時、ビンは割れてしまった……。",
+      "zh": "只不过在加热的时候，药瓶碎掉了……",
+      "vi": "Nhưng khi đun nóng, lọ thuốc đã vỡ...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema045",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema045|",
+      "ja": "現場の状況から考えると……。",
+      "zh": "而从案发现场的情况来看……",
+      "vi": "Và xét theo tình hình tại hiện trường vụ án...",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema046",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema046|",
+      "ja": "【爆発】、したんじゃないかな。",
+      "zh": "我想，药瓶应该是【炸裂】了吧。",
+      "vi": "Tôi nghĩ lọ thuốc lẽ ra đã [nổ].",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Meruru005",
+      "speaker_tag": "; > Meruru: |#0104Trial07_Meruru005|",
+      "ja": "爆発……！？",
+      "zh": "炸裂……！？",
+      "vi": "Bùng nổ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema047",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema047|",
+      "ja": "……そう考えると、<br>ガラスの破片の状態も、アルミのフタの状態も<br>辻褄が合うんだ。",
+      "zh": "……如此一来，<br>\n就可以合理解释<br>\n玻璃碎片和铝盖的状态。",
+      "vi": "...Trong trường hợp này, Nó có thể giải thích một cách hợp lý Các mảnh thủy tinh và tình trạng của vỏ nhôm.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema048",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema048|",
+      "ja": "アリサちゃんの炎は強力だからね。<br>素早く熱せられたビンの中の空気が膨張したんだ。",
+      "zh": "亚里沙的火焰相当猛烈。<br>\n瓶内的空气在短时间内快速升温，受热膨胀。",
+      "vi": "Ngọn lửa của Alisa khá mãnh liệt. Không khí trong chai nóng lên nhanh chóng trong thời gian ngắn và nở ra khi đun nóng.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema049",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema049|",
+      "ja": "熱せられていたフタも、<br>強い圧力がかかって飛び出した。<br>……そして、アリサちゃんの顔に貼り付いたんだ。",
+      "zh": "而同样快速升温的盖子也在<br>\n增大的压强作用下弹飞了出去。<br>\n……然后打到了亚里沙，紧贴在她的脸上。",
+      "vi": "Nắp cũng nóng lên nhanh chóng cũng bật Nó bay ra dưới áp lực ngày càng tăng. …Rồi nó đánh vào mặt Alisa, ngay trên mặt cô ấy.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema050",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema050|",
+      "ja": "そう考えれば、アリサちゃんの顔に<br>火傷の痕が残った理由も説明できるよ。",
+      "zh": "这么一来，<br>\n就能说明亚里沙的脸上为什么会有烫伤的痕迹了。",
+      "vi": "Bằng cách này, Điều này có thể giải thích tại sao lại có vết bỏng trên mặt Alisa.",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco018",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco018|",
+      "ja": "……そ、そんな都合いい推理……<br>そもそも問題があるんじゃねーの！？",
+      "zh": "……你，这……<br>\n这么想当然的推理，肯定有问题吧！？",
+      "vi": "...Bạn, cái này... Chắc hẳn có điều gì đó không ổn với lối suy luận hiển nhiên như vậy! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Ema051",
+      "speaker_tag": "; > Ema: |#0104Trial07_Ema051|",
+      "ja": "えっ……！？",
+      "zh": "欸……！？",
+      "vi": "Hừ...! ?",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco019",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco019|",
+      "ja": "納得できる説明ができないなら……<br>やっぱエマっち、<br>あてぃしのこと……騙そうとしてんだろ！！",
+      "zh": "要是你的解释没法让我心服口服……<br>\n那就说明，<br>\n艾玛亲你果然……想骗我对不对！！",
+      "vi": "Nếu lời giải thích của bạn không thuyết phục được Coco... Điều đó có nghĩa là Khi Ema hôn cậu, cậu thực sự... muốn nói dối Coco phải không? !",
+      "objection_links": []
+    },
+    {
+      "id": "0104Trial07_Coco020",
+      "speaker_tag": "; > Coco: |#0104Trial07_Coco020|",
+      "ja": "違うっていうなら……証明してみろ！",
+      "zh": "你要说我不对的话……那就证明给我看！",
+      "vi": "Nếu bạn muốn Coco sai... thì hãy chứng minh điều đó cho Coco xem!",
+      "objection_links": []
+    }
+  ]
+}
