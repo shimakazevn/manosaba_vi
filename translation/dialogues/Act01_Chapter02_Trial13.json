@@ -9,7 +9,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden001|",
       "ja": "では私に<br>聞きたい事とは<br>なんですか？",
       "zh": "请问，<br>\n各位想问我<br>\n什么问题？",
-      "vi": "Xin lỗi, Bạn muốn hỏi tôi Vấn đề là gì?",
+      "vi": "Vậy thì, chư vị muốn chất vấn ta<br>về vấn đề gì nào?",
       "objection_links": []
     },
     {
@@ -17,7 +17,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Nanoka001|",
       "ja": "……なら、<br>鍵について<br>聞いてもいいかしら。",
       "zh": "……那，<br>\n可以问你<br>\n钥匙的事吗。",
-      "vi": "...Sau đó, Tôi có thể hỏi bạn Còn chìa khóa thì sao?",
+      "vi": "……Nếu vậy thì,<br>tôi muốn hỏi ông đôi điều<br>về chùm chìa khóa.",
       "objection_links": []
     },
     {
@@ -25,7 +25,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Nanoka002|",
       "ja": "【懲罰房の鍵】……<br>あれは普段、<br>鍵がかかっているの？",
       "zh": "【惩罚室的门】……<br>\n平时都是<br>\n锁着的吗？",
-      "vi": "[Cánh cửa Phòng Kỷ Luật]...... Thông thường là Nó có bị khóa không?",
+      "vi": "【Chìa khóa Phòng Kỷ Luật】……<br>Cánh cửa đó bình thường<br>luôn được khóa chặt đúng không?",
       "objection_links": []
     },
     {
@@ -33,7 +33,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden002|",
       "ja": "もちろんですとも。",
       "zh": "那是当然。",
-      "vi": "Tất nhiên.",
+      "vi": "Đương nhiên là thế rồi.",
       "objection_links": []
     },
     {
@@ -41,7 +41,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden003|",
       "ja": "ミリアさんの<br><link=\"Objection_01_02_13_01\">身体の拘束</link>に加え、<br>扉の鍵は<br>かけるようにしています。<br><link=\"Objection_01_02_13_02\">事件当時</link>も<br>かかっていたはずですよ。",
       "zh": "米莉亚小姐的<br>\n<link=\"Objection_01_02_13_01\">人身束缚</link>，<br>\n还有房门的上锁<br>\n都是我们经手的。<br>\n<link=\"Objection_01_02_13_02\">案件发生时</link><br>\n应该也是锁着的。",
-      "vi": "của cô Millia <link=\"Objection_01_02_13_01\">Kiềm chế thể chất</link>, Và ổ khóa cửa Tất cả đều do chúng tôi xử lý. <link=\"Objection_01_02_13_02\">Khi vụ việc xảy ra</link>_TAG_8 Nó cũng nên bị khóa.",
+      "vi": "Bên cạnh việc <link=\"Objection_01_02_13_01\">trói chặt cơ thể</link> của cô Miria,<br>cánh cửa phòng bao giờ cũng được khóa kỹ lưỡng.<br><link=\"Objection_01_02_13_02\">Vào thời điểm xảy ra vụ án</link>,<br>chắc chắn cửa cũng đã được khóa.",
       "objection_links": [
         "Objection_01_02_13_01",
         "Objection_01_02_13_02"
@@ -52,7 +52,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Coco001|",
       "ja": "……いや、じゃあナノカが<br>鍵持ってるわけねーじゃん。<br>間違いなく<br>開いてたんだっつーの。",
       "zh": "……不是，照你那么说<br>\n奈叶香就不可能有钥匙了啊。<br>\n当时门肯定<br>\n是开着的。",
-      "vi": "...Không, theo những gì bạn nói Không thể nào Nanoka có chìa khóa được. Lúc đó chắc hẳn cánh cửa đã Nó mở.",
+      "vi": "……Ủa, nếu vậy thì Nanoka làm đách nào có chìa khóa được.<br>Lúc đó chắc chắn cửa phải mở toang ra rồi chứ.",
       "objection_links": []
     },
     {
@@ -60,7 +60,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden004|",
       "ja": "そんなこと<br>私に言われましても……。",
       "zh": "你有再大的意见，<br>\n我也只能给这个回答……",
-      "vi": "Cho dù ý kiến của bạn có lớn đến đâu, Tôi chỉ có thể đưa ra câu trả lời này...",
+      "vi": "Dù cô nương có phàn nàn thì ta cũng chỉ biết khai sự thật như thế thôi……",
       "objection_links": []
     },
     {
@@ -68,7 +68,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Sherry001|",
       "ja": "鍵といえば……<br>部屋の中から、<br>もう１つ鍵が<br>見つかっているんです。",
       "zh": "说起钥匙……<br>\n我们在房间里<br>\n找到了另一把<br>\n钥匙。",
-      "vi": "Nói về chìa khóa... Chúng tôi đang ở trong phòng Đã tìm thấy một khác Chìa khóa.",
+      "vi": "Nhắc tới chìa khóa……<br>ở bên trong căn phòng đó,<br>tụi em còn tìm thấy<br>một chiếc chìa khóa khác nữa ạ.",
       "objection_links": []
     },
     {
@@ -76,7 +76,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Sherry002|",
       "ja": "この鍵って、<br>なんの鍵なんですかね？",
       "zh": "这是什么<br>\n钥匙呢？",
-      "vi": "Đây là gì Chìa khóa ở đâu?",
+      "vi": "Chiếc chìa khóa này<br>rốt cuộc dùng để mở thứ gì vậy bác?",
       "objection_links": []
     },
     {
@@ -84,7 +84,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden005|",
       "ja": "それは……<br>おそらく牢屋敷内にある<br>キャビネットの鍵ですね。",
       "zh": "这个……<br>\n大概是监牢内<br>\n收纳柜的钥匙吧。",
-      "vi": "Cái này... Có lẽ đang ở trong tù Chìa khóa tủ đựng đồ.",
+      "vi": "Thứ đó……<br>có lẽ là chìa khóa của tủ đựng đồ<br>nằm trong dinh thự ngục giam này.",
       "objection_links": []
     },
     {
@@ -92,10 +92,10 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden006|",
       "ja": "どこの部屋にある<br>戸棚の鍵でしたっけ……<br>私たちでは<br><link=\"Objection_01_02_13_03\">管理していない物</link>ですね。<br>なんにせよ、<br>懲罰房には<br><link=\"Objection_01_02_13_04\">関係ありません</link>よ。",
       "zh": "是哪个房间里的<br>\n柜子钥匙来着……<br>\n总之<br>\n这并<link=\"Objection_01_02_13_04\">不是由我们管理的</link>。<br>\n不管怎样，<br>\n这钥匙<br>\n和惩罚室<link=\"Objection_01_02_13_03\">无关</link>。",
-      "vi": "Đó là chìa khóa tủ ở phòng nào ấy nhỉ…… Tóm lại đó là thứ <link=\"Objection_01_02_13_03\">không do chúng tôi quản lý</link>. Dù sao đi nữa, chìa khóa này hoàn toàn <link=\"Objection_01_02_13_04\">không liên quan</link> gì tới Phòng Kỷ Luật cả.",
+      "vi": "Đó là chìa khóa tủ ở căn phòng nào ấy nhỉ……<br>Tóm lại đó là thứ <link=\"Objection_01_02_13_03\">không thuộc quyền quản lý của chúng ta</link>.<br>Dù sao đi nữa,<br>nó hoàn toàn <link=\"Objection_01_02_13_04\">không liên quan</link><br>gì tới Phòng Kỷ Luật đâu nhé.",
       "objection_links": [
-        "Objection_01_02_13_04",
-        "Objection_01_02_13_03"
+        "Objection_01_02_13_03",
+        "Objection_01_02_13_04"
       ]
     },
     {
@@ -103,7 +103,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Alisa001|",
       "ja": "なんでお前が<br>わかんないんだよ……！",
       "zh": "为什么你<br>\n会不知道……！",
-      "vi": "Tại sao mày Bạn không biết...?",
+      "vi": "Mày là cai ngục trưởng mà sao đéo biết là sao hả……!",
       "objection_links": []
     },
     {
@@ -111,7 +111,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden007|",
       "ja": "私たちも管理する事が<br>いろいろありまして。<br>全てを管理できている<br>わけでは<br>ないんです。",
       "zh": "我们要管理的<br>\n事情有很多，<br>\n并不是所有事<br>\n都归我们管理。<br>",
-      "vi": "chúng tôi muốn quản lý Có rất nhiều thứ, Không phải tất cả Tất cả đều do chúng tôi quản lý.",
+      "vi": "Bọn ta cũng có trăm công nghìn việc phải trông coi,<br>đâu thể nào bao quát và kiểm soát<br>từng ngóc ngách chi li được.",
       "objection_links": []
     },
     {
@@ -119,7 +119,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Coco002|",
       "ja": "ってかさ。<br>管理って言ったら<br>あの拷問ショーの紙って<br>なんだったん？",
       "zh": "对了。<br>\n说起管理，<br>\n那张写了拷问秀的纸<br>\n是怎么回事？",
-      "vi": "Đúng. Nói về quản lý, Mảnh giấy có viết cảnh tra tấn Chuyện gì đang xảy ra vậy?",
+      "vi": "Mà này.<br>Nhắc tới quản lý,<br>thế còn tờ giấy thông báo show tra tấn kia<br>là trò trống gì thế?",
       "objection_links": []
     },
     {
@@ -127,7 +127,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Coco003|",
       "ja": "懲罰房を開ける予定が<br>なかったとか<br>言ってたけどさぁ……。<br>あれって誰が<br>書いたんだよ。",
       "zh": "你说<br>\n应该没有事情<br>\n需要打开惩罚室……<br>\n那便条到底<br>\n是谁写的啊。",
-      "vi": "Bạn đã nói Sẽ không có gì Phòng Kỷ Luật cần được mở ra... Thế còn tờ ghi chú Ai đã viết nó?",
+      "vi": "Mày vừa bảo là<br>hôm nay không có lịch mở Phòng Kỷ Luật mà……<br>Vậy rốt cuộc tờ giấy đó<br>là do đứa nào viết hả.",
       "objection_links": []
     },
     {
@@ -135,7 +135,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden008|",
       "ja": "さあ？<br>少なくとも<br><link=\"Objection_01_02_13_05\">私達ではありません</link>よ。<br>今日は<br><link=\"Objection_01_02_13_06\">鍵を開ける予定</link>は<br>ありませんでした。<br><link=\"Objection_01_02_13_07\">指示もしておりません</link>。",
       "zh": "谁知道呢？<br>\n总之<br>\n<link=\"Objection_01_02_13_05\">不是我们</link>。<br>\n今天并<br>\n<link=\"Objection_01_02_13_06\">没有需要打开惩罚室的安排</link>。<br>\n我也<link=\"Objection_01_02_13_07\">没有下达这个指令</link>。<br>",
-      "vi": "Ai biết? Tóm lại <link=\"Objection_01_02_13_05\"> không phải là </link> của chúng tôi. Hôm nay và <link=\"Objection_01_02_13_06\">Không có sự sắp xếp nào để mở Phòng Kỷ Luật</link>. Tôi <link=\"Objection_01_02_13_07\"> cũng không ban hành lệnh này </link>.",
+      "vi": "Ai mà biết được?<br>Ít nhất thì <link=\"Objection_01_02_13_05\">tuyệt đối không phải do chúng ta</link> viết.<br>Hôm nay vốn dĩ <link=\"Objection_01_02_13_06\">không có bất kỳ lịch trình mở khóa nào</link>,<br>và ta cũng <link=\"Objection_01_02_13_07\">chưa từng ra chỉ thị đó</link> bao giờ.",
       "objection_links": [
         "Objection_01_02_13_05",
         "Objection_01_02_13_06",
@@ -147,7 +147,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Margo001|",
       "ja": "なら……<br>スマホについては<br>何か知っている事は<br>ないかしら？",
       "zh": "那……<br>\n你对手机<br>\n有什么<br>\n了解吗？",
-      "vi": "Sau đó... Ý em là gì về điện thoại di động của em Cái gì Bạn có hiểu không?",
+      "vi": "Vậy thì……<br>về những chiếc điện thoại thông minh,<br>ông có nắm được thông tin gì đặc biệt không?",
       "objection_links": []
     },
     {
@@ -155,7 +155,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Margo002|",
       "ja": "ライトやアラームに<br>配信機能……<br>いろいろ機能が<br>あるけれど、<br>他に何か特別な機能は<br>ないのかしら？",
       "zh": "手电筒、<br>\n闹钟、<br>\n直播功能……<br>\n除了这些功能外，<br>\n还有什么其他的<br>\n特殊功能吗？",
-      "vi": "Đèn pin, Đồng hồ báo thức, Chức năng phát sóng trực tiếp... Ngoài những tính năng này, Còn gì nữa Tính năng đặc biệt?",
+      "vi": "Đèn pin, báo thức,<br>rồi cả tính năng livestream nữa……<br>Có rất nhiều tính năng tiện ích,<br>nhưng liệu có tính năng ẩn nào đặc biệt khác nữa không?",
       "objection_links": []
     },
     {
@@ -163,7 +163,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Margo003|",
       "ja": "ミリアちゃんを殺すのに<br>役立ちそうな何かが……ね。",
       "zh": "比如那种……<br>\n有助于杀害米莉亚的功能。",
-      "vi": "Chẳng hạn như vậy... Một chức năng giúp tiêu diệt Millia.",
+      "vi": "Chẳng hạn như một tính năng có thể hữu ích…… cho việc hạ sát bé Miria chẳng hạn.",
       "objection_links": []
     },
     {
@@ -171,7 +171,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden009|",
       "ja": "そうですねぇ……。<br>皆さんに配られたスマホは<br>外部にこそ繋がりませんが、<br>いろいろな事ができます。",
       "zh": "功能的话……<br>\n给各位配备的手机<br>\n虽然不能联系外界，<br>\n但是可以用它做很多事。",
-      "vi": "Về mặt chức năng... Điện thoại di động cho mọi người Mặc dù bạn không thể liên lạc với thế giới bên ngoài, Nhưng có rất nhiều điều bạn có thể làm với nó.",
+      "vi": "Về điểm này thì……<br>Điện thoại phát cho các vị tuy không thể kết nối mạng ra bên ngoài,<br>nhưng lại làm được rất nhiều việc.",
       "objection_links": []
     },
     {
@@ -179,7 +179,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden010|",
       "ja": "スマホ固有のＩＤがわかれば、<br>メッセージや通話も<br>できますし……。",
       "zh": "只要知道手机专属的<br>\nID（识别号码），<br>\n就能传信息和打电话……",
-      "vi": "Chỉ cần biết dành riêng cho điện thoại của bạn ID (số nhận dạng), Bạn có thể gửi tin nhắn và gọi điện thoại...",
+      "vi": "Chỉ cần biết mã ID riêng của từng máy,<br>các vị có thể nhắn tin hay gọi điện cho nhau……",
       "objection_links": []
     },
     {
@@ -187,7 +187,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden011|",
       "ja": "配信や録音といった<br>いろいろなアプリが入ってますよ。<br>頑丈で、<br>よほどのことがないと壊れない<br>高性能機です。",
       "zh": "手机里还装了很多APP，<br>\n可以直播和录音等等。<br>\n而且做工也很坚固，<br>\n不会轻易被弄坏。<br>\n总的来说是一部高性能的机器。",
-      "vi": "Có rất nhiều ứng dụng được cài đặt trên điện thoại của tôi, Có thể phát sóng trực tiếp và ghi lại, v.v. Và tay nghề cũng rất chắc chắn, Sẽ không bị phá vỡ dễ dàng. Nhìn chung, nó là một chiếc máy có hiệu suất cao.",
+      "vi": "Máy cũng được cài sẵn nhiều ứng dụng như livestream hay ghi âm.<br>Thiết kế vô cùng kiên cố bền bỉ,<br>trừ phi dùng bạo lực cực mạnh, còn không thì không thể hỏng được.<br>Một thiết bị hiệu năng cao đấy nhé.",
       "objection_links": []
     },
     {
@@ -195,7 +195,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden012|",
       "ja": "その分容量が多くて<br>初期化には時間が<br>かかりますけどね。<br>それでも皆さんに配る時には、<br>ちゃんと出荷状態に戻して<br>配っていますよ。",
       "zh": "但正因如此，手机容量比较大，<br>\n恢复出厂设置<br>\n需要相当长的时间。<br>\n不过我们在发给各位的时候<br>\n都是恢复出厂设置后<br>\n再发放的。",
-      "vi": "Nhưng vì điều này nên dung lượng điện thoại di động tương đối lớn, Khôi phục cài đặt gốc Phải mất khá nhiều thời gian. Nhưng khi chúng tôi gửi nó cho bạn Tất cả sau khi khôi phục về cài đặt gốc được phát hành lại.",
+      "vi": "Bù lại vì dung lượng bộ nhớ rất lớn,<br>nên việc khôi phục cài đặt gốc sẽ tốn khá nhiều thời gian.<br>Dẫu vậy khi phát cho các vị,<br>chúng ta đều đã khôi phục sạch sẽ về trạng thái xuất xưởng rồi mới đưa.",
       "objection_links": []
     },
     {
@@ -203,7 +203,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Warden013|",
       "ja": "なので誰かのスマホにのみ<br><link=\"Objection_01_02_13_08\">特別な機能</link>がついている……<br>なんてことはありませんので<br>ご安心を。<br>それとも何か<br><link=\"Objection_01_02_13_09\">不具合</link>でも？",
       "zh": "所以，<br>\n“只有某人的手机有<br>\n<link=\"Objection_01_02_13_08\">特殊功能</link>”……<br>\n这种情况是不存在的，请放心。<br>\n还是说你们的手机<br>\n<link=\"Objection_01_02_13_09\">出问题</link>了？",
-      "vi": "Vì vậy, \"Chỉ điện thoại của ai đó có <link=\"Objection_01_02_13_08\">Chức năng đặc biệt</link>”…… Tình trạng này không hề tồn tại, bạn hãy yên tâm nhé. Hoặc điện thoại di động của bạn <link=\"Objection_01_02_13_09\"> Đã xảy ra lỗi với </link>?",
+      "vi": "Thế nên chuyện chỉ có máy của riêng ai đó sở hữu <link=\"Objection_01_02_13_08\">tính năng đặc biệt</link>……<br>là điều hoàn toàn không có đâu, các vị cứ yên tâm.<br>Hay là máy móc có <link=\"Objection_01_02_13_09\">trục trặc kỹ thuật</link> gì chăng?",
       "objection_links": [
         "Objection_01_02_13_08",
         "Objection_01_02_13_09"
@@ -214,7 +214,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0102Trial13_Margo004|",
       "ja": "そう、<br>それは良かったわ。<br>催眠をかけるアプリでも<br>入ってたら<br>大変だものね？",
       "zh": "是吗，<br>\n那就好。<br>\n要是装了<br>\n能催眠的APP<br>\n可就麻烦了。",
-      "vi": "Thật đấy, Tốt đấy. Nếu được cài đặt APP có thể thôi miên Nhưng điều đó thật rắc rối.",
+      "vi": "Vậy à,<br>thế thì tốt quá rồi.<br>Chứ lỡ mà cài app thôi miên người khác vào trong đó<br>thì rắc rối to nhỉ?",
       "objection_links": []
     },
     {
@@ -222,7 +222,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial13_Coco004|",
       "ja": "んなもん<br>あるわけねーだろ！",
       "zh": "怎么可能<br>\n有那种玩意！",
-      "vi": "Làm sao có thể Có một điều như vậy!",
+      "vi": "Đời nào có cái thứ ứng dụng ảo ma đấy má!",
       "objection_links": []
     },
     {
@@ -230,7 +230,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema001|",
       "ja": "（改めてゴクチョーに証拠品を見てもらって、<br>　新しい情報がいろいろ増えたけど……）",
       "zh": "（给典狱长从头到尾看了一遍证物，<br>\n得知了很多新情报……）",
-      "vi": "(Cho Cai Ngục Trưởng xem bằng chứng từ đầu đến cuối, Tôi đã học được rất nhiều thông tin mới...)",
+      "vi": "(Nhờ Cai Ngục Trưởng kiểm tra lại toàn bộ vật chứng, mình đã thu thập thêm được rất nhiều thông tin mới……)",
       "objection_links": []
     },
     {
@@ -238,7 +238,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema002|",
       "ja": "（考えてみよう……！<br>　これまで推理した、証拠品の動きを……！）",
       "zh": "（好好想一想……！<br>\n根据目前的推理，证物是如何流动的……！）",
-      "vi": "(Hãy nghĩ về điều đó...! Theo lý luận hiện tại, bằng chứng trôi chảy như thế nào...! )",
+      "vi": "(Hãy tập trung suy luận lại nào……! Dựa trên những lập luận từ nãy đến giờ, đường đi của các vật chứng là……!)",
       "objection_links": []
     },
     {
@@ -246,7 +246,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "拘束に緩みがあった",
       "zh": "手脚铐松掉了",
-      "vi": "Còng tay đã được nới lỏng",
+      "vi": "Dây trói và cùm khóa bị lỏng",
       "objection_links": []
     },
     {
@@ -254,7 +254,7 @@
       "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
       "ja": "戻る",
       "zh": "返回",
-      "vi": "Trở lại",
+      "vi": "Quay lại",
       "objection_links": []
     },
     {
@@ -262,7 +262,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "鍵を開けずに入れた",
       "zh": "凶手没有开锁就进去了",
-      "vi": "Kẻ giết người đi vào mà không mở khóa.",
+      "vi": "Hung thủ vào phòng mà không cần mở khóa",
       "objection_links": []
     },
     {
@@ -270,7 +270,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "鍵の説明に事件と矛盾がある",
       "zh": "有关门锁的说法与案情相矛盾",
-      "vi": "Lời khai về ổ khóa trái ngược với sự thật vụ án",
+      "vi": "Lời khai về khóa cửa mâu thuẫn với vụ án",
       "objection_links": []
     },
     {
@@ -278,7 +278,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "小さな鍵は看守が持っていた",
       "zh": "小钥匙之前在看守手里",
-      "vi": "Chiếc chìa khóa nhỏ nằm trong tay Cai Ngục",
+      "vi": "Chiếc chìa khóa nhỏ vốn do cai ngục giữ",
       "objection_links": []
     },
     {
@@ -286,7 +286,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice005| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "小さな鍵は懲罰房の鍵だった",
       "zh": "小钥匙是惩罚室的钥匙",
-      "vi": "Chiếc chìa khóa nhỏ là chìa khóa Phòng Kỷ Luật",
+      "vi": "Chiếc chìa khóa nhỏ là khóa Phòng Kỷ Luật",
       "objection_links": []
     },
     {
@@ -294,7 +294,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice006| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "小さな鍵の説明に事件と矛盾がある",
       "zh": "有关小钥匙的说法与案情相矛盾",
-      "vi": "Tuyên bố về chiếc chìa khóa nhỏ mâu thuẫn với sự thật vụ án",
+      "vi": "Lời khai về chiếc chìa nhỏ mâu thuẫn với vụ án",
       "objection_links": []
     },
     {
@@ -302,7 +302,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice007| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "あの紙はゴクチョーが書いた",
       "zh": "那张纸是典狱长写的",
-      "vi": "Mảnh giấy đó được viết bởi cai ngục",
+      "vi": "Tờ giấy đó do Cai Ngục Trưởng viết",
       "objection_links": []
     },
     {
@@ -310,7 +310,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice008| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "鍵を開ける予定はあった",
       "zh": "今天有事要打开惩罚室",
-      "vi": "Hôm nay tôi phải mở Phòng Kỷ Luật.",
+      "vi": "Hôm nay vốn dĩ có lịch mở khóa",
       "objection_links": []
     },
     {
@@ -318,7 +318,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice009| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "案内の紙の説明に矛盾がある",
       "zh": "有关便条的说法与案情相矛盾",
-      "vi": "Lời khai về tờ giấy mâu thuẫn với sự thật của vụ án",
+      "vi": "Lời khai về tờ giấy mâu thuẫn với vụ án",
       "objection_links": []
     },
     {
@@ -326,7 +326,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice010| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "特別なスマホを持っている人がいる",
       "zh": "有人有特殊的手机",
-      "vi": "Ai đó có một chiếc điện thoại di động đặc biệt",
+      "vi": "Có người sở hữu chiếc điện thoại đặc biệt",
       "objection_links": []
     },
     {
@@ -334,7 +334,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice011| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "エマのスマホに不具合がある",
       "zh": "艾玛的手机出问题了",
-      "vi": "Có gì đó không ổn với điện thoại của Ema",
+      "vi": "Điện thoại của Ema bị trục trặc kỹ thuật",
       "objection_links": []
     },
     {
@@ -342,7 +342,7 @@
       "speaker_tag": "; > @choice |#0102Trial13_Choice012| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "スマホの説明に事件と矛盾がある",
       "zh": "有关手机的说法与案情相矛盾",
-      "vi": "Lời khai về chiếc điện thoại di động mâu thuẫn với sự thật vụ án",
+      "vi": "Lời khai về điện thoại mâu thuẫn với vụ án",
       "objection_links": []
     },
     {
@@ -350,7 +350,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema003|",
       "ja": "もしかして、ミリアちゃんの身体の拘束には<br>緩みがあったんじゃないかな？",
       "zh": "有没有可能，米莉亚身上的手脚铐<br>\n松掉了？",
-      "vi": "Phải chăng chiếc còng tay trên người Miria Nó có bị lỏng không?",
+      "vi": "Có khi nào, dây xích trói chặt người Miria-chan vốn dĩ đã bị tuột lỏng không?",
       "objection_links": []
     },
     {
@@ -358,7 +358,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema004|",
       "ja": "だから、ミリアちゃんを閉じ込めるために<br>看守は懲罰房の鍵をかけたんだよ！",
       "zh": "所以，为了囚禁米莉亚，<br>\n看守把惩罚室的门锁上了！",
-      "vi": "Vì vậy, để bỏ tù Miria, Cai Ngục đã khóa cửa Phòng Kỷ Luật!",
+      "vi": "Chính vì thế, để giam giữ không cho Miria-chan trốn thoát, tên cai ngục mới phải khóa cửa Phòng Kỷ Luật lại!",
       "objection_links": []
     },
     {
@@ -366,7 +366,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka003|",
       "ja": "……鍵は【普段も】かけるようにしていると<br>ついさっきゴクチョーが言ったでしょう<br>拘束の緩みとは関係ないわ。",
       "zh": "……刚才典狱长不是说过吗，<br>\n惩罚室的门【平时也是】锁着的，<br>\n和手脚铐松没松无关。",
-      "vi": "...Không phải Cai Ngục Trưởng vừa nói thế sao, Cửa Phòng Kỷ Luật [thường] bị khóa, Nó không liên quan gì đến việc còng tay có được nới lỏng hay không.",
+      "vi": "……Cai Ngục Trưởng vừa nói rõ ban nãy rồi còn gì, cửa phòng kỷ luật 【bình thường cũng luôn được khóa】, chẳng liên quan gì đến chuyện dây xích có lỏng hay không cả.",
       "objection_links": []
     },
     {
@@ -374,7 +374,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema005|",
       "ja": "あっ、そういえば……。",
       "zh": "啊，这么说来……",
-      "vi": "À, có thể nói là...",
+      "vi": "A, nhắc mới nhớ……",
       "objection_links": []
     },
     {
@@ -382,7 +382,7 @@
       "speaker_tag": "; > Margo: |#0102Trial13_Margo005|",
       "ja": "まあ拷問中に拘束が緩む可能性はあるでしょうから、<br>扉の鍵を閉めておくのは当然よね？<br>脱走されないように。",
       "zh": "考虑到拷问时捆绑可能会有所松动，<br>\n把门锁上也很正常吧？<br>\n为了避免囚犯逃跑。",
-      "vi": "Xét rằng dây buộc có thể bị lỏng trong quá trình tra tấn, Việc khóa cửa có bình thường không? Để ngăn chặn tù nhân trốn thoát.",
+      "vi": "Trong lúc tra tấn lỡ đâu dây trói bị lỏng ra, thì việc khóa cửa ngoài để đề phòng phạm nhân bỏ trốn cũng là lẽ đương nhiên mà đúng không?",
       "objection_links": []
     },
     {
@@ -390,7 +390,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden014|",
       "ja": "……それで、ミリアさんは脱走してましたかね？",
       "zh": "……所以，米莉亚小姐逃走了吗？",
-      "vi": "...Vậy, cô Miria đã trốn thoát à?",
+      "vi": "……Thế rốt cuộc cô Miria có trốn thoát được không?",
       "objection_links": []
     },
     {
@@ -398,7 +398,7 @@
       "speaker_tag": "; > Coco: |#0102Trial13_Coco005|",
       "ja": "脱走してたらこんなことになってねーし！",
       "zh": "她要是逃走了就不至于闹到这地步了！",
-      "vi": "Nếu cô trốn thoát thì rắc rối đã không như thế này!",
+      "vi": "Nó mà trốn thoát được thì đã đéo có cái án mạng này rồi!",
       "objection_links": []
     },
     {
@@ -406,7 +406,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema006|",
       "ja": "（脱走してくれていたらよかったのに……）",
       "zh": "（她要是逃走了该有多好……）",
-      "vi": "(Sẽ thật tuyệt nếu cô ấy trốn thoát...)",
+      "vi": "(Giá như cậu ấy trốn thoát được thì tốt biết bao……)",
       "objection_links": []
     },
     {
@@ -414,7 +414,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema007|",
       "ja": "（……【ミリアちゃんは拘束されていた】<br>　この事実ははっきりしている……）",
       "zh": "（……【米莉亚是被绑住不能动的】<br>\n这个事实已经明确了……）",
-      "vi": "(...[Miria bị trói và không thể di chuyển] Sự thật này đã được làm rõ...)",
+      "vi": "(……【Miria-chan bị trói chặt bất động】. Sự thật này đã quá rõ ràng rồi……)",
       "objection_links": []
     },
     {
@@ -422,7 +422,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema008|",
       "ja": "（じゃあ、これまでの推理の中で<br>　はっきりしていない部分はなかったっけ……？）",
       "zh": "（那么，目前的推理中<br>\n还有没有尚未弄清楚的部分呢……？）",
-      "vi": "(Sau đó, theo lý luận hiện tại Còn phần nào chưa được làm rõ không...? )",
+      "vi": "(Vậy trong chuỗi suy luận từ trước tới giờ, còn điểm nào chưa được làm sáng tỏ không nhỉ……?)",
       "objection_links": []
     },
     {
@@ -430,7 +430,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema009|",
       "ja": "（集中しよう……！<br>　ゴクチョーの話を聞き逃したら<br>　もう推理できる材料がなくなっちゃう……！）",
       "zh": "（我要集中精力……！<br>\n要是错过了典狱长的重要发言<br>\n就会失去可供推理的材料了……！）",
-      "vi": "(Tôi cần tập trung...! Nếu bạn bỏ lỡ bài phát biểu quan trọng của Cai Ngục Trưởng Bạn sẽ mất đi tài liệu để lý luận...! )",
+      "vi": "(Phải hết sức tập trung……! Nếu bỏ lỡ chi tiết đắt giá trong lời khai của Cai Ngục Trưởng thì mình sẽ mất sạch manh mối để phá án mất……!)",
       "objection_links": []
     },
     {
@@ -438,7 +438,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema010|",
       "ja": "事件当時、本当に鍵がかかっていたんだとしたら、<br>誰もミリアちゃんを殺すことなんてできない……。",
       "zh": "如果案件发生时，门真的上了锁，<br>\n那就没有人能杀得了米莉亚……",
-      "vi": "Nếu cửa thực sự bị khóa khi tội phạm xảy ra, Vậy thì không ai có thể giết Miria...",
+      "vi": "Nếu vào lúc xảy ra vụ án cánh cửa thực sự bị khóa chặt, thì không ai có thể vào trong để sát hại Miria-chan được……",
       "objection_links": []
     },
     {
@@ -446,7 +446,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema011|",
       "ja": "つまり犯人は、<br>鍵を開けずに懲罰房に入ったんだよ！",
       "zh": "所以，<br>\n凶手没有开锁就进了惩罚室！",
-      "vi": "Vì vậy, Kẻ sát nhân vào Phòng Kỷ Luật mà không mở khóa!",
+      "vi": "Nói cách khác, hung thủ đã đột nhập vào Phòng Kỷ Luật mà không cần phải mở khóa!",
       "objection_links": []
     },
     {
@@ -454,7 +454,7 @@
       "speaker_tag": "; > Margo: |#0102Trial13_Margo006|",
       "ja": "どうやって？",
       "zh": "怎么找？",
-      "vi": "Làm thế nào để tìm thấy nó?",
+      "vi": "Bằng cách nào cơ chứ?",
       "objection_links": []
     },
     {
@@ -462,7 +462,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema012|",
       "ja": "壁をすり抜ける魔法とか……<br>隠し通路とか……。",
       "zh": "比如用穿墙的魔法……<br>\n或是暗道之类的……",
-      "vi": "Ví dụ: sử dụng phép thuật đi xuyên tường... Hoặc một lối đi bí mật hay thứ gì đó tương tự...",
+      "vi": "Chẳng hạn như dùng ma pháp đi xuyên tường…… hoặc là đường hầm bí mật……",
       "objection_links": []
     },
     {
@@ -470,7 +470,7 @@
       "speaker_tag": "; > Margo: |#0102Trial13_Margo007|",
       "ja": "そんなものがあったら是非欲しいわね……。<br>いろいろと楽しいことができそうだし♡",
       "zh": "如果真有这种东西我也很想要呢……<br>\n感觉能用来做很多有趣的事♡",
-      "vi": "Nếu có thứ như vậy thì Chị cũng thích lắm... Chị cảm thấy mình có thể làm được nhiều điều thú vị với nó ♡",
+      "vi": "Nếu có thứ tiện lợi như thế thì chị cũng muốn có ghê á…… Tha hồ làm được bao nhiêu trò vui vẻ luôn nè♡",
       "objection_links": []
     },
     {
@@ -478,7 +478,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema013|",
       "ja": "（何する気だろう……！）",
       "zh": "（她想做什么……！）",
-      "vi": "(Cô ấy muốn làm gì vậy...!)",
+      "vi": "(Chị ấy định dùng làm trò gì không biết……!)",
       "objection_links": []
     },
     {
@@ -486,7 +486,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema014|",
       "ja": "（……当たり前だけど、<br>　【鍵を開けないと懲罰房には入れない】<br>　この事実ははっきりしている……）",
       "zh": "（……虽然没什么好强调的，<br>\n【不打开锁就进不了惩罚室】<br>\n这个事实已经明确了……）",
-      "vi": "(…Mặc dù không có gì đáng nhấn mạnh, 【Bạn không thể vào Phòng Kỷ Luật nếu không mở khóa】 Sự thật này đã được làm rõ...)",
+      "vi": "(……Dù hiển nhiên nhưng 【không mở khóa thì không thể bước vào Phòng Kỷ Luật】. Sự thật này là bất di bất dịch rồi……)",
       "objection_links": []
     },
     {
@@ -494,7 +494,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema015|",
       "ja": "（じゃあ、これまでの推理の中で<br>　はっきりしていない部分はなかったっけ……？）",
       "zh": "（那么，目前的推理中<br>\n还有没有尚未弄清楚的部分呢……？）",
-      "vi": "(Sau đó, theo lý luận hiện tại Còn phần nào chưa được làm rõ không...? )",
+      "vi": "(Vậy trong những điều đã tranh luận, có điểm nào còn uẩn khúc không……?)",
       "objection_links": []
     },
     {
@@ -502,7 +502,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema016|",
       "ja": "（集中しよう……！<br>　ゴクチョーの話を聞き逃したら<br>　もう推理できる材料がなくなっちゃう……！）",
       "zh": "（我要集中精力……！<br>\n要是错过了典狱长的重要发言<br>\n就会失去可供推理的材料了……！）",
-      "vi": "(Tôi cần tập trung...! Nếu bạn bỏ lỡ bài phát biểu quan trọng của Cai Ngục Trưởng Bạn sẽ mất đi tài liệu để lý luận...! )",
+      "vi": "(Phải thật tập trung……! Không được để lọt bất kỳ sơ hở nào trong lời khai của Cai Ngục Trưởng……!)",
       "objection_links": []
     },
     {
@@ -510,7 +510,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema017|",
       "ja": "……ちょっと待って。<br>それってこれまでの話と、<br>矛盾があると思うんだけど……。",
       "zh": "……等一等。<br>\n我感觉这句话与先前的讨论<br>\n有所矛盾……",
-      "vi": "...Đợi một chút. Tôi cảm thấy câu này phù hợp với cuộc thảo luận trước đó Có phần mâu thuẫn...",
+      "vi": "……Khoan đã nào. Lời khai đó của ông mâu thuẫn hoàn toàn với những gì chúng ta đã biết trước đó đấy……",
       "objection_links": []
     },
     {
@@ -518,7 +518,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden015|",
       "ja": "おや？ そうでしょうか？<br>特に不自然な部分はないと思いますが？",
       "zh": "哦？是这样吗？<br>\n我倒不觉得有什么异常之处啊？",
-      "vi": "Ồ? có phải vậy không? Tôi không nghĩ có gì bất thường?",
+      "vi": "Ủa? Thật vậy sao? Ta thấy lời khai của mình rất mạch lạc tự nhiên, đâu có gì bất thường đâu?",
       "objection_links": []
     },
     {
@@ -526,7 +526,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema018|",
       "ja": "ナノカちゃんは事件当時、<br>【鍵を開けずに懲罰房へ入れた】<br>って証言してるんだよ。",
       "zh": "奈叶香作证说<br>\n案件发生时，<br>\n【没开锁就进了惩罚室】。",
-      "vi": "Nanoka làm chứng Khi vụ việc xảy ra, [Vào Phòng Kỷ Luật mà không mở khóa cửa].",
+      "vi": "Nanoka-chan đã làm chứng rằng vào thời điểm đó, 【cậu ấy bước vào Phòng Kỷ Luật mà không hề phải mở khóa】.",
       "objection_links": []
     },
     {
@@ -534,7 +534,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka004|",
       "ja": "ええ……鍵はかかっていなかったわ。",
       "zh": "没错……当时房门没上锁。",
-      "vi": "Đúng vậy... lúc đó cửa không khóa.",
+      "vi": "Đúng thế…… lúc đó cánh cửa không hề bị khóa.",
       "objection_links": []
     },
     {
@@ -542,7 +542,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden016|",
       "ja": "看守が鍵をかけ忘れる……<br>なんてことは考えづらいですが。",
       "zh": "难道说看守忘记上锁了……<br>\n但很难想像它会做出这种事。",
-      "vi": "Chẳng lẽ bảo vệ quên khóa cửa sao... Nhưng thật khó để tưởng tượng nó làm một việc như vậy.",
+      "vi": "Bảo là tên cai ngục quên khóa cửa ư…… Chuyện sơ suất ngớ ngẩn đó thật khó mà tin nổi.",
       "objection_links": []
     },
     {
@@ -550,7 +550,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka005|",
       "ja": "そう。<br>だけど夏目アンアンならば<br>【魔法で看守を操り、鍵を開けさせられる】。",
       "zh": "是的。<br>\n但是夏目安安可以做到<br>\n【用魔法操控看守打开门锁】。",
-      "vi": "Vâng. Nhưng Tsume AnAn có thể làm được [Sử dụng phép thuật để điều khiển Cai Ngục mở khóa cửa].",
+      "vi": "Phải. Nhưng nếu là Natsume AnAn thì cô ta hoàn toàn có thể 【dùng ma pháp chi phối cai ngục và bắt nó mở khóa cửa】.",
       "objection_links": []
     },
     {
@@ -558,7 +558,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial13_AnAn001|",
       "ja": "それは先ほど反論したはずだ……！<br>【わがはいが看守を従わせたという証拠はない】。",
       "zh": "这点吾辈刚才已经反驳过了……！<br>\n【没有证据证明吾辈操纵了看守】。",
-      "vi": "Tôi vừa mới bác bỏ quan điểm này rồi...! [Không có bằng chứng nào cho thấy tôi đã thao túng Cai Ngục].",
+      "vi": "Điểm đó bản tọa đã đập tan ban nãy rồi còn gì……! 【Không hề có lấy một bằng chứng nào cho thấy bản tọa đã ra lệnh sai khiến cai ngục】.",
       "objection_links": []
     },
     {
@@ -566,7 +566,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial13_AnAn002|",
       "ja": "裁判まで姿を消していたナノカが<br>鍵を盗むことだって出来るのではないか？",
       "zh": "反而是你直到开庭才出现，<br>\n偷个钥匙也不是不可能吧？",
-      "vi": "Thay vào đó, bạn đã không xuất hiện cho đến phiên tòa, Không phải là không thể lấy trộm chìa khóa phải không?",
+      "vi": "Ngược lại, kẻ lặn mất tăm cho đến tận lúc mở phiên tòa như Nanoka mới là kẻ có đủ thời cơ để ăn trộm chìa khóa đấy!",
       "objection_links": []
     },
     {
@@ -574,7 +574,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka006|",
       "ja": "……いいがかりね。",
       "zh": "……你是在挑事吗。",
-      "vi": "...Bạn đang gây rắc rối à?",
+      "vi": "……Lại bài ngậm máu phun người đấy à.",
       "objection_links": []
     },
     {
@@ -582,7 +582,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema019|",
       "ja": "（だ、だめだ……容疑者が絞り切れない……！<br>　どうしてもさっきの繰り返しになっちゃう……！！）",
       "zh": "（不、不行……无法锁定嫌疑人……！<br>\n讨论会像刚刚那样打死结……！！）",
-      "vi": "(Không, không... nghi phạm không thể bị khóa...! Cuộc thảo luận sẽ kết thúc như vừa rồi...!! )",
+      "vi": "(Kh-Không ổn rồi…… vẫn không thể khoanh vùng nghi phạm được……! Cứ thế này cuộc tranh luận sẽ lại rơi vào ngõ cụt như vừa rồi mất……!!)",
       "objection_links": []
     },
     {
@@ -590,7 +590,7 @@
       "speaker_tag": "; > Meruru: |#0102Trial13_Meruru001|",
       "ja": "エマさん……ゴクチョーさんの証言を聞く限り、<br>鍵についての新情報は引き出せそうにありません……。",
       "zh": "艾玛小姐……从典狱长的证词中，<br>\n恐怕无法提取出有关钥匙的新情报……",
-      "vi": "Ema...từ lời khai của Cai Ngục Trưởng, Tôi e rằng tôi sẽ không thể trích xuất được thông tin mới về khóa...",
+      "vi": "Chị Ema ơi…… Theo như những lời khai của Cai Ngục Trưởng, có vẻ như chúng ta không thể đào sâu thêm manh mối mới nào từ chiếc chìa khóa nữa rồi ạ……",
       "objection_links": []
     },
     {
@@ -598,7 +598,7 @@
       "speaker_tag": "; > Meruru: |#0102Trial13_Meruru002|",
       "ja": "ほ、他の話題について<br>検証してみるのはどうでしょうか……？",
       "zh": "要、要不要<br>\n试试检验一下其他的话题……？",
-      "vi": "Vâng, bạn có muốn Hãy thử kiểm tra các chủ đề khác...?",
+      "vi": "H-Hay là chúng ta thử chuyển hướng sang kiểm tra các chủ đề khác xem sao ạ……?",
       "objection_links": []
     },
     {
@@ -606,7 +606,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema020|",
       "ja": "そうだね……！<br>他の話題と、証拠品を照らし合わせて、<br>違和感がないか考えてみよう……！",
       "zh": "对哦……！<br>\n和其他话题和证物联系起来思考，<br>\n想想看有没有异常之处……！",
-      "vi": "Vâng...! Hãy suy nghĩ liên quan đến các chủ đề và bằng chứng khác, Hãy suy nghĩ xem có điều gì bất thường không...!",
+      "vi": "Đúng rồi đó……! Mình phải đối chiếu các chủ đề khác với toàn bộ tang chứng vật chứng, xem có điểm bất thường nào lộ ra không……!",
       "objection_links": []
     },
     {
@@ -614,7 +614,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema021|",
       "ja": "ちょっと待って！<br>その小さな鍵は看守が持っていたもの<br>……だったりはしないのかな？",
       "zh": "等一等！<br>\n那个小钥匙<br>\n……会不会原本在看守手里？",
-      "vi": "Đợi một chút! Chiếc chìa khóa nhỏ đó …Có lẽ nào ban đầu nó nằm trong tay những Cai Ngục?",
+      "vi": "Khoan đã nào! Chiếc chìa khóa nhỏ đó…… liệu có phải vốn dĩ do tên cai ngục nắm giữ không?",
       "objection_links": []
     },
     {
@@ -622,7 +622,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden017|",
       "ja": "しませんが。",
       "zh": "不可能。",
-      "vi": "Không thể được.",
+      "vi": "Tuyệt đối không có chuyện đó.",
       "objection_links": []
     },
     {
@@ -630,7 +630,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema022|",
       "ja": "しませんか……。",
       "zh": "不可能啊……",
-      "vi": "Không thể nào...",
+      "vi": "Không có sao……",
       "objection_links": []
     },
     {
@@ -638,7 +638,7 @@
       "speaker_tag": "; > Coco: |#0102Trial13_Coco006|",
       "ja": "仮に小さな鍵を看守が持っていたとして……<br>だからなんなん？<br>って感じじゃね？",
       "zh": "就算小钥匙是看守拿着的……<br>\n又怎样？<br>\n有影响吗？",
-      "vi": "Ngay cả khi chiếc chìa khóa nhỏ được Cai Ngục giữ... Vậy thì sao? Có ảnh hưởng gì không?",
+      "vi": "Mà giả sử thằng cai ngục có cầm cái chìa nhỏ đó đi nữa…… thì sao nào? Có giải quyết được mẹ gì đâu?",
       "objection_links": []
     },
     {
@@ -646,7 +646,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema023|",
       "ja": "（たしかに……！）",
       "zh": "（说得也是……！）",
-      "vi": "(Đúng vậy...!)",
+      "vi": "(Cũng đúng ha……!)",
       "objection_links": []
     },
     {
@@ -654,7 +654,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema024|",
       "ja": "（や、やみくもに突っ込んでもダメみたいだ……<br>　小さな鍵については気になるけど……）",
       "zh": "（看、看来不能没头没脑地乱提问……<br>\n不过我确实有点在意那个小钥匙……）",
-      "vi": "(Nhìn này, có vẻ như bạn không thể đặt câu hỏi một cách bất cẩn... Nhưng tôi quan tâm đến chiếc chìa khóa nhỏ đó...)",
+      "vi": "(X-Xem ra không thể cứ cắm đầu hỏi bừa được…… Dù mình rất tò mò về chiếc chìa khóa nhỏ đó……)",
       "objection_links": []
     },
     {
@@ -662,7 +662,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema025|",
       "ja": "（他に、ゴクチョーから出た新しい情報の中で<br>　これまでの推理と矛盾しそうな部分はないかな……？）",
       "zh": "（在典狱长提出的其他新情报中，<br>\n有没有与目前的推理相矛盾的地方呢……？）",
-      "vi": "(Trong số những thông tin mới khác từ người cai ngục, Có điều gì mâu thuẫn với lý luận hiện tại không...? )",
+      "vi": "(Trong số những lời khai mới của Cai Ngục Trưởng, liệu còn điểm nào xung đột với dòng suy luận không nhỉ……?)",
       "objection_links": []
     },
     {
@@ -670,7 +670,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema026|",
       "ja": "わかった！<br>実はその小さな鍵は、懲罰房の鍵だったんだよ！",
       "zh": "我知道了！<br>\n其实那个小钥匙是惩罚室的钥匙！",
-      "vi": "Tôi hiểu rồi! Trên thực tế, chiếc chìa khóa nhỏ đó chính là chìa khóa Phòng Kỷ Luật!",
+      "vi": "Tớ hiểu rồi! Thật ra chiếc chìa khóa nhỏ đó chính là chìa khóa của Phòng Kỷ Luật!",
       "objection_links": []
     },
     {
@@ -678,7 +678,7 @@
       "speaker_tag": "; > Alisa: |#0102Trial13_Alisa002|",
       "ja": "懲罰房の鍵はこっちだろ。",
       "zh": "惩罚室的钥匙是这个好吗。",
-      "vi": "Đây có phải là chìa khóa Phòng Kỷ Luật không?",
+      "vi": "Chìa khóa Phòng Kỷ Luật là cái trên tay Nanoka kia kìa má.",
       "objection_links": []
     },
     {
@@ -686,7 +686,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka007|",
       "ja": "……それは私が確認しているわ。",
       "zh": "……这点我已经确认过了。",
-      "vi": "...Tôi đã xác nhận điều này rồi.",
+      "vi": "……Điều đó đích thân tôi đã kiểm chứng rồi.",
       "objection_links": []
     },
     {
@@ -694,7 +694,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema027|",
       "ja": "（そうだった……！）",
       "zh": "（对哦……！）",
-      "vi": "(Vâng...!)",
+      "vi": "(Đúng rồi ha……!)",
       "objection_links": []
     },
     {
@@ -702,7 +702,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema028|",
       "ja": "（や、やみくもに突っ込んでもダメみたいだ……<br>　小さな鍵については気になるけど……）",
       "zh": "（看、看来不能没头没脑地乱提问……<br>\n不过我确实有点在意那个小钥匙……）",
-      "vi": "(Nhìn này, có vẻ như bạn không thể đặt câu hỏi một cách bất cẩn... Nhưng tôi quan tâm đến chiếc chìa khóa nhỏ đó...)",
+      "vi": "(X-Xem ra không thể hấp tấp hỏi bừa bãi được…… Dù chiếc chìa khóa nhỏ đó rất đáng lưu tâm……)",
       "objection_links": []
     },
     {
@@ -710,7 +710,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema029|",
       "ja": "（他に、ゴクチョーから出た新しい情報の中で<br>　これまでの推理と矛盾しそうな部分はないかな……？）",
       "zh": "（在典狱长提出的其他新情报中，<br>\n有没有与目前的推理相矛盾的地方呢……？）",
-      "vi": "(Trong số những thông tin mới khác từ người cai ngục, Có điều gì mâu thuẫn với lý luận hiện tại không...? )",
+      "vi": "(Trong số những thông tin mới mà Cai Ngục Trưởng vừa cung cấp, còn chi tiết nào mâu thuẫn nữa không……?)",
       "objection_links": []
     },
     {
@@ -718,7 +718,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema030|",
       "ja": "……ちょっと待って。<br>それってこれまでの話と、<br>矛盾があると思うんだけど……。",
       "zh": "……等一等。<br>\n我感觉这句话与先前的讨论<br>\n有所矛盾……",
-      "vi": "...Đợi một chút. Tôi cảm thấy câu này phù hợp với cuộc thảo luận trước đó Có phần mâu thuẫn...",
+      "vi": "……Khoan đã nào. Lời khai đó mâu thuẫn với diễn biến thực tế của vụ án đấy……",
       "objection_links": []
     },
     {
@@ -726,7 +726,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden018|",
       "ja": "おや？ そうでしょうか？<br>特に不自然な部分はないと思いますが？",
       "zh": "哦？是这样吗？<br>\n我倒不觉得有什么异常之处啊？",
-      "vi": "Ồ? có phải vậy không? Tôi không nghĩ có gì bất thường?",
+      "vi": "Ô hô? Thật vậy sao? Ta thấy bản thân nói đâu có gì mâu thuẫn?",
       "objection_links": []
     },
     {
@@ -734,7 +734,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema031|",
       "ja": "この小さな鍵は<br>ミリアちゃんの口の中から発見されたんだ。",
       "zh": "这个小钥匙<br>\n是从米莉亚的嘴里发现的。",
-      "vi": "Chiếc chìa khóa nhỏ này Nó được tìm thấy từ miệng của Miria.",
+      "vi": "Chiếc chìa khóa nhỏ này được tìm thấy từ ngay trong khoang miệng của Miria-chan.",
       "objection_links": []
     },
     {
@@ -742,7 +742,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema032|",
       "ja": "懲罰房となにか<br>関係があるんじゃないかな。",
       "zh": "所以会不会和惩罚室<br>\n有什么关联呢。",
-      "vi": "Vậy sẽ là với Phòng Kỷ Luật phải không? Kết nối là gì?",
+      "vi": "Nên chắc chắn nó phải có mối liên hệ mật thiết nào đó với Phòng Kỷ Luật chứ.",
       "objection_links": []
     },
     {
@@ -750,7 +750,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial13_Hanna001|",
       "ja": "たとえばどんな関係があるんですの！？",
       "zh": "比如说什么关联！？",
-      "vi": "Ví dụ, loại kết nối nào!?",
+      "vi": "Ví dụ cụ thể là liên hệ như thế nào cơ chứ!?",
       "objection_links": []
     },
     {
@@ -758,7 +758,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema033|",
       "ja": "……その小さな鍵は、<br>ミリアちゃんの拘束具の鍵だった……とか。",
       "zh": "……比如说，<br>\n这个小钥匙是……米莉亚身上手脚铐的钥匙。",
-      "vi": "…ví dụ: Chiếc chìa khóa nhỏ này là... chìa khóa còng tay trên người Miria.",
+      "vi": "……Chẳng hạn như, chiếc chìa khóa nhỏ đó là chìa mở cùm xích trên người Miria-chan……",
       "objection_links": []
     },
     {
@@ -766,7 +766,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden019|",
       "ja": "先に申し上げたとおり<br>どこかの部屋の戸棚の鍵です。",
       "zh": "正如我方才所言，<br>\n这钥匙是某个房间里柜子的钥匙。",
-      "vi": "Như tôi vừa nói, Chìa khóa này là chìa khóa của một chiếc tủ ở một căn phòng nào đó.",
+      "vi": "Ta đã nói rõ từ đầu rồi, đó là chìa khóa tủ của một căn phòng nào đó trong dinh thự.",
       "objection_links": []
     },
     {
@@ -774,7 +774,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka008|",
       "ja": "べつにゴクチョーの発言に<br>矛盾があるとも思えないわ。",
       "zh": "我不觉得这跟典狱长的发言<br>\n有什么矛盾。",
-      "vi": "Tôi không nghĩ điều này phù hợp với tuyên bố của Cai Ngục Trưởng Thật là mâu thuẫn.",
+      "vi": "Tôi cũng không thấy lời khai của Cai Ngục Trưởng có điểm nào mâu thuẫn cả.",
       "objection_links": []
     },
     {
@@ -782,7 +782,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka009|",
       "ja": "桜羽エマ……<br>あなたは何を言いたいの？",
       "zh": "樱羽艾玛……<br>\n你究竟想说什么？",
-      "vi": "Sakuraba Ema...... Chính xác thì bạn muốn nói gì?",
+      "vi": "Sakuraba Ema…… Rốt cuộc là cậu đang muốn nhắm tới điều gì?",
       "objection_links": []
     },
     {
@@ -790,7 +790,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema034|",
       "ja": "（いぶかしがられちゃった……！）",
       "zh": "（被怀疑了……！）",
-      "vi": "(Nghi ngờ...!)",
+      "vi": "(Bị cậu ấy hoài nghi mất rồi……!)",
       "objection_links": []
     },
     {
@@ -798,7 +798,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema035|",
       "ja": "（や、やみくもに突っ込んでもダメみたいだ……<br>　小さな鍵については気になるけど……）",
       "zh": "（看、看来不能没头没脑地乱提问……<br>\n不过我确实有点在意那个小钥匙……）",
-      "vi": "(Nhìn này, có vẻ như bạn không thể đặt câu hỏi một cách bất cẩn... Nhưng tôi quan tâm đến chiếc chìa khóa nhỏ đó...)",
+      "vi": "(X-Xem ra không thể suy diễn bừa bãi được…… Dù mình rất thắc mắc về chiếc chìa nhỏ đó……)",
       "objection_links": []
     },
     {
@@ -806,7 +806,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema036|",
       "ja": "（他に、ゴクチョーから出た新しい情報の中で<br>　これまでの推理と矛盾しそうな部分はないかな……？）",
       "zh": "（在典狱长提出的其他新情报中，<br>\n有没有与目前的推理相矛盾的地方呢……？）",
-      "vi": "(Trong số những thông tin mới khác từ người cai ngục, Có điều gì mâu thuẫn với lý luận hiện tại không...? )",
+      "vi": "(Trong số những thông tin mới do Cai Ngục Trưởng nói, còn điểm nào có kẽ hở không nhỉ……?)",
       "objection_links": []
     },
     {
@@ -814,7 +814,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema037|",
       "ja": "うそだよ！<br>きっとゴクチョーが書いたんだ！",
       "zh": "骗人！<br>\n肯定是典狱长写的！",
-      "vi": "Nói dối! Chắc chắn là do Cai Ngục Trưởng viết!",
+      "vi": "Nói xạo! Chắc chắn tờ giấy đó do chính Cai Ngục Trưởng viết!",
       "objection_links": []
     },
     {
@@ -822,7 +822,7 @@
       "speaker_tag": "; > Coco: |#0102Trial13_Coco007|",
       "ja": "証拠でもあんの？",
       "zh": "你有证据吗？",
-      "vi": "Bạn có bằng chứng không?",
+      "vi": "Mày có bằng chứng gì không?",
       "objection_links": []
     },
     {
@@ -830,7 +830,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema038|",
       "ja": "……ゴクチョーが言ってたんだ。<br>【見せしめが必要だ】って。",
       "zh": "……典狱长曾经说过<br>\n【得杀鸡儆猴】。",
-      "vi": "...Người cai ngục từng nói [Phải giết gà để dọa khỉ].",
+      "vi": "……Cai Ngục Trưởng từng nói 【cần phải làm gương để răn đe】 mà.",
       "objection_links": []
     },
     {
@@ -838,7 +838,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema039|",
       "ja": "ミリアちゃんは！？ ミリアちゃんは無事なの！？",
       "zh": "米莉亚呢！？米莉亚她没事吧！？",
-      "vi": "Miria ở đâu?? Miria, cô ấy ổn chứ??",
+      "vi": "Miria-chan đâu rồi!? Miria-chan có bình an vô sự không!?",
       "objection_links": []
     },
     {
@@ -846,7 +846,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden020|",
       "ja": "『元気ですよ。やれやれ……<br>　何度も問題を起こされると、私の仕事が増えるので<br>　勘弁してほしいです……』",
       "zh": "『她好着呢。哎呀呀……<br>\n你们不停地闹出问题，害得我的工作量都增加了，<br>\n求你们放过我吧……』",
-      "vi": "\"Cô ấy ổn. Rất tiếc... Các bạn cứ gây ra sự cố, làm tăng khối lượng công việc của tôi, Xin hãy để tôi đi...\"",
+      "vi": "『Cô ta vẫn khỏe re. Chậc chậc…… Các người cứ liên tục gây chuyện làm khối lượng công việc của ta tăng vọt lên, tha cho ta giùm cái đi……』",
       "objection_links": []
     },
     {
@@ -854,7 +854,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden021|",
       "ja": "『いずれ見せしめも必要かもしれませんね。それでは』",
       "zh": "『也许我得挑个日子杀鸡儆猴了。再见』",
-      "vi": "\"Có lẽ tôi phải chọn một ngày để dọa lũ khỉ. Tạm biệt\"",
+      "vi": "『Có lẽ một ngày nào đó ta sẽ phải làm một màn răn đe để thị chúng mới được. Thôi chào nhé』",
       "objection_links": []
     },
     {
@@ -862,7 +862,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden022|",
       "ja": "あくまで【いずれ】の話です。",
       "zh": "我说的不过是【得挑个日子】而已。",
-      "vi": "Điều tôi nói chỉ là \"Bạn phải chọn một ngày\".",
+      "vi": "Đó là ta nói chuyện của 【tương lai sau này】 kia mà.",
       "objection_links": []
     },
     {
@@ -870,7 +870,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden023|",
       "ja": "誤解させてしまったようですが、<br>その紙を書いたのは私達ではありませんよ。",
       "zh": "看来是招人误会了，<br>\n但那张纸并不是我们写的。",
-      "vi": "Có vẻ như có sự hiểu lầm, Nhưng mảnh giấy đó không phải do chúng tôi viết.",
+      "vi": "Tuy có gây ra chút hiểu lầm, nhưng tờ giấy đó tuyệt đối không phải do chúng ta viết đâu.",
       "objection_links": []
     },
     {
@@ -878,7 +878,7 @@
       "speaker_tag": "; > Coco: |#0102Trial13_Coco008|",
       "ja": "べつに書いた証拠はなくね？",
       "zh": "也没证据证明是它写的啊？",
-      "vi": "Không có bằng chứng cho thấy nó được viết?",
+      "vi": "Đúng là có mẩu bằng chứng nào chứng minh con chim bồ câu đó viết đâu?",
       "objection_links": []
     },
     {
@@ -886,7 +886,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial13_AnAn003|",
       "ja": "見苦しいな、桜羽エマ。",
       "zh": "真是够丢人的，樱羽艾玛。",
-      "vi": "Thật sự rất xấu hổ, Ema Sakuraba.",
+      "vi": "Thật là một trò hề thảm hại đáng xấu hổ, Sakuraba Ema.",
       "objection_links": []
     },
     {
@@ -894,7 +894,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema040|",
       "ja": "（ううっ……！<br>　追求できるような証拠もないよね……！）",
       "zh": "（呜呜……！<br>\n没有能追查下去的证据……！）",
-      "vi": "(Ồ...! Không có bằng chứng nào có thể truy tìm được...! )",
+      "vi": "(Ư ư……! Quả thực là mình không có bằng chứng nào để truy vấn tiếp cả……!)",
       "objection_links": []
     },
     {
@@ -902,7 +902,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema041|",
       "ja": "（考え直そう……！）",
       "zh": "（再想一想吧……！）",
-      "vi": "(Hãy suy nghĩ lại...!)",
+      "vi": "(Phải suy tính lại thôi……!)",
       "objection_links": []
     },
     {
@@ -910,7 +910,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema042|",
       "ja": "（他に、ゴクチョーから出た新しい情報の中で<br>　これまでの推理と矛盾しそうな部分はないかな……？）",
       "zh": "（在典狱长提出的其他新情报中，<br>\n有没有与目前的推理相矛盾的地方呢……？）",
-      "vi": "(Trong số những thông tin mới khác từ người cai ngục, Có điều gì mâu thuẫn với lý luận hiện tại không...? )",
+      "vi": "(Trong những lời khai mới của Cai Ngục Trưởng, còn chi tiết nào xung đột với lập luận không……?)",
       "objection_links": []
     },
     {
@@ -918,7 +918,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema043|",
       "ja": "鍵を開ける予定はあったんじゃないかな。",
       "zh": "应该有别的事需要开门吧。",
-      "vi": "Chắc chắn phải có cái gì đó khác cần được mở ra.",
+      "vi": "Chắc chắn hôm nay vốn dĩ phải có kế hoạch mở khóa chứ.",
       "objection_links": []
     },
     {
@@ -926,7 +926,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema044|",
       "ja": "そうじゃないと、<br>懲罰房の鍵が開いていたことの説明がつかないし……。",
       "zh": "否则，<br>\n惩罚室的门没锁这件事就说不通了……",
-      "vi": "Nếu không, Thật vô lý khi cánh cửa Phòng Kỷ Luật lại không khóa...",
+      "vi": "Nếu không thì làm sao giải thích được việc cánh cửa Phòng Kỷ Luật lại không hề bị khóa……",
       "objection_links": []
     },
     {
@@ -934,7 +934,7 @@
       "speaker_tag": "; > Sherry: |#0102Trial13_Sherry003|",
       "ja": "ではその予定とはなんなんでしょう？<br>エマさんには予想がついているんですか？",
       "zh": "那到底是什么事情呢？<br>\n你有什么想法吗？",
-      "vi": "Vậy chính xác thì chuyện gì đang xảy ra? Bạn có ý tưởng gì không?",
+      "vi": "Vậy kế hoạch đó cụ thể là gì ạ? Chị Ema đã đoán ra được điều gì rồi sao ạ?",
       "objection_links": []
     },
     {
@@ -942,7 +942,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema045|",
       "ja": "いや……それは……拷問とか……？",
       "zh": "呃……可能是……拷问之类的……？",
-      "vi": "Uh...có lẽ...tra tấn hay gì đó...?",
+      "vi": "À thì…… có khi là…… đi tra tấn chẳng hạn……?",
       "objection_links": []
     },
     {
@@ -950,7 +950,7 @@
       "speaker_tag": "; > Alisa: |#0102Trial13_Alisa003|",
       "ja": "……その可能性はあるかもしれねーが、<br>べつにこだわったところで何かが変わるとも<br>思えねぇけどな。",
       "zh": "……也不是说没这可能，<br>\n但是揪着这个事不放<br>\n也不能改变什么吧。",
-      "vi": "…Điều đó không có nghĩa là không thể, Nhưng Tao sẽ không bỏ qua vấn đề này Không có gì có thể thay đổi được.",
+      "vi": "……Khả năng đó thì cũng có thể, nhưng tao thấy bám riết vào cái chi tiết ấy cũng đéo thay đổi được cục diện gì đâu.",
       "objection_links": []
     },
     {
@@ -958,7 +958,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial13_AnAn004|",
       "ja": "桜羽エマは議論を停滞させようとしている。",
       "zh": "樱羽艾玛是想让讨论的进度停滞不前。",
-      "vi": "Ema Sakuraba muốn trì hoãn tiến trình thảo luận.",
+      "vi": "Sakuraba Ema rõ ràng đang cố tình kéo dài để làm đình trệ phiên tòa.",
       "objection_links": []
     },
     {
@@ -966,7 +966,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial13_AnAn005|",
       "ja": "<color=#9c8eff><b>【桜羽エマを排除せよ】</b></color>……！",
       "zh": "<color=#9c8eff><b>【驱逐樱羽艾玛】</b></color>……！",
-      "vi": "<color=#9c8eff><b> [Trục xuất Sakuraba Ema]</b></color>...!",
+      "vi": "<color=#9c8eff><b>【HÃY LOẠI BỎ SAKURABA EMA ĐI】</b></color>……!",
       "objection_links": []
     },
     {
@@ -974,7 +974,7 @@
       "speaker_tag": "; > Sherry: |#0102Trial13_Sherry004|",
       "ja": "そうですね！<br>建設的な推理を妨げるなら、排除一択です！",
       "zh": "是啊！<br>\n谁要妨碍有建设性的推理，就必须驱逐她！",
-      "vi": "Vâng! Bất cứ ai can thiệp vào lý luận mang tính xây dựng đều phải bị trục xuất!",
+      "vi": "Đúng thế thật ạ! Ai mà cản trở những suy luận mang tính xây dựng thì chỉ có nước loại bỏ ngay và luôn!",
       "objection_links": []
     },
     {
@@ -982,7 +982,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema046|",
       "ja": "（は、排除されちゃう……！）",
       "zh": "（要、要被驱逐了……！）",
-      "vi": "(Mình sắp bị đuổi học mất...!)",
+      "vi": "(S-Sắp bị cả đám tẩy chay loại bỏ thật rồi……!)",
       "objection_links": []
     },
     {
@@ -990,7 +990,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema047|",
       "ja": "（あの紙はゴクチョーが書いたものじゃないってことは<br>　犯人が書いたのかもしれない……）",
       "zh": "（既然那张纸不是典狱长写的，<br>\n那大概就是凶手写的……）",
-      "vi": "(Vì mảnh giấy đó không phải do giám thị viết nên Đó có lẽ là do kẻ giết người viết...)",
+      "vi": "(Nếu tờ giấy đó không phải do Cai Ngục Trưởng viết thì chắc chắn là do hung thủ tự tay dựng lên……)",
       "objection_links": []
     },
     {
@@ -998,7 +998,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema048|",
       "ja": "（他に、ゴクチョーから出た新しい情報の中で<br>　これまでの推理と矛盾しそうな部分はないかな……？）",
       "zh": "（在典狱长提出的其他新情报中，<br>\n有没有与目前的推理相矛盾的地方呢……？）",
-      "vi": "(Trong số những thông tin mới khác từ người cai ngục, Có điều gì mâu thuẫn với lý luận hiện tại không...? )",
+      "vi": "(Trong số những thông tin mới của Cai Ngục Trưởng, còn chi tiết nào có thể phản bác không……?)",
       "objection_links": []
     },
     {
@@ -1006,7 +1006,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema049|",
       "ja": "……ちょっと待って。<br>それってこれまでの話と、<br>矛盾があると思うんだけど……。",
       "zh": "……等一等。<br>\n我感觉这句话与先前的讨论<br>\n有所矛盾……",
-      "vi": "...Đợi một chút. Tôi cảm thấy câu này phù hợp với cuộc thảo luận trước đó Có phần mâu thuẫn...",
+      "vi": "……Khoan đã nào. Lời khai đó của ông có điểm mâu thuẫn với thực tế vụ án đấy……",
       "objection_links": []
     },
     {
@@ -1014,7 +1014,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden024|",
       "ja": "おや？ そうでしょうか？<br>特に不自然な部分はないと思いますが？",
       "zh": "哦？是这样吗？<br>\n我倒不觉得有什么异常之处啊？",
-      "vi": "Ồ? có phải vậy không? Tôi không nghĩ có gì bất thường?",
+      "vi": "Ủa? Thật vậy sao? Ta thấy mọi thứ đều hết sức hợp lý mà?",
       "objection_links": []
     },
     {
@@ -1022,7 +1022,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema050|",
       "ja": "拷問ショーの案内を<br>もう一度思い出してほしいんだけど。",
       "zh": "请大家回想一下<br>\n拷问秀的邀请文。",
-      "vi": "Hãy nhớ lại Lời mời tham gia chương trình tra tấn.",
+      "vi": "Mọi người hãy nhớ lại nội dung của tờ giấy thông báo show tra tấn đi.",
       "objection_links": []
     },
     {
@@ -1030,7 +1030,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema051|",
       "ja": "【２０時 懲罰房で拷問ショー】<br>……って書いてあるよ。",
       "zh": "便条上面写着<br>\n……【20时 在惩罚室举行拷问秀】。",
-      "vi": "Ghi chú có nội dung...[Biểu diễn tra tấn sẽ được tổ chức tại Phòng Kỷ Luật lúc 20:00].",
+      "vi": "Trên đó ghi rõ ràng là: 【20:00 Show Tra Tấn tại Phòng Kỷ Luật】 đấy.",
       "objection_links": []
     },
     {
@@ -1038,7 +1038,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema052|",
       "ja": "拷問ショーを開くつもりなら、<br>懲罰房の鍵を開けておく必要があるし、<br>看守には指示をする必要があるんじゃないかな？",
       "zh": "如果要举行拷问秀，<br>\n肯定需要打开惩罚室的门，<br>\n而且也要指挥看守吧？",
-      "vi": "Nếu một màn tra tấn được tổ chức, Nhất định phải mở cửa Phòng Kỷ Luật, Và bạn cũng phải ra lệnh cho Cai Ngục phải không?",
+      "vi": "Nếu muốn tổ chức show tra tấn, thì nhất định phải mở khóa cửa Phòng Kỷ Luật và ra chỉ thị cho tên cai ngục đúng không?",
       "objection_links": []
     },
     {
@@ -1046,7 +1046,7 @@
       "speaker_tag": "; > Alisa: |#0102Trial13_Alisa004|",
       "ja": "でもショーの案内を書いたのは<br>ゴクチョーたちじゃねえんだろ？",
       "zh": "但是写邀请文的<br>\n又不是典狱长它们吧？",
-      "vi": "Nhưng ai đã viết lời mời Họ không phải là cai ngục phải không?",
+      "vi": "Nhưng tờ giấy mời đó đâu phải do đám cai ngục viết ra?",
       "objection_links": []
     },
     {
@@ -1054,7 +1054,7 @@
       "speaker_tag": "; > Alisa: |#0102Trial13_Alisa005|",
       "ja": "だったら看守が鍵を開けとく筋合いもねえだろ。<br>ゴクチョーの話に矛盾はねえよ。",
       "zh": "那看守没有帮忙开门的道理啊。<br>\n和典狱长的证词没矛盾。",
-      "vi": "Không có lý do gì để Cai Ngục giúp mở cửa. Không có gì mâu thuẫn với lời khai của Warden.",
+      "vi": "Thế thì thằng cai ngục làm đách gì có lý do để mở cửa sẵn. Lời khai của con chim cú chẳng mâu thuẫn chỗ nào hết.",
       "objection_links": []
     },
     {
@@ -1062,7 +1062,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial13_Hanna002|",
       "ja": "エマさん……それは言いがかりだと思いますわ！",
       "zh": "艾玛小姐……这样说就有点牵强了！",
-      "vi": "Ema... Nói điều này hơi xa vời!",
+      "vi": "Ema-san…… Lập luận này của cô quá ư là gượng ép khiên cưỡng đấy ạ!",
       "objection_links": []
     },
     {
@@ -1070,7 +1070,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema053|",
       "ja": "（的外れな指摘をしちゃったみたい……！）",
       "zh": "（看来我找错了论点……！）",
-      "vi": "(Có vẻ như tôi đã tìm ra lý lẽ sai rồi...!)",
+      "vi": "(Xem ra mình đã bắt bẻ sai hướng mất rồi……!)",
       "objection_links": []
     },
     {
@@ -1078,7 +1078,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema054|",
       "ja": "（そうだよね、拷問ショーの案内は<br>　ゴクチョーとは関係がない……）",
       "zh": "（也对哦，拷问秀的邀请文<br>\n和典狱长无关……）",
-      "vi": "(Đúng vậy, lời mời tham gia chương trình tra tấn Nó không liên quan gì tới Cai Ngục Trưởng...)",
+      "vi": "(Đúng vậy, giấy thông báo show tra tấn vốn dĩ không liên quan tới Cai Ngục Trưởng……)",
       "objection_links": []
     },
     {
@@ -1086,7 +1086,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema055|",
       "ja": "（他に、ゴクチョーから出た新しい情報の中で<br>　これまでの推理と矛盾しそうな部分はないかな……？）",
       "zh": "（在典狱长提出的其他新情报中，<br>\n有没有与目前的推理相矛盾的地方呢……？）",
-      "vi": "(Trong số những thông tin mới khác từ người cai ngục, Có điều gì mâu thuẫn với lý luận hiện tại không...? )",
+      "vi": "(Trong những điều Cai Ngục Trưởng vừa cung cấp, còn mâu thuẫn nào khác không……?)",
       "objection_links": []
     },
     {
@@ -1094,7 +1094,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema056|",
       "ja": "特別なスマホを持っている人は<br>いるんじゃないかな？",
       "zh": "会不会有人有<br>\n特殊的手机？",
-      "vi": "Có ai có Một chiếc điện thoại đặc biệt?",
+      "vi": "Chẳng lẽ lại không có ai sở hữu một chiếc điện thoại đặc biệt sao?",
       "objection_links": []
     },
     {
@@ -1102,7 +1102,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden025|",
       "ja": "いえ、そんなはずは――。",
       "zh": "不，这不可能——",
-      "vi": "Không, điều đó là không thể -",
+      "vi": "Không thể nào có chuyện đó đâu――",
       "objection_links": []
     },
     {
@@ -1110,7 +1110,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema057|",
       "ja": "だってほら……！<br>ミリアちゃんのスマホ……。",
       "zh": "比如说……！<br>\n只有米莉亚的手机……",
-      "vi": "Ví dụ như...! Chỉ có điện thoại di động của Miria…",
+      "vi": "Bởi vì nhìn xem……! Điện thoại của Miria-chan……",
       "objection_links": []
     },
     {
@@ -1118,7 +1118,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema058|",
       "ja": "ひとりだけデコってる！",
       "zh": "是有装饰的！",
-      "vi": "Nó được trang trí!",
+      "vi": "Được đính đá trang trí lấp la lấp lánh riêng biệt một mình một kiểu!",
       "objection_links": []
     },
     {
@@ -1126,7 +1126,7 @@
       "speaker_tag": "; > Meruru: |#0102Trial13_Meruru003|",
       "ja": "そ、それは【スマホのケース】であって……<br>別に機能の差は、ないのでは……。",
       "zh": "那、那个只是【保护套】……<br>\n功能上应该没什么区别……",
-      "vi": "Đó, đó chỉ là [vỏ bảo vệ]... Không nên có sự khác biệt về chức năng...",
+      "vi": "Đ-Đó chỉ là 【ốp lưng điện thoại】 trang trí thôi mà chị…… Chứ về tính năng máy thì đâu có gì khác biệt đâu ạ……",
       "objection_links": []
     },
     {
@@ -1134,7 +1134,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema059|",
       "ja": "あっ",
       "zh": "啊。",
-      "vi": "À.",
+      "vi": "Á",
       "objection_links": []
     },
     {
@@ -1142,7 +1142,7 @@
       "speaker_tag": "; > Coco: |#0102Trial13_Coco009|",
       "ja": "エマっちを黙らせるアプリとかねーかなあー。",
       "zh": "有没有APP能让艾玛亲闭嘴啊。",
-      "vi": "Có ứng dụng nào có thể khiến Ema im lặng không?",
+      "vi": "Ước gì có app nào bấm phát làm Ema-cưng ngậm mồm lại liền giùm cái nhỉ.",
       "objection_links": []
     },
     {
@@ -1150,7 +1150,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema060|",
       "ja": "（ひどいアプリ……！）",
       "zh": "（好过分的APP……！）",
-      "vi": "(Thật là một APP quá đáng...!)",
+      "vi": "(Ứng dụng gì mà ác độc quá vậy trời……!)",
       "objection_links": []
     },
     {
@@ -1158,7 +1158,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema061|",
       "ja": "（……あれっ、でもスマホといえば――）",
       "zh": "（……咦，不过说起手机的话——）",
-      "vi": "(...Này, nhưng nói về điện thoại di động——)",
+      "vi": "(……Ủa, nhưng nhắc tới điện thoại thì――)",
       "objection_links": []
     },
     {
@@ -1166,7 +1166,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema062|",
       "ja": "（ミリアちゃんのスマホって<br>　確か初期化されてたんだよね……<br>　そのときの状況って……？）",
       "zh": "（我记得米莉亚的手机<br>\n被恢复出厂设置了吧……<br>\n那当时发生了什么事……？）",
-      "vi": "(Tôi nhớ điện thoại di động của Miria Nó đã được khôi phục về cài đặt gốc... Chuyện gì đã xảy ra sau đó...? )",
+      "vi": "(Điện thoại của Miria-chan rõ ràng đã bị khôi phục cài đặt gốc xóa trắng dữ liệu…… Tình cảnh lúc đó diễn ra như thế nào nhỉ……?)",
       "objection_links": []
     },
     {
@@ -1174,7 +1174,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema063|",
       "ja": "ボクのスマホに不具合があるかも……！",
       "zh": "我的手机好像有问题……！",
-      "vi": "Có vẻ như có gì đó không ổn với điện thoại của tôi...!",
+      "vi": "Có khi điện thoại của tớ đang bị lỗi phần mềm đấy……!",
       "objection_links": []
     },
     {
@@ -1182,7 +1182,7 @@
       "speaker_tag": "; > Alisa: |#0102Trial13_Alisa006|",
       "ja": "それ今言う必要あったか？",
       "zh": "非得现在说吗？",
-      "vi": "Chúng ta có cần phải nói điều đó bây giờ không?",
+      "vi": "Chuyện đó có cần thiết phải lôi ra nói ngay lúc này không?",
       "objection_links": []
     },
     {
@@ -1190,7 +1190,7 @@
       "speaker_tag": "; > Alisa: |#0102Trial13_Alisa007|",
       "ja": "カスタマーサポートすんな！",
       "zh": "别把我们当客服！",
-      "vi": "Đừng đối xử với bọn tao như dịch vụ khách hàng!",
+      "vi": "Đừng có biến tòa án thành trung tâm chăm sóc khách hàng chứ!",
       "objection_links": []
     },
     {
@@ -1198,7 +1198,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema064|",
       "ja": "（勘違いだったみたい……！）",
       "zh": "（我好像搞错了……！）",
-      "vi": "(Hình như mình đã nhầm rồi...!)",
+      "vi": "(Xem ra mình lại nhầm lẫn nữa rồi……!)",
       "objection_links": []
     },
     {
@@ -1206,7 +1206,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema065|",
       "ja": "（……あれっ、でもスマホといえば――）",
       "zh": "（……咦，不过说起手机的话——）",
-      "vi": "(...Này, nhưng nói về điện thoại di động——)",
+      "vi": "(……Ủa, nhưng nhắc tới chiếc điện thoại thì――)",
       "objection_links": []
     },
     {
@@ -1214,7 +1214,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema066|",
       "ja": "（ミリアちゃんのスマホって<br>　確か初期化されてたんだよね……<br>　そのときの状況って……？）",
       "zh": "（我记得米莉亚的手机<br>\n被恢复出厂设置了吧……<br>\n那当时发生了什么事……？）",
-      "vi": "(Tôi nhớ điện thoại di động của Miria Nó đã được khôi phục về cài đặt gốc... Chuyện gì đã xảy ra sau đó...? )",
+      "vi": "(Điện thoại của Miria-chan nhớ mang máng là đã bị xóa sạch dữ liệu…… Diễn biến lúc tìm thấy chiếc máy đó là……?)",
       "objection_links": []
     },
     {
@@ -1222,7 +1222,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema067|",
       "ja": "……ちょっと待って。<br>それってこれまでの話と、<br>矛盾があると思うんだけど……。",
       "zh": "……等一等。<br>\n我感觉这句话与先前的讨论<br>\n有所矛盾……",
-      "vi": "...Đợi một chút. Tôi cảm thấy câu này phù hợp với cuộc thảo luận trước đó Có phần mâu thuẫn...",
+      "vi": "……Khoan đã nào. Lời khai đó của ông có một điểm mâu thuẫn chí mạng với chuỗi sự kiện đã xảy ra đấy……",
       "objection_links": []
     },
     {
@@ -1230,7 +1230,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden026|",
       "ja": "おや？ そうでしょうか？<br>特に不自然な部分はないと思いますが？",
       "zh": "哦？是这样吗？<br>\n我倒不觉得有什么异常之处啊？",
-      "vi": "Ồ? có phải vậy không? Tôi không nghĩ có gì bất thường?",
+      "vi": "Ô kìa? Thật thế sao? Ta đâu thấy có chỗ nào bất thường đâu nhỉ?",
       "objection_links": []
     },
     {
@@ -1238,7 +1238,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema068|",
       "ja": "ならもう一度確認するけど……。",
       "zh": "那让我们再确认一遍……",
-      "vi": "Vì vậy hãy xác nhận lại một lần nữa…",
+      "vi": "Vậy thì xin cho tôi được xác nhận lại một lần nữa……",
       "objection_links": []
     },
     {
@@ -1246,7 +1246,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema069|",
       "ja": "【スマホの初期化には時間がかかる】……<br>間違いないかな？",
       "zh": "【手机恢复出厂设置需要花费较长时间】……<br>\n这点没错吧？",
-      "vi": "[Phải mất nhiều thời gian để khôi phục điện thoại về cài đặt gốc]...... Điều này có đúng không?",
+      "vi": "【Việc khôi phục cài đặt gốc xóa dữ liệu điện thoại tốn khá nhiều thời gian】…… Điều này chắc chắn chuẩn xác chứ?",
       "objection_links": []
     },
     {
@@ -1254,7 +1254,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka010|",
       "ja": "それは……！",
       "zh": "那是……！",
-      "vi": "Đó là...!",
+      "vi": "Chi tiết đó……!",
       "objection_links": []
     },
     {
@@ -1262,7 +1262,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema070|",
       "ja": "……ナノカちゃんも気づいたみたいだね。",
       "zh": "……看来奈叶香你也注意到了。",
-      "vi": "…Có vẻ như Nanoka, cậu cũng nhận thấy.",
+      "vi": "……Xem ra Nanoka-chan cũng đã nhận ra rồi đúng không.",
       "objection_links": []
     },
     {
@@ -1270,7 +1270,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema071|",
       "ja": "データの削除の説明について、<br>これまでの推理と矛盾があることに。",
       "zh": "关于清除数据的说法，<br>\n和先前的推理相矛盾。",
-      "vi": "Về việc xóa dữ liệu, Mâu thuẫn với lý luận trước đó.",
+      "vi": "Rằng lời giải thích về việc xóa dữ liệu máy mâu thuẫn hoàn toàn với suy luận hiện tại.",
       "objection_links": []
     },
     {
@@ -1278,7 +1278,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka011|",
       "ja": "……桜羽エマ。<br>ひとつ、質問させて頂戴。",
       "zh": "……樱羽艾玛，<br>\n让我问一个问题。",
-      "vi": "...Sakura Ema, Hãy để tôi hỏi một câu hỏi.",
+      "vi": "……Sakuraba Ema. Cho phép tôi được hỏi cậu một câu.",
       "objection_links": []
     },
     {
@@ -1286,7 +1286,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka012|",
       "ja": "あなたたちが錠前を壊して<br>佐伯ミリアの死体を確認したとき……。",
       "zh": "在你们破坏完门锁<br>\n检查佐伯米莉亚的尸体时……",
-      "vi": "Sau khi bạn phá khóa cửa Khi khám nghiệm cơ thể của Miria Saeki...",
+      "vi": "Vào thời điểm các cô phá khóa xông vào và phát hiện thi thể của Saeki Miria……",
       "objection_links": []
     },
     {
@@ -1294,7 +1294,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka013|",
       "ja": "夏目アンアンは、どれぐらい経ってから<br>佐伯ミリアのスマホを見つけたの？",
       "zh": "夏目安安过了多久<br>\n才找到佐伯米莉亚的手机？",
-      "vi": "Đã bao lâu rồi Tsume chưa được an toàn Bạn vừa tìm thấy điện thoại di động của Miria Saeki phải không?",
+      "vi": "Thì sau bao lâu Natsume AnAn mới tìm thấy chiếc điện thoại của Saeki Miria?",
       "objection_links": []
     },
     {
@@ -1302,7 +1302,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema072|",
       "ja": "あの時はたしか……。",
       "zh": "我记得那时候……",
-      "vi": "Tôi nhớ lần đó...",
+      "vi": "Lúc đó nhớ mang máng là……",
       "objection_links": []
     },
     {
@@ -1310,7 +1310,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial13_AnAn006|",
       "ja": "ミリアは……本当に刺されているのか？",
       "zh": "米莉亚她……真的被捅了吗？",
-      "vi": "Miria... cô ấy thực sự bị đâm à?",
+      "vi": "Miria…… thực sự đã bị đâm sao?",
       "objection_links": []
     },
     {
@@ -1318,7 +1318,7 @@
       "speaker_tag": "; > Meruru: |#0102Trial13_Meruru004|",
       "ja": "ダメです……もう、亡くなっています。",
       "zh": "不行……她已经过世了。",
-      "vi": "Không...cô ấy đã qua đời.",
+      "vi": "Không cứu được nữa rồi…… Cậu ấy…… đã qua đời rồi.",
       "objection_links": []
     },
     {
@@ -1326,7 +1326,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema073|",
       "ja": "ミリアちゃん……なんで……。",
       "zh": "米莉亚……为什么……",
-      "vi": "Miria...tại sao...",
+      "vi": "Miria-chan…… tại sao lại ra nông nỗi này……",
       "objection_links": []
     },
     {
@@ -1334,7 +1334,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial13_AnAn007|",
       "ja": "……ミリアのスマホが落ちていた。",
       "zh": "……米莉亚的手机掉了。",
-      "vi": "…Điện thoại di động của Miria rơi xuống.",
+      "vi": "……Điện thoại của Miria rơi ở đây này.",
       "objection_links": []
     },
     {
@@ -1342,7 +1342,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema074|",
       "ja": "……そんなに時間は経ってなかったと思う。<br>少なくとも、死体を見つけてから<br>【５分】は経ってないよ。",
       "zh": "……应该没有很久。<br>\n从发现尸体以后<br>\n最多不超过【5分钟】。",
-      "vi": "...Sẽ không mất nhiều thời gian đâu. Kể từ khi phát hiện ra thi thể Không quá [5 phút] nhiều nhất.",
+      "vi": "……Tớ nhớ là không hề lâu chút nào. Ít nhất là kể từ lúc phát hiện thi thể cho đến lúc đó, chưa đầy 【5 phút】 đâu.",
       "objection_links": []
     },
     {
@@ -1350,7 +1350,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka014|",
       "ja": "……そう。<br>それなら……。",
       "zh": "……这样啊。<br>\n那么……",
-      "vi": "...chính là nó. Vậy...",
+      "vi": "……Ra là thế. Nếu vậy thì……",
       "objection_links": []
     },
     {
@@ -1358,7 +1358,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka015|",
       "ja": "……ゴクチョー。<br>スマホのデータの削除には時間がかかるそうだけど、<br>どれくらいかかるのかしら。",
       "zh": "……典狱长，<br>\n你说清除手机数据需要花费较长时间，<br>\n那究竟是多久呢。",
-      "vi": "…Cai Ngục Trưởng, Bạn nói rằng phải mất nhiều thời gian để xóa dữ liệu điện thoại, Bao lâu rồi?",
+      "vi": "……Cai Ngục Trưởng. Ông bảo việc xóa trắng dữ liệu điện thoại tốn khá nhiều thời gian, vậy cụ thể là mất bao lâu?",
       "objection_links": []
     },
     {
@@ -1366,7 +1366,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden027|",
       "ja": "機密保護の観点から、このスマホを初期化する際は<br>データが復元できないよう、<br>特殊な処理をしていまして……。",
       "zh": "出于保护机密的角度，为了让手机恢复出厂设置以后<br>\n无法恢复数据，<br>\n我们做了特殊处理……",
-      "vi": "Từ góc độ bảo vệ tính bảo mật, để khôi phục điện thoại về cài đặt gốc sau Không thể khôi phục dữ liệu, Chúng tôi đã thực hiện xử lý đặc biệt...",
+      "vi": "Đứng trên góc độ bảo mật cơ mật tối cao, khi khôi phục cài đặt gốc dòng máy này, hệ thống sẽ thực hiện thuật toán ghi đè đặc biệt để không thể khôi phục dữ liệu……",
       "objection_links": []
     },
     {
@@ -1374,7 +1374,7 @@
       "speaker_tag": "; > Warden: |#0102Trial13_Warden028|",
       "ja": "最低でも【３０分】ほどはかかりますね。",
       "zh": "最少也需要【30分钟】左右吧。",
-      "vi": "Ít nhất sẽ mất khoảng [30 phút].",
+      "vi": "Nên tối thiểu cũng phải mất chừng 【30 phút】 đấy.",
       "objection_links": []
     },
     {
@@ -1382,7 +1382,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka016|",
       "ja": "そ、それじゃあ……！",
       "zh": "那、那样的话……！",
-      "vi": "Chà, trong trường hợp đó...!",
+      "vi": "N-Nếu như vậy thì……!",
       "objection_links": []
     },
     {
@@ -1390,7 +1390,7 @@
       "speaker_tag": "; > Hanna: |#0102Trial13_Hanna003|",
       "ja": "アンアンさんにデータの消去は無理ですわ！",
       "zh": "安安不可能清除数据！",
-      "vi": "AnAn không thể xóa dữ liệu!",
+      "vi": "AnAn-san tuyệt đối không thể nào đủ thời gian để xóa trắng dữ liệu được!",
       "objection_links": []
     },
     {
@@ -1398,7 +1398,7 @@
       "speaker_tag": "; > Sherry: |#0102Trial13_Sherry005|",
       "ja": "たしかに……。<br>あの時、中に入ってから<br>そんなに時間は経ってませんでしたね！",
       "zh": "确实……<br>\n那时，进房间以后并没有<br>\n过去那么长的时间！",
-      "vi": "Quả thực... Lúc đó không có sau khi vào phòng. Một thời gian dài đã trôi qua!",
+      "vi": "Đúng là như vậy thật……! Lúc đó từ khi bước chân vào phòng cho tới khi nhặt điện thoại lên, thời gian trôi qua quá ngắn!",
       "objection_links": []
     },
     {
@@ -1406,7 +1406,7 @@
       "speaker_tag": "; > Coco: |#0102Trial13_Coco010|",
       "ja": "って事はつまり……やっぱ犯人は<br>ナノカしかいねーって事じゃねーの！？",
       "zh": "也就是说……凶手只能是<br>\n奈叶香了吧！？",
-      "vi": "Nói cách khác...kẻ sát nhân chỉ có thể là Nanoha thơm quá!?",
+      "vi": "Thế thì chẳng phải đồng nghĩa với việc…… hung thủ chỉ có thể là Nanoka thôi sao!?",
       "objection_links": []
     },
     {
@@ -1414,7 +1414,7 @@
       "speaker_tag": "; > Nanoka: |#0102Trial13_Nanoka017|",
       "ja": "そんな……！",
       "zh": "怎么会这样……！",
-      "vi": "Làm sao điều này có thể xảy ra...!",
+      "vi": "Sao có thể như vậy được……!",
       "objection_links": []
     },
     {
@@ -1422,7 +1422,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema075|",
       "ja": "（アンアンちゃんが無理なら、<br>　たしかにナノカちゃんが怪しくなる……。<br>　でも……）",
       "zh": "（安安做不到的话，<br>\n奈叶香的嫌疑确实就大了……<br>\n可是……）",
-      "vi": "(Nếu AnAn không làm được, Sự nghi ngờ của Nanoka thực sự rất cao... Nhưng...)",
+      "vi": "(Nếu AnAn-chan không thể làm điều đó, thì đúng là diện nghi vấn sẽ dồn hết lên Nanoka-chan…… Thế nhưng……)",
       "objection_links": []
     },
     {
@@ -1430,7 +1430,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial13_AnAn008|",
       "ja": "くっ……！",
       "zh": "唔……！",
-      "vi": "Ờ...!",
+      "vi": "Hực……!",
       "objection_links": []
     },
     {
@@ -1438,7 +1438,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema076|",
       "ja": "（今の説明は、アンアンちゃんに有利な説明だったはずなのに、<br>　アンアンちゃんは何も言おうとしない……？）",
       "zh": "（刚才的发言明明对安安有利，<br>\n可她为什么一言不发……？）",
-      "vi": "(Bài phát biểu vừa rồi rõ ràng có lợi cho AnAn, Nhưng tại sao cô ấy không nói một lời...? )",
+      "vi": "(Lời khai vừa rồi rõ ràng cực kỳ có lợi để rửa sạch tội cho AnAn-chan, thế mà tại sao cậu ấy lại cắn chặt môi không thốt nên lời……?)",
       "objection_links": []
     },
     {
@@ -1446,7 +1446,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema077|",
       "ja": "（……ひとまず、ゴクチョーに教えてもらった情報を<br>　更新しておこう）",
       "zh": "（……总之，先把典狱长提供的情报<br>\n更新一下吧）",
-      "vi": "(...Dù sao thì trước tiên hãy thu thập thông tin do Cai Ngục Trưởng cung cấp Vui lòng cập nhật nó)",
+      "vi": "(……Trước mắt, hãy ghi nhận và cập nhật thông tin mà Cai Ngục Trưởng vừa cung cấp vào sổ tay đã)",
       "objection_links": []
     },
     {
@@ -1454,7 +1454,7 @@
       "speaker_tag": "; > @toast \"|#Toast_001|\"",
       "ja": "魔女図鑑 更新…",
       "zh": "魔女图鉴 更新…",
-      "vi": "Cập nhật Sổ Tay Phù Thủy…",
+      "vi": "Cập nhật Bách Khoa Toàn Thư Ma Nữ…",
       "objection_links": []
     },
     {
@@ -1462,7 +1462,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema078|",
       "ja": "……もう一度だけ、<br>わかったことを整理しよう。",
       "zh": "……我们重新整理一下<br>\n已知的信息吧。",
-      "vi": "…Hãy tổ chức lại Thông tin đã biết.",
+      "vi": "……Chúng ta hãy cùng nhau sắp xếp lại toàn bộ những dữ kiện đã biết một lần nữa.",
       "objection_links": []
     },
     {
@@ -1470,7 +1470,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema079|",
       "ja": "（アンアンちゃんの様子……<br>　そこにはなにか裏がある）",
       "zh": "（看安安那副样子……<br>\n一定有什么隐情）",
-      "vi": "(Nhìn dáng vẻ của AnAn... Chắc chắn có điều gì đó ẩn giấu)",
+      "vi": "(Biểu cảm lúng túng khác thường đó của AnAn-chan…… chắc chắn đằng sau đó có ẩn tình gì mờ ám)",
       "objection_links": []
     },
     {
@@ -1478,7 +1478,7 @@
       "speaker_tag": "; > Ema: |#0102Trial13_Ema080|",
       "ja": "（暴くんだ……！<br>　アンアンちゃんが隠した【嘘】を！）",
       "zh": "（我一定要……<br>\n揭露安安隐瞒的【谎言】！）",
-      "vi": "(Tôi phải... Vạch trần [lời nói dối] AnAn che giấu! )",
+      "vi": "(Mình nhất định phải vạch trần……! 【Lời nói dối】 mà AnAn-chan đang cố che giấu!)",
       "objection_links": []
     }
   ]

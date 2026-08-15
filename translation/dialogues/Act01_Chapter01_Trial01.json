@@ -9,7 +9,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0101Trial01_Sherry001|",
       "ja": "私が見つけた証拠……<br>それはズバリ、<br>ダイイングメッセージです！",
       "zh": "我找到的证据……<br>\n那就是<br>\n死亡讯息！",
-      "vi": "Bằng chứng em tìm thấy tại hiện trường…… Đó chính là lời trăng trối của nạn nhân (Dying Message) để lại trước khi chết!",
+      "vi": "Bằng chứng then chốt mà em tìm thấy…… Đó chính là lời trăng trối của nạn nhân để lại trước lúc lâm chung!",
       "objection_links": []
     },
     {
@@ -17,7 +17,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0101Trial01_Margo001|",
       "ja": "ダイイングメッセージ……。<br>【死者が死に際に残す言葉】<br>……であってるかしら？",
       "zh": "死亡讯息……<br>\n就是所谓的<br>\n【死者在死前留下的话语】？",
-      "vi": "Lời trăng trối trước khi chết…… 【Thông điệp mà người đã khuất để lại trong giây phút cuối đời】…… Chị hiểu thế có đúng không?",
+      "vi": "Thông điệp tuyệt mệnh…… Tức là 【lời trăng trối của người đã khuất trước giây phút lìa đời】 đúng không em?",
       "objection_links": []
     },
     {
@@ -25,7 +25,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:0 |#0101Trial01_Alisa001|",
       "ja": "……そんなの<br>死体の周りに<br>あったかぁ？",
       "zh": "……你说<br>\n尸体旁边留下了<br>\n死亡讯息？",
-      "vi": "……Quanh thi thể con bé đó có thứ quái đản như thế thật à?",
+      "vi": "……Quanh cái xác chết đó mà cũng có thứ như thế thật à?",
       "objection_links": []
     },
     {
@@ -33,7 +33,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:0 |#0101Trial01_Sherry002|",
       "ja": "ええ、<br>死体をよく<br>見てください……。",
       "zh": "对。<br>\n请大家<br>\n仔细观察尸体……",
-      "vi": "Đúng vậy ạ, mọi người hãy nhớ lại hiện trường thi thể xem……",
+      "vi": "Đúng thế ạ! Mọi người hãy nhớ lại thật kỹ hiện trường quanh thi thể xem……",
       "objection_links": []
     },
     {
@@ -41,7 +41,7 @@
       "speaker_tag": "; > @printDebate pos:65,35 |#0101Trial01_Sherry003|",
       "ja": "死体の後ろ、<br>そして周囲……<br>そこに<link=\"Objection_01_01_01_01\">血で描かれた</link><br>蝶の絵が描かれているんです！",
       "zh": "看尸体的下面，<br>\n还有旁边……<br>\n在这些地方都有<link=\"Objection_01_01_01_01\">用血画下</link><br>\n的蝴蝶绘画！",
-      "vi": "Phía sau thi thể và xung quanh hiện trường…… có một bức tranh hình bướm <link=\"Objection_01_01_01_01\">được vẽ bằng máu</link>!",
+      "vi": "Ngay phía sau thi thể và trên sàn nhà xung quanh…… có một bức họa hình bướm <link=\"Objection_01_01_01_01\">được vẽ bằng máu</link>!",
       "objection_links": [
         "Objection_01_01_01_01"
       ]
@@ -51,7 +51,7 @@
       "speaker_tag": "; > @printDebate pos:65,35 |#0101Trial01_Sherry004|",
       "ja": "あれはおそらく<br>被害者が最期まで持っていた<br><link=\"Objection_01_01_01_02\">筆を使って</link>描かれた<br>死者からの伝言……。",
       "zh": "恐怕那些是<br>\n被害人在临死前<br>\n<link=\"Objection_01_01_01_02\">用手上的笔</link>画下的<br>\n死者寄语……",
-      "vi": "Bức tranh đó chắc chắn là lời trăng trối được vẽ <link=\"Objection_01_01_01_02\">bằng cây cọ</link> mà nạn nhân nắm chặt trên tay trước khi tắt thở……",
+      "vi": "Bức tranh ấy chắc chắn là thông điệp mà nạn nhân đã <link=\"Objection_01_01_01_02\">dùng cây cọ vẽ</link> cầm trong tay để gửi gắm trước lúc trút hơi thở cuối cùng……",
       "objection_links": [
         "Objection_01_01_01_02"
       ]
@@ -61,7 +61,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0101Trial01_Sherry005|",
       "ja": "つまりノアさんの<br>ダイイングメッセージ<br>なんですよ！",
       "zh": "也就是说，<br>\n这是诺亚的<br>\n死亡讯息！",
-      "vi": "Tóm lại đó chính là thông điệp trăng trối của bạn Noah!",
+      "vi": "Nói cách khác, đó chính là lời trăng trối tuyệt mệnh của Noah-san để lại!",
       "objection_links": []
     },
     {
@@ -69,7 +69,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema001|",
       "ja": "（今のシェリーちゃんの言葉……<br>　少し気になるところがあったかも……）",
       "zh": "（刚刚雪莉的发言里……<br>\n好像出现了令人在意的地方……）",
-      "vi": "（Lời suy luận vừa rồi của Sherry…… Dường như có điểm gì đó mâu thuẫn cần phản biện……）",
+      "vi": "（Lời lập luận vừa rồi của Sherry-chan…… hình như có điểm nào đó rất bất thường và mâu thuẫn……）",
       "objection_links": []
     },
     {
@@ -77,7 +77,7 @@
       "speaker_tag": "; > Meruru: |#0101Trial01_Meruru001|",
       "ja": "エ、エマさん……！<br>気になったところがあったら、<br>指摘をしてみましょう……！",
       "zh": "艾、艾玛小姐……！<br>\n如果有在意的地方，<br>\n请你指出它吧……！",
-      "vi": "A-Ema...! Nếu có điều gì bạn quan tâm, Hãy chỉ ra...!",
+      "vi": "C-Chị Ema ơi……! Nếu thấy có điểm gì mâu thuẫn, chị hãy dũng cảm đứng lên chỉ ra đi ạ……!",
       "objection_links": []
     },
     {
@@ -85,7 +85,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema002|",
       "ja": "……うん！ わかった！<br>やってみるね……！",
       "zh": "……嗯！我明白了！<br>\n我会试试看……！",
-      "vi": "...Hừm! Tôi hiểu rồi! Tôi sẽ thử...!",
+      "vi": "……Ừm! Chị hiểu rồi! Chị sẽ thử xem sao……!",
       "objection_links": []
     },
     {
@@ -93,7 +93,7 @@
       "speaker_tag": "; > @choice |#0101Trial01_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "血で描かれていない",
       "zh": "画画用的不是血",
-      "vi": "Tranh không được thực hiện bằng máu",
+      "vi": "Không phải vẽ bằng máu",
       "objection_links": []
     },
     {
@@ -101,7 +101,7 @@
       "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
       "ja": "戻る",
       "zh": "返回",
-      "vi": "Trở lại",
+      "vi": "Quay lại",
       "objection_links": []
     },
     {
@@ -109,7 +109,7 @@
       "speaker_tag": "; > @choice |#0101Trial01_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "筆で描かれてはいない",
       "zh": "画画用的不是笔",
-      "vi": "Bạn không dùng bút để vẽ",
+      "vi": "Không phải dùng cọ để vẽ",
       "objection_links": []
     },
     {
@@ -117,7 +117,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema003|",
       "ja": "ちょっと待って……！<br>本当にそれは血が使われてるのかな。",
       "zh": "等一下……！<br>\n那真的是用血画的吗？",
-      "vi": "Đợi một chút...! Có thật là nó được vẽ bằng máu không?",
+      "vi": "Khoan đã nào……! Bức tranh đó thật sự là được vẽ bằng máu sao?",
       "objection_links": []
     },
     {
@@ -125,7 +125,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema004|",
       "ja": "もしかして……ペンキとかの画材だったんじゃない？",
       "zh": "说不定……那其实是油漆，或者是什么别的画具呢？",
-      "vi": "Có lẽ... đó thực sự là sơn, hoặc một công cụ vẽ nào khác?",
+      "vi": "Biết đâu chừng…… đó là màu vẽ hoặc sơn dầu bình thường thì sao?",
       "objection_links": []
     },
     {
@@ -133,7 +133,7 @@
       "speaker_tag": "; > Sherry: |#0101Trial01_Sherry006|",
       "ja": "いえ、血でしたよ！",
       "zh": "不，那就是血！",
-      "vi": "Không, đó là máu!",
+      "vi": "Không đâu ạ, đó chắc chắn 100% là máu tươi!",
       "objection_links": []
     },
     {
@@ -141,7 +141,7 @@
       "speaker_tag": "; > Meruru: |#0101Trial01_Meruru002|",
       "ja": "……おそらくあの固まり方と匂いは、<br>血液で間違いないかと……。",
       "zh": "……看凝固的特征和气味，<br>\n应该就是血液没错……",
-      "vi": "…hãy nhìn vào đặc điểm và mùi của sự đông đặc, Chắc là máu...",
+      "vi": "……Dạ, nhìn vào độ đông đặc và mùi tanh nồng bốc lên thì đúng là máu thật không sai vào đâu được ạ……",
       "objection_links": []
     },
     {
@@ -149,7 +149,7 @@
       "speaker_tag": "; > Hanna: |#0101Trial01_Hanna001|",
       "ja": "現場にあった赤い塗料には、<br>使われた形跡がありませんでしたわ？",
       "zh": "放在现场的红色颜料<br>\n也没有使用过的痕迹哦？",
-      "vi": "Sơn màu đỏ được đặt tại chỗ Không có dấu vết sử dụng?",
+      "vi": "Các lọ màu vẽ đỏ có mặt ở hiện trường đâu có dấu vết bị mở nắp sử dụng đâu chứ?",
       "objection_links": []
     },
     {
@@ -157,7 +157,7 @@
       "speaker_tag": "; > Margo: |#0101Trial01_Margo002|",
       "ja": "あれがノアちゃんの血で描かれたという事は間違いなさそうね。",
       "zh": "看来，画画用的应该就是诺亚的血没错。",
-      "vi": "Có vẻ như máu dùng để vẽ tranh phải là máu của Noah.",
+      "vi": "Bức tranh đó được vẽ bằng chính máu của Noah-chan là điều không thể bàn cãi rồi.",
       "objection_links": []
     },
     {
@@ -165,7 +165,7 @@
       "speaker_tag": "; > Alisa: |#0101Trial01_Alisa002|",
       "ja": "……おめえ、血も見た事ねーのか？<br>とんだ世間知らずだな……。",
       "zh": "……我说，你连血都没见过吗？<br>\n真是无知兼白痴……",
-      "vi": "...Tao nói, mày chưa bao giờ nhìn thấy máu à? Thật là một kẻ ngu dốt và ngốc nghếch...",
+      "vi": "……Con ranh này, mày chưa thấy máu bao giờ à? Đúng là thứ nhà quê ngu ngốc ngây ngô……",
       "objection_links": []
     },
     {
@@ -173,7 +173,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema005|",
       "ja": "（そ、そんなことないと思うけど……！？）",
       "zh": "（不、不至于吧……！？）",
-      "vi": "(Không, không phải vậy...!?)",
+      "vi": "（Đ-Đâu đến mức phải nặng lời vậy chứ……!?）",
       "objection_links": []
     },
     {
@@ -181,7 +181,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema006|",
       "ja": "（どうやら指摘を間違えて<br>　みんなの印象が悪くなったみたい……！<br>　もう一度考え直してみよう……！）",
       "zh": "（好像因为指出的地方不对，<br>\n大家对我的印象都变差了……！<br>\n重新再想一遍吧……！）",
-      "vi": "(Có vẻ như chỗ được chỉ ra là sai, Ấn tượng của mọi người về tôi đã xấu đi rồi...! Hãy suy nghĩ lại nhé...! )",
+      "vi": "（Có vẻ như mình đã chỉ ra sai điểm mâu thuẫn khiến mọi người mất lòng tin rồi……! Phải suy nghĩ lại cho cẩn thận mới được……!）",
       "objection_links": []
     },
     {
@@ -189,7 +189,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema007|",
       "ja": "【筆で描かれた】って言ったけど……本当にそうかな？",
       "zh": "你说是【用笔画的】……真的是这样吗？",
-      "vi": "Bạn nói nó [được vẽ bằng bút]...có thực sự như vậy không?",
+      "vi": "Cậu vừa nói là bức tranh được 【vẽ bằng cây cọ】…… nhưng liệu có thực sự là như thế không?",
       "objection_links": []
     },
     {
@@ -197,7 +197,7 @@
       "speaker_tag": "; > Sherry: |#0101Trial01_Sherry007|",
       "ja": "それは……たしかに、筆じゃなくても良いかもしれませんけど。",
       "zh": "这个……确实，就算不是笔也应该可以做到。",
-      "vi": "Điều này... thực sự, nó vẫn có thể thực hiện được ngay cả khi nó không phải là một cây bút.",
+      "vi": "Chuyện đó…… quả thực nếu không dùng cọ vẽ thì vẫn có thể làm được cách khác.",
       "objection_links": []
     },
     {
@@ -205,7 +205,7 @@
       "speaker_tag": "; > Margo: |#0101Trial01_Margo003|",
       "ja": "たしかにノアちゃんはスプレーアートをメインにした<br>アーティストだったけど……そういう事じゃないのよね？",
       "zh": "我记得诺亚是擅长喷漆画的艺术家……<br>\n不过你要指出的应该不是这一点吧？",
-      "vi": "Chị nhớ Noah là một nghệ sĩ giỏi phun sơn... Nhưng đó không phải là điều em muốn chỉ ra, phải không?",
+      "vi": "Đúng là sở trường của Noah-chan là vẽ tranh bằng bình xịt sơn graffiti…… nhưng điều em muốn chỉ ra không phải là chuyện đó đúng không?",
       "objection_links": []
     },
     {
@@ -213,7 +213,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema008|",
       "ja": "（ノアちゃんが死に際に絵を描く時に使った方法……<br>　それは……！）",
       "zh": "（诺亚在临死前作画的方法……<br>\n那就是……！）",
-      "vi": "(Cách Noah vẽ trước khi chết... Thế thôi...! )",
+      "vi": "（Phương thức mà Noah-chan đã dùng để vẽ nên bức tranh ấy trước lúc lâm chung…… Đó chính là……!）",
       "objection_links": []
     },
     {
@@ -221,7 +221,7 @@
       "speaker_tag": "; > @choice |#0101Trial01_Choice003|",
       "ja": "指",
       "zh": "手指",
-      "vi": "ngón tay",
+      "vi": "Ngón tay",
       "objection_links": []
     },
     {
@@ -229,7 +229,7 @@
       "speaker_tag": "; > @choice |#0101Trial01_Choice004|",
       "ja": "魔法",
       "zh": "魔法",
-      "vi": "ma thuật",
+      "vi": "Ma pháp",
       "objection_links": []
     },
     {
@@ -237,7 +237,7 @@
       "speaker_tag": "; > @choice |#0101Trial01_Choice005|",
       "ja": "息",
       "zh": "吹气",
-      "vi": "thổi không khí",
+      "vi": "Hơi thở",
       "objection_links": []
     },
     {
@@ -245,7 +245,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema009|",
       "ja": "ノアちゃんは指を使って<br>絵を描いたんじゃないかな……。",
       "zh": "诺亚她会不会是<br>\n用手指画画的呢……",
-      "vi": "Noah, có lẽ cô ấy là Tôi đã vẽ nó bằng ngón tay của mình...",
+      "vi": "Có khi nào Noah-chan đã dùng ngón tay của mình để vẽ không nhỉ……",
       "objection_links": []
     },
     {
@@ -253,7 +253,7 @@
       "speaker_tag": "; > Coco: |#0101Trial01_Coco001|",
       "ja": "……なんで？<br>そんな結論になる要素あった？",
       "zh": "……为什么？<br>\n你这个结论从哪来的？",
-      "vi": "...Tại sao? Bạn đã đi đến kết luận này ở đâu?",
+      "vi": "……Ủa sao lại thế? Căn cứ vào đâu mà mày lại phán ra cái kết luận vô lý đùng đùng đó?",
       "objection_links": []
     },
     {
@@ -261,7 +261,7 @@
       "speaker_tag": "; > Alisa: |#0101Trial01_Alisa003|",
       "ja": "他の手段があるのに<br>なんで指で描く必要があるんだ……？",
       "zh": "明明有其他方法，<br>\n有必要一定要用手指画吗……？",
-      "vi": "Rõ ràng là có những cách khác, Có cần thiết phải vẽ bằng ngón tay không...?",
+      "vi": "Rõ ràng thiếu gì cách khác, mắc mớ gì phải lấy ngón tay quệt máu vẽ cơ chứ……?",
       "objection_links": []
     },
     {
@@ -269,7 +269,7 @@
       "speaker_tag": "; > Meruru: |#0101Trial01_Meruru003|",
       "ja": "……ゆ、指先には血はついていませんでしたけど……。",
       "zh": "……可、可是她的手指头上面没有沾上血……",
-      "vi": "...Nhưng, không có máu trên ngón tay của cô ấy...",
+      "vi": "……D-Dạ, nhưng trên đầu ngón tay của em ấy hoàn toàn không hề dính vết máu nào cả……",
       "objection_links": []
     },
     {
@@ -277,7 +277,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema010|",
       "ja": "……うん、それを確認しておきたかったっていうか……。",
       "zh": "……嗯，我也很想确认看看这件事……",
-      "vi": "...Chà, tôi cũng muốn xác nhận điều này...",
+      "vi": "……Ừm, tớ chỉ muốn xác nhận lại xem có đúng là thế không ấy mà……",
       "objection_links": []
     },
     {
@@ -293,7 +293,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema011|",
       "ja": "ご、ごめんなさい……。<br>なんでもないです……。",
       "zh": "对、对不起……<br>\n没什么……",
-      "vi": "Vâng, xin lỗi... Không có gì...",
+      "vi": "T-Tớ xin lỗi…… Coi như tớ chưa nói gì nhé……",
       "objection_links": []
     },
     {
@@ -301,7 +301,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema012|",
       "ja": "（……みんなの視線が痛い……。<br>　変な事を言わないようにしないと……）",
       "zh": "（……大家的眼神好冰冷……<br>\n我得注意不要说奇怪的话……）",
-      "vi": "(…Ánh mắt của mọi người thật lạnh lùng… Mình phải cẩn thận để không nói những điều kì lạ...)",
+      "vi": "（……Ánh mắt của mọi người nhìn mình buốt giá quá…… Phải cẩn trọng không được phát biểu hàm hồ nữa mới được……）",
       "objection_links": []
     },
     {
@@ -309,7 +309,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema013|",
       "ja": "……みんな【ドリッピング】って知ってる？",
       "zh": "……大家有听说过【滴画法】吗？",
-      "vi": "...Bạn đã bao giờ nghe nói về [Phương pháp vẽ nhỏ giọt] chưa?",
+      "vi": "……Mọi người có ai từng nghe qua kỹ thuật 【Vẩy màu / Dripping】 chưa?",
       "objection_links": []
     },
     {
@@ -317,7 +317,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema014|",
       "ja": "絵の具に息を吹きかけて、イラストを制作する手法だよ。",
       "zh": "这是一种往颜料上吹气来制作绘画的技巧。",
-      "vi": "Đây là kỹ thuật thổi không khí vào sơn để tạo ra một bức tranh.",
+      "vi": "Đó là kỹ thuật dùng hơi thở thổi mạnh vào chất màu để tạo hình cho bức tranh đấy.",
       "objection_links": []
     },
     {
@@ -325,7 +325,7 @@
       "speaker_tag": "; > Miria: |#0101Trial01_Miria001|",
       "ja": "……そ、それって今の話に関係ある……？",
       "zh": "……那个技巧和现在的情况有什么关系吗……？",
-      "vi": "...Kỹ thuật đó có liên quan gì đến tình hình hiện tại không...?",
+      "vi": "……Ủa, cái kỹ thuật đó thì có liên quan gì tới vụ án này không chú……?",
       "objection_links": []
     },
     {
@@ -333,7 +333,7 @@
       "speaker_tag": "; > Hanna: |#0101Trial01_Hanna002|",
       "ja": "あの量でやったら酸欠で死んじまいますわー！？",
       "zh": "要画这么大一幅画，岂不是要吹到缺氧憋死！？",
-      "vi": "Vẽ một bức tranh lớn như vậy, chẳng phải là Bổn tiểu thư sẽ bị ngạt thở vì thiếu oxy sao??",
+      "vi": "Bắt thổi hết bằng đấy máu thì chưa kịp vẽ xong đã ngạt thở lăn ra chết queo rồi ấy chứ!?",
       "objection_links": []
     },
     {
@@ -341,7 +341,7 @@
       "speaker_tag": "; > Margo: |#0101Trial01_Margo004|",
       "ja": "まあ実際にノアちゃんは死んでるんだけどね？",
       "zh": "实际上诺亚还真是死掉了哦？",
-      "vi": "Thực tế thì Noah đã chết thật rồi phải không?",
+      "vi": "Nhưng mà trên thực tế thì Noah-chan đã chết thật rồi mà đúng không?",
       "objection_links": []
     },
     {
@@ -349,7 +349,7 @@
       "speaker_tag": "; > Alisa: |#0101Trial01_Alisa004|",
       "ja": "冗談言ってる場合じゃねえだろ。",
       "zh": "这不是开玩笑的时候吧。",
-      "vi": "Đây không phải là lúc để đùa.",
+      "vi": "Giờ này mà còn ở đó đùa giỡn vô duyên.",
       "objection_links": []
     },
     {
@@ -357,7 +357,7 @@
       "speaker_tag": "; > AnAn: |#0101Trial01_AnAn001|",
       "ja": "『要反省』",
       "zh": "『请你反省』",
-      "vi": "\"Xin hãy suy ngẫm\"",
+      "vi": "『Cần tự kiểm điểm nghiêm túc』",
       "objection_links": []
     },
     {
@@ -365,7 +365,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema015|",
       "ja": "……はい。",
       "zh": "……对不起。",
-      "vi": "...Xin lỗi.",
+      "vi": "……Vâng, tớ xin lỗi.",
       "objection_links": []
     },
     {
@@ -373,7 +373,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema016|",
       "ja": "（詳しく説明する前に怒られちゃった……）",
       "zh": "（还没详细说明，就惹大家生气了……）",
-      "vi": "(Tôi đã làm mọi người tức giận trước khi giải thích chi tiết...)",
+      "vi": "（Chưa kịp giải thích cặn kẽ đã bị mọi người mắng rồi……）",
       "objection_links": []
     },
     {
@@ -381,7 +381,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema017|",
       "ja": "（もっとちゃんと考えて発言しないと……！）",
       "zh": "（我得认真思考以后再发言……！）",
-      "vi": "(Mình phải suy nghĩ kỹ trước khi nói...!)",
+      "vi": "（Mình phải suy nghĩ thật thấu đáo rồi mới được phát biểu……!）",
       "objection_links": []
     },
     {
@@ -389,7 +389,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema018|",
       "ja": "……みんなノアちゃんの魔法って知ってる？",
       "zh": "……大家知道诺亚的魔法是什么吗？",
-      "vi": "...Bạn có biết phép thuật của Noah là gì không?",
+      "vi": "……Mọi người có biết ma pháp của Noah-chan là gì không?",
       "objection_links": []
     },
     {
@@ -397,7 +397,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema019|",
       "ja": "ボクは本人から聞いたけど……<br>彼女の魔法は【液体を操作する魔法】……<br>そうやって絵を描くんだ。",
       "zh": "我亲耳听她讲……<br>\n她的魔法是【操作液体的魔法】……<br>\n她就是靠这个来画画的。",
-      "vi": "Tôi đã lắng nghe cô ấy bằng chính đôi tai của mình... Phép thuật của cô ấy là [ma thuật điều khiển chất lỏng]... Đây là cách cô ấy vẽ.",
+      "vi": "Tớ từng đích thân nghe em ấy chia sẻ…… Ma pháp của em ấy chính là 【Ma Pháp Điều Khiển Chất Lỏng】…… Em ấy đã dùng nó để vẽ nên các tác phẩm hội họa.",
       "objection_links": []
     },
     {
@@ -405,7 +405,7 @@
       "speaker_tag": "; > Sherry: |#0101Trial01_Sherry008|",
       "ja": "あっ……！",
       "zh": "啊……！",
-      "vi": "À...!",
+      "vi": "A……!",
       "objection_links": []
     },
     {
@@ -413,7 +413,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema020|",
       "ja": "だからあの絵は、<br>ノアちゃんが魔法で描いた<br>絵だと思うんだ。",
       "zh": "所以我想，蝴蝶绘画<br>\n是用诺亚的魔法<br>\n画出来的。",
-      "vi": "Vì vậy tôi đã nghĩ, Bức tranh con bướm Đó là nhờ phép thuật của Noah Đã vẽ.",
+      "vi": "Vì vậy tớ nghĩ bức tranh bướm máu đó là do chính Noah-chan dùng ma pháp của mình tạo nên.",
       "objection_links": []
     },
     {
@@ -421,7 +421,7 @@
       "speaker_tag": "; > Margo: |#0101Trial01_Margo005|",
       "ja": "……そもそも、ノアちゃんの出血量で<br>筆を使って絵を描くのは<br>物理的に難しいと思うわ。",
       "zh": "……我也觉得，以诺亚的出血量，<br>\n用笔画这么大的画<br>\n并不现实。",
-      "vi": "…Chị cũng nghĩ rằng với lượng máu chảy ra của Noah, Dùng bút để vẽ một bức tranh lớn như vậy Không thực tế.",
+      "vi": "……Quả thực, với lượng máu chảy ra như vậy mà bảo Noah-chan cầm cọ vẽ một bức tranh khổng lồ thì về mặt vật lý là bất khả thi.",
       "objection_links": []
     },
     {
@@ -429,7 +429,7 @@
       "speaker_tag": "; > Leia: |#0101Trial01_Leia001|",
       "ja": "……自分の血であんな大きな絵を描くなんて、<br>普通なら不可能だろうね。",
       "zh": "……一般情况下，用自己的血<br>\n画这么大的画，恐怕是不可能的。",
-      "vi": "...Thông thường, hãy sử dụng máu của chính bạn Có lẽ không thể vẽ được một bức tranh lớn như vậy.",
+      "vi": "……Trong điều kiện bình thường, việc dùng máu của chính mình để vẽ nên bức tranh lớn như thế là hoàn toàn không thể.",
       "objection_links": []
     },
     {
@@ -437,7 +437,7 @@
       "speaker_tag": "; > Leia: |#0101Trial01_Leia002|",
       "ja": "ノアくんが死んだ後に他人によって<br>描かれたと考えるのが自然だ。<br>……しかし。",
       "zh": "这幅画是诺亚死后经其他人之手<br>\n画下的，这样想才更自然。<br>\n……只不过。",
-      "vi": "Bức tranh này đã được chuyển cho người khác sau cái chết của Noah Sẽ tự nhiên hơn khi nghĩ về nó theo cách này....Không còn gì nữa.",
+      "vi": "Nghĩ theo lẽ thường thì bức tranh đó là do kẻ khác vẽ sau khi Noah-kun qua đời. Thế nhưng……",
       "objection_links": []
     },
     {
@@ -445,7 +445,7 @@
       "speaker_tag": "; > Leia: |#0101Trial01_Leia003|",
       "ja": "この牢屋敷においては物理法則に次ぐ第二の法則……<br>【魔法】という選択肢が<br>入ってくるというわけだね。",
       "zh": "在这座监牢里面，还有另一种可能性……<br>\n那就是排在物理法则之后的<br>\n叫做【魔法】的第二法则。",
-      "vi": "Trong Dinh Ngục này, có một khả năng khác... Đó là xuất hiện sau các định luật vật lý Nó được gọi là định luật thứ hai của [Ma thuật].",
+      "vi": "Bên trong Dinh Ngục này, chúng ta phải tính đến quy luật thứ hai tồn tại song song với các định luật vật lý…… Đó chính là khả năng của 【Ma Pháp】.",
       "objection_links": []
     },
     {
@@ -453,7 +453,7 @@
       "speaker_tag": "; > Sherry: |#0101Trial01_Sherry009|",
       "ja": "ノアさんは死に際、魔法を使って<br>一瞬で絵を完成させた……<br>たしかにそう考えると辻褄は合う気がします！",
       "zh": "诺亚在临死前，使用了魔法，<br>\n瞬间就画了这幅画……<br>\n这样想确实说得通！",
-      "vi": "Trước khi chết, Noah đã sử dụng phép thuật, Tôi đã vẽ bức tranh này ngay lập tức... Thật hợp lý khi nghĩ theo cách này!",
+      "vi": "Noah-san đã dùng ma pháp trong giây phút lâm chung để hoàn thành bức tranh chỉ trong chớp mắt…… Nghĩ như vậy thì mọi chuyện hoàn toàn ăn khớp và logic ạ!",
       "objection_links": []
     },
     {
@@ -461,7 +461,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema021|",
       "ja": "（良かった……！<br>　シェリーちゃん、納得してくれたみたい……！）",
       "zh": "（太好了……！<br>\n成功说服雪莉了……！）",
-      "vi": "(Tuyệt vời...! Đã thuyết phục thành công Sherry...! )",
+      "vi": "（May quá……! Có vẻ như mình đã thuyết phục được Sherry-chan rồi……!）",
       "objection_links": []
     },
     {
@@ -469,7 +469,7 @@
       "speaker_tag": "; > Sherry: |#0101Trial01_Sherry010|",
       "ja": "……しかし、そうなるとやはり結論は１つです。",
       "zh": "……可是这样一来，结论就只有一个了。",
-      "vi": "…Nhưng trong trường hợp này, chỉ có một kết luận duy nhất.",
+      "vi": "……Thế nhưng nếu đã như vậy, kết luận cuối cùng vẫn chỉ có một!",
       "objection_links": []
     },
     {
@@ -477,7 +477,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema022|",
       "ja": "（……え？）",
       "zh": "（……欸？）",
-      "vi": "(…Ơ?)",
+      "vi": "（……Ơ?）",
       "objection_links": []
     },
     {
@@ -485,7 +485,7 @@
       "speaker_tag": "; > Sherry: |#0101Trial01_Sherry011|",
       "ja": "あの絵が、ノアさんの<br>ダイイングメッセージだったんですよ！<br>絵を通して私たちにメッセージを伝えたんです！",
       "zh": "那幅画就是<br>\n诺亚的死亡讯息！<br>\n她想通过这幅画，告诉我们一些事实！",
-      "vi": "Bức tranh đó là Thông điệp về cái chết của Noah! Cô ấy muốn cho chúng ta biết một số sự thật thông qua bức tranh này!",
+      "vi": "Bức tranh đó đích thị là lời trăng trối của Noah-san để lại! Em ấy đã dùng bức họa ấy để nhắn gửi thông điệp vạch trần tội ác cho chúng ta biết!",
       "objection_links": []
     },
     {
@@ -493,7 +493,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema023|",
       "ja": "（ええ……！？ そうなっちゃう！？）",
       "zh": "（欸……！？是这样吗！？）",
-      "vi": "(Ể...!? Vậy sao!?)",
+      "vi": "（Hả……!? Sao suy luận lại nhảy vọt sang hướng đó được chứ!?）",
       "objection_links": []
     },
     {
@@ -501,7 +501,7 @@
       "speaker_tag": "; > Coco: |#0101Trial01_Coco003|",
       "ja": "……で？ あの絵がダイイングメッセージだからって、<br>犯人は誰なんだよ。",
       "zh": "……所以呢？如果说那幅画是死亡讯息，<br>\n那凶手究竟是谁？",
-      "vi": "...vậy? Nếu bức tranh đó là thông điệp về cái chết, Kẻ giết người là ai?",
+      "vi": "……Rồi sao nữa? Cứ cho bức tranh đó là thông điệp tuyệt mệnh đi, thế tóm lại hung thủ là ai hả?",
       "objection_links": []
     },
     {
@@ -509,7 +509,7 @@
       "speaker_tag": "; > Sherry: |#0101Trial01_Sherry012|",
       "ja": "それはもちろん……。",
       "zh": "凶手……",
-      "vi": "Kẻ sát nhân...",
+      "vi": "Hung thủ giết người đương nhiên……",
       "objection_links": []
     },
     {
@@ -517,7 +517,7 @@
       "speaker_tag": "; > Sherry: |#0101Trial01_Sherry013|",
       "ja": "犯人は、マーゴさんです！",
       "zh": "那当然就是，玛格你！",
-      "vi": "Tất nhiên đó là bạn, Mag!",
+      "vi": "Hung thủ chính là chị, Margo-san!",
       "objection_links": []
     },
     {
@@ -525,7 +525,7 @@
       "speaker_tag": "; > Margo: |#0101Trial01_Margo006|",
       "ja": "あらあら……私？<br>面白い推理ね♪",
       "zh": "哎呀呀……我？<br>\n真是有趣的推理♪",
-      "vi": "Ối...Chị? Thật là một lý do thú vị♪",
+      "vi": "Ái chà chà…… Chị á? Một màn suy luận thú vị ghê nha♪",
       "objection_links": []
     },
     {
@@ -533,7 +533,7 @@
       "speaker_tag": "; > Margo: |#0101Trial01_Margo007|",
       "ja": "……詳しく聞かせてくれるかしら？",
       "zh": "……能告诉我具体是为什么吗？",
-      "vi": "...Bạn có thể cho Chị biết chính xác lý do tại sao không?",
+      "vi": "……Em có thể giải thích chi tiết hơn cho chị nghe được không nè?",
       "objection_links": []
     },
     {
@@ -541,7 +541,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema024|",
       "ja": "（シェリーちゃん、自信満々だ……！<br>　でも、本当にそうなのかな……？）",
       "zh": "（雪莉她充满了自信……！<br>\n可是，真的是这样吗……？）",
-      "vi": "(Sherry tràn đầy tự tin...! Nhưng thực tế có phải như vậy không...? )",
+      "vi": "（Sherry-chan tự tin tràn trề luôn……! Nhưng liệu sự thật có đúng là như thế không……?）",
       "objection_links": []
     },
     {
@@ -549,7 +549,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema025|",
       "ja": "（たしかあの絵って……）",
       "zh": "（那幅画我好像记得是……）",
-      "vi": "(Tôi dường như nhớ bức tranh đó...)",
+      "vi": "（Mình nhớ bức tranh bướm đó là……）",
       "objection_links": []
     },
     {
@@ -557,7 +557,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema026|",
       "ja": "（……あれ？ なんだっけ？<br>　どこかで見たような……？）",
       "zh": "（……嗯？怎么回事？<br>\n我好像在哪里见过它……？）",
-      "vi": "(...Hả? Chuyện gì đang xảy ra vậy? Hình như tôi đã thấy nó ở đâu rồi...? )",
+      "vi": "（……Ủa? Gì ấy nhỉ? Hình như mình từng bắt gặp hình ảnh đó ở đâu rồi thì phải……?）",
       "objection_links": []
     },
     {
@@ -565,7 +565,7 @@
       "speaker_tag": "; > Meruru: |#0101Trial01_Meruru004|",
       "ja": "……エマさん。<br>何か確認したいことがあるなら、<br>【魔女図鑑】を見てみてください。",
       "zh": "……艾玛小姐。<br>\n如果你有什么想确认的，<br>\n请你打开【魔女图鉴】看一下。",
-      "vi": "...Ema. Nếu bạn có điều gì cần xác nhận, Vui lòng mở [Sách minh họa phù thủy] và xem qua.",
+      "vi": "……Chị Ema ơi. Nếu chị muốn tra cứu lại điều gì, chị hãy mở ứng dụng 【Sổ Tay Phù Thủy】 ra xem thử đi ạ.",
       "objection_links": []
     },
     {
@@ -573,7 +573,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema027|",
       "ja": "【魔女図鑑】……<br>スマホに入ってたアプリだよね。",
       "zh": "【魔女图鉴】……<br>\n是手机里面的那个APP吗？",
-      "vi": "[Sách minh họa của phù thủy]...... Đây có phải là APP trên điện thoại không?",
+      "vi": "【Sổ Tay Phù Thủy】…… Ứng dụng được cài sẵn trong điện thoại thông minh đúng không em?",
       "objection_links": []
     },
     {
@@ -581,7 +581,7 @@
       "speaker_tag": "; > Meruru: |#0101Trial01_Meruru005|",
       "ja": "はい……！<br>事件のデータや、皆さんの情報、<br>このお屋敷の見取り図なんかが見られます……！",
       "zh": "是的……！<br>\n里面可以看到各种信息，比如案件的资料，<br>\n每个人的资料，还有这个大宅的平面图……！",
-      "vi": "Vâng...! Bạn có thể xem nhiều thông tin khác nhau bên trong, chẳng hạn như thông tin trường hợp, Thông tin của mọi người cũng như sơ đồ tầng của căn biệt thự này...!",
+      "vi": "Dạ đúng rồi ạ……! Trong đó có lưu trữ toàn bộ hồ sơ vụ án, thông tin của mọi người cũng như sơ đồ kiến trúc của Dinh Ngục này nữa ạ……!",
       "objection_links": []
     },
     {
@@ -589,7 +589,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema028|",
       "ja": "ありがとう、メルルちゃん……！<br>あとで確認してみるよ！",
       "zh": "谢谢你，梅露露……！<br>\n我等下会看的！",
-      "vi": "Cảm ơn Meruru...! Tôi sẽ xem nó sau!",
+      "vi": "Cảm ơn em nhiều nhé, Meruru-chan……! Chị sẽ mở ra tra cứu ngay đây!",
       "objection_links": []
     },
     {
@@ -597,7 +597,7 @@
       "speaker_tag": "; > Ema: |#0101Trial01_Ema029|",
       "ja": "（シェリーちゃんの言った事……<br>　ボクの調べた情報や資料と合っているか、<br>　見比べてみよう……！）",
       "zh": "（雪莉的发言……<br>\n和我调查到的情报和资料是否一致呢？<br>\n现在来比对一下吧……！）",
-      "vi": "(Bài phát biểu của Sherry… Nó có phù hợp với thông tin và thông tin tôi đã điều tra không? Bây giờ chúng ta hãy so sánh...! )",
+      "vi": "（Lời lập luận của Sherry-chan…… hãy so sánh xem có trùng khớp với những thông tin và chứng cứ mình đã điều tra được hay không nào……!）",
       "objection_links": []
     }
   ]

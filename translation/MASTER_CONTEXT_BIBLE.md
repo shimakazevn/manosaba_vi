@@ -23,13 +23,13 @@ Tài liệu này là **ngữ cảnh chuẩn mực bắt buộc (Ground Truth)** 
 Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại từ nhân xưng đặc thù phản ánh tính cách và mối quan hệ:
 
 ### 1. Sakuraba Ema (桜羽エマ) — [ID: Ema]
-* **Vai trò:** Nhân vật chính (Tù nhân 658, 15 tuổi), mang trong mình 【Ma pháp diệt Ma Nữ】.
-* **Tính cách:** Nhút nhát, mặc cảm tự ti do từng bị bạo lực học đường nặng nề, luôn sợ bị người khác ghét bỏ, nhưng có nội tâm kiên cường khi bảo vệ bạn bè.
+* **Vai trò:** Nhân vật chính (Tù nhân 658, 15 tuổi), mang trong mình 【Ma pháp thanh trừng Ma Nữ】.
+* **Tính cách:** Nhút nhát, khiêm nhường, mặc cảm tự ti do từng bị bạo lực học đường nặng nề, luôn sợ bị người khác ghét bỏ, nhưng có nội tâm kiên cường, suy luận sắc bén và khao khát bảo vệ bạn bè.
 * **Đại từ JP:** `ボク` (Boku) / `君` (Kimi)
 * **Xưng hô Tiếng Việt:**
-  * **Tự xưng:** **mình** / **tớ** (hoặc **tôi** khi căng thẳng/nghiêm túc trong tòa án).
-  * **Gọi người khác:** **cậu** / **bạn** / **[Tên]** (gọi Hiro lúc đầu là *"Hiro-chan"*, sau đó là *"Hiro"*).
-  * **Người khác gọi Ema:** Ema, cậu, em.
+  * **Tự xưng:** **mình** / **tớ** (với bạn cùng trang lứa) / **em** (với các chị lớn hơn như Margo, Leia) / **tôi** (khi căng thẳng/nghiêm túc trong tòa án).
+  * **Gọi người khác:** **cậu** / **bạn** / **chị** / **[Tên]** (gọi Hiro lúc đầu là *"Hiro-chan"*, sau đó là *"Hiro"*).
+  * **Người khác gọi Ema:** Ema, Ema-chan, Ema-san, Ema-cchi (Coco), nhóc Ema.
 
 ### 2. Nikaidou Hiro (二階堂ヒロ) — [ID: Hiro]
 * **Vai trò:** Bạn thuở nhỏ của Ema, người giữ vai trò lý trí và sắc bén nhất nhóm.
@@ -41,92 +41,92 @@ Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại t�
 
 ### 3. Touno Hanna (遠野ハンナ) — [ID: Hanna]
 * **Vai trò:** Tiểu thư tài phiệt kiêu kỳ, mang ma pháp bay lượn / điều khiển gió.
-* **Tính cách:** Hống hách, tự cao tự đại, khinh người, luôn coi mình ở đẳng cấp quý tộc cao hơn người khác, hay quát mắng cai ngục.
-* **Đại từ JP:** `わたくし` (Watakushi) / `あなた` (Anata) / Kết thúc câu bằng `〜ですわ` (desu wa).
+* **Tính cách:** Hống hách, tự cao tự đại, khinh người, luôn coi mình ở đẳng cấp quý tộc cao hơn người khác, tsundere nặng, thường gắt gỏng nhưng dễ bị bắt thóp và xấu hổ.
+* **Đại từ JP:** `わたくし` (Watakushi) / `あなた` (Anata) / Kết thúc câu bằng `〜ですわ` (desu wa), `〜まし` (mashi).
 * **Xưng hô Tiếng Việt:**
-  * **Tự xưng:** **bổn tiểu thư** / **ta**
+  * **Tự xưng:** **ta** / **bổn tiểu thư**
   * **Gọi người khác:** **ngươi** / **các ngươi** / **cô** / **[Tên]**
-  * **Giọng điệu:** Quý phái, trịch thượng, châm chọc.
+  * **Giọng điệu:** Quý phái, trịch thượng, châm chọc nhưng dễ đỏ mặt thẹn thùng.
 
 ### 4. Tachibana Sherry (橘シェリー) — [ID: Sherry]
-* **Vai trò:** Thiếu nữ thông minh, sắc sảo, thích quan sát từ xa, điều tra viên chủ lực.
-* **Tính cách:** Bình tĩnh, suy luận logic, thận trọng, tôn trọng mọi người.
+* **Vai trò:** Thiếu nữ vui tươi, tinh nghịch, sở hữu thể lực và sức mạnh cơ bắp phi thường như quái vật.
+* **Tính cách:** Tăng động, nhí nhảnh, thích trinh thám giải đố, coi phiên tòa như trò chơi suy luận, ăn nói lễ phép nhưng vô cùng bá đạo (`~ですね`, `~ですよ`).
 * **Đại từ JP:** `私` (Watashi) / `あなた` (Anata)
 * **Xưng hô Tiếng Việt:**
-  * **Tự xưng:** **tôi**
-  * **Gọi người khác:** **cậu** / **bạn** / **[Tên]**
+  * **Tự xưng:** **em** / **tôi**
+  * **Gọi người khác:** **chị [Tên]** / **[Tên]-san** / **mọi người**
 
 ### 5. Natsume AnAn (夏目アンアン) — [ID: AnAn]
-* **Vai trò:** Thiếu nữ nghĩa khí, bộc trực.
-* **Tính cách:** Thẳng thắn, ghét sự giả tạo, nói chuyện dứt khoát, nghĩa hiệp.
-* **Đại từ JP:** `私` (Watashi) / `お前` (Omae)
+* **Vai trò:** Thiếu nữ trầm mặc, giao tiếp bằng bảng vẽ/thiết bị ký tự và ma pháp điều khiển tâm trí.
+* **Tính cách:** Ít nói, thẳng thắn, ghét sự giả tạo, độc miệng, nói chuyện dứt khoát, nghĩa hiệp (`『...』` khi dùng bảng/ma thuật).
+* **Đại từ JP:** `わがはい` (Wagahai) / `お前` (Omae)
 * **Xưng hô Tiếng Việt:**
-  * **Tự xưng:** **tôi**
-  * **Gọi người khác:** **cậu** / **đằng ấy** / **[Tên]**
+  * **Tự xưng:** **ta** / **bản tọa** / **tôi**
+  * **Gọi người khác:** **ngươi** / **các ngươi** / **[Tên]**
 
 ### 6. Hasumi Leia (蓮見レイア) — [ID: Leia]
-* **Vai trò:** Thiếu nữ trầm mặc, thủ phạm vụ án Act 1 Chapter 1 giết hại Noah.
-* **Tính cách:** U uất, ít nói, che giấu nội tâm phức tạp.
-* **Đại từ JP:** `私` (Watashi)
+* **Vai trò:** Trưởng nhóm bề ngoài ôn hòa, mang ma pháp điều hướng/khóa chặt tầm nhìn (Misdirection), thủ phạm vụ án Act 1 Chapter 1 sát hại Noah.
+* **Tính cách:** Điềm đạm, tao nhã, đóng vai người chị cả bảo bọc các em nhưng bên trong che giấu khao khát được chú ý và tâm lý vặn vẹo.
+* **Đại từ JP:** `私` (Watashi) / `君` (Kimi)
 * **Xưng hô Tiếng Việt:**
   * **Tự xưng:** **tôi**
-  * **Gọi người khác:** **cậu** / **[Tên]**
+  * **Gọi người khác:** **các em** / **các cậu** / **em** / **[Tên]**
 
 ### 7. Jougasaki Noah (城ケ崎ノア) — [ID: Noah]
-* **Vai trò:** Họa sĩ thiên tài, ma pháp hội họa hiện thực hóa, nạn nhân vụ án 1.
-* **Tính cách:** Ngây thơ, trong sáng, hồn nhiên như trẻ con, đắm chìm trong hội họa.
+* **Vai trò:** Họa sĩ thiên tài (nghệ danh Balloon), ma pháp hội họa hiện thực hóa, nạn nhân vụ án 1.
+* **Tính cách:** Ngây thơ, trong sáng, hồn nhiên như trẻ con, đắm chìm trong hội họa, giao tiếp đơn giản và chân thành.
 * **Đại từ JP:** `ノア` (Tự gọi tên mình) / `きみ` (Kimi)
 * **Xưng hô Tiếng Việt:**
   * **Tự xưng:** **Noah** / **em**
   * **Gọi người khác:** **chị** / **cậu** / **[Tên]**
 
 ### 8. Hikami Meruru (氷上メルル) — [ID: Meruru]
-* **Vai trò:** Người mang ma pháp băng giá, sống lâu năm trên đảo, biết nhiều bí mật.
-* **Tính cách:** Lạnh lùng, xa cách, giọng điệu vô cảm nhưng ẩn chứa nỗi đau.
-* **Đại từ JP:** `私` (Watashi)
+* **Vai trò:** Nữ sinh ngoan ngoãn, trợ tá đắc lực của Ema trong các phiên tòa, ma pháp đóng băng.
+* **Tính cách:** Nhút nhát, hiền lành, lễ phép, nói năng nhỏ nhẹ, luôn lo nghĩ cho người khác và kiên định đi tìm công lý.
+* **Đại từ JP:** `私` (Watashi) / `〜さん` (Tên + san)
 * **Xưng hô Tiếng Việt:**
-  * **Tự xưng:** **tôi**
-  * **Gọi người khác:** **cậu** / **cô** / **[Tên]**
+  * **Tự xưng:** **em** / **tôi**
+  * **Gọi người khác:** **chị [Tên]** / **[Tên]-san** / **mọi người**
 
 ### 9. Kurobe Nanoka (黒部ナノカ) — [ID: Nanoka]
-* **Vai trò:** Thiếu nữ năng động, ma pháp phân rã cấu trúc vật thể.
-* **Tính cách:** Nhiệt huyết, nhanh nhẹn, tinh thần đồng đội cao.
-* **Đại từ JP:** `ボク` (Boku) / `あんた` (Anta)
+* **Vai trò:** Nữ sinh cô độc, mang phong thái thám tử sắc bén, ma pháp thấu thị/phân tích.
+* **Tính cách:** Trầm tĩnh, lạnh lùng, đa nghi, lý trí tuyệt đối, nói chuyện dứt khoát ("Tôi hoài nghi là để tìm kiếm niềm tin").
+* **Đại từ JP:** `私` (Watashi) / `あなた` (Anata) / `あんた` (Anta)
 * **Xưng hô Tiếng Việt:**
-  * **Tự xưng:** **tớ** / **mình**
-  * **Gọi người khác:** **cậu** / **đằng ấy**
+  * **Tự xưng:** **tôi**
+  * **Gọi người khác:** **cô** / **cậu** / **các người** / **[Tên]**
 
 ### 10. Shidou Alisa (紫藤アリサ) — [ID: Alisa]
-* **Vai trò:** Thiếu nữ hung hãn mang ma pháp bộc hỏa.
-* **Tính cách:** Bạo lực, nóng nảy, giang hồ, thường xuyên văng tục và đe dọa người khác.
-* **Đại từ JP:** `アタシ` (Atashi) / `テメェ` (Temee) / `テメーら` (Temeera)
+* **Vai trò:** Nữ sinh bất hảo, cựu yankee/delinquent, có tình cảm đặc biệt và ngưỡng mộ tranh của Noah.
+* **Tính cách:** Bạo lực, nóng nảy, giang hồ, hay văng tục (`テメェ`, `クソ`), nhưng bản chất tsundere trọng tình cảm và biết phân biệt đúng sai.
+* **Đại từ JP:** `アタシ` (Atashi) / `ウチ` (Uchi) / `テメェ` (Temee) / `テメーら` (Temeera)
 * **Xưng hô Tiếng Việt:**
   * **Tự xưng:** **tao** / **bà đây**
-  * **Gọi người khác:** **mày** / **chúng mày** / **con kia**
+  * **Gọi người khác:** **mày** / **chúng mày** / **con kia** / **[Tên]**
 
 ### 11. Saeki Miria (佐伯ミリア) — [ID: Miria]
-* **Vai trò:** Thiếu nữ hoạt bát, ngây thơ, hay gắn hậu tố `-chan`.
-* **Tính cách:** Đáng yêu, nhí nhảnh, lạc quan tếu.
-* **Đại từ JP:** `ミリア` / `あたし`
+* **Vai trò:** Nữ sinh Gyaru, hay xưng hô tếu táo là "ông chú già" (`おじさん`).
+* **Tính cách:** Thật thà, nhát gan, vụng về, dễ bị cuốn theo người khác, hay xấu hổ và cuống cuồng khi bị chỉ trích.
+* **Đại từ JP:** `ミリア` / `あたし` / `おじさん` (Ojisan)
 * **Xưng hô Tiếng Việt:**
-  * **Tự xưng:** **Miria** / **em** / **tớ**
-  * **Gọi người khác:** **bạn [Tên]** / **chị [Tên]** (gọi Hanna là *"bé Hanna / Hanna-chan"*, Sherry là *"chị Sherry / Sherry-chan"*).
+  * **Tự xưng:** **chú** / **Miria** / **tui**
+  * **Gọi người khác:** **mấy đứa** / **[Tên]**
 
 ### 12. Houshou Margo (宝生マーゴ) — [ID: Margo]
-* **Vai trò:** Người chị lớn tuổi trong nhóm, ma pháp điện lực.
-* **Tính cách:** Trưởng thành, thông thái, quyến rũ, luôn ân cần chỉ dẫn các đàn em.
+* **Vai trò:** Người chị cả quyến rũ, ma pháp điều khiển dòng điện, thích trêu chọc Ema.
+* **Tính cách:** Trưởng thành, thông thái, điềm tĩnh, quyến rũ, hay cười khẽ (`Ufufu...`), luôn nhìn thấu tâm can người khác.
 * **Đại từ JP:** `私` (Watashi) / `あなた` (Anata)
 * **Xưng hô Tiếng Việt:**
   * **Tự xưng:** **chị** / **tôi**
-  * **Gọi người khác:** **em** / **cô bé** / **các em** / **[Tên]**
+  * **Gọi người khác:** **em** / **bé [Tên]** / **cô bé** / **các em**
 
 ### 13. Sawatari Coco (沢渡ココ) — [ID: Coco]
-* **Vai trò:** Thiếu nữ yếu ớt, nhút nhát.
-* **Tính cách:** Dễ xúc động, luôn sợ sệt, hay khóc.
-* **Đại từ JP:** `ココ` / `私`
+* **Vai trò:** Nữ streamer cuồng thần tượng (Oshi), thích livestream ảo tưởng câu tương tác.
+* **Tính cách:** Đanh đá, xấc xược, ích kỷ, sử dụng tiếng lóng giới trẻ/streamer (`あてぃし`, `〜し`, `草`), hay dè bỉu người khác là cắc ké/nền phụ.
+* **Đại từ JP:** `あてぃし` (Atishi) / `あんた` (Anta) / `〜し`
 * **Xưng hô Tiếng Việt:**
-  * **Tự xưng:** **Coco** / **em**
-  * **Gọi người khác:** **chị** / **các bạn**
+  * **Tự xưng:** **tao** / **người ta** / **Coco**
+  * **Gọi người khác:** **mày** / **chúng mày** / **con cắc ké** / **con [Tên]** / **Ema-cchi**
 
 ### 14. Tsukishiro Yuki (月代ユキ) — [ID: Yuki]
 * **Vai trò:** Đại Phù Thủy / Kẻ giật dây mọi bi kịch.
@@ -141,10 +141,10 @@ Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại t�
 * **Tính cách:** Quái gở, tưng tửng, thích dùng kính ngữ giả tạo, cười cợt trên nỗi đau của phạm nhân (`～ですね`, `～ですよ`, `~ふふ`).
 * **Đại từ JP:** `私` (Watashi) / `皆様` (Minasama)
 * **Xưng hô Tiếng Việt:**
-  * **Tự xưng:** **tôi** / **bản quan**
+  * **Tự xưng:** **bản quan** / **tôi**
   * **Gọi người khác:** **quý vị** / **các cô bé** / **các vị phạm nhân**
 
-### 16. Jailer (看守 / Cai Ngục) — [ID: Jailer]
+### 16. Cai Ngục (看守 - Jailer)
 * **Vai trò:** Tàn tích quái vật bị tẩy não, áp giải phạm nhân, chỉ phát ra tiếng gầm gừ.
 
 ---
@@ -163,13 +163,21 @@ Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại t�
 | **魔女裁判** | 魔女审判 | **Phiên Tòa Ma Nữ** | Tên phiên tòa phân xử vụ án. |
 | **議論** | 讨论 / 辩论 | **Tranh luận** | Pha tranh luận tìm mâu thuẫn. |
 | **処刑** | 处刑 | **Xử hình** | Nghi lễ tra tấn ép hóa ma nữ. |
-| **魔女の書** | 魔女之书 | **Sổ Tay Phù Thủy (Witch Book)** | Menu sổ tay manh mối/hồ sơ. |
+| **魔女の書 / 魔女図鑑** | 魔女之书 / 魔女图鉴 | **Sổ Tay Phù Thủy (Witch Book)** | Menu sổ tay manh mối/hồ sơ nhân vật. |
 | **トレデキム** | 特雷德西姆 / 药 | **Tredecim** | Thuốc diệt ma nữ duy nhất. |
 | **反論** | 反论 / 异议 | **Phản biện / Phản đối** | Cơ chế bắn đạn bài xích luận điểm. |
 | **同意** | 同意 | **Đồng tình** | Cơ chế tán thành luận điểm. |
 | **偽証** | 伪证 | **Khai man** | Cơ chế nói dối để dẫn dắt vụ án. |
 | **疑問** | 疑问 | **Nghi vấn** | Đặt câu hỏi nghi vấn. |
-| **証拠品提示** | 提交证据 | **Xuất trình bằng chứng** | Thao tác nộp vật chứng. |
+| **証拠品提示** | 提交证据 | **Xuất trình vật chứng** | Thao tác nộp vật chứng. |
+| **ダイイングメッセージ** | 死亡讯息 / 死者苏生 | **Lời trăng trối** | Thông điệp nạn nhân để lại trước khi chết. |
+| **ボウガン** | 弩枪 | **Nỏ Săn** | Vũ khí sát hại Noah trong Act 1. |
+| **電気椅子** | 电椅 | **Ghế Điện** | Dụng cụ xử hình tại Tòa Án. |
+| **鉄処女 (Iron Maiden)** | 铁处女 | **Thiết Xử Nữ** | Dụng cụ xử hình tra tấn cổ xưa. |
+| **バルーン (Balloon)** | 气球 | **Balloon** | Nghệ danh họa sĩ đường phố bí ẩn của Noah. |
+| **視線誘導 (Misdirection)** | 视线诱导 / 误导 | **Điều hướng tầm nhìn / Misdirection** | Ma pháp thực sự của Hasumi Leia. |
+| **推し活 (Oshi-katsu)** | 推活 | **Đu idol / Theo dõi idol (Oshi)** | Sở thích cuồng thần tượng của Coco. |
+| **配信 / 同接** | 直播 / 在线人数 | **Livestream / Người xem đồng thời** | Hoạt động phát sóng trực tiếp trên điện thoại của Coco. |
 
 ---
 
@@ -182,16 +190,16 @@ Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại t�
 | **裁判所前通路** | 审判庭前过道 | **Hành Lang Trước Tòa** |
 | **中庭** | 中庭 | **Sân Trong** |
 | **玄関ホール** | 玄关大厅 | **Tiền Sảnh** |
-| **ゲストハウス前** | 招待所前 | **Trước Nhà Khách** |
+| **ゲストハウス前 / ゲストハウス** | 招待所前 / 招待所 | **Trước Nhà Khách / Nhà Khách** |
 | **花畑方面** | 往花田方向 | **Hướng Vườn Hoa** |
-| **湖方面** | 往湖方向 | **Hướng Hồ Nước** |
+| **湖方面** | 往湖方向 | **Hướng Bờ Hồ** |
 | **牢屋敷前** | 监牢入口 | **Trước Dinh Ngục / Cổng Dinh Ngục** |
 | **焼却炉** | 焚烧炉 | **Lò Thiêu** |
-| **医務室** | 医务室 | **Phòng Y Tế** |
+| **医務室** | 医务室 | **Phòng Y Tế / Bệnh Xá** |
 | **厨房** | 厨房 | **Nhà Bếp** |
 | **食堂** | 食堂 | **Nhà Ăn** |
 | **図書室** | 图书室 | **Thư Viện** |
-| **ラウンジ** | 会客厅 | **Phòng Chờ** |
+| **ラウンジ** | 会客厅 | **Phòng Nghỉ / Phòng Chờ** |
 | **応接間** | 接客室 | **Phòng Tiếp Khách** |
 | **娯楽室** | 娱乐室 | **Phòng Giải Trí** |
 | **シャワールーム** | 淋浴房 | **Phòng Tắm** |
@@ -200,7 +208,8 @@ Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại t�
 | **地精の間** | 地精之室 | **Phòng Địa Tinh (Gnome)** |
 | **火精の間** | 火精之室 | **Phòng Hỏa Tinh (Salamander)** |
 | **水精の間** | 水精之室 | **Phòng Thủy Tinh (Undine)** |
-| **懲罰房** | 惩罚室 | **Phòng Kỷ Luật** |
+| **風精の間** | 风精之室 | **Phòng Phong Tinh (Sylph)** |
+| **懲罰房** | 惩罚室 | **Phòng Kỷ Luật / Phòng Trừng Phạt** |
 | **物置 / 倉庫** | 杂物处 / 仓库 | **Kho Chứa Đồ / Nhà Kho** |
 | **塀** | 围墙 | **Tường Rào Ma Pháp** |
 
