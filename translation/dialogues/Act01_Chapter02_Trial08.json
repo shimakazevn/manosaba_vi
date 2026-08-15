@@ -17,7 +17,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial08_AnAn002|",
       "ja": "<link=\"Objection_01_02_08_01\">証拠の偽証</link>、<br><link=\"Objection_01_02_08_02\">明確な動機</link>、<br><link=\"Objection_01_02_08_03\">アリバイ</link>……<br>どれをとっても<br>犯人はナノカであろう？<br>わかりやすいことこの上ないな。",
       "zh": "<link=\"Objection_01_02_08_01\">作伪证</link>、<br>\n<link=\"Objection_01_02_08_02\">有明确动机</link>、<br>\n<link=\"Objection_01_02_08_03\">无不在场证明</link>……<br>\n无论从哪点看来<br>\n凶手都应该是奈叶香吧？<br>\n没有比这更显而易见的事了。",
-      "vi": "<link=\"Objection_01_02_08_01\"> khai man </link>, <link=\"Objection_01_02_08_02\">có động cơ rõ ràng</link>, <link=\"Objection_01_02_08_03\">Không có bằng chứng ngoại phạm</link> Bất kể từ quan điểm nào Kẻ sát nhân chắc hẳn là Nanoyaka phải không? Không có gì rõ ràng hơn điều này.",
+      "vi": "<link=\"Objection_01_02_08_01\"> khai man </link>, <link=\"Objection_01_02_08_02\">có động cơ rõ ràng</link>, <link=\"Objection_01_02_08_03\">Không có bằng chứng ngoại phạm</link> Bất kể từ quan điểm nào Kẻ sát nhân chắc hẳn là Nanoka phải không? Không có gì rõ ràng hơn điều này.",
       "objection_links": [
         "Objection_01_02_08_01",
         "Objection_01_02_08_02",
@@ -204,7 +204,7 @@
       "speaker_tag": "; > @choice |#0102Trial08_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ナノカは偽証してない",
       "zh": "奈叶香没有作伪证",
-      "vi": "Nanoyaka không khai man",
+      "vi": "Nanoka không khai man",
       "objection_links": []
     },
     {
@@ -220,7 +220,7 @@
       "speaker_tag": "; > @choice |#0102Trial08_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ナノカに動機はなかった",
       "zh": "奈叶香没有动机",
-      "vi": "Nanoyaka không có động cơ",
+      "vi": "Nanoka không có động cơ",
       "objection_links": []
     },
     {
@@ -228,7 +228,7 @@
       "speaker_tag": "; > @choice |#0102Trial08_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ナノカにはアリバイがある",
       "zh": "奈叶香有不在场证明",
-      "vi": "Nanoyaka có bằng chứng ngoại phạm",
+      "vi": "Nanoka có bằng chứng ngoại phạm",
       "objection_links": []
     },
     {
@@ -236,7 +236,7 @@
       "speaker_tag": "; > @choice |#0102Trial08_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ナノカが犯人とわかる証拠があった",
       "zh": "有证据证明奈叶香是凶手",
-      "vi": "Có bằng chứng cho thấy Nanoyaka là kẻ sát nhân",
+      "vi": "Có bằng chứng cho thấy Nanoka là kẻ sát nhân",
       "objection_links": []
     },
     {
@@ -244,7 +244,7 @@
       "speaker_tag": "; > @choice |#0102Trial08_Choice005| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "部屋に入った証拠があった",
       "zh": "有证据证明奈叶香进了房间",
-      "vi": "Có bằng chứng cho thấy Nanoyaka vào phòng",
+      "vi": "Có bằng chứng cho thấy Nanoka vào phòng",
       "objection_links": []
     },
     {
@@ -276,7 +276,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema005|",
       "ja": "ナノカちゃんは偽証なんかしてないよ！",
       "zh": "奈叶香才没有作伪证！",
-      "vi": "Nanoyaka không hề khai man!",
+      "vi": "Nanoka không hề khai man!",
       "objection_links": []
     },
     {
@@ -308,7 +308,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema006|",
       "ja": "な、ナノカちゃん……です。",
       "zh": "是、是奈叶香……",
-      "vi": "Vâng, đó là Nanoyaka...",
+      "vi": "Vâng, đó là Nanoka...",
       "objection_links": []
     },
     {
@@ -340,7 +340,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema009|",
       "ja": "（でも一方的にナノカちゃんを疑うのは違和感がある……）",
       "zh": "（可是单纯怀疑奈叶香的话，总感觉有哪里不对劲……）",
-      "vi": "(Nhưng nếu tôi chỉ nghi ngờ Nanoyaka, tôi luôn cảm thấy có gì đó không ổn...)",
+      "vi": "(Nhưng nếu tôi chỉ nghi ngờ Nanoka, tôi luôn cảm thấy có gì đó không ổn...)",
       "objection_links": []
     },
     {
@@ -356,7 +356,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema011|",
       "ja": "ナノカちゃんに、ミリアちゃんを殺す動機なんてないよ！",
       "zh": "奈叶香没有杀害米莉亚的动机啊！",
-      "vi": "Nanoyaka không có động cơ giết Miria!",
+      "vi": "Nanoka không có động cơ giết Miria!",
       "objection_links": []
     },
     {
@@ -404,7 +404,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial08_AnAn018|",
       "ja": "ナノカはミリアを討った……！<br>わがはいはその罪を許しはしない。",
       "zh": "奈叶香攻击了米莉亚……！<br>\n吾辈绝不原谅她的罪行。",
-      "vi": "Nanoyaka đã tấn công Miria...! Chúng tôi sẽ không bao giờ tha thứ cho tội ác của cô ấy.",
+      "vi": "Nanoka đã tấn công Miria...! Chúng tôi sẽ không bao giờ tha thứ cho tội ác của cô ấy.",
       "objection_links": []
     },
     {
@@ -436,7 +436,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema014|",
       "ja": "（でも一方的にナノカちゃんを疑うのは違和感がある……）",
       "zh": "（可是单纯怀疑奈叶香的话，总感觉有哪里不对劲……）",
-      "vi": "(Nhưng nếu tôi chỉ nghi ngờ Nanoyaka, tôi luôn cảm thấy có gì đó không ổn...)",
+      "vi": "(Nhưng nếu tôi chỉ nghi ngờ Nanoka, tôi luôn cảm thấy có gì đó không ổn...)",
       "objection_links": []
     },
     {
@@ -452,7 +452,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema016|",
       "ja": "ちょっと待って、ナノカちゃんにはアリバイがあるよ！",
       "zh": "等一下，奈叶香有不在场证明！",
-      "vi": "Đợi chút, Nanoyaka có bằng chứng ngoại phạm!",
+      "vi": "Đợi chút, Nanoka có bằng chứng ngoại phạm!",
       "objection_links": []
     },
     {
@@ -596,7 +596,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema024|",
       "ja": "（ナノカちゃんは疑わしいけど……<br>　殺した証拠や、トリックを仕掛けた証拠なんて<br>　あったっけ……？）",
       "zh": "（虽然奈叶香有嫌疑……<br>\n但是有证据证明她<br>\n杀了人或是布置了机关吗……？）",
-      "vi": "(Mặc dù Nanoyaka nghi ngờ... Nhưng có bằng chứng cho thấy cô ấy Bạn đã giết ai đó hay đặt bẫy...? )",
+      "vi": "(Mặc dù Nanoka nghi ngờ... Nhưng có bằng chứng cho thấy cô ấy Bạn đã giết ai đó hay đặt bẫy...? )",
       "objection_links": []
     },
     {
@@ -612,7 +612,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema026|",
       "ja": "だけどナノカちゃんには<br>部屋に入った証拠があるはずだよ……！",
       "zh": "但是应该有证据证明<br>\n奈叶香进入了房间……！",
-      "vi": "Nhưng phải có bằng chứng cho thấy Nanoyaka vào phòng...!",
+      "vi": "Nhưng phải có bằng chứng cho thấy Nanoka vào phòng...!",
       "objection_links": []
     },
     {
@@ -676,7 +676,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema029|",
       "ja": "（たしかにナノカちゃんが部屋に入ったのは<br>　ナノカちゃんが自分から言った証言であって、<br>　証拠はないのかも……）",
       "zh": "（的确，奈叶香进了房间这点<br>\n只有她自己的证词做支撑，<br>\n并没有确切的物证……）",
-      "vi": "(Quả nhiên Nanoyaka đã vào phòng Chỉ được hỗ trợ bởi lời khai của chính cô ấy, Không có bằng chứng vật lý rõ ràng...)",
+      "vi": "(Quả nhiên Nanoka đã vào phòng Chỉ được hỗ trợ bởi lời khai của chính cô ấy, Không có bằng chứng vật lý rõ ràng...)",
       "objection_links": []
     },
     {
@@ -684,7 +684,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema030|",
       "ja": "（でも一方的にナノカちゃんを疑うのは違和感がある……）",
       "zh": "（可是单纯怀疑奈叶香的话，总感觉有哪里不对劲……）",
-      "vi": "(Nhưng nếu tôi chỉ nghi ngờ Nanoyaka, tôi luôn cảm thấy có gì đó không ổn...)",
+      "vi": "(Nhưng nếu tôi chỉ nghi ngờ Nanoka, tôi luôn cảm thấy có gì đó không ổn...)",
       "objection_links": []
     },
     {
@@ -740,7 +740,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema034|",
       "ja": "（でも一方的にナノカちゃんを疑うのは違和感がある……）",
       "zh": "（可是单纯怀疑奈叶香的话，总感觉有哪里不对劲……）",
-      "vi": "(Nhưng nếu tôi chỉ nghi ngờ Nanoyaka, tôi luôn cảm thấy có gì đó không ổn...)",
+      "vi": "(Nhưng nếu tôi chỉ nghi ngờ Nanoka, tôi luôn cảm thấy có gì đó không ổn...)",
       "objection_links": []
     },
     {
@@ -804,7 +804,7 @@
       "speaker_tag": "; > Ema: |#0102Trial08_Ema038|",
       "ja": "（でも一方的にナノカちゃんを疑うのは違和感がある……）",
       "zh": "（可是单纯怀疑奈叶香的话，总感觉有哪里不对劲……）",
-      "vi": "(Nhưng nếu tôi chỉ nghi ngờ Nanoyaka, tôi luôn cảm thấy có gì đó không ổn...)",
+      "vi": "(Nhưng nếu tôi chỉ nghi ngờ Nanoka, tôi luôn cảm thấy có gì đó không ổn...)",
       "objection_links": []
     },
     {

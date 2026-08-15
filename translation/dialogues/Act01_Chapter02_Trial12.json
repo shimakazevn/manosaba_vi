@@ -68,7 +68,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0102Trial12_AnAn006|",
       "ja": "<link=\"Objection_01_02_12_03\">ナノカが盗んだ</link>り、<br><link=\"Objection_01_02_12_04\">看守が置き忘れた</link>り……<br>可能性はゼロとは言えまい！",
       "zh": "可能是<link=\"Objection_01_02_12_03\">奈叶香你偷</link>的，<br>\n也可能是<br>\n<link=\"Objection_01_02_12_04\">看守丢在里面忘拿了</link>……<br>\n不能说可能性为零！",
-      "vi": "Có lẽ <link=\"Objection_01_02_12_03\"> Nanoyaka, bạn đã đánh cắp </link>, Nó cũng có thể là <link=\"Objection_01_02_12_04\">Cai Ngục để quên bên trong và quên lấy </link>..........TAG_6 Không thể nói khả năng là bằng không!",
+      "vi": "Có lẽ <link=\"Objection_01_02_12_03\"> Nanoka, bạn đã đánh cắp </link>, Nó cũng có thể là <link=\"Objection_01_02_12_04\">Cai Ngục để quên bên trong và quên lấy </link>..........TAG_6 Không thể nói khả năng là bằng không!",
       "objection_links": [
         "Objection_01_02_12_03",
         "Objection_01_02_12_04"
@@ -185,7 +185,7 @@
       "speaker_tag": "; > @choice |#0102Trial12_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ナノカが盗めない証拠がある",
       "zh": "有证据证明奈叶香偷不了",
-      "vi": "Có bằng chứng cho thấy Nanoyaka không thể ăn trộm được",
+      "vi": "Có bằng chứng cho thấy Nanoka không thể ăn trộm được",
       "objection_links": []
     },
     {
@@ -305,7 +305,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial12_AnAn011|",
       "ja": "ならばその証拠を示すことだな！<br>ナノカが嘘をついているという証拠だ！",
       "zh": "那你就出示证据啊！<br>\n奈叶香说谎的证据！",
-      "vi": "Thế thì cho tôi xem bằng chứng đi! Bằng chứng cho thấy Nanoyaka đã nói dối!",
+      "vi": "Thế thì cho tôi xem bằng chứng đi! Bằng chứng cho thấy Nanoka đã nói dối!",
       "objection_links": []
     },
     {
@@ -369,7 +369,7 @@
       "speaker_tag": "; > Ema: |#0102Trial12_Ema014|",
       "ja": "違うよ、アンアンちゃん……。<br>ナノカちゃんには鍵を盗めない【証拠】がある……！",
       "zh": "不是的，安安……<br>\n我有奈叶香偷不了钥匙的【证据】……！",
-      "vi": "Không, AnAn... Tôi có [bằng chứng] rằng Nanoyaka không thể lấy trộm chìa khóa...!",
+      "vi": "Không, AnAn... Tôi có [bằng chứng] rằng Nanoka không thể lấy trộm chìa khóa...!",
       "objection_links": []
     },
     {
@@ -745,7 +745,7 @@
       "speaker_tag": "; > AnAn: |#0102Trial12_AnAn022|",
       "ja": "死人に口なしだ！<br>桜羽エマは錯乱しているようだな！",
       "zh": "死人张不了嘴！<br>\n看来樱羽艾玛已经精神错乱了！",
-      "vi": "Người chết không thể mở miệng! Có vẻ như Sakuraha Ema đã phát điên rồi!",
+      "vi": "Người chết không thể mở miệng! Có vẻ như Sakuraba Ema đã phát điên rồi!",
       "objection_links": []
     },
     {

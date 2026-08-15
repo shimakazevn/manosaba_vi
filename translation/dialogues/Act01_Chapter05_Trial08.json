@@ -9,7 +9,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0105Trial08_Meruru001|",
       "ja": "エマさん<br>信じてください……！<br>私にはナノカさんを<br><link=\"Objection_01_05_08_01\">殺す理由</link>は<br>ありません……！",
       "zh": "艾玛小姐，<br>\n请相信我……！<br>\n我绝对没有<br>\n<link=\"Objection_01_05_08_01\">杀害奈叶香小姐的理由</link>……！<br>",
-      "vi": "Ema, Xin hãy tin tôi...! Tôi chắc chắn không có <link=\"Objection_01_05_08_01\">Lý do giết cô Nanoyaka</link>...!",
+      "vi": "Ema, Xin hãy tin tôi...! Tôi chắc chắn không có <link=\"Objection_01_05_08_01\">Lý do giết cô Nanoka</link>...!",
       "objection_links": [
         "Objection_01_05_08_01"
       ]
@@ -47,7 +47,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial08_Ema001|",
       "ja": "……でもナノカちゃんを<br>殺した犯人は、<br>朝の時点で<br>地下にいたはずなんだ。",
       "zh": "……但是<br>\n杀害奈叶香的凶手，<br>\n今天早上应该<br>\n身处地下才对。",
-      "vi": "…Nhưng Kẻ sát hại Nanoyaka, Chắc là sáng nay Tốt hơn là nên ở dưới lòng đất.",
+      "vi": "…Nhưng Kẻ sát hại Nanoka, Chắc là sáng nay Tốt hơn là nên ở dưới lòng đất.",
       "objection_links": []
     },
     {
@@ -113,7 +113,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0105Trial08_Margo004|",
       "ja": "……少なくとも、<br>犯人はそう思って<br>ナノカちゃんを<br>殺したんじゃないかしら？<br>真実を口外されないよう、<br>口封じしたのよ。",
       "zh": "……至少，<br>\n凶手是这么想的，<br>\n所以才会<br>\n杀了奈叶香吧？<br>\n为了防止真相泄露，<br>\n杀人灭口。",
-      "vi": "…ít nhất, Đây là những gì kẻ sát nhân nghĩ, Đó là lý do tại sao Giết Nanoyaka? Để ngăn chặn sự thật bị rò rỉ, Giết và im lặng.",
+      "vi": "…ít nhất, Đây là những gì kẻ sát nhân nghĩ, Đó là lý do tại sao Giết Nanoka? Để ngăn chặn sự thật bị rò rỉ, Giết và im lặng.",
       "objection_links": []
     },
     {
@@ -222,7 +222,7 @@
       "speaker_tag": "; > @choice |#0105Trial08_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ナノカが黒幕を追っていた",
       "zh": "奈叶香在追查幕后黑手",
-      "vi": "Nanoyaka đang truy lùng kẻ chủ mưu đằng sau hậu trường",
+      "vi": "Nanoka đang truy lùng kẻ chủ mưu đằng sau hậu trường",
       "objection_links": []
     },
     {
@@ -230,7 +230,7 @@
       "speaker_tag": "; > @choice |#0105Trial08_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ナノカなら黒幕がわかる",
       "zh": "奈叶香能知道幕后黑手的身份",
-      "vi": "Liệu Nanoyaka có thể biết được danh tính kẻ chủ mưu đằng sau hậu trường?",
+      "vi": "Liệu Nanoka có thể biết được danh tính kẻ chủ mưu đằng sau hậu trường?",
       "objection_links": []
     },
     {
@@ -262,7 +262,7 @@
       "speaker_tag": "; > Ema: |#0105Trial08_Ema008|",
       "ja": "ナノカちゃんはひとりで黒幕を探し出そうとしてた。<br>黒幕にとって、邪魔な存在じゃないか！",
       "zh": "奈叶香想要独自找出幕后黑手。<br>\n对幕后黑手来说，她不就是个碍事的家伙吗！",
-      "vi": "Nanoyaka muốn một mình tìm ra kẻ chủ mưu. Đối với kẻ chủ mưu đằng sau hậu trường, chẳng phải cô ấy chỉ là một mối phiền toái sao?",
+      "vi": "Nanoka muốn một mình tìm ra kẻ chủ mưu. Đối với kẻ chủ mưu đằng sau hậu trường, chẳng phải cô ấy chỉ là một mối phiền toái sao?",
       "objection_links": []
     },
     {
@@ -318,7 +318,7 @@
       "speaker_tag": "; > Meruru: |#0105Trial08_Meruru006|",
       "ja": "いいえ……！<br>それはナノカさんが残したとは限りません！",
       "zh": "不对……！<br>\n那不一定是奈叶香小姐留下的！",
-      "vi": "Không...! Đó không hẳn là thứ mà cô Nanoyaka để lại!",
+      "vi": "Không...! Đó không hẳn là thứ mà cô Nanoka để lại!",
       "objection_links": []
     },
     {
@@ -334,7 +334,7 @@
       "speaker_tag": "; > Margo: |#0105Trial08_Margo008|",
       "ja": "その場合、ナノカちゃんを殺して偽装できたのは<br>エマちゃんだけ……水掛け論ね。<br>もっとべつのことを議論して欲しいわ。",
       "zh": "那样的话，能杀害奈叶香并伪造证据的<br>\n就只有艾玛了……各执一词只会没完没了，<br>\n我希望能讨论点别的话题。",
-      "vi": "Trong trường hợp đó, ai có thể giết Nanoyaka và bịa đặt bằng chứng Chỉ có Ema...Ý kiến của mọi người sẽ chỉ dẫn đến những kết quả vô tận, Chị ước gì chúng ta có thể thảo luận chuyện khác.",
+      "vi": "Trong trường hợp đó, ai có thể giết Nanoka và bịa đặt bằng chứng Chỉ có Ema...Ý kiến của mọi người sẽ chỉ dẫn đến những kết quả vô tận, Chị ước gì chúng ta có thể thảo luận chuyện khác.",
       "objection_links": []
     },
     {
@@ -366,7 +366,7 @@
       "speaker_tag": "; > Ema: |#0105Trial08_Ema017|",
       "ja": "黒幕はいるはずだよ！<br>だってナノカちゃんは、<br>ずっと黒幕を追ってたんだもん！",
       "zh": "一定有幕后黑手的！<br>\n因为奈叶香一直在<br>\n追查幕后黑手啊！",
-      "vi": "Chắc chắn có người đứng sau! Bởi vì Nanoyaka đã Truy tìm kẻ chủ mưu đằng sau hậu trường!",
+      "vi": "Chắc chắn có người đứng sau! Bởi vì Nanoka đã Truy tìm kẻ chủ mưu đằng sau hậu trường!",
       "objection_links": []
     },
     {
@@ -374,7 +374,7 @@
       "speaker_tag": "; > Meruru: |#0105Trial08_Meruru008|",
       "ja": "それ自体が、ナノカさんの<br>勘違いだったのかもしれません……。",
       "zh": "也许这本身就是<br>\n奈叶香小姐的误会……",
-      "vi": "Có lẽ bản thân điều đó đã là Sự hiểu lầm của cô Nanoyaka...",
+      "vi": "Có lẽ bản thân điều đó đã là Sự hiểu lầm của cô Nanoka...",
       "objection_links": []
     },
     {
@@ -414,7 +414,7 @@
       "speaker_tag": "; > Ema: |#0105Trial08_Ema019|",
       "ja": "（い、いや……そんなことない！<br>　ナノカちゃんはボクのことを信じてくれた……！<br>　ボクもナノカちゃんを信じなきゃ……！）",
       "zh": "（不、不对……不是这样的！<br>\n奈叶香相信了我……！<br>\n我也必须相信奈叶香……！）",
-      "vi": "(Không, không...không phải vậy! Nanoyaka tin tôi...! Tôi cũng phải tin Nanoyaka...! )",
+      "vi": "(Không, không...không phải vậy! Nanoka tin tôi...! Tôi cũng phải tin Nanoka...! )",
       "objection_links": []
     },
     {
@@ -438,7 +438,7 @@
       "speaker_tag": "; > Ema: |#0105Trial08_Ema022|",
       "ja": "……そうだ！<br>ナノカちゃんは死ぬ前に黒幕の正体を<br>わかっていたはずだ！",
       "zh": "……对了！<br>\n奈叶香在死前一定知道了<br>\n幕后黑手的真实身份！",
-      "vi": "...đúng rồi! Nanoyaka chắc chắn đã biết điều đó trước khi chết Danh tính thực sự của kẻ chủ mưu đằng sau hậu trường!",
+      "vi": "...đúng rồi! Nanoka chắc chắn đã biết điều đó trước khi chết Danh tính thực sự của kẻ chủ mưu đằng sau hậu trường!",
       "objection_links": []
     },
     {
@@ -558,7 +558,7 @@
       "speaker_tag": "; > Ema: |#0105Trial08_Ema030|",
       "ja": "（……あっ……そうか……。<br>　こんな事してる場合じゃない……！<br>　ナノカちゃんのためにも、正気を保たないと……！）",
       "zh": "（……啊……对啊……<br>\n现在不是做这种事的时候……！<br>\n为了奈叶香，我必须保持理智……！）",
-      "vi": "(...à...vâng... Bây giờ không phải là lúc cho những chuyện như vậy...! Vì Nanoyaka, tôi phải tỉnh táo...! )",
+      "vi": "(...à...vâng... Bây giờ không phải là lúc cho những chuyện như vậy...! Vì Nanoka, tôi phải tỉnh táo...! )",
       "objection_links": []
     },
     {
@@ -1182,7 +1182,7 @@
       "speaker_tag": "; > Ema: |#0105Trial08_Ema076|",
       "ja": "（そうだ、ナノカちゃんは黒幕によって<br>　バラバラにされたあと、元に戻されて……！）",
       "zh": "（对了，奈叶香被幕后黑手<br>\n分尸后，又被还原了……！）",
-      "vi": "(Nhân tiện, Nanoyaka đã bị kẻ chủ mưu giết chết Sau khi bị chia cắt, nó đã được phục hồi...! )",
+      "vi": "(Nhân tiện, Nanoka đã bị kẻ chủ mưu giết chết Sau khi bị chia cắt, nó đã được phục hồi...! )",
       "objection_links": []
     },
     {
@@ -1222,7 +1222,7 @@
       "speaker_tag": "; > Ema: |#0105Trial08_Ema079|",
       "ja": "（やめられるもんか……！<br>　ナノカちゃんが残してくれた証拠を<br>　無駄にしたくない……！）",
       "zh": "（怎么可能放弃……！<br>\n我不可以白白浪费<br>\n奈叶香为我们留下的证据……！）",
-      "vi": "(Sao bạn có thể bỏ cuộc...! Tôi không thể lãng phí Bằng chứng Nanoyaka để lại cho chúng ta...! )",
+      "vi": "(Sao bạn có thể bỏ cuộc...! Tôi không thể lãng phí Bằng chứng Nanoka để lại cho chúng ta...! )",
       "objection_links": []
     },
     {
@@ -1606,7 +1606,7 @@
       "speaker_tag": "; > Ema: |#0105Trial08_Ema104|",
       "ja": "（アリサちゃんとナノカちゃんを殺した、<br>　真犯人への道が……！）",
       "zh": "（指向杀害亚里沙和奈叶香的，<br>\n真凶的线索……！）",
-      "vi": "(Chỉ vào những kẻ đã giết Alisa và Nanoyaka, Manh mối của kẻ sát nhân thực sự...! )",
+      "vi": "(Chỉ vào những kẻ đã giết Alisa và Nanoka, Manh mối của kẻ sát nhân thực sự...! )",
       "objection_links": []
     },
     {
