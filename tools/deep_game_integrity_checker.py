@@ -61,7 +61,7 @@ def audit_all_dialogues():
             vi = e.get("vi", "")
             zh = e.get("zh", "")
             ja = e.get("ja", "")
-            orig = zh if zh.strip() else ja
+            orig = ja if ja.strip() else zh
             
             check_rich_text_tags(fname, eid, vi, orig)
             
