@@ -21,6 +21,8 @@ venv/
 # Scratch & temporary folders
 tools/extracted_ui_images/
 tools/archive/
+release_patch/
+*.zip
 
 # OS specific files
 Thumbs.db
