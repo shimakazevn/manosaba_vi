@@ -22,7 +22,7 @@ DIALOGUES_DIR = os.path.join(GAME_DIR, "translation", "dialogues")
 # Master Glossary Mapping
 GLOSSARY = [
     (r"魔女裁判", "Phiên Tòa Ma Nữ"),
-    (r"大魔女", "Đại Ma Nữ"),
+    (r"大魔女", "Đại Phù Thủy"),
     (r"魔女因子", "Yếu tố Ma Nữ"),
     (r"魔女化", "Ma Nữ Hóa"),
     (r"牢屋敷", "Ngục Dinh Thự"),

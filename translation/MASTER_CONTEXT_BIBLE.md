@@ -9,10 +9,10 @@ Tài liệu này là **ngữ cảnh chuẩn mực bắt buộc (Ground Truth)** 
 
 ### Bối Cảnh Chính (Setting)
 * **Ngục Dinh Thự (牢屋敷 - Rouyashiki / Prison Manor):** Một tòa dinh thự cổ kính 500 năm tuổi nằm cô lập trên một hòn đảo giữa biển khơi, được bao quanh bởi bức tường rào ma pháp không thể phá hủy.
-* **Yếu tố Ma Nữ (魔女因子 - Witch Factor):** Một mầm mống ma thuật bẩm sinh do Đại Ma Nữ gieo rắc khắp thế giới. Những người mang yếu tố này có tiềm năng sử dụng ma pháp và bị chính quyền bí mật kiểm tra, bắt giữ và đưa ra đảo ngục.
+* **Yếu tố Ma Nữ (魔女因子 - Witch Factor):** Một mầm mống ma thuật bẩm sinh do Đại Phù Thủy gieo rắc khắp thế giới. Những người mang yếu tố này có tiềm năng sử dụng ma pháp và bị chính quyền bí mật kiểm tra, bắt giữ và đưa ra đảo ngục.
 * **Ma Nữ Hóa (魔女化 - Witch Transformation):** Khi người mang yếu tố ma nữ phải chịu đựng áp lực tinh thần, bạo lực hoặc stress cực độ, yếu tố ma nữ sẽ bị kích hoạt. Họ sẽ nảy sinh xung động sát nhân điên cuồng, móng tay mọc dài, ma lực bùng nổ và dần tha hóa.
 * **Tàn Tích Tha Hóa (なれはて - Narehate):** Trạng thái quái vật dị hình cuối cùng sau khi ma nữ hóa hoàn toàn. Những cá thể dễ thuần hóa sẽ bị tẩy não để trở thành **Cai Ngục (看守 - Jailer)** canh giữ nhà tù.
-* **Đại Ma Nữ (大魔女 - Great Witch):** Kẻ chủ mưu tối thượng đứng sau mọi lời nguyền. Trong quá khứ, Đại Ma Nữ từng mang hình hài nữ sinh **Tsukishiro Yuki (月代ユキ)**, là bạn thân thời thơ ấu của Ema và Hiro trước khi tự sát để kích hoạt chuỗi bi kịch.
+* **Đại Phù Thủy (大魔女 - Great Witch):** Kẻ chủ mưu tối thượng đứng sau mọi lời nguyền. Trong quá khứ, Đại Phù Thủy từng mang hình hài nữ sinh **Tsukishiro Yuki (月代ユキ)**, là bạn thân thời thơ ấu của Ema và Hiro trước khi tự sát để kích hoạt chuỗi bi kịch.
 * **Phiên Tòa Ma Nữ & Xử Hình (魔女裁判・処刑):** Khi một vụ án mạng xảy ra trên đảo, các thiếu nữ bị ép phải tham gia tranh luận tại Tòa Án để tìm ra kẻ thủ ác (Ma Nữ). Kẻ bị biểu quyết là Ma Nữ sẽ phải chịu **Xử Hình (処刑)** — một nghi lễ tra tấn tàn khốc ép nạn nhân ma nữ hóa hoàn toàn trong đau đớn tột cùng trước khi bị tiêu diệt.
 * **Tredecim (トレデキム):** Loại thuốc đặc chế duy nhất có khả năng vô hiệu hóa thể xác bất tử và tiêu diệt hoàn toàn một Ma Nữ.
 
@@ -129,7 +129,7 @@ Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại t�
   * **Gọi người khác:** **chị** / **các bạn**
 
 ### 14. Tsukishiro Yuki (月代ユキ) — [ID: Yuki]
-* **Vai trò:** Đại Ma Nữ / Kẻ giật dây mọi bi kịch.
+* **Vai trò:** Đại Phù Thủy / Kẻ giật dây mọi bi kịch.
 * **Tính cách:** Thanh tao, ma mị, tàn nhẫn, luôn đứng ở vị thế quan sát kẻ khác giãy giụa.
 * **Đại từ JP:** `私` (Watashi) / `貴方` (Anata)
 * **Xưng hô Tiếng Việt:**
@@ -154,7 +154,7 @@ Toàn bộ 16 nhân vật trong game có phong cách nói chuyện và đại t�
 | Thuật ngữ gốc (JP) | Bản dịch Trung (ZH) | Thuật ngữ Tiếng Việt chuẩn | Giải thích / Ghi chú |
 | :--- | :--- | :--- | :--- |
 | **魔女** | 魔女 | **Ma Nữ** | Không dịch thành "Phù thủy" để giữ tính chất đen tối, bi kịch. |
-| **大魔女** | 大魔女 | **Đại Ma Nữ** | Trùm cuối / Khởi nguồn lời nguyền. |
+| **大魔女** | 大魔女 | **Đại Phù Thủy** | Trùm cuối / Khởi nguồn lời nguyền. |
 | **魔女候補** | 魔女候选人 | **Ứng viên Ma Nữ** | Các thiếu nữ bị bắt lên đảo. |
 | **魔女因子** | 魔女因子 | **Yếu tố Ma Nữ** | Mầm mống ma thuật bẩm sinh. |
 | **魔女化** | 魔女化 | **Ma Nữ Hóa** | Quá trình biến đổi thành quái vật. |
