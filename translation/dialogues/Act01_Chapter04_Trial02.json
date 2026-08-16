@@ -9,7 +9,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial02_Margo001|",
       "ja": "現場には、<br>ロウソクが落ちていたわ。",
       "zh": "我们在案发现场<br>\n发现了蜡烛。",
-      "vi": "Chúng Chị đang ở hiện trường vụ án Những ngọn nến đã được tìm thấy.",
+      "vi": "Tại hiện trường vụ án, chúng ta đã tìm thấy một cây nến bị rơi dưới sàn.",
       "objection_links": []
     },
     {
@@ -17,7 +17,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial02_Margo002|",
       "ja": "ロウソクには<br>使われた形跡があったし、<br>ロウが溶けて<br>床に落ちた跡もあった……。",
       "zh": "蜡烛<br>\n有使用过的痕迹，<br>\n地上也残留有<br>\n蜡油的痕迹……",
-      "vi": "nến Có dấu vết sử dụng, Ngoài ra còn có còn sót lại trên mặt đất Dấu vết của dầu sáp…",
+      "vi": "Cây nến đó có dấu vết đã qua sử dụng, và trên mặt sàn cũng còn vương vãi những giọt sáp nến tan chảy……",
       "objection_links": []
     },
     {
@@ -25,7 +25,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial02_Margo003|",
       "ja": "つまり、<br>これはアリサちゃんが<br>ロウソクを使っていたと<br>いうことね。",
       "zh": "这就证明了，<br>\n亚里沙<br>\n曾经使用过<br>\n这根蜡烛。",
-      "vi": "Điều này chứng tỏ rằng Alisa Đã sử dụng Cây nến này.",
+      "vi": "Điều này chứng tỏ rằng Alisa đã từng thắp cây nến đó lên để sử dụng.",
       "objection_links": []
     },
     {
@@ -33,7 +33,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial02_Coco001|",
       "ja": "それがどうかした？<br>ロウソクに<br>火をつけてたことが、<br>なんの証明になんの？",
       "zh": "那又怎样？<br>\n有人点燃过<br>\n蜡烛，<br>\n这能证明什么？",
-      "vi": "Vậy thì sao? Ai đó đã thắp sáng nến, Điều này chứng tỏ điều gì?",
+      "vi": "Thế thì đã sao chứ? Có đứa thắp nến thì chứng minh được cái quái gì cơ?",
       "objection_links": []
     },
     {
@@ -41,7 +41,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial02_Margo004|",
       "ja": "【<link=\"Objection_01_04_02_01\">ロウソクを使う</link>状況】……<br>それって<br>どんな状況かしら？",
       "zh": "【需要<link=\"Objection_01_04_02_01\">使用蜡烛</link>的情况】……<br>\n大家觉得那会是<br>\n怎样的情况？",
-      "vi": "[Yêu cầu <link=\"Objection_01_04_02_01\"> sử dụng nến </link>]... Mọi người đều nghĩ nó sẽ là Chuyện gì đang xảy ra vậy?",
+      "vi": "【Tình huống bắt buộc phải <link=\"Objection_01_04_02_01\">thắp nến</link>】…… Mọi người nghĩ xem đó sẽ là vào lúc nào?",
       "objection_links": [
         "Objection_01_04_02_01"
       ]
@@ -51,7 +51,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial02_Meruru001|",
       "ja": "灯りが欲しい時……<br>でしょうか？",
       "zh": "需要照明的时候……<br>\n对吗？",
-      "vi": "Khi bạn cần ánh sáng... Đúng không?",
+      "vi": "Có phải là…… những lúc cần ánh sáng để soi đường không ạ?",
       "objection_links": []
     },
     {
@@ -59,7 +59,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial02_Margo005|",
       "ja": "その通り。<br>つまりアリサちゃんは<br>【夜】にこの裁判所にいた<br>ということよ。",
       "zh": "没错。<br>\n也就是说，<br>\n亚里沙是在【晚上】<br>\n来到这个审判庭的。",
-      "vi": "Đúng vậy. Tức là Alisa đang ở trong [Đêm] Hãy đến tòa án này.",
+      "vi": "Chính xác. Nghĩa là Alisa đã mò tới Tòa Án này vào lúc 【Đêm Tối】.",
       "objection_links": []
     },
     {
@@ -67,7 +67,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial02_Margo006|",
       "ja": "このことから、<br>アリサちゃんは<br>私たちが<br>外に出られない時間……。",
       "zh": "因此我推断，<br>\n亚里沙是<br>\n在我们无法外出的<br>\n时间段……",
-      "vi": "Vì vậy Chị suy luận, Alisa là Ở nơi chúng ta không thể ra ngoài khoảng thời gian...",
+      "vi": "Từ điều đó chị suy luận ra rằng, Alisa đã bị sát hại vào khung giờ giới nghiêm mà tất cả chúng ta không thể tự do ra ngoài……",
       "objection_links": []
     },
     {
@@ -75,7 +75,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial02_Margo007|",
       "ja": "真っ暗な<br>【<link=\"Objection_01_04_02_02\">深夜の裁判所</link>】で<br>殺されたんだと思うわ。",
       "zh": "在这个漆黑一片的<br>\n【<link=\"Objection_01_04_02_02\">深夜的审判庭</link>】中<br>\n遭到了杀害。",
-      "vi": "Chị nghĩ nạn nhân đã bị sát hại trong 【<link=\"Objection_01_04_02_02\">Tòa án lúc nửa đêm</link>】 tối đen như mực này.",
+      "vi": "Chị nghĩ em ấy đã bị sát hại tại 【<link=\"Objection_01_04_02_02\">Tòa Án lúc nửa đêm</link>】 tối đen như mực này.",
       "objection_links": [
         "Objection_01_04_02_02"
       ]
@@ -85,7 +85,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial02_Margo008|",
       "ja": "でも昨晩、<br>私たちは各自の部屋に<br>戻っていたわ。",
       "zh": "可是昨晚<br>\n我们都回到<br>\n各自的房间去了。",
-      "vi": "Nhưng đêm qua Tất cả chúng ta đều quay lại Đi đến phòng tương ứng của họ.",
+      "vi": "Thế nhưng tối qua, tất cả chúng ta đều đã ngoan ngoãn trở về phòng riêng của mình.",
       "objection_links": []
     },
     {
@@ -93,7 +93,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial02_Margo009|",
       "ja": "牢の外で<br>行方をくらましていた<br>ナノカちゃんにしか、<br>この犯行は不可能なのよ。",
       "zh": "除了没有待在牢房，<br>\n行踪不明的<br>\n奈叶香以外，<br>\n没有人能作案。",
-      "vi": "Ngoại trừ việc không ở trong phòng giam, còn thiếu Ngoài Nanoha, Không ai có thể phạm tội.",
+      "vi": "Ngoại trừ Nanoka đang trốn ngoài phòng giam và mất tung tích, thì chẳng một ai khác có khả năng gây án cả.",
       "objection_links": []
     },
     {
@@ -101,7 +101,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial02_Margo010|",
       "ja": "……わかったかしら？<br>エマちゃん。",
       "zh": "……这下你明白了吗？<br>\n可爱的小艾玛。",
-      "vi": "...Bây giờ em đã hiểu chưa? Ema bé nhỏ đáng yêu.",
+      "vi": "……Giờ thì em đã thông suốt chưa nào, Ema?",
       "objection_links": []
     },
     {
@@ -109,7 +109,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema001|",
       "ja": "（マーゴちゃんの意見は一見<br>　筋が通っているように見えるけど……）",
       "zh": "（玛格的推论乍一看顺理成章，<br>\n可是……）",
-      "vi": "(Suy luận của Margo thoạt nhìn có vẻ hợp lý, Nhưng...)",
+      "vi": "（Suy luận của chị Margo thoạt nhìn thì có vẻ rất logic và chặt chẽ, nhưng……）",
       "objection_links": []
     },
     {
@@ -117,7 +117,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema002|",
       "ja": "（でも別の可能性はないかな……？）",
       "zh": "（就没有别的可能性吗……？）",
-      "vi": "(Không còn khả năng nào khác sao...?)",
+      "vi": "（Nhưng liệu có còn khả năng nào khác không……?）",
       "objection_links": []
     },
     {
@@ -125,7 +125,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema003|",
       "ja": "（事件当時の現場の状況を想像して、それを指摘しよう……！）",
       "zh": "（我要在脑海里模拟一下案发当时现场的情况，<br>\n指出其他可能性……！）",
-      "vi": "(Tôi muốn mô phỏng hiện trường lúc xảy ra vụ án trong đầu, Hãy chỉ ra những khả năng khác...! )",
+      "vi": "（Mình phải mường tượng lại tình hình hiện trường vào thời điểm vụ án xảy ra để chỉ ra mâu thuẫn mới được……!）",
       "objection_links": []
     },
     {
@@ -133,7 +133,7 @@
       "speaker_tag": "; > @choice |#0104Trial02_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "ロウソクは使われなかった",
       "zh": "蜡烛没有被使用过",
-      "vi": "Ngọn nến chưa được sử dụng",
+      "vi": "Nến không hề được sử dụng",
       "objection_links": []
     },
     {
@@ -141,7 +141,7 @@
       "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
       "ja": "戻る",
       "zh": "返回",
-      "vi": "Trở lại",
+      "vi": "Quay lại",
       "objection_links": []
     },
     {
@@ -149,7 +149,7 @@
       "speaker_tag": "; > @choice |#0104Trial02_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "深夜以外もロウソクを使う",
       "zh": "不在深夜也需要用蜡烛",
-      "vi": "Bạn không cần sử dụng nến vào đêm khuya",
+      "vi": "Ngoài nửa đêm ra vẫn có lúc cần dùng nến",
       "objection_links": []
     },
     {
@@ -157,7 +157,7 @@
       "speaker_tag": "; > @choice |#0104Trial02_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "裁判所以外で殺された",
       "zh": "遇害现场不是审判庭",
-      "vi": "Hiện trường vụ án mạng không phải là phòng xử án",
+      "vi": "Bị sát hại ở ngoài Tòa Án",
       "objection_links": []
     },
     {
@@ -165,7 +165,7 @@
       "speaker_tag": "; > @choice |#0104Trial02_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "裁判所には入れなかった",
       "zh": "审判庭无法进入",
-      "vi": "Điều tra không thể truy cập được",
+      "vi": "Không thể bước vào Tòa Án",
       "objection_links": []
     },
     {
@@ -173,7 +173,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema004|",
       "ja": "……本当にロウソクは使われてたのかな？<br>使われてなかった可能性もあるんじゃ……。",
       "zh": "……真的有人使用过蜡烛吗？<br>\n也有可能没有使用过吧……",
-      "vi": "…Có ai thực sự đã sử dụng nến chưa? Có lẽ tôi chưa từng sử dụng nó trước đây...",
+      "vi": "……Cây nến đó có thực sự từng được thắp lên không? Biết đâu nó chưa từng được dùng đến thì sao……",
       "objection_links": []
     },
     {
@@ -181,7 +181,7 @@
       "speaker_tag": "; > Margo: |#0104Trial02_Margo011|",
       "ja": "現場の床を調べたのよ。<br>そしたら、ロウが固まった跡があった……。",
       "zh": "我已经调查过案发现场的地板。<br>\n地上有凝固了的蜡油痕迹……",
-      "vi": "Chị đã khảo sát sàn hiện trường vụ án. Có dấu vết của dầu sáp đông đặc trên mặt đất...",
+      "vi": "Chị đã kiểm tra rất kỹ sàn nhà tại hiện trường rồi. Trên mặt sàn có vết sáp nến đã đông cứng lại cơ mà……",
       "objection_links": []
     },
     {
@@ -189,7 +189,7 @@
       "speaker_tag": "; > Margo: |#0104Trial02_Margo012|",
       "ja": "少なくとも誰かがあそこで<br>ロウソクに火をつけていたのは<br>間違いないわ。",
       "zh": "至少可以确定<br>\n曾经有人在那个位置<br>\n点燃过蜡烛。",
-      "vi": "Ít nhất thì chắc chắn Ai đó đã ở vị trí đó Những ngọn nến đã được thắp sáng.",
+      "vi": "Ít nhất thì chắc chắn đã có người thắp nến tại vị trí đó.",
       "objection_links": []
     },
     {
@@ -197,7 +197,7 @@
       "speaker_tag": "; > Coco: |#0104Trial02_Coco002|",
       "ja": "なに？ ロウソクが使われてたらマズいことでもあんの？",
       "zh": "怎样？有人点过蜡烛对你来说很成问题吗？",
-      "vi": "Bằng cách nào? Việc ai đó thắp một ngọn nến có phải là vấn đề đối với bạn không?",
+      "vi": "Sao? Có đứa thắp nến thì mày thấy vướng bận gì à?",
       "objection_links": []
     },
     {
@@ -205,7 +205,7 @@
       "speaker_tag": "; > Coco: |#0104Trial02_Coco003|",
       "ja": "あやし～～。",
       "zh": "好可疑欸～～",
-      "vi": "Đáng nghi quá~~",
+      "vi": "Mờ ám vãi chưởng~~",
       "objection_links": []
     },
     {
@@ -213,7 +213,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema005|",
       "ja": "（怪しまれちゃった……！）",
       "zh": "（受到怀疑了……！）",
-      "vi": "(Dưới sự nghi ngờ...!)",
+      "vi": "（Bị mọi người nghi ngờ rồi……!）",
       "objection_links": []
     },
     {
@@ -221,7 +221,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema006|",
       "ja": "（【ロウソクは夜に使われた】……）",
       "zh": "（【晚上有人使用过蜡烛】……）",
-      "vi": "([Có người dùng nến vào ban đêm]...)",
+      "vi": "（【Cây nến đã từng được sử dụng vào ban đêm】……）",
       "objection_links": []
     },
     {
@@ -229,7 +229,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema007|",
       "ja": "（確証はないけど、それを否定する要素もない気がする……）",
       "zh": "（虽然没有确切的证据，但好像也没有材料能否定这一点……）",
-      "vi": "(Mặc dù không có bằng chứng xác thực nhưng dường như cũng không có tài liệu nào phủ nhận điều này...)",
+      "vi": "（Dù chưa có bằng chứng tuyệt đối, nhưng hiện tại cũng chẳng có căn cứ nào để bác bỏ điều đó……）",
       "objection_links": []
     },
     {
@@ -237,7 +237,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema008|",
       "ja": "（でも他の話は正しいのかな……？<br>　何かアリサちゃんの殺された状況の可能性を狭められる証拠が<br>　あったかもしれない……）",
       "zh": "（可是，她提到的其他事情也是正确的吗……？<br>\n说不定存在某些证据，<br>\n能排除一部分亚里沙被杀情况的可能性……）",
-      "vi": "(Nhưng những điều khác mà cô ấy đề cập có đúng không...? Có thể có một số bằng chứng, Điều này có thể loại trừ khả năng Alisa bị giết...)",
+      "vi": "（Thế nhưng những chi tiết khác chị ấy nói liệu có chính xác không……? Biết đâu có manh mối nào giúp thu hẹp phạm vi thời điểm Alisa bị sát hại……）",
       "objection_links": []
     },
     {
@@ -245,7 +245,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema009|",
       "ja": "……裁判所以外の場所で殺された可能性はないかな？",
       "zh": "……有没有可能，案发现场是在审判庭以外的地方呢？",
-      "vi": "…Có lẽ nào hiện trường vụ án ở đâu đó khác ngoài tòa án xét xử?",
+      "vi": "……Liệu có khả năng hiện trường vụ án mạng thực sự là ở bên ngoài Tòa Án không?",
       "objection_links": []
     },
     {
@@ -253,7 +253,7 @@
       "speaker_tag": "; > Margo: |#0104Trial02_Margo013|",
       "ja": "じゃあ……どこで？",
       "zh": "那你说……会在哪？",
-      "vi": "Sau đó em nói...nó sẽ ở đâu?",
+      "vi": "Vậy thì theo em…… là ở đâu?",
       "objection_links": []
     },
     {
@@ -261,7 +261,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema010|",
       "ja": "ええと、それをみんなで考えていこうと……。",
       "zh": "这个嘛，大家一起来想一想……",
-      "vi": "Nào, chúng ta hãy cùng nhau suy nghĩ về điều này...",
+      "vi": "Dạ thì…… em muốn mọi người cùng nhau suy nghĩ xem sao……",
       "objection_links": []
     },
     {
@@ -269,7 +269,7 @@
       "speaker_tag": "; > Margo: |#0104Trial02_Margo014|",
       "ja": "エマちゃん……今はみんなで<br>【いつ】アリサちゃんが殺されたのかを考えているの。",
       "zh": "艾玛……现在大家在讨论的是，<br>\n亚里沙是在【什么时候】遭到杀害。",
-      "vi": "Ema...điều mọi người đang thảo luận bây giờ là Alisa đã bị giết [khi nào].",
+      "vi": "Ema à…… Lúc này mọi người đang tập trung thảo luận xem Alisa bị sát hại vào 【Thời Điểm Nào】 cơ mà.",
       "objection_links": []
     },
     {
@@ -277,7 +277,7 @@
       "speaker_tag": "; > Coco: |#0104Trial02_Coco004|",
       "ja": "聞いてないこと勝手に言うなっての。<br>空気読んでもらえるー？",
       "zh": "没人说案发地点，你别在那里乱扯。<br>\n能不能给我搞清楚情况～？",
-      "vi": "Không ai nói tội ác xảy ra ở đâu, vì vậy đừng nói những điều vô nghĩa ở đó. Bạn có thể làm rõ tình hình cho Coco được không~?",
+      "vi": "Có ai hỏi địa điểm đâu mà cứ luyên thuyên thế. Biết nhìn bầu không khí giùm cái đi?",
       "objection_links": []
     },
     {
@@ -285,7 +285,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema011|",
       "ja": "（雰囲気を感じ取らないと……！）",
       "zh": "（我要看清辩论的走向才行……！）",
-      "vi": "(Mình cần xem cuộc tranh luận sẽ đi đến đâu...!)",
+      "vi": "（Mình phải nắm bắt đúng mạch tranh luận mới được……!）",
       "objection_links": []
     },
     {
@@ -293,7 +293,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema012|",
       "ja": "（【アリサちゃんは裁判所で殺された】……）",
       "zh": "（【亚里沙的遇害现场是审判庭】……）",
-      "vi": "([Hiện trường vụ giết Alisa là phiên tòa xét xử]...)",
+      "vi": "（【Alisa bị sát hại tại Tòa Án】……）",
       "objection_links": []
     },
     {
@@ -301,7 +301,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema013|",
       "ja": "（確証はないけど、それを否定する要素もない気がする……）",
       "zh": "（虽然没有确切的证据，但好像也没有材料能否定这一点……）",
-      "vi": "(Mặc dù không có bằng chứng xác thực nhưng dường như cũng không có tài liệu nào phủ nhận điều này...)",
+      "vi": "（Dù chưa có chứng cứ xác đáng, nhưng hiện tại cũng chẳng có căn cứ nào để phủ định chuyện đó……）",
       "objection_links": []
     },
     {
@@ -309,7 +309,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema014|",
       "ja": "（でも他の話は正しいのかな……？<br>　何かアリサちゃんの殺された状況の可能性を狭められる証拠が<br>　あったかもしれない……）",
       "zh": "（可是，她提到的其他事情也是正确的吗……？<br>\n说不定存在某些证据，<br>\n能排除一部分亚里沙被杀情况的可能性……）",
-      "vi": "(Nhưng những điều khác mà cô ấy đề cập có đúng không...? Có thể có một số bằng chứng, Điều này có thể loại trừ khả năng Alisa bị giết...)",
+      "vi": "（Thế nhưng những lời khác của chị Margo liệu có đúng không……? Có lẽ còn có bằng chứng nào đó giúp làm sáng tỏ thời điểm gây án……）",
       "objection_links": []
     },
     {
@@ -317,7 +317,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema015|",
       "ja": "裁判所って、本当に入れたのかな。",
       "zh": "当时真的有人能进得去审判庭吗？",
-      "vi": "Có ai thực sự có thể vào Tòa án dị giáo vào thời điểm đó?",
+      "vi": "Lúc đó liệu có ai thực sự bước chân vào Tòa Án được không?",
       "objection_links": []
     },
     {
@@ -325,7 +325,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema016|",
       "ja": "昨日の夜、アリサちゃんが入れたとは<br>限らない気がするけど……。",
       "zh": "我认为昨晚亚里沙未必<br>\n能进到审判庭里面……",
-      "vi": "Tôi không nghĩ Alisa có thể tối qua Có thể bước vào tòa án công lý...",
+      "vi": "Mình nghĩ chưa chắc tối qua Alisa đã vào được bên trong Tòa Án đâu……",
       "objection_links": []
     },
     {
@@ -333,7 +333,7 @@
       "speaker_tag": "; > Margo: |#0104Trial02_Margo015|",
       "ja": "……今朝は、入れたけれど？",
       "zh": "……今天早上能进来哦？",
-      "vi": "...Sáng nay em có thể tới được không?",
+      "vi": "……Thế nhưng sáng nay cửa Tòa Án vẫn mở toang ra đó thôi?",
       "objection_links": []
     },
     {
@@ -349,7 +349,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema018|",
       "ja": "（待てよ、そういえば昨日――）",
       "zh": "（等等，说起来昨天——）",
-      "vi": "(Đợi đã, hãy nói về ngày hôm qua——)",
+      "vi": "（Khoan đã, nhắc mới nhớ hôm qua――）",
       "objection_links": []
     },
     {
@@ -357,7 +357,7 @@
       "speaker_tag": "; > Warden: |#0104Trial02_Warden001|",
       "ja": "ただ、前回の処刑の時もですが、<br>どうやら処刑台の調子が悪いようで……。",
       "zh": "唯一的问题是处刑台的状态不太好，<br>\n其实上次处刑时就已经这样……",
-      "vi": "Vấn đề duy nhất là nền tảng thực thi không ở tình trạng tốt, Trên thực tế, điều này đã xảy ra trong lần hành quyết gần đây nhất...",
+      "vi": "Chỉ có điều là, đài hành quyết dạo này hoạt động có vẻ trục trặc chập chờn, thực ra từ lần hành quyết trước đã như thế rồi……",
       "objection_links": []
     },
     {
@@ -365,7 +365,7 @@
       "speaker_tag": "; > Warden: |#0104Trial02_Warden002|",
       "ja": "一度明日の午後、<br>本格的にメンテナンスをする予定です。やれやれ……。",
       "zh": "我已经安排了，明天下午<br>\n得认真地做一次检修。忙死了……",
-      "vi": "Tôi đã sắp xếp rồi, chiều mai Cần phải thực hiện một cuộc đại tu nghiêm túc. Bận rộn quá...",
+      "vi": "Ta dự kiến chiều mai sẽ tiến hành một đợt bảo trì toàn diện cho nó. Ôi chao phiền phức quá……",
       "objection_links": []
     },
     {
@@ -373,7 +373,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema019|",
       "ja": "昨日、ゴクチョーがメンテナンスするって<br>言ってたかも……！",
       "zh": "昨天典狱长好像说过<br>\n要做检修……！",
-      "vi": "Người quản lý dường như đã nói ngày hôm qua Cần phải bảo trì...!",
+      "vi": "Hôm qua đúng là Cai Ngục Trưởng từng nói sẽ bảo trì thiết bị……!",
       "objection_links": []
     },
     {
@@ -381,7 +381,7 @@
       "speaker_tag": "; > Meruru: |#0104Trial02_Meruru002|",
       "ja": "じゃ、じゃあ夜も<br>裁判所に入れた可能性は高いんですね……。",
       "zh": "那、那昨晚能进入审判庭的可能性<br>\n相当高呢……",
-      "vi": "Vậy thì khả năng vào tòa sơ thẩm tối qua Khá cao...",
+      "vi": "V-Vậy thì khả năng đêm qua có thể vào được Tòa Án là rất cao rồi nhỉ……",
       "objection_links": []
     },
     {
@@ -389,7 +389,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema020|",
       "ja": "そうみたい……！",
       "zh": "看来是这样……！",
-      "vi": "Có vẻ như vậy...!",
+      "vi": "Có vẻ là vậy thật……!",
       "objection_links": []
     },
     {
@@ -397,7 +397,7 @@
       "speaker_tag": "; > Margo: |#0104Trial02_Margo016|",
       "ja": "エマちゃんが適当なことを言った可能性も高いみたいね？",
       "zh": "艾玛在随口胡说的可能性也相当高呢？",
-      "vi": "Có thể nào Ema chỉ đang nói những điều vô nghĩa?",
+      "vi": "Khả năng Ema đang nói bừa nói quàng cũng cao chẳng kém đâu nhỉ?",
       "objection_links": []
     },
     {
@@ -405,7 +405,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema021|",
       "ja": "（そうみたい……！）",
       "zh": "（其他人好像都这样想……！）",
-      "vi": "(Mọi người khác dường như cũng nghĩ vậy...!)",
+      "vi": "（Mọi người dường như cũng đang nghĩ như vậy……!）",
       "objection_links": []
     },
     {
@@ -413,7 +413,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema022|",
       "ja": "（【夜、裁判所に入ることは可能だった】……）",
       "zh": "（【晚上能进入审判庭里面】……）",
-      "vi": "([Bạn có thể vào tòa xét xử vào ban đêm]...)",
+      "vi": "（【Vào ban đêm, việc vào được Tòa Án là hoàn toàn khả thi】……）",
       "objection_links": []
     },
     {
@@ -421,7 +421,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema023|",
       "ja": "（確証はないけど、それを否定する要素もない気がする……）",
       "zh": "（虽然没有确切的证据，但好像也没有材料能否定这一点……）",
-      "vi": "(Mặc dù không có bằng chứng xác thực nhưng dường như cũng không có tài liệu nào phủ nhận điều này...)",
+      "vi": "（Dù chưa có chứng cứ chắc chắn, nhưng cũng không thể phủ định được điểm này……）",
       "objection_links": []
     },
     {
@@ -429,7 +429,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema024|",
       "ja": "（でも他の話は正しいのかな……？<br>　何かアリサちゃんの殺された状況の可能性を狭められる証拠が<br>　あったかもしれない……）",
       "zh": "（可是，她提到的其他事情也是正确的吗……？<br>\n说不定存在某些证据，<br>\n能排除一部分亚里沙被杀情况的可能性……）",
-      "vi": "(Nhưng những điều khác mà cô ấy đề cập có đúng không...? Có thể có một số bằng chứng, Điều này có thể loại trừ khả năng Alisa bị giết...)",
+      "vi": "（Nhưng những luận điểm khác của chị Margo liệu có đúng không……? Có lẽ còn có manh mối nào giúp loại trừ bớt những mốc thời gian Alisa bị sát hại……）",
       "objection_links": []
     },
     {
@@ -437,7 +437,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema025|",
       "ja": "……ちょっと待って、マーゴちゃん。",
       "zh": "……玛格，先等一等。",
-      "vi": "...Margo, đợi một chút.",
+      "vi": "……Khoan đã nào, chị Margo.",
       "objection_links": []
     },
     {
@@ -445,7 +445,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema026|",
       "ja": "処刑台が動いた時間の話は<br>ボクもゴクチョーから聞いたけど……。",
       "zh": "我也从典狱长那里听说过<br>\n关于处刑台曾经移动过的事情……",
-      "vi": "Tôi cũng đã nghe về chuyện đó từ Cai Ngục Trưởng Về việc di chuyển nền tảng thực thi...",
+      "vi": "Về những mốc thời gian đài hành quyết di chuyển, em cũng đã được nghe Cai Ngục Trưởng nói qua rồi……",
       "objection_links": []
     },
     {
@@ -453,7 +453,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema027|",
       "ja": "むしろ……深夜に犯行は起きていないんじゃないかな？",
       "zh": "我倒是认为……作案时间应该不在深夜吧？",
-      "vi": "Tôi nghĩ... thời điểm gây án không nên là đêm khuya phải không?",
+      "vi": "Ngược lại…… vụ án hoàn toàn không thể xảy ra vào lúc nửa đêm được đâu!",
       "objection_links": []
     },
     {
@@ -461,7 +461,7 @@
       "speaker_tag": "; > Margo: |#0104Trial02_Margo017|",
       "ja": "あら……それはどうしてかしら？",
       "zh": "哎呀……什么意思？",
-      "vi": "Rất tiếc...ý em là gì?",
+      "vi": "Ủa kìa…… Sao em lại nói thế?",
       "objection_links": []
     },
     {
@@ -469,7 +469,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema028|",
       "ja": "だって処刑台は昨晩の２１時と、<br>今朝の９時に動いていたんだ。",
       "zh": "因为处刑台的移动时间是在<br>\n昨晚9点还有今天早上9点。",
-      "vi": "Bởi vì thời gian di chuyển của nền tảng thực thi là 9 giờ tối qua và 9 giờ sáng nay.",
+      "vi": "Bởi vì đài hành quyết chỉ di chuyển vào 21 giờ tối hôm qua và 9 giờ sáng nay.",
       "objection_links": []
     },
     {
@@ -477,7 +477,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema029|",
       "ja": "そして２１時から９時の間は、<br>地下にあった……。",
       "zh": "而昨晚9点到今早9点的这段时间里，<br>\n处刑台一直位于地下……",
-      "vi": "Và trong khoảng thời gian từ 9 giờ tối qua đến 9 giờ sáng nay, Nền tảng thực thi luôn ở chế độ ngầm...",
+      "vi": "Và trong suốt khoảng thời gian từ 21 giờ tối đến tận 9 giờ sáng, bục hành quyết hoàn toàn nằm dưới tầng hầm……",
       "objection_links": []
     },
     {
@@ -485,7 +485,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema030|",
       "ja": "だから犯行が起きたのは、<br>【夜２１時前】か【朝９時以後】……。",
       "zh": "所以作案时间应该是在<br>\n【昨晚9点前】或者【今天早上9点后】……",
-      "vi": "Vậy thời điểm phạm tội phải ở [Trước 9 giờ tối qua] hoặc [sau 9 giờ sáng nay]...",
+      "vi": "Do đó, thời điểm gây án chỉ có thể là 【Trước 21 giờ tối qua】 hoặc 【Sau 9 giờ sáng nay】 mà thôi……",
       "objection_links": []
     },
     {
@@ -493,7 +493,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema031|",
       "ja": "つまりボクたちが外に出られない<br>深夜の時間帯【以外】なんだ。",
       "zh": "也就是说，在我们禁止外出的<br>\n深夜时间带【以外】才对。",
-      "vi": "Nói cách khác, vào khi chúng ta bị cấm ra ngoài Tốt hơn là nên mang [ra ngoài] vào đêm khuya.",
+      "vi": "Nghĩa là nó nằm 【Bên Ngoài】 khoảng thời gian giới nghiêm nửa đêm mà chúng mình bị cấm ra khỏi phòng!",
       "objection_links": []
     },
     {
@@ -501,7 +501,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema032|",
       "ja": "仮にロウソクが灯りとして使われたなら、<br>【夜２１時前】……<br>なんじゃないかな？",
       "zh": "假设有人点燃蜡烛来照明……<br>\n那也应该是在<br>\n【昨晚9点前】才对吧？",
-      "vi": "Giả sử ai đó thắp một ngọn nến để thắp sáng... Nó cũng phải có trong [Trước 9 giờ tối qua] Đúng không?",
+      "vi": "Giả sử cây nến được thắp lên để soi sáng, thì thời điểm đó ắt hẳn phải là vào 【Trước 21 giờ tối qua】 đúng không?",
       "objection_links": []
     },
     {
@@ -509,7 +509,7 @@
       "speaker_tag": "; > Margo: |#0104Trial02_Margo018|",
       "ja": "……なるほど、たしかにそうね。<br>エマちゃんの言うことも一理あるわ。",
       "zh": "……原来是这样，好像确实有可能。<br>\n你说得有道理。",
-      "vi": "...Hóa ra là như vậy, có vẻ như vậy. Bạn có lý.",
+      "vi": "……Ra là vậy, đúng là có lý thật. Lập luận của Ema nghe cũng rất thuyết phục.",
       "objection_links": []
     },
     {
@@ -517,7 +517,7 @@
       "speaker_tag": "; > Margo: |#0104Trial02_Margo019|",
       "ja": "……でも、それだとやっぱり<br>ナノカちゃんかエマちゃんが<br>犯人で間違いないみたいね。",
       "zh": "……可要是这样的话，<br>\n那应该就可以确定凶手<br>\n不是奈叶香就是艾玛呢。",
-      "vi": "...Nhưng nếu đúng như vậy, Sau đó chúng ta có thể xác định được kẻ sát nhân Hoặc Nanoka hoặc Ema.",
+      "vi": "……Thế nhưng nếu là như vậy, thì hung thủ lại càng chắc chắn là một trong hai người: Nanoka hoặc Ema rồi.",
       "objection_links": []
     },
     {
@@ -525,7 +525,7 @@
       "speaker_tag": "; > Ema: |#0104Trial02_Ema033|",
       "ja": "……え？",
       "zh": "……欸？",
-      "vi": "...Hả?",
+      "vi": "……Dạ?",
       "objection_links": []
     },
     {
@@ -533,7 +533,7 @@
       "speaker_tag": "; > Margo: |#0104Trial02_Margo020|",
       "ja": "アリバイがあるのよ……<br>私たち３人はね。",
       "zh": "有不在场证明的……<br>\n只有我们三个。",
-      "vi": "Có bằng chứng ngoại phạm... Chỉ có ba chúng Chị.",
+      "vi": "Bởi vì chứng cứ ngoại phạm vào khoảng thời gian đó…… 3 người chúng chị đều có đủ cả.",
       "objection_links": []
     }
   ]

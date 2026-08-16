@@ -9,7 +9,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial08_Coco001|",
       "ja": "【アリサが<br>ビンを炎で炙ったら<br>爆発した】……。",
       "zh": "【药瓶是被亚里沙<br>\n用火焰烧热后<br>\n炸开了】……",
-      "vi": "【Chai thuốc là của Alisa Sau khi đun nóng bằng ngọn lửa Bùng nổ]...",
+      "vi": "【Lọ thuốc là do Alisa nướng bằng ngọn lửa ma pháp khiến nó phát nổ tung ra】……",
       "objection_links": []
     },
     {
@@ -17,7 +17,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial08_Coco002|",
       "ja": "たしかにそれなら<br>顔に根性焼きみたいな跡が<br>残るのも<br>納得できるけど……。",
       "zh": "如果你说的是事实，<br>\n我也觉得脸上<br>\n留个烙印痕迹<br>\n确实也说得通……",
-      "vi": "Nếu điều bạn nói là đúng, Coco cũng cảm thấy trên mặt mình Để lại dấu Nó có ý nghĩa...",
+      "vi": "Nếu đúng như lời mày nói, thì việc trên mặt nó in hằn một vết bỏng rát như bị gí kim loại nung đỏ vào da thịt cũng nghe có vẻ hợp lý……",
       "objection_links": []
     },
     {
@@ -25,7 +25,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial08_Coco003|",
       "ja": "じゃあそもそも、<br>どうしてアイツは<br>ビンを炙ったりなんか<br>したんだよ！？",
       "zh": "可话说回来，<br>\n为什么<br>\n那家伙<br>\n要去烧药瓶！？",
-      "vi": "Nhưng một lần nữa, Tại sao Anh chàng đó Coco sẽ đốt chai thuốc!?",
+      "vi": "Nhưng mà nghĩ đi nghĩ lại, cớ làm sao mà con nhỏ đó lại tự nhiên châm lửa đi nung chiếc lọ thuốc làm cái quái gì chứ!?",
       "objection_links": []
     },
     {
@@ -33,7 +33,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial08_Coco004|",
       "ja": "ビンなんて炙っても<br><link=\"Objection_01_04_08_01\">なんにもなんねーじゃん</link>！",
       "zh": "她把药瓶烧热<br>\n<link=\"Objection_01_04_08_01\">没有任何意义</link>啊！",
-      "vi": "Cô đun nóng lọ thuốc <link=\"Objection_01_04_08_01\"> chẳng có nghĩa lý gì</link>ah!",
+      "vi": "Đem chiếc lọ thủy tinh ra nung thì <link=\"Objection_01_04_08_01\">chẳng mang lại bất kỳ ý nghĩa gì cả</link> còn gì nữa!",
       "objection_links": [
         "Objection_01_04_08_01"
       ]
@@ -43,7 +43,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0104Trial08_Meruru001|",
       "ja": "お、お湯が必要だったとか<br>でしょうか……？",
       "zh": "会、会不会是她<br>\n想喝热水……？",
-      "vi": "Có thể nào, có thể nào là cô ấy Muốn uống nước nóng...?",
+      "vi": "C-Có khi nào là do chị ấy muốn hâm nóng nước uống không ạ……?",
       "objection_links": []
     },
     {
@@ -51,7 +51,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial08_Coco005|",
       "ja": "睡眠薬で<br>一息ついてんじゃねーよ！",
       "zh": "安眠药也能<br>\n热一下更好喝是吧！",
-      "vi": "Thuốc ngủ cũng có thể Sẽ ngon hơn khi đun nóng phải không?",
+      "vi": "Ai lại rửng mỡ đi hâm nóng thuốc ngủ uống để thư giãn gân cốt bao giờ hả trời!",
       "objection_links": []
     },
     {
@@ -59,7 +59,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial08_Coco006|",
       "ja": "アリサに<br>ビンを焼く理由<br>なんてないじゃん！",
       "zh": "亚里沙她<br>\n根本没有<br>\n烤热瓶子的理由吧！",
-      "vi": "Alisa Không chút nào Lý do nên nướng chai nóng ngay bây giờ!",
+      "vi": "Con Alisa tuyệt đối chẳng có lý do quái nào để phải đi đốt cái lọ thuốc đó hết!",
       "objection_links": []
     },
     {
@@ -67,7 +67,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial08_Coco007|",
       "ja": "それより、<br>エマっちが殺そうとして<br><link=\"Objection_01_04_08_02\">反撃</link>したときの<br><link=\"Objection_01_04_08_03\">事故</link>とか……<br>マーゴの犯行を示した<br><link=\"Objection_01_04_08_04\">ダイイングメッセージ</link><br>とか……。",
       "zh": "还不如说，这是艾玛亲<br>\n对亚里沙作出<link=\"Objection_01_04_08_02\">反击</link><br>\n想要她的命的时候<br>\n产生的<link=\"Objection_01_04_08_03\">意外</link>……<br>\n或者说是指示<br>\n玛格是凶手的<br>\n<link=\"Objection_01_04_08_04\">死亡讯息</link>……",
-      "vi": "Có thể nói đây là của riêng Ema Thực hiện <link=\"Objection_01_04_08_02\"> phản công chống lại Alisa </link> Khi Coco muốn mạng sống của cô ấy Kết quả là <link=\"Objection_01_04_08_03\"> tai nạn </link>..........TAG_7 Nói cách khác, đó là một hướng dẫn Margo là của kẻ sát nhân <link=\"Objection_01_04_08_04\">Thông điệp tử vong</link>……",
+      "vi": "Nói đúng ra, đó là một <link=\"Objection_01_04_08_03\">tai nạn bất ngờ</link> xảy ra trong lúc Alisa <link=\"Objection_01_04_08_02\">phản kháng kịch liệt</link> khi bị Ema-cchi định ám sát…… hoặc đó là <link=\"Objection_01_04_08_04\">thông điệp tuyệt mệnh</link> nhằm vạch trần tội ác của mụ Margo……",
       "objection_links": [
         "Objection_01_04_08_02",
         "Objection_01_04_08_03",
@@ -79,7 +79,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial08_Coco008|",
       "ja": "そっちの方が<br>しっくりくるし！",
       "zh": "这些说法不比什么巧合<br>\n更有说服力吗！",
-      "vi": "Những tuyên bố này chẳng qua là sự trùng hợp ngẫu nhiên Thuyết phục hơn?",
+      "vi": "Giải thích theo mấy hướng đó nghe thuyết phục hơn cái giả thuyết tự sát nhảm nhí kia gấp trăm lần!",
       "objection_links": []
     },
     {
@@ -87,7 +87,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0104Trial08_Coco009|",
       "ja": "みんなグルになって<br>あてぃしのこと<br>騙そうと<br>してるんじゃ<br>ねーの！？",
       "zh": "你们<br>\n是不是<br>\n串通起来<br>\n想要骗我，<br>\n啊！？",
-      "vi": "Bạn Có phải thông đồng Muốn nói dối Coco, À!?",
+      "vi": "Có phải tất cả tụi bây đang thông đồng một giuộc với nhau để giăng bẫy lừa một mình tao không hả!?",
       "objection_links": []
     },
     {
@@ -95,7 +95,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema001|",
       "ja": "（ココちゃん、疑心暗鬼になってるみたいだ……！）",
       "zh": "（可可好像变得疑心很重……！）",
-      "vi": "(Coco dường như đã trở nên rất nghi ngờ...!)",
+      "vi": "（Coco đang chìm trong bất an và hoài nghi tất cả mọi người rồi……!）",
       "objection_links": []
     },
     {
@@ -103,7 +103,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema002|",
       "ja": "（アリサちゃんがどうして炎でビンを炙ったのか……<br>　何か説明がつきそうな証拠はないかな？）",
       "zh": "（亚里沙为什么要烧药瓶……<br>\n有没有证物可以说明这一点呢？）",
-      "vi": "(Tại sao Alisa lại đốt chai thuốc... Có bằng chứng nào để minh họa điều này không? )",
+      "vi": "（Lý do Alisa dùng lửa nướng lọ thuốc…… Liệu có vật chứng nào giải thích được điều đó không nhỉ?）",
       "objection_links": []
     },
     {
@@ -111,7 +111,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema003|",
       "ja": "（きっとアリサちゃんのことだから……<br>　無意味な事ではないと思うんだけど……）",
       "zh": "（我相信亚里沙……<br>\n她绝对不会无故做出一些没有意义的事情来……）",
-      "vi": "(Tôi tin Alisa... Cô ấy sẽ không bao giờ làm điều gì đó vô nghĩa mà không có lý do...)",
+      "vi": "（Mình tin tính cách của Alisa…… Cậu ấy tuyệt đối không đời nào làm một việc vô nghĩa không mục đích đâu……）",
       "objection_links": []
     },
     {
@@ -119,7 +119,7 @@
       "speaker_tag": "; > @choice |#0104Trial08_Choice001| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "とける",
       "zh": "想熔化瓶子",
-      "vi": "Muốn làm tan chảy cái chai",
+      "vi": "Muốn làm thủy tinh nóng chảy",
       "objection_links": []
     },
     {
@@ -127,7 +127,7 @@
       "speaker_tag": "; > @choice |#0104Trial08_Choice002| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "炙りビンになる",
       "zh": "想做炙烤药瓶",
-      "vi": "Muốn làm lọ thuốc rang",
+      "vi": "Để làm món lọ thuốc nướng",
       "objection_links": []
     },
     {
@@ -135,7 +135,7 @@
       "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:Trial",
       "ja": "戻る",
       "zh": "返回",
-      "vi": "Trở lại",
+      "vi": "Quay lại",
       "objection_links": []
     },
     {
@@ -143,7 +143,7 @@
       "speaker_tag": "; > @choice |#0104Trial08_Choice003| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "反撃の証拠はない",
       "zh": "没有证据证明反击过",
-      "vi": "Không có bằng chứng nào cho thấy có sự đánh trả",
+      "vi": "Không có bất kỳ dấu vết phản kháng nào",
       "objection_links": []
     },
     {
@@ -151,7 +151,7 @@
       "speaker_tag": "; > @choice |#0104Trial08_Choice004| button:ChoiceButtons/Trial/Objection handler:Trial",
       "ja": "事故ではない",
       "zh": "这不是意外",
-      "vi": "đây không phải là tai nạn",
+      "vi": "Đó hoàn toàn không phải là tai nạn ngẫu nhiên",
       "objection_links": []
     },
     {
@@ -159,7 +159,7 @@
       "speaker_tag": "; > @choice |#0104Trial08_Choice005| button:ChoiceButtons/Trial/Approval handler:Trial",
       "ja": "ダイイングメッセージだった",
       "zh": "这是死亡讯息",
-      "vi": "Đây là một tin nhắn chết",
+      "vi": "Đó đích thực là một thông điệp tuyệt mệnh",
       "objection_links": []
     },
     {
@@ -167,7 +167,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema004|",
       "ja": "ビンを炙るとガラスが融けるんじゃないかな……？<br>ガラスって融けると柔らかくなるよね？",
       "zh": "用高温火烧的话玻璃是不是就会熔化……？<br>\n玻璃熔化后应该就会变软对吧？",
-      "vi": "Liệu thủy tinh có tan chảy nếu đun nóng bằng lửa ở nhiệt độ cao...? Thủy tinh sẽ trở nên mềm hơn sau khi tan chảy, phải không?",
+      "vi": "Nung bằng nhiệt độ cao thì thủy tinh sẽ bị nóng chảy đúng không……? Thủy tinh khi nóng chảy ra sẽ trở nên mềm dẻo mà nhỉ?",
       "objection_links": []
     },
     {
@@ -175,7 +175,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco010|",
       "ja": "じゃあガラス融かして<br>何しようとしたってんだよ！",
       "zh": "亚里沙熔化玻璃<br>\n是想干什么啊！",
-      "vi": "Thủy tinh tan chảy của Alisa Bạn muốn làm gì!",
+      "vi": "Thế nó làm nóng chảy thủy tinh để làm cái trò trống gì hả!",
       "objection_links": []
     },
     {
@@ -183,7 +183,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema005|",
       "ja": "そ、それは……。",
       "zh": "这、这个……",
-      "vi": "Cái này, cái này...",
+      "vi": "C-Chuyện đó thì……",
       "objection_links": []
     },
     {
@@ -191,7 +191,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema006|",
       "ja": "……ガラス細工、とか……？",
       "zh": "……做玻璃工艺品，之类的……？",
-      "vi": "...Làm đồ thủ công bằng thủy tinh, những thứ như thế...?",
+      "vi": "……L-Làm đồ mỹ nghệ thủy tinh thổi chăng……?",
       "objection_links": []
     },
     {
@@ -199,7 +199,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco011|",
       "ja": "ガラス職人目指してんじゃねー！！",
       "zh": "不许说梦想做玻璃工匠！！",
-      "vi": "Đừng nói đến việc mơ làm thợ thủ công thủy tinh!!",
+      "vi": "Nó rảnh háng tới mức đi học nghề thổi thủy tinh giữa cái chốn ngục tù này chắc!!",
       "objection_links": []
     },
     {
@@ -207,7 +207,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema007|",
       "ja": "（たしかにここでガラス職人目指すのは<br>　無理があるかも……！）",
       "zh": "（困在这种地方还说她梦想当玻璃工匠，<br>\n确实有点牵强……！）",
-      "vi": "(Bị mắc kẹt ở một nơi như thế này, cô ấy vẫn nói rằng mình mơ ước trở thành một thợ thủ công thủy tinh, Đúng là có chút xa vời…! )",
+      "vi": "（Bị nhốt ở đây mà bảo đi làm thợ thủ công thủy tinh đúng là vô lý thật……!）",
       "objection_links": []
     },
     {
@@ -215,7 +215,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema008|",
       "ja": "（アリサちゃんがビンを炙る必要があった理由……<br>　それってなんなんだろう？）",
       "zh": "（亚里沙必须把药瓶烧热的理由……<br>\n到底是什么呢？）",
-      "vi": "(Lý do tại sao Alisa phải hâm nóng chai thuốc... Chính xác thì nó là gì? )",
+      "vi": "（Lý do thực sự khiến Alisa nhất định phải dùng lửa đốt chiếc lọ đó…… rốt cuộc là gì chứ?）",
       "objection_links": []
     },
     {
@@ -223,7 +223,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema009|",
       "ja": "（アリサちゃんが持っていたのは<br>　メルルちゃんから渡された睡眠薬のはず……。<br>　同じ物があるんだし、何かヒントにならないかな……？）",
       "zh": "（亚里沙拿到的药水应该就是<br>\n梅露露给她的安眠药……<br>\n我手上也有同样的东西，能在上面找到什么线索吗……？）",
-      "vi": "(Thuốc Alisa nhận được chắc hẳn là Thuốc ngủ mà Meruru đưa cho cô ấy... Trên tay tôi cũng có thứ tương tự, bạn có tìm được manh mối nào về nó không...? )",
+      "vi": "（Lọ thuốc Alisa cầm vốn là thuốc ngủ do Meruru đưa cho…… Trên tay mình cũng có lọ cùng loại, liệu có chi tiết nào làm manh mối không nhỉ……?）",
       "objection_links": []
     },
     {
@@ -231,7 +231,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema010|",
       "ja": "ビンを炙ったら【炙りビン】になるよ！",
       "zh": "把药瓶烤一下就会变成【炙烤药瓶】哦！",
-      "vi": "Nướng chai thuốc và nó sẽ biến thành [chai thuốc rang]!",
+      "vi": "Đem nung lọ thuốc thì sẽ biến thành món 【Lọ Thuốc Nướng Mỡ Hành】 đấy!",
       "objection_links": []
     },
     {
@@ -239,7 +239,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco012|",
       "ja": "なんだよ【炙りビン】って！",
       "zh": "【炙烤药瓶】是什么鬼玩意！",
-      "vi": "[Bình thuốc nướng] là cái quái gì thế!",
+      "vi": "Cái món 【Lọ Thuốc Nướng】 quỷ quái gì thế hả con kia!",
       "objection_links": []
     },
     {
@@ -247,7 +247,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco013|",
       "ja": "新しい珍味の名前かよ！",
       "zh": "是什么新式料理吗！",
-      "vi": "Đây là loại ẩm thực mới nào?",
+      "vi": "Mày đang sáng tạo ẩm thực sơn hào hải vị mới đấy à!",
       "objection_links": []
     },
     {
@@ -255,7 +255,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco014|",
       "ja": "いや、ビン炙ってもそうはなんねーし！！",
       "zh": "不对，药瓶再怎么烤也不会变成那种玩意！！",
-      "vi": "Không, lọ thuốc sẽ không bao giờ biến thành thứ đó cho dù bạn có nướng nó bao nhiêu đi chăng nữa!!",
+      "vi": "Ủa mà cái chai thủy tinh có đem nướng ngàn năm cũng không ăn được đâu nhé đồ điên!!",
       "objection_links": []
     },
     {
@@ -263,7 +263,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema011|",
       "ja": "（ココちゃん、ひとりで大騒ぎしてる……！）",
       "zh": "（可可自己一个人在那里大吵大闹……！）",
-      "vi": "(Coco đang tự mình gây ra rất nhiều tiếng ồn...!)",
+      "vi": "（Coco tự dưng làm ầm ĩ một mình luôn kìa……!）",
       "objection_links": []
     },
     {
@@ -271,7 +271,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema012|",
       "ja": "（アリサちゃんが持っていたのは<br>　メルルちゃんから渡された睡眠薬のはず……。<br>　同じ物があるんだし、何かヒントにならないかな……？）",
       "zh": "（亚里沙拿到的药水应该就是<br>\n梅露露给她的安眠药……<br>\n我手上也有同样的东西，能在上面找到什么线索吗……？）",
-      "vi": "(Thuốc Alisa nhận được chắc hẳn là Thuốc ngủ mà Meruru đưa cho cô ấy... Trên tay tôi cũng có thứ tương tự, bạn có tìm được manh mối nào về nó không...? )",
+      "vi": "（Lọ thuốc Alisa cầm vốn là thuốc ngủ do Meruru đưa cho…… Trên tay mình cũng có lọ cùng loại, liệu có chi tiết nào làm manh mối không nhỉ……?）",
       "objection_links": []
     },
     {
@@ -279,7 +279,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema013|",
       "ja": "ちょ、ちょっと待ってよココちゃん……！<br>ボクが反撃したなんてそんなこと……！<br>そもそもアリサちゃんが襲われた証拠なんてないし……！",
       "zh": "先、先等一下，可可……！<br>\n我才没有反击……！<br>\n而且本来就没有证据证明，有人袭击过亚里沙……！",
-      "vi": "Đầu tiên, hãy đợi một chút, Coco...! Tôi không đánh trả...! Và không có bằng chứng nào cho thấy có ai đã tấn công Alisa...!",
+      "vi": "K-Khoan đã nào Coco ơi……! Mình làm gì có chuyện tấn công hay phản kháng Alisa chứ……! Vốn dĩ làm gì có bằng chứng nào cho thấy Alisa bị ai đó tập kích đâu……!",
       "objection_links": []
     },
     {
@@ -287,7 +287,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco015|",
       "ja": "襲われてない証拠もないだろ！<br>お前らみんなで襲いかかったんじゃねーの！？",
       "zh": "也没有证据能证明没人袭击过她不是吗！<br>\n我猜肯定是你们合伙攻击她了对不对！？",
-      "vi": "Không có bằng chứng nào chứng minh rằng không có ai tấn công cô ấy phải không? Coco đoán bạn chắc chắn đã hợp tác để tấn công cô ấy, phải không??",
+      "vi": "Mày cũng có chứng minh được là không ai tấn công nó đâu! Khéo tụi bây hùa nhau hội đồng đánh lén nó cũng nên ấy chứ!?",
       "objection_links": []
     },
     {
@@ -295,7 +295,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco016|",
       "ja": "それならアリサが反撃して、<br>その炎がたまたまビンを熱した可能性とかも<br>あるじゃん……！",
       "zh": "受到袭击的亚里沙用火焰反击，<br>\n刚好把药瓶给烧热了，<br>\n不也有这种可能性吗……！",
-      "vi": "Alisa bị tấn công và chống trả bằng lửa, Coco vừa vô tình làm nóng lọ thuốc, Chẳng phải điều này cũng có thể sao...!",
+      "vi": "Khi bị tập kích Alisa phóng hỏa phản công, và ngọn lửa đó vô tình nung nóng lọ thuốc, chẳng phải khả năng đấy hoàn toàn có thể xảy ra sao……!",
       "objection_links": []
     },
     {
@@ -303,7 +303,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco017|",
       "ja": "あのヤンキーが……自殺だなんて……そんな……！",
       "zh": "竟然说那个太妹……自杀……怎么可能……！",
-      "vi": "Anh ta thậm chí còn nói rằng cô gái trẻ... đã tự tử... làm sao có thể...!",
+      "vi": "Bảo con đầu gấu trâu bò như nó…… đi tự sát…… làm sao có chuyện vô lý thế được……!",
       "objection_links": []
     },
     {
@@ -311,7 +311,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco018|",
       "ja": "あてぃしは信じねーぞ！！",
       "zh": "我才不会相信！！",
-      "vi": "Coco sẽ không tin điều đó!!",
+      "vi": "Bà đây đếch bao giờ tin đâu!!",
       "objection_links": []
     },
     {
@@ -319,7 +319,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema014|",
       "ja": "（ココちゃん、混乱してるみたい……！）",
       "zh": "（可可她现在好像相当混乱……！）",
-      "vi": "(Coco có vẻ khá bối rối bây giờ...!)",
+      "vi": "（Coco đang cực kỳ hoảng loạn và rối trí rồi……!）",
       "objection_links": []
     },
     {
@@ -327,7 +327,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema015|",
       "ja": "（アリサちゃんが持っていたのは<br>　メルルちゃんから渡された睡眠薬のはず……。<br>　同じ物があるんだし、何かヒントにならないかな……？）",
       "zh": "（亚里沙拿到的药水应该就是<br>\n梅露露给她的安眠药……<br>\n我手上也有同样的东西，能在上面找到什么线索吗……？）",
-      "vi": "(Thuốc Alisa nhận được chắc hẳn là Thuốc ngủ mà Meruru đưa cho cô ấy... Trên tay tôi cũng có thứ tương tự, bạn có tìm được manh mối nào về nó không...? )",
+      "vi": "（Lọ thuốc Alisa cầm vốn là thuốc ngủ do Meruru đưa cho…… Trên tay mình cũng có lọ cùng loại, liệu có chi tiết nào làm manh mối không nhỉ……?）",
       "objection_links": []
     },
     {
@@ -335,7 +335,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema016|",
       "ja": "事故の可能性なんてないよ……！<br>アリサちゃんが自分の意志でビンを炙らない限り、<br>ああはならないし――。",
       "zh": "这不可能是意外……！<br>\n只有在亚里沙故意把药瓶烧热的情况下，<br>\n现场才会变成这样——",
-      "vi": "Đây không thể nào là một tai nạn được...! Chỉ khi Alisa cố tình làm nóng lọ thuốc, Khung cảnh sẽ trở nên như thế này——",
+      "vi": "Không thể là tai nạn do phản kích được đâu……! Chỉ khi Alisa chủ động dùng ngọn lửa tập trung nung chiếc lọ thì hiện trường mới để lại dấu vết như thế――",
       "objection_links": []
     },
     {
@@ -343,7 +343,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco019|",
       "ja": "じゃあどうして炙ったかって聞いてんだよ！",
       "zh": "所以我不是在问你吗！她为什么要这样做！",
-      "vi": "Vì thế Coco không hỏi bạn! Tại sao cô ấy lại làm điều này!",
+      "vi": "Thế nên tao mới đang gặng hỏi mày đây! Lý do quái nào khiến nó phải làm thế hả!",
       "objection_links": []
     },
     {
@@ -351,7 +351,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco020|",
       "ja": "事故だの偶然だのでわけわかんない証拠残して<br>勝手に死んだなんて……！",
       "zh": "留下这种没人知道是意外还是巧合的证据，<br>\n然后一撒手就死掉……！",
-      "vi": "Để lại loại bằng chứng này mà không ai biết là tai nạn hay trùng hợp, Vậy thì anh ta sẽ chết ngay khi buông tay...!",
+      "vi": "Để lại một đống dấu vết tai nạn trùng hợp kỳ quặc khó hiểu rồi cứ thế tự tiện lăn đùng ra chết……!",
       "objection_links": []
     },
     {
@@ -359,7 +359,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco021|",
       "ja": "そんなん納得できるわけねーだろ！",
       "zh": "这谁都无法接受好不好！",
-      "vi": "Không ai có thể chấp nhận được điều này, được chứ!",
+      "vi": "Làm sao tao có thể nuốt trôi nổi cái chuyện phi lý như thế chứ hả!",
       "objection_links": []
     },
     {
@@ -367,7 +367,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema017|",
       "ja": "（ココちゃん、混乱してるみたい……！）",
       "zh": "（可可她现在好像相当混乱……！）",
-      "vi": "(Coco có vẻ khá bối rối bây giờ...!)",
+      "vi": "（Coco đang cực kỳ hoảng loạn và rối trí rồi……!）",
       "objection_links": []
     },
     {
@@ -375,7 +375,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema018|",
       "ja": "（アリサちゃんが持っていたのは<br>　メルルちゃんから渡された睡眠薬のはず……。<br>　同じ物があるんだし、何かヒントにならないかな……？）",
       "zh": "（亚里沙拿到的药水应该就是<br>\n梅露露给她的安眠药……<br>\n我手上也有同样的东西，能在上面找到什么线索吗……？）",
-      "vi": "(Thuốc Alisa nhận được chắc hẳn là Thuốc ngủ mà Meruru đưa cho cô ấy... Trên tay tôi cũng có thứ tương tự, bạn có tìm được manh mối nào về nó không...? )",
+      "vi": "（Lọ thuốc Alisa cầm vốn là thuốc ngủ do Meruru đưa cho…… Trên tay mình cũng có lọ cùng loại, liệu có chi tiết nào làm manh mối không nhỉ……?）",
       "objection_links": []
     },
     {
@@ -383,7 +383,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema019|",
       "ja": "……アリサちゃんがビンを熱した時、<br>ビンの中身は空だったはずだよ。",
       "zh": "……亚里沙用火烧药瓶的时候，<br>\n药瓶应该是空的才对。",
-      "vi": "...Khi Alisa đốt chai thuốc bằng lửa, Chai thuốc phải trống rỗng.",
+      "vi": "……Lúc Alisa dùng lửa nung nóng chiếc lọ, bên trong chiếc lọ hoàn toàn đã trống rỗng.",
       "objection_links": []
     },
     {
@@ -391,7 +391,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema020|",
       "ja": "そうじゃないと、現場に青い薬の痕跡が<br>残っているはずだからね。",
       "zh": "不然的话，案发现场里肯定会留下<br>\n药水的蓝色痕迹。",
-      "vi": "Nếu không, chắc chắn sẽ bị bỏ lại hiện trường vụ án Dấu vết màu xanh của lọ thuốc.",
+      "vi": "Bởi vì nếu trong lọ vẫn còn thuốc, thì khi nổ tung tại hiện trường chắc chắn phải vương vãi vệt màu xanh lam của dung dịch.",
       "objection_links": []
     },
     {
@@ -399,7 +399,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco022|",
       "ja": "はぁ！？ だからどーしたんだよ！<br>それがいったい――！",
       "zh": "哈啊！？那又怎样！<br>\n这到底能——！",
-      "vi": "Hà!? Vậy thì sao! Sao có thể thế này-!",
+      "vi": "Hả!? Thế thì đã làm sao chứ! Điều đó chứng minh được cái quái gì――!",
       "objection_links": []
     },
     {
@@ -407,7 +407,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema021|",
       "ja": "――だとしたら、ビンを熱した時は<br>アリサちゃんが睡眠薬を飲み干したあと。<br>……【死の間際】だったんだよ。",
       "zh": "——那就是说，用火烧药瓶，<br>\n是在亚里沙把安眠药喝光以后……<br>\n在她【弥留之际】发生的事。",
-      "vi": "---Đó là đốt chai thuốc bằng lửa, Đó là sau khi Alisa uống hết thuốc ngủ... Chuyện gì đã xảy ra với cô ấy [trên giường bệnh].",
+      "vi": "――Nghĩa là việc nung nóng lọ thuốc diễn ra sau khi Alisa đã uống cạn sạch toàn bộ chỗ thuốc ngủ đó. ……Chính vào 【Giây Phút Cận Kề Cái Chết】!",
       "objection_links": []
     },
     {
@@ -415,7 +415,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco023|",
       "ja": "……は、はぁ……？<br>な、何が言いてーの……？",
       "zh": "……哈、哈啊……？<br>\n到、到底是什么意思……？",
-      "vi": "...Ha, ha...? Đến nơi có ý nghĩa gì...?",
+      "vi": "……H-Hả……? M-Mày rốt cuộc muốn nói cái gì cơ……?",
       "objection_links": []
     },
     {
@@ -423,7 +423,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema022|",
       "ja": "アリサちゃんは死にながらボク達へのメッセージ……<br>つまり、【ダイイングメッセージ】を<br>残したのかもしれない……。",
       "zh": "这是亚里沙在临死前留给我们的信息……<br>\n也就是说，<br>\n这大概是她留下的【死亡讯息】……",
-      "vi": "Đây là lời nhắn Alisa để lại cho chúng ta trước khi cô ấy chết... Tức là Đây có lẽ là [tin nhắn tử thần] mà cô ấy để lại…",
+      "vi": "Trong cơn hấp hối trước khi lìa đời, Alisa đã cố gắng để lại một lời nhắn gửi cho chúng ta…… Đúng vậy, đó chính là 【Thông Điệp Tuyệt Mệnh】 mà cậu ấy lưu lại……",
       "objection_links": []
     },
     {
@@ -431,7 +431,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema023|",
       "ja": "アリサちゃんが睡眠薬のビンを燃やしたのは、<br>この人のことを伝えたかったんだと思う。",
       "zh": "我认为亚里沙之所以会把药瓶烧毁，<br>\n是想告诉我们事情跟这个人有关系。",
-      "vi": "Tôi nghĩ lý do Alisa đốt chai thuốc là, Họ muốn nói với chúng tôi rằng mọi chuyện có liên quan đến người này.",
+      "vi": "Lý do Alisa đốt chiếc lọ thuốc ngủ rỗng đó, là vì cậu ấy muốn truyền tải thông điệp liên quan đến người này.",
       "objection_links": []
     },
     {
@@ -439,7 +439,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema024|",
       "ja": "それは紫藤アリサちゃん……自分のことだよ。",
       "zh": "这个人就是她自己……紫藤亚里沙本人。",
-      "vi": "Người này chính là cô ấy... chính Alisa Shidou.",
+      "vi": "Đó chính là bản thân cậu ấy…… Shidou Alisa.",
       "objection_links": []
     },
     {
@@ -447,7 +447,7 @@
       "speaker_tag": "; > Margo: |#0104Trial08_Margo001|",
       "ja": "アリサちゃんが……死の間際に何を伝えようと？",
       "zh": "你想说的是……亚里沙在临死前有话想告诉我们？",
-      "vi": "Điều em muốn nói là... Alisa có điều gì muốn nói với chúng ta trước khi cô ấy chết?",
+      "vi": "Ý em là…… Alisa trong giây phút lâm chung có điều muốn nhắn nhủ lại sao?",
       "objection_links": []
     },
     {
@@ -455,7 +455,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema025|",
       "ja": "命の炎を燃やし尽くすよ……って。",
       "zh": "她想说……“我要燃尽我的生命之火”。",
-      "vi": "Cô muốn nói... \"Tôi muốn đốt cháy ngọn lửa cuộc đời mình.\"",
+      "vi": "Cậu ấy muốn bảo rằng…… \"Tao sẽ đốt cháy đến cùng ngọn lửa sinh mệnh của mình\".",
       "objection_links": []
     },
     {
@@ -463,7 +463,7 @@
       "speaker_tag": "; > Meruru: |#0104Trial08_Meruru002|",
       "ja": "い、命の炎……？<br>それで、なぜビンを焼いたのでしょうか……？",
       "zh": "生、生命之火……？<br>\n那她为什么要把药瓶烧了呢……？",
-      "vi": "Ngọn lửa của cuộc sống...? Vậy tại sao cô ấy lại đốt lọ thuốc...?",
+      "vi": "N-Ngọn lửa sinh mệnh sao ạ……? Nhưng tại sao lại phải đốt chiếc lọ thuốc cơ chứ……?",
       "objection_links": []
     },
     {
@@ -471,7 +471,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema026|",
       "ja": "……それは、もう誰にもわからない……。",
       "zh": "……其中缘由已经无法得知……",
-      "vi": "...Lý do không còn được biết nữa...",
+      "vi": "……Điều đó thì vĩnh viễn chẳng ai có thể thấu hiểu được nữa rồi……",
       "objection_links": []
     },
     {
@@ -479,7 +479,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco024|",
       "ja": "イイ感じで終わろうとすな！",
       "zh": "不许演感动落幕！",
-      "vi": "Không có diễn xuất nào được phép kết thúc cảm động!",
+      "vi": "Bớt cái trò làm ra vẻ sầu thảm xúc động để khép lại câu chuyện đi nhá!!",
       "objection_links": []
     },
     {
@@ -487,7 +487,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema027|",
       "ja": "（ちゃんと理由を考えないと……！）",
       "zh": "（我得想个说得通的理由才行……！）",
-      "vi": "(Mình phải nghĩ ra một lý do hợp lý…!)",
+      "vi": "（Mình phải suy nghĩ ra một lý do thật thỏa đáng mới được……!）",
       "objection_links": []
     },
     {
@@ -495,7 +495,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema028|",
       "ja": "（アリサちゃんは死の間際、<br>　睡眠薬のビンを燃やした……）",
       "zh": "（亚里沙在临死之际<br>\n把装过安眠药的瓶子给烧毁了……）",
-      "vi": "(Alisa trên giường bệnh Đốt chai thuốc ngủ...)",
+      "vi": "（Alisa trong cơn hấp hối trước khi chết đã đốt cháy chiếc lọ thuốc ngủ……）",
       "objection_links": []
     },
     {
@@ -503,7 +503,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema029|",
       "ja": "（それは睡眠薬に関わったあの子が<br>　原因のはずだ……！）",
       "zh": "（而原因应该是为了<br>\n跟安眠药有关系的这个人……！）",
-      "vi": "(Và lý do có lẽ là vì Người này có liên quan tới thuốc ngủ...! )",
+      "vi": "（Chắc chắn nguyên do phải xuất phát từ người có liên quan mật thiết đến lọ thuốc ngủ đó……!）",
       "objection_links": []
     },
     {
@@ -511,7 +511,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema030|",
       "ja": "それは……この人のことだよ！",
       "zh": "那就是……这个人！",
-      "vi": "Đó là...người này!",
+      "vi": "Chính là…… người này đây!",
       "objection_links": []
     },
     {
@@ -519,7 +519,7 @@
       "speaker_tag": "; > Margo: |#0104Trial08_Margo002|",
       "ja": "どうしてそうなるのかしら？",
       "zh": "你是怎么联想到这个人的？",
-      "vi": "Bạn liên hệ với người này như thế nào?",
+      "vi": "Làm sao em lại liên hệ tới người đó được vậy?",
       "objection_links": []
     },
     {
@@ -527,7 +527,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco025|",
       "ja": "適当なこと言って<br>あてぃしらをバカにしてんのか！？",
       "zh": "你是在胡说八道，<br>\n想要糊弄我们吗！？",
-      "vi": "Bạn đang nói những điều vô nghĩa, Bạn có muốn đánh lừa chúng Coco??",
+      "vi": "Mày nói lăng nhăng xằng bậy định coi tụi tao là lũ ngốc đấy à!?",
       "objection_links": []
     },
     {
@@ -535,7 +535,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema031|",
       "ja": "（そ、そんなことないのに……！）",
       "zh": "（我、我没这样想……！）",
-      "vi": "(M-mình không nghĩ vậy...!)",
+      "vi": "（M-Mình đâu có ý đó cơ chứ……!）",
       "objection_links": []
     },
     {
@@ -543,7 +543,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema032|",
       "ja": "（アリサちゃんは死の間際、<br>　睡眠薬のビンを燃やした……）",
       "zh": "（亚里沙在临死之际<br>\n把装过安眠药的瓶子给烧毁了……）",
-      "vi": "(Alisa trên giường bệnh Đốt chai thuốc ngủ...)",
+      "vi": "（Alisa trong cơn hấp hối trước khi chết đã đốt cháy chiếc lọ thuốc ngủ……）",
       "objection_links": []
     },
     {
@@ -551,7 +551,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema033|",
       "ja": "（それは睡眠薬に関わったあの子が<br>　原因のはずだ……！）",
       "zh": "（而原因应该是为了<br>\n跟安眠药有关系的这个人……！）",
-      "vi": "(Và lý do có lẽ là vì Người này có liên quan tới thuốc ngủ...! )",
+      "vi": "（Chắc chắn nguyên do phải xuất phát từ người có liên quan mật thiết đến lọ thuốc ngủ đó……!）",
       "objection_links": []
     },
     {
@@ -559,7 +559,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema034|",
       "ja": "それは氷上メルルちゃん……キミのことだ！",
       "zh": "那个人就是你……冰上梅露露！",
-      "vi": "Người đó chính là bạn... Meruru on Ice!",
+      "vi": "Người đó chính là em…… Hikami Meruru!",
       "objection_links": []
     },
     {
@@ -567,7 +567,7 @@
       "speaker_tag": "; > Meruru: |#0104Trial08_Meruru003|",
       "ja": "わっ……私ですか！？",
       "zh": "我……我吗！？",
-      "vi": "Tôi...tôi!?",
+      "vi": "E-Em…… Em sao ạ!?",
       "objection_links": []
     },
     {
@@ -575,7 +575,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco026|",
       "ja": "メ、メルちゃんが殺したってこと！？",
       "zh": "你、你是说，是小梅杀的人！？",
-      "vi": "Ý bạn là, chính Xiaomei đã giết anh ta!?",
+      "vi": "Ý mày là con bé Meru đã giết người á!?",
       "objection_links": []
     },
     {
@@ -583,7 +583,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema035|",
       "ja": "……アリサちゃんは<br>メルルちゃんが犯人だって……。",
       "zh": "……亚里沙她<br>\n其实是想……",
-      "vi": "……Alisa-chan định nói rằng Meruru-chan chính là hung thủ……",
+      "vi": "……Alisa làm như thế là vì đối với Meruru, cậu ấy muốn……",
       "objection_links": []
     },
     {
@@ -591,7 +591,7 @@
       "speaker_tag": "; > @choice |#0104Trial08_Choice006|",
       "ja": "告発しようとした",
       "zh": "揭发梅露露是凶手",
-      "vi": "Định vạch trần Meruru",
+      "vi": "Vạch trần tội ác của Meruru",
       "objection_links": []
     },
     {
@@ -599,7 +599,7 @@
       "speaker_tag": "; > @choice |#0104Trial08_Choice007|",
       "ja": "疑われるように仕向けた",
       "zh": "诱导我们怀疑梅露露是凶手",
-      "vi": "Khiến chúng ta nghi ngờ Meruru là kẻ giết người",
+      "vi": "Gài bẫy khiến mọi người nghi ngờ Meruru",
       "objection_links": []
     },
     {
@@ -607,7 +607,7 @@
       "speaker_tag": "; > @choice |#0104Trial08_Choice008|",
       "ja": "思われないようにした",
       "zh": "避免我们怀疑梅露露是凶手",
-      "vi": "Để ngăn chúng tôi nghi ngờ Meruru là kẻ giết người",
+      "vi": "Bảo vệ Meruru để không bị mọi người nghi ngờ",
       "objection_links": []
     },
     {
@@ -615,7 +615,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema036|",
       "ja": "告発しようとしたんだよ！",
       "zh": "揭发梅露露是凶手！",
-      "vi": "Vạch mặt Meruru là kẻ sát nhân!",
+      "vi": "Vạch trần Meruru chính là hung thủ!",
       "objection_links": []
     },
     {
@@ -623,7 +623,7 @@
       "speaker_tag": "; > Meruru: |#0104Trial08_Meruru004|",
       "ja": "え、ええ……！？",
       "zh": "欸，欸欸……！？",
-      "vi": "Này, này...!?",
+      "vi": "Ơ…… Hả……!?",
       "objection_links": []
     },
     {
@@ -631,7 +631,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema037|",
       "ja": "メルルちゃんからもらった睡眠薬のビンを燃やしたのは、<br>メルルちゃんが犯人だって<br>伝えようとしたんじゃないかな……！",
       "zh": "装着安眠药的药瓶是梅露露交给亚里沙的。<br>\n亚里沙把瓶子烧毁，<br>\n会不会是想告诉我们梅露露就是凶手……！",
-      "vi": "Lọ thuốc ngủ được Meruru đưa cho Alisa. Alisa đã đốt cái chai, Chẳng lẽ hắn muốn nói cho chúng ta biết Meruru chính là kẻ sát nhân sao...!",
+      "vi": "Cậu ấy đốt chiếc lọ thuốc ngủ do Meruru đưa, chẳng phải là để báo cho chúng ta biết Meruru chính là kẻ sát nhân sao……!",
       "objection_links": []
     },
     {
@@ -639,7 +639,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco027|",
       "ja": "……でもそれが本当なら、全然伝わってなくね？",
       "zh": "……如果你说的是真的，那这讯息根本就是不清不楚啊？",
-      "vi": "...Nếu những gì bạn nói là đúng thì thông điệp đơn giản là không rõ ràng, phải không?",
+      "vi": "……Cơ mà nếu đúng là thế thì cái thông điệp này mù mịt khó hiểu vãi chưởng ra ấy chứ?",
       "objection_links": []
     },
     {
@@ -647,7 +647,7 @@
       "speaker_tag": "; > Margo: |#0104Trial08_Margo003|",
       "ja": "炎を使うなら、焦げ跡で【メルルちゃん♡】って<br>直接書いておいて欲しかったわね。",
       "zh": "真希望她能直接用火焰直接烤出<br>\n【梅露露♡】几个字来呢。",
-      "vi": "Chị thực sự mong cô ấy có thể nướng nó trực tiếp bằng ngọn lửa [Meruru♡] Vài lời.",
+      "vi": "Nếu đã có ma pháp lửa trong tay, chị nghĩ em ấy cứ dùng lửa khắc luôn dòng chữ 【Bé Meruru♡】 lên sàn cho nhanh gọn lẹ.",
       "objection_links": []
     },
     {
@@ -655,7 +655,7 @@
       "speaker_tag": "; > Meruru: |#0104Trial08_Meruru005|",
       "ja": "エ、エマさん……！<br>そんな理屈……嘘ですよね……！？",
       "zh": "艾、艾玛小姐……！<br>\n你的推理……不是真的吧……！？",
-      "vi": "A-Ema...! Lý do của bạn...không đúng sự thật...!?",
+      "vi": "Ch-Chị Ema ơi……! Suy luận đó…… chắc chắn không phải thật đúng không ạ……!?",
       "objection_links": []
     },
     {
@@ -663,7 +663,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema038|",
       "ja": "（嘘だったかも……！）",
       "zh": "（应该不是真的……！）",
-      "vi": "(Có lẽ không đúng sự thật...!)",
+      "vi": "（Đúng là vô lý thật……!）",
       "objection_links": []
     },
     {
@@ -671,7 +671,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema039|",
       "ja": "（……アリサちゃんはメルルちゃんの痕跡を<br>　【燃やし尽くした】んだ）",
       "zh": "（……亚里沙把梅露露的痕迹<br>\n【全都烧没了】）",
-      "vi": "(...Alisa để lại dấu vết của Meruru [Mọi thứ bị đốt cháy])",
+      "vi": "（……Alisa đã 【thiêu rụi hoàn toàn】 mọi dấu vết liên quan đến Meruru）",
       "objection_links": []
     },
     {
@@ -679,7 +679,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema040|",
       "ja": "（ということは、アリサちゃんが伝えたかったことは……）",
       "zh": "（那就是说，亚里沙想告诉我们的是……）",
-      "vi": "(Đó là, điều Alisa muốn nói với chúng ta là...)",
+      "vi": "（Như vậy, điều mà Alisa thực sự muốn thực hiện trước lúc lâm chung là……）",
       "objection_links": []
     },
     {
@@ -687,7 +687,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema041|",
       "ja": "疑われるように仕向けたんだよ。",
       "zh": "故意让我们怀疑梅露露。",
-      "vi": "Cố tình khiến chúng tôi nghi ngờ Meruru.",
+      "vi": "Cố tình gài bẫy khiến chúng ta nghi ngờ Meruru đấy.",
       "objection_links": []
     },
     {
@@ -695,7 +695,7 @@
       "speaker_tag": "; > Margo: |#0104Trial08_Margo004|",
       "ja": "……つまり【アリサちゃんは自殺】だったのに<br>メルルちゃんを犯人に仕立てて<br>巻き添えにしようとした……ということ？",
       "zh": "……你的意思是，【亚里沙是自杀的】，<br>\n但她想拖梅露露下水，<br>\n故意制造假象诬陷梅露露是凶手……是这样吗？",
-      "vi": "...Ý em là, [Alisa đã tự sát], Nhưng cô ấy lại muốn lôi Mei Lulu vào rắc rối, Cố tình tạo ấn tượng sai lầm để coi Meruru là kẻ sát nhân...thật vậy sao?",
+      "vi": "……Tức là em muốn nói rằng 【Alisa tự sát】, nhưng lại muốn kéo Meruru chết chùm nên cố tình ngụy tạo chứng cứ vu oan giá họa cho Meruru sao?",
       "objection_links": []
     },
     {
@@ -703,7 +703,7 @@
       "speaker_tag": "; > Meruru: |#0104Trial08_Meruru006|",
       "ja": "私が無自覚に彼女を傷つけていたのだとしたら……<br>それは、悲しいです。",
       "zh": "如果是我一直在没有自觉的情况下伤害了她……<br>\n那就……太叫人伤心了。",
-      "vi": "Nếu tôi đã làm tổn thương cô ấy mà không nhận ra... Điều đó... thật đáng buồn.",
+      "vi": "Nếu trong vô thức em đã vô tình làm tổn thương chị ấy sâu sắc đến mức đó…… thì thật đau lòng quá ạ.",
       "objection_links": []
     },
     {
@@ -711,7 +711,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco028|",
       "ja": "……でもそれが本当なら、全然伝わってなくね？",
       "zh": "……如果你说的是真的，那这讯息根本就是不清不楚啊？",
-      "vi": "...Nếu những gì bạn nói là đúng thì thông điệp đơn giản là không rõ ràng, phải không?",
+      "vi": "……Cơ mà nếu đúng là thế thì cái thông điệp này mù mịt khó hiểu vãi chưởng ra ấy chứ?",
       "objection_links": []
     },
     {
@@ -727,7 +727,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco029|",
       "ja": "それならそんなまどろっこしいことせずに、<br>名前でも書いとけって話。",
       "zh": "亚里沙要真想这么做，何必绕这么大的圈子，<br>\n直接把名字写出来不就行了。",
-      "vi": "Nếu Alisa thực sự muốn làm điều này thì tại sao phải đi vòng tròn lớn như vậy, Chỉ cần viết tên của bạn trực tiếp.",
+      "vi": "Nếu con Alisa thực sự muốn hãm hại người khác thì việc quái gì phải vòng vo tam quốc thế, cứ khắc thẳng tên con nhỏ ra có phải nhanh không.",
       "objection_links": []
     },
     {
@@ -735,7 +735,7 @@
       "speaker_tag": "; > Margo: |#0104Trial08_Margo005|",
       "ja": "たしかにエマちゃんの推理……<br>納得できるとは言い難いわね。",
       "zh": "说得对，艾玛的推理……<br>\n根本没有说服力。",
-      "vi": "Bạn nói đúng, lý do của Ema... Không thuyết phục chút nào.",
+      "vi": "Đúng thế thật, suy luận vừa rồi của Ema…… khó mà khiến người khác tâm phục khẩu phục được.",
       "objection_links": []
     },
     {
@@ -743,7 +743,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema043|",
       "ja": "（ボク、勘違いしてたのかも……！）",
       "zh": "（搞不好是我误会了……！）",
-      "vi": "(Có lẽ tôi đã hiểu lầm...!)",
+      "vi": "（Chắc là mình đã hiểu lầm mất rồi……!）",
       "objection_links": []
     },
     {
@@ -751,7 +751,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema044|",
       "ja": "（……アリサちゃんはメルルちゃんの痕跡を<br>　【燃やし尽くした】んだ）",
       "zh": "（……亚里沙把梅露露的痕迹<br>\n【全都烧没了】）",
-      "vi": "(...Alisa để lại dấu vết của Meruru [Mọi thứ bị đốt cháy])",
+      "vi": "（……Alisa đã 【thiêu rụi hoàn toàn】 mọi dấu vết liên quan đến Meruru）",
       "objection_links": []
     },
     {
@@ -759,7 +759,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema045|",
       "ja": "（ということは、アリサちゃんが伝えたかったことは……）",
       "zh": "（那就是说，亚里沙想告诉我们的是……）",
-      "vi": "(Đó là, điều Alisa muốn nói với chúng ta là...)",
+      "vi": "（Như vậy, điều mà Alisa thực sự muốn thực hiện trước lúc lâm chung là……）",
       "objection_links": []
     },
     {
@@ -767,7 +767,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema046|",
       "ja": "……そうボクたちが勘違いしないよう、<br>証拠となる痕跡を消そうとしたんだ。",
       "zh": "……避免我们误解，怀疑梅露露是凶手，<br>\n所以才会想着把有可能成为证据的痕迹都销毁了。",
-      "vi": "...để tránh cho chúng tôi hiểu lầm và nghi ngờ Meruru là kẻ sát nhân, Đó là lý do tại sao tôi nghĩ đến việc tiêu hủy mọi dấu vết có thể trở thành bằng chứng.",
+      "vi": "……Cậu ấy muốn thiêu hủy mọi dấu vết có thể trở thành bằng chứng, để tránh cho chúng ta hiểu lầm và đổ tội oan cho Meruru.",
       "objection_links": []
     },
     {
@@ -775,7 +775,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema047|",
       "ja": "アリサちゃんが消したかったもの……<br>それは睡眠薬の【ラベル】だよ。",
       "zh": "而亚里沙烧毁的东西……<br>\n就是安眠药的【标签】。",
-      "vi": "Và những thứ Alisa đã đốt... Đó là [nhãn] cho thuốc ngủ.",
+      "vi": "Thứ mà Alisa muốn xóa bỏ hoàn toàn…… chính là tấm 【Nhãn Dán】 trên lọ thuốc ngủ.",
       "objection_links": []
     },
     {
@@ -783,7 +783,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco030|",
       "ja": "【ラベル】……！？",
       "zh": "【标签】……！？",
-      "vi": "[Nhãn]......!?",
+      "vi": "Tấm 【Nhãn Dán】……!?",
       "objection_links": []
     },
     {
@@ -791,7 +791,7 @@
       "speaker_tag": "; > Margo: |#0104Trial08_Margo006|",
       "ja": "……なるほどね。",
       "zh": "……原来如此。",
-      "vi": "...Chính là nó.",
+      "vi": "……Hóa ra là vậy.",
       "objection_links": []
     },
     {
@@ -799,7 +799,7 @@
       "speaker_tag": "; > Margo: |#0104Trial08_Margo007|",
       "ja": "アリサちゃんが渡された睡眠薬のビンには<br>メルルちゃんの名前が記載されていた……。",
       "zh": "亚里沙持有的安眠药药瓶上<br>\n写着梅露露的名字……",
-      "vi": "Có trên lọ thuốc ngủ mà Alisa đang cầm. Nó ghi tên Meruru...",
+      "vi": "Trên tấm nhãn dán ở lọ thuốc ngủ mà Alisa nhận được có ghi tên và chữ viết tay của Meruru……",
       "objection_links": []
     },
     {
@@ -807,7 +807,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema048|",
       "ja": "……そう。<br>アリサちゃんは死の直前、それに気付いたんだ。",
       "zh": "……没错。<br>\n亚里沙在快要失去意识的时候发现了这一点。",
-      "vi": "...đúng rồi. Alisa phát hiện ra điều này khi cô ấy sắp bất tỉnh.",
+      "vi": "……Đúng thế. Ngay trước khi mất đi ý thức vì ngấm thuốc, Alisa đã chợt nhận ra điều đó.",
       "objection_links": []
     },
     {
@@ -815,7 +815,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema049|",
       "ja": "もしそのラベルが発見されたら、<br>【アリサちゃんはメルルちゃんに毒殺された】<br>……そうボクたちが勘違いするかもしれない。",
       "zh": "如果我们发现了这张标签，<br>\n说不定我们就会误解……<br>\n【是梅露露毒杀了亚里沙】。",
-      "vi": "Nếu chúng tôi tìm thấy thẻ này, Có thể chúng ta sẽ hiểu lầm... [Chính Meruru đã đầu độc Alisa].",
+      "vi": "Nếu tấm nhãn dán đó bị tìm thấy tại hiện trường, mọi người rất có thể sẽ lầm tưởng rằng 【chính Meruru đã đầu độc sát hại Alisa】.",
       "objection_links": []
     },
     {
@@ -823,7 +823,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema050|",
       "ja": "だから咄嗟に、炎で紙のラベルを焼いたんだよ。",
       "zh": "所以在仓促间，她用火焰把标签烧毁了。",
-      "vi": "Vì vậy, cô vội vàng đốt nhãn bằng lửa.",
+      "vi": "Thế nên trong khoảnh khắc cận kề cái chết, cậu ấy đã dốc chút tàn lực dùng ngọn lửa ma pháp để đốt rụi tấm nhãn giấy đó đi.",
       "objection_links": []
     },
     {
@@ -831,7 +831,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema051|",
       "ja": "……メルルちゃんに、罪を着せないために！",
       "zh": "……她是为了避免梅露露担上莫须有的罪名！",
-      "vi": "...Cô ấy muốn ngăn Meruru khỏi bị buộc tội vô căn cứ!",
+      "vi": "……Cốt là để bảo vệ Meruru khỏi bị gán cho tội danh giết người oan uổng!",
       "objection_links": []
     },
     {
@@ -839,7 +839,7 @@
       "speaker_tag": "; > Meruru: |#0104Trial08_Meruru007|",
       "ja": "私の……ために……！？",
       "zh": "为了……我……！？",
-      "vi": "Vì...tôi...!?",
+      "vi": "Là vì…… vì em sao……!?",
       "objection_links": []
     },
     {
@@ -847,7 +847,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco031|",
       "ja": "メルちゃんを庇ったっての……！？",
       "zh": "你说她保护了小梅……！？",
-      "vi": "Anh nói cô ấy bảo vệ Tiểu Mỹ...!?",
+      "vi": "Mày bảo là con Alisa đã liều mạng che chở cho con bé Meru á……!?",
       "objection_links": []
     },
     {
@@ -855,7 +855,7 @@
       "speaker_tag": "; > Coco: |#0104Trial08_Coco032|",
       "ja": "自分が……あとちょっとで、死ぬって時なのに……！！",
       "zh": "就在自己……马上就要死掉的时候……！！",
-      "vi": "Ngay khi Coco... sắp chết...!!",
+      "vi": "Ngay trong chính cái giây phút…… bản thân nó sắp sửa tắt thở chết đi sao……!!",
       "objection_links": []
     },
     {
@@ -863,7 +863,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema052|",
       "ja": "そうだよ。<br>アリサちゃんはきっと……。",
       "zh": "说得对。<br>\n亚里沙她一定是……",
-      "vi": "Đúng vậy. Alisa chắc hẳn là...",
+      "vi": "Đúng thế đấy. Alisa chắc chắn là……",
       "objection_links": []
     },
     {
@@ -871,7 +871,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema053|",
       "ja": "誰も巻き込まずに、１人で死のうとしたんだよ……！",
       "zh": "不想牵连任何人，独自一人赴死……！",
-      "vi": "Tôi không muốn liên lụy đến ai nên tôi chết một mình…!",
+      "vi": "Cậu ấy không muốn liên lụy hay làm tổn hại đến bất kỳ ai, mà chọn cách ra đi trong cô độc một mình……!",
       "objection_links": []
     },
     {
@@ -879,7 +879,7 @@
       "speaker_tag": "; > Meruru: |#0104Trial08_Meruru008|",
       "ja": "そんな……！",
       "zh": "怎么会这样……！",
-      "vi": "Làm sao điều này có thể xảy ra...!",
+      "vi": "Trời ơi……!",
       "objection_links": []
     },
     {
@@ -887,7 +887,7 @@
       "speaker_tag": "; > Margo: |#0104Trial08_Margo008|",
       "ja": "……そう……だったのね。",
       "zh": "……应该……是这样吧。",
-      "vi": "...Nó phải thế...chính là nó.",
+      "vi": "……Hóa ra…… mọi chuyện là như thế.",
       "objection_links": []
     },
     {
@@ -895,7 +895,7 @@
       "speaker_tag": "; > Margo: |#0104Trial08_Margo009|",
       "ja": "……でもエマちゃん。<br>私にはまだ１つ気になることがあるの。",
       "zh": "……可是艾玛，<br>\n还有一点让我很在意。",
-      "vi": "...Nhưng Ema, Còn một điều nữa khiến Chị bận tâm.",
+      "vi": "……Thế nhưng Ema à, chị vẫn còn một điều trăn trở lớn trong lòng.",
       "objection_links": []
     },
     {
@@ -903,7 +903,7 @@
       "speaker_tag": "; > Ema: |#0104Trial08_Ema054|",
       "ja": "……！",
       "zh": "……！",
-      "vi": "……！",
+      "vi": "……!",
       "objection_links": []
     },
     {
@@ -911,7 +911,7 @@
       "speaker_tag": "; > Margo: |#0104Trial08_Margo010|",
       "ja": "それはね……動機よ。",
       "zh": "那就是……动机。",
-      "vi": "Đó là...động lực.",
+      "vi": "Đó chính là…… Động cơ.",
       "objection_links": []
     },
     {
@@ -919,7 +919,7 @@
       "speaker_tag": "; > Margo: |#0104Trial08_Margo011|",
       "ja": "納得するためには……<br>それについて、話す必要があると思うわ。",
       "zh": "为了让所有人信服你的推理……<br>\n我觉得有必要讨论一下动机是什么。",
-      "vi": "Để thuyết phục mọi người về lý luận của em... Chị cảm thấy cần phải thảo luận về động lực là gì.",
+      "vi": "Để có thể thuyết phục mọi người hoàn toàn tin vào giả thuyết tự sát này…… Chị nghĩ chúng ta bắt buộc phải làm sáng tỏ động cơ tự kết liễu của em ấy.",
       "objection_links": []
     }
   ]
