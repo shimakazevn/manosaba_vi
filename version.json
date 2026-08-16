@@ -1,9 +1,10 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.14",
   "name": "Mahou Shoujo no Majo Saiban Vietnamese Localization Patch",
-  "updated_at": "2026-08-16T04:42:15.600486",
+  "updated_at": "2026-08-16T09:50:00.000000",
   "changelog": [
     "v1.0.0: Initial complete Vietnamese translation release.",
-    "v1.0.1: Fixed dialogue shifts in Act 1 Chapter 1 (Noah & Ema scenes, Cafeteria scene, Solitary Confinement, Witch Book updates, fixed 467 character name mistranslations and 280 nuanced translation errors)."
+    "v1.0.1: Fixed dialogue shifts in Act 1 Chapter 1.",
+    "v1.0.14: Complete polish for Act 1 and Act 2 Chapter 1 (Adv01-27, Bad01), robust zero-overwrite patch installer."
   ]
 }

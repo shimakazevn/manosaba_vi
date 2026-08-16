@@ -1,6 +1,9 @@
 """
 Create Standalone Vietnamese Localization Patch Package for Mahou Shoujo no Majo Saiban.
-Uses reliable GOTO-based batch scripts and direct root folder structure.
+STRICTLY TEXT-ONLY WITH SEPARATE PATCH DATA FOLDER (Zero-Overwrite on Unzip).
+- Zip extracts into 'Patch_Viet_Hoa/' folder alongside BAT files (does NOT overwrite manosaba_Data upon unzip).
+- Cai_Dat_Viet_Hoa.bat safely backs up original files BEFORE copying translated files.
+- Go_Cai_Dat_Viet_Hoa.bat restores 100% original files.
 """
 import os
 import sys
@@ -17,17 +20,10 @@ VERSION_FILE = os.path.join(GAME_DIR, "version.json")
 RELEASE_DIR = os.path.join(GAME_DIR, "release_patch")
 
 STANDALONE_SRC = os.path.join(GAME_DIR, "manosaba_Data", "StreamingAssets", "aa", "StandaloneWindows64")
-STANDALONE_DEST = os.path.join(RELEASE_DIR, "manosaba_Data", "StreamingAssets", "aa", "StandaloneWindows64")
+PATCH_DATA_DEST = os.path.join(RELEASE_DIR, "Patch_Viet_Hoa")
 
 PATCHED_BUNDLES = [
-    # 1. Gameplay data
-    "general-data_assets_all.bundle",
-    # 2. UI & Text
-    "general-sprites_assets_all.bundle",
-    "naninovel-ui_assets_all.bundle",
-    "general-managedtext_assets_all.bundle",
-    "general-localization-zhhans-text_assets_all.bundle",
-    # 3. 24 Script Bundles
+    # 24 Script Bundles ONLY
     "general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle",
     "general-localization-zhhans-scripts-act01_chapter01_trial_assets_all.bundle",
     "general-localization-zhhans-scripts-act01_chapter02_advbad_assets_all.bundle",
@@ -54,242 +50,224 @@ PATCHED_BUNDLES = [
     "general-localization-zhhans-scripts-system_assets_all.bundle",
 ]
 
-def load_or_bump_version(bump=False):
+def get_current_version():
     if os.path.exists(VERSION_FILE):
         with open(VERSION_FILE, "r", encoding="utf-8") as f:
             vdata = json.load(f)
-    else:
-        vdata = {"version": "1.0.0", "name": "Mahou Shoujo no Majo Saiban Vietnamese Patch", "changelog": []}
+            return vdata.get("version", vdata.get("patch_version", "1.0.14"))
+    return "1.0.14"
 
-    if bump:
-        parts = vdata["version"].split(".")
-        if len(parts) == 3:
-            parts[2] = str(int(parts[2]) + 1)
-        elif len(parts) == 2:
-            parts.append("1")
+def create_patch():
+    version = get_current_version()
+
+    print("==================================================")
+    print(f"  CREATING ZERO-OVERWRITE PATCH PACKAGE v{version} ")
+    print("==================================================")
+
+    # 1. Clean release directory
+    if os.path.exists(RELEASE_DIR):
+        shutil.rmtree(RELEASE_DIR)
+    os.makedirs(PATCH_DATA_DEST, exist_ok=True)
+
+    # 2. Copy the 24 script bundles into Patch_Viet_Hoa/
+    bundle_bytes = 0
+    copied_count = 0
+    for b_name in PATCHED_BUNDLES:
+        src = os.path.join(STANDALONE_SRC, b_name)
+        dst = os.path.join(PATCH_DATA_DEST, b_name)
+        if os.path.exists(src):
+            shutil.copy2(src, dst)
+            b_size = os.path.getsize(dst)
+            bundle_bytes += b_size
+            copied_count += 1
         else:
-            parts = ["1", "0", "1"]
-        vdata["version"] = ".".join(parts)
-        vdata["updated_at"] = datetime.now().isoformat()
-        with open(VERSION_FILE, "w", encoding="utf-8") as f:
-            json.dump(vdata, f, ensure_ascii=False, indent=2)
-        print(f"[*] Bumped patch version to: v{vdata['version']}")
+            print(f"[!] Warning: Missing bundle {b_name}")
 
-    return vdata["version"]
+    print(f"[+] Packaged {copied_count} Script AssetBundles into 'Patch_Viet_Hoa/' ({bundle_bytes:,} bytes)")
 
-def get_bulletproof_installer_bat(version):
-    return f"""@echo off
+    # 3. Create installer bat (Robust ANSI script with auto-detect)
+    installer_bat = f"""@echo off
 chcp 65001 >nul
-title Cài Đặt Patch Việt Hóa v{version} - Mahou Shoujo no Majo Saiban
-color 0A
-
-echo =======================================================================
-echo        CÀI ĐẶT BẢN DỊCH TIẾNG VIỆT - MAHOU SHOUJO NO MAJO SAIBAN
-echo                            Phiên bản: v{version}
-echo =======================================================================
+title Cai Dat Ban Dich Tieng Viet v{version}
+echo ========================================================
+echo   CAI DAT BAN DICH VIET HOA v{version} (TEXT-ONLY)
+echo ========================================================
 echo.
 
 set "SCRIPT_DIR=%~dp0"
-set "GAME_ROOT=%SCRIPT_DIR%"
+set "GAME_DIR=%SCRIPT_DIR%.."
+for %%I in ("%GAME_DIR%") do set "GAME_DIR=%%~fI"
 
-if exist "%SCRIPT_DIR%manosaba.exe" goto FOUND_GAME
-if exist "%SCRIPT_DIR%..\\manosaba.exe" (
-    set "GAME_ROOT=%SCRIPT_DIR%..\\"
-    goto FOUND_GAME
+if not exist "%GAME_DIR%\\manosaba.exe" (
+    set "GAME_DIR=%CD%"
 )
 
-:NOT_FOUND
-color 0C
-echo [!] KHÔNG TÌM THẤY FILE GAME (manosaba.exe)!
-echo.
-echo CÁCH CÀI ĐẶT CỰC KỲ ĐƠN GIẢN:
-echo   Cách 1: KÉO THẢ toàn bộ thư mục 'manosaba_Data' và file 'GameAssembly.dll'
-echo           vào thư mục cài đặt gốc của game (nơi chứa file manosaba.exe).
-echo   Cách 2: Giải nén toàn bộ tệp ZIP này vào thư mục chứa game rồi chạy lại file này.
-echo.
-pause
-exit /b 1
-
-:FOUND_GAME
-echo [*] Đã nhận diện thư mục game tại: %GAME_ROOT%
-echo [*] Đang tạo thư mục sao lưu 'backup_goc'...
-if not exist "%GAME_ROOT%backup_goc" mkdir "%GAME_ROOT%backup_goc"
-if not exist "%GAME_ROOT%backup_goc\\StandaloneWindows64" mkdir "%GAME_ROOT%backup_goc\\StandaloneWindows64"
-
-if exist "%GAME_ROOT%GameAssembly.dll" (
-    if not exist "%GAME_ROOT%backup_goc\\GameAssembly.dll" (
-        copy /Y "%GAME_ROOT%GameAssembly.dll" "%GAME_ROOT%backup_goc\\GameAssembly.dll" >nul
-        echo [+] Đã sao lưu GameAssembly.dll gốc.
-    )
-)
-
-set "DEST_DIR=%GAME_ROOT%manosaba_Data\\StreamingAssets\\aa\\StandaloneWindows64"
-set "SRC_DIR=%SCRIPT_DIR%manosaba_Data\\StreamingAssets\\aa\\StandaloneWindows64"
-
-echo [*] Đang sao lưu và cài đặt các AssetBundles Việt Hóa...
-
-if not exist "%DEST_DIR%" (
-    echo [!] Lỗi: Không tìm thấy thư mục StandaloneWindows64 của game!
-    pause
-    exit /b 1
-)
-
-xcopy /Y /S /E "%SCRIPT_DIR%manosaba_Data\\*" "%GAME_ROOT%manosaba_Data\\"
-if exist "%SCRIPT_DIR%GameAssembly.dll" (
-    copy /Y "%SCRIPT_DIR%GameAssembly.dll" "%GAME_ROOT%GameAssembly.dll"
-)
-
-echo.
-echo =======================================================================
-echo [SUCCESS] CÀI ĐẶT BẢN VIỆT HÓA v{version} THÀNH CÔNG 100%!
-echo.
-echo * HƯỚNG DẪN TRONG GAME:
-echo   1. Mở game bằng file manosaba.exe
-echo   2. Vào Cài đặt (Options) -> Chọn ngôn ngữ 'Tiếng Việt'.
-echo   3. Thưởng thức game trọn vẹn bằng Tiếng Việt!
-echo =======================================================================
-echo.
-pause
-"""
-
-def get_bulletproof_uninstaller_bat():
-    return """@echo off
-chcp 65001 >nul
-title Gỡ Cài Đặt Patch Việt Hóa - Mahou Shoujo no Majo Saiban
-color 0C
-
-echo =======================================================================
-echo          GỠ CÀI ĐẶT BẢN VIỆT HÓA - MAHOU SHOUJO NO MAJO SAIBAN
-echo =======================================================================
-echo.
-
-set "SCRIPT_DIR=%~dp0"
-set "GAME_ROOT=%SCRIPT_DIR%"
-
-if exist "%SCRIPT_DIR%manosaba.exe" goto FOUND_UNINSTALL
-if exist "%SCRIPT_DIR%..\\manosaba.exe" (
-    set "GAME_ROOT=%SCRIPT_DIR%..\\"
-    goto FOUND_UNINSTALL
-)
-
-:FOUND_UNINSTALL
-if not exist "%GAME_ROOT%backup_goc" (
-    echo [!] Không tìm thấy thư mục sao lưu 'backup_goc'!
-    echo     Không thể tự động khôi phục game về nguyên bản.
+if not exist "%GAME_DIR%\\manosaba.exe" (
+    echo [LOI] Khong tim thay manosaba.exe!
+    echo       Thu muc da kiem tra: %GAME_DIR%
     echo.
     pause
     exit /b 1
 )
 
-echo [*] Đang khôi phục lại các file gốc của game...
-if exist "%GAME_ROOT%backup_goc\\GameAssembly.dll" (
-    copy /Y "%GAME_ROOT%backup_goc\\GameAssembly.dll" "%GAME_ROOT%GameAssembly.dll" >nul
-    echo [+] Đã khôi phục: GameAssembly.dll
+echo [*] Thu muc game: %GAME_DIR%
+
+set "PATCH_DIR=%SCRIPT_DIR%Patch_Viet_Hoa"
+if not exist "%PATCH_DIR%" (
+    if exist "%GAME_DIR%\\Patch_Viet_Hoa" (
+        set "PATCH_DIR=%GAME_DIR%\\Patch_Viet_Hoa"
+    )
+)
+if not exist "%PATCH_DIR%" (
+    echo [LOI] Khong tim thay thu muc Patch_Viet_Hoa!
+    echo       Duong dan kiem tra: %PATCH_DIR%
+    echo.
+    pause
+    exit /b 1
 )
 
-set "DEST_DIR=%GAME_ROOT%manosaba_Data\\StreamingAssets\\aa\\StandaloneWindows64"
-if exist "%GAME_ROOT%backup_goc\\StandaloneWindows64" (
-    copy /Y "%GAME_ROOT%backup_goc\\StandaloneWindows64\\*.bundle" "%DEST_DIR%\\" >nul
-    echo [+] Đã khôi phục các AssetBundles gốc.
+set "TARGET_DIR=%GAME_DIR%\\manosaba_Data\\StreamingAssets\\aa\\StandaloneWindows64"
+set "BACKUP_DIR=%TARGET_DIR%\\backup_goc"
+
+if not exist "%TARGET_DIR%" (
+    echo [LOI] Khong tim thay thu muc du lieu game!
+    echo       Kiem tra: %TARGET_DIR%
+    echo.
+    pause
+    exit /b 1
 )
 
 echo.
-echo =======================================================================
-echo [SUCCESS] ĐÃ KHÔI PHỤC GAME VỀ NGUYÊN BẢN GỐC THÀNH CÔNG!
-echo =======================================================================
+echo [*] BUOC 1: Sao luu 24 file kich ban goc vao backup_goc...
+if not exist "%BACKUP_DIR%" (
+    mkdir "%BACKUP_DIR%" >nul 2>&1
+    for %%F in (
+"""
+    for b in PATCHED_BUNDLES:
+        installer_bat += f'        "{b}"\n'
+    
+    installer_bat += f"""    ) do (
+        if exist "%TARGET_DIR%\\%%~F" (
+            copy /Y "%TARGET_DIR%\\%%~F" "%BACKUP_DIR%\\%%~F" >nul
+        )
+    )
+    echo [+] Da sao luu 24 file goc thanh cong!
+) else (
+    echo [*] Thu muc backup_goc da ton tai - giu nguyen ban backup dau tien.
+)
+
+echo.
+echo [*] BUOC 2: Cai dat 24 file Tieng Viet...
+copy /Y "%PATCH_DIR%\\*.bundle" "%TARGET_DIR%\\" >nul
+
+if %errorlevel% neq 0 (
+    echo [LOI] Copy file that bai! Kiem tra quyen ghi vao thu muc game.
+    echo.
+    pause
+    exit /b 1
+)
+
+echo.
+echo ========================================================
+echo [THANH CONG] Da cai dat Tieng Viet va Sao luu hoan tat!
+echo ========================================================
+echo.
+echo - Go bo Viet Hoa / Khoi phuc ban goc: Chay [Go_Cai_Dat_Viet_Hoa.bat]
+echo - Vao game (manosaba.exe) -^> Cai dat -^> Ngon ngu -^> Chon [Gian the Trung] de choi.
 echo.
 pause
 """
+    with open(os.path.join(RELEASE_DIR, "Cai_Dat_Viet_Hoa.bat"), "w", encoding="ascii", errors="ignore") as f:
+        f.write(installer_bat)
 
-def get_readme_txt(version):
-    return f"""===============================================================================
-               BẢN DỊCH VIỆT NGỮ - MAHOU SHOUJO NO MAJO SAIBAN
-                    (Phiên Tòa Xét Xử Ma Nữ Của Ma Pháp Thiếu Nữ)
-                                Phiên bản: v{version}
-===============================================================================
+    # 4. Create uninstaller / restore bat
+    uninstaller_bat = """@echo off
+chcp 65001 >nul
+title Khoi Phuc Kich Ban Goc (Go Bo Viet Hoa)
+echo ========================================================
+echo   KHOI PHUC KICH BAN GOC (RESTORE ORIGINAL SCRIPTS)
+echo ========================================================
+echo.
 
-1. GIỚI THIỆU:
-   - Bản dịch tiếng Việt hoàn chỉnh 100% toàn bộ kịch bản, lời thoại, tranh luận, 
-     Sổ Tay Phù Thủy, Manh mối, Bằng chứng, Luật lệ, Bản đồ và Giao diện đồ họa.
+set "SCRIPT_DIR=%~dp0"
+set "GAME_DIR=%SCRIPT_DIR%.."
+for %%I in ("%GAME_DIR%") do set "GAME_DIR=%%~fI"
 
-2. CÁCH CÀI ĐẶT (CHỌN 1 TRONG 2 CÁCH CỰC KỲ DỄ DÀNG):
-   
-   【CÁCH 1 - KÉO THẢ NHANH NHẤT (KHUYÊN DÙNG)】:
-   - Giải nén toàn bộ tệp ZIP này trực tiếp vào thư mục cài game (nơi chứa file manosaba.exe).
-   - Khi Windows hỏi "Replace or Skip Files", chọn "Replace the files in the destination" (Chép đè).
-   - Mở game -> Vào Cài đặt (Options) -> Chọn ngôn ngữ 'Tiếng Việt'.
+if not exist "%GAME_DIR%\\manosaba.exe" (
+    set "GAME_DIR=%CD%"
+)
 
-   【CÁCH 2 - DÙNG SCRIPT TỰ ĐỘNG SAO LƯU】:
-   - Giải nén tệp ZIP vào thư mục game.
-   - Nhấp đúp chạy file 'Cai_Dat_Viet_Hoa.bat'.
-   - Mở game -> Vào Cài đặt (Options) -> Chọn ngôn ngữ 'Tiếng Việt'.
+if not exist "%GAME_DIR%\\manosaba.exe" (
+    echo [LOI] Khong tim thay manosaba.exe!
+    echo       Thu muc da kiem tra: %GAME_DIR%
+    echo.
+    pause
+    exit /b 1
+)
 
-3. CÁCH GỠ PATCH (NẾU MUỐN):
-   - Chạy file 'Go_Viet_Hoa.bat' trong thư mục game để khôi phục lại game gốc.
+set "TARGET_DIR=%GAME_DIR%\\manosaba_Data\\StreamingAssets\\aa\\StandaloneWindows64"
+set "BACKUP_DIR=%TARGET_DIR%\\backup_goc"
 
-Chúc các bạn có những giây phút trải nghiệm game thật tuyệt vời!
-===============================================================================
+if not exist "%BACKUP_DIR%" (
+    echo [THONG BAO] Khong tim thay thu muc backup_goc.
+    echo             Game dang o ban goc (chua cai Viet Hoa).
+    echo.
+    pause
+    exit /b 0
+)
+
+echo [*] Dang khoi phuc 24 kich ban goc tu backup_goc...
+copy /Y "%BACKUP_DIR%\\*.bundle" "%TARGET_DIR%\\" >nul
+
+echo.
+echo ========================================================
+echo [THANH CONG] Game da duoc khoi phuc 100%% ve ban goc sach!
+echo ========================================================
+echo.
+pause
 """
+    with open(os.path.join(RELEASE_DIR, "Go_Cai_Dat_Viet_Hoa.bat"), "w", encoding="ascii", errors="ignore") as f:
+        f.write(uninstaller_bat)
 
-def create_patch(bump=False):
-    version = load_or_bump_version(bump)
-    print("==================================================")
-    print(f"       CREATING VIETNAMESE PATCH PACKAGE v{version} ")
-    print("==================================================")
-    
-    if os.path.exists(RELEASE_DIR):
-        shutil.rmtree(RELEASE_DIR)
-    os.makedirs(STANDALONE_DEST, exist_ok=True)
+    readme_txt = f"""============================================================
+BẢN DỊCH VIỆT HÓA THUẦN KỊCH BẢN (TEXT-ONLY) v{version}
+Mahou Shoujo no Majo Saiban
+============================================================
 
-    # 1. Copy GameAssembly.dll directly to root of release folder
-    dll_src = os.path.join(GAME_DIR, "GameAssembly.dll")
-    if os.path.exists(dll_src):
-        shutil.copy2(dll_src, os.path.join(RELEASE_DIR, "GameAssembly.dll"))
-        print(f"[+] Packaged GameAssembly.dll ({os.path.getsize(dll_src):,} bytes)")
+* ĐẶC ĐIỂM BẢN TEXT-ONLY NÀY:
+- Giải nén KHÔNG BAO GIỜ bị ghi đè dữ liệu game (file dịch nằm riêng trong thư mục Patch_Viet_Hoa).
+- An toàn tuyệt đối 100%, không gây crash game (không đụng DLL, không đụng Texture UI).
+- TỰ ĐỘNG SAO LƯU (BACKUP) các file gốc khi chạy file Cai_Dat_Viet_Hoa.bat.
 
-    # 2. Copy Patched AssetBundles into manosaba_Data/...
-    cnt = 0
-    total_size = 0
-    for b_name in PATCHED_BUNDLES:
-        src_bundle = os.path.join(STANDALONE_SRC, b_name)
-        if os.path.exists(src_bundle):
-            dest_bundle = os.path.join(STANDALONE_DEST, b_name)
-            shutil.copy2(src_bundle, dest_bundle)
-            sz = os.path.getsize(src_bundle)
-            total_size += sz
-            cnt += 1
-        else:
-            print(f"[!] Warning: Bundle not found: {b_name}")
+* CÁCH CÀI ĐẶT:
+1. Giải nén file ZIP vào thư mục game (nơi có file manosaba.exe).
+2. Chạy file `Cai_Dat_Viet_Hoa.bat` (Script sẽ tự động copy file gốc vào backup_goc, sau đó mới cài đặt Tiếng Việt).
+3. Mở game -> Cài đặt -> Ngôn ngữ -> Chọn [简体中文] để chơi bằng Tiếng Việt.
 
-    print(f"[+] Packaged {cnt} AssetBundles ({total_size:,} bytes)")
-
-    # 3. Write Installer, Uninstaller, Readme
-    with open(os.path.join(RELEASE_DIR, "Cai_Dat_Viet_Hoa.bat"), "w", encoding="utf-8") as f:
-        f.write(get_bulletproof_installer_bat(version))
-    with open(os.path.join(RELEASE_DIR, "Go_Viet_Hoa.bat"), "w", encoding="utf-8") as f:
-        f.write(get_bulletproof_uninstaller_bat())
+* CÁCH GỠ BỎ / KHÔI PHỤC BẢN GỐC:
+- Chạy file `Go_Cai_Dat_Viet_Hoa.bat` bất kỳ lúc nào để khôi phục 100% nguyên bản gốc của game.
+"""
     with open(os.path.join(RELEASE_DIR, "HUONG_DAN_SU_DUNG.txt"), "w", encoding="utf-8") as f:
-        f.write(get_readme_txt(version))
+        f.write(readme_txt)
 
-    print(f"[+] Created Installer & Documentation scripts for v{version}.")
+    # 5. Create ZIP package
+    zip_filename = f"Mahou_Shoujo_VietHoa_Patch_v{version}.zip"
+    zip_path = os.path.join(GAME_DIR, zip_filename)
+    print(f"[*] Compressing into ZIP archive: {zip_path}...")
 
-    # 4. Create ZIP Archive
-    zip_filename = os.path.join(GAME_DIR, f"Mahou_Shoujo_VietHoa_Patch_v{version}.zip")
-    print(f"[*] Compressing into ZIP archive: {zip_filename}...")
-    with zipfile.ZipFile(zip_filename, "w", zipfile.ZIP_DEFLATED) as zipf:
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zipf:
         for root, dirs, files in os.walk(RELEASE_DIR):
             for file in files:
-                abs_path = os.path.join(root, file)
-                rel_path = os.path.relpath(abs_path, RELEASE_DIR)
-                zipf.write(abs_path, rel_path)
+                abs_file = os.path.join(root, file)
+                rel_file = os.path.relpath(abs_file, RELEASE_DIR)
+                zipf.write(abs_file, rel_file)
 
-    zip_size = os.path.getsize(zip_filename)
-    print(f"\n==================================================")
-    print(f"[SUCCESS] Patch v{version} created successfully!")
+    zip_size = os.path.getsize(zip_path)
+    print("==================================================")
+    print(f"[SUCCESS] Safe Patch Package created successfully!")
     print(f"  - Release Folder: {RELEASE_DIR}")
-    print(f"  - Release ZIP:    {zip_filename} ({zip_size:,} bytes / {zip_size/(1024*1024):.2f} MB)")
-    print(f"==================================================")
+    print(f"  - Release ZIP:    {zip_path} ({zip_size:,} bytes / {zip_size/(1024*1024):.2f} MB)")
+    print("==================================================")
 
 if __name__ == "__main__":
-    bump = "--bump" in sys.argv
-    create_patch(bump=bump)
+    create_patch()

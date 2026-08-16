@@ -9,7 +9,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial05_Hanna001|",
       "ja": "わたくしたち１時間ほど、<br>ず～っと<br>自分たちの部屋に<br><link=\"Objection_02_01_05_01\">いました</link>わ！",
       "zh": "我们一直<br>\n<link=\"Objection_02_01_05_01\">待在</link>自己的<br>\n房间里，<br>\n足足有一个小时！",
-      "vi": "Chúng ta luôn có <link=\"Objection_02_01_05_01\"> ở tại </link> của chính Bổn tiểu thư Trong phòng, Trọn một giờ!",
+      "vi": "Bọn ta đã <link=\"Objection_02_01_05_01\">ở lì</link> trong phòng của mình<br>suốt cả một tiếng đồng hồ<br>liền đó nha!",
       "objection_links": [
         "Objection_02_01_05_01"
       ]
@@ -19,7 +19,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial05_Hanna002|",
       "ja": "わたくしが<br>部屋を出ていないのは、<br>ココさんとミリアさん、<br>レイアさんが<link=\"Objection_02_01_05_02\">証明できる</link>と<br>思いますの！",
       "zh": "我没有离开房间<br>\n这一点，<br>\n可可、米莉亚<br>\n还有蕾雅<br>\n都<link=\"Objection_02_01_05_02\">可以作证</link>！",
-      "vi": "Bổn tiểu thư không rời khỏi phòng Cái này, Coco, Miria Và Leia Tất cả <link=\"Objection_02_01_05_02\"> đều có thể làm chứng</link>!",
+      "vi": "Chuyện bổn tiểu thư<br>chưa từng bước chân ra khỏi phòng,<br>cả Coco-san, Miria-san<br>lẫn Leia-san đều <link=\"Objection_02_01_05_02\">có thể làm chứng</link> nha!",
       "objection_links": [
         "Objection_02_01_05_02"
       ]
@@ -29,7 +29,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0201Trial05_Leia001|",
       "ja": "たしかにその通りだね。<br>それに……。",
       "zh": "她说的没错。<br>\n而且……",
-      "vi": "Cô ấy đã đúng. Và...",
+      "vi": "Đúng như Hanna nói đấy.<br>Vả lại……",
       "objection_links": []
     },
     {
@@ -37,7 +37,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial05_Miria001|",
       "ja": "おじさんたちは、<br>現場の部屋の方から<br><link=\"Objection_02_01_05_03\">音</link>が聞こえてきたから<br>そっちに向かったんだよ。",
       "zh": "大叔我们是因为<br>\n听到现场房间那边<br>\n传来了<link=\"Objection_02_01_05_03\">声响</link><br>\n才过去的。",
-      "vi": "Mấy chú ấy nghe thấy có <link=\"Objection_02_01_05_03\">tiếng động</link> phát ra từ phía căn phòng hiện trường nên mới chạy qua đó đấy ạ.",
+      "vi": "Mấy chú cháu này nghe thấy<br>có <link=\"Objection_02_01_05_03\">tiếng động lạ</link> vang lên từ phía phòng hiện trường<br>nên mới hớt hải chạy qua đó đấy á.",
       "objection_links": [
         "Objection_02_01_05_03"
       ]
@@ -47,7 +47,7 @@
       "speaker_tag": "; > @printDebate pos:30,50 roll:-4 |#0201Trial05_Coco001|",
       "ja": "そしたら<br>死体を見つけたってわけ。",
       "zh": "接着我们<br>\n就发现了尸体。",
-      "vi": "Sau đó chúng Coco Thi thể được phát hiện.",
+      "vi": "Thế là bọn tao đập mắt ngay<br>vào cái xác chết nằm chình ình.",
       "objection_links": []
     },
     {
@@ -55,7 +55,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial05_Leia002|",
       "ja": "しかし誰とも<br>すれ違ってないし、<br>立ち去る人物も<br>いなかった……。",
       "zh": "但是，我们并没有<br>\n和任何人擦肩而过，<br>\n也没有看到<br>\n有人离开……",
-      "vi": "Tuy nhiên, chúng tôi không có Đi ngang qua bất kỳ ai, Cũng không thấy Có người đã rời đi...",
+      "vi": "Thế nhưng trên đường đi,<br>bọn tôi không hề lướt qua bất kỳ ai,<br>cũng chẳng thấy bóng dáng kẻ nào<br>rời khỏi hiện trường cả……",
       "objection_links": []
     },
     {
@@ -63,7 +63,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial05_Leia003|",
       "ja": "つまり、<br>その場にいたヒロくん……<br>キミにしか犯行は<br>不可能なんだよ！",
       "zh": "也就是说，<br>\n只有在场的希罗……<br>\n只有你才有可能<br>\n是凶手！",
-      "vi": "Tức là Chỉ có Hiro hiện diện... Chỉ bạn mới có thể Đó là kẻ giết người!",
+      "vi": "Nói cách khác,<br>chỉ có người đang ở ngay tại chỗ như Hiro-kun……<br>chỉ có em mới là kẻ duy nhất<br>có thể gây án mà thôi!",
       "objection_links": []
     },
     {
@@ -71,7 +71,7 @@
       "speaker_tag": "; > @printDebate pos:70,50 roll:4 |#0201Trial05_Leia004|",
       "ja": "つまり、その場にいて<br>ガラスの割れる音を<br>鳴らすことができたのは……<br>ヒロくん、キミだけだ！<br><link=\"Objection_02_01_05_04\">キミにしか</link>犯行は<br>不可能なんだよ！",
       "zh": "换言之，在场的人之中，<br>\n能够制造出<br>\n玻璃碎裂声音的人……<br>\n只有你，希罗！<br>\n<link=\"Objection_02_01_05_04\">只有你</link>才可能<br>\n是凶手！",
-      "vi": "Nói cách khác, trong số những người có mặt, Có thể tạo Người tạo ra tiếng kính vỡ... Chỉ có bạn, Hiro! <link=\"Objection_02_01_05_04\">Chỉ bạn </link> mới có thể Đó là kẻ giết người!",
+      "vi": "Nói cách khác, kẻ có mặt tại hiện trường<br>để tạo ra tiếng thủy tinh vỡ toang kia……<br>chỉ có thể là em, Hiro-kun!<br><link=\"Objection_02_01_05_04\">Chỉ có duy nhất em</link> mới có thể<br>thực hiện tội ác đó!",
       "objection_links": [
         "Objection_02_01_05_04"
       ]
@@ -81,7 +81,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro001|",
       "ja": "（どうあがいても、<br>　容疑者の立場を免れることはできないようだ）",
       "zh": "（看来无论怎么挣扎，<br>\n我都无法摆脱嫌疑人的身份了）",
-      "vi": "(Dường như dù bạn có đấu tranh đến đâu, Tôi thậm chí không thể rũ bỏ danh tính của nghi phạm)",
+      "vi": "（Xem ra dẫu có giãy giụa thế nào, mình cũng không thể trút bỏ thân phận nghi phạm số một）",
       "objection_links": []
     },
     {
@@ -89,7 +89,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro002|",
       "ja": "（しかしいくつか気になる点はあった。<br>　たとえそれが小さな<ruby=\"ごびゅう\">誤謬</ruby>であれ、<br>　見逃すわけにはいかない）",
       "zh": "（但是，还是有几个地方让我非常在意。<br>\n哪怕只是微小的疑点，<br>\n我也不能轻易放过）",
-      "vi": "(Tuy nhiên, vẫn còn một số chỗ khiến tôi thực sự lo lắng. Ngay cả khi chỉ có một chút nghi ngờ, Tôi cũng không thể để nó trôi qua dễ dàng được)",
+      "vi": "（Thế nhưng trong lời khai của họ có vài điểm hết sức lấn cấn. Dẫu chỉ là một sai lầm ngụy biện nhỏ nhoi, mình cũng tuyệt đối không được bỏ qua）",
       "objection_links": []
     },
     {
@@ -97,7 +97,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro003|",
       "ja": "（私以外でも犯行が可能だったと、<br>　可能性を示すんだ……！）",
       "zh": "（我必须想办法证明，除了我以外，<br>\n还有其他人也有作案的可能性……！）",
-      "vi": "(Tôi phải tìm cách chứng minh điều đó, ngoài tôi ra, Có thể có những người khác đã phạm tội...! )",
+      "vi": "（Mình phải chứng minh rằng ngoài mình ra, vẫn còn kẻ khác có đủ điều kiện ra tay……!）",
       "objection_links": []
     },
     {
@@ -105,7 +105,7 @@
       "speaker_tag": "; > @choice |#0201Trial05_Choice001| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
       "ja": "もっと前に殺していた",
       "zh": "更早之前就杀害了",
-      "vi": "Bị giết trước đó",
+      "vi": "Nạn nhân đã bị sát hại từ trước đó rất lâu",
       "objection_links": []
     },
     {
@@ -113,7 +113,7 @@
       "speaker_tag": "; > @choice |#Common_Return| button:ChoiceButtons/Trial/Cancel handler:TrialHiro",
       "ja": "戻る",
       "zh": "返回",
-      "vi": "Trở lại",
+      "vi": "Quay lại",
       "objection_links": []
     },
     {
@@ -121,7 +121,7 @@
       "speaker_tag": "; > @choice |#0201Trial05_Choice002| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
       "ja": "４人が口裏を合わせている",
       "zh": "四人串通好了",
-      "vi": "Bốn người đã thông đồng",
+      "vi": "Cả bốn người đã thông đồng dựng chuyện",
       "objection_links": []
     },
     {
@@ -129,7 +129,7 @@
       "speaker_tag": "; > @choice |#0201Trial05_Choice003| button:ChoiceButtons/Trial/Question handler:TrialHiro",
       "ja": "どんな音だった？",
       "zh": "是什么声音？",
-      "vi": "Âm thanh đó là gì?",
+      "vi": "Âm thanh đó phát ra như thế nào?",
       "objection_links": []
     },
     {
@@ -137,7 +137,7 @@
       "speaker_tag": "; > @choice |#0201Trial05_Choice004| button:ChoiceButtons/Trial/Objection handler:TrialHiro",
       "ja": "誰にでも音は偽装できる",
       "zh": "任何人都可以伪造声音",
-      "vi": "Bất cứ ai cũng có thể giả giọng",
+      "vi": "Bất kỳ ai cũng có thể làm giả âm thanh đó",
       "objection_links": []
     },
     {
@@ -145,7 +145,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro004|",
       "ja": "なら、ハンナは<br>もっと前にメルルを殺していたんだ。",
       "zh": "这么说来，汉娜应该是在<br>\n更早之前就把梅露露杀了——",
-      "vi": "Vì vậy, Hanna phải ở trong Anh ta đã giết Meruru trước đó——",
+      "vi": "Nếu vậy thì chắc chắn Hanna đã sát hại Meruru từ trước đó rất lâu rồi.",
       "objection_links": []
     },
     {
@@ -153,7 +153,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro005|",
       "ja": "ココやミリア、レイアと集まる前にね。",
       "zh": "在她和可可、米莉亚、蕾雅会合之前。",
-      "vi": "Trước khi cô ấy tham gia cùng Coco, Miria và Leia.",
+      "vi": "Tức là trước khi cô ta tụ tập cùng Coco, Miria và Leia.",
       "objection_links": []
     },
     {
@@ -161,7 +161,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro006|",
       "ja": "それならアリバイも無効となる。",
       "zh": "这样的话，她的不在场证明就失效了。",
-      "vi": "Trong trường hợp này, bằng chứng ngoại phạm của cô ấy trở nên vô hiệu.",
+      "vi": "Nếu đúng như thế thì bằng chứng ngoại phạm của cô ta coi như hoàn toàn vô giá trị.",
       "objection_links": []
     },
     {
@@ -169,7 +169,7 @@
       "speaker_tag": "; > Hanna: |#0201Trial05_Hanna003|",
       "ja": "あ、ありえねーですわ！！",
       "zh": "这、这不可能啊！！",
-      "vi": "Điều này, điều này là không thể được!!",
+      "vi": "V-Vô lý hết sức, chuyện đó không thể nào xảy ra được đâu nha!!",
       "objection_links": []
     },
     {
@@ -177,7 +177,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia005|",
       "ja": "……いや、ヒロくん。<br>それは不可能だよ。",
       "zh": "……不，希罗，<br>\n那是不可能的。",
-      "vi": "...Không, Hiro, Điều đó là không thể.",
+      "vi": "……Không đâu Hiro-kun, giả thuyết đó là bất khả thi.",
       "objection_links": []
     },
     {
@@ -185,7 +185,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia006|",
       "ja": "まず死亡推定時刻は最長で１時間前……。",
       "zh": "首先，推定死亡时间最长是在一小时前……",
-      "vi": "Trước hết, thời gian được cho là chết lâu nhất là một giờ trước...",
+      "vi": "Trước hết, thời gian tử vong ước tính tối đa cũng chỉ là 1 tiếng đồng hồ trước……",
       "objection_links": []
     },
     {
@@ -193,7 +193,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia007|",
       "ja": "私たちはその１時間前から、<br>一緒に部屋にいた。",
       "zh": "而在这个一小时的期间内，<br>\n我们一直都待在一起。",
-      "vi": "Trong khoảng thời gian một giờ này, Chúng tôi luôn ở bên nhau.",
+      "vi": "Mà suốt 1 tiếng đồng hồ đó, bốn người bọn tôi luôn luôn ở cùng một chỗ trong phòng.",
       "objection_links": []
     },
     {
@@ -201,7 +201,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia008|",
       "ja": "また、部屋割りを考えても難しいんだ。",
       "zh": "而且，考虑到房间的位置关系，也很难认定这件事。",
-      "vi": "Hơn nữa, xét đến vị trí của căn phòng, rất khó để xác định vấn đề này.",
+      "vi": "Hơn nữa xét theo vị trí phân bổ các phòng thì lại càng vô lý.",
       "objection_links": []
     },
     {
@@ -209,7 +209,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia009|",
       "ja": "私たちがいたのは廊下奥の部屋……。",
       "zh": "我们所在的房间，是在走廊的最深处……",
-      "vi": "Căn phòng chúng tôi đang ở nằm ở phần sâu nhất của hành lang...",
+      "vi": "Căn phòng bọn tôi ngồi nằm ở tận cùng hành lang……",
       "objection_links": []
     },
     {
@@ -217,7 +217,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia010|",
       "ja": "仮にハンナくんが事前に<br>殺人を犯していたとしても――。",
       "zh": "就算汉娜真的<br>\n提前行凶——",
-      "vi": "Ngay cả khi Hanna thực sự Tấn công trước——",
+      "vi": "Giả sử Hanna-kun có ra tay sát hại từ trước đi chăng nữa――",
       "objection_links": []
     },
     {
@@ -225,7 +225,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia011|",
       "ja": "私たちがアンアンくんの部屋の前を通る際に<br>気付いているだろうね。",
       "zh": "在我们经过安安的房间时，<br>\n肯定会注意到才对。",
-      "vi": "Khi chúng tôi đi ngang qua phòng AnAn, Bạn chắc chắn sẽ nhận thấy nó.",
+      "vi": "Thì lúc bọn tôi đi ngang qua phòng của AnAn-kun, chắc chắn sẽ phát hiện ra điều bất thường rồi.",
       "objection_links": []
     },
     {
@@ -233,7 +233,7 @@
       "speaker_tag": "; > Hanna: |#0201Trial05_Hanna004|",
       "ja": "わたくしのアリバイは完っ璧ですわ！<br>むしろアリバイがないのは<br>ヒロさんのほうですわ～～！？",
       "zh": "我的不在场证明可是完美无缺的！<br>\n反倒是希罗你<br>\n根本没有不在场证明吧～～！？",
-      "vi": "Bằng chứng ngoại phạm của ta là hoàn hảo! Ngược lại, đó là Hiro, bạn Không có bằng chứng ngoại phạm nào cả~~!?",
+      "vi": "Chứng cứ ngoại phạm của bổn tiểu thư là hoàn hảo tuyệt đối nha! Kẻ duy nhất không có bằng chứng ngoại phạm ở đây là Hiro-san mới đúng chứ nheee~~!?",
       "objection_links": []
     },
     {
@@ -241,7 +241,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro007|",
       "ja": "（アリバイの話になると私のほうが不利か……）",
       "zh": "（说到不在场证明，确实是我这边更加不利……）",
-      "vi": "(Nói đến bằng chứng ngoại phạm, quả thực phe mình còn bất lợi hơn...)",
+      "vi": "（Cứ hễ đem bằng chứng ngoại phạm ra so kè là mình lại rơi vào thế hạ phong……）",
       "objection_links": []
     },
     {
@@ -249,7 +249,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro008|",
       "ja": "（だが、諦めて処刑を受け入れたりはできない）",
       "zh": "（但是，我不能放弃，不能心甘情愿接受处刑）",
-      "vi": "(Tuy nhiên, tôi không thể từ bỏ và sẵn sàng chấp nhận việc hành quyết)",
+      "vi": "（Thế nhưng mình tuyệt đối không thể bỏ cuộc và cam chịu bước lên đoạn đầu đài）",
       "objection_links": []
     },
     {
@@ -257,7 +257,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro009|",
       "ja": "（……気になるのは死体発見直前に聞こえたという【音】だ）",
       "zh": "（……不过，我最在意的还是发现尸体之前听到的那个【声音】）",
-      "vi": "(…Tuy nhiên, điều tôi quan tâm nhất là [giọng nói] tôi nghe thấy trước khi tìm thấy thi thể)",
+      "vi": "（……Điểm mấu chốt đáng nghi nhất chính là 【Tiếng Động】 mà họ nghe thấy ngay trước lúc phát hiện thi thể）",
       "objection_links": []
     },
     {
@@ -265,7 +265,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro010|",
       "ja": "（真犯人が【音】を鳴らしたのなら、<br>　その姿を誰も見ていないというのはおかしい）",
       "zh": "（如果真凶是在现场发出了【声音】，<br>\n却没有被人看到，那就太奇怪了）",
-      "vi": "(Nếu kẻ sát nhân thực sự tạo ra [âm thanh] tại hiện trường, Nhưng không ai nhìn thấy nó, điều đó thật kỳ lạ)",
+      "vi": "（Nếu hung thủ thực sự tạo ra tiếng động đó ngay tại hiện trường, thì việc không ai nhìn thấy bóng dáng hắn bỏ trốn là quá vô lý）",
       "objection_links": []
     },
     {
@@ -273,7 +273,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro011|",
       "ja": "（犯人は別の場所にいながら現場に音を響かせた……<br>　それを可能にする方法があるに違いない！）",
       "zh": "（凶手明明在别的地方，却能让声音在现场响起……<br>\n一定有什么方法可以做到这件事！）",
-      "vi": "(Kẻ sát nhân rõ ràng đang ở một nơi khác, nhưng hắn có thể tạo ra âm thanh vang lên tại hiện trường... Phải có cách nào đó để làm điều này! )",
+      "vi": "（Hung thủ ở một nơi khác nhưng vẫn có thể làm cho tiếng động phát ra tại căn phòng đó…… Chắc chắn phải có một thủ thuật nào đó cho phép làm điều này!）",
       "objection_links": []
     },
     {
@@ -281,7 +281,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro012|",
       "ja": "ココ、ミリア、レイア、ハンナの４人が<br>口裏を合わせれば、アリバイは偽装できる。",
       "zh": "如果可可、米莉亚、蕾雅和汉娜四个人串通好，<br>\n就能伪造不在场证明。",
-      "vi": "Nếu Coco, Miria, Leia và Hanna thông đồng, Bạn có thể giả mạo bằng chứng ngoại phạm.",
+      "vi": "Nếu cả bốn người Coco, Miria, Leia và Hanna thông đồng với nhau, thì hoàn toàn có thể làm giả bằng chứng ngoại phạm.",
       "objection_links": []
     },
     {
@@ -289,7 +289,7 @@
       "speaker_tag": "; > Coco: |#0201Trial05_Coco002|",
       "ja": "はあ！？",
       "zh": "哈啊！？",
-      "vi": "Hà!?",
+      "vi": "Hảaaa!?",
       "objection_links": []
     },
     {
@@ -297,7 +297,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia012|",
       "ja": "それは私たちが共犯ということかな？",
       "zh": "你说我们是共犯吗？",
-      "vi": "Bạn nói chúng tôi là đồng phạm?",
+      "vi": "Ý em là cả bốn chúng tôi đều là đồng phạm với nhau sao?",
       "objection_links": []
     },
     {
@@ -305,7 +305,7 @@
       "speaker_tag": "; > Miria: |#0201Trial05_Miria002|",
       "ja": "そ、それは無理があるような……。",
       "zh": "这、这也太牵强了吧……",
-      "vi": "Điều này, điều này quá xa vời...",
+      "vi": "C-Cái đó nghe gượng ép quá cháu ơi……",
       "objection_links": []
     },
     {
@@ -313,7 +313,7 @@
       "speaker_tag": "; > Hanna: |#0201Trial05_Hanna005|",
       "ja": "そんなこと、わたくしたちしてませんわ～！！",
       "zh": "我们绝对没有做这种事～！！",
-      "vi": "Chúng ta chắc chắn không làm điều đó~!!",
+      "vi": "Bọn ta đời nào lại đi làm cái trò thông đồng bẩn thỉu đó chứ nhaaa~~!!",
       "objection_links": []
     },
     {
@@ -321,7 +321,7 @@
       "speaker_tag": "; > AnAn: |#0201Trial05_AnAn001|",
       "ja": "『もし４人の共犯を疑うなら、その根拠を示すべき』",
       "zh": "『如果怀疑四人是共犯，就应该拿出证据』",
-      "vi": "“Nếu có bất kỳ nghi ngờ nào về việc bốn người này là đồng phạm, thì phải đưa ra bằng chứng.”",
+      "vi": "『Nếu muốn vu cáo bốn người bọn họ là đồng phạm, tiểu sinh đề nghị ngươi hãy đưa ra bằng chứng xác đáng』",
       "objection_links": []
     },
     {
@@ -329,7 +329,7 @@
       "speaker_tag": "; > AnAn: |#0201Trial05_AnAn002|",
       "ja": "何もないなら……ただの妄想だ。",
       "zh": "若没有证据……那就只是妄想罢了。",
-      "vi": "Nếu không có bằng chứng...thì đó chỉ là ảo tưởng.",
+      "vi": "Bằng không…… tất cả chỉ là lời hoang tưởng hồ đồ.",
       "objection_links": []
     },
     {
@@ -337,7 +337,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro013|",
       "ja": "（さすがに取り合ってもらえないか）",
       "zh": "（看来没人能接受这个说法）",
-      "vi": "(Dường như không ai có thể chấp nhận câu nói này)",
+      "vi": "（Xem ra cáo buộc này quá phi lý nên chẳng ai thèm đoái hoài）",
       "objection_links": []
     },
     {
@@ -345,7 +345,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro014|",
       "ja": "（この状況で無闇に複数人へと疑いを広げても、<br>　反感を買うだけだ）",
       "zh": "（在这种情况下，如果无端地将怀疑扩大到多人身上，<br>\n只会引起反感）",
-      "vi": "(Trong trường hợp này, nếu sự nghi ngờ lan sang nhiều người một cách vô lý, Nó sẽ chỉ gây ra sự oán giận)",
+      "vi": "（Trong tình cảnh này, vung vãi nghi ngờ vào số đông chỉ tổ chuốc thêm phản cảm）",
       "objection_links": []
     },
     {
@@ -353,7 +353,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro015|",
       "ja": "（疑惑を向けるにしろ、<br>　１人に絞るべき状況だな）",
       "zh": "（如果要提出怀疑，<br>\n也应该集中在一个人身上才对）",
-      "vi": "(Nếu nghi ngờ, Nó nên tập trung vào một người)",
+      "vi": "（Dẫu có muốn công kích thì cũng phải dồn toàn lực vào một mục tiêu cụ thể）",
       "objection_links": []
     },
     {
@@ -361,7 +361,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro016|",
       "ja": "（……気になるのは死体発見直前に聞こえたという【音】だ）",
       "zh": "（……不过，我最在意的还是发现尸体之前听到的那个【声音】）",
-      "vi": "(…Tuy nhiên, điều tôi quan tâm nhất là [giọng nói] tôi nghe thấy trước khi tìm thấy thi thể)",
+      "vi": "（……Điểm kỳ lạ nhất vẫn nằm ở 【Tiếng Động】 vang lên trước lúc mở cửa phát hiện thi thể）",
       "objection_links": []
     },
     {
@@ -369,7 +369,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro017|",
       "ja": "（真犯人が【音】を鳴らしたのなら、<br>　その姿を誰も見ていないというのはおかしい）",
       "zh": "（如果真凶是在现场发出了【声音】，<br>\n却没有被人看到，那就太奇怪了）",
-      "vi": "(Nếu kẻ sát nhân thực sự tạo ra [âm thanh] tại hiện trường, Nhưng không ai nhìn thấy nó, điều đó thật kỳ lạ)",
+      "vi": "（Nếu hung thủ cố tình gây ra tiếng động tại hiện trường, thì cớ sao không ai bắt gặp hắn tẩu thoát?）",
       "objection_links": []
     },
     {
@@ -377,7 +377,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro018|",
       "ja": "（犯人は別の場所にいながら現場に音を響かせた……<br>　それを可能にする方法があるに違いない！）",
       "zh": "（凶手明明在别的地方，却能让声音在现场响起……<br>\n一定有什么方法可以做到这件事！）",
-      "vi": "(Kẻ sát nhân rõ ràng đang ở một nơi khác, nhưng hắn có thể tạo ra âm thanh vang lên tại hiện trường... Phải có cách nào đó để làm điều này! )",
+      "vi": "（Hung thủ ở nơi khác nhưng lại phát ra âm thanh ngay tại hiện trường…… Nhất định phải có một phương tiện tạo âm thanh từ xa!）",
       "objection_links": []
     },
     {
@@ -385,7 +385,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro019|",
       "ja": "【音】とはどんな音だったのかな？",
       "zh": "那个【声音】究竟是怎样的声音呢？",
-      "vi": "[Âm thanh] đó là loại âm thanh gì?",
+      "vi": "【Tiếng Động】 đó cụ thể là âm thanh như thế nào?",
       "objection_links": []
     },
     {
@@ -393,7 +393,7 @@
       "speaker_tag": "; > Hanna: |#0201Trial05_Hanna006|",
       "ja": "何かが【パリン】と割れる短い音でしたわー！",
       "zh": "是某种东西【啪嚓】一声碎掉的，非常短促的声音！",
-      "vi": "Đó là một âm thanh rất ngắn của thứ gì đó vỡ thành từng mảnh!",
+      "vi": "Là tiếng thứ gì đó vỡ toang 【Xoảng】 một cái vô cùng đanh và dứt khoát nha!",
       "objection_links": []
     },
     {
@@ -401,7 +401,7 @@
       "speaker_tag": "; > Miria: |#0201Trial05_Miria003|",
       "ja": "ガラスビンが割れた……と考えるのが<br>やっぱりわかりやすいかな。",
       "zh": "就像玻璃瓶被打碎的声音……<br>\n这样想的话应该更容易理解吧。",
-      "vi": "Giống như tiếng chai thủy tinh bị vỡ... Sẽ dễ hiểu hơn nếu bạn nghĩ về nó theo cách này.",
+      "vi": "Nghe hệt như tiếng chai thủy tinh bị đập vỡ vụn…… nghĩ thế là trực quan và dễ hiểu nhất á.",
       "objection_links": []
     },
     {
@@ -409,7 +409,7 @@
       "speaker_tag": "; > Nanoka: |#0201Trial05_Nanoka001|",
       "ja": "その音は、現場を挟んだ階段側の<br>私たちの部屋からでも聞こえたわ。",
       "zh": "那个声音在我们房间也能听到。<br>\n我们的房间就在现场靠楼梯一侧的隔壁。",
-      "vi": "Âm thanh cũng có thể được nghe thấy trong phòng của chúng tôi. Phòng của chúng tôi nằm cạnh cầu thang của địa điểm.",
+      "vi": "Âm thanh đó vang rất rõ, ngay cả ở trong phòng tôi và Margo phía giáp cầu thang bên kia hiện trường cũng nghe thấy.",
       "objection_links": []
     },
     {
@@ -417,7 +417,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro020|",
       "ja": "（……死体のあったノアの部屋は、<br>　彼女たちの部屋に挟まれている）",
       "zh": "（……诺亚的房间，也就是尸体所在的房间，<br>\n正好位于她们房间的中间）",
-      "vi": "(…Phòng của Noah, căn phòng nơi thi thể, Ngay giữa phòng của họ)",
+      "vi": "（……Căn phòng của Noah nơi phát hiện thi thể nằm kẹp giữa phòng của nhóm Leia và phòng của Nanoka）",
       "objection_links": []
     },
     {
@@ -425,7 +425,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro021|",
       "ja": "（であれば、たしかにそこから聞こえたのかな）",
       "zh": "（这么说的话，她们那边确实有可能听见声音）",
-      "vi": "(Trong trường hợp này, có thể họ đã nghe thấy âm thanh ở đằng kia)",
+      "vi": "（Nếu vậy thì cả hai bên đều nghe thấy tiếng động phát ra từ căn phòng đó là điều hoàn toàn tự nhiên）",
       "objection_links": []
     },
     {
@@ -433,7 +433,7 @@
       "speaker_tag": "; > @toast \"|#Toast_001|\"",
       "ja": "魔女図鑑 更新…",
       "zh": "魔女图鉴 更新…",
-      "vi": "Cập nhật Sổ Tay Phù Thủy…",
+      "vi": "Cập nhật Sổ Tay Ma Nữ…",
       "objection_links": []
     },
     {
@@ -441,7 +441,7 @@
       "speaker_tag": "; > Miria: |#0201Trial05_Miria004|",
       "ja": "そして、おじさんたちは部屋に駆けつけたんだ。",
       "zh": "接着，大叔我们就立刻冲进了房间。",
-      "vi": "Sau đó, chú và chúng Miria lao vào phòng ngay.",
+      "vi": "Thế là mấy chú cháu liền hấp tấp ùa vào phòng kiểm tra.",
       "objection_links": []
     },
     {
@@ -449,7 +449,7 @@
       "speaker_tag": "; > @toast |#Toast_002|",
       "ja": "議論発展…",
       "zh": "讨论前进…",
-      "vi": "Cuộc thảo luận đang tiến triển…",
+      "vi": "Mở rộng tranh luận…",
       "objection_links": []
     },
     {
@@ -457,7 +457,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro022|",
       "ja": "私にしか犯行は不可能だって……？<br>いいや、そんなことはない。",
       "zh": "你说只有我才可能犯案……？<br>\n不，并非如此。",
-      "vi": "Bạn nói rằng chỉ có tôi mới có thể phạm tội...? Không, không phải vậy.",
+      "vi": "Chị bảo rằng chỉ có tôi mới có thể thực hiện tội ác……? Không, tuyệt đối không phải như vậy.",
       "objection_links": []
     },
     {
@@ -465,7 +465,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia013|",
       "ja": "……どういうことだい？",
       "zh": "……什么意思？",
-      "vi": "...nó có nghĩa là gì?",
+      "vi": "……Ý em là sao cơ?",
       "objection_links": []
     },
     {
@@ -473,7 +473,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro023|",
       "ja": "聞くところによれば、<br>君たちが聞いたのは【音】であって<br>私がメルルを殺した瞬間を見たわけじゃないんだよね？",
       "zh": "据我所知，<br>\n你们听到的都只是【声音】，<br>\n并没有亲眼目睹我杀害梅露露的瞬间，对吧？",
-      "vi": "Theo như tôi biết, Tất cả những gì bạn nghe thấy là [âm thanh], Cậu không chứng kiến khoảnh khắc tôi giết Meruru phải không?",
+      "vi": "Theo như những gì mọi người vừa nói, thứ mọi người nghe thấy chỉ là một 【Tiếng Động】, chứ không ai tận mắt chứng kiến khoảnh khắc tôi sát hại Meruru đúng không?",
       "objection_links": []
     },
     {
@@ -481,7 +481,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia014|",
       "ja": "それは……最初からそう言っているじゃないか。",
       "zh": "这……我们不是从一开始就这么说的吗。",
-      "vi": "Chuyện này... chẳng phải chúng ta đã nói điều này ngay từ đầu rồi sao?",
+      "vi": "Chuyện đó…… ngay từ đầu bọn tôi đã khẳng định rõ ràng như vậy rồi mà.",
       "objection_links": []
     },
     {
@@ -489,7 +489,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro024|",
       "ja": "……なら改めて聞かせてもらうとするけれど。",
       "zh": "……那么请允许我重新问一遍。",
-      "vi": "...Vậy xin cho phép tôi hỏi lại.",
+      "vi": "……Thế thì cho phép tôi được hỏi lại một câu nghiêm túc.",
       "objection_links": []
     },
     {
@@ -497,7 +497,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro025|",
       "ja": "その音、本当に【ガラスの割れた音】だったのかな？",
       "zh": "你们听到的那个声音，真的是【玻璃碎裂的声音】吗？",
-      "vi": "Âm thanh bạn nghe thấy có thực sự là [âm thanh kính vỡ] không?",
+      "vi": "Thứ âm thanh mà mọi người nghe thấy, liệu có thực sự là 【Tiếng Thủy Tinh Vỡ】 hay không?",
       "objection_links": []
     },
     {
@@ -505,7 +505,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia015|",
       "ja": "な……なんだって！？",
       "zh": "什……什么！？",
-      "vi": "Cái...cái gì!?",
+      "vi": "C-Cái gì cơ……!?",
       "objection_links": []
     },
     {
@@ -513,7 +513,7 @@
       "speaker_tag": "; > Miria: |#0201Trial05_Miria005|",
       "ja": "でも他になんの可能性があるっていうの……？",
       "zh": "可是，除此之外还有其他的可能吗……？",
-      "vi": "Nhưng, ngoài việc này còn có khả năng nào khác không...?",
+      "vi": "Nhưng mà ngoài cái đó ra thì còn có thể là tiếng gì khác được nữa cơ chứ……?",
       "objection_links": []
     },
     {
@@ -521,7 +521,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia016|",
       "ja": "……聞かせてもらおうか。",
       "zh": "……那就请你说说看吧。",
-      "vi": "...Vậy thì xin hãy nói cho tôi biết.",
+      "vi": "……Vậy thì em nói thử xem nào.",
       "objection_links": []
     },
     {
@@ -529,7 +529,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia017|",
       "ja": "私たちが聞いたガラスの割れる音……<br>それがなんだったのかを！",
       "zh": "我们听到的那声玻璃碎裂的声音……<br>\n究竟是什么！",
-      "vi": "Chúng tôi đã nghe thấy tiếng kính vỡ... Chính xác thì nó là gì!",
+      "vi": "Tiếng thủy tinh vỡ mà bọn tôi đã nghe thấy…… rốt cuộc là thứ gì chứ!",
       "objection_links": []
     },
     {
@@ -537,7 +537,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro026|",
       "ja": "正しい答えはひとつ。<br>君たちが聞いたガラスの音は……。",
       "zh": "正确的答案只有一个。<br>\n你们听到的那声玻璃声，其实是……",
-      "vi": "Chỉ có một câu trả lời đúng. Âm thanh của thủy tinh bạn nghe thấy thực ra là...",
+      "vi": "Chân tướng chỉ có một. Thứ âm thanh thủy tinh mà mọi người nghe thấy, thực chất chính là……",
       "objection_links": []
     },
     {
@@ -545,7 +545,7 @@
       "speaker_tag": "; > @choice |#0201Trial05_Choice005|",
       "ja": "ビンを投げて割った音",
       "zh": "扔瓶子砸碎的声音",
-      "vi": "Tiếng chai lọ bị ném và đập vỡ",
+      "vi": "Tiếng ném chai từ xa làm vỡ vụn",
       "objection_links": []
     },
     {
@@ -553,7 +553,7 @@
       "speaker_tag": "; > @choice |#0201Trial05_Choice006|",
       "ja": "偽装された音声",
       "zh": "伪造的声音",
-      "vi": "giọng giả",
+      "vi": "Âm thanh được thu âm sẵn để phát lại",
       "objection_links": []
     },
     {
@@ -561,7 +561,7 @@
       "speaker_tag": "; > @choice |#0201Trial05_Choice007|",
       "ja": "扉の開いた音",
       "zh": "门打开的声音",
-      "vi": "Âm thanh mở cửa",
+      "vi": "Tiếng kẽo kẹt khi cánh cửa mở ra",
       "objection_links": []
     },
     {
@@ -569,7 +569,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro027|",
       "ja": "遠くからビンを投げて、割った音だったんだ。",
       "zh": "是从远处投掷瓶子后，瓶子碎裂的声音。",
-      "vi": "Đó là âm thanh của một cái chai vỡ sau khi bị ném từ xa.",
+      "vi": "Đó là tiếng chiếc chai bị ném từ đằng xa vào phòng rồi vỡ tan tành.",
       "objection_links": []
     },
     {
@@ -577,7 +577,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro028|",
       "ja": "真犯人はメルルを殺したあと、<br>階段側の廊下の角まで移動し――。",
       "zh": "真凶在杀害梅露露之后，<br>\n移动到了楼梯一侧的走廊拐角处——",
-      "vi": "Sau khi kẻ sát nhân thực sự giết Meruru, Di chuyển đến góc hành lang bên cạnh cầu thang——",
+      "vi": "Hung thủ thực sự sau khi sát hại Meruru, đã nhanh chóng rút lui về góc hành lang phía cầu thang――",
       "objection_links": []
     },
     {
@@ -585,7 +585,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro029|",
       "ja": "ノアたちの部屋の前にめがけて<br>ビンを投げたんだ。",
       "zh": "然后，朝诺亚她们的房间门口<br>\n投掷了一个瓶子。",
-      "vi": "Sau đó, tiến về phía cửa phòng Noah Một cái chai được ném đi.",
+      "vi": "Rồi từ đó nhắm thẳng vào cửa phòng của Noah mà ném mạnh chiếc chai vào trong.",
       "objection_links": []
     },
     {
@@ -593,7 +593,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro030|",
       "ja": "そうすると、<br>ビンが割れた音に気を取られたレイアたちは<br>殺害現場に群がる……。",
       "zh": "这样一来，<br>\n被瓶子碎裂声吸引了注意力的蕾雅她们，<br>\n就会立刻聚集到杀害现场……",
-      "vi": "Bằng cách này, Leia và những người khác bị thu hút bởi tiếng chai vỡ, Họ sẽ ngay lập tức tập trung tại hiện trường vụ án mạng...",
+      "vi": "Làm như vậy, nhóm Leia bị tiếng vỡ thu hút sự chú ý sẽ lập tức túa ra bu kín hiện trường……",
       "objection_links": []
     },
     {
@@ -601,7 +601,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro031|",
       "ja": "そのうちに犯人は<br>階段方面へ逃げ去ったんだよ。",
       "zh": "而在此期间，凶手就可以<br>\n趁机向楼梯方向逃跑。",
-      "vi": "Trong thời gian này, kẻ sát nhân có thể Tận dụng cơ hội để trốn thoát về phía cầu thang.",
+      "vi": "Và lợi dụng lúc hỗn loạn đó, hung thủ đã ung dung men theo lối cầu thang thoát thân.",
       "objection_links": []
     },
     {
@@ -609,7 +609,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia018|",
       "ja": "……なるほど。<br>それなら成立するかもしれないね。",
       "zh": "……原来如此。<br>\n这么说的话，确实有可能成立。",
-      "vi": "...Chính là nó. Nếu bạn nói như vậy thì thực sự có thể.",
+      "vi": "……Ra là thế. Lập luận như vậy thì đúng là có thể xảy ra.",
       "objection_links": []
     },
     {
@@ -617,7 +617,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia019|",
       "ja": "音が鳴ったのは殺害時ではなく、<br>殺害の少しあとだった……<br>その推理なら、たしかに――。",
       "zh": "声音响起的时间不是杀害当时，<br>\n而是杀害后不久……<br>\n这么推理的话的确——",
-      "vi": "Thời điểm phát ra âm thanh không phải là thời điểm xảy ra án mạng, Nhưng ngay sau vụ giết người... Nếu cậu lý luận như vậy thì đó là sự thật——",
+      "vi": "Tiếng động vang lên không phải vào thời điểm nạn nhân bị giết, mà là một lúc sau khi gây án…… Nếu suy luận theo hướng đó thì quả thực――",
       "objection_links": []
     },
     {
@@ -625,7 +625,7 @@
       "speaker_tag": "; > Sherry: |#0201Trial05_Sherry001|",
       "ja": "――でもそれっておかしくないですか？",
       "zh": "——可是，你不觉得奇怪吗？",
-      "vi": "---Nhưng bạn có thấy lạ không?",
+      "vi": "――Thế nhưng mọi người không thấy điểm này rất vô lý sao ạ?",
       "objection_links": []
     },
     {
@@ -633,7 +633,7 @@
       "speaker_tag": "; > Sherry: |#0201Trial05_Sherry002|",
       "ja": "死亡推定時刻からいくと、<br>ずっと犯人はそこに留まっていたことになりますし……。",
       "zh": "根据推定死亡时间，<br>\n凶手应该是一直都留在房间里才对……",
-      "vi": "Dựa trên thời điểm tử vong được cho là, Lẽ ra kẻ sát nhân phải ở trong phòng suốt thời gian đó...",
+      "vi": "Căn cứ theo thời gian tử vong ước tính, nếu thế thì hung thủ phải nấn ná ở lì trong phòng suốt hơn 20 phút sau khi giết người lận á……",
       "objection_links": []
     },
     {
@@ -641,7 +641,7 @@
       "speaker_tag": "; > Sherry: |#0201Trial05_Sherry003|",
       "ja": "それに部屋の前にビンを投げたのなら、<br>【廊下に】ガラス片が落ちてないと<br>おかしいと思うんです。",
       "zh": "而且，如果是在房间门口投掷瓶子的话，<br>\n【走廊上】也应该会散落玻璃碎片<br>\n才对吧。",
-      "vi": "Hơn nữa, nếu ném chai rượu vào cửa phòng, [Trên hành lang] Chắc cũng có những mảnh thủy tinh vương vãi Đúng vậy.",
+      "vi": "Hơn nữa nếu đứng từ xa ném chai vào phía trước cửa, thì 【Ngoài Hành Lang】 chắc chắn phải vương vãi các mảnh vỡ thủy tinh mới đúng chứ!",
       "objection_links": []
     },
     {
@@ -649,7 +649,7 @@
       "speaker_tag": "; > Sherry: |#0201Trial05_Sherry004|",
       "ja": "でも欠片があったのは部屋の中でしたよね！",
       "zh": "但是，玻璃碎片却只存在于房间里面！",
-      "vi": "Tuy nhiên, những mảnh thủy tinh chỉ tồn tại trong phòng mà thôi!",
+      "vi": "Đằng này toàn bộ mảnh vỡ thủy tinh đều chỉ nằm gọn lỏn bên trong phòng thôi mà!",
       "objection_links": []
     },
     {
@@ -657,7 +657,7 @@
       "speaker_tag": "; > Sherry: |#0201Trial05_Sherry005|",
       "ja": "だからその推理は成立しませんよ！ ヒロさん！",
       "zh": "所以，你的这个推理是不成立的哦！希罗！",
-      "vi": "Vì vậy, lý luận của bạn không hợp lệ! Hiro!",
+      "vi": "Thế nên suy luận vừa rồi hoàn toàn bị bác bỏ nha, chị Hiro☆!",
       "objection_links": []
     },
     {
@@ -665,7 +665,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia020|",
       "ja": "……聞いてのとおりだ！ ヒロくん！<br>成立しないんじゃないかな！",
       "zh": "……你都听到了吧！希罗！<br>\n你的这个推理，好像根本站不住脚啊！",
-      "vi": "...bạn đã nghe thấy tất cả! Hiro! Lý do của bạn có vẻ không thuyết phục được!",
+      "vi": "……Em nghe thấy rồi chứ, Hiro-kun! Lập luận đó căn bản không thể đứng vững được đâu!",
       "objection_links": []
     },
     {
@@ -673,7 +673,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro032|",
       "ja": "（くっ……！<br>　あと少しで納得させられそうだったんだが……）",
       "zh": "（可恶……！<br>\n明明再差一点就能说服她们了……）",
-      "vi": "(Chết tiệt...! Rõ ràng là chỉ gần hơn một chút để thuyết phục họ...)",
+      "vi": "（Chết tiệt……! Suýt chút nữa là mình đã thuyết phục được bọn họ rồi……）",
       "objection_links": []
     },
     {
@@ -681,7 +681,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro033|",
       "ja": "（……私が犯人ではない以上、<br>　死体発見直前に現場でビンが割れたとは考えにくい）",
       "zh": "（……既然我不是凶手，那么在即将发现尸体时，<br>\n玻璃瓶在现场被打碎的可能性就很低了）",
-      "vi": "(...Vì tôi không phải là kẻ sát nhân nên khi xác chết sắp được tìm thấy, Khả năng chai thủy tinh bị vỡ tại hiện trường là rất thấp)",
+      "vi": "（……Một khi tôi không phải hung thủ, thì chuyện chiếc chai vỡ nát ngay trước lúc mở cửa là vô cùng bất hợp lý）",
       "objection_links": []
     },
     {
@@ -689,7 +689,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro034|",
       "ja": "（となれば、その【音】は――）",
       "zh": "（那么，那个【声音】究竟会是什么呢——）",
-      "vi": "(Vậy chính xác thì [giọng nói] đó có thể là gì——)",
+      "vi": "（Nếu vậy thì thứ 【Âm Thanh】 đó rốt cuộc là――）",
       "objection_links": []
     },
     {
@@ -697,7 +697,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro035|",
       "ja": "ノアたちの部屋の扉が開いた音だ。",
       "zh": "其实那是诺亚她们房间的门被打开的声音。",
-      "vi": "Trên thực tế, đó là âm thanh cửa phòng Noah mở ra.",
+      "vi": "Thực chất đó là tiếng kẽo kẹt phát ra khi cánh cửa phòng Noah được mở tung.",
       "objection_links": []
     },
     {
@@ -705,7 +705,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro036|",
       "ja": "真犯人が逃げ去る際に開けた扉が<br>鳴ってしまったんだよ。",
       "zh": "真凶在逃跑时，<br>\n不小心让门发出了声响。",
-      "vi": "Khi kẻ sát nhân thực sự đang trốn thoát, Cánh cửa vô tình phát ra tiếng động.",
+      "vi": "Hung thủ thực sự trong lúc vội vã tẩu thoát đã vô tình tạo ra tiếng động ở cánh cửa.",
       "objection_links": []
     },
     {
@@ -713,7 +713,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro037|",
       "ja": "みんなはその音を聞き間違えたんだ！",
       "zh": "大家肯定是听错声音了！",
-      "vi": "Chắc hẳn mọi người đã nghe nhầm âm thanh!",
+      "vi": "Mọi người nhất định đã nghe nhầm tiếng động đó thành tiếng vỡ!",
       "objection_links": []
     },
     {
@@ -721,7 +721,7 @@
       "speaker_tag": "; > Miria: |#0201Trial05_Miria006|",
       "ja": "いや～……。<br>さすがに扉の開閉する音と<br>ガラスの割れる音を間違えるのは……。",
       "zh": "不对啦～……<br>\n门开关的声音和玻璃碎裂的声音，<br>\n怎么都不可能听错吧……",
-      "vi": "Không đúng~…… Tiếng cửa đóng mở và tiếng kính vỡ, Không thể nào bạn nghe nhầm được...",
+      "vi": "Không phải đâu mà cháu ơi~…… Tiếng đóng mở cửa với tiếng thủy tinh vỡ loảng xoảng khác hẳn nhau, làm sao mà nhầm lẫn được cơ chứ……",
       "objection_links": []
     },
     {
@@ -729,7 +729,7 @@
       "speaker_tag": "; > Alisa: |#0201Trial05_Alisa001|",
       "ja": "んなもんどうやっても<br>聞き間違えられるわけねーだろ。",
       "zh": "你倒是说说<br>\n到底怎么才能听错这两种声音啊。",
-      "vi": "Bạn nên nói về Làm thế nào mà mày có thể nghe nhầm hai giọng nói này?",
+      "vi": "Mày có bị điếc không mà bảo nhầm được hai thứ âm thanh đấy với nhau hả.",
       "objection_links": []
     },
     {
@@ -737,7 +737,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro038|",
       "ja": "（さすがに聞き間違えないか……）",
       "zh": "（看来听错声音的说法还是太牵强了……）",
-      "vi": "(Có vẻ như việc nghe nhầm giọng nói đã quá xa vời...)",
+      "vi": "（Quả nhiên bảo họ nghe nhầm tiếng cửa là không xuôi rồi……）",
       "objection_links": []
     },
     {
@@ -745,7 +745,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro039|",
       "ja": "（……私が犯人ではない以上、<br>　死体発見直前に現場でビンが割れたとは<br>　考えにくい）",
       "zh": "（……既然我不是凶手，<br>\n那么在即将发现尸体时，<br>\n玻璃瓶在现场被打碎的可能性就很低了）",
-      "vi": "(…Vì tôi không phải là kẻ giết người, Rồi khi thi thể sắp được phát hiện, Khả năng chai thủy tinh bị vỡ tại hiện trường là rất thấp)",
+      "vi": "（……Một khi tôi vô tội, thì việc chiếc chai vỡ vụn ngay trước lúc họ ùa vào là hoàn toàn phi lý）",
       "objection_links": []
     },
     {
@@ -753,7 +753,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro040|",
       "ja": "（となれば、その【音】は――）",
       "zh": "（那么，那个【声音】究竟会是什么呢——）",
-      "vi": "(Vậy chính xác thì [giọng nói] đó có thể là gì——)",
+      "vi": "（Nếu vậy, bản chất thực sự của 【Âm Thanh】 đó phải là――）",
       "objection_links": []
     },
     {
@@ -761,7 +761,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro041|",
       "ja": "レイア、君は蓄音機というものを知っているかな。",
       "zh": "蕾雅，你知道留声机是什么东西吗？",
-      "vi": "Leia, bạn có biết máy hát là gì không?",
+      "vi": "Leia, chị có biết chiếc máy hát đĩa than là gì không?",
       "objection_links": []
     },
     {
@@ -769,7 +769,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia021|",
       "ja": "と、当然だろう……！<br>一般教養だ！",
       "zh": "这、这我当然知道了……！<br>\n这可是常识！",
-      "vi": "Tất nhiên là tôi biết điều này...! Đây là lẽ thường!",
+      "vi": "Đ-Đương nhiên là tôi biết rồi……! Đó là kiến thức thường thức cơ bản mà!",
       "objection_links": []
     },
     {
@@ -777,7 +777,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia022|",
       "ja": "さすがに本物を使ったことはないが……。",
       "zh": "虽然没有用过真品……",
-      "vi": "Mặc dù tôi chưa bao giờ sử dụng hàng thật...",
+      "vi": "Dẫu rằng tôi chưa từng trực tiếp sử dụng máy thật bao giờ……",
       "objection_links": []
     },
     {
@@ -785,7 +785,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia023|",
       "ja": "見たことはあるし、知識としても知っている……！",
       "zh": "但我见过，也了解相关的知识……！",
-      "vi": "Nhưng tôi đã xem và biết được những kiến thức liên quan...!",
+      "vi": "Nhưng tôi đã từng nhìn thấy qua và nắm rõ nguyên lý của nó……!",
       "objection_links": []
     },
     {
@@ -793,7 +793,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia024|",
       "ja": "それが、この事件になにか関係あるとでもいうのかい！？",
       "zh": "这和这起案件有什么关系吗！？",
-      "vi": "Chuyện này có liên quan gì đến vụ án này không??",
+      "vi": "Thế nhưng thứ đó thì có liên can quái gì tới vụ án mạng này chứ!?",
       "objection_links": []
     },
     {
@@ -801,7 +801,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro042|",
       "ja": "ああ、もちろん。",
       "zh": "嗯，当然有关系。",
-      "vi": "Vâng, tất nhiên là có.",
+      "vi": "Tất nhiên là có liên quan mật thiết rồi.",
       "objection_links": []
     },
     {
@@ -809,7 +809,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro043|",
       "ja": "その概念は、<br>発明されてから今も発展を続け……<br>そしてテクノロジーの発達とともにその姿を変えてきた。",
       "zh": "这个概念<br>\n自问世以来就持续发展至今……<br>\n并随着科技的进步，不断演变着它的形态。",
-      "vi": "Khái niệm này Nó đã tiếp tục phát triển kể từ khi thành lập... Và với sự tiến bộ của công nghệ, hình thức của nó tiếp tục phát triển.",
+      "vi": "Khái niệm ghi âm đó từ khi được phát minh cho tới nay vẫn không ngừng tiến hóa…… cùng với sự phát triển của công nghệ hiện đại, hình thái của nó đã thay đổi hoàn toàn.",
       "objection_links": []
     },
     {
@@ -817,7 +817,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro044|",
       "ja": "その発明の名を……【録音装置】という。",
       "zh": "而这项发明的名字……就叫做【录音装置】。",
-      "vi": "Và tên của phát minh này... được gọi là [thiết bị ghi âm].",
+      "vi": "Tên gọi của phát minh ấy…… chính là 【Thiết Bị Thu Âm】.",
       "objection_links": []
     },
     {
@@ -825,7 +825,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro045|",
       "ja": "現代では、スマホにも標準で搭載されている機能だ。",
       "zh": "在现代社会，这更是所有手机的标准必备功能。",
-      "vi": "Trong xã hội hiện đại, đây là tính năng tiêu chuẩn phải có của mọi điện thoại di động.",
+      "vi": "Trong thời đại ngày nay, đây là tính năng mặc định có sẵn trên mọi chiếc điện thoại thông minh.",
       "objection_links": []
     },
     {
@@ -833,7 +833,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia025|",
       "ja": "ぐぅっ！？<br>ま、まさか……！",
       "zh": "呃啊！？<br>\n难、难道说……！",
-      "vi": "Ờ-huh!? Khó nói lắm...!",
+      "vi": "Hực……!? C-Chẳng lẽ là……!",
       "objection_links": []
     },
     {
@@ -841,7 +841,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro046|",
       "ja": "ここまで言えば、君でも気付いたようだ。",
       "zh": "都说到这份上了，想必你也明白了。",
-      "vi": "Bây giờ chúng ta đã nói về điều này, tôi nghĩ bạn đã hiểu.",
+      "vi": "Nói tới mức này rồi thì chắc chị cũng tự hiểu ra vấn đề rồi chứ.",
       "objection_links": []
     },
     {
@@ -849,7 +849,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro047|",
       "ja": "君たちの聞いた【音】……。",
       "zh": "你们听到的【声音】……",
-      "vi": "[Âm thanh] bạn nghe thấy...",
+      "vi": "Thứ 【Âm Thanh】 mà mọi người đã nghe thấy……",
       "objection_links": []
     },
     {
@@ -857,7 +857,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro048|",
       "ja": "それは……<br>【録音された音】だったんだ！",
       "zh": "其实是……<br>\n【事先录制下来的声音】！",
-      "vi": "Thực ra... [Giọng nói được ghi âm trước]!",
+      "vi": "Thực chất chính là……<br>【Âm Thanh Được Thu Âm Sẵn Từ Trước】!",
       "objection_links": []
     },
     {
@@ -865,7 +865,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia026|",
       "ja": "がはっ……！？",
       "zh": "嘎啊……！？",
-      "vi": "Gaah...!?",
+      "vi": "Khục……!?",
       "objection_links": []
     },
     {
@@ -873,7 +873,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro049|",
       "ja": "アラーム、もしくは着信音などに設定しておけば、<br>犯人は自由に音を鳴らすことができる。",
       "zh": "如果将录音设置为闹铃音，或是来电提示音，<br>\n凶手就可以随意播放这段声音。",
-      "vi": "Nếu bản ghi được đặt làm âm báo thức hoặc âm báo cuộc gọi đến, Kẻ sát nhân có thể tùy ý phát ra âm thanh này.",
+      "vi": "Chỉ cần cài file ghi âm làm chuông báo thức hoặc nhạc chuông cuộc gọi hẹn giờ, hung thủ hoàn toàn có thể kích hoạt âm thanh phát ra bất cứ lúc nào hắn muốn.",
       "objection_links": []
     },
     {
@@ -881,7 +881,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro050|",
       "ja": "しかも君たちの話を聞けば、<br>その音は【パリン】という<br>大変短い音だったそうじゃないか。",
       "zh": "而且根据各位所说，<br>\n那个声音是非常短暂的<br>\n【啪嚓】一声，对不对。",
-      "vi": "Và theo những gì bạn đã nói, Âm thanh đó rất ngắn [Crack] Một âm thanh phải không?",
+      "vi": "Hơn nữa theo lời mọi người miêu tả, âm thanh đó chỉ là một tiếng 【Xoảng】 cực kỳ ngắn ngủi và đanh gọn đúng không nào.",
       "objection_links": []
     },
     {
@@ -889,7 +889,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro051|",
       "ja": "ならば、多少音質が悪くても気付かないはずだ。",
       "zh": "那么，即使录音的音质稍微差一些，应该也不太会察觉得到才对。",
-      "vi": "Vì vậy, ngay cả khi chất lượng âm thanh của bản ghi kém hơn một chút thì cũng không đáng chú ý.",
+      "vi": "Trong một tích tắc ngắn ngủi như thế, dẫu cho chất lượng loa ngoài có đôi chút rè méo thì cũng chẳng một ai có thể nhận ra được.",
       "objection_links": []
     },
     {
@@ -897,7 +897,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro052|",
       "ja": "録音ではなかったと……<br>いったい誰が証明できるのかな。",
       "zh": "究竟谁能够证明……<br>\n那声音并不是录音呢？",
-      "vi": "Ai có thể chứng minh... Vậy âm thanh đó không phải là bản ghi âm?",
+      "vi": "Bảo rằng đó không phải là âm thanh thu âm phát lại…… Rốt cuộc ở đây có ai dám đứng ra chứng minh không?",
       "objection_links": []
     },
     {
@@ -905,7 +905,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia027|",
       "ja": "なん……だと……！",
       "zh": "什……么……！",
-      "vi": "Cái...cái gì...!",
+      "vi": "Cái…… gì cơ……!",
       "objection_links": []
     },
     {
@@ -913,7 +913,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro053|",
       "ja": "……なに、気に病む必要はない。",
       "zh": "……唉，你也不用太介怀。",
-      "vi": "…Ồ, bạn không cần phải lo lắng quá đâu.",
+      "vi": "……Không sao, chị không cần phải tự dằn vặt đâu.",
       "objection_links": []
     },
     {
@@ -921,7 +921,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro054|",
       "ja": "一瞬の音だったのだし、<br>君たちが違和感に気付かなくても<br>おかしなことじゃないよ。",
       "zh": "毕竟那只是一瞬间的声音，<br>\n你们没有察觉到异常之处<br>\n也很正常。",
-      "vi": "Suy cho cùng thì đó chỉ là một âm thanh nhất thời mà thôi, Bạn không nhận thấy điều gì bất thường Điều đó cũng bình thường.",
+      "vi": "Âm thanh đó chỉ diễn ra trong chớp mắt, việc các người không phát hiện ra điểm bất thường cũng là điều hết sức bình thường thôi.",
       "objection_links": []
     },
     {
@@ -929,7 +929,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro055|",
       "ja": "ただ……<br>それを根拠に私を犯人あつかいするのは<br>あらためてもらおうか！",
       "zh": "只不过……<br>\n我希望各位可以重新作出判断，<br>\n究竟要不要仅仅以此为据，就断定我是凶手！",
-      "vi": "Chỉ là... Tôi hy vọng bạn có thể đưa ra nhận định mới, Tôi có nên lấy điều này làm cơ sở để kết luận rằng tôi là kẻ giết người không?",
+      "vi": "Chỉ có điều…… Hãy lập tức rút lại cái kết luận vội vã chỉ dựa trên tiếng động đó để quy chụp tôi là kẻ giết người đi!",
       "objection_links": []
     },
     {
@@ -937,7 +937,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia028|",
       "ja": "ぐ……！？",
       "zh": "唔……！？",
-      "vi": "Ờ...!?",
+      "vi": "Hự……!?",
       "objection_links": []
     },
     {
@@ -945,7 +945,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro056|",
       "ja": "（……さて、可能性は示したが）",
       "zh": "（……好了，我已经提出了新的可能性）",
-      "vi": "(…được rồi, tôi vừa nghĩ ra những khả năng mới)",
+      "vi": "（……Được rồi, mình đã vạch ra một khả năng mới để phá vỡ thế bế tắc）",
       "objection_links": []
     },
     {
@@ -953,7 +953,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro057|",
       "ja": "（正直、確証があるわけじゃない。<br>　反証があると辛いが――）",
       "zh": "（不过老实说，我并没有确凿的证据。<br>\n如果出现反证，情况就会变得棘手——）",
-      "vi": "(Thành thật mà nói, tôi không có bằng chứng chắc chắn. Nếu có bằng chứng trái ngược, tình hình sẽ trở nên khó khăn——)",
+      "vi": "（Thế nhưng nói thật lòng, mình chẳng hề có chứng cứ xác thực trong tay. Nếu đối phương đưa ra phản chứng đanh thép thì gay go to――）",
       "objection_links": []
     },
     {
@@ -961,7 +961,7 @@
       "speaker_tag": "; > Miria: |#0201Trial05_Miria007|",
       "ja": "――で、でもちょっと待って欲しい……かも。",
       "zh": "——那、那个……请大家等一等……",
-      "vi": "--Cái đó, cái đó...xin vui lòng đợi một lát...",
+      "vi": "――N-Nhưng mà, chú nghĩ mọi người nên chờ một chút…… đã.",
       "objection_links": []
     },
     {
@@ -969,7 +969,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro058|",
       "ja": "……なんだい。<br>何か問題でもあったかな。",
       "zh": "……怎么了，<br>\n有什么问题吗？",
-      "vi": "...Có chuyện gì thế, Có câu hỏi nào không?",
+      "vi": "……Sao thế? Chú thấy có vấn đề gì ở lập luận vừa rồi à?",
       "objection_links": []
     },
     {
@@ -977,7 +977,7 @@
       "speaker_tag": "; > Miria: |#0201Trial05_Miria008|",
       "ja": "それがさ……<br>現場にはメルルちゃんのスマホは<br>【なかった】んだよね……。",
       "zh": "是这样的……<br>\n在现场，并【没有】发现<br>\n小梅的手机……",
-      "vi": "Nó như thế này... Tại hiện trường, [không] tìm thấy Điện thoại di động của Xiaomei...",
+      "vi": "Chuyện là thế này nè…… Ở hiện trường, chú 【Không Hề Thấy】 chiếc điện thoại di động nào của Meruru-chan cả……",
       "objection_links": []
     },
     {
@@ -985,7 +985,7 @@
       "speaker_tag": "; > Miria: |#0201Trial05_Miria009|",
       "ja": "音を録音したって言っても……<br>それをできる機材がないとできないんじゃないかな？",
       "zh": "虽然你主张声音是事先准备的录音……<br>\n可如果不存在相应的播放设备，主张也就没法成立吧？",
-      "vi": "Mặc dù bạn khẳng định rằng âm thanh đó là bản ghi âm được chuẩn bị trước... Nhưng nếu không có thiết bị phát tương ứng thì không thể xác lập được yêu cầu bồi thường, phải không?",
+      "vi": "Dẫu cho cháu có bảo âm thanh đó được phát từ file ghi âm…… nhưng nếu ở hiện trường không hề có thiết bị phát lại nào thì giả thuyết đâu thể đứng vững được đúng hong?",
       "objection_links": []
     },
     {
@@ -993,7 +993,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro059|",
       "ja": "………！",
       "zh": "………！",
-      "vi": "………！",
+      "vi": "………!",
       "objection_links": []
     },
     {
@@ -1001,7 +1001,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro060|",
       "ja": "（他に音を再生できるものが現場にあった可能性はある。<br>　しかし、一番考えやすい可能性としては……）",
       "zh": "（现场有可能还存在其他能播放声音的设备。<br>\n不过，最容易想到的可能性是……）",
-      "vi": "(Có thể có các thiết bị khác có thể phát âm thanh tại chỗ. Tuy nhiên, khả năng dễ nghĩ đến nhất là...)",
+      "vi": "（Không loại trừ khả năng còn có thiết bị phát âm thanh nào khác tại hiện trường. Thế nhưng khả năng dễ nghĩ tới nhất là……）",
       "objection_links": []
     },
     {
@@ -1009,7 +1009,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro061|",
       "ja": "……もしかしたら、犯人が持ち去ったのかもしれない。<br>もしくはメルルが最初から持っていなかったか……。",
       "zh": "……也许是被凶手带走了。<br>\n又或者，梅露露从一开始就没有带手机……",
-      "vi": "…Có lẽ anh ta đã bị tên sát nhân bắt đi. Hoặc có lẽ ngay từ đầu Meruru đã không mang theo điện thoại di động…",
+      "vi": "……Biết đâu chiếc điện thoại đã bị hung thủ tiện tay mang đi mất rồi. Hoặc ngay từ đầu Meruru đã không hề mang điện thoại theo người……",
       "objection_links": []
     },
     {
@@ -1017,7 +1017,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema001|",
       "ja": "いや……メルルちゃんは、<br>スマホを持ってたはずだよ。<br>……殺される直前まで。",
       "zh": "不……梅露露她<br>\n应该是带着手机的。<br>\n……直到她遇害前的那一刻为止。",
-      "vi": "Không...Meruru, cô ấy Lẽ ra anh ấy nên mang theo một chiếc điện thoại di động....cho đến thời điểm trước khi cô ấy bị giết.",
+      "vi": "Không đâu…… Meruru-chan chắc chắn có mang theo điện thoại bên mình mà.<br>……Cho tới tận khoảnh khắc trước khi bạn ấy bị sát hại.",
       "objection_links": []
     },
     {
@@ -1025,7 +1025,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro062|",
       "ja": "……っ！",
       "zh": "……！",
-      "vi": "……！",
+      "vi": "……Hực!",
       "objection_links": []
     },
     {
@@ -1033,7 +1033,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro063|",
       "ja": "（エマ……！）",
       "zh": "（艾玛……！）",
-      "vi": "（Ema……！）",
+      "vi": "（Ema……!）",
       "objection_links": []
     },
     {
@@ -1041,7 +1041,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema002|",
       "ja": "メルルちゃんの死亡推定時刻は<br>死体発見の３０分ぐらい前……<br>それで間違いないよね？",
       "zh": "梅露露的推定死亡时间，<br>\n是发现尸体时的大约30分钟前……<br>\n没错吧？",
-      "vi": "Thời điểm được cho là của Meruru qua đời, Phải mất khoảng 30 phút thi thể mới được tìm thấy... Đúng không?",
+      "vi": "Thời gian tử vong ước tính của Meruru-chan là khoảng tầm 30 phút trước lúc phát hiện thi thể…… đúng như thế phải không?",
       "objection_links": []
     },
     {
@@ -1049,7 +1049,7 @@
       "speaker_tag": "; > Leia: |#0201Trial05_Leia029|",
       "ja": "正確には、【２０分以上前】だね。<br>その点は、私が保証しようじゃないか。",
       "zh": "准确地说，是【至少20分钟前】。<br>\n这一点我可以担保。",
-      "vi": "Nói chính xác thì là [ít nhất 20 phút trước]. Tôi có thể đảm bảo điều này.",
+      "vi": "Chính xác thì là 【Trên 20 phút trước】. Về điểm này tôi xin lấy danh dự bảo đảm.",
       "objection_links": []
     },
     {
@@ -1057,7 +1057,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema003|",
       "ja": "なら……やっぱりヒロちゃん以外、<br>メルルちゃんを殺せる人は<br>いないのかもしれない……。",
       "zh": "那么……看来除了希罗之外，<br>\n确实再没有人<br>\n能够杀害梅露露了……",
-      "vi": "Vậy...có vẻ như ngoại trừ Hiro, Thực sự không còn ai nữa Có thể giết Meruru...",
+      "vi": "Nếu vậy thì…… có lẽ ngoài Hiro-chan ra, thực sự không còn ai khác có cơ hội ra tay sát hại Meruru-chan nữa rồi……",
       "objection_links": []
     },
     {
@@ -1065,7 +1065,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro064|",
       "ja": "（なんだと……！）",
       "zh": "（什么……！）",
-      "vi": "(Cái gì...!)",
+      "vi": "（Cái gì cơ……!）",
       "objection_links": []
     },
     {
@@ -1073,7 +1073,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema004|",
       "ja": "ボクはメルルちゃんの死体が発見される<br>【３０分ぐらい前】、２階にいたんだ。",
       "zh": "在发现梅露露的尸体的<br>\n【大约30分钟前】，我正在二楼。",
-      "vi": "Tại nơi tìm thấy thi thể của Meruru [Khoảng 30 phút trước], tôi đang ở trên tầng hai.",
+      "vi": "Vào khoảng 【Tầm 30 phút trước】 khi phát hiện thi thể của Meruru-chan, mình lúc đó đang ở trên tầng hai.",
       "objection_links": []
     },
     {
@@ -1081,7 +1081,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema005|",
       "ja": "そこにはノアちゃんとアンアンちゃんがいて……。",
       "zh": "当时我在那里见过诺亚和安安……",
-      "vi": "Lúc đó tôi đã gặp Noah và AnAn ở đó...",
+      "vi": "Ở đó mình đã gặp Noah-chan và AnAn-chan……",
       "objection_links": []
     },
     {
@@ -1089,7 +1089,7 @@
       "speaker_tag": "; > Noah: |#0201Trial05_Noah001|",
       "ja": "うん！ エマちゃんとバイバイしたよね。",
       "zh": "嗯！我们有和艾玛说过拜拜哦。",
-      "vi": "Vâng! Chúng Noah đã nói lời tạm biệt với Ema.",
+      "vi": "Chuẩn luôn! Tụi này có vẫy tay chào tạm biệt Ema-chan nè.",
       "objection_links": []
     },
     {
@@ -1097,7 +1097,7 @@
       "speaker_tag": "; > AnAn: |#0201Trial05_AnAn003|",
       "ja": "『間違いない。<br>　わがはいたちはその後、ずっと一緒にいた』",
       "zh": "『没错。<br>\n之后吾辈和诺亚一直在一起』",
-      "vi": "\"Đúng vậy. Kể từ đó, Noah và tôi đã ở bên nhau.”",
+      "vi": "『Không sai một li. Sau đó tiểu sinh và Noah luôn ở cạnh nhau không rời nửa bước』",
       "objection_links": []
     },
     {
@@ -1105,7 +1105,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema006|",
       "ja": "……ボクが２人と別れてすぐ、<br>メルルちゃんから電話がかかってきたんだ。",
       "zh": "……我和她们两个道别后没过多久，<br>\n就接到了梅露露给我打来的电话。",
-      "vi": "...Không lâu sau khi tôi nói lời tạm biệt với hai người họ, Sau đó tôi nhận được cuộc gọi từ Meruru.",
+      "vi": "……Ngay sau khi chia tay hai bạn ấy, mình đã nhận được một cuộc gọi từ Meruru-chan.",
       "objection_links": []
     },
     {
@@ -1113,7 +1113,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema007|",
       "ja": "そこで少しだけ……<br>メルルちゃんと通話したんだ。",
       "zh": "紧接着……<br>\n我和梅露露短暂地通话了。",
-      "vi": "Ngay sau đó... Meruru và tôi nói chuyện ngắn gọn.",
+      "vi": "Và mình đã nói chuyện điện thoại với bạn ấy một lúc ngắn ngủi.",
       "objection_links": []
     },
     {
@@ -1121,7 +1121,7 @@
       "speaker_tag": "; > Sherry: |#0201Trial05_Sherry006|",
       "ja": "では……エマさんとレイアさんの証言を合わせると、<br>メルルさんが死んだのは２０分から３０分前の間<br>ということになりますね！",
       "zh": "那么……结合艾玛和蕾雅的证词，<br>\n梅露露的死亡时间应该就是<br>\n在20到30分钟前的这段时间内！",
-      "vi": "Vì vậy... kết hợp với lời khai của Ema và Leia, Thời gian chết của Meruru có lẽ là Trong khoảng thời gian này từ 20 đến 30 phút trước!",
+      "vi": "Thế thì…… kết hợp lời khai của chị Ema và chị Leia lại, thời điểm chị Meruru bị sát hại chắc chắn nằm trong khoảng từ 20 đến 30 phút trước đúng hong nè☆!",
       "objection_links": []
     },
     {
@@ -1129,7 +1129,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema008|",
       "ja": "うん、そうなんだ。",
       "zh": "嗯，对的。",
-      "vi": "Vâng, đúng vậy.",
+      "vi": "Ừm, đúng là như vậy đấy.",
       "objection_links": []
     },
     {
@@ -1137,7 +1137,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema009|",
       "ja": "そしてそのあとすぐに、ボクはラウンジで<br>シェリーちゃんたちに会っていて……。",
       "zh": "在那之后没过多久，我就在会客厅里<br>\n遇到了雪莉她们……",
-      "vi": "Không lâu sau đó, tôi đã ở trong phòng khách Đã gặp Sherry và những người khác...",
+      "vi": "Và ngay sau cuộc gọi đó, mình đã bước xuống phòng sinh hoạt chung và gặp nhóm Sherry-chan……",
       "objection_links": []
     },
     {
@@ -1145,7 +1145,7 @@
       "speaker_tag": "; > Sherry: |#0201Trial05_Sherry007|",
       "ja": "あのとき、私とアリサさんが<br>最初にラウンジにいたんです！",
       "zh": "当时，我和亚里沙<br>\n一开始就在会客厅里了！",
-      "vi": "Lúc đó, Alisa và tôi Ngay từ đầu nó đã ở trong phòng khách rồi!",
+      "vi": "Lúc đó em với chị Alisa là những người có mặt đầu tiên ở phòng sinh hoạt chung ạ!",
       "objection_links": []
     },
     {
@@ -1153,7 +1153,7 @@
       "speaker_tag": "; > Nanoka: |#0201Trial05_Nanoka002|",
       "ja": "そして桜羽エマと同じタイミングで、<br>私と宝生マーゴが合流したわね。",
       "zh": "然后，我和宝生玛格<br>\n与樱羽艾玛几乎同时来到了会客厅。",
-      "vi": "Sau đó, Baosheng Mag và tôi Ema Sakuraba gần như đến phòng khách cùng lúc.",
+      "vi": "Và tôi cùng Houshou Margo đã hội ngộ ở đó gần như cùng một thời điểm với Sakuraba Ema.",
       "objection_links": []
     },
     {
@@ -1161,7 +1161,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema010|",
       "ja": "そのあと、<br>アリサちゃんとシェリーちゃんがラウンジに残って、<br>ボクは外に出たんだ。",
       "zh": "之后，<br>\n亚里沙和雪莉留在了会客厅，<br>\n而我则是去了外面。",
-      "vi": "Sau đó, Alisa và Sherry ở trong phòng khách, Và tôi đi ra ngoài.",
+      "vi": "Sau đó, Alisa-chan và Sherry-chan tiếp tục ở lại phòng sinh hoạt chung, còn mình thì đi ra ngoài sảnh.",
       "objection_links": []
     },
     {
@@ -1169,7 +1169,7 @@
       "speaker_tag": "; > Margo: |#0201Trial05_Margo001|",
       "ja": "私とナノカちゃんは自分の部屋に戻ったわ。<br>そこから死体発見までの間、２人は一緒にいたの。",
       "zh": "我和奈叶香回了房间。<br>\n从那时起，直到尸体被发现，我们两个就一直在一起。",
-      "vi": "Nanoka và Chị quay lại phòng. Từ đó cho đến khi tìm thấy xác, hai chúng Chị vẫn ở bên nhau.",
+      "vi": "Còn chị với Nanoka-chan thì cùng nhau quay về phòng. Từ lúc đó cho tới tận khi phát hiện ra thi thể, hai người bọn chị luôn ở bên cạnh nhau suốt nha.",
       "objection_links": []
     },
     {
@@ -1177,7 +1177,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema011|",
       "ja": "……そして、レイアちゃんたち４人は<br>みんな一緒にいた。",
       "zh": "……而蕾雅她们四个人，<br>\n也一直都在一起。",
-      "vi": "...Và Leia và bốn người họ, Cũng luôn ở bên nhau.",
+      "vi": "……Và bốn người bên phía Leia-chan thì cũng luôn ở cùng một chỗ trong phòng.",
       "objection_links": []
     },
     {
@@ -1185,7 +1185,7 @@
       "speaker_tag": "; > Sherry: |#0201Trial05_Sherry008|",
       "ja": "つまり……。",
       "zh": "也就是说……",
-      "vi": "Tức là...",
+      "vi": "Như vậy nghĩa là……",
       "objection_links": []
     },
     {
@@ -1193,7 +1193,7 @@
       "speaker_tag": "; > Sherry: |#0201Trial05_Sherry009|",
       "ja": "みんな【アリバイ】があるってことですね！",
       "zh": "大家都有【不在场证明】呢！",
-      "vi": "Mọi người đều có [bằng chứng ngoại phạm]!",
+      "vi": "Tất cả mọi người đều có 【Chứng Cứ Ngoại Phạm】 vững như bàn thạch rồi nha☆!",
       "objection_links": []
     },
     {
@@ -1201,7 +1201,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema012|",
       "ja": "この中でアリバイがないのは……。",
       "zh": "其中唯一没有不在场证明的……",
-      "vi": "Người duy nhất không có bằng chứng ngoại phạm...",
+      "vi": "Trong số chúng ta, người duy nhất không thể chứng minh chứng cứ ngoại phạm……",
       "objection_links": []
     },
     {
@@ -1209,7 +1209,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema013|",
       "ja": "……ヒロちゃん。<br>キミだけなんだ。",
       "zh": "……希罗，<br>\n只有你一个人。",
-      "vi": "...Xin chào, Chỉ là bạn thôi.",
+      "vi": "……Hiro-chan.<br>Chỉ có duy nhất một mình bạn mà thôi.",
       "objection_links": []
     },
     {
@@ -1217,7 +1217,7 @@
       "speaker_tag": "; > Hiro: |#0201Trial05_Hiro065|",
       "ja": "（エマ……！<br>　まさか……私を処刑するために……！）",
       "zh": "（艾玛……！<br>\n你该不会是……想处决我吧……！）",
-      "vi": "(Ema...! Chẳng lẽ ngươi... muốn xử tử ta...! )",
+      "vi": "（Ema……!<br>Chẳng lẽ…… cậu đang cố tình dồn tôi vào chỗ chết để tống tôi lên đoạn đầu đài sao……!）",
       "objection_links": []
     },
     {
@@ -1225,7 +1225,7 @@
       "speaker_tag": "; > Ema: |#0201Trial05_Ema014|",
       "ja": "……もう一度、整理しよう。<br>みんなのアリバイを。",
       "zh": "……我们来重新整理一下<br>\n大家的不在场证明吧。",
-      "vi": "…hãy tổ chức lại Mọi người đều có bằng chứng ngoại phạm.",
+      "vi": "……Chúng ta hãy cùng nhau xâu chuỗi và tổng kết lại một lần nữa nhé. Chứng cứ ngoại phạm của tất cả mọi người.",
       "objection_links": []
     }
   ]
